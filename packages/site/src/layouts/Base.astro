@@ -1,0 +1,85 @@
+---
+/**
+ * Site shell used by every page.
+ *
+ * Props
+ * - title: page title (the site name is appended)
+ * - description: meta description
+ * - noindex: adds <meta name="robots" content="noindex"> (job pages)
+ * - current: which nav item is active ('explore' | 'saved' | 'alerts' | 'status' | 'about')
+ *
+ * No inline scripts or styles: the Content Security Policy in public/_headers
+ * allows only same-origin files. CSS comes from src/styles/global.css and the
+ * "Updated N min ago" indicator from src/scripts/updated.ts, both emitted as
+ * external files by Astro.
+ */
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  noindex?: boolean;
+  current?: 'explore' | 'saved' | 'alerts' | 'status' | 'about';
+}
+
+const {
+  title,
+  description = 'Every open US tech internship, polled hourly from employers’ own job boards.',
+  noindex = false,
+  current,
+} = Astro.props;
+
+const REPO = 'https://github.com/alterj07/walkpath';
+const nav: Array<{ key: NonNullable<Props['current']>; href: string; label: string }> = [
+  { key: 'explore', href: '/', label: 'Explore' },
+  { key: 'saved', href: '/saved', label: 'Saved' },
+  { key: 'alerts', href: '/alerts', label: 'Alerts' },
+  { key: 'status', href: '/status', label: 'Status' },
+  { key: 'about', href: '/about', label: 'About' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} · WalkPath</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="color-scheme" content="light dark" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">Walk<span>Path</span></a>
+        <nav class="nav" aria-label="Main">
+          {nav.map((item) => (
+            <a href={item.href} aria-current={current === item.key ? 'page' : undefined}>{item.label}</a>
+          ))}
+        </nav>
+        <span class="updated" id="updated-at" data-updated-at hidden></span>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          WalkPath is a technology provider and job-search aggregator, not an employer or recruiter.
+          Listings link to the employer's own apply page. We never email students and never ask for personal information.
+        </p>
+        <ul class="links">
+          <li><a href="/about">About</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+          <li><a href={`${REPO}/blob/main/docs/opt-out.md`} rel="noopener">Employer opt-out</a></li>
+          <li><a href={`${REPO}/issues/new?template=report-listing.yml`} rel="noopener">Report a listing</a></li>
+          <li><a href={REPO} rel="noopener">Source on GitHub</a></li>
+        </ul>
+      </div>
+    </footer>
+    <script src="../scripts/updated.ts"></script>
+  </body>
+</html>

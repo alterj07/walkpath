@@ -1,15 +1,15 @@
 ---
-const title = 'WalkPath';
+import Base from '../layouts/Base.astro';
+import ExploreTable from '../components/ExploreTable.tsx';
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-  </head>
-  <body>
-    <h1>{title}</h1>
-    <p>Free US tech internships, updated hourly.</p>
-  </body>
-</html>
+
+<Base title="US tech internships, updated hourly" current="explore">
+  <div class="hero">
+    <h1>Every open US tech internship, polled hourly from employers' own job boards</h1>
+    <p>
+      Free, no account. Showing roles posted in the last 24 hours by default; widen the window or
+      filter by role family, state, season and work arrangement. Links go straight to the employer.
+    </p>
+  </div>
+  <ExploreTable client:load />
+</Base>

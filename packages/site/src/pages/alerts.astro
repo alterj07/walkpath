@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { FAMILIES, FAMILY_LABELS } from '../lib/data.ts';
+
+const REPO = 'https://github.com/alterj07/walkpath';
+// Absolute feed URLs when `site` is configured (astro.config.mjs reads SITE_URL).
+const base = Astro.site ? Astro.site.toString().replace(/\/+$/, '') : '';
+const feed = (path: string) => `${base}${path}`;
+---
+
+<Base title="Alerts" description="RSS feeds, Discord and Telegram alerts for new US tech internships, posted every hour." current="alerts">
+  <div class="prose">
+    <h1>Alerts</h1>
+    <p>
+      Every hourly run publishes the internships it found to feeds and channels you can subscribe to.
+      No email list, no account: pick whichever you already use.
+    </p>
+
+    <h2>RSS / Atom feeds</h2>
+    <p>Paste any of these into a feed reader. Each entry links to the job page on this site.</p>
+    <ul>
+      <li><code>{feed('/feeds/all.xml')}</code> — every new internship</li>
+      <li><code>{feed('/feeds/remote.xml')}</code> — remote roles only</li>
+      <li><code>{feed('/feeds/state-XX.xml')}</code> — one per state, for example <code>{feed('/feeds/state-CA.xml')}</code> or <code>{feed('/feeds/state-NY.xml')}</code></li>
+      {FAMILIES.map((f) => (
+        <li><code>{feed(`/feeds/${f}.xml`)}</code> — {FAMILY_LABELS[f]}</li>
+      ))}
+    </ul>
+
+    <h2>Discord</h2>
+    <p>
+      A public server with one channel per role family; the pipeline posts a batched digest of new
+      internships every hour. The invite link is published here once the server is set up.
+    </p>
+
+    <h2>Telegram</h2>
+    <p>
+      A read-only broadcast channel with the same hourly digest. The channel link is published here
+      once the bot is live.
+    </p>
+
+    <div class="callout">
+      <strong>Stay safe.</strong> Alerts and job pages only ever link to the employer's own apply page.
+      Legitimate employers never ask for payment, bank details, or your SSN before an offer. Anyone
+      messaging you privately as a "recruiter" from these channels is not us.
+    </div>
+
+    <p class="small muted">
+      Want a feed for a filter combination that is not listed? <a href={`${REPO}/issues`} rel="noopener">Open an issue</a>.
+    </p>
+  </div>
+</Base>

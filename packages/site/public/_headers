@@ -1,0 +1,21 @@
+# Cloudflare Pages / Workers static-asset headers (plan section 11.6).
+# Nothing of ours is inline; everything is served from our origin except the
+# Cloudflare analytics beacon and Brandfetch logos. Astro's island hydration
+# runtime is the one inline <script>/<style> pair on pages with an island:
+# scripts/csp-headers.ts hashes it after `astro build` and appends the
+# 'sha256-…' sources to script-src and style-src in dist/_headers, so there is
+# still no 'unsafe-inline'.
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; img-src 'self' https://cdn.brandfetch.io data:; connect-src 'self' https://cloudflareinsights.com; style-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; object-src 'none'
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: DENY
+
+# Published data refreshes hourly; a short cache keeps updates visible within minutes.
+/data/*
+  Cache-Control: public, max-age=300
+
+/feeds/*
+  Cache-Control: public, max-age=300

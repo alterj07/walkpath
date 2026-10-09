@@ -6,7 +6,7 @@
   "description": "Static Astro site for WalkPath.",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/csp-headers.ts",
     "preview": "astro preview",
     "typecheck": "astro check"
   },

@@ -1,0 +1,57 @@
+{
+ "last_run_at": "2026-10-09T18:00:00.000Z",
+ "run_id": "sample-2026-10-09T18",
+ "boards": {
+  "greenhouse": {
+   "polled": 2140,
+   "ok": 2131,
+   "failed": 9
+  },
+  "lever": {
+   "polled": 610,
+   "ok": 607,
+   "failed": 3
+  },
+  "ashby": {
+   "polled": 905,
+   "ok": 903,
+   "failed": 2
+  },
+  "workable": {
+   "polled": 480,
+   "ok": 471,
+   "failed": 9
+  },
+  "smartrecruiters": {
+   "polled": 0,
+   "ok": 0,
+   "failed": 0
+  },
+  "workday": {
+   "polled": 320,
+   "ok": 301,
+   "failed": 19
+  }
+ },
+ "jobs": {
+  "open": 3412,
+  "new": 44,
+  "closed": 18
+ },
+ "latency": {
+  "median_min": 23,
+  "p90_min": 51
+ },
+ "llm": {
+  "mistral": {
+   "requests": 44,
+   "tokens": 104000
+  }
+ },
+ "pending_summaries": 2,
+ "held_for_review": 1,
+ "schedule": {
+  "started_at": "2026-10-09T17:49:00.000Z",
+  "lateness_min": 2
+ }
+}

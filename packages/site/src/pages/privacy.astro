@@ -1,0 +1,58 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Privacy" description="WalkPath collects no personal data. Here is exactly what runs in your browser and which third parties see job text." current="about">
+  <div class="prose">
+    <h1>Privacy</h1>
+    <p>
+      WalkPath has no accounts, no sign-up, no email list and no resume upload. We do not collect,
+      store or sell personal data. This page lists everything that happens in your browser and every
+      third party involved.
+    </p>
+
+    <h2>In your browser</h2>
+    <ul>
+      <li>
+        <strong>Saved and applied jobs</strong> are kept in your browser's <code>localStorage</code>
+        under <code>walkpath:tracker</code>, along with the time of your last visit. Nothing is sent to us.
+        The Saved page offers an export, an import and a "clear my data" button.
+      </li>
+      <li><strong>No cookies</strong>, no fingerprinting, no third-party embeds.</li>
+    </ul>
+
+    <h2>Third parties</h2>
+    <ul>
+      <li>
+        <strong>Cloudflare</strong> hosts the site and serves its files. Cloudflare Web Analytics
+        (cookie-less, no personal identifiers) counts page views.
+      </li>
+      <li>
+        <strong>Brandfetch</strong> serves company logos from its CDN; your browser requests a logo
+        image by company domain. If the logo service is not configured, a letter avatar is shown instead.
+      </li>
+      <li>
+        <strong>Mistral, Google (Gemini) and Cloudflare Workers AI</strong> receive public job-posting
+        text from our pipeline to generate summaries. This runs on our side, never from your browser,
+        and never involves anything about you. Those providers may use free-tier prompts to improve
+        their models; only public posting text is sent.
+      </li>
+      <li>
+        <strong>GitHub</strong> hosts the source code, the published data and the "report a listing"
+        issue form. Opening an issue is subject to GitHub's own privacy policy.
+      </li>
+    </ul>
+
+    <h2>Apply links</h2>
+    <p>
+      Clicking Apply sends you to the employer's own careers page. Links are sent with a
+      <code>strict-origin-when-cross-origin</code> referrer policy, so the employer sees that you came
+      from this site but not which page.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Questions go to the project's <a href="https://github.com/alterj07/walkpath/issues" rel="noopener">issue tracker</a>.
+    </p>
+  </div>
+</Base>
