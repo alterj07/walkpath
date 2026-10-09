@@ -1,0 +1,72 @@
+{
+ "e3b1e3009723": {
+  "id": "e3b1e3009723",
+  "title": "Applied AI Research Intern",
+  "title_raw": "Applied AI Research Intern",
+  "company": {
+   "slug": "testaerospace",
+   "name": "Test Aerospace",
+   "domain": "testaerospace.test"
+  },
+  "location": {
+   "raw": "Phoenix, AZ",
+   "city": "Phoenix",
+   "state": "AZ",
+   "country": "US",
+   "arrangement": "in_person",
+   "others": []
+  },
+  "source": {
+   "ats": "workday",
+   "board": "testaerospace",
+   "external_id": "SAMPLE-1006"
+  },
+  "apply_url": "https://testaerospace.test/careers/e3b1e3009723",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:06:00.000Z",
+  "posted_at_source": "WORKDAY_TEXT",
+  "first_seen_at": "2026-10-09T17:17:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "data_ml_ai",
+  "season": "Summer 2027",
+  "salary": {
+   "min": 42,
+   "max": 55,
+   "currency": "USD",
+   "period": "hour"
+  },
+  "citizenship_required": false,
+  "sponsorship": "no",
+  "grad_years": [
+   2027,
+   2028
+  ],
+  "summary": {
+   "text": "Test Aerospace wants a applied ai research intern to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.",
+   "responsibilities": [
+    "Design, build and test production code",
+    "Pair with senior engineers",
+    "Present a project at the end of the term"
+   ],
+   "qualifications": [
+    "Pursuing a BS/MS in CS or related",
+    "One of Python, Go, TypeScript or C++",
+    "Clear written communication"
+   ],
+   "must_have_skills": [
+    "Python",
+    "Git"
+   ],
+   "nice_to_have_skills": [
+    "Go",
+    "TypeScript"
+   ],
+   "model": "mistral/mistral-small-latest",
+   "generated_at": "2026-10-09T17:19:00.000Z"
+  },
+  "description_html": "<p>Test Aerospace is looking for a Applied AI Research Intern to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "e5ca8c1d072700000000000000000000"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "aafebbded10a": {
+  "id": "aafebbded10a",
+  "title": "Backend Developer Intern (Go)",
+  "title_raw": "Backend Developer Intern (Go)",
+  "company": {
+   "slug": "samplecloud",
+   "name": "Sample Cloud Co",
+   "domain": "samplecloud.test"
+  },
+  "location": {
+   "raw": "Atlanta, GA",
+   "city": "Atlanta",
+   "state": "GA",
+   "country": "US",
+   "arrangement": "hybrid",
+   "others": []
+  },
+  "source": {
+   "ats": "lever",
+   "board": "samplecloud",
+   "external_id": "SAMPLE-1001"
+  },
+  "apply_url": "https://samplecloud.test/careers/aafebbded10a",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:41:00.000Z",
+  "posted_at_source": "ATS_FIELD",
+  "first_seen_at": "2026-10-09T17:47:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "software_engineering",
+  "season": "Summer 2027",
+  "salary": null,
+  "citizenship_required": false,
+  "sponsorship": "unknown",
+  "grad_years": [],
+  "summary": {
+   "text": "Sample Cloud Co wants a backend developer intern (go) to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.",
+   "responsibilities": [
+    "Design, build and test production code",
+    "Pair with senior engineers",
+    "Present a project at the end of the term"
+   ],
+   "qualifications": [
+    "Pursuing a BS/MS in CS or related",
+    "One of Python, Go, TypeScript or C++",
+    "Clear written communication"
+   ],
+   "must_have_skills": [
+    "Python",
+    "Git"
+   ],
+   "nice_to_have_skills": [
+    "Go",
+    "TypeScript"
+   ],
+   "model": "mistral/mistral-small-latest",
+   "generated_at": "2026-10-09T17:49:00.000Z"
+  },
+  "description_html": "<p>Sample Cloud Co is looking for a Backend Developer Intern (Go) to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "736592102b8700000000000000000000"
+ },
+ "aaa03aa325f7": {
+  "id": "aaa03aa325f7",
+  "title": "Frontend Engineer Intern",
+  "title_raw": "Frontend Engineer Intern",
+  "company": {
+   "slug": "placeholderlabs",
+   "name": "Placeholder Labs",
+   "domain": "placeholderlabs.test"
+  },
+  "location": {
+   "raw": "Seattle, WA",
+   "city": "Seattle",
+   "state": "WA",
+   "country": "US",
+   "arrangement": "remote",
+   "others": []
+  },
+  "source": {
+   "ats": "ashby",
+   "board": "placeholderlabs",
+   "external_id": "SAMPLE-1002"
+  },
+  "apply_url": "https://placeholderlabs.test/careers/aaa03aa325f7",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:34:00.000Z",
+  "posted_at_source": "ATS_FIELD",
+  "first_seen_at": "2026-10-09T17:41:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "software_engineering",
+  "season": "Spring 2027",
+  "salary": null,
+  "citizenship_required": false,
+  "sponsorship": "no",
+  "grad_years": [],
+  "summary": {
+   "text": "Placeholder Labs wants a frontend engineer intern to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.",
+   "responsibilities": [
+    "Design, build and test production code",
+    "Pair with senior engineers",
+    "Present a project at the end of the term"
+   ],
+   "qualifications": [
+    "Pursuing a BS/MS in CS or related",
+    "One of Python, Go, TypeScript or C++",
+    "Clear written communication"
+   ],
+   "must_have_skills": [
+    "Python",
+    "Git"
+   ],
+   "nice_to_have_skills": [
+    "Go",
+    "TypeScript"
+   ],
+   "model": "mistral/mistral-small-latest",
+   "generated_at": "2026-10-09T17:43:00.000Z"
+  },
+  "description_html": "<p>Placeholder Labs is looking for a Frontend Engineer Intern to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "9ce6726ed00400000000000000000000"
+ }
+}

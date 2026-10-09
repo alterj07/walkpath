@@ -11,6 +11,9 @@
   --warn: #b45309;
   --warn-soft: #fff4e5;
   --danger: #b91c1c;
+  --danger-soft: #fee2e2;
+  --ok: #166534;
+  --ok-soft: #dcfce7;
   --radius: 8px;
   --gutter: 16px;
   --maxw: 1100px;
@@ -32,6 +35,9 @@
     --warn: #f0b35b;
     --warn-soft: #2d2411;
     --danger: #f87171;
+    --danger-soft: #7f1d1d;
+    --ok: #bbf7d0;
+    --ok-soft: #14532d;
     color-scheme: dark;
   }
 }
@@ -48,6 +54,9 @@
   --warn: #f0b35b;
   --warn-soft: #2d2411;
   --danger: #f87171;
+  --danger-soft: #7f1d1d;
+  --ok: #bbf7d0;
+  --ok-soft: #14532d;
   color-scheme: dark;
 }
 
@@ -153,6 +162,52 @@ table.jobs tr:hover td { background: var(--bg-2); }
 @media (max-width: 600px) {
   table.jobs th.col-ats, table.jobs td.col-ats { display: none; }
 }
+
+/* ---- Detail pages: job, company, saved, status (visitor-pages feature) ---- */
+.job-header { margin-bottom: 24px; }
+.job-company { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.job-company .avatar { width: 40px; height: 40px; flex-basis: 40px; }
+.company .job-company .avatar { width: 48px; height: 48px; flex-basis: 48px; }
+.company .job-company h1 { margin: 0; }
+.job-meta { margin: 0 0 6px; }
+.job-actions { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px 20px; margin-top: 14px; }
+.apply-block { flex: 1 1 320px; }
+.apply {
+  display: inline-block; background: var(--accent); color: var(--accent-fg); text-decoration: none;
+  padding: 10px 18px; border-radius: var(--radius); font-weight: 600;
+}
+.apply:hover { filter: brightness(1.08); }
+.apply-note { margin: 6px 0 0; }
+.confirm { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 8px; font-size: 0.9rem; }
+.badge-open { background: var(--ok-soft); color: var(--ok); }
+.badge-closed { background: var(--danger-soft); color: var(--danger); }
+.badge-warn { background: var(--warn-soft); color: var(--warn); }
+.summary { background: var(--bg-2); border-radius: var(--radius); padding: 14px 16px; margin: 20px 0; }
+.summary h2 { margin-top: 0; }
+.summary ul { padding-left: 1.2em; margin: 0 0 0.75em; }
+.skill { display: inline-block; margin: 2px 6px 2px 0; padding: 1px 8px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); font-size: 0.85rem; }
+.flags .badge { margin: 2px 6px 2px 0; }
+.description { max-width: 75ch; overflow-wrap: anywhere; }
+.description h3, .description h4 { margin-top: 1.2em; }
+.description ul, .description ol { padding-left: 1.3em; }
+.description table { border-collapse: collapse; margin: 1em 0; font-size: 0.92rem; }
+.description th, .description td { border: 1px solid var(--line); padding: 4px 8px; text-align: left; }
+.similar { list-style: none; padding: 0; margin: 0; }
+.similar li { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.job-footer { margin-top: 24px; }
+
+.tracker-list { list-style: none; padding: 0; margin: 0; }
+.tracker-row { padding: 12px 0; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 8px; }
+.tracker-controls { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
+.tracker-controls select, .tracker-controls .note { padding: 4px 8px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
+.note-label { flex: 1 1 260px; display: flex; gap: 6px; align-items: center; }
+.note-label .note { flex: 1 1 auto; min-width: 0; }
+.chip:disabled { opacity: 0.5; cursor: default; }
+
+.status-stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; margin: 0 0 8px; }
+.status-stats div { background: var(--bg-2); border-radius: var(--radius); padding: 10px 12px; }
+.status-stats dt { font-size: 0.8rem; color: var(--fg-2); text-transform: uppercase; letter-spacing: 0.04em; }
+.status-stats dd { margin: 2px 0 0; font-size: 1.4rem; font-weight: 600; }
 
 /* ---- Category pages (src/pages/internships/*) ---- */
 .stats { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0 0 14px; padding: 0; list-style: none; color: var(--fg-2); font-size: 0.92rem; }

@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { SavedPage } from '../components/SavedPage.tsx';
+---
+
+<Base title="Saved jobs" description="Your saved and applied internships, stored only in this browser." noindex current="saved">
+  <div class="hero">
+    <h1>Saved jobs</h1>
+    <p>Saved, applied, interviewing, offer and rejected stages live only in this browser. Export to move them between devices.</p>
+  </div>
+  <SavedPage client:load />
+</Base>

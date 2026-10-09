@@ -1,0 +1,64 @@
+{
+ "8120ab4648b2": {
+  "id": "8120ab4648b2",
+  "title": "Machine Learning Intern",
+  "title_raw": "Machine Learning Intern",
+  "company": {
+   "slug": "fictionalfintech",
+   "name": "Fictional Fintech",
+   "domain": "fictionalfintech.test"
+  },
+  "location": {
+   "raw": "Chicago, IL",
+   "city": "Chicago",
+   "state": "IL",
+   "country": "US",
+   "arrangement": "hybrid",
+   "others": []
+  },
+  "source": {
+   "ats": "smartrecruiters",
+   "board": "fictionalfintech",
+   "external_id": "SAMPLE-1004"
+  },
+  "apply_url": "https://fictionalfintech.test/careers/8120ab4648b2",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:20:00.000Z",
+  "posted_at_source": "ATS_FIELD",
+  "first_seen_at": "2026-10-09T17:29:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "data_ml_ai",
+  "season": null,
+  "salary": null,
+  "citizenship_required": false,
+  "sponsorship": "no",
+  "grad_years": [],
+  "summary": {
+   "text": "Fictional Fintech wants a machine learning intern to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.",
+   "responsibilities": [
+    "Design, build and test production code",
+    "Pair with senior engineers",
+    "Present a project at the end of the term"
+   ],
+   "qualifications": [
+    "Pursuing a BS/MS in CS or related",
+    "One of Python, Go, TypeScript or C++",
+    "Clear written communication"
+   ],
+   "must_have_skills": [
+    "Python",
+    "Git"
+   ],
+   "nice_to_have_skills": [
+    "Go",
+    "TypeScript"
+   ],
+   "model": "mistral/mistral-small-latest",
+   "generated_at": "2026-10-09T17:31:00.000Z"
+  },
+  "description_html": "<p>Fictional Fintech is looking for a Machine Learning Intern to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "d98e9bf97fb100000000000000000000"
+ }
+}

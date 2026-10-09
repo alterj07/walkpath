@@ -1,0 +1,12 @@
+---
+/**
+ * Company page shell, served for every /company/<slug> path through the SPA
+ * fallback in public/_redirects. The island reads the slug from the URL.
+ */
+import Base from '../../layouts/Base.astro';
+import { CompanyPage } from '../../components/CompanyPage.tsx';
+---
+
+<Base title="Company" description="Open US tech internships at this company." noindex>
+  <CompanyPage client:load />
+</Base>

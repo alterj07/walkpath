@@ -1,0 +1,50 @@
+{
+ "d017c8a45dc0": {
+  "id": "d017c8a45dc0",
+  "title": "iOS Engineering Intern",
+  "title_raw": "iOS Engineering Intern",
+  "company": {
+   "slug": "demosemi",
+   "name": "Demo Semiconductors",
+   "domain": "demosemi.test"
+  },
+  "location": {
+   "raw": "Remote - United States",
+   "city": null,
+   "state": null,
+   "country": "US",
+   "arrangement": "remote",
+   "others": []
+  },
+  "source": {
+   "ats": "workday",
+   "board": "demosemi",
+   "external_id": "SAMPLE-1003"
+  },
+  "apply_url": "https://demosemi.test/careers/d017c8a45dc0",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:27:00.000Z",
+  "posted_at_source": "WORKDAY_TEXT",
+  "first_seen_at": "2026-10-09T17:35:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "software_engineering",
+  "season": "Fall 2026",
+  "salary": {
+   "min": 42,
+   "max": 55,
+   "currency": "USD",
+   "period": "hour"
+  },
+  "citizenship_required": false,
+  "sponsorship": "unknown",
+  "grad_years": [
+   2027,
+   2028
+  ],
+  "summary": null,
+  "description_html": "<p>Demo Semiconductors is looking for a iOS Engineering Intern to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "1de3073746aa00000000000000000000"
+ }
+}

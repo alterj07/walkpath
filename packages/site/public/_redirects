@@ -1,0 +1,4 @@
+# SPA fallbacks for the client-rendered detail pages (Cloudflare Pages syntax).
+# Workers static assets: see README ("Routing") for the equivalent configuration.
+/job/*      /job/index.html      200
+/company/*  /company/index.html  200

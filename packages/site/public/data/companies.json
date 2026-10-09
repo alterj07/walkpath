@@ -1,0 +1,82 @@
+{
+ "example-robotics": {
+  "name": "Example Robotics",
+  "domain": "example-robotics.test",
+  "blurb": "Example Robotics is a fictional company used only for local development samples.",
+  "ats": [
+   "greenhouse"
+  ],
+  "careers_url": "https://example-robotics.test/careers",
+  "open_count": 6
+ },
+ "samplecloud": {
+  "name": "Sample Cloud Co",
+  "domain": "samplecloud.test",
+  "blurb": "Sample Cloud Co is a fictional company used only for local development samples.",
+  "ats": [
+   "lever"
+  ],
+  "careers_url": "https://samplecloud.test/careers",
+  "open_count": 6
+ },
+ "placeholderlabs": {
+  "name": "Placeholder Labs",
+  "domain": "placeholderlabs.test",
+  "blurb": "Placeholder Labs is a fictional company used only for local development samples.",
+  "ats": [
+   "ashby"
+  ],
+  "careers_url": "https://placeholderlabs.test/careers",
+  "open_count": 6
+ },
+ "demosemi": {
+  "name": "Demo Semiconductors",
+  "domain": "demosemi.test",
+  "blurb": "Demo Semiconductors is a fictional company used only for local development samples.",
+  "ats": [
+   "workday"
+  ],
+  "careers_url": "https://demosemi.test/careers",
+  "open_count": 6
+ },
+ "fictionalfintech": {
+  "name": "Fictional Fintech",
+  "domain": "fictionalfintech.test",
+  "blurb": "Fictional Fintech is a fictional company used only for local development samples.",
+  "ats": [
+   "smartrecruiters"
+  ],
+  "careers_url": "https://fictionalfintech.test/careers",
+  "open_count": 5
+ },
+ "mockmobility": {
+  "name": "Mock Mobility",
+  "domain": "mockmobility.test",
+  "blurb": "Mock Mobility is a fictional company used only for local development samples.",
+  "ats": [
+   "workable"
+  ],
+  "careers_url": "https://mockmobility.test/careers",
+  "open_count": 5
+ },
+ "testaerospace": {
+  "name": "Test Aerospace",
+  "domain": "testaerospace.test",
+  "blurb": "Test Aerospace is a fictional company used only for local development samples.",
+  "ats": [
+   "workday"
+  ],
+  "careers_url": "https://testaerospace.test/careers",
+  "open_count": 5
+ },
+ "pretendhealth": {
+  "name": "Pretend Health AI",
+  "domain": "pretendhealth.test",
+  "blurb": "Pretend Health AI is a fictional company used only for local development samples.",
+  "ats": [
+   "greenhouse"
+  ],
+  "careers_url": "https://pretendhealth.test/careers",
+  "open_count": 5
+ }
+}

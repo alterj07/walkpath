@@ -1,0 +1,42 @@
+{
+ "0342aad2db9e": {
+  "id": "0342aad2db9e",
+  "title": "Cloud Infrastructure Intern",
+  "title_raw": "Cloud Infrastructure Intern",
+  "company": {
+   "slug": "pretendhealth",
+   "name": "Pretend Health AI",
+   "domain": "pretendhealth.test"
+  },
+  "location": {
+   "raw": "Denver, CO",
+   "city": "Denver",
+   "state": "CO",
+   "country": "US",
+   "arrangement": "hybrid",
+   "others": []
+  },
+  "source": {
+   "ats": "greenhouse",
+   "board": "pretendhealth",
+   "external_id": "SAMPLE-1007"
+  },
+  "apply_url": "https://pretendhealth.test/careers/0342aad2db9e",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T16:59:00.000Z",
+  "posted_at_source": "ATS_FIELD",
+  "first_seen_at": "2026-10-09T17:11:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": "2026-10-09T17:00:00.000Z",
+  "employment_type": "internship",
+  "role_family": "it_cloud_security",
+  "season": "Spring 2027",
+  "salary": null,
+  "citizenship_required": null,
+  "sponsorship": "unknown",
+  "grad_years": [],
+  "summary": null,
+  "description_html": "<p>Pretend Health AI is looking for a Cloud Infrastructure Intern to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "170e8f64ca7b00000000000000000000"
+ }
+}

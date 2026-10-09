@@ -34,8 +34,24 @@ of the default 24-hour view.
   to the CSP in `dist/_headers`. It fails the build if any other inline script, style tag or
   `style=""` attribute shows up.
 - Every string from the data files is rendered as a text node. The single allowed
-  `dangerouslySetInnerHTML` is the twice-sanitized job description on the job page.
+  `dangerouslySetInnerHTML` lives in `src/components/Description.tsx`: the job description,
+  sanitized once by the publish job and again in the browser by `src/lib/sanitize.ts` (DOMPurify
+  with the same allowlist). The `react/no-danger` lint rule is disabled on that one line only.
 - Every `localStorage` access goes through `src/lib/tracker.ts`, which validates what it reads.
+  Imported tracker files go through the same validator (`sanitizeTracker`) before merging.
+
+## Routing
+
+`/job/<id>` and `/company/<slug>` are client-rendered: one static page is emitted at
+`/job/index.html` and `/company/index.html`, and `public/_redirects` serves it for every path
+below (Cloudflare Pages `200` rewrites). The island validates the id (`^[a-f0-9]{12}$`) or slug
+(`^[a-z0-9-]{1,80}$`) from the URL before fetching anything. Job and company pages are `noindex`;
+the pre-rendered category pages carry the SEO.
+
+On Workers static assets `_redirects` is also honoured (`assets.directory` with
+`not_found_handling = "404-page"`); do not use `single-page-application` mode, which would
+serve the home page for every unknown path. If `_redirects` support is ever dropped, a two-line
+Worker that rewrites those two prefixes is the fallback.
 
 ## Layout and libs
 

@@ -1,0 +1,76 @@
+{
+ "f825de67ca5b": {
+  "id": "f825de67ca5b",
+  "title": "Software Engineering Intern, Summer 2027",
+  "title_raw": "Software Engineering Intern, Summer 2027",
+  "company": {
+   "slug": "example-robotics",
+   "name": "Example Robotics",
+   "domain": "example-robotics.test"
+  },
+  "location": {
+   "raw": "San Francisco, CA",
+   "city": "San Francisco",
+   "state": "CA",
+   "country": "US",
+   "arrangement": "in_person",
+   "others": [
+    "Austin, TX",
+    "Seattle, WA",
+    "New York, NY"
+   ]
+  },
+  "source": {
+   "ats": "greenhouse",
+   "board": "example-robotics",
+   "external_id": "SAMPLE-1000"
+  },
+  "apply_url": "https://example-robotics.test/careers/f825de67ca5b",
+  "apply_url_downgraded": false,
+  "posted_at": "2026-10-09T17:48:00.000Z",
+  "posted_at_source": "ATS_FIELD",
+  "first_seen_at": "2026-10-09T17:53:00.000Z",
+  "last_seen_at": "2026-10-09T18:00:00.000Z",
+  "closed_at": null,
+  "employment_type": "internship",
+  "role_family": "software_engineering",
+  "season": "Summer 2027",
+  "salary": {
+   "min": 42,
+   "max": 55,
+   "currency": "USD",
+   "period": "hour"
+  },
+  "citizenship_required": true,
+  "sponsorship": "no",
+  "grad_years": [
+   2027,
+   2028
+  ],
+  "summary": {
+   "text": "Example Robotics wants a software engineering intern to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.",
+   "responsibilities": [
+    "Design, build and test production code",
+    "Pair with senior engineers",
+    "Present a project at the end of the term"
+   ],
+   "qualifications": [
+    "Pursuing a BS/MS in CS or related",
+    "One of Python, Go, TypeScript or C++",
+    "Clear written communication"
+   ],
+   "must_have_skills": [
+    "Python",
+    "Git"
+   ],
+   "nice_to_have_skills": [
+    "Go",
+    "TypeScript"
+   ],
+   "model": "mistral/mistral-small-latest",
+   "generated_at": "2026-10-09T17:55:00.000Z"
+  },
+  "description_html": "<p>Example Robotics is looking for a Software Engineering Intern, Summer 2027 to join a small team shipping real features.</p><h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li><li>Present your project at the end of the summer</li></ul><h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li><li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul><p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p><p>Equal opportunity employer. Accommodation requests are welcome.</p>",
+  "content_hash": "acd515abea0d00000000000000000000"
+ }
+}

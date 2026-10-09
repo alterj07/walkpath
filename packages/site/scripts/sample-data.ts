@@ -107,9 +107,75 @@ const meta = {
   schedule: { started_at: new Date(SAMPLE_DATE - 11 * 60_000).toISOString(), lateness_min: 2 },
 };
 
+// Full records for the first few rows so /job/<id> and /company/<slug> render locally.
+const sampleDescription = (title: string, company: string) =>
+  `<p>${company} is looking for a ${title} to join a small team shipping real features.</p>` +
+  '<h3>What you will do</h3><ul><li>Design, build and test production code</li><li>Pair with senior engineers</li>' +
+  '<li>Present your project at the end of the summer</li></ul>' +
+  '<h3>What we look for</h3><ul><li>Currently pursuing a BS/MS in CS or a related field</li>' +
+  '<li>Experience with one of Python, Go, TypeScript or C++</li><li>Curiosity and clear written communication</li></ul>' +
+  '<p>Pay range: $42.00 to $55.00 USD hourly. We do not sponsor work visas for this role.</p>' +
+  '<p>Equal opportunity employer. Accommodation requests are welcome.</p>';
+
+const buckets: Record<string, Record<string, unknown>> = {};
+rows.slice(0, 8).forEach((r, i) => {
+  const record = {
+    id: r.id,
+    title: r.title,
+    title_raw: r.title,
+    company: { slug: r.slug, name: r.company, domain: r.domain },
+    location: {
+      raw: r.city ? `${r.city}, ${r.state}` : 'Remote - United States',
+      city: r.city, state: r.state, country: 'US', arrangement: r.arrangement,
+      others: r.others ? ['Austin, TX', 'Seattle, WA', 'New York, NY'] : [],
+    },
+    source: { ats: r.ats, board: r.slug, external_id: `SAMPLE-${1000 + i}` },
+    apply_url: `https://${r.domain}/careers/${r.id}`,
+    apply_url_downgraded: false,
+    posted_at: r.posted_at,
+    posted_at_source: r.ats === 'workday' ? 'WORKDAY_TEXT' : 'ATS_FIELD',
+    first_seen_at: r.first_seen_at,
+    last_seen_at: new Date(SAMPLE_DATE).toISOString(),
+    closed_at: i === 7 ? new Date(SAMPLE_DATE - 3_600_000).toISOString() : null,
+    employment_type: /co-op/i.test(r.title) ? 'co_op' : 'internship',
+    role_family: r.family,
+    season: r.season,
+    salary: r.has_salary ? { min: 42, max: 55, currency: 'USD', period: 'hour' } : null,
+    citizenship_required: r.citizenship_required,
+    sponsorship: i % 2 === 0 ? 'no' : 'unknown',
+    grad_years: i % 3 === 0 ? [2027, 2028] : [],
+    summary: i % 4 === 3 ? null : {
+      text: `${r.company} wants a ${r.title.replace(/,.*$/, '').toLowerCase()} to ship production code with a small team. Students pursuing a CS degree with one systems language are a fit.`,
+      responsibilities: ['Design, build and test production code', 'Pair with senior engineers', 'Present a project at the end of the term'],
+      qualifications: ['Pursuing a BS/MS in CS or related', 'One of Python, Go, TypeScript or C++', 'Clear written communication'],
+      must_have_skills: ['Python', 'Git'],
+      nice_to_have_skills: ['Go', 'TypeScript'],
+      model: 'mistral/mistral-small-latest',
+      generated_at: new Date(Date.parse(r.first_seen_at) + 120_000).toISOString(),
+    },
+    description_html: sampleDescription(r.title, r.company),
+    content_hash: id(`hash|${r.id}`).padEnd(32, '0'),
+  };
+  (buckets[r.id.slice(0, 2)] ??= {})[r.id] = record;
+});
+
+const companiesFile: Record<string, unknown> = {};
+for (const [name, domain, ats] of companies) {
+  const slug = domain.replace(/\.test$/, '').replace(/[^a-z0-9]+/g, '-');
+  companiesFile[slug] = {
+    name, domain, blurb: `${name} is a fictional company used only for local development samples.`,
+    ats: [ats], careers_url: `https://${domain}/careers`, open_count: rows.filter((r) => r.slug === slug).length,
+  };
+}
+
 mkdirSync(join(root, 'index'), { recursive: true });
+mkdirSync(join(root, 'jobs'), { recursive: true });
 writeFileSync(join(root, 'index', 'latest.json'), JSON.stringify(index, null, 1));
 writeFileSync(join(root, 'meta.json'), JSON.stringify(meta, null, 1));
+writeFileSync(join(root, 'companies.json'), JSON.stringify(companiesFile, null, 1));
+for (const [bucket, records] of Object.entries(buckets)) {
+  writeFileSync(join(root, 'jobs', `${bucket}.json`), JSON.stringify(records, null, 1));
+}
 
 // index/all.json: every open row (the samples are all open) for the explore
 // table's 30-day window and for the build-time category pages.
@@ -153,4 +219,4 @@ for (const [company, domain] of companies.slice(0, 2)) {
   pages.push({ slug: `company-${slug}`, title: company, kind: 'company', filter: { slug } });
 }
 writeFileSync(join(root, 'pages.json'), JSON.stringify(pages, null, 1));
-console.log(`wrote ${rows.length} sample rows, meta.json, index/all.json and ${pages.length} pages to ${root}`);
+console.log(`wrote ${rows.length} sample rows, ${Object.keys(buckets).length} job buckets, companies.json, meta.json, index/all.json and ${pages.length} pages to ${root}`);

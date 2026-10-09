@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { StatusPage } from '../components/StatusPage.tsx';
+
+const siteUrl = (Astro.site?.origin ?? 'https://walkpath.pages.dev').replace(/\/+$/, '');
+---
+
+<Base title="Status" description="Last run, boards polled, discovery latency and summarizer usage for the WalkPath crawler." current="status">
+  <div class="hero">
+    <h1>Status</h1>
+    <p>What the hourly crawl did the last time it ran.</p>
+  </div>
+  <StatusPage client:load siteUrl={siteUrl} />
+</Base>

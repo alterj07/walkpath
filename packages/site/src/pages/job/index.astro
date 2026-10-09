@@ -1,0 +1,14 @@
+---
+/**
+ * Job detail shell. The site is static, so one page is emitted at /job/index.html
+ * and public/_redirects serves it for every /job/<id> path; the island reads the
+ * id from the URL. Job pages are noindex (plan section 2.2); category pages carry
+ * the SEO.
+ */
+import Base from '../../layouts/Base.astro';
+import { JobPage } from '../../components/JobPage.tsx';
+---
+
+<Base title="Internship" description="Internship listing on WalkPath." noindex current="explore">
+  <JobPage client:load />
+</Base>
