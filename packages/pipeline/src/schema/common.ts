@@ -1,6 +1,9 @@
 import { z } from 'zod';
 
-/** Applicant-tracking systems the pipeline knows how to poll. */
+/**
+ * Applicant-tracking systems the registry can hold. Adapters exist for the first six; boards of
+ * the others are skipped by the crawl until an adapter lands (plan 3.1).
+ */
 export const AtsSchema = z.enum([
   'greenhouse',
   'lever',
@@ -10,6 +13,11 @@ export const AtsSchema = z.enum([
   'workday',
   'recruitee',
   'breezy',
+  'pinpoint',
+  'teamtailor',
+  'personio',
+  'bamboohr',
+  'jazzhr',
   'jsonld',
 ]);
 export type Ats = z.infer<typeof AtsSchema>;
