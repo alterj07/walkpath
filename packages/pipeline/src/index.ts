@@ -3,7 +3,13 @@ export const PIPELINE_VERSION = '0.1.0';
 export * from './schema/index.ts';
 export * from './ids.ts';
 export * from './links.ts';
-export type { AdapterPolicy, SourceAdapter } from './adapters/types.ts';
+export { API_ADAPTERS, adapterFor, limitsOf, parseOrThrow } from './adapters/index.ts';
+export type { AnyAdapter, AdapterPolicy, SourceAdapter } from './adapters/index.ts';
+export { greenhouseAdapter } from './adapters/greenhouse.ts';
+export { leverAdapter } from './adapters/lever.ts';
+export { ashbyAdapter } from './adapters/ashby.ts';
+export { workableAdapter } from './adapters/workable.ts';
+export { smartrecruitersAdapter, createSmartRecruitersAdapter } from './adapters/smartrecruiters.ts';
 export {
   HttpClient,
   HttpError,
