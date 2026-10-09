@@ -29,3 +29,18 @@ export type { RobotsRules } from './http/robots.ts';
 export * from './state/db.ts';
 export * from './crawl/diff.ts';
 export * from './crawl/run.ts';
+export * from './normalize/title.ts';
+export * from './normalize/location.ts';
+export * from './normalize/fields.ts';
+export * from './normalize/group.ts';
+export * from './gates/internship.ts';
+export * from './gates/tech.ts';
+export * from './registry/csv.ts';
+export * from './registry/fingerprint.ts';
+export {
+  REGISTRY_ATS, BOARD_STATUSES, BoardRowSchema, BOARDS_CSV_HEADER, RegistryError,
+  parseBoardsCsv, loadBoards, serializeBoards, slugify, SourcesConfigSchema,
+  parseSourcesConfig, loadSourcesConfig, isSourceEnabled, defaultSourcesConfig,
+} from './registry/boards.ts';
+export type { RegistryAts, BoardRow, SourcesConfig } from './registry/boards.ts';
+export * from './registry/probe.ts';

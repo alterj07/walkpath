@@ -1,0 +1,49 @@
+{
+  "sources": {
+    "greenhouse": {
+      "enabled": true
+    },
+    "lever": {
+      "enabled": true
+    },
+    "ashby": {
+      "enabled": true
+    },
+    "workable": {
+      "enabled": true
+    },
+    "smartrecruiters": {
+      "enabled": true
+    },
+    "workday": {
+      "enabled": true
+    },
+    "recruitee": {
+      "enabled": true
+    },
+    "breezy": {
+      "enabled": true
+    },
+    "pinpoint": {
+      "enabled": true
+    },
+    "teamtailor": {
+      "enabled": true
+    },
+    "personio": {
+      "enabled": true
+    },
+    "bamboohr": {
+      "enabled": true
+    },
+    "jazzhr": {
+      "enabled": true
+    },
+    "jsonld": {
+      "enabled": true
+    }
+  },
+  "publish": {
+    "enabled": true
+  }
+}
