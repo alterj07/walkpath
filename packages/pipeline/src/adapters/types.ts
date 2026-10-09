@@ -1,6 +1,7 @@
 import type { Board } from '../schema/board.ts';
 import type { Ats, JobPostingInput } from '../schema/index.ts';
 import type { HttpClient } from '../http/client.ts';
+import type { HostLimits } from '../http/limiter.ts';
 
 /** Crawl etiquette for one ATS (plan sections 4.4 and 10.3). The User-Agent is pinned by HttpClient. */
 export interface AdapterPolicy {
@@ -31,4 +32,9 @@ export interface SourceAdapter<RawJob = unknown> {
   canonicalKey(raw: RawJob, board: Board): string;
   /** Normalize one raw job into the shared input shape. */
   toInput(raw: RawJob, board: Board, firstSeenAt: Date): JobPostingInput;
+}
+
+/** The per-host limits an adapter passes to HttpClient, derived from its policy. */
+export function limitsOf(policy: AdapterPolicy): HostLimits {
+  return { minDelayMs: policy.minDelayMs, maxConcurrency: policy.maxConcurrencyPerHost };
 }

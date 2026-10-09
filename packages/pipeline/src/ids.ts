@@ -1,7 +1,11 @@
 import { createHash } from 'node:crypto';
 import type { Ats } from './schema/common.ts';
 
-/** `ats:board_key:external_id`, the unique key of a job within its source. */
+/**
+ * `ats:board_key:external_id`, the unique key of a job within its source.
+ * board_key may itself contain ':' (Lever EU boards are `eu:<site>`); never split a key
+ * on ':', use the stored columns.
+ */
 export function canonicalKey(ats: Ats, boardKey: string, externalId: string): string {
   return `${ats}:${boardKey}:${externalId}`;
 }
