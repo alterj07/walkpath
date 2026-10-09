@@ -1,0 +1,76 @@
+# Restore crawl/publish state from the weekly snapshot (plan section 12.1: "on cache miss,
+# restore from the snapshot"). Downloads the rolling assets of the `state-snapshot` release and
+# saves them to the Actions cache under a fresh key that the hourly run's `restore-keys` prefix
+# will pick up (restore-keys choose the most recently created matching entry).
+name: restore-state
+
+on:
+  workflow_dispatch:
+    inputs:
+      which:
+        description: 'Which state file to restore'
+        type: choice
+        default: all
+        options: [api, workday, publish, all]
+
+permissions:
+  contents: read # reading release assets of a public repo needs no more
+
+# Never restore while a crawl is writing; the group serialises with crawl.yml and snapshot.yml.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      RELEASE_TAG: state-snapshot
+      WHICH: ${{ inputs.which }}
+    steps:
+      - name: Download snapshot assets
+        run: |
+          set -euo pipefail
+          mkdir -p state
+          for which in api workday publish; do
+            if [ "$WHICH" != "all" ] && [ "$WHICH" != "$which" ]; then continue; fi
+            if gh release download "$RELEASE_TAG" --pattern "state-${which}.sqlite.gz" --dir state --clobber; then
+              gunzip -f "state/state-${which}.sqlite.gz"
+              if ! node -e "const {DatabaseSync}=require('node:sqlite');const db=new DatabaseSync(process.argv[1],{readOnly:true});const r=db.prepare('PRAGMA integrity_check').get();if(r.integrity_check!=='ok'){process.exit(2)}" "state/state-${which}.sqlite"; then
+                echo "state-${which}: snapshot failed the integrity check; not restored"
+                rm -f "state/state-${which}.sqlite"
+                continue
+              fi
+              printf 'state-%s: %s bytes\n' "$which" "$(stat -c %s "state/state-${which}.sqlite")"
+            else
+              echo "state-${which}: no snapshot asset found, skipped"
+            fi
+          done
+
+      - name: Save api state to the cache
+        if: ${{ (inputs.which == 'api' || inputs.which == 'all') && hashFiles('state/state-api.sqlite') != '' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-api.sqlite
+          key: state-api-restore-${{ github.run_id }}
+      - name: Save workday state to the cache
+        if: ${{ (inputs.which == 'workday' || inputs.which == 'all') && hashFiles('state/state-workday.sqlite') != '' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-workday.sqlite
+          key: state-workday-restore-${{ github.run_id }}
+      - name: Save publish state to the cache
+        if: ${{ (inputs.which == 'publish' || inputs.which == 'all') && hashFiles('state/state-publish.sqlite') != '' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-publish.sqlite
+          key: state-publish-restore-${{ github.run_id }}
+
+      - name: Reminder
+        run: |
+          echo "Restored state is in the cache. If the restored snapshot is older than the last published data,"
+          echo "set the repository variable SUPPRESS_ALERTS=true for one hour so the next publish does not"
+          echo "re-announce jobs it has already announced (docs/operations.md, 'State snapshots and recovery')."

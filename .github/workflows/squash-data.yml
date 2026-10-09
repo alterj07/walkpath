@@ -1,0 +1,80 @@
+# Monthly squash of the `data` branch (plan sections 4.4 and 6.4). The publish job commits JSON
+# shards every hour; history is not needed (the weekly snapshot release is the archive), and a
+# single-commit branch keeps the repository well under GitHub's 1 GB guidance.
+name: squash-data
+
+on:
+  schedule:
+    - cron: '13 5 1 * *' # 1st of the month, 05:13 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write # force-push the data branch
+
+# Serialised with the hourly run so the publish job never pushes onto a branch being rewritten.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  squash:
+    if: ${{ github.event_name != 'schedule' || github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      DATA_BRANCH: data
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          fetch-depth: 1
+          # The job token is kept so the force-push below can authenticate.
+          persist-credentials: true
+
+      - name: Fetch the data branch
+        id: fetch
+        run: |
+          set -euo pipefail
+          if ! git ls-remote --exit-code --heads origin "$DATA_BRANCH" >/dev/null; then
+            echo "branch ${DATA_BRANCH} does not exist yet; nothing to squash"
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git fetch --no-tags origin "+refs/heads/${DATA_BRANCH}:refs/remotes/origin/${DATA_BRANCH}"
+          echo "exists=true" >> "$GITHUB_OUTPUT"
+
+      - name: Squash and force-push
+        if: ${{ steps.fetch.outputs.exists == 'true' }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          old="$(git rev-parse "origin/${DATA_BRANCH}")"
+          commits_before="$(git rev-list --count "origin/${DATA_BRANCH}")"
+          echo "before: ${commits_before} commits on ${DATA_BRANCH} (${old})"
+          git count-objects -vH
+
+          git checkout -B "$DATA_BRANCH" "origin/${DATA_BRANCH}"
+          git checkout --orphan squashed
+          git add -A
+          if git diff --cached --quiet; then
+            git commit --allow-empty -q -m "chore(data): monthly squash $(date -u +%F)"
+          else
+            git commit -q -m "chore(data): monthly squash $(date -u +%F)"
+          fi
+          new="$(git rev-parse HEAD)"
+
+          # --force-with-lease refuses the push if the publish job moved the branch meanwhile.
+          git push --force-with-lease="${DATA_BRANCH}:${old}" origin "squashed:${DATA_BRANCH}"
+          echo "after: 1 commit on ${DATA_BRANCH} (${new})"
+
+      - name: Local size report
+        if: ${{ steps.fetch.outputs.exists == 'true' }}
+        run: |
+          set -euo pipefail
+          # Drop the old history locally so gc can show what the server will reclaim over time.
+          git branch -D "$DATA_BRANCH" >/dev/null 2>&1 || true
+          git update-ref -d "refs/remotes/origin/${DATA_BRANCH}" || true
+          git reflog expire --expire=now --all
+          git gc --prune=now --quiet
+          git count-objects -vH

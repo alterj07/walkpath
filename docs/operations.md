@@ -99,6 +99,75 @@ in `registry/boards.csv`.
 The publish feature adds the LLM keys, the Cloudflare token, the Discord webhook, the Telegram
 bot token and the heartbeat URL; they are documented when they land.
 
+## State snapshots and recovery
+
+The Actions cache is the only home of the three state files (`state-api`, `state-workday`,
+`state-publish`), and GitHub evicts cache entries unused for 7 days or under pressure. Losing a
+state file is not fatal, but a crawl that starts from an empty `jobs_seen` treats every open job
+as new and would re-alert everything (plan 12.1).
+
+`.github/workflows/snapshot.yml` runs every Sunday at 04:37 UTC (and on dispatch) in the `crawl`
+concurrency group, so it never reads a file mid-write. It restores the newest cache entry of each
+prefix, runs `PRAGMA integrity_check`, gzips the file and uploads it to a rolling prerelease
+tagged `state-snapshot` through the runner's GitHub CLI (no third-party action). The release holds
+one rolling asset per file (`state-api.sqlite.gz`, `state-workday.sqlite.gz`,
+`state-publish.sqlite.gz`, always the latest) plus dated copies (`state-api-YYYYMMDD.sqlite.gz`)
+kept for 35 days. Sizes, never contents, are printed in the log.
+
+To recover after a cache loss, run `.github/workflows/restore-state.yml` by hand
+(**Actions → restore-state → Run workflow**, choose `api`, `workday`, `publish` or `all`). It
+downloads the rolling asset, verifies it, and saves it to the cache under
+`state-<which>-restore-<run id>`. The hourly run restores by prefix (`state-api-`), and
+`restore-keys` pick the most recently created matching entry, so the next run starts from the
+snapshot. Everything that happened between the snapshot and the loss is re-discovered as "new"
+on that run; to keep those jobs from being announced twice, set the repository variable
+`SUPPRESS_ALERTS` to `true` (**Settings → Secrets and variables → Actions → Variables**) before
+the next `:17` run and clear it an hour later. The publish job maps that variable to the
+orchestrator's `--no-alerts` flag.
+
+You can also restore by hand for local inspection:
+
+```sh
+gh release download state-snapshot --pattern 'state-api.sqlite.gz' --dir state
+gunzip state/state-api.sqlite.gz
+```
+
+## Data branch squash
+
+The publish job commits the JSON shards to the `data` branch every hour: roughly 6 MB of new
+JSON a day, and a history nobody reads. `.github/workflows/squash-data.yml` runs on the 1st of
+every month at 05:13 UTC (and on dispatch), in the `crawl` group so it never races the publish
+job's push. It fetches `data`, creates an orphan commit holding the current tree, and
+force-pushes it with `--force-with-lease` (the push is refused if the branch moved meanwhile; the
+next month's run tries again). The log prints the commit count before and after and the local
+object count after `git gc --prune=now`. GitHub reclaims the unreachable objects on the server on
+its own schedule, which is why the repository size in the UI can lag by a few days.
+
+Consequences: anyone who forked or cloned the `data` branch must re-clone it after a squash
+(`git fetch origin && git reset --hard origin/data`); `main` is untouched; the weekly snapshot
+release remains the archive. A branch protection rule on `data` must allow force pushes from the
+Actions bot (or exempt it), otherwise the squash fails with a permissions error and the branch
+simply keeps growing until the rule is adjusted (see `docs/github-settings.md`).
+
+To run it by hand: **Actions → squash-data → Run workflow**, or locally:
+
+```sh
+git fetch origin data
+git checkout -B data origin/data
+git checkout --orphan squashed && git add -A && git commit -m "chore(data): manual squash $(date -u +%F)"
+git push --force-with-lease=data:$(git rev-parse origin/data) origin squashed:data
+```
+
+The `data` branch has to exist before the first publish run. Create it once, empty, from a clean
+checkout:
+
+```sh
+git switch --orphan data
+git commit --allow-empty -m "chore(data): initialise"
+git push origin data
+git switch main
+```
+
 ## Logs
 
 Run logs are public. The scripts log through `src/cli/log.ts`, whose redaction guard prints ids,

@@ -1,0 +1,112 @@
+# Weekly state snapshot (plan sections 6.2, 7.1 and 12.1). The crawl and publish jobs keep their
+# SQLite state only in the Actions cache, which evicts entries unused for 7 days and can be lost
+# at any time. This workflow copies the newest cached state files to a rolling GitHub Release
+# (`state-snapshot`) so `restore-state.yml` can put them back. No third-party actions: uploads go
+# through the runner's preinstalled GitHub CLI with the job token.
+name: snapshot
+
+on:
+  schedule:
+    - cron: '37 4 * * 0' # Sunday 04:37 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write # create the release and upload assets
+
+# Shares the crawl group so a snapshot never reads a state file mid-write.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    if: ${{ github.event_name != 'schedule' || github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      RELEASE_TAG: state-snapshot
+      KEEP_DAYS: '35'
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      # `key` is required but intentionally never matches; `restore-keys` picks the newest entry
+      # with the prefix, which is the state the last hourly run saved.
+      - name: Restore api state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-api.sqlite
+          key: state-api-snapshot-${{ github.run_id }}
+          restore-keys: |
+            state-api-
+      - name: Restore workday state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-workday.sqlite
+          key: state-workday-snapshot-${{ github.run_id }}
+          restore-keys: |
+            state-workday-
+      - name: Restore publish state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-publish.sqlite
+          key: state-publish-snapshot-${{ github.run_id }}
+          restore-keys: |
+            state-publish-
+
+      - name: Ensure the rolling release exists
+        run: |
+          set -euo pipefail
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" \
+              --prerelease \
+              --title "State snapshot" \
+              --notes "Rolling snapshot of the crawl and publish SQLite state files. Restore with the restore-state workflow." \
+              --target "${GITHUB_SHA}"
+          fi
+
+      - name: Upload snapshots
+        run: |
+          set -euo pipefail
+          today="$(date -u +%Y%m%d)"
+          uploaded=0
+          for which in api workday publish; do
+            f="state/state-${which}.sqlite"
+            if [ ! -s "$f" ]; then
+              echo "state-${which}: no cached state, skipped"
+              continue
+            fi
+            # Integrity check before publishing: a truncated file must not replace a good snapshot.
+            if ! node -e "const {DatabaseSync}=require('node:sqlite');const db=new DatabaseSync(process.argv[1],{readOnly:true});const r=db.prepare('PRAGMA integrity_check').get();if(r.integrity_check!=='ok'){process.exit(2)}" "$f"; then
+              echo "state-${which}: integrity check failed, skipped"
+              continue
+            fi
+            gzip -k -9 -f "$f"
+            cp "${f}.gz" "state/state-${which}-${today}.sqlite.gz"
+            gh release upload "$RELEASE_TAG" --clobber "${f}.gz" "state/state-${which}-${today}.sqlite.gz"
+            printf 'state-%s: %s bytes raw, %s bytes gzipped\n' "$which" "$(stat -c %s "$f")" "$(stat -c %s "${f}.gz")"
+            uploaded=$((uploaded + 1))
+          done
+          echo "uploaded=${uploaded}"
+
+      - name: Prune dated assets older than KEEP_DAYS
+        run: |
+          set -euo pipefail
+          cutoff="$(date -u -d "-${KEEP_DAYS} days" +%Y%m%d)"
+          gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' | while read -r name; do
+            # Dated copies look like state-<which>-YYYYMMDD.sqlite.gz; rolling copies have no date.
+            stamp="$(printf '%s' "$name" | sed -nE 's/^state-(api|workday|publish)-([0-9]{8})\.sqlite\.gz$/\2/p')"
+            if [ -n "$stamp" ] && [ "$stamp" -lt "$cutoff" ]; then
+              gh release delete-asset "$RELEASE_TAG" "$name" --yes
+              echo "deleted ${name}"
+            fi
+          done
+
+      - name: Stamp the release notes
+        run: |
+          set -euo pipefail
+          gh release edit "$RELEASE_TAG" \
+            --notes "Rolling snapshot of the crawl and publish SQLite state files. Latest snapshot: $(date -u +%Y-%m-%dT%H:%M:%SZ). Dated copies are kept for ${KEEP_DAYS} days. Restore with the restore-state workflow (docs/operations.md)."
