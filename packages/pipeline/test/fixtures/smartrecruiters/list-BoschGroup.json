@@ -1,0 +1,750 @@
+{
+ "offset": 0,
+ "limit": 100,
+ "totalFound": 5,
+ "content": [
+  {
+   "id": "744000154658339",
+   "name": "Internship Printed Circuit Boards Material Characterization",
+   "uuid": "947f41a2-e109-48a3-8e96-18ecf55a4ea2",
+   "jobAdId": "cdb6187c-b2ec-4172-b285-4e7b92ce599e",
+   "defaultJobAd": true,
+   "refNumber": "REF297681L",
+   "company": {
+    "identifier": "BoschGroup",
+    "name": "Bosch Group"
+   },
+   "releasedDate": "2026-10-09T11:55:43.325Z",
+   "location": {
+    "city": "Schwieberdingen",
+    "region": "BW",
+    "country": "de",
+    "address": "Markgröninger Straße 45",
+    "postalCode": "71701",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "48.88422730000001",
+    "longitude": "9.075173099999999",
+    "fullLocation": "Schwieberdingen, BW, Germany"
+   },
+   "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+     "fieldLabel": "Contract type",
+     "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+     "valueLabel": "Limited"
+    },
+    {
+     "fieldId": "5abe28e96d8bc56863dd9746",
+     "fieldLabel": "Tariff Area",
+     "valueId": "45a4fe7c-ec96-4eda-907f-4aa0356a7704",
+     "valueLabel": "Not tariff-bound / non-tariff / SLx"
+    },
+    {
+     "fieldId": "5aca30e46d8bc56863dd98d8",
+     "fieldLabel": "Tags",
+     "valueId": "f8aadd7e-9952-41c5-af48-02debb3e9010",
+     "valueLabel": "Please enter Career Site Tags"
+    },
+    {
+     "fieldId": "586a997ee4b05fd937b86098",
+     "fieldLabel": "Legal Entity(acronym)",
+     "valueId": "de1f1b31-787f-43b1-88fd-4eb5428a9db8",
+     "valueLabel": "RB"
+    },
+    {
+     "fieldId": "6463ee88f4ba4e3063baf201",
+     "fieldLabel": "Do you want to publish on StepStone?",
+     "valueId": "5449f11a-cf85-46db-80b7-8540bb088d65",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "586a99b5e4b0daa006ae1079",
+     "fieldLabel": "Working Location",
+     "valueId": "93fbc4f7-b26f-4d9f-b6e8-3775c42f2de5",
+     "valueLabel": "Schwieberdingen"
+    },
+    {
+     "fieldId": "5abe295a6d8bc56863dd9747",
+     "fieldLabel": "Global Salary Level",
+     "valueId": "80ae06a1-4738-48e8-8aea-4613f58ecd57",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "69ca83a2489188782a1e9f87",
+     "fieldLabel": "Direct Or Indirect",
+     "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+     "valueLabel": "Indirect"
+    },
+    {
+     "fieldId": "5abe29f9b60a5e486a2d9b1c",
+     "fieldLabel": "Working hours",
+     "valueId": "60756b3e-dbab-4353-ac3a-0064d2bb27d8",
+     "valueLabel": "Full-time"
+    },
+    {
+     "fieldId": "586a9995e4b0daa006ae1078",
+     "fieldLabel": "Legal Entity",
+     "valueId": "09a12231-6c9c-4061-a114-3ac523872781",
+     "valueLabel": "Robert Bosch GmbH"
+    },
+    {
+     "fieldId": "691cf1c93001c782b9560ab7",
+     "fieldLabel": "Division full name",
+     "valueId": "acbd0fb4-afd1-49f8-8abc-ec454a4e33bd",
+     "valueLabel": "Mobility Electronics"
+    },
+    {
+     "fieldId": "5abe27936d8bc56863dd9745",
+     "fieldLabel": "Position type",
+     "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+     "valueLabel": "Intern"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a971ee4b0daa006ae1077",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Bosch Group"
+    },
+    {
+     "fieldId": "586a996ce4b05fd937b86097",
+     "fieldLabel": "Working Country",
+     "valueId": "34525254-83b2-42bc-9932-cf9f16db5281",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a9b22e4b05fd937b8609a",
+     "fieldLabel": "Local Grade",
+     "valueId": "3830e7ee-7637-48d4-8c1a-45ff4d10910c",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "586a99a5e4b05fd937b86099",
+     "fieldLabel": "Division",
+     "valueId": "AE",
+     "valueLabel": "ME"
+    },
+    {
+     "fieldId": "5aca31126d8bc56863dd98d9",
+     "fieldLabel": "Career Site Tags",
+     "valueLabel": "Zuverlässigkeit,reliability,material science,Polymer"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000154658339",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154627659",
+   "name": "AI & Data Quality Improvement Internship",
+   "uuid": "6330905a-d690-4a6f-963b-497dd1ca88be",
+   "jobAdId": "8e9ad45c-1885-44cc-835c-790dfa7c18f7",
+   "defaultJobAd": true,
+   "refNumber": "REF298075A",
+   "company": {
+    "identifier": "BoschGroup",
+    "name": "Bosch Group"
+   },
+   "releasedDate": "2026-10-09T09:20:21.922Z",
+   "location": {
+    "city": "Beograd",
+    "country": "rs",
+    "address": "Omladinskih brigada 90e",
+    "postalCode": "11070",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "44.8222284",
+    "longitude": "20.4114858",
+    "fullLocation": "Beograd, , Serbia"
+   },
+   "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+   },
+   "department": {},
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+     "fieldLabel": "Contract type",
+     "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+     "valueLabel": "Limited"
+    },
+    {
+     "fieldId": "5abe28e96d8bc56863dd9746",
+     "fieldLabel": "Tariff Area",
+     "valueId": "f96116fc-f11c-4981-9057-536875429bc4",
+     "valueLabel": "Serbia Local Grades"
+    },
+    {
+     "fieldId": "586a997ee4b05fd937b86098",
+     "fieldLabel": "Legal Entity(acronym)",
+     "valueId": "6286f52d-aa4b-4e77-a2f9-fa0d4d9e87a6",
+     "valueLabel": "RBSM"
+    },
+    {
+     "fieldId": "586a99b5e4b0daa006ae1079",
+     "fieldLabel": "Working Location",
+     "valueId": "e5609fc7-7257-48f7-bed7-8dce63076a07",
+     "valueLabel": "Belgrade"
+    },
+    {
+     "fieldId": "69ca83a2489188782a1e9f87",
+     "fieldLabel": "Direct Or Indirect",
+     "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+     "valueLabel": "Indirect"
+    },
+    {
+     "fieldId": "5abe29f9b60a5e486a2d9b1c",
+     "fieldLabel": "Working hours",
+     "valueId": "60756b3e-dbab-4353-ac3a-0064d2bb27d8",
+     "valueLabel": "Full-time"
+    },
+    {
+     "fieldId": "586a9995e4b0daa006ae1078",
+     "fieldLabel": "Legal Entity",
+     "valueId": "99009340-9c16-4dbf-8eee-25a8b7b14c32",
+     "valueLabel": "Robert Bosch d.o.o."
+    },
+    {
+     "fieldId": "691cf1c93001c782b9560ab7",
+     "fieldLabel": "Division full name",
+     "valueId": "b2e47e43-790d-4acb-871a-2ed61d7177ba",
+     "valueLabel": "Mobility Aftermarket"
+    },
+    {
+     "fieldId": "5abe27936d8bc56863dd9745",
+     "fieldLabel": "Position type",
+     "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+     "valueLabel": "Intern"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "rs",
+     "valueLabel": "Serbia"
+    },
+    {
+     "fieldId": "586a971ee4b0daa006ae1077",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Bosch Group"
+    },
+    {
+     "fieldId": "586a996ce4b05fd937b86097",
+     "fieldLabel": "Working Country",
+     "valueId": "b0d220e2-616a-491c-a7de-dd4174883f93",
+     "valueLabel": "Serbia"
+    },
+    {
+     "fieldId": "586a9b22e4b05fd937b8609a",
+     "fieldLabel": "Local Grade",
+     "valueId": "285229ca-d436-4542-aefc-e1f91100c594",
+     "valueLabel": "RS_RBSM_IND"
+    },
+    {
+     "fieldId": "586a99a5e4b05fd937b86099",
+     "fieldLabel": "Division",
+     "valueId": "AA",
+     "valueLabel": "MA"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000154627659",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154623039",
+   "name": "Internship in Radio-based Sensing for Activity Classification and Feature Extraction",
+   "uuid": "ef0bdc56-39f3-4c81-b68d-9eeb2f4b73de",
+   "jobAdId": "ea56592e-5f1d-4bd1-bbc0-5f9577e5f6cb",
+   "defaultJobAd": true,
+   "refNumber": "REF298139D",
+   "company": {
+    "identifier": "BoschGroup",
+    "name": "Bosch Group"
+   },
+   "releasedDate": "2026-10-09T08:57:52.585Z",
+   "location": {
+    "city": "Hildesheim",
+    "region": "NDS",
+    "country": "de",
+    "address": "Robert-Bosch-Straße 200",
+    "postalCode": "31139",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "52.1185303",
+    "longitude": "9.896641599999999",
+    "fullLocation": "Hildesheim, NDS, Germany"
+   },
+   "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+   },
+   "department": {},
+   "function": {
+    "id": "research",
+    "label": "Research"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+     "fieldLabel": "Contract type",
+     "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+     "valueLabel": "Limited"
+    },
+    {
+     "fieldId": "5abe28e96d8bc56863dd9746",
+     "fieldLabel": "Tariff Area",
+     "valueId": "45a4fe7c-ec96-4eda-907f-4aa0356a7704",
+     "valueLabel": "Not tariff-bound / non-tariff / SLx"
+    },
+    {
+     "fieldId": "5aca30e46d8bc56863dd98d8",
+     "fieldLabel": "Tags",
+     "valueId": "f8aadd7e-9952-41c5-af48-02debb3e9010",
+     "valueLabel": "Please enter Career Site Tags"
+    },
+    {
+     "fieldId": "586a997ee4b05fd937b86098",
+     "fieldLabel": "Legal Entity(acronym)",
+     "valueId": "de1f1b31-787f-43b1-88fd-4eb5428a9db8",
+     "valueLabel": "RB"
+    },
+    {
+     "fieldId": "6463ee88f4ba4e3063baf201",
+     "fieldLabel": "Do you want to publish on StepStone?",
+     "valueId": "5449f11a-cf85-46db-80b7-8540bb088d65",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "586a99b5e4b0daa006ae1079",
+     "fieldLabel": "Working Location",
+     "valueId": "c3932cc4-030c-4ea1-af88-f0f94094ad4d",
+     "valueLabel": "Hildesheim"
+    },
+    {
+     "fieldId": "5abe295a6d8bc56863dd9747",
+     "fieldLabel": "Global Salary Level",
+     "valueId": "80ae06a1-4738-48e8-8aea-4613f58ecd57",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "69ca83a2489188782a1e9f87",
+     "fieldLabel": "Direct Or Indirect",
+     "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+     "valueLabel": "Indirect"
+    },
+    {
+     "fieldId": "5abe29f9b60a5e486a2d9b1c",
+     "fieldLabel": "Working hours",
+     "valueId": "60756b3e-dbab-4353-ac3a-0064d2bb27d8",
+     "valueLabel": "Full-time"
+    },
+    {
+     "fieldId": "586a9995e4b0daa006ae1078",
+     "fieldLabel": "Legal Entity",
+     "valueId": "09a12231-6c9c-4061-a114-3ac523872781",
+     "valueLabel": "Robert Bosch GmbH"
+    },
+    {
+     "fieldId": "691cf1c93001c782b9560ab7",
+     "fieldLabel": "Division full name",
+     "valueId": "64f6272a-33d6-475c-8863-1b313d812d10",
+     "valueLabel": "Research and Advance Engineering"
+    },
+    {
+     "fieldId": "5abe27936d8bc56863dd9745",
+     "fieldLabel": "Position type",
+     "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+     "valueLabel": "Intern"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a971ee4b0daa006ae1077",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Bosch Group"
+    },
+    {
+     "fieldId": "586a996ce4b05fd937b86097",
+     "fieldLabel": "Working Country",
+     "valueId": "34525254-83b2-42bc-9932-cf9f16db5281",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a9b22e4b05fd937b8609a",
+     "fieldLabel": "Local Grade",
+     "valueId": "3830e7ee-7637-48d4-8c1a-45ff4d10910c",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "586a99a5e4b05fd937b86099",
+     "fieldLabel": "Division",
+     "valueId": "d95ea243-75c4-4aa6-89b7-b4ac171b34f7",
+     "valueLabel": "C-CR"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000154623039",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154615579",
+   "name": "Praktikum Internationales Projekt-Management Entwicklung Electric Power Steering - EPS",
+   "uuid": "1ddd3ef1-6f87-4acb-8270-435cbc0cd0c4",
+   "jobAdId": "6a275bfb-cbb4-4dc0-975e-6fc946eab180",
+   "defaultJobAd": true,
+   "refNumber": "REF298131L",
+   "company": {
+    "identifier": "BoschGroup",
+    "name": "Bosch Group"
+   },
+   "releasedDate": "2026-10-09T08:24:18.624Z",
+   "location": {
+    "city": "Schwäbisch Gmünd",
+    "region": "BW",
+    "country": "de",
+    "address": "Richard-Bullinger-Straße 77",
+    "postalCode": "73527",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "48.8143012",
+    "longitude": "9.8236485",
+    "fullLocation": "Schwäbisch Gmünd, BW, Germany"
+   },
+   "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+   },
+   "department": {},
+   "function": {
+    "id": "project_management",
+    "label": "Project Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+     "fieldLabel": "Contract type",
+     "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+     "valueLabel": "Limited"
+    },
+    {
+     "fieldId": "5abe28e96d8bc56863dd9746",
+     "fieldLabel": "Tariff Area",
+     "valueId": "45a4fe7c-ec96-4eda-907f-4aa0356a7704",
+     "valueLabel": "Not tariff-bound / non-tariff / SLx"
+    },
+    {
+     "fieldId": "5aca30e46d8bc56863dd98d8",
+     "fieldLabel": "Tags",
+     "valueId": "f8aadd7e-9952-41c5-af48-02debb3e9010",
+     "valueLabel": "Please enter Career Site Tags"
+    },
+    {
+     "fieldId": "586a997ee4b05fd937b86098",
+     "fieldLabel": "Legal Entity(acronym)",
+     "valueId": "de1f1b31-787f-43b1-88fd-4eb5428a9db8",
+     "valueLabel": "RB"
+    },
+    {
+     "fieldId": "6463ee88f4ba4e3063baf201",
+     "fieldLabel": "Do you want to publish on StepStone?",
+     "valueId": "5449f11a-cf85-46db-80b7-8540bb088d65",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "586a99b5e4b0daa006ae1079",
+     "fieldLabel": "Working Location",
+     "valueId": "1a0874de-e207-4960-a28f-7552b1b83bfe",
+     "valueLabel": "Schwäbisch Gmünd"
+    },
+    {
+     "fieldId": "5abe295a6d8bc56863dd9747",
+     "fieldLabel": "Global Salary Level",
+     "valueId": "80ae06a1-4738-48e8-8aea-4613f58ecd57",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "69ca83a2489188782a1e9f87",
+     "fieldLabel": "Direct Or Indirect",
+     "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+     "valueLabel": "Indirect"
+    },
+    {
+     "fieldId": "5abe29f9b60a5e486a2d9b1c",
+     "fieldLabel": "Working hours",
+     "valueId": "60756b3e-dbab-4353-ac3a-0064d2bb27d8",
+     "valueLabel": "Full-time"
+    },
+    {
+     "fieldId": "586a9995e4b0daa006ae1078",
+     "fieldLabel": "Legal Entity",
+     "valueId": "09a12231-6c9c-4061-a114-3ac523872781",
+     "valueLabel": "Robert Bosch GmbH"
+    },
+    {
+     "fieldId": "691cf1c93001c782b9560ab7",
+     "fieldLabel": "Division full name",
+     "valueId": "15bcc29d-90ec-4da5-9bc5-72863bc810d9",
+     "valueLabel": "Vehicle Motion"
+    },
+    {
+     "fieldId": "5abe27936d8bc56863dd9745",
+     "fieldLabel": "Position type",
+     "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+     "valueLabel": "Intern"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a971ee4b0daa006ae1077",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Bosch Group"
+    },
+    {
+     "fieldId": "586a996ce4b05fd937b86097",
+     "fieldLabel": "Working Country",
+     "valueId": "34525254-83b2-42bc-9932-cf9f16db5281",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "586a9b22e4b05fd937b8609a",
+     "fieldLabel": "Local Grade",
+     "valueId": "3830e7ee-7637-48d4-8c1a-45ff4d10910c",
+     "valueLabel": "Others"
+    },
+    {
+     "fieldId": "586a99a5e4b05fd937b86099",
+     "fieldLabel": "Division",
+     "valueId": "CC",
+     "valueLabel": "VM"
+    },
+    {
+     "fieldId": "5aca31126d8bc56863dd98d9",
+     "fieldLabel": "Career Site Tags",
+     "valueLabel": "InternationalesManagement,Organisationsentwicklung,Crossfunktional,Entrepreneur"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000154615579",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000154597344",
+   "name": "Marketing Communications Intern",
+   "uuid": "8e0d288b-e6f0-4aaa-8bc7-8baa123a4c76",
+   "jobAdId": "c634eac7-d41b-4bc6-a1d4-243dc9202aba",
+   "defaultJobAd": true,
+   "refNumber": "REF298069B",
+   "company": {
+    "identifier": "BoschGroup",
+    "name": "Bosch Group"
+   },
+   "releasedDate": "2026-10-09T06:52:26.427Z",
+   "location": {
+    "city": "Denham",
+    "region": "England",
+    "country": "gb",
+    "address": "North Orbital Road",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "51.5880699",
+    "longitude": "-0.5003765",
+    "fullLocation": "Denham, England, United Kingdom"
+   },
+   "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+   },
+   "department": {},
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+     "fieldLabel": "Contract type",
+     "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+     "valueLabel": "Limited"
+    },
+    {
+     "fieldId": "5abe28e96d8bc56863dd9746",
+     "fieldLabel": "Tariff Area",
+     "valueId": "6be1389b-3b89-46a0-ab4a-b51338ddae47",
+     "valueLabel": "United Kingdom Local Grades"
+    },
+    {
+     "fieldId": "586a997ee4b05fd937b86098",
+     "fieldLabel": "Legal Entity(acronym)",
+     "valueId": "2317f26d-4a0b-4ce5-b76f-95b870561040",
+     "valueLabel": "RBGB"
+    },
+    {
+     "fieldId": "586a99b5e4b0daa006ae1079",
+     "fieldLabel": "Working Location",
+     "valueId": "de45ff18-bef3-4a4a-87e7-10fb581e8f78",
+     "valueLabel": "Denham"
+    },
+    {
+     "fieldId": "5abe295a6d8bc56863dd9747",
+     "fieldLabel": "Global Salary Level",
+     "valueId": "427b1359-5057-4375-a2ae-6c649782296d",
+     "valueLabel": "Experienced/ Middle Tariff"
+    },
+    {
+     "fieldId": "69ca83a2489188782a1e9f87",
+     "fieldLabel": "Direct Or Indirect",
+     "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+     "valueLabel": "Indirect"
+    },
+    {
+     "fieldId": "5abe29f9b60a5e486a2d9b1c",
+     "fieldLabel": "Working hours",
+     "valueId": "60756b3e-dbab-4353-ac3a-0064d2bb27d8",
+     "valueLabel": "Full-time"
+    },
+    {
+     "fieldId": "586a9995e4b0daa006ae1078",
+     "fieldLabel": "Legal Entity",
+     "valueId": "682b1e4a-9087-41fa-ae86-fccf15163a1c",
+     "valueLabel": "Robert Bosch Ltd."
+    },
+    {
+     "fieldId": "691cf1c93001c782b9560ab7",
+     "fieldLabel": "Division full name",
+     "valueId": "da8d70e9-3dc5-4644-9d5b-cd6bf3cb5f82",
+     "valueLabel": "RBGB"
+    },
+    {
+     "fieldId": "5abe27936d8bc56863dd9745",
+     "fieldLabel": "Position type",
+     "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+     "valueLabel": "Intern"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "gb",
+     "valueLabel": "United Kingdom"
+    },
+    {
+     "fieldId": "586a971ee4b0daa006ae1077",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Bosch Group"
+    },
+    {
+     "fieldId": "586a996ce4b05fd937b86097",
+     "fieldLabel": "Working Country",
+     "valueId": "d19d742f-8b42-43f6-b393-13811a0c1136",
+     "valueLabel": "United Kingdom"
+    },
+    {
+     "fieldId": "586a9b22e4b05fd937b8609a",
+     "fieldLabel": "Local Grade",
+     "valueId": "d3f7913b-5557-433f-b035-6c5dac0a0b96",
+     "valueLabel": "GB_RBGB_MON"
+    },
+    {
+     "fieldId": "586a99a5e4b05fd937b86099",
+     "fieldLabel": "Division",
+     "valueId": "274517f9-7ca0-4675-99a7-c1d350a0d331",
+     "valueLabel": "RBGB"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000154597344",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}

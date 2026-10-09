@@ -1,0 +1,174 @@
+{
+ "id": "744000154435119",
+ "name": "IT Intern - Cybersecurity & AI (f/m)",
+ "uuid": "dea68801-12d3-47d3-8dd2-3cf438dda90a",
+ "jobId": "674f3eed-5e43-4195-a97e-58cf7a159ad8",
+ "jobAdId": "c3722104-5ce5-4753-bbae-34cfef829bba",
+ "defaultJobAd": true,
+ "refNumber": "REF298058R",
+ "company": {
+  "name": "Bosch Group",
+  "identifier": "BoschGroup"
+ },
+ "location": {
+  "city": "Warszawa",
+  "region": "Województwo mazowieckie",
+  "country": "pl",
+  "address": "Jutrzenki",
+  "remote": false,
+  "hybrid": true,
+  "latitude": "52.1917872",
+  "longitude": "20.9312393",
+  "fullLocation": "Warszawa, Województwo mazowieckie, Poland"
+ },
+ "customField": [
+  {
+   "fieldId": "5abe2a4ab60a5e486a2d9b1d",
+   "fieldLabel": "Contract type",
+   "valueId": "98487475-2a49-44f5-a615-408b525b3821",
+   "valueLabel": "Limited"
+  },
+  {
+   "fieldId": "5abe28e96d8bc56863dd9746",
+   "fieldLabel": "Tariff Area",
+   "valueId": "aca83824-d7ce-4fc5-95e5-efc078f1f18d",
+   "valueLabel": "Poland Local Grades"
+  },
+  {
+   "fieldId": "586a997ee4b05fd937b86098",
+   "fieldLabel": "Legal Entity(acronym)",
+   "valueId": "6edc97cd-8593-4de3-a8e6-243bac09e15f",
+   "valueLabel": "RBPL"
+  },
+  {
+   "fieldId": "586a99b5e4b0daa006ae1079",
+   "fieldLabel": "Working Location",
+   "valueId": "43fa4a17-f8a0-4bcc-ad69-973ad6e16c05",
+   "valueLabel": "Warszawa"
+  },
+  {
+   "fieldId": "5abe295a6d8bc56863dd9747",
+   "fieldLabel": "Global Salary Level",
+   "valueId": "80ae06a1-4738-48e8-8aea-4613f58ecd57",
+   "valueLabel": "Others"
+  },
+  {
+   "fieldId": "69ca83a2489188782a1e9f87",
+   "fieldLabel": "Direct Or Indirect",
+   "valueId": "1aefbf4c-c10a-422e-a975-a504a7117792",
+   "valueLabel": "Indirect"
+  },
+  {
+   "fieldId": "5abe29f9b60a5e486a2d9b1c",
+   "fieldLabel": "Working hours",
+   "valueId": "36d67fff-2442-44b6-b51d-8070aeaca6e6",
+   "valueLabel": "Part-time"
+  },
+  {
+   "fieldId": "586a9995e4b0daa006ae1078",
+   "fieldLabel": "Legal Entity",
+   "valueId": "c1c40ade-3bd1-4a07-8d7d-c0db6ea387ef",
+   "valueLabel": "Robert Bosch Sp. z o.o."
+  },
+  {
+   "fieldId": "691cf1c93001c782b9560ab7",
+   "fieldLabel": "Division full name",
+   "valueId": "97356ca1-1888-46b6-b7ce-237363ff5944",
+   "valueLabel": "Bosch Digital"
+  },
+  {
+   "fieldId": "5abe27936d8bc56863dd9745",
+   "fieldLabel": "Position type",
+   "valueId": "f524b939-fe55-407b-a0b0-e8f4eec28997",
+   "valueLabel": "Intern"
+  },
+  {
+   "fieldId": "COUNTRY",
+   "fieldLabel": "Country/Region",
+   "valueId": "pl",
+   "valueLabel": "Poland"
+  },
+  {
+   "fieldId": "586a971ee4b0daa006ae1077",
+   "fieldLabel": "Brands",
+   "valueId": "default",
+   "valueLabel": "Bosch Group"
+  },
+  {
+   "fieldId": "586a996ce4b05fd937b86097",
+   "fieldLabel": "Working Country",
+   "valueId": "250fe29b-7589-4acb-b4a3-aca40a38b1fe",
+   "valueLabel": "Poland"
+  },
+  {
+   "fieldId": "586a9b22e4b05fd937b8609a",
+   "fieldLabel": "Local Grade",
+   "valueId": "8f7292e5-0d99-4142-adf8-5b6a412ebde5",
+   "valueLabel": "PL_RBPL_S"
+  },
+  {
+   "fieldId": "586a99a5e4b05fd937b86099",
+   "fieldLabel": "Division",
+   "valueId": "68add7cc-a8f7-4f71-b4ac-9edc4b0ad2db",
+   "valueLabel": "BD"
+  }
+ ],
+ "releasedDate": "2026-10-08T13:09:19.623Z",
+ "creator": {
+  "name": "Kinga Pietruszka (HRL1-PL)",
+  "avatarUrl": "https://c.smartrecruiters.com/sr-employee-image-prod-aws-dc5/6249cdd778259b1b05bc6d08?r=s3-eu-central-1&_1758269762312"
+ },
+ "postingUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000154435119-it-intern-cybersecurity-ai-f-m-",
+ "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000154435119-it-intern-cybersecurity-ai-f-m-?oga=true",
+ "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/BoschGroup/publication/dea68801-12d3-47d3-8dd2-3cf438dda90a?dcr_ci=BoschGroup",
+ "jobAd": {
+  "sections": {
+   "companyDescription": {
+    "title": "Company Description",
+    "text": "<p><strong>At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: we enjoy our work, we inspire each other, we provide equal growth opportunities for all team members, all roles are represented in all countries. We grow together!</strong></p>"
+   },
+   "jobDescription": {
+    "title": "Job Description",
+    "text": "<p>Are you interested in cybersecurity, artificial intelligence and the latest developments in IT? Would you like to gain practical experience in an international environment and learn from experienced professionals?</p><p>Join our BD/CSO team and support us in addressing cybersecurity topics, improving security-related processes and contributing to ongoing IT initiatives. This paid internship will give you the opportunity to apply your academic knowledge, develop new competencies and take part in meaningful projects.</p><p><strong>Your responsibilities</strong></p><ul><li>Support the&#xa0;team in day-to-day cybersecurity activities and ongoing IT projects.</li><li>Assist with the preparation and maintenance of security-related documentation, reports, analyses and presentations.</li><li>Conduct research on cybersecurity trends, emerging threats and relevant technologies.</li><li>Support the team in identifying, documenting and following up on IT security topics.</li><li>Contribute to the improvement and standardization of cybersecurity processes.</li><li>Assist with the use and evaluation of AI-supported solutions in the context of IT and cybersecurity.</li><li>Collaborate with colleagues and stakeholders from different countries and functions.</li><li>Provide organizational and administrative support for team initiatives and security awareness activities.</li></ul>"
+   },
+   "qualifications": {
+    "title": "Qualifications",
+    "text": "<p><strong>What we are looking for:</strong></p><ul><li>You are currently enrolled in the <strong>2nd, 3rd or 4th year of university studies</strong>, preferably in Computer Science, Cybersecurity, Information Technology or a related field.</li><li>You have a good understanding of <strong>cybersecurity concepts and IT security principles</strong>.</li><li>You demonstrate <strong>AI literacy</strong> and are interested in the practical application of artificial intelligence.</li><li>You have a very good command of <strong>English</strong>, both written and spoken.</li><li>You are available for <strong>30–40 hours per week</strong>.</li><li>You are motivated to gain professional experience in an IT environment.</li><li>You are comfortable working with <strong>Microsoft Office tools</strong>, particularly Excel, PowerPoint and Word.</li><li>You are able to work effectively in an international and diverse team.</li><li>You demonstrate analytical thinking, attention to detail and a structured approach to tasks.</li><li>You are<strong> proactive,</strong> responsible and eager to learn.</li></ul><p><strong>Nice to have:</strong></p><ul><li>First academic, project-based or professional experience related to cybersecurity or IT security.</li><li>Familiarity with information security standards, risk management or data protection.</li><li>Interest in AI applications, automation or new technologies.</li><li>Experience in preparing reports, presentations or technical documentation.</li></ul>"
+   },
+   "additionalInformation": {
+    "title": "Additional Information",
+    "text": "<p><strong>Bosch’s culture of innovation and digital transformation offers you a fantastic platform to grow your skills and enhance your network. We are dedicated to building a warm, open, transparent, and inclusive work environment for all.</strong></p><p><strong>Benefits that we offer:</strong></p><ul><li>Cooperation based on a civil-law contract (minimum 6 months).</li><li>Flexible scheduling of task delivery, allowing you to combine it with your studies.</li><li>Practical knowledge sharing within international team.</li><li>Learning and mentoring support from best Experts in the field.</li><li>Prepaid Lunch Card Pluxee.</li><li>Special offer for MultiSport Student.</li></ul>"
+   },
+   "videos": {
+    "title": "Videos To Watch",
+    "urls": [
+     "https://www.youtube.com/watch?v=ef0Ok4cDDO0",
+     "https://www.youtube.com/shorts/y8vCLkveMpw"
+    ]
+   }
+  }
+ },
+ "active": true,
+ "visibility": "PUBLIC",
+ "industry": {
+  "id": "mechanical_engineering",
+  "label": "Mechanical Or Industrial Engineering"
+ },
+ "function": {
+  "id": "information_technology",
+  "label": "Information Technology"
+ },
+ "experienceLevel": {
+  "id": "internship",
+  "label": "Internship"
+ },
+ "typeOfEmployment": {
+  "id": "intern",
+  "label": "Intern"
+ },
+ "language": {
+  "code": "en",
+  "label": "English",
+  "labelNative": "English (US)"
+ }
+}

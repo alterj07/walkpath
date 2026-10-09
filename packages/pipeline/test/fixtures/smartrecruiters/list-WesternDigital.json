@@ -1,0 +1,643 @@
+{
+ "offset": 0,
+ "limit": 100,
+ "totalFound": 5,
+ "content": [
+  {
+   "id": "744000153666512",
+   "name": "Intern - People Development Assistant",
+   "uuid": "30284cb2-ce8f-4a0b-a1ce-07387f47364b",
+   "jobAdId": "cb111478-5b5a-43e8-acfd-76c5d92115de",
+   "defaultJobAd": true,
+   "refNumber": "REF33464R",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-10-06T06:19:39.758Z",
+   "location": {
+    "city": "BangPa-in",
+    "region": "PHRA NAKHON SI AYUTTHAYA",
+    "country": "th",
+    "postalCode": "13160",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "administrative",
+    "label": "Administrative"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-NP",
+     "valueLabel": "New Position--P-NP"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Administration",
+     "valueLabel": "Administration"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "64bab6e62b28b434523803f7",
+     "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+     "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+     "valueLabel": "FY27"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "th",
+     "valueLabel": "Thailand"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "107963",
+     "valueLabel": "Intern, Non-Technical (Undergraduate) - 107963"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Storage Technologies (Thailand) Ltd.",
+     "valueLabel": "TH-Western Digital Storage Technologies (Thailand) Ltd.--CO_WD Western Digital Storage Technologies (Thailand) Ltd."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_TH1413",
+     "valueLabel": "BangPa-In Building 3--LOC_WDT_TH1413"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "a2311865-65a3-49cb-bc3c-708cda919836",
+     "valueLabel": "UR - Intern"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "I301"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000153666512",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000152261929",
+   "name": "Winter 2027 Intern/Co-op Development Engineer ",
+   "uuid": "075167c2-ed43-43ab-9a60-210714e28a38",
+   "jobAdId": "4ff0fab2-8d4c-417d-98a9-733514fd9e49",
+   "defaultJobAd": true,
+   "refNumber": "REF34385P",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-09-28T19:47:06.751Z",
+   "location": {
+    "city": "Rochester",
+    "region": "MN",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "44.0193287",
+    "longitude": "-92.45883270000002",
+    "fullLocation": "Rochester, MN, United States"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "f464bc93-cf91-46e3-9d02-1393d111a99c",
+     "valueLabel": "Non-Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "61710328e65c003e53504dd0",
+     "fieldLabel": "Salary Range",
+     "valueId": "22.84-30.45",
+     "valueLabel": "22.84-30.45"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000196857",
+     "valueLabel": "Winter 2027 Intern/Co-op Development Engineer (Unfilled)--P-0000196857"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Engineering Support",
+     "valueLabel": "Engineering Support"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+     "valueLabel": "Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "64bab6e62b28b434523803f7",
+     "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+     "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+     "valueLabel": "FY27"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "107966",
+     "valueLabel": "Intern, Technical (Undergraduate) - 107966"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Technologies, Inc.",
+     "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT 1",
+     "valueLabel": "Shift 1 (Mon-Fri 8am - 5pm) (United States of America)--WDT 1"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_HGST_PLR",
+     "valueLabel": "Rochester Office--LOC_HGST_PLR"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "a2311865-65a3-49cb-bc3c-708cda919836",
+     "valueLabel": "UR - Intern"
+    },
+    {
+     "fieldId": "60c267a50fe02a2d1c6e2d3c",
+     "fieldLabel": "Career Site Category",
+     "valueId": "973bd5d3-fe3b-425a-b505-a68410874014",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "I301"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000152261929",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154725809",
+   "name": "Customer Failure Analysis Engineer",
+   "uuid": "dc2fe964-6820-43c1-a9ba-9f5e6985cdde",
+   "jobAdId": "275f01fa-f95c-423c-9602-2de1f829e6e6",
+   "defaultJobAd": true,
+   "refNumber": "REF34718Y",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-10-09T16:04:41.978Z",
+   "location": {
+    "city": "San Jose",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.33874",
+    "longitude": "-121.8852525",
+    "fullLocation": "San Jose, CA, United States"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "61710328e65c003e53504dd0",
+     "fieldLabel": "Salary Range",
+     "valueId": "84,200.00-112,300.00",
+     "valueLabel": "84,200.00-112,300.00"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-NP",
+     "valueLabel": "New Position--P-NP"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Data Analytics",
+     "valueLabel": "Data Analytics"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+     "valueLabel": "Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "104268",
+     "valueLabel": "Analyst 2, Data Analytics - 104268"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Technologies, Inc.",
+     "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT 1",
+     "valueLabel": "Shift 1 (Mon-Fri 8am - 5pm) (United States of America)--WDT 1"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_USCA23",
+     "valueLabel": "San Jose Great Oaks Headquarters--LOC_WDT_USCA23"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "9b65be5e-bac0-40eb-babf-17e8b10753da",
+     "valueLabel": "UR - NCG Ad Hoc"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P106"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000154725809",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154697334",
+   "name": "Director, Benefits ",
+   "uuid": "54574dd4-b9cd-4598-859d-8554c1e068dd",
+   "jobAdId": "1049f72d-2559-4215-b04d-8f5fc4c8f40f",
+   "defaultJobAd": true,
+   "refNumber": "REF34798B",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-10-09T14:25:57.153Z",
+   "location": {
+    "city": "San Jose",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "Monday/Wednesday/Thursday on-site ",
+    "latitude": "37.33874",
+    "longitude": "-121.8852525",
+    "fullLocation": "San Jose, CA, United States"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "61710328e65c003e53504dd0",
+     "fieldLabel": "Salary Range",
+     "valueId": "191,900.00-255,800.00",
+     "valueLabel": "191,900.00-255,800.00"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000197859",
+     "valueLabel": "Director, Benefits (Unfilled)--P-0000197859"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Benefits",
+     "valueLabel": "Benefits"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+     "valueLabel": "Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100935",
+     "valueLabel": "Director, Benefits - 100935"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Technologies, Inc.",
+     "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_USCA23",
+     "valueLabel": "San Jose Great Oaks Headquarters--LOC_WDT_USCA23"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "M110"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000154697334",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154630709",
+   "name": "Analyst 3, Import/Export",
+   "uuid": "6e7ca80e-dfd8-485e-991b-bc1acd5d1524",
+   "jobAdId": "06e9b85a-44a1-4f88-9de3-54c93ca634ce",
+   "defaultJobAd": true,
+   "refNumber": "REF34103B",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-10-09T09:39:47.661Z",
+   "location": {
+    "city": "Ladkrabang",
+    "region": "Bangkok",
+    "country": "th",
+    "postalCode": "10520",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "1 day a week",
+    "fullLocation": "Ladkrabang, Bangkok, Thailand"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "supply_chain",
+    "label": "Supply Chain"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "f464bc93-cf91-46e3-9d02-1393d111a99c",
+     "valueLabel": "Non-Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000184939",
+     "valueLabel": "Global Trade Project Analyst (Unfilled)-Sakshi Singh (Terminated)--P-0000184939"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Import#47Export",
+     "valueLabel": "Import/Export"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "c8df8bc2-0b54-4d59-86dc-033e46cb13ac",
+     "valueLabel": "Western Digital Storage Technologies (Thailand) Ltd."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "th",
+     "valueLabel": "Thailand"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "102835",
+     "valueLabel": "Analyst 3, Import/Export - 102835"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Storage Technologies (Thailand) Ltd.",
+     "valueLabel": "TH-Western Digital Storage Technologies (Thailand) Ltd.--CO_WD Western Digital Storage Technologies (Thailand) Ltd."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "7ebfbb2f-22f4-4206-8182-c3d7313f9f36",
+     "valueLabel": "Thailand"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_TH1511",
+     "valueLabel": "Warehouse Romklao Office--LOC_WDT_TH1511"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P107"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000154630709",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}

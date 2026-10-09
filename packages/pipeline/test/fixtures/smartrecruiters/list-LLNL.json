@@ -1,0 +1,660 @@
+{
+ "offset": 0,
+ "limit": 100,
+ "totalFound": 5,
+ "content": [
+  {
+   "id": "3743990015996516",
+   "name": "Defense Technologies Engineering Division (DTED): Graduate Intern - Summer 2027",
+   "uuid": "e50d3b9d-259c-4772-980d-797696a2e41f",
+   "jobAdId": "0983ef6e-6e2d-446c-b857-43cff57f4d6d",
+   "defaultJobAd": true,
+   "refNumber": "REF8761J",
+   "company": {
+    "identifier": "LLNL",
+    "name": "LLNL"
+   },
+   "releasedDate": "2026-10-08T17:39:13.659Z",
+   "location": {
+    "city": "Livermore",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.6818688",
+    "longitude": "-121.7684732",
+    "fullLocation": "Livermore, CA, United States"
+   },
+   "industry": {
+    "id": "research",
+    "label": "Research"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5f482a5514424210633b6164",
+     "fieldLabel": "Organization",
+     "valueId": "Engineering",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5f4585dd14424210633b6162",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "LLNL"
+    },
+    {
+     "fieldId": "5fa4c4ac8dff831cf540d274",
+     "fieldLabel": "Employee Referral Bonus",
+     "valueId": "1ae60b83-1db2-455d-b97f-65390a52b76b",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f4825d673fa282066ed7e62",
+     "fieldLabel": "Job Code 1",
+     "valueId": "705.2",
+     "valueLabel": "705.2 Grad Student R&D/Technical"
+    },
+    {
+     "fieldId": "5fa4c0992a1c2525a4836aec",
+     "fieldLabel": "Appointment Code",
+     "valueId": "f01e7a65-a64d-4393-a25a-a7bbbf0a7f90",
+     "valueLabel": "ST Temporary Student Intern"
+    },
+    {
+     "fieldId": "61fed17773e44c7f482a56a6",
+     "fieldLabel": "Pre-Placement Medical Exam",
+     "valueId": "122434ab-441e-4761-a8fe-ec85a222bdc5",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f48288273fa282066ed7e63",
+     "fieldLabel": "Category",
+     "valueId": "156da5cf-5933-4153-874f-cfd786065564",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5fa4bed92a1c2525a4836aeb",
+     "fieldLabel": "Internal Only",
+     "valueId": "7beb8635-2c97-4d8c-bc24-e6c360bcfd9c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "5f4842b814424210633b6168",
+     "fieldLabel": "Job Code 2",
+     "valueId": "712.0",
+     "valueLabel": "712.0 Intern Exempt"
+    },
+    {
+     "fieldId": "5f48428273fa282066ed7e65",
+     "fieldLabel": "Payroll Account",
+     "valueId": "9775",
+     "valueLabel": "9775 Defense Technologies Engineeri"
+    },
+    {
+     "fieldId": "5f48412d14424210633b6166",
+     "fieldLabel": "Pre-Employment Drug Test",
+     "valueId": "3800b33d-2b7a-446b-b3bf-7482f9e1879d",
+     "valueLabel": "Required for external applicant(s) selected for this position (includes testing for use of marijuana)"
+    },
+    {
+     "fieldId": "5f482bd914424210633b6165",
+     "fieldLabel": "Security Clearance",
+     "valueId": "0421aa4c-5010-445c-bb6a-44c722f577a1",
+     "valueLabel": "None, but work must be performed by a U.S. person (e.g., U.S. citizen or permanent resident and certain others).  Also, assignments longer than 179 days require a federal background investigation."
+    },
+    {
+     "fieldId": "5f482af273fa282066ed7e64",
+     "fieldLabel": "Position Type",
+     "valueId": "5e392ae9-8f09-4e6d-a509-06e8ff51ef46",
+     "valueLabel": "Student Intern"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990015996516",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "3743990015996506",
+   "name": "Defense Technologies Engineering Division (DTED): Design Undergraduate Intern - Summer 2027",
+   "uuid": "bb6a6d03-aa6b-41ab-b506-ba62c2031561",
+   "jobAdId": "2c5a15fb-fdfc-4023-8f99-502db38acca7",
+   "defaultJobAd": true,
+   "refNumber": "REF8765U",
+   "company": {
+    "identifier": "LLNL",
+    "name": "LLNL"
+   },
+   "releasedDate": "2026-10-08T17:37:39.738Z",
+   "location": {
+    "city": "Livermore",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.6818688",
+    "longitude": "-121.7684732",
+    "fullLocation": "Livermore, CA, United States"
+   },
+   "industry": {
+    "id": "research",
+    "label": "Research"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5f482a5514424210633b6164",
+     "fieldLabel": "Organization",
+     "valueId": "Engineering",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5f4585dd14424210633b6162",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "LLNL"
+    },
+    {
+     "fieldId": "5fa4c4ac8dff831cf540d274",
+     "fieldLabel": "Employee Referral Bonus",
+     "valueId": "1ae60b83-1db2-455d-b97f-65390a52b76b",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f4825d673fa282066ed7e62",
+     "fieldLabel": "Job Code 1",
+     "valueId": "705.1",
+     "valueLabel": "705.1 Under Grad Student"
+    },
+    {
+     "fieldId": "5fa4c0992a1c2525a4836aec",
+     "fieldLabel": "Appointment Code",
+     "valueId": "f01e7a65-a64d-4393-a25a-a7bbbf0a7f90",
+     "valueLabel": "ST Temporary Student Intern"
+    },
+    {
+     "fieldId": "61fed17773e44c7f482a56a6",
+     "fieldLabel": "Pre-Placement Medical Exam",
+     "valueId": "122434ab-441e-4761-a8fe-ec85a222bdc5",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f48288273fa282066ed7e63",
+     "fieldLabel": "Category",
+     "valueId": "156da5cf-5933-4153-874f-cfd786065564",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5fa4bed92a1c2525a4836aeb",
+     "fieldLabel": "Internal Only",
+     "valueId": "7beb8635-2c97-4d8c-bc24-e6c360bcfd9c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "5f4842b814424210633b6168",
+     "fieldLabel": "Job Code 2",
+     "valueId": "714.0",
+     "valueLabel": "714.0 Intern Nonexempt"
+    },
+    {
+     "fieldId": "5f48428273fa282066ed7e65",
+     "fieldLabel": "Payroll Account",
+     "valueId": "9775",
+     "valueLabel": "9775 Defense Technologies Engineeri"
+    },
+    {
+     "fieldId": "5f48412d14424210633b6166",
+     "fieldLabel": "Pre-Employment Drug Test",
+     "valueId": "3800b33d-2b7a-446b-b3bf-7482f9e1879d",
+     "valueLabel": "Required for external applicant(s) selected for this position (includes testing for use of marijuana)"
+    },
+    {
+     "fieldId": "5f482bd914424210633b6165",
+     "fieldLabel": "Security Clearance",
+     "valueId": "0421aa4c-5010-445c-bb6a-44c722f577a1",
+     "valueLabel": "None, but work must be performed by a U.S. person (e.g., U.S. citizen or permanent resident and certain others).  Also, assignments longer than 179 days require a federal background investigation."
+    },
+    {
+     "fieldId": "5f482af273fa282066ed7e64",
+     "fieldLabel": "Position Type",
+     "valueId": "5e392ae9-8f09-4e6d-a509-06e8ff51ef46",
+     "valueLabel": "Student Intern"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990015996506",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "3743990015996496",
+   "name": "Defense Technologies Engineering Division (DTED): Undergraduate Intern - Summer 2027",
+   "uuid": "49217a72-32b9-4317-bec1-447ba5c35add",
+   "jobAdId": "58734427-c536-45e1-98ae-56c02d77c417",
+   "defaultJobAd": true,
+   "refNumber": "REF8760P",
+   "company": {
+    "identifier": "LLNL",
+    "name": "LLNL"
+   },
+   "releasedDate": "2026-10-08T17:36:50.356Z",
+   "location": {
+    "city": "Livermore",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.6818688",
+    "longitude": "-121.7684732",
+    "fullLocation": "Livermore, CA, United States"
+   },
+   "industry": {
+    "id": "research",
+    "label": "Research"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5f482a5514424210633b6164",
+     "fieldLabel": "Organization",
+     "valueId": "Engineering",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5f4585dd14424210633b6162",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "LLNL"
+    },
+    {
+     "fieldId": "5fa4c4ac8dff831cf540d274",
+     "fieldLabel": "Employee Referral Bonus",
+     "valueId": "1ae60b83-1db2-455d-b97f-65390a52b76b",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f4825d673fa282066ed7e62",
+     "fieldLabel": "Job Code 1",
+     "valueId": "705.1",
+     "valueLabel": "705.1 Under Grad Student"
+    },
+    {
+     "fieldId": "5fa4c0992a1c2525a4836aec",
+     "fieldLabel": "Appointment Code",
+     "valueId": "f01e7a65-a64d-4393-a25a-a7bbbf0a7f90",
+     "valueLabel": "ST Temporary Student Intern"
+    },
+    {
+     "fieldId": "61fed17773e44c7f482a56a6",
+     "fieldLabel": "Pre-Placement Medical Exam",
+     "valueId": "122434ab-441e-4761-a8fe-ec85a222bdc5",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f48288273fa282066ed7e63",
+     "fieldLabel": "Category",
+     "valueId": "156da5cf-5933-4153-874f-cfd786065564",
+     "valueLabel": "Engineering"
+    },
+    {
+     "fieldId": "5fa4bed92a1c2525a4836aeb",
+     "fieldLabel": "Internal Only",
+     "valueId": "7beb8635-2c97-4d8c-bc24-e6c360bcfd9c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "5f4842b814424210633b6168",
+     "fieldLabel": "Job Code 2",
+     "valueId": "714.0",
+     "valueLabel": "714.0 Intern Nonexempt"
+    },
+    {
+     "fieldId": "5f48428273fa282066ed7e65",
+     "fieldLabel": "Payroll Account",
+     "valueId": "9775",
+     "valueLabel": "9775 Defense Technologies Engineeri"
+    },
+    {
+     "fieldId": "5f48412d14424210633b6166",
+     "fieldLabel": "Pre-Employment Drug Test",
+     "valueId": "3800b33d-2b7a-446b-b3bf-7482f9e1879d",
+     "valueLabel": "Required for external applicant(s) selected for this position (includes testing for use of marijuana)"
+    },
+    {
+     "fieldId": "5f482bd914424210633b6165",
+     "fieldLabel": "Security Clearance",
+     "valueId": "0421aa4c-5010-445c-bb6a-44c722f577a1",
+     "valueLabel": "None, but work must be performed by a U.S. person (e.g., U.S. citizen or permanent resident and certain others).  Also, assignments longer than 179 days require a federal background investigation."
+    },
+    {
+     "fieldId": "5f482af273fa282066ed7e64",
+     "fieldLabel": "Position Type",
+     "valueId": "5e392ae9-8f09-4e6d-a509-06e8ff51ef46",
+     "valueLabel": "Student Intern"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990015996496",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "3743990015908146",
+   "name": "Space Science Institute Graduate Intern - Summer 2027",
+   "uuid": "003b6850-c5c2-4379-a2ab-62c53a4c02bf",
+   "jobAdId": "157d25b0-f113-4241-a933-42f4350141bb",
+   "defaultJobAd": true,
+   "refNumber": "REF8942Q",
+   "company": {
+    "identifier": "LLNL",
+    "name": "LLNL"
+   },
+   "releasedDate": "2026-10-06T00:09:03.895Z",
+   "location": {
+    "city": "Livermore",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.6818688",
+    "longitude": "-121.7684732",
+    "fullLocation": "Livermore, CA, United States"
+   },
+   "industry": {
+    "id": "research",
+    "label": "Research"
+   },
+   "department": {},
+   "function": {
+    "id": "science",
+    "label": "Science"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5f482a5514424210633b6164",
+     "fieldLabel": "Organization",
+     "valueId": "Physical and Life Sciences",
+     "valueLabel": "Physical and Life Sciences"
+    },
+    {
+     "fieldId": "5f4585dd14424210633b6162",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "LLNL"
+    },
+    {
+     "fieldId": "5fa4c4ac8dff831cf540d274",
+     "fieldLabel": "Employee Referral Bonus",
+     "valueId": "1ae60b83-1db2-455d-b97f-65390a52b76b",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f4825d673fa282066ed7e62",
+     "fieldLabel": "Job Code 1",
+     "valueId": "705.2",
+     "valueLabel": "705.2 Grad Student R&D/Technical"
+    },
+    {
+     "fieldId": "5fa4c0992a1c2525a4836aec",
+     "fieldLabel": "Appointment Code",
+     "valueId": "f01e7a65-a64d-4393-a25a-a7bbbf0a7f90",
+     "valueLabel": "ST Temporary Student Intern"
+    },
+    {
+     "fieldId": "61fed17773e44c7f482a56a6",
+     "fieldLabel": "Pre-Placement Medical Exam",
+     "valueId": "122434ab-441e-4761-a8fe-ec85a222bdc5",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f48288273fa282066ed7e63",
+     "fieldLabel": "Category",
+     "valueId": "87baf013-e70d-4950-bf3c-f6fbf8375375",
+     "valueLabel": "Students"
+    },
+    {
+     "fieldId": "5fa4bed92a1c2525a4836aeb",
+     "fieldLabel": "Internal Only",
+     "valueId": "7beb8635-2c97-4d8c-bc24-e6c360bcfd9c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "5f48428273fa282066ed7e65",
+     "fieldLabel": "Payroll Account",
+     "valueId": "9855",
+     "valueLabel": "9855 Physics"
+    },
+    {
+     "fieldId": "5f48412d14424210633b6166",
+     "fieldLabel": "Pre-Employment Drug Test",
+     "valueId": "3800b33d-2b7a-446b-b3bf-7482f9e1879d",
+     "valueLabel": "Required for external applicant(s) selected for this position (includes testing for use of marijuana)"
+    },
+    {
+     "fieldId": "5f482bd914424210633b6165",
+     "fieldLabel": "Security Clearance",
+     "valueId": "bc31c154-33c7-4402-aa7a-76029c076f7b",
+     "valueLabel": "None/Position does not require US citizenship (assignments longer than 179 days require a federal background investigation)"
+    },
+    {
+     "fieldId": "5f482af273fa282066ed7e64",
+     "fieldLabel": "Position Type",
+     "valueId": "5e392ae9-8f09-4e6d-a509-06e8ff51ef46",
+     "valueLabel": "Student Intern"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990015908146",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "3743990015908136",
+   "name": " Space Science Institute Undergraduate Intern - Summer 2027",
+   "uuid": "ff955e45-c40e-4e8b-89ec-fd3fba555291",
+   "jobAdId": "7234a05f-81c1-47f9-8b5c-23f644019e30",
+   "defaultJobAd": true,
+   "refNumber": "REF8943M",
+   "company": {
+    "identifier": "LLNL",
+    "name": "LLNL"
+   },
+   "releasedDate": "2026-10-06T00:06:32.608Z",
+   "location": {
+    "city": "Livermore",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.6818688",
+    "longitude": "-121.7684732",
+    "fullLocation": "Livermore, CA, United States"
+   },
+   "industry": {
+    "id": "research",
+    "label": "Research"
+   },
+   "department": {},
+   "function": {
+    "id": "science",
+    "label": "Science"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5f482a5514424210633b6164",
+     "fieldLabel": "Organization",
+     "valueId": "Physical and Life Sciences",
+     "valueLabel": "Physical and Life Sciences"
+    },
+    {
+     "fieldId": "5f4585dd14424210633b6162",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "LLNL"
+    },
+    {
+     "fieldId": "5fa4c4ac8dff831cf540d274",
+     "fieldLabel": "Employee Referral Bonus",
+     "valueId": "1ae60b83-1db2-455d-b97f-65390a52b76b",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f4825d673fa282066ed7e62",
+     "fieldLabel": "Job Code 1",
+     "valueId": "705.1",
+     "valueLabel": "705.1 Under Grad Student"
+    },
+    {
+     "fieldId": "5fa4c0992a1c2525a4836aec",
+     "fieldLabel": "Appointment Code",
+     "valueId": "f01e7a65-a64d-4393-a25a-a7bbbf0a7f90",
+     "valueLabel": "ST Temporary Student Intern"
+    },
+    {
+     "fieldId": "61fed17773e44c7f482a56a6",
+     "fieldLabel": "Pre-Placement Medical Exam",
+     "valueId": "122434ab-441e-4761-a8fe-ec85a222bdc5",
+     "valueLabel": "Not applicable"
+    },
+    {
+     "fieldId": "5f48288273fa282066ed7e63",
+     "fieldLabel": "Category",
+     "valueId": "87baf013-e70d-4950-bf3c-f6fbf8375375",
+     "valueLabel": "Students"
+    },
+    {
+     "fieldId": "5fa4bed92a1c2525a4836aeb",
+     "fieldLabel": "Internal Only",
+     "valueId": "7beb8635-2c97-4d8c-bc24-e6c360bcfd9c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "5f48428273fa282066ed7e65",
+     "fieldLabel": "Payroll Account",
+     "valueId": "9855",
+     "valueLabel": "9855 Physics"
+    },
+    {
+     "fieldId": "5f48412d14424210633b6166",
+     "fieldLabel": "Pre-Employment Drug Test",
+     "valueId": "3800b33d-2b7a-446b-b3bf-7482f9e1879d",
+     "valueLabel": "Required for external applicant(s) selected for this position (includes testing for use of marijuana)"
+    },
+    {
+     "fieldId": "5f482af273fa282066ed7e64",
+     "fieldLabel": "Position Type",
+     "valueId": "5e392ae9-8f09-4e6d-a509-06e8ff51ef46",
+     "valueLabel": "Student Intern"
+    },
+    {
+     "fieldId": "5f482bd914424210633b6165",
+     "fieldLabel": "Security Clearance",
+     "valueId": "bc31c154-33c7-4402-aa7a-76029c076f7b",
+     "valueLabel": "None/Position does not require US citizenship (assignments longer than 179 days require a federal background investigation)"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990015908136",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}
