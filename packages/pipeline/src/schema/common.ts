@@ -1,9 +1,6 @@
 import { z } from 'zod';
 
-/**
- * Applicant-tracking systems a registry row may name. Adapters exist for the first six in the
- * MVP; the rest are fingerprinted and kept in the registry until an adapter lands.
- */
+/** Applicant-tracking systems the pipeline knows how to poll. */
 export const AtsSchema = z.enum([
   'greenhouse',
   'lever',
@@ -13,11 +10,6 @@ export const AtsSchema = z.enum([
   'workday',
   'recruitee',
   'breezy',
-  'pinpoint',
-  'teamtailor',
-  'personio',
-  'bamboohr',
-  'jazzhr',
   'jsonld',
 ]);
 export type Ats = z.infer<typeof AtsSchema>;
@@ -32,6 +24,17 @@ export const RoleFamilySchema = z.enum([
   'quant_research',
 ]);
 export type RoleFamily = z.infer<typeof RoleFamilySchema>;
+
+/** Human-readable labels for role families (feeds, alerts, meta). The site keeps its own copy. */
+export const FAMILY_LABELS: Readonly<Record<RoleFamily, string>> = {
+  software_engineering: 'Software Engineering',
+  data_ml_ai: 'Data / ML / AI',
+  it_cloud_security: 'IT / Cloud / Security',
+  product: 'Product',
+  ux_design: 'UX / Design',
+  hardware_embedded: 'Hardware / Embedded / EE',
+  quant_research: 'Quant / Research',
+};
 
 export const ArrangementSchema = z.enum(['in_person', 'hybrid', 'remote', 'unknown']);
 export type Arrangement = z.infer<typeof ArrangementSchema>;
