@@ -1,0 +1,98 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "611a7f87-bc4c-468f-976f-ecd33b731fa3",
+      "title": "PhD Autonomy Engineer Intern - Computer Vision / Deep Learning Summer 2027",
+      "department": "R&D",
+      "team": "Autonomy",
+      "employmentType": "Intern",
+      "location": "Zurich, Switzerland",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [],
+      "publishedAt": "2026-09-03T23:26:05.937+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Zurich",
+          "addressCountry": "Switzerland",
+          "addressLocality": "Zurich"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3/application",
+      "descriptionHtml": "<p style=\"min-height:1.5em\">Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone ",
+      "descriptionPlain": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspecto",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    },
+    {
+      "id": "ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+      "department": "R&D",
+      "team": "Autonomy",
+      "employmentType": "Intern",
+      "location": "San Mateo, California, United States",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [],
+      "publishedAt": "2026-09-03T23:28:02.086+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Mateo"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application",
+      "descriptionHtml": "<p style=\"min-height:1.5em\">Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone ",
+      "descriptionPlain": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspecto",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    },
+    {
+      "id": "d75d4adf-760c-46b6-bb98-3497650a8924",
+      "title": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
+      "department": "R&D",
+      "team": "Software",
+      "employmentType": "Intern",
+      "location": "San Mateo, California, United States",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [],
+      "publishedAt": "2026-08-05T00:25:45.828+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Mateo"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application",
+      "descriptionHtml": "<p style=\"min-height:1.5em\">Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone ",
+      "descriptionPlain": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspecto",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    }
+  ]
+}

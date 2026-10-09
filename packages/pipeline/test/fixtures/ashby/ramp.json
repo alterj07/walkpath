@@ -1,0 +1,376 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "title": "Applied Scientist Intern",
+      "department": "Data",
+      "team": "Emerging Talent - Data",
+      "employmentType": "Intern",
+      "location": "New York, NY (HQ)",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [],
+      "publishedAt": "2026-09-15T01:44:04.643+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "NY",
+          "addressCountry": "USA",
+          "addressLocality": "New York City"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "applyUrl": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application",
+      "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems a",
+      "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and ",
+      "compensation": {
+        "compensationTierSummary": "$12.5K per month",
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [
+          {
+            "id": "0e039a38-be9a-4bc2-88fd-9e4c22465e08",
+            "tierSummary": "$12.5K per month",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "3f8d92cf-8488-4455-9b5b-c2936bb51b78",
+                "summary": "$12.5K per month",
+                "compensationType": "Salary",
+                "interval": "1 MONTH",
+                "currencyCode": "USD",
+                "minValue": 12500,
+                "maxValue": 12500
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "interval": "1 MONTH",
+            "currencyCode": "USD",
+            "minValue": 12500,
+            "maxValue": 12500
+          }
+        ]
+      }
+    },
+    {
+      "id": "a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "title": "Software Engineer Internship, Frontend",
+      "department": "Engineering",
+      "team": "Emerging Talent - SWE",
+      "employmentType": "Intern",
+      "location": "New York, NY (HQ)",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [],
+      "publishedAt": "2026-09-24T00:40:15.975+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "NY",
+          "addressCountry": "USA",
+          "addressLocality": "New York City"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "applyUrl": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application",
+      "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems a",
+      "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and ",
+      "compensation": {
+        "compensationTierSummary": "$12.5K per month",
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [
+          {
+            "id": "f978518c-c151-4ec7-99fa-0e895f2b442a",
+            "tierSummary": "$12.5K per month",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "1fdc3c25-196e-48bc-9060-62fd10523930",
+                "summary": "$12.5K per month",
+                "compensationType": "Salary",
+                "interval": "1 MONTH",
+                "currencyCode": "USD",
+                "minValue": 12500,
+                "maxValue": 12500
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "interval": "1 MONTH",
+            "currencyCode": "USD",
+            "minValue": 12500,
+            "maxValue": 12500
+          }
+        ]
+      }
+    },
+    {
+      "id": "acf6b28d-767f-483f-8ff2-114620cd7e04",
+      "title": "Software Engineering Intern, Backend",
+      "department": "Engineering",
+      "team": "Emerging Talent - SWE",
+      "employmentType": "Intern",
+      "location": "New York, NY (HQ)",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [],
+      "publishedAt": "2026-04-09T01:01:29.953+00:00",
+      "isListed": true,
+      "isRemote": false,
+      "workplaceType": "OnSite",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "NY",
+          "addressCountry": "USA",
+          "addressLocality": "New York City"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+      "applyUrl": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application",
+      "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems a",
+      "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and ",
+      "compensation": {
+        "compensationTierSummary": "$12.5K per month • Offers Equity",
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [
+          {
+            "id": "f470fede-a650-4d75-b61b-bde109e4ad5c",
+            "tierSummary": "$12.5K per month • Offers Equity",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "5fdfed74-7cb3-4be5-ac59-ced5520ff37f",
+                "summary": "Offers Equity",
+                "compensationType": "EquityCashValue",
+                "interval": "1 YEAR",
+                "currencyCode": "USD",
+                "minValue": null,
+                "maxValue": null
+              },
+              {
+                "id": "0143037e-e907-409c-82de-ad88a1ce9be2",
+                "summary": "$12.5K per month",
+                "compensationType": "Salary",
+                "interval": "1 MONTH",
+                "currencyCode": "USD",
+                "minValue": 12500,
+                "maxValue": 12500
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "EquityCashValue",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "compensationType": "Salary",
+            "interval": "1 MONTH",
+            "currencyCode": "USD",
+            "minValue": 12500,
+            "maxValue": 12500
+          }
+        ]
+      }
+    },
+    {
+      "id": "34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "title": " Security Engineer, Cloud",
+      "department": "Engineering",
+      "team": "Backend",
+      "employmentType": "FullTime",
+      "location": "New York, NY (HQ)",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [
+        {
+          "location": "Remote (Canada)",
+          "address": {
+            "postalAddress": {
+              "addressCountry": "Canada"
+            }
+          }
+        },
+        {
+          "location": "Remote (US)",
+          "address": {
+            "postalAddress": {
+              "addressCountry": "United States"
+            }
+          }
+        },
+        {
+          "location": "Miami, FL",
+          "address": {
+            "postalAddress": {
+              "addressRegion": "Florida",
+              "addressCountry": "USA",
+              "addressLocality": "Miami"
+            }
+          }
+        }
+      ],
+      "publishedAt": "2026-04-07T17:12:35.753+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "NY",
+          "addressCountry": "USA",
+          "addressLocality": "New York City"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "applyUrl": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application",
+      "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems a",
+      "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and ",
+      "compensation": {
+        "compensationTierSummary": "$211.4K – $290.6K • Offers Equity",
+        "scrapeableCompensationSalarySummary": "$211.4K - $290.6K",
+        "compensationTiers": [
+          {
+            "id": "5f7a903e-36e4-492c-ac09-f2745d717daa",
+            "tierSummary": "$211.4K – $290.6K • Offers Equity",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "feaef96f-559f-4df8-a38c-3eee072a8d74",
+                "summary": "Offers Equity",
+                "compensationType": "EquityPercentage",
+                "interval": "NONE",
+                "currencyCode": null,
+                "minValue": null,
+                "maxValue": null
+              },
+              {
+                "id": "3481c194-45fd-4b89-8592-e8f4d4b51f20",
+                "summary": "$211.4K – $290.6K",
+                "compensationType": "Salary",
+                "interval": "1 YEAR",
+                "currencyCode": "USD",
+                "minValue": 211400,
+                "maxValue": 290600
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 211400,
+            "maxValue": 290600
+          }
+        ]
+      }
+    },
+    {
+      "id": "73fd7b0f-ee20-4a83-8765-0ce4663f2d41",
+      "title": "Unlisted posting (synthetic isListed=false)",
+      "department": "Marketing",
+      "team": "Product Marketing",
+      "employmentType": "FullTime",
+      "location": "New York, NY (HQ)",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [
+        {
+          "location": "San Francisco, CA",
+          "address": {
+            "postalAddress": {
+              "addressRegion": "California ",
+              "addressCountry": "USA",
+              "addressLocality": "San Fransisco"
+            }
+          }
+        }
+      ],
+      "publishedAt": "2026-10-07T21:38:58.963+00:00",
+      "isListed": false,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "NY",
+          "addressCountry": "USA",
+          "addressLocality": "New York City"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/73fd7b0f-ee20-4a83-8765-0ce4663f2d41",
+      "applyUrl": "https://jobs.ashbyhq.com/ramp/73fd7b0f-ee20-4a83-8765-0ce4663f2d41/application",
+      "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems a",
+      "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and ",
+      "compensation": {
+        "compensationTierSummary": "$190K – $260K • Offers Equity",
+        "scrapeableCompensationSalarySummary": "$190K - $260K",
+        "compensationTiers": [
+          {
+            "id": "58bc9649-c683-4b88-b255-3b3230c895ac",
+            "tierSummary": "Target base salary $190K – $260K • Offers Equity",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "279cc981-3292-4c0d-94a3-416efee13784",
+                "summary": "Offers Equity",
+                "compensationType": "EquityCashValue",
+                "interval": "1 YEAR",
+                "currencyCode": "USD",
+                "minValue": null,
+                "maxValue": null
+              },
+              {
+                "id": "dac39911-a756-4335-a2c5-9c136d33fc3f",
+                "summary": "Target base salary $190K – $260K",
+                "compensationType": "Salary",
+                "interval": "1 YEAR",
+                "currencyCode": "USD",
+                "minValue": 190000,
+                "maxValue": 260000
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "EquityCashValue",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 190000,
+            "maxValue": 260000
+          }
+        ]
+      }
+    }
+  ]
+}

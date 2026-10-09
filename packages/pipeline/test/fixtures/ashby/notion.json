@@ -1,0 +1,120 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "e66c6658-9e65-4c58-8db2-844628b6e8f8",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "department": "Early Career",
+      "team": "Early Career",
+      "employmentType": "Intern",
+      "location": "San Francisco, California",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [
+        {
+          "location": "New York, New York",
+          "address": {
+            "postalAddress": {
+              "addressRegion": "New York",
+              "addressCountry": "United States",
+              "addressLocality": "New York"
+            }
+          }
+        }
+      ],
+      "publishedAt": "2026-08-14T19:05:18.297+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application",
+      "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi",
+      "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are c",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    },
+    {
+      "id": "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "department": "Early Career",
+      "team": "Early Career",
+      "employmentType": "Intern",
+      "location": "San Francisco, California",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [
+        {
+          "location": "New York, New York",
+          "address": {
+            "postalAddress": {
+              "addressRegion": "New York",
+              "addressCountry": "United States",
+              "addressLocality": "New York"
+            }
+          }
+        }
+      ],
+      "publishedAt": "2026-08-14T19:07:13.459+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application",
+      "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi",
+      "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are c",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    },
+    {
+      "id": "a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+      "title": "Data Science Intern (Winter 2027)",
+      "department": "Early Career",
+      "team": "Early Career",
+      "employmentType": "Intern",
+      "location": "San Francisco, California",
+      "shouldDisplayCompensationOnJobPostings": false,
+      "secondaryLocations": [],
+      "publishedAt": "2026-08-19T22:32:00.399+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Hybrid",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application",
+      "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi",
+      "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are c",
+      "compensation": {
+        "compensationTierSummary": null,
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [],
+        "summaryComponents": []
+      }
+    }
+  ]
+}
