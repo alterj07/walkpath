@@ -1,0 +1,81 @@
+{
+  "absolute_url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 6548703002,
+  "location": {
+    "name": "Detroit, MI"
+  },
+  "metadata": [
+    {
+      "id": 10945305002,
+      "name": "Division",
+      "value": "Design",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9700632002,
+      "name": "Req Type",
+      "value": "University - Graduating Intern",
+      "value_type": "single_select"
+    },
+    {
+      "id": 98443292002,
+      "name": "Featured Title",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 98445720002,
+      "name": "Featured City Name",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8863967002,
+  "updated_at": "2026-10-05T17:00:00-04:00",
+  "requisition_id": "1268",
+  "title": "Illustrator, Intern",
+  "pay_input_ranges": [
+    {
+      "min_cents": 3900,
+      "max_cents": 4100,
+      "currency_type": "USD",
+      "title": "Hourly Range for this internship is:",
+      "blurb": "<p><em>Connect with your recruiter on the benefits for interns at Duolingo!</em>"
+    }
+  ],
+  "company_name": "Duolingo",
+  "first_published": "2026-10-05T17:00:00-04:00",
+  "language": "en",
+  "application_deadline": "2026-11-06T00:00:00-05:00",
+  "content": "&lt;p&gt;Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!&lt;/p&gt;\n&lt;p&gt;At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.&lt;/p&gt;\n&lt;p&gt;Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Read &lt;a href=&quot;https://blog.duolingo.com/?utm_source=greenhouse.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=generalblog_gh_091224&quot;&gt;our blog&lt;/a&gt; to learn more.&lt;/p&gt;\n&lt;hr&gt;\n&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;About the role...&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Application Deadline: Nov 5, 2026&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Note: A portfolio is required to apply for this position.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;🧠&amp;nbsp; You will...&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work independently and in small groups to complete challenging illustration projects.&lt;/li&gt;\n&lt;li&gt;Develop your technical skills through hands-on training, workshops, and lectures from Duolingo artists.&lt;/li&gt;\n&lt;li&gt;Receive coaching ",
+  "departments": [
+    {
+      "id": 4063987002,
+      "name": "University",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4058537002,
+      "name": "Detroit, MI",
+      "location": "Detroit, Michigan, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app2.greenhouse.io/ai_opt_out_request/job_post/8863967002/ai_opt_out"
+}

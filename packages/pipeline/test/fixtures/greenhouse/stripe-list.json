@@ -1,0 +1,147 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3545647,
+      "location": {
+        "name": "New York, Seattle, South San Francisco HQ"
+      },
+      "metadata": null,
+      "id": 8194291,
+      "updated_at": "2026-10-07T19:02:27-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Data Analyst, Intern",
+      "pay_input_ranges": [],
+      "company_name": "Stripe",
+      "first_published": "2026-10-01T11:05:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3545645,
+      "location": {
+        "name": "Toronto"
+      },
+      "metadata": null,
+      "id": 8194287,
+      "updated_at": "2026-10-07T19:02:27-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Data Analyst, Intern",
+      "pay_input_ranges": [],
+      "company_name": "Stripe",
+      "first_published": "2026-10-01T11:05:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8186442",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3542561,
+      "location": {
+        "name": "Singapore"
+      },
+      "metadata": null,
+      "id": 8186442,
+      "updated_at": "2026-10-07T19:02:27-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Financial Data Analyst Intern, Technical Operations",
+      "pay_input_ranges": [],
+      "company_name": "Stripe",
+      "first_published": "2026-09-24T17:24:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=7576967",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3349900,
+      "location": {
+        "name": "San Francisco, CA; Chicago, IL & New York, NY"
+      },
+      "metadata": null,
+      "id": 7576967,
+      "updated_at": "2026-10-07T19:02:27-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Account Executive, Enterprise Platforms (Grower)",
+      "pay_input_ranges": [],
+      "company_name": "Stripe",
+      "first_published": "2026-02-05T11:07:19-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3537062,
+      "location": {
+        "name": "Dublin"
+      },
+      "metadata": null,
+      "id": 8172508,
+      "updated_at": "2026-10-07T19:02:27-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Abuse Investigator",
+      "pay_input_ranges": [],
+      "company_name": "Stripe",
+      "first_published": "2026-09-03T13:32:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    }
+  ],
+  "meta": {
+    "total": 5
+  }
+}

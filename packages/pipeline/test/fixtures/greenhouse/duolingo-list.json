@@ -1,0 +1,323 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 6548703002,
+   "location": {
+    "name": "Detroit, MI"
+   },
+   "metadata": [
+    {
+     "id": 10945305002,
+     "name": "Division",
+     "value": "Design",
+     "value_type": "single_select"
+    },
+    {
+     "id": 9700632002,
+     "name": "Req Type",
+     "value": "University - Graduating Intern",
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292002,
+     "name": "Featured Title",
+     "value": null,
+     "value_type": "short_text"
+    },
+    {
+     "id": 98445720002,
+     "name": "Featured City Name",
+     "value": null,
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292003,
+     "name": "Visa Sponsorship",
+     "value": false,
+     "value_type": "yes_no"
+    },
+    {
+     "id": 98443292004,
+     "name": "Signing Bonus",
+     "value": {
+      "unit": "USD",
+      "amount": "1000"
+     },
+     "value_type": "currency"
+    }
+   ],
+   "id": 8863967002,
+   "updated_at": "2026-10-05T17:00:00-04:00",
+   "requisition_id": "1268",
+   "title": "Illustrator, Intern",
+   "pay_input_ranges": [
+    {
+     "min_cents": 3900,
+     "max_cents": 4100,
+     "currency_type": "USD",
+     "title": "Hourly Range for this internship is:",
+     "blurb": "<p><em>Connect with your recruiter on the benefits for interns at Duolingo!</em>"
+    }
+   ],
+   "company_name": "Duolingo",
+   "first_published": "2026-10-05T17:00:00-04:00",
+   "language": "en",
+   "application_deadline": "2026-11-06T00:00:00-05:00"
+  },
+  {
+   "absolute_url": "https://careers.duolingo.com/jobs/8851677002?gh_jid=8851677002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6543424002,
+   "location": {
+    "name": "New York, NY"
+   },
+   "metadata": [
+    {
+     "id": 10945305002,
+     "name": "Division",
+     "value": "Business",
+     "value_type": "single_select"
+    },
+    {
+     "id": 9700632002,
+     "name": "Req Type",
+     "value": "Industry",
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292002,
+     "name": "Featured Title",
+     "value": null,
+     "value_type": "short_text"
+    },
+    {
+     "id": 98445720002,
+     "name": "Featured City Name",
+     "value": null,
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8851677002,
+   "updated_at": "2026-09-28T09:09:53-04:00",
+   "requisition_id": "R-01232",
+   "title": "Ad Sales Lead, Programmatic",
+   "pay_input_ranges": [
+    {
+     "min_cents": 15200000,
+     "max_cents": 22800000,
+     "currency_type": "USD",
+     "title": "Salary Range: ",
+     "blurb": "<p><em>The offered salary is dependent upon several factors, including work expe"
+    }
+   ],
+   "company_name": "Duolingo",
+   "first_published": "2026-09-28T09:09:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://careers.duolingo.com/jobs/8602840002?gh_jid=8602840002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6436017002,
+   "location": {
+    "name": "New York, NY; Pittsburgh, PA"
+   },
+   "metadata": [
+    {
+     "id": 10945305002,
+     "name": "Division",
+     "value": "Executive",
+     "value_type": "single_select"
+    },
+    {
+     "id": 9700632002,
+     "name": "Req Type",
+     "value": "Industry",
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292002,
+     "name": "Featured Title",
+     "value": null,
+     "value_type": "short_text"
+    },
+    {
+     "id": 98445720002,
+     "name": "Featured City Name",
+     "value": null,
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8602840002,
+   "updated_at": "2026-10-02T12:27:53-04:00",
+   "requisition_id": "R-01166",
+   "title": "Executive Assistant to the CEO",
+   "pay_input_ranges": [
+    {
+     "min_cents": 15200000,
+     "max_cents": 22800000,
+     "currency_type": "USD",
+     "title": "Salary Range: ",
+     "blurb": "<p><em>The offered salary is dependent upon several factors, including work expe"
+    }
+   ],
+   "company_name": "Duolingo",
+   "first_published": "2026-06-22T12:04:20-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://careers.duolingo.com/jobs/8705196002?gh_jid=8705196002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6478799002,
+   "location": {
+    "name": "Remote - California"
+   },
+   "metadata": [
+    {
+     "id": 10945305002,
+     "name": "Division",
+     "value": "Business",
+     "value_type": "single_select"
+    },
+    {
+     "id": 9700632002,
+     "name": "Req Type",
+     "value": "Industry",
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292002,
+     "name": "Featured Title",
+     "value": null,
+     "value_type": "short_text"
+    },
+    {
+     "id": 98445720002,
+     "name": "Featured City Name",
+     "value": null,
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8705196002,
+   "updated_at": "2026-09-03T12:23:10-04:00",
+   "requisition_id": "R-01199",
+   "title": "Ad Sales Lead - West",
+   "pay_input_ranges": [
+    {
+     "min_cents": 15200000,
+     "max_cents": 22800000,
+     "currency_type": "USD",
+     "title": "Salary Range: ",
+     "blurb": "<p><em>The offered salary is dependent upon several factors, including work expe"
+    }
+   ],
+   "company_name": "Duolingo",
+   "first_published": "2026-08-13T09:22:34-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://careers.duolingo.com/jobs/8625579002?gh_jid=8625579002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6444869002,
+   "location": {
+    "name": "Tokyo, Japan"
+   },
+   "metadata": [
+    {
+     "id": 10945305002,
+     "name": "Division",
+     "value": "Marketing and Communications",
+     "value_type": "single_select"
+    },
+    {
+     "id": 9700632002,
+     "name": "Req Type",
+     "value": "Industry",
+     "value_type": "single_select"
+    },
+    {
+     "id": 98443292002,
+     "name": "Featured Title",
+     "value": null,
+     "value_type": "short_text"
+    },
+    {
+     "id": 98445720002,
+     "name": "Featured City Name",
+     "value": null,
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8625579002,
+   "updated_at": "2026-07-29T09:16:34-04:00",
+   "requisition_id": "R-01174",
+   "title": "Consumer Product Lead",
+   "pay_input_ranges": [
+    {
+     "min_cents": 17178000,
+     "max_cents": 25767100,
+     "currency_type": "JPY",
+     "title": "Salary Range: ",
+     "blurb": "<p><em>The offered salary is dependent upon several factors, including work expe"
+    }
+   ],
+   "company_name": "Duolingo",
+   "first_published": "2026-07-08T20:07:38-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 5
+ }
+}

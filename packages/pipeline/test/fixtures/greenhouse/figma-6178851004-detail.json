@@ -1,0 +1,55 @@
+{
+  "absolute_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5209995004,
+  "location": {
+    "name": "San Francisco, CA • New York, NY"
+  },
+  "metadata": null,
+  "id": 6178851004,
+  "updated_at": "2026-09-23T15:30:27-04:00",
+  "requisition_id": "2569",
+  "title": "Data Engineer Intern (2027)",
+  "pay_input_ranges": [
+    {
+      "min_cents": 4600,
+      "max_cents": 4600,
+      "currency_type": "USD",
+      "title": "Internship",
+      "blurb": "<p><strong><span style=\"font-size: 16px;\">Pay Transparency Disclosure</span></st"
+    }
+  ],
+  "company_name": "Figma",
+  "first_published": "2026-09-23T15:30:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the future of design and collaboration, join us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma&#39;s data more accessible across the company.&lt;/p&gt;\n&lt;p&gt;This internship will be based out of our San Francisco or New York Hub.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do at Figma:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build, test, and document data pipelines that bring product or business data into Figma’s data warehouse&lt;/li&gt;\n&lt;li&gt;Help design foundational datasets that are trusted, well-documented, and easy to use&lt;/li&gt;\n&lt;li&gt;Optimize pipelines for performance and scalability as Figma grows&lt;/li&gt;\n&lt;li&gt;Partner with cross-functional teammates to understand data needs and deliver ",
+  "departments": [
+    {
+      "id": 4016256004,
+      "name": "Early Career",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4024285004,
+      "name": "US",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4033142004
+    }
+  ],
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6178851004/ai_opt_out"
+}
