@@ -26,3 +26,6 @@ export { HostLimiter } from './http/limiter.ts';
 export type { HostLimits } from './http/limiter.ts';
 export { parseRobots, isPathAllowed } from './http/robots.ts';
 export type { RobotsRules } from './http/robots.ts';
+export * from './state/db.ts';
+export * from './crawl/diff.ts';
+export * from './crawl/run.ts';
