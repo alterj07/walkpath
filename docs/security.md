@@ -74,3 +74,19 @@ snapshot and the previous Cloudflare deployment are the rollback points.
 ## Pre-launch checklist
 
 See `docs/launch-checklist.md`.
+
+## Security CI
+
+Four workflows run on every pull request and on `main`, all with actions pinned by commit SHA:
+
+| Workflow | What it checks |
+| --- | --- |
+| `ci.yml` | TypeScript strict, ESLint (`react/no-danger`, `no-eval`), the test suite including the malicious adapter and sanitizer fixtures, and the registry live check on pull requests |
+| `codeql.yml` | CodeQL `security-and-quality` queries for JavaScript/TypeScript, on push, pull request and weekly |
+| `dependency-review.yml` | Blocks pull requests that add a dependency with a known high-severity vulnerability or a GPL-3.0/AGPL-3.0 licence |
+| `scorecard.yml` | OpenSSF Scorecard on `main` and monthly; results published to the Scorecard API and uploaded as SARIF |
+
+`CODEOWNERS` routes every change to the maintainer, and the pull-request template asks for the
+reason behind any new dependency. The repository settings these workflows rely on (branch
+protection, read-only default token, fork-PR approval, secret scanning with push protection) are
+listed in `docs/github-settings.md`.

@@ -1,0 +1,5 @@
+# Every change needs a review from the maintainer; the registry and the
+# workflows are listed explicitly so branch protection can require it.
+*            @alterj07
+/registry/   @alterj07
+/.github/    @alterj07
