@@ -153,3 +153,11 @@ table.jobs tr:hover td { background: var(--bg-2); }
 @media (max-width: 600px) {
   table.jobs th.col-ats, table.jobs td.col-ats { display: none; }
 }
+
+/* ---- Category pages (src/pages/internships/*) ---- */
+.stats { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0 0 14px; padding: 0; list-style: none; color: var(--fg-2); font-size: 0.92rem; }
+.stats strong { color: var(--fg); }
+.siblings { margin-top: 28px; }
+.siblings h2, .directory h2 { font-size: 1.05rem; margin: 18px 0 6px; }
+.siblings ul, .directory ul { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0; padding: 0; list-style: none; }
+.directory li { padding: 2px 0; }

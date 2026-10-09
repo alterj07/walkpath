@@ -1,0 +1,134 @@
+[
+ {
+  "slug": "software-engineering",
+  "title": "Software Engineering",
+  "kind": "family",
+  "filter": {
+   "family": "software_engineering"
+  }
+ },
+ {
+  "slug": "data-ml-ai",
+  "title": "Data / ML / AI",
+  "kind": "family",
+  "filter": {
+   "family": "data_ml_ai"
+  }
+ },
+ {
+  "slug": "it-cloud-security",
+  "title": "IT / Cloud / Security",
+  "kind": "family",
+  "filter": {
+   "family": "it_cloud_security"
+  }
+ },
+ {
+  "slug": "product",
+  "title": "Product",
+  "kind": "family",
+  "filter": {
+   "family": "product"
+  }
+ },
+ {
+  "slug": "ux-design",
+  "title": "UX / Design",
+  "kind": "family",
+  "filter": {
+   "family": "ux_design"
+  }
+ },
+ {
+  "slug": "hardware-embedded",
+  "title": "Hardware / Embedded / EE",
+  "kind": "family",
+  "filter": {
+   "family": "hardware_embedded"
+  }
+ },
+ {
+  "slug": "quant-research",
+  "title": "Quant / Research",
+  "kind": "family",
+  "filter": {
+   "family": "quant_research"
+  }
+ },
+ {
+  "slug": "software-engineering-summer-2027",
+  "title": "Software Engineering · Summer 2027",
+  "kind": "family_season",
+  "filter": {
+   "family": "software_engineering",
+   "season": "Summer 2027"
+  }
+ },
+ {
+  "slug": "software-engineering-remote",
+  "title": "Software Engineering · Remote",
+  "kind": "family_remote",
+  "filter": {
+   "family": "software_engineering",
+   "remote": true
+  }
+ },
+ {
+  "slug": "data-ml-ai-summer-2027",
+  "title": "Data / ML / AI · Summer 2027",
+  "kind": "family_season",
+  "filter": {
+   "family": "data_ml_ai",
+   "season": "Summer 2027"
+  }
+ },
+ {
+  "slug": "data-ml-ai-remote",
+  "title": "Data / ML / AI · Remote",
+  "kind": "family_remote",
+  "filter": {
+   "family": "data_ml_ai",
+   "remote": true
+  }
+ },
+ {
+  "slug": "state-ca",
+  "title": "California",
+  "kind": "state",
+  "filter": {
+   "state": "CA"
+  }
+ },
+ {
+  "slug": "state-tx",
+  "title": "Texas",
+  "kind": "state",
+  "filter": {
+   "state": "TX"
+  }
+ },
+ {
+  "slug": "state-ny",
+  "title": "New York",
+  "kind": "state",
+  "filter": {
+   "state": "NY"
+  }
+ },
+ {
+  "slug": "company-example-robotics",
+  "title": "Example Robotics",
+  "kind": "company",
+  "filter": {
+   "slug": "example-robotics"
+  }
+ },
+ {
+  "slug": "company-samplecloud",
+  "title": "Sample Cloud Co",
+  "kind": "company",
+  "filter": {
+   "slug": "samplecloud"
+  }
+ }
+]

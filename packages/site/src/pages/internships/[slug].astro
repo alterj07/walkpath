@@ -1,0 +1,127 @@
+---
+/**
+ * Pre-rendered category page (plan 2.5 / 5.5): a crawlable HTML table of the
+ * newest 50 matching internships, a stats strip, sibling links and an ItemList
+ * JSON-LD block. Thin pages (fewer than 5 open jobs) are noindex.
+ */
+import Base from '../../layouts/Base.astro';
+import { FAMILY_LABELS, US_STATES, absoluteTime, locationLabel, relativeTime } from '../../lib/data.ts';
+import {
+  PAGE_ROW_LIMIT,
+  describePage,
+  exploreHref,
+  itemListJsonLd,
+  loadBuildData,
+  pageStats,
+  rowsForPage,
+  shouldNoindex,
+  siblingLinks,
+} from '../../lib/seo.ts';
+import type { PagesEntry } from '../../lib/seo.ts';
+
+export async function getStaticPaths() {
+  const { pages } = loadBuildData();
+  return pages.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props as { entry: PagesEntry };
+const { pages, rows: allRows, generatedAt } = loadBuildData();
+const rows = rowsForPage(allRows, entry);
+const stats = pageStats(rows, generatedAt);
+const noindex = shouldNoindex(rows);
+const shown = rows.slice(0, PAGE_ROW_LIMIT);
+const siblings = siblingLinks(entry, pages);
+const now = Date.parse(generatedAt) || Date.now();
+const siteUrl = (Astro.site?.toString() ?? 'https://walkpath.pages.dev').replace(/\/+$/, '');
+const canonical = `${siteUrl}/internships/${entry.slug}`;
+// The JSON-LD block is data, not code: per the CSP spec, script elements whose
+// type is not a JavaScript MIME type are never executed, so CSP does not apply
+// and no hash is needed. The post-build audit (scripts/csp-headers.ts) skips
+// application/ld+json blocks for the same reason. The JSON has `<` escaped so
+// it can never close this element.
+const jsonLd = itemListJsonLd(entry, rows, siteUrl);
+const subtitle = [
+  entry.filter.family !== undefined ? FAMILY_LABELS[entry.filter.family] : null,
+  entry.filter.season ?? null,
+  entry.filter.remote ? 'Remote' : null,
+  entry.filter.state !== undefined ? (US_STATES[entry.filter.state] ?? entry.filter.state) : null,
+].filter((s): s is string => s !== null);
+---
+
+<Base
+  title={`${entry.title} internships`}
+  description={describePage(entry, stats)}
+  noindex={noindex}
+  canonical={canonical}
+  current="explore"
+>
+  <div class="hero">
+    <h1>{entry.title} internships</h1>
+    {subtitle.length > 0 && <p class="muted">{subtitle.join(' · ')}</p>}
+  </div>
+
+  <ul class="stats" aria-label="Summary">
+    <li><strong>{stats.open}</strong> open</li>
+    <li><strong>{stats.companies}</strong> {stats.companies === 1 ? 'company' : 'companies'}</li>
+    {stats.medianHoursSincePosted !== null && (
+      <li><strong>{stats.medianHoursSincePosted} h</strong> median since posting</li>
+    )}
+    {generatedAt && (
+      <li>Updated <time datetime={generatedAt}>{relativeTime(generatedAt, now)}</time></li>
+    )}
+  </ul>
+
+  <p>
+    <a href={exploreHref(entry)}>Filter these on the explore page</a>
+    {rows.length > PAGE_ROW_LIMIT && (
+      <span class="muted"> · showing the newest {PAGE_ROW_LIMIT} of {rows.length}</span>
+    )}
+  </p>
+
+  {shown.length === 0 ? (
+    <p class="empty">No open internships match this page right now. Check back after the next hourly run.</p>
+  ) : (
+    <div class="table-wrap">
+      <table class="jobs">
+        <thead>
+          <tr>
+            <th scope="col" class="col-title">Role</th>
+            <th scope="col">Company</th>
+            <th scope="col">Location</th>
+            <th scope="col" class="col-posted">Posted</th>
+          </tr>
+        </thead>
+        <tbody>
+          {shown.map((r) => (
+            <tr>
+              <td class="col-title"><a class="job-link" href={`/job/${r.id}`}>{r.title}</a></td>
+              <td><a href={`/company/${r.slug}`}>{r.company}</a></td>
+              <td>
+                {locationLabel(r)}
+                {r.others > 0 && <span class="muted small"> +{r.others} more</span>}
+                {r.arrangement === 'remote' && r.city && <span class="badge">Remote</span>}
+              </td>
+              <td class="col-posted">
+                <time datetime={r.posted_at} title={absoluteTime(r.posted_at)}>{relativeTime(r.posted_at, now)}</time>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+
+  {siblings.length > 0 && (
+    <nav class="siblings" aria-label="Related pages">
+      <h2>Related pages</h2>
+      <ul>
+        {siblings.map((p) => (
+          <li><a href={`/internships/${p.slug}`}>{p.title}</a></li>
+        ))}
+      </ul>
+    </nav>
+  )}
+  <p><a href="/internships">All category pages</a></p>
+
+  <script type="application/ld+json" is:inline set:html={jsonLd} />
+</Base>

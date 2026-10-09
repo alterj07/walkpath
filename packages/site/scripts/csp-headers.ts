@@ -33,14 +33,22 @@ function hash(content: string): string {
 
 const scripts = new Map<string, string>();
 const styles = new Map<string, string>();
-const scriptRe = /<script(?![^>]*\ssrc=)[^>]*>([\s\S]*?)<\/script>/g;
+const scriptRe = /<script([^>]*)>([\s\S]*?)<\/script>/g;
+/**
+ * JSON-LD blocks (category pages) are data, not code: per the CSP spec a script
+ * element with a non-JavaScript type is never executed, so the policy does not
+ * apply and no hash is needed. They are skipped by the audit, not authorized.
+ */
+const dataTypeRe = /\stype="application\/ld\+json"/;
 const styleRe = /<style[^>]*>([\s\S]*?)<\/style>/g;
 const styleAttrRe = /\sstyle="[^"]*"/;
 
 for (const file of htmlFiles(dist)) {
   const html = readFileSync(file, 'utf8');
   for (const m of html.matchAll(scriptRe)) {
-    const body = m[1] ?? '';
+    const attrs = m[1] ?? '';
+    if (/\ssrc=/.test(attrs) || dataTypeRe.test(attrs)) continue;
+    const body = m[2] ?? '';
     if (!ALLOWED_SCRIPT_MARKERS.some((k) => body.includes(k))) {
       throw new Error(`csp-headers: unexpected inline script in ${file}: ${body.slice(0, 60)}`);
     }

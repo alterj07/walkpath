@@ -110,4 +110,47 @@ const meta = {
 mkdirSync(join(root, 'index'), { recursive: true });
 writeFileSync(join(root, 'index', 'latest.json'), JSON.stringify(index, null, 1));
 writeFileSync(join(root, 'meta.json'), JSON.stringify(meta, null, 1));
-console.log(`wrote ${rows.length} sample rows and meta.json to ${root}`);
+
+// index/all.json: every open row (the samples are all open) for the explore
+// table's 30-day window and for the build-time category pages.
+writeFileSync(join(root, 'index', 'all.json'), JSON.stringify(index, null, 1));
+
+// pages.json: the category pages the publish job would emit (plan 2.5),
+// sampled so every kind is represented.
+const familyLabels: Record<string, string> = {
+  software_engineering: 'Software Engineering',
+  data_ml_ai: 'Data / ML / AI',
+  it_cloud_security: 'IT / Cloud / Security',
+  product: 'Product',
+  ux_design: 'UX / Design',
+  hardware_embedded: 'Hardware / Embedded / EE',
+  quant_research: 'Quant / Research',
+};
+const familySlug = (f: string) => f.replace(/_/g, '-');
+const pages: Array<{ slug: string; title: string; kind: string; filter: Record<string, unknown> }> = [];
+for (const [family, label] of Object.entries(familyLabels)) {
+  pages.push({ slug: familySlug(family), title: label, kind: 'family', filter: { family } });
+}
+for (const family of ['software_engineering', 'data_ml_ai']) {
+  pages.push({
+    slug: `${familySlug(family)}-summer-2027`,
+    title: `${familyLabels[family]} · Summer 2027`,
+    kind: 'family_season',
+    filter: { family, season: 'Summer 2027' },
+  });
+  pages.push({
+    slug: `${familySlug(family)}-remote`,
+    title: `${familyLabels[family]} · Remote`,
+    kind: 'family_remote',
+    filter: { family, remote: true },
+  });
+}
+for (const [state, name] of [['CA', 'California'], ['TX', 'Texas'], ['NY', 'New York']] as const) {
+  pages.push({ slug: `state-${state.toLowerCase()}`, title: name, kind: 'state', filter: { state } });
+}
+for (const [company, domain] of companies.slice(0, 2)) {
+  const slug = domain.replace(/\.test$/, '').replace(/[^a-z0-9]+/g, '-');
+  pages.push({ slug: `company-${slug}`, title: company, kind: 'company', filter: { slug } });
+}
+writeFileSync(join(root, 'pages.json'), JSON.stringify(pages, null, 1));
+console.log(`wrote ${rows.length} sample rows, meta.json, index/all.json and ${pages.length} pages to ${root}`);

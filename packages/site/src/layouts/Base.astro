@@ -6,6 +6,7 @@
  * - title: page title (the site name is appended)
  * - description: meta description
  * - noindex: adds <meta name="robots" content="noindex"> (job pages)
+ * - canonical: absolute URL for <link rel="canonical"> (category pages)
  * - current: which nav item is active ('explore' | 'saved' | 'alerts' | 'status' | 'about')
  *
  * No inline scripts or styles: the Content Security Policy in public/_headers
@@ -19,6 +20,7 @@ interface Props {
   title: string;
   description?: string;
   noindex?: boolean;
+  canonical?: string;
   current?: 'explore' | 'saved' | 'alerts' | 'status' | 'about';
 }
 
@@ -26,6 +28,7 @@ const {
   title,
   description = 'Every open US tech internship, polled hourly from employers’ own job boards.',
   noindex = false,
+  canonical,
   current,
 } = Astro.props;
 
@@ -47,6 +50,7 @@ const nav: Array<{ key: NonNullable<Props['current']>; href: string; label: stri
     <title>{title} · WalkPath</title>
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex" />}
+    {canonical && <link rel="canonical" href={canonical} />}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <meta name="color-scheme" content="light dark" />
   </head>

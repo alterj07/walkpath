@@ -1,0 +1,42 @@
+---
+/** Directory of every pre-rendered category page, grouped by kind (plan 2.5). */
+import Base from '../../layouts/Base.astro';
+import { KIND_LABELS, PAGE_KINDS, loadBuildData, rowsForPage } from '../../lib/seo.ts';
+
+const { pages, rows } = loadBuildData();
+const siteUrl = (Astro.site?.toString() ?? 'https://walkpath.pages.dev').replace(/\/+$/, '');
+const groups = PAGE_KINDS.map((kind) => ({
+  kind,
+  label: KIND_LABELS[kind],
+  pages: pages.filter((p) => p.kind === kind).map((p) => ({ ...p, open: rowsForPage(rows, p).length })),
+})).filter((g) => g.pages.length > 0);
+---
+
+<Base
+  title="Internships by category"
+  description="US tech internships by role family, season, state and company, updated hourly."
+  canonical={`${siteUrl}/internships`}
+  current="explore"
+>
+  <div class="hero">
+    <h1>Internships by category</h1>
+    <p>
+      Pre-built pages for the most common searches. Every page is rebuilt each hour from the same
+      data as the explore table.
+    </p>
+  </div>
+  {groups.map((g) => (
+    <section class="directory">
+      <h2>{g.label}</h2>
+      <ul>
+        {g.pages.map((p) => (
+          <li>
+            <a href={`/internships/${p.slug}`}>{p.title}</a>
+            <span class="muted small"> ({p.open} open)</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+  {groups.length === 0 && <p class="empty">No category pages have been generated yet.</p>}
+</Base>
