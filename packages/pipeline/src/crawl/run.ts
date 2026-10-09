@@ -30,6 +30,13 @@ export interface CrawlOptions {
   kind?: string;
   runId?: string;
   detailCap?: number;
+  /** Backfill mode: passed through to diffBoard (see DiffBoardOptions.forceRefresh). */
+  forceRefresh?: boolean;
+  /**
+   * Wall-clock guard: once this returns true no further board is started; boards not
+   * reached are counted in `boards.skipped_deadline` and polled next run. Never a failure.
+   */
+  shouldStop?: () => boolean;
 }
 
 const BoardCountsSchema = z.object({
@@ -38,6 +45,8 @@ const BoardCountsSchema = z.object({
   failed: z.number().int(),
   partial: z.number().int(),
   skipped: z.number().int(),
+  /** Boards not started because the run hit its deadline (plan 4.4 budget). */
+  skipped_deadline: z.number().int().default(0),
 });
 
 const JobCountsSchema = z.object({
@@ -92,6 +101,7 @@ const emptyPerAts = (): PerAts => ({
   failed: 0,
   partial: 0,
   skipped: 0,
+  skipped_deadline: 0,
   jobs: { new: 0, changed: 0, closed: 0, reopened: 0, reposts: 0 },
 });
 
@@ -122,18 +132,31 @@ export function selectBoards(
   return { selected, skipped };
 }
 
-async function mapWithConcurrency<T, R>(items: readonly T[], limit: number, fn: (item: T) => Promise<R>): Promise<R[]> {
-  const results: R[] = new Array<R>(items.length);
+/** Runs `fn` over `items` with at most `limit` in flight; stops taking items once `shouldStop()` is true. */
+async function mapWithConcurrency<T, R>(
+  items: readonly T[],
+  limit: number,
+  fn: (item: T) => Promise<R>,
+  shouldStop: () => boolean = () => false,
+): Promise<{ results: R[]; unreached: T[] }> {
+  const results: R[] = [];
   let next = 0;
   const workers = Array.from({ length: Math.max(1, Math.min(limit, items.length)) }, async () => {
     while (true) {
+      if (shouldStop()) return;
       const i = next++;
       if (i >= items.length) return;
       results[i] = await fn(items[i] as T);
     }
   });
   await Promise.all(workers);
-  return results;
+  const unreached: T[] = [];
+  const done: R[] = [];
+  items.forEach((item, i) => {
+    if (i in results) done.push(results[i] as R);
+    else unreached.push(item);
+  });
+  return { results: done, unreached };
 }
 
 export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
@@ -147,10 +170,19 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
   opts.db.logRun({ run_id: runId, started_at: startedAt.toISOString(), finished_at: null, kind, stats_json: null });
   log(`run ${runId}: ${selected.length} boards selected, ${skipped.length} skipped`);
 
-  const diffs = await mapWithConcurrency(selected, opts.concurrency ?? 20, async ({ board, adapter }): Promise<BoardDiff> => {
-    const args = { board, adapter, http: opts.http, db: opts.db, now, log };
+  const { results: diffs, unreached } = await mapWithConcurrency(selected, opts.concurrency ?? 20, async ({ board, adapter }): Promise<BoardDiff> => {
+    const args = {
+      board,
+      adapter,
+      http: opts.http,
+      db: opts.db,
+      now,
+      log,
+      ...(opts.detailCap === undefined ? {} : { detailCap: opts.detailCap }),
+      ...(opts.forceRefresh === undefined ? {} : { forceRefresh: opts.forceRefresh }),
+    };
     try {
-      return await diffBoard(opts.detailCap === undefined ? args : { ...args, detailCap: opts.detailCap });
+      return await diffBoard(args);
     } catch {
       // diffBoard handles its own errors; this is the last line of defence so one board can
       // never take the run (and its artifact) down with it.
@@ -172,18 +204,27 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
         reopened: [],
       };
     }
-  });
+  }, opts.shouldStop);
 
   const perAts: Record<string, PerAts> = {};
   const bucket = (ats: Ats): PerAts => (perAts[ats] ??= emptyPerAts());
   for (const b of skipped) bucket(b.ats).skipped += 1;
+  for (const { board } of unreached) bucket(board.ats).skipped_deadline += 1;
+  if (unreached.length > 0) log(`run ${runId}: deadline reached, ${unreached.length} boards not started`);
 
   const report: CrawlReport = {
     run_id: runId,
     kind,
     started_at: startedAt.toISOString(),
     finished_at: startedAt.toISOString(),
-    boards: { polled: selected.length, ok: 0, failed: 0, partial: 0, skipped: skipped.length },
+    boards: {
+      polled: selected.length - unreached.length,
+      ok: 0,
+      failed: 0,
+      partial: 0,
+      skipped: skipped.length,
+      skipped_deadline: unreached.length,
+    },
     per_ats: perAts,
     jobs: { new: 0, changed: 0, closed: 0, reopened: 0, reposts: 0 },
     events: [],

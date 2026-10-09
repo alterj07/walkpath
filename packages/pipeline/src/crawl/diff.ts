@@ -70,6 +70,11 @@ export interface DiffBoardOptions {
   log?: (message: string) => void;
   /** Detail fetches per board per run; the rest wait for the next run. */
   detailCap?: number;
+  /**
+   * Backfill mode (plan 8.2): re-emit every listed job as `changed` with a fresh detail
+   * fetch even when its hash is unchanged. Closures and new/repost logic are untouched.
+   */
+  forceRefresh?: boolean;
 }
 
 /**
@@ -160,6 +165,7 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
   const now = opts.now ?? (() => new Date());
   const log = opts.log ?? (() => {});
   const detailCap = opts.detailCap ?? DEFAULT_DETAIL_CAP;
+  const forceRefresh = opts.forceRefresh ?? false;
   const id = boardIdOf(board);
   const startedAt = now();
   const nowIso = startedAt.toISOString();
@@ -253,7 +259,7 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
       if (adapter.fetchDetail !== undefined) {
         const lightHash = hashOf(input, lightVersion(raw));
         // New, edited (light fields or version changed), or closed-and-back: fetch the description.
-        const needsDetail = prior === null || prior.closed_at !== null || prior.content_hash !== lightHash;
+        const needsDetail = forceRefresh || prior === null || prior.closed_at !== null || prior.content_hash !== lightHash;
         if (!needsDetail) {
           unchangedKeys.push(key);
           continue;
@@ -343,7 +349,7 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
 
       const wasClosed = prior.closed_at !== null;
       if (wasClosed) reopenedKeys.push(key);
-      if (prior.content_hash === fullHash && !wasClosed) {
+      if (prior.content_hash === fullHash && !wasClosed && !forceRefresh) {
         unchangedKeys.push(key);
         continue;
       }
