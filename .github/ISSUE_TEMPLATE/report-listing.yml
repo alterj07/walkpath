@@ -1,0 +1,28 @@
+name: Report a listing
+description: Flag a listing that is a scam, not an internship, not tech, or has a broken apply link.
+title: "listing: <job id>"
+labels: [listing-report]
+body:
+  - type: input
+    id: job_id
+    attributes:
+      label: Job id (from the URL, /job/<id>)
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Scam or suspicious
+        - Not an internship
+        - Not a tech role
+        - Apply link is dead or goes somewhere unexpected
+        - Wrong location or details
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details

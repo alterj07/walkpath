@@ -1,0 +1,28 @@
+{
+  "name": "@walkpath/site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Static Astro site for WalkPath.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "typecheck": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/react": "4.4.2",
+    "@tanstack/react-table": "8.21.3",
+    "astro": "5.18.2",
+    "dompurify": "3.4.16",
+    "minisearch": "7.2.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "wrangler": "4.149.0"
+  }
+}

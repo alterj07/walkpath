@@ -1,0 +1,25 @@
+name: Add a company
+description: Request a company's careers board be added to the registry.
+title: "registry: add <company>"
+labels: [registry]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: careers_url
+    attributes:
+      label: Careers page URL
+      description: The page students apply through (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Workday or the company's own site).
+    validations:
+      required: true
+  - type: input
+    id: domain
+    attributes:
+      label: Company website domain
+      placeholder: example.com
+    validations:
+      required: true
