@@ -32,7 +32,7 @@ const US_COUNTRY_KEYS = new Set(['united states', 'united states of america', 'u
 const REMOTE_RE = /\b(remote|work from home|wfh|telecommute|telecommuting|virtual|anywhere)\b/i;
 const MULTI_RE = /\b(multiple locations|various locations|multiple cities|various|several locations|many locations|nationwide)\b/i;
 // Case-sensitive on purpose: "OR", "IN" and "LA" are state codes.
-const NOISE_RE = /\b(hybrid|Hybrid|on-?site|On-?site|Onsite|in[- ]person|In[- ]person|office|Office|HQ|headquarters|Headquarters|campus|Campus|metro area|Metro Area|metropolitan area|Metropolitan Area|area|Area|greater|Greater|region|Region|based|Based|location|Location|locations|Locations)\b/g;
+const NOISE_RE = /\b(hybrid|Hybrid|on-?site|On-?site|Onsite|in[- ]person|In[- ]person|office|Office|HQ|headquarters|Headquarters|campus|Campus|metro area|Metro Area|metropolitan area|Metropolitan Area|area|Area|greater|Greater|region|Region|based|Based|only|Only|location|Location|locations|Locations)\b/g;
 const LEADING_FILLER_RE = /^(?:in|from|within|the|located in|based in)\s+/i;
 const MIN_POP_FOR_UNQUALIFIED_CITY = 100_000;
 
@@ -46,6 +46,8 @@ function tokensOf(segment: string): string[] {
 }
 
 function cleanToken(token: string): string {
+  // "San Francisco Bay Area", "Greater Seattle Area": an alias wins before noise words are removed.
+  if (resolveCityAlias(token.trim())) return token.trim();
   return token
     .replace(NOISE_RE, ' ')
     .replace(/\s+/g, ' ')
@@ -59,8 +61,8 @@ function isUsCountry(key: string): boolean {
   return US_COUNTRY_KEYS.has(key);
 }
 
-function isForeign(key: string): boolean {
-  return NON_US_COUNTRIES.has(key) || CANADIAN_PROVINCES.has(key) || NON_US_CITIES.has(key);
+function isForeignCountry(key: string): boolean {
+  return NON_US_COUNTRIES.has(key) || CANADIAN_PROVINCES.has(key);
 }
 
 /**
@@ -101,13 +103,15 @@ export function parseLocation(raw: string | null | undefined): ParsedLocation {
     return result;
   }
 
-  // Country signals.
+  // Country signals. A foreign CITY name only counts when nothing says US ("Paris, TX" is Texas);
+  // foreign countries and Canadian provinces always count.
   const keys = tokens.map(normalizePlaceKey);
   for (const key of keys) {
     if (isUsCountry(key)) result.country = 'US';
   }
+  const usSignal = result.country === 'US' || tokens.some((t) => resolveState(t) !== null);
   for (const key of keys) {
-    if (isForeign(key)) {
+    if (isForeignCountry(key) || (!usSignal && NON_US_CITIES.has(key))) {
       result.country = 'other';
       return result;
     }
@@ -155,8 +159,15 @@ export function parseLocation(raw: string | null | undefined): ParsedLocation {
     }
     return result;
   }
+  // An unqualified name resolves only when it is unique, or clearly dominant: ≥ 100k people and
+  // at least 3× the runner-up ("Portland" → OR; "Springfield" stays null for review).
   const top = matches[0];
-  if (top && (matches.length === 1 || top.population >= MIN_POP_FOR_UNQUALIFIED_CITY)) {
+  const runnerUp = matches[1];
+  const dominant =
+    top !== undefined &&
+    top.population >= MIN_POP_FOR_UNQUALIFIED_CITY &&
+    (runnerUp === undefined || top.population >= 3 * runnerUp.population);
+  if (top && (matches.length === 1 || dominant)) {
     result.city = top.name;
     result.state = top.state;
     result.country = 'US';

@@ -69,6 +69,9 @@ function periodFrom(text: string): Salary['period'] {
   return null;
 }
 
+// A single amount with no unit is pay only when one of these words is nearby.
+const PAY_WORD_RE = /\b(salary|base|compensation|pay|wage|stipend|rate)\b/i;
+
 // Dollar amounts near these words are not pay.
 const NOT_PAY_RE =
   /\b(bonus|relocation|revenue|funding|raised|valuation|billion|million|budget|fee|tuition|credit|allowance|reimburse\w*|discount|award|grant|prize|scholarship|equipment|laptop|cost|spend|sales|arr\b|portfolio|assets?)\b/i;
@@ -115,9 +118,11 @@ export function parseSalary(input: SalaryInput): Salary | null {
   for (const m of text.matchAll(SINGLE_RE)) {
     const value = amount(m[1] ?? '');
     const tail = m[2] ?? '';
-    const period = periodFrom(tail);
     const matchedLength = m[0].length - tail.length;
     if (!looksLikePay(text, m.index, matchedLength)) continue;
+    // "$95,000 base": no unit, but a pay word nearby lets the magnitude decide the period.
+    const near = text.slice(Math.max(0, m.index - 30), m.index + matchedLength + 30);
+    const period = periodFrom(tail) ?? (PAY_WORD_RE.test(near) ? inferPeriod(value) : null);
     if (period && Number.isFinite(value) && inBounds(period, value)) {
       return { min: value, max: value, currency: 'USD', period };
     }
@@ -135,6 +140,28 @@ function inferPeriod(value: number): Salary['period'] {
 const SEASON_RE = /\b(Summer|Fall|Autumn|Spring|Winter)\s*(?:of\s*)?['’]?(20\d\d|\d\d)\b/i;
 const YEAR_INTERN_RE = /\b(20\d\d)\s*(?:summer\s*)?(?:internship|intern|co-?op|program)\b/i;
 const INTERN_YEAR_RE = /\b(?:internship|intern|co-?op)\s*[-–—:]?\s*(20\d\d)\b/i;
+// "starting May 2027", "May 2027 - August 2027": the start month decides the season. May starts
+// the summer internship cycle, so May counts as Summer rather than Spring.
+const MONTH_RE =
+  /\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+(20\d\d)\b/gi;
+const MONTH_CONTEXT_RE = /\b(start\w*|begin\w*|from|internship|intern|co-?op|program|commenc\w*|dates?|duration|term)\b/i;
+const MONTH_SEASON: Readonly<Record<string, 'Winter' | 'Spring' | 'Summer' | 'Fall'>> = {
+  jan: 'Winter', feb: 'Winter', mar: 'Spring', apr: 'Spring', may: 'Summer', jun: 'Summer',
+  jul: 'Summer', aug: 'Summer', sep: 'Fall', oct: 'Fall', nov: 'Fall', dec: 'Winter',
+};
+
+function seasonFromMonths(text: string): Season | null {
+  for (const m of text.matchAll(MONTH_RE)) {
+    const before = text.slice(Math.max(0, m.index - 30), m.index);
+    const after = text.slice(m.index + m[0].length, m.index + m[0].length + 30);
+    if (!MONTH_CONTEXT_RE.test(before) && !MONTH_CONTEXT_RE.test(after)) continue;
+    const key = (m[1] ?? '').slice(0, 3).toLowerCase();
+    const season = MONTH_SEASON[key];
+    if (season && m[2]) return `${season} ${m[2]}`;
+  }
+  return null;
+}
+
 const IMMEDIATE_RE = /\b(start(?:ing)? (?:immediately|asap|right away|as soon as possible)|immediate (?:start|opening)|asap start)\b/i;
 
 /** "Summer 2027", "Fall 2026", ..., "Immediate", or null. The title wins over the description. */
@@ -152,6 +179,8 @@ export function parseSeason(
     }
     const y = text.match(YEAR_INTERN_RE) ?? text.match(INTERN_YEAR_RE);
     if (y && y[1]) return `Summer ${y[1]}`;
+    const byMonth = seasonFromMonths(text);
+    if (byMonth) return byMonth;
     if (IMMEDIATE_RE.test(text)) return 'Immediate';
     return null;
   };
@@ -192,11 +221,31 @@ const AUTH_PATTERNS: ReadonlyArray<readonly [string, RegExp]> = [
   ['authorized_to_work', /\b(authorized|authorization|eligible) to work in the (u\.?s\.?|united states)\b/i],
 ];
 
+// "does not require a security clearance", "U.S. citizenship not required": a negated requirement
+// is not a signal. Only the requirement patterns are screened; the sponsorship ones contain their
+// own negations.
+const NEGATED_BEFORE_RE =
+  /\b(?:not|no|without|does not|doesn't|do not|don't|isn't|is not|aren't|are not|never)\s+(?:require\w*|need\w*|necessary|mandatory)\b|\b(?:no|without)\s*$/i;
+const NEGATED_AFTER_RE = /^\W*(?:is |are )?(?:not|never) (?:required|needed|necessary|mandatory)\b/i;
+const NEGATABLE = new Set(['us_citizen', 'itar', 'ear', 'clearance']);
+
+function hasSignal(text: string, name: string, re: RegExp): boolean {
+  if (!NEGATABLE.has(name)) return re.test(text);
+  const global = new RegExp(re.source, re.flags.includes('g') ? re.flags : `${re.flags}g`);
+  for (const m of text.matchAll(global)) {
+    const before = text.slice(Math.max(0, m.index - 40), m.index);
+    const after = text.slice(m.index + m[0].length, m.index + m[0].length + 20);
+    if (NEGATED_BEFORE_RE.test(before) || NEGATED_AFTER_RE.test(after)) continue;
+    return true;
+  }
+  return false;
+}
+
 /** Work-authorization signals from the description. The LLM later confirms these. */
 export function parseWorkAuth(description: string | null | undefined): WorkAuth {
   const text = stripTags(description ?? '');
   const signals: string[] = [];
-  for (const [name, re] of AUTH_PATTERNS) if (re.test(text)) signals.push(name);
+  for (const [name, re] of AUTH_PATTERNS) if (hasSignal(text, name, re)) signals.push(name);
   const has = (s: string) => signals.includes(s);
   let citizenship_required: boolean | null = null;
   if (has('us_citizen') && !has('permanent_resident')) citizenship_required = true;

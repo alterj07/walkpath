@@ -60,3 +60,10 @@ describe('internshipGate', () => {
     expect(internshipGate({ title: 'Full Stack Developer' }).verdict).toBe('not_intern');
   });
 });
+
+describe('internshipGate masked phrases', () => {
+  it('treats "Chief of Staff Intern" as an internship', () => {
+    expect(internshipGate({ title: 'Chief of Staff Intern' }).verdict).toBe('intern');
+    expect(internshipGate({ title: 'Chief of Staff' }).verdict).toBe('not_intern');
+  });
+});

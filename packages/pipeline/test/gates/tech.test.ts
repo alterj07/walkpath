@@ -86,3 +86,18 @@ describe('techGate', () => {
     expect(techGate('Marketing Intern').matched.toLowerCase()).toContain('marketing');
   });
 });
+
+describe('techGate soft non-tech words', () => {
+  it.each([
+    ['Video Codec Engineer Intern', ['ambiguous', 'tech']],
+    ['Trust & Safety Engineer Intern', ['ambiguous']],
+    ['Physics Simulation Engineer Intern', ['ambiguous', 'tech']],
+    ['Sales Engineer Intern', ['not_tech']],
+    ['Mechanical Engineering Intern', ['not_tech']],
+    ['Marketing Intern', ['not_tech']],
+    ['Content Intern', ['not_tech']],
+    ['Economics Research Intern', ['not_tech']],
+  ])('%s → %s', (title, verdicts) => {
+    expect(verdicts).toContain(techGate(title).verdict);
+  });
+});

@@ -144,14 +144,14 @@ async function peekBody(res: Response, limit: number): Promise<string> {
   return new TextDecoder().decode(joined);
 }
 
-export type FetchLike = (url: string, init: RequestInit) => Promise<Response>;
+export type ProbeFetch = (url: string, init: RequestInit) => Promise<Response>;
 
 /**
  * Probe one board. Never throws; network failures become `needs_refingerprint` with status 0.
  * A Lever site that 404s on api.lever.co is tried once on api.eu.lever.co; a hit comes back as
  * `active` with `resolvedBoardKey: "eu:{site}"`.
  */
-export async function probeBoard(target: ProbeTarget, fetchImpl: FetchLike = fetch): Promise<ProbeResult> {
+export async function probeBoard(target: ProbeTarget, fetchImpl: ProbeFetch = fetch): Promise<ProbeResult> {
   const result = await probeOnce(target, fetchImpl);
   if (target.ats === 'lever' && result.verdict === 'drop' && !target.boardKey.startsWith('eu:')) {
     const euKey = `eu:${target.boardKey}`;
@@ -169,7 +169,7 @@ export async function probeBoard(target: ProbeTarget, fetchImpl: FetchLike = fet
 
 const SR_GENERIC = /^https?:\/\/(jobs|www)\.smartrecruiters\.com\/?$/i;
 
-async function smartRecruitersExists(company: string, fetchImpl: FetchLike): Promise<ProbeResult> {
+async function smartRecruitersExists(company: string, fetchImpl: ProbeFetch): Promise<ProbeResult> {
   const url = `https://careers.smartrecruiters.com/${encodeURIComponent(company)}`;
   try {
     const res = await fetchImpl(url, { headers: { 'user-agent': PROBE_USER_AGENT, accept: 'text/html' }, redirect: 'manual', signal: AbortSignal.timeout(TIMEOUT_MS) });
@@ -186,7 +186,7 @@ async function smartRecruitersExists(company: string, fetchImpl: FetchLike): Pro
     if (res.status === 404) return { verdict: 'drop', status: 404, note: 'not found' };
     return { verdict: 'needs_refingerprint', status: res.status, note: `careers page http ${res.status}` };
   } catch (e) {
-    return { verdict: 'needs_refingerprint', status: 0, note: (e as Error).name === 'TimeoutError' ? 'timeout' : `network error: ${(e as Error).message}` };
+    return { verdict: 'needs_refingerprint', status: 0, note: (e as Error).name === 'TimeoutError' ? 'timeout' : `network error: ${(e as Error).name}` };
   }
 }
 
@@ -199,7 +199,7 @@ function retryAfterMs(res: Response): number {
   return Number.isFinite(at) ? Math.min(Math.max(at - Date.now(), 1000), 60_000) : 5000;
 }
 
-async function probeOnce(target: ProbeTarget, fetchImpl: FetchLike): Promise<ProbeResult> {
+async function probeOnce(target: ProbeTarget, fetchImpl: ProbeFetch): Promise<ProbeResult> {
   let req: ProbeRequest;
   try {
     req = probeRequest(target);
@@ -219,8 +219,9 @@ async function probeOnce(target: ProbeTarget, fetchImpl: FetchLike): Promise<Pro
     if (res.status !== 200) await res.body?.cancel().catch(() => undefined);
     return classifyProbe(target, res.status, prefix);
   } catch (e) {
+    // Notes are printed in public CI logs: carry the error class only, never its message.
     const name = (e as Error).name;
-    return { verdict: 'needs_refingerprint', status: 0, note: name === 'TimeoutError' ? 'timeout' : `network error: ${(e as Error).message}` };
+    return { verdict: 'needs_refingerprint', status: 0, note: name === 'TimeoutError' ? 'timeout' : `network error: ${name}` };
   }
 }
 

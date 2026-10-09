@@ -9,7 +9,7 @@ real asset: the crawler is a commodity, the registry is what decides which inter
 | --- | --- |
 | `company_slug` | Kebab-case company id used in URLs (`/company/<slug>`). Several boards may share one slug (a company with both Workday and Greenhouse). |
 | `company_name` | Display name. |
-| `domain` | The company's own website host (`figma.com`), or empty when unknown. Used for logos and to allow apply links on the company's domain. |
+| `domain` | The company's own website host (`figma.com`), or empty when unknown. Used for logos and to allow apply links on the company's domain. Follow-up: the seed only learns a domain from Greenhouse `absolute_url`s and SmartRecruiters careers-page redirects, so about 97% of rows are empty today; the crawl will derive domains from the ATS payloads (Ashby, Lever, Workable job URLs) later. |
 | `ats` | One of `greenhouse`, `lever`, `ashby`, `workable`, `smartrecruiters`, `workday`, `recruitee`, `breezy`, `pinpoint`, `teamtailor`, `personio`, `bamboohr`, `jazzhr`, `jsonld`. Adapters exist for the first six in the MVP. |
 | `board_key` | What the adapter polls: Greenhouse token, Lever site (`eu:{site}` for boards served from `api.eu.lever.co`), Ashby board name, Workable subdomain, SmartRecruiters company id, Workday `tenant/site`. Lowercase for Greenhouse, Lever, Ashby and Workable; SmartRecruiters and Workday keep their case. |
 | `careers_url` | The public board URL (`https://job-boards.greenhouse.io/figma`) or the company's own careers page. |

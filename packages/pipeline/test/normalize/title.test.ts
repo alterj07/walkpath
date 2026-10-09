@@ -18,6 +18,12 @@ const cases: Array<[string, string]> = [
   ['Data Science Intern - Seattle, WA - Remote', 'Data Science Intern'],
   ['Intern - Hybrid', 'Intern'],
   ['Security Intern (United States)', 'Security Intern'],
+  ['Software Engineering Intern | Boston', 'Software Engineering Intern'],
+  ['Software Engineer Intern - Richmond, VA (Intern)', 'Software Engineer Intern'],
+  ['Software Engineer - Richmond, VA (Intern)', 'Software Engineer Intern'],
+  ['Software Engineer (Co-op)', 'Software Engineer Co-op'],
+  ['iOS Engineer Intern - Mobile', 'iOS Engineer Intern - Mobile'],
+  ['Backend Intern - Springfield', 'Backend Intern - Springfield'],
 ];
 
 describe('normalizeTitle', () => {

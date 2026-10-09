@@ -18,14 +18,8 @@ import { fileURLToPath } from 'node:url';
 import { z } from 'zod';
 import { parseCsv } from '../src/registry/csv.ts';
 import { boardUrl, fingerprintUrl, type Fingerprint } from '../src/registry/fingerprint.ts';
-import {
-  type BoardRow,
-  boardId,
-  defaultSourcesConfig,
-  loadBoards,
-  serializeBoards,
-  slugify,
-} from '../src/registry/boards.ts';
+import { type Board, boardId } from '../src/schema/board.ts';
+import { defaultSourcesConfig, loadBoards, serializeBoards, uniqueSlug } from '../src/registry/boards.ts';
 import {
   HOSTNAME,
   PROBE_ATS,
@@ -243,8 +237,8 @@ async function validateAll(list: Candidate[], cache: Map<string, CacheEntry>, re
   return { results, fromCache };
 }
 
-function pickSample(rows: BoardRow[], hits: Map<string, number>): BoardRow[] {
-  const sample: BoardRow[] = [];
+function pickSample(rows: Board[], hits: Map<string, number>): Board[] {
+  const sample: Board[] = [];
   for (const ats of ['greenhouse', 'lever', 'ashby', 'workable', 'smartrecruiters'] as const) {
     const pool = rows
       .filter((r) => r.ats === ats && r.status === 'active')
@@ -281,8 +275,11 @@ async function main() {
   console.log(`validating ${list.length} boards (${cache.size} cached verdicts on disk)...`);
   const { results, fromCache } = await validateAll(list, cache, args.revalidate);
 
-  const rows = new Map<string, BoardRow>(existingById);
+  const rows = new Map<string, Board>(existingById);
   const hits = new Map<string, number>();
+  // Slugs already owned by existing rows (kept stable); new rows get a unique slug per company name.
+  const slugOwners = new Map<string, string>();
+  for (const r of existing) if (!slugOwners.has(r.company_slug)) slugOwners.set(r.company_slug, r.company_name);
   const stats: Record<string, { candidates: number; active: number; needs_refingerprint: number; dropped: number }> = {};
   for (const ats of PROBE_ATS) stats[ats] = { candidates: 0, active: 0, needs_refingerprint: 0, dropped: 0 };
 
@@ -309,8 +306,8 @@ async function main() {
     const prev = existingById.get(finalId) ?? existingById.get(id);
     const name = prev?.company_name || r.name || c.names[0] || c.boardKey;
     const domain = [prev?.domain, r.domain, c.domainHint].find((d) => d && HOSTNAME.test(d)) ?? '';
-    const row: BoardRow = {
-      company_slug: prev?.company_slug || slugify(name),
+    const row: Board = {
+      company_slug: prev?.company_slug || uniqueSlug(name, c.ats, slugOwners),
       company_name: name,
       domain,
       ats: c.ats,
@@ -318,7 +315,7 @@ async function main() {
       careers_url: (finalId === id && prev?.careers_url) || boardUrl({ ats: c.ats, boardKey, meta: c.fp.meta ?? {} }) || c.careersUrl,
       added_at: prev?.added_at ?? today,
       status: prev?.status === 'disabled' ? 'disabled' : r.verdict,
-      wd: c.wd ? String(c.wd) : '',
+      wd: c.wd,
     };
     rows.set(finalId, row);
   }

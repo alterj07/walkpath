@@ -1,4 +1,4 @@
-import { resolveCityAlias, resolveState } from '../data/us-gazetteer.ts';
+import { citiesByName, normalizePlaceKey, resolveCityAlias, resolveState } from '../data/us-gazetteer.ts';
 
 export interface NormalizedTitle {
   title: string;
@@ -13,6 +13,30 @@ const REQ_ID_RES: readonly RegExp[] = [
   /\s*#\s*\d{3,}\b/g,
 ];
 
+// "(Intern)", "(Internship)", "(Co-op)" at the very end: lifted off so a location before it can be
+// stripped, then put back as a plain word so the internship gate still sees it.
+const TRAILING_INTERN_PAREN_RE = /\s*\((intern(?:ship)?|co-?op)\)\s*$/i;
+const INTERN_WORD_RE = /\b(intern|interns|internship|internships|co-?op|co-?ops)\b/i;
+// City names that are also everyday words in job titles; never treated as a location suffix.
+const CITY_WORD_DENYLIST = new Set([
+  'mobile', 'enterprise', 'commerce', 'industry', 'independence', 'orange', 'reading', 'surprise',
+  'union', 'liberty', 'temple', 'mesa', 'normal', 'paradise', 'security', 'vista', 'hope', 'buffalo',
+  'auburn', 'garland', 'chandler', 'gilbert', 'frisco', 'cary', 'plano', 'victoria', 'anchorage',
+]);
+const MIN_POP_FOR_BARE_CITY_SUFFIX = 100_000;
+
+function isBareCityName(s: string): boolean {
+  const key = normalizePlaceKey(s);
+  if (CITY_WORD_DENYLIST.has(key)) return false;
+  const matches = citiesByName().get(key) ?? [];
+  const top = matches[0];
+  const runnerUp = matches[1];
+  if (top === undefined) return false;
+  if (matches.length === 1) return true;
+  // Same dominance rule as parseLocation: big and at least 3× the next city of that name.
+  return top.population >= MIN_POP_FOR_BARE_CITY_SUFFIX && (runnerUp === undefined || top.population >= 3 * runnerUp.population);
+}
+
 const PAREN_LOCATION_RE = /\s*\((?:remote|hybrid|on-?site|in[- ]person|us|usa|united states|multiple locations)(?:[^)]*)\)\s*$/i;
 
 function looksLikeLocation(segment: string): boolean {
@@ -25,6 +49,7 @@ function looksLikeLocation(segment: string): boolean {
     return true;
   }
   if (parts.length === 1 && resolveCityAlias(s)) return true;
+  if (parts.length === 1 && isBareCityName(s)) return true;
   if (parts.length === 1 && resolveState(s) && !/^(la|in|or|ok|hi|me|oh|de|co|pa|md|mo|ma)$/i.test(s)) return true;
   return false;
 }
@@ -37,6 +62,8 @@ export function normalizeTitle(raw: string): NormalizedTitle {
   const title_raw = raw;
   let title = raw.replace(/\s+/g, ' ').trim();
   for (const re of REQ_ID_RES) title = title.replace(re, '');
+  const internParen = title.match(TRAILING_INTERN_PAREN_RE);
+  if (internParen) title = title.slice(0, internParen.index);
   title = title.replace(PAREN_LOCATION_RE, '');
 
   // Trailing "- Richmond, VA", "| New York", "– Remote", possibly repeated.
@@ -50,5 +77,8 @@ export function normalizeTitle(raw: string): NormalizedTitle {
     }
   }
   title = title.replace(/\s*\(\s*\)\s*/g, ' ').replace(/\s+/g, ' ').replace(/[\s\-–—|,:]+$/g, '').trim();
+  if (internParen && internParen[1] && !INTERN_WORD_RE.test(title)) {
+    title = `${title} ${internParen[1]}`;
+  }
   return { title: title || title_raw.trim(), title_raw };
 }

@@ -8,8 +8,9 @@
  * 2. For rows added or changed relative to the base ref (git diff), confirms that
  *    - careers_url is on a known ATS host that fingerprints to the same board, or on the company's own domain, and
  *    - the board answers on its ATS public endpoint (one request; rows marked active must answer 200).
- *    `--all` checks every row instead of the diff (slow; maintainer use). Without git history and
- *    without --all the live check is skipped with a warning.
+ *    `--all` checks every row instead of the diff (slow; maintainer use). `--base <ref>` (what CI
+ *    passes on pull requests) makes an unavailable diff a hard failure; without either flag the
+ *    live check is skipped with a warning (pushes to main, local runs).
  * Exits non-zero with a readable report.
  */
 import { execFileSync } from 'node:child_process';
@@ -17,7 +18,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseCsv } from '../src/registry/csv.ts';
 import { fingerprintUrl } from '../src/registry/fingerprint.ts';
-import { BOARDS_CSV_HEADER, type BoardRow, RegistryError, boardId, loadBoards } from '../src/registry/boards.ts';
+import { type Board, boardId } from '../src/schema/board.ts';
+import { BOARDS_CSV_HEADER, RegistryError, loadBoards } from '../src/registry/boards.ts';
 import { PROBE_ATS, PoliteLimiter, type ProbeAts, defaultProbePolicy, probeBoard, probeHost } from '../src/registry/probe.ts';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
@@ -25,18 +27,21 @@ const BOARDS_CSV = path.join(ROOT, 'registry/boards.csv');
 const REL = 'registry/boards.csv';
 
 function parseArgs(argv: string[]) {
-  const args = { all: false, base: 'origin/main' };
+  const args = { all: false, base: 'origin/main', baseGiven: false };
   for (let i = 0; i < argv.length; i += 1) {
     const a = argv[i];
     if (a === '--all') args.all = true;
-    else if (a === '--base') args.base = argv[++i] ?? args.base;
+    else if (a === '--base') {
+      args.base = argv[++i] ?? args.base;
+      args.baseGiven = true;
+    }
     else throw new Error(`unknown argument ${a}`);
   }
   return args;
 }
 
 /** Rows added or modified in the working tree relative to `base`, or null when git cannot tell. */
-function changedRows(base: string, current: BoardRow[]): BoardRow[] | null {
+function changedRows(base: string, current: Board[]): Board[] | null {
   let diff: string;
   try {
     diff = execFileSync('git', ['diff', '--unified=0', '--no-color', base, '--', REL], { cwd: ROOT, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] });
@@ -58,7 +63,7 @@ function hostMatchesDomain(host: string, domain: string): boolean {
   return domain !== '' && (host === domain || host.endsWith(`.${domain}`));
 }
 
-function checkCareersUrl(row: BoardRow): string | null {
+function checkCareersUrl(row: Board): string | null {
   if (row.careers_url === '') return null;
   const host = new URL(row.careers_url).hostname.toLowerCase().replace(/^www\./, '');
   const fp = fingerprintUrl(row.careers_url);
@@ -72,9 +77,10 @@ function checkCareersUrl(row: BoardRow): string | null {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  let rows: BoardRow[];
+  let rows: Board[];
+  const warnings: string[] = [];
   try {
-    rows = await loadBoards(BOARDS_CSV);
+    rows = await loadBoards(BOARDS_CSV, warnings);
   } catch (e) {
     if (e instanceof RegistryError) {
       console.error(`FAIL ${REL}:`);
@@ -84,12 +90,17 @@ async function main() {
     throw e;
   }
   console.log(`${REL}: ${rows.length} rows parse cleanly, no duplicate boards`);
+  for (const w of warnings) console.warn(`WARN ${w}`);
 
-  let toCheck: BoardRow[];
+  let toCheck: Board[];
   if (args.all) toCheck = rows;
   else {
     const changed = changedRows(args.base, rows);
     if (changed === null) {
+      if (args.baseGiven) {
+        console.error(`FAIL cannot diff against ${args.base}; the pull-request check needs full history (fetch-depth: 0).`);
+        process.exit(1);
+      }
       console.warn(`WARN cannot diff against ${args.base} (shallow clone or no git); skipping the live check. Use --all to probe every row.`);
       return;
     }
@@ -109,7 +120,7 @@ async function main() {
         problems.push(`${id}: no public endpoint known for ats "${row.ats}" yet; add it as needs_refingerprint or wait for the adapter`);
         return;
       }
-      const target = { ats: row.ats as ProbeAts, boardKey: row.board_key, wd: row.wd ? Number(row.wd) : undefined };
+      const target = { ats: row.ats as ProbeAts, boardKey: row.board_key, wd: row.wd };
       const result = await limiter.run(probeHost(target), () => probeBoard(target));
       if (result.resolvedBoardKey) problems.push(`${id}: board answers on api.eu.lever.co; key it as "${result.resolvedBoardKey}"`);
       else if (result.verdict === 'drop') problems.push(`${id}: board does not exist on ${row.ats} (http ${result.status})`);

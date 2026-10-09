@@ -20,6 +20,7 @@ const TYPE_INTERN_RE = /\b(intern|internship|co-?op|student|trainee)\b/i;
 const SENIOR_RE = /\b(senior|sr\.?|staff|principal|lead|manager|director|vp|vice president|coordinator)\b/i;
 const ROLE_MANAGER_RE =
   /\b(product|program|project|engineering|technical program|technical product|community|account|brand|marketing|partner|category|content|social media|release|delivery|portfolio|supply chain|operations|business|channel|growth|risk|quality)\s+manag(er|ement)\b/gi;
+const CHIEF_OF_STAFF_RE = /\bchief of staff\b/gi;
 const YEARS_RE =/\b(\d+)\s*\+?\s*(?:-\s*\d+\s*)?(?:years?|yrs?)\b/i;
 const AMBIGUOUS_RE = /\b(summer analyst|university program|student|early career|new grad(uate)?|graduate program|graduate scheme|apprentice(ship)?|fellow(ship)?|trainee|rotational program|leadership development program|campus hire|undergraduate|entry[- ]level program)\b/i;
 const ABOUT_INTERNS_RE = /\b(intern(ship)?s?)\s+(program\s+)?(manager|coordinator|recruiter|recruiting|lead|supervisor|specialist)\b/i;
@@ -36,8 +37,9 @@ export function internshipGate(input: InternshipGateInput): InternshipGateResult
   if (aboutInterns) {
     return { verdict: 'not_intern', employment_type, reason: `role about interns: ${aboutInterns[0]}` };
   }
-  // "Product Manager Intern" is an internship in product management, not a manager role.
-  const seniorHit = title.replace(ROLE_MANAGER_RE, ' ').match(SENIOR_RE);
+  // "Product Manager Intern" is an internship in product management, not a manager role;
+  // "Chief of Staff Intern" is not a staff-level role.
+  const seniorHit = title.replace(ROLE_MANAGER_RE, ' ').replace(CHIEF_OF_STAFF_RE, ' ').match(SENIOR_RE);
   if (seniorHit) {
     return { verdict: 'not_intern', employment_type, reason: `senior title: ${seniorHit[0]}` };
   }

@@ -9,11 +9,23 @@ export interface TechGateResult {
   matched: string;
 }
 
-// Non-tech roles that override everything, including "engineer" in "Sales Engineer".
-const NOT_TECH_RE =
-  /\b(marketing|sales|account executive|account manag\w*|business development|finance|financial analyst|accounting|accountant|audit|tax|treasury|actuar\w*|hr|human resources|people (ops|operations|team)|talent|recruit\w*|legal|paralegal|attorney|compliance|nurse|nursing|medical|clinical|pharmac\w*|physician|dental|veterinar\w*|chef|culinary|retail|merchandis\w*|warehouse|logistics|supply chain|procurement|purchasing|driver|customer (service|success|support)|communications|public relations|journalis\w*|editorial|copywrit\w*|social media|brand|events?|hospitality|real estate|property|construction|civil engineer\w*|structural engineer\w*|mechanical engineer\w*|chemical engineer\w*|materials engineer\w*|manufacturing engineer\w*|industrial engineer\w*|process engineer\w*|environmental|sustainability|safety|ehs|quality engineer\w*|quality assurance engineer|test technician|lab technician|facilities|business operations|strategy|consulting|consultant|investment|banking|wealth|trading assistant|underwrit\w*|claims|insurance|teacher|teaching|tutor|education|curriculum|admissions|library|museum|graphic design|video|photograph\w*|animation|writer|content|policy|government affairs|economics|economist|biolog\w*|chemist\w*|physics|geolog\w*|agricultur\w*|food science|interior design|architect(ure|ural)?|urban planning|fashion|apparel|textile|sports|athletic|coaching)\b/i;
+// Clearly non-tech roles: a hard veto unless a strong software/data/hardware/quant/product word is
+// also present ("Financial Software Engineer Intern" is software; "Sales Engineer Intern" is not).
+const HARD_NOT_TECH_RE =
+  /\b(marketing|sales|account executive|account manag\w*|business development|finance|financial analyst|accounting|accountant|audit|tax|treasury|actuar\w*|hr|human resources|people (ops|operations|team)|talent|recruit\w*|legal|paralegal|attorney|compliance|nurse|nursing|medical|clinical|pharmac\w*|physician|dental|veterinar\w*|chef|culinary|retail|merchandis\w*|warehouse|driver|customer (service|success|support)|hospitality|real estate|property|construction|civil engineer\w*|structural engineer\w*|mechanical engineer\w*|chemical engineer\w*|materials engineer\w*|manufacturing engineer\w*|industrial engineer\w*|process engineer\w*|teacher|teaching|tutor|admissions|fashion|apparel|textile|interior design|banking|wealth|underwrit\w*|claims|insurance|trading assistant|facilities|lab technician|test technician)\b/i;
+
+// Generic words that usually mean a non-tech role but also name tech specialties ("Video Codec
+// Engineer", "Trust & Safety Engineer", "Physics Simulation Engineer"). Without a strong tech word
+// these titles go to the LLM as ambiguous when an engineering word is present, else not_tech.
+const SOFT_NOT_TECH_RE =
+  /\b(supply chain|procurement|purchasing|logistics|communications|public relations|journalis\w*|editorial|copywrit\w*|social media|brand|events?|environmental|sustainability|safety|ehs|quality engineer\w*|quality assurance engineer|business operations|strategy|consulting|consultant|investment|education|curriculum|library|museum|graphic design|video|photograph\w*|animation|writer|content|policy|government affairs|economics|economist|biolog\w*|chemist\w*|physics|geolog\w*|agricultur\w*|food science|architect(ure|ural)?|urban planning|sports|athletic|coaching)\b/i;
+const ENGINEERY_RE = /\b(engineer\w*|platform|codec|simulation)\b/i;
 
 // Order matters: first family to match wins, except for the explicit overrides below.
+// Bare "Test Engineer" and "Systems Engineer" (no software/data word) are deliberately read as
+// hardware: in internship listings they are overwhelmingly board-level validation and avionics/
+// systems roles. "Software Test Engineer" and "Systems Software Engineer" hit the software
+// override first.
 const FAMILY_RULES: ReadonlyArray<readonly [RoleFamily, RegExp]> = [
   [
     'hardware_embedded',
@@ -62,10 +74,10 @@ export function techGate(title: string, department?: string | null): TechGateRes
   const t = title.replace(/\s+/g, ' ').trim();
   const dept = (department ?? '').trim();
 
-  // A non-tech signal wins unless a strong software/data/hardware word is also present
-  // ("Financial Software Engineer Intern" is software; "Sales Engineer Intern" is not).
-  const notTech = t.match(NOT_TECH_RE);
-  if (notTech) {
+  // A non-tech signal wins unless a strong software/data/hardware word is also present.
+  const hard = t.match(HARD_NOT_TECH_RE);
+  const soft = t.match(SOFT_NOT_TECH_RE);
+  if (hard || soft) {
     const strong =
       t.match(SOFTWARE_OVERRIDE_RE) ??
       t.match(DATA_PRIMARY_RE) ??
@@ -73,7 +85,10 @@ export function techGate(title: string, department?: string | null): TechGateRes
       t.match(QUANT_PRIMARY_RE) ??
       t.match(PRODUCT_PRIMARY_RE);
     if (!strong) {
-      return { family: null, verdict: 'not_tech', matched: notTech[0] };
+      if (hard) return { family: null, verdict: 'not_tech', matched: hard[0] };
+      const softWord = (soft as RegExpMatchArray)[0];
+      if (ENGINEERY_RE.test(t)) return { family: null, verdict: 'ambiguous', matched: `${softWord} + engineering word` };
+      return { family: null, verdict: 'not_tech', matched: softWord };
     }
   }
 

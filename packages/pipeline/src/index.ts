@@ -37,10 +37,15 @@ export * from './gates/internship.ts';
 export * from './gates/tech.ts';
 export * from './registry/csv.ts';
 export * from './registry/fingerprint.ts';
+export * from './registry/boards.ts';
 export {
-  REGISTRY_ATS, BOARD_STATUSES, BoardRowSchema, BOARDS_CSV_HEADER, RegistryError,
-  parseBoardsCsv, loadBoards, serializeBoards, slugify, SourcesConfigSchema,
-  parseSourcesConfig, loadSourcesConfig, isSourceEnabled, defaultSourcesConfig,
-} from './registry/boards.ts';
-export type { RegistryAts, BoardRow, SourcesConfig } from './registry/boards.ts';
-export * from './registry/probe.ts';
+  probeBoard,
+  probeRequest,
+  classifyProbe,
+  probeHost,
+  PoliteLimiter,
+  defaultProbePolicy,
+  PROBE_ATS,
+  PROBE_USER_AGENT,
+} from './registry/probe.ts';
+export type { ProbeAts, ProbeFetch, ProbeRequest, ProbeResult, ProbeTarget, HostPolicy } from './registry/probe.ts';

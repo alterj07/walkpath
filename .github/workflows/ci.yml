@@ -18,6 +18,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          fetch-depth: 0 # validate-registry diffs boards.csv against origin/main
       - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
         with:
           node-version: 24
@@ -26,3 +28,6 @@ jobs:
       - run: npm run typecheck
       - run: npm run lint
       - run: npm test
+      # Registry integrity (plan 11.4): every added or changed board must resolve on its ATS.
+      - if: github.event_name == 'pull_request'
+        run: node packages/pipeline/scripts/validate-registry.ts --base origin/main

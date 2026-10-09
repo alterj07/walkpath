@@ -119,3 +119,26 @@ describe('stripTags', () => {
     expect(stripTags('<p>Hi &amp; <script>x()</script><b>there</b> &#8217;</p>')).toBe('Hi & there ’');
   });
 });
+
+describe('review follow-ups', () => {
+  it('ignores negated citizenship and clearance requirements', () => {
+    expect(parseWorkAuth('This position does not require a security clearance.').citizenship_required).toBeNull();
+    expect(parseWorkAuth('U.S. Citizenship not required for this role.').citizenship_required).toBeNull();
+    expect(parseWorkAuth('No ITAR restrictions apply; sponsorship is available.').citizenship_required).toBe(false);
+    expect(parseWorkAuth('Must be a U.S. citizen due to ITAR.').citizenship_required).toBe(true);
+    expect(parseWorkAuth('An active security clearance is required.').citizenship_required).toBe(true);
+  });
+
+  it('reads a season from a start month in the description', () => {
+    expect(parseSeason('Software Engineering Intern', 'The internship is starting May 2027 in Austin.')).toBe('Summer 2027');
+    expect(parseSeason('Software Engineering Intern', 'Program dates: May 2027 - August 2027.')).toBe('Summer 2027');
+    expect(parseSeason('Data Intern', 'The internship begins September 2026.')).toBe('Fall 2026');
+    expect(parseSeason('Data Intern', 'Our company was founded in May 2027.')).toBeNull();
+  });
+
+  it('infers the period of a single amount next to a pay word', () => {
+    expect(parseSalary({ description: 'Compensation: $95,000 base plus equity.' })).toEqual({ min: 95_000, max: 95_000, currency: 'USD', period: 'year' });
+    expect(parseSalary({ description: 'Hourly pay rate of $42.50 for all interns.' })).toEqual({ min: 42.5, max: 42.5, currency: 'USD', period: 'hour' });
+    expect(parseSalary({ description: 'We raised $95,000 from angels.' })).toBeNull();
+  });
+});
