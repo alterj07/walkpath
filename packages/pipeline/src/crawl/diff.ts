@@ -120,7 +120,9 @@ function hashOf(input: JobPostingInput, description: string | null): string {
     employmentType: input.employmentType ?? null,
     remoteFlag: input.remoteFlag ?? null,
     applyUrl: input.applyUrl,
-    postedAt: input.postedAt,
+    // Derived dates (Workday "Posted N Days Ago", first-seen fallbacks) are not content:
+    // they would change on every run and force a detail re-fetch per posting per day.
+    postedAt: input.postedAtSource === 'ATS_FIELD' ? input.postedAt : null,
     description,
   });
 }
@@ -253,7 +255,7 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
       const prior = existing.get(key) ?? null;
       const firstSeenAt = prior === null ? startedAt : new Date(prior.first_seen_at);
 
-      let input = adapter.toInput(raw, board, firstSeenAt);
+      let input = adapter.toInput(raw, board, firstSeenAt, startedAt);
       let fullHash: string;
 
       if (adapter.fetchDetail !== undefined) {
@@ -279,7 +281,7 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
           if (prior !== null) unchangedKeys.push(key);
           continue;
         }
-        input = adapter.toInput(detailed, board, firstSeenAt);
+        input = adapter.toInput(detailed, board, firstSeenAt, startedAt);
         // Store the light hash (list fields + version) so next run's light comparison matches.
         fullHash = lightHash;
       } else {

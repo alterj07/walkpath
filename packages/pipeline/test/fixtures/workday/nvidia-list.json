@@ -1,0 +1,52 @@
+{
+  "total": 2000,
+  "jobPostings": [
+    {
+      "title": "Senior Sales Account Manager, Government and Smart Spaces - North and East Europe",
+      "externalPath": "/job/Poland-Remote/Senior-Sales-Account-Manager--Government-and-Smart-Spaces---North-and-East-Europe_JR2024091",
+      "locationsText": "4 Locations",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2024091"
+      ]
+    },
+    {
+      "title": "Lead Account Manager, CSP – Networking",
+      "externalPath": "/job/US-CA-Remote/Senior-Account-Manager--CSP---Networking_JR2023238",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2023238"
+      ]
+    },
+    {
+      "title": "Director, Software Engineering – Cloud Compute and Infrastructure",
+      "externalPath": "/job/US-CA-Santa-Clara/Director--Software-Engineering---Cloud-Compute-and-Infrastructure_JR2027691",
+      "locationsText": "US, CA, Santa Clara",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2027691"
+      ]
+    },
+    {
+      "title": "Senior AI Engineer, AI tools",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-AI-Engineer--AI-tools_JR2027440",
+      "locationsText": "US, CA, Santa Clara",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2027440"
+      ]
+    },
+    {
+      "title": "Senior Manager, 3P Events Portfolio Strategy and Operations",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Manager--3P-Events-Portfolio-Strategy-and-Operations_JR2024200",
+      "locationsText": "US, CA, Santa Clara",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2024200"
+      ]
+    }
+  ],
+  "facets": [],
+  "userAuthenticated": false
+}

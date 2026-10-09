@@ -5,7 +5,10 @@
  *     --ats greenhouse,lever,ashby,workable,smartrecruiters \
  *     --boards registry/boards.csv --sources registry/sources.json \
  *     --state state/state-api.sqlite --out out/diff-api.json \
- *     [--concurrency 40] [--limit N] [--mode normal|backfill] [--deadline-min 25]
+ *     [--concurrency 40] [--limit N] [--mode normal|backfill] [--deadline-min 25] [--detail-cap 200]
+ *
+ * `--detail-cap` is the per-board cap on detail fetches per run (Greenhouse, SmartRecruiters,
+ * Workday); the Workday job uses a small value because every detail costs a 2 s-spaced request.
  *
  * Polls every active board of the requested sources, diffs against the SQLite state file,
  * runs the 45-day stale closure and 90-day prune, and writes the diff artifact the publish
@@ -59,6 +62,7 @@ async function main(argv: readonly string[]): Promise<number> {
   const limit = intFlag(args, 'limit', 0, 0);
   const mode: Mode = enumFlag(args, 'mode', MODES, 'normal');
   const deadlineMin = intFlag(args, 'deadline-min', 0, 0);
+  const detailCap = intFlag(args, 'detail-cap', 0, 0);
   const deadline: Deadline = deadlineMin > 0 ? deadlineAfter(deadlineMin) : NO_DEADLINE;
   const kind = [...atsList].includes('workday') && atsList.size === 1 ? 'crawl-workday' : 'crawl-api';
   const startedAt = new Date();
@@ -74,6 +78,7 @@ async function main(argv: readonly string[]): Promise<number> {
     out: outPath,
     concurrency,
     deadline_min: deadlineMin,
+    detail_cap: detailCap || 'default',
   });
 
   // Registry: an invalid file is fatal (exit 1).
@@ -146,6 +151,7 @@ async function main(argv: readonly string[]): Promise<number> {
       runId,
       log: log.line,
       shouldStop: () => deadline.reached(),
+      ...(detailCap > 0 ? { detailCap } : {}),
       ...(mode === 'backfill' ? { forceRefresh: true, detailCap: Number.MAX_SAFE_INTEGER } : {}),
     });
 

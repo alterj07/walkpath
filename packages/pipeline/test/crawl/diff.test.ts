@@ -152,6 +152,31 @@ describe('diffBoard', () => {
     expect(repost.first_seen_at).toBe(original.first_seen_at);
   });
 
+  it('keeps a derived (Workday-style) posted_at stable across runs and out of the content hash', async () => {
+    // Day 0: "Posted Today"; the run start is passed as `now`, so the date is today 00:00Z.
+    const { scripts, run, db, c } = setup({ jobs: [job('1', { postedAt: null, daysAgo: 0 })] });
+    const first = await run();
+    expect(first.new[0]?.posted_at).toBe('2026-10-09T00:00:00.000Z');
+    expect(first.new[0]?.posted_at_source).toBe('WORKDAY_TEXT');
+    const hash0 = db.getJob('greenhouse:acme:1')?.content_hash;
+
+    // Day +8: the same posting now says "Posted 8 Days Ago". Nothing else changed: unchanged, same hash.
+    c.advanceDays(8);
+    scripts.acme!.jobs = [job('1', { postedAt: null, daysAgo: 8 })];
+    const second = await run();
+    expect(second.counts).toMatchObject({ new: 0, changed: 0, unchanged: 1 });
+    expect(db.getJob('greenhouse:acme:1')?.content_hash).toBe(hash0);
+    expect(db.getJob('greenhouse:acme:1')?.posted_at).toBe('2026-10-09T00:00:00.000Z');
+
+    // Day +9 with an edited description: changed, but posted_at still does not move.
+    c.advanceDays(1);
+    scripts.acme!.jobs = [job('1', { postedAt: null, daysAgo: 9, description: '<p>edited</p>' })];
+    const third = await run();
+    expect(third.counts).toMatchObject({ changed: 1 });
+    expect(third.changed[0]?.posted_at).toBe('2026-10-09T00:00:00.000Z');
+    expect(third.changed[0]?.posted_at_source).toBe('WORKDAY_TEXT');
+  });
+
   it('clamps an ATS posted_at later than first_seen_at and marks the source FIRST_SEEN', async () => {
     const { run, c } = setup({ jobs: [job('1', { postedAt: '2026-10-09T15:00:00.000Z' })] });
     const d = await run();

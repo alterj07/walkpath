@@ -11,6 +11,8 @@ export interface FakeRaw {
   description?: string;
   reqId?: string | null;
   postedAt?: string | null;
+  /** Workday-style relative date ("Posted N Days Ago"): resolved against `now`, source WORKDAY_TEXT. */
+  daysAgo?: number;
   updated_at?: string;
   location?: string;
   applyUrl?: string;
@@ -47,8 +49,18 @@ export function makeHttp(): HttpClient {
  */
 export function fakeAdapter(scripts: Record<string, FakeBoardScript>, withDetail = false) {
   const calls = { list: 0, detail: 0, detailIds: [] as string[] };
-  const toInput = (raw: FakeRaw, b: Board, firstSeenAt: Date): JobPostingInput => {
+  const toInput = (raw: FakeRaw, b: Board, firstSeenAt: Date, now?: Date): JobPostingInput => {
     if (scripts[b.board_key]?.badIds?.includes(raw.id)) throw new Error(`cannot map ${raw.id}`);
+    if (raw.daysAgo !== undefined) {
+      const ref = now ?? firstSeenAt;
+      const midnight = Date.UTC(ref.getUTCFullYear(), ref.getUTCMonth(), ref.getUTCDate());
+      const { daysAgo: _d, ...rest } = raw;
+      return {
+        ...toInput({ ...rest, postedAt: null }, b, firstSeenAt, now),
+        postedAt: new Date(midnight - raw.daysAgo * 86_400_000).toISOString(),
+        postedAtSource: 'WORKDAY_TEXT',
+      };
+    }
     return {
     externalId: raw.id,
     internalReqId: raw.reqId ?? null,

@@ -1,0 +1,39 @@
+{
+  "jobPostingInfo": {
+    "id": "da13280574841001b4733dad8e390000",
+    "title": "Software Engineer",
+    "jobDescription": "The application window is expected to close on: 10/14/2026<h2><span style=\"color:#000000\">Meet the Team</span></h2><br /><p style=\"color:!important\"><span style=\"color:#000000\">Cisco Cloud Security is a leading provider of network security services, enabling the world to connect to the Internet with confidence on any device, anywhere, anytime. </span></p><br /><p style=\"color:!important\"><span style=\"color:#000000\">We are building the future of cloud-delivered, AI powered, multi-dimensional security. Our team is responsible for the development and operations of the high impact, core platforms and frameworks that enable seamless security application management. We specialize in developing core platforms like APIGW, user interfaces, resilient RESTful APIs, and Enterprise Network integrations that are key market differentiators, while closely following established processes. Our cloud security services are critical to the success of the next wave of innovation in the security industry.</span></p><p style=\"color:!important\"><span style=\"color:#000000\">We are looking for a Full-stack Software Engineer to help us launch the next generation of cloud-delivered security services and deliver a stronger offering with outstanding customer experience. Our engineering team is composed of highly skilled and diverse individuals who are comfortable working in a fast-paced and technically challenging environment. Members are involved with all stages of the product development process, from sol",
+    "location": "Milpitas, California, US",
+    "postedOn": "Posted Yesterday",
+    "startDate": "2026-10-08",
+    "timeType": "Full time",
+    "jobReqId": "2024896",
+    "jobPostingId": "Software-Engineer_2024896",
+    "jobPostingSiteId": "Cisco_Careers",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "jobRequisitionLocation": {
+      "descriptor": "USA-MILPITAS",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "remoteType": "Hybrid",
+    "externalUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2024896",
+    "timeLeftToApply": "5 days left to apply",
+    "endDate": "2026-10-15",
+    "jobPostingEndDateAsText": "End Date: October 15, 2026"
+  },
+  "hiringOrganization": {
+    "name": "020 Cisco Systems, Inc.",
+    "url": ""
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

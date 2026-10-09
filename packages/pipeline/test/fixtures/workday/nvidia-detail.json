@@ -1,0 +1,35 @@
+{
+  "jobPostingInfo": {
+    "id": "16b3aa54f81f1044811ad1266a290000",
+    "title": "CPU Compiler Intern - 2027",
+    "jobDescription": "<p>We are looking for an energetic intern for the Grace CPU compiler team at NVIDIA. This team develops optimizing compilers for world&#39;s largest AI and HPC workloads: <a target=\"_blank\" href=\"https://nam11.safelinks.protection.outlook.com/?url&#61;https%3A%2F%2Fwww.nvidia.com%2Fen-in%2Fdata-center%2Fgrace-cpu%2F&amp;data&#61;05%7C02%7Cmksit%40nvidia.com%7C20874601991547f70e1f08dcec208d53%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C638644871774628931%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata&#61;B7gMUwh1tJfXpUH%2BfACeLj9%2FG8aNcx6qGGm5ANBCrLM%3D&amp;reserved&#61;0\">https://www.nvidia.com/en-in/data-center/grace-cpu/</a>. Our compiler organisation makes its mark on every CPU, GPU, DPU and SoC product that NVIDIA builds. Would you like to be part of this outstanding organisation?</p><p>We need you design, develop and tune optimising compilers for Grace. This C/C&#43;&#43; compiler will be key to performance of AI and HPC software that is deployed on NVIDIA Data Centres, on the cloud and at super computing centres around the world. In this role you will solve critical problems working alongside an outstanding engineering team with vision in Compiler technology and systems software, doing what you enjoy! If this sounds like a fun challenge, we want to hear from you!</p><br /><p><b>What you will be doing:</b></p><ul><li>Work with a geographically distributed team to understand, modify and improve CPU Compi",
+    "location": "UK, Cambridge",
+    "postedOn": "Posted Today",
+    "startDate": "2026-10-09",
+    "timeType": "Full time",
+    "jobReqId": "JR2027251",
+    "jobPostingId": "CPU-Compiler-Intern---2027_JR2027251",
+    "jobPostingSiteId": "NVIDIAExternalCareerSite",
+    "country": {
+      "descriptor": "United Kingdom",
+      "id": "29247e57dbaf46fb855b224e03170bc7"
+    },
+    "canApply": true,
+    "posted": true,
+    "jobRequisitionLocation": {
+      "descriptor": "UK, Cambridge",
+      "country": {
+        "descriptor": "United Kingdom",
+        "id": "29247e57dbaf46fb855b224e03170bc7",
+        "alpha2Code": "GB"
+      }
+    },
+    "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
+  },
+  "hiringOrganization": {
+    "name": "GB04 NVIDIA Development UK Limited",
+    "url": ""
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

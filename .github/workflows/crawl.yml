@@ -114,6 +114,7 @@ jobs:
           --state state/state-workday.sqlite
           --out out/diff-workday.json
           --concurrency 20
+          --detail-cap 40
           --deadline-min 30
       - name: Upload diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}

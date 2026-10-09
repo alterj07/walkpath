@@ -1,0 +1,56 @@
+{
+  "total": 807,
+  "jobPostings": [
+    {
+      "title": "Part-Time Software Application Tester",
+      "externalPath": "/job/USA---San-Luis-Obispo-CA/Part-Time-Software-Application-Tester_JR2026524024-2",
+      "locationsText": "USA - San Luis Obispo, CA",
+      "postedOn": "Posted Today",
+      "remoteType": "Hybrid Job",
+      "bulletFields": [
+        "JR2026524024"
+      ]
+    },
+    {
+      "title": "Senior Test and Evaluation Laboratory Technician",
+      "externalPath": "/job/USA---Patuxent-River-MD/Senior-Test-and-Evaluation-Laboratory-Technician_JR2026524504-2",
+      "locationsText": "USA - Patuxent River, MD",
+      "postedOn": "Posted Today",
+      "remoteType": "Onsite Job",
+      "bulletFields": [
+        "JR2026524504"
+      ]
+    },
+    {
+      "title": "First Line Quality Engineering Manager",
+      "externalPath": "/job/USA---Hialeah-FL/First-Line-Quality-Engineering-Manager_JR2026521655-1",
+      "locationsText": "USA - Hialeah, FL",
+      "postedOn": "Posted Today",
+      "remoteType": "Onsite Job",
+      "bulletFields": [
+        "JR2026521655"
+      ]
+    },
+    {
+      "title": "Aircraft Maintenance Technician",
+      "externalPath": "/job/USA---Edwards-AFB-CA/Aircraft-Maintenance-Technician_JR2026513455-1",
+      "locationsText": "USA - Edwards AFB, CA",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2026513455"
+      ]
+    },
+    {
+      "title": "Mid-Level Manufacturing Operations Analyst",
+      "externalPath": "/job/USA---Albuquerque-NM/Mid-Level-Manufacturing-Operations-Analyst_JR2026524762-1",
+      "locationsText": "USA - Albuquerque, NM",
+      "postedOn": "Posted Today",
+      "remoteType": "Onsite Job",
+      "bulletFields": [
+        "JR2026524762"
+      ]
+    }
+  ],
+  "facets": [],
+  "userAuthenticated": false
+}

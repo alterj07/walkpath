@@ -1,0 +1,39 @@
+{
+  "jobPostingInfo": {
+    "id": "2047dd5131e31001943af68b212b0000",
+    "title": "Engineering Intern - Summer 2027",
+    "jobDescription": "Engineering Intern - Summer 2027<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><b>Company:</b></p>Boeing United Kingdom Limited<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p>This 3-month Engineering internship is based within Boeing’s Aerospace Innovation Centre (AIC) and supports an Aerospace Engineering Research and Technology Development Programme delivered in collaboration with industry-leading partners and academic institutions.</p><p></p><p></p><p>The position will support the engineering activities relating to storage, distribution and structures integration technologies, helping to drive innovation from research through to practical application. Working in a highly collaborative environment, this role will contribute to the successful delivery of engineering programme activities aligned with Boeing’s innovation and technology objectives.</p><p></p><p></p><p>The ideal candidate will have the ability to work collaboratively within a diverse, geographically dispersed, innovative engineering environment while supporting time-sensitive tasks and prioritising effectively.</p><p></p><p></p><p><b>Position Responsibilities:</b></p><ul><li>Support the engineering team with the structural design and analysis activities for an Aerospace Engineering Research and Technology Development Programme.</li><li>Assist the team with delivering project milestones and deliverables to help keep workstreams on time and ali",
+    "location": "GBR - Prestwick, UK",
+    "postedOn": "Posted 25 Days Ago",
+    "startDate": "2026-09-14",
+    "timeType": "Full time",
+    "jobReqId": "JR2026520518",
+    "jobPostingId": "Engineering-Intern---Summer-2027_JR2026520518",
+    "jobPostingSiteId": "EXTERNAL_CAREERS",
+    "country": {
+      "descriptor": "United Kingdom",
+      "id": "29247e57dbaf46fb855b224e03170bc7"
+    },
+    "canApply": true,
+    "posted": true,
+    "jobRequisitionLocation": {
+      "descriptor": "GBR - Prestwick, UK",
+      "country": {
+        "descriptor": "United Kingdom",
+        "id": "29247e57dbaf46fb855b224e03170bc7",
+        "alpha2Code": "GB"
+      }
+    },
+    "remoteType": "Onsite Job",
+    "externalUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Prestwick-UK/Engineering-Intern---Summer-2027_JR2026520518",
+    "timeLeftToApply": "21 days left to apply",
+    "endDate": "2026-10-31",
+    "jobPostingEndDateAsText": "End Date: October 31, 2026"
+  },
+  "hiringOrganization": {
+    "name": "Boeing United Kingdom Limited",
+    "url": ""
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

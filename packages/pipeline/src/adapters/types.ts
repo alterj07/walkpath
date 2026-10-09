@@ -27,11 +27,12 @@ export interface SourceAdapter<RawJob = unknown> {
   /** Only when the list omits the description. */
   fetchDetail?(board: Board, raw: RawJob, http: HttpClient): Promise<RawJob>;
   /** Employer's publish time per the rules in plan section 3.2; null when the ATS has none. */
-  parsePostedAt(raw: RawJob, firstSeenAt: Date): Date | null;
+  /** `now` is the run start; adapters whose timestamps are relative text (Workday) need it. */
+  parsePostedAt(raw: RawJob, firstSeenAt: Date, now?: Date): Date | null;
   /** `${source}:${board.board_key}:${externalId}` */
   canonicalKey(raw: RawJob, board: Board): string;
   /** Normalize one raw job into the shared input shape. */
-  toInput(raw: RawJob, board: Board, firstSeenAt: Date): JobPostingInput;
+  toInput(raw: RawJob, board: Board, firstSeenAt: Date, now?: Date): JobPostingInput;
 }
 
 /** The per-host limits an adapter passes to HttpClient, derived from its policy. */

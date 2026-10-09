@@ -68,6 +68,8 @@ export type HttpErrorCode =
   | 'timeout'
   | 'network'
   | 'http_status'
+  /** 403: the host refused us (bot management or policy). Not retried; /status reports it as a block. */
+  | 'forbidden'
   | 'retry_exhausted';
 
 export class HttpError extends Error {
@@ -296,7 +298,7 @@ export class HttpClient {
     }
     if (res.status < 200 || res.status >= 300) {
       await discard(res);
-      throw new HttpError('http_status', h, res.status);
+      throw new HttpError(res.status === 403 ? 'forbidden' : 'http_status', h, res.status);
     }
     const body = await readCapped(res, this.maxBodyBytes, h, signal);
     return {

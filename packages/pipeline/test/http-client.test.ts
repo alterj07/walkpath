@@ -97,6 +97,15 @@ describe('HttpClient basics', () => {
     expect(f.calls).toHaveLength(1);
   });
 
+  it('throws forbidden on 403 without retrying', async () => {
+    const f = fakeFetch(() => res('<html>challenge</html>', 403));
+    await expect(client(f).request({ url: 'https://api.example.com/x', allowedHosts, limits })).rejects.toMatchObject({
+      code: 'forbidden',
+      status: 403,
+    });
+    expect(f.calls).toHaveLength(1);
+  });
+
   it('error messages never include bodies or headers', async () => {
     const f = fakeFetch(() => res('SECRET-BODY', 500, { 'x-secret': 'SECRET-HEADER' }));
     const err = await client(f).request({ url: 'https://api.example.com/x', allowedHosts, limits }).catch((e) => e as HttpError);

@@ -10,7 +10,7 @@ next one starts; it never overlaps.
 | Job | What it does | Budget |
 | --- | --- | --- |
 | `crawl-api` | Restores `state/state-api.sqlite` from the Actions cache, polls every active Greenhouse, Lever, Ashby, Workable and SmartRecruiters board, diffs, uploads `out/diff-api.json` as the `diff-api` artifact, saves the cache. | 25 min crawl deadline, 40 min job timeout |
-| `crawl-workday` | Same for Workday tenants with its own state file and the `diff-workday` artifact. Off until the repository variable `WORKDAY_ENABLED` is `true`. | 30 min deadline, 45 min timeout |
+| `crawl-workday` | Same for Workday tenants with its own state file and the `diff-workday` artifact. Off until the repository variable `WORKDAY_ENABLED` is `true`. Runs with `--detail-cap 40`: 4,072 tenants × ~5 list pages × 2 s at 20 parallel tenants is about 34 minutes before any detail requests, so the first run backfills over several hours and each later run only fetches new postings (see `docs/workday.md`). | 30 min deadline, 45 min timeout |
 | `publish` | Not yet in the workflow. It will `needs` both crawl jobs, download the artifacts, gate and summarize, write the data branch, build and deploy the site. | |
 
 Top-level `permissions` are `contents: read`; only the future publish job gets `contents: write`.
