@@ -89,3 +89,28 @@ the default because its Direct Upload path needs no Worker code at all.
   one instantly.
 - Data: the `data` branch history (until the monthly squash) and the weekly `state-snapshot`
   release (see `docs/operations.md`) are the restore points.
+
+## Hosting on Vercel instead of Cloudflare
+
+The site is static, so Vercel's free Hobby plan serves it fine (non-commercial use only, per its
+terms; the crawler never runs there). `packages/site/vercel.json` holds what `_headers` and
+`_redirects` do on Cloudflare: the SPA rewrites for `/job/:id` and `/company/:slug`, the security
+headers with the current CSP hashes, and a build command that runs `scripts/fetch-data.ts` before
+`astro build` to pull the `data` branch into `public/`. In the Vercel project set the root directory
+to `packages/site`; the Node version comes from that package's `engines` field (24.x).
+
+- Public repository: no credentials are needed; the build downloads the branch tarball.
+- Each hourly run pushes the `data` branch. Create a Deploy Hook (Project → Settings → Git →
+  Deploy Hooks, branch `main`) and store its URL as the `VERCEL_DEPLOY_HOOK_URL` secret so the
+  publish job triggers a rebuild; without it the site refreshes only when `main` is pushed.
+- Set `SITE_URL` in the Vercel environment (`https://walkpath.vercel.app`) so feeds, sitemap and
+  canonical links are absolute.
+
+## About the secrets
+
+GitHub Actions secrets are not part of the repository. They are stored encrypted, shown to nobody
+after being set (not even the owner), never exposed to pull requests from forks, and masked in logs.
+A public repository exposes its code and its workflow files, not its secrets. Every secret here is
+optional: with none set, the hourly run still crawls, publishes the `data` branch and builds the
+site; keys only add summaries, alerts, the heartbeat and the deploy trigger. Each key is scoped to
+the one thing it does (see `docs/github-settings.md`) and can be revoked at its provider.
