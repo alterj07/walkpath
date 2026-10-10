@@ -13,7 +13,7 @@
   "dependencies": {
     "@astrojs/react": "4.4.2",
     "@tanstack/react-table": "8.21.3",
-    "astro": "5.18.2",
+    "astro": "7.2.8",
     "dompurify": "3.4.16",
     "minisearch": "7.2.0",
     "react": "19.3.0",
