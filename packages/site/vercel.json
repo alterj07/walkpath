@@ -6,8 +6,8 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/job/:id", "destination": "/job/index.html" },
-    { "source": "/company/:slug", "destination": "/company/index.html" }
+    { "source": "/job/:id", "destination": "/job" },
+    { "source": "/company/:slug", "destination": "/company" }
   ],
   "headers": [
     {
