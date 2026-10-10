@@ -14,6 +14,9 @@ import { SMARTRECRUITERS_POLICY } from '../adapters/smartrecruiters.ts';
  * employer's careers page and flagged for review.
  */
 
+/** Sentinel in an ATS host list meaning "any https host" (human-curated sources only). */
+export const ANY_HOST = '*';
+
 /** Longest apply URL we publish; anything longer is almost certainly junk or an attack. */
 export const APPLY_URL_MAX_LENGTH = 2048;
 
@@ -32,6 +35,8 @@ export const ATS_APPLY_HOSTS: Readonly<Partial<Record<Ats, readonly string[]>>> 
   workday: ['*.myworkdayjobs.com', '*.myworkdaysite.com'],
   recruitee: ['*.recruitee.com'],
   breezy: ['*.breezy.hr'],
+  // Curated list rows point at whatever board the employer uses; the list maintainers reviewed them.
+  simplify: [ANY_HOST],
 };
 
 export interface ResolveApplyUrlInput {
@@ -54,10 +59,11 @@ export interface ResolvedApplyUrl {
 function acceptable(raw: string | null | undefined, atsHosts: readonly string[], companyDomain: string | null | undefined): { url: string } | { reason: string } {
   if (!raw || raw.trim() === '') return { reason: 'missing' };
   if (raw.length > APPLY_URL_MAX_LENGTH) return { reason: 'too_long' };
-  const v = validateApplyUrl(raw, { atsHosts });
+  const anyHost = atsHosts.includes(ANY_HOST);
+  const v = validateApplyUrl(raw, { atsHosts: anyHost ? [] : atsHosts });
   if (!v.ok) return { reason: v.reason };
   // An http URL is published as https; the weekly link check catches hosts that do not answer on 443.
-  if (!isAllowedApplyHost(v.url, { atsHosts, companyDomain })) return { reason: 'off_host' };
+  if (!anyHost && !isAllowedApplyHost(v.url, { atsHosts, companyDomain })) return { reason: 'off_host' };
   return { url: v.url };
 }
 

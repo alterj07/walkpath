@@ -1,5 +1,7 @@
 import type { JobEvent } from '../crawl/diff.ts';
 import { internshipGate } from '../gates/internship.ts';
+import { slugify } from '../registry/boards.ts';
+import { stripSimplifyTracking } from '../adapters/simplify.ts';
 import { techGate } from '../gates/tech.ts';
 import { jobIdFromKey } from '../ids.ts';
 import { parseArrangement, parseGradYears, parseSalary, parseSeason, parseWorkAuth } from '../normalize/fields.ts';
@@ -51,6 +53,37 @@ export async function buildGroupIndex(store: Store): Promise<GroupIndex> {
   return index;
 }
 
+/**
+ * Open records keyed by their published apply URL (and hosted URL when the ATS gives one), built
+ * once per run alongside the group index. Curated-list sources (SimplifyJobs) carry rows that the
+ * employer's own ATS also publishes; the ATS copy wins and the list copy is skipped (`deduped_listing`).
+ */
+export type UrlIndex = Map<string, JobRecord>;
+
+/** Sources whose rows are deduplicated against ATS-sourced records by apply URL. */
+export const LISTING_SOURCES: ReadonlySet<string> = new Set(['simplify']);
+
+export function urlKey(raw: string): string | null {
+  try {
+    const u = new URL(raw);
+    u.hash = '';
+    u.hostname = u.hostname.toLowerCase();
+    return u.toString().replace(/\/+$/, '');
+  } catch {
+    return null;
+  }
+}
+
+export async function buildUrlIndex(store: Store): Promise<UrlIndex> {
+  const index: UrlIndex = new Map();
+  for (const existing of await store.all()) {
+    if (existing.closed_at !== null || LISTING_SOURCES.has(existing.source.ats)) continue;
+    const key = urlKey(existing.apply_url);
+    if (key && !index.has(key)) index.set(key, existing);
+  }
+  return index;
+}
+
 export interface MergeOptions {
   events: readonly JobEvent[];
   closedKeys: readonly string[];
@@ -65,6 +98,8 @@ export interface MergeOptions {
   grouped: Record<string, GroupedEntry>;
   /** Mutated in place as records are published. */
   groups: GroupIndex;
+  /** Optional: apply URLs of open ATS-sourced records; listing-source copies of them are skipped. */
+  urls?: UrlIndex;
   log?: (message: string) => void;
 }
 
@@ -89,6 +124,8 @@ export interface MergeResult {
     grouped: number;
     /** Events skipped because the LLM already rejected the job and its content has not changed. */
     skipped_llm_negative: number;
+    /** Curated-list rows skipped because the employer's ATS copy of the same apply URL is already published. */
+    deduped_listing: number;
   };
   unparsedLocations: string[];
 }
@@ -139,11 +176,15 @@ export function buildRecord(event: JobEvent, board: Board, family: RoleFamily, e
   const descriptionHtml = sanitizeDescription(input.descriptionHtml);
   const descriptionText = htmlToPlainText(descriptionHtml);
   const auth = parseWorkAuth(descriptionText);
+  // Curated-list sources name the employer per row (plan: SimplifyJobs); the board is only the list.
+  const company = input.companyName
+    ? { slug: slugify(input.companyName) || board.company_slug, name: input.companyName, domain: '' }
+    : { slug: board.company_slug, name: board.company_name, domain: board.domain };
   const record: JobRecord = {
     id: event.job_id,
     title,
     title_raw,
-    company: { slug: board.company_slug, name: board.company_name, domain: board.domain },
+    company,
     location: {
       raw: first,
       city: loc.city,
@@ -190,7 +231,7 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
     queuedForSummary: [],
     closed: 0,
     reopened: 0,
-    counts: { events: opts.events.length, not_intern: 0, not_tech: 0, non_us: 0, held: 0, unknown_board: 0, grouped: 0, skipped_llm_negative: 0 },
+    counts: { events: opts.events.length, not_intern: 0, not_tech: 0, non_us: 0, held: 0, unknown_board: 0, grouped: 0, skipped_llm_negative: 0, deduped_listing: 0 },
     unparsedLocations: [],
   };
   const heldIds = new Set(opts.held.map((h) => h.id));
@@ -206,6 +247,17 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
     if (!board) {
       result.counts.unknown_board += 1;
       continue;
+    }
+    // A curated-list row whose apply URL is already published from the employer's ATS adds nothing.
+    if (opts.urls && LISTING_SOURCES.has(event.ats)) {
+      // Compare after dropping the list's own attribution parameters, whichever path built the event.
+      const key = urlKey(stripSimplifyTracking(event.input.applyUrl));
+      const atsCopy = key ? opts.urls.get(key) : undefined;
+      if (atsCopy && atsCopy.id !== event.job_id) {
+        result.counts.deduped_listing += 1;
+        await dropEverywhere(event.job_id, opts);
+        continue;
+      }
     }
     // An LLM verdict is final for that content: the same posting is not re-summarized unless it changed.
     const prior = opts.db.getJob(event.canonical_key);
@@ -256,6 +308,10 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
       continue;
     }
 
+    if (opts.urls && !LISTING_SOURCES.has(event.ats)) {
+      const key = urlKey(built.record.apply_url);
+      if (key && !opts.urls.has(key)) opts.urls.set(key, built.record);
+    }
     const existing = await opts.store.get(event.job_id);
     if (existing) {
       // Changed (or reposted) job already on the site: refresh fields, keep its summary and first_seen_at.
@@ -403,7 +459,7 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
   log(
     `merge: events=${result.counts.events} published=${result.published.length} updated=${result.updated} ambiguous=${result.ambiguous.length} ` +
       `not_intern=${result.counts.not_intern} not_tech=${result.counts.not_tech} non_us=${result.counts.non_us} held=${result.counts.held} ` +
-      `grouped=${result.counts.grouped} closed=${result.closed} reopened=${result.reopened}`,
+      `grouped=${result.counts.grouped} deduped_listing=${result.counts.deduped_listing} closed=${result.closed} reopened=${result.reopened}`,
   );
   return result;
 }

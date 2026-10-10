@@ -48,6 +48,8 @@ export interface HttpRequest {
   /** Validators from the previous successful response, for conditional GET. */
   etag?: string | null;
   lastModified?: string | null;
+  /** Per-request body cap for sources whose single response is legitimately large (e.g. the SimplifyJobs lists). */
+  maxBodyBytes?: number;
   /**
    * Per-request robots.txt override, default true. The ONE legitimate exception is the
    * SmartRecruiters adapter: api.smartrecruiters.com/robots.txt disallows everything for
@@ -378,7 +380,7 @@ export class HttpClient {
       await discard(res);
       throw new HttpError(res.status === 403 ? 'forbidden' : 'http_status', h, res.status);
     }
-    const body = await readCapped(res, this.maxBodyBytes, h, signal);
+    const body = await readCapped(res, req.maxBodyBytes ?? this.maxBodyBytes, h, signal);
     return {
       kind: 'done',
       response: {

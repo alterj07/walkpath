@@ -87,6 +87,7 @@ export const ATS_LABELS: Record<string, string> = {
   recruitee: 'Recruitee',
   breezy: 'Breezy',
   jsonld: 'careers site',
+  simplify: 'SimplifyJobs list',
 };
 
 export const US_STATES: Record<string, string> = {

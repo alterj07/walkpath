@@ -19,6 +19,8 @@ export const AtsSchema = z.enum([
   'bamboohr',
   'jazzhr',
   'jsonld',
+  /** SimplifyJobs community lists (docs/sources.md); not an ATS, but polled like one. */
+  'simplify',
 ]);
 export type Ats = z.infer<typeof AtsSchema>;
 

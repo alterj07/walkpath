@@ -107,6 +107,7 @@ async function main(argv: readonly string[]): Promise<number> {
     held: result.merge.held,
     grouped: result.merge.grouped,
     skipped_llm_negative: result.merge.skipped_llm_negative,
+    deduped_listing: result.merge.deduped_listing,
     closed: result.merge.closed,
     reopened: result.merge.reopened,
     open: result.meta.jobs.open,
