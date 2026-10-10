@@ -24,6 +24,11 @@ interface Props {
   current?: 'explore' | 'saved' | 'alerts' | 'status' | 'about';
 }
 
+// Cloudflare Web Analytics (cookie-less). The beacon is an external script allowed by the CSP and is
+// only emitted when the public token is set at build time.
+const analyticsToken = import.meta.env.PUBLIC_CF_ANALYTICS_TOKEN as string | undefined;
+const beaconAttrs = analyticsToken && /^[a-f0-9]{32}$/i.test(analyticsToken) ? JSON.stringify({ token: analyticsToken }) : null;
+
 const {
   title,
   description = 'Every open US tech internship, polled hourly from employers’ own job boards.',
@@ -85,5 +90,6 @@ const nav: Array<{ key: NonNullable<Props['current']>; href: string; label: stri
       </div>
     </footer>
     <script src="../scripts/updated.ts"></script>
+    {beaconAttrs && <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={beaconAttrs}></script>}
   </body>
 </html>

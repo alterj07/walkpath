@@ -233,6 +233,7 @@ jobs:
       - name: Build the site
         env:
           PUBLIC_BRANDFETCH_CLIENT_ID: ${{ vars.PUBLIC_BRANDFETCH_CLIENT_ID }}
+          PUBLIC_CF_ANALYTICS_TOKEN: ${{ vars.PUBLIC_CF_ANALYTICS_TOKEN }}
         run: npm run build --workspace @walkpath/site
       - name: Detect optional integrations
         id: opt

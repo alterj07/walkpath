@@ -10,9 +10,8 @@
  * counts and byte totals only.
  */
 import { cp, mkdir, rm, stat } from 'node:fs/promises';
-import { resolve } from 'node:path';
 import { readdirSync, statSync } from 'node:fs';
-import { dirname, join } from 'node:path';
+import { dirname, join, resolve } from 'node:path';
 import { ArgError, boolFlag, parseArgs, stringFlag } from '../src/cli/args.ts';
 import { createLogger } from '../src/cli/log.ts';
 import { DEPLOY_MAP } from '../src/publish/orchestrate.ts';

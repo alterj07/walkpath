@@ -122,7 +122,7 @@ and confirm the run log prints only counts and ids.
    from the workflow with `wrangler pages deploy`, and Direct Upload does not count against the
    500 CI builds per month).
 2. Project name becomes the `<project>.pages.dev` hostname; put it in `SITE_URL`.
-3. Web Analytics → add a site for that hostname → copy the beacon token into the site layout
+3. Web Analytics → add a site for that hostname → set the `PUBLIC_CF_ANALYTICS_TOKEN` variable
    (the CSP already allows `static.cloudflareinsights.com`).
 4. If a custom domain is added later: DNSSEC on, bind the domain to the project before pointing
    DNS at it, and update `SITE_URL`.
