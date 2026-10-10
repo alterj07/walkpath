@@ -17,7 +17,7 @@ static site. No accounts, no payments, no resume upload, no server of our own.
 | `packages/pipeline` | TypeScript crawl, diff, gate, summarize and publish pipeline (runs in Actions) |
 | `packages/site` | Astro static site with one React island for the explore table |
 | `registry/` | `boards.csv` (which companies and boards we poll), `sources.json` (kill switches) |
-| `.github/workflows` | `ci.yml` (checks), `crawl.yml` (hourly run) |
+| `.github/workflows` | `ci.yml` (checks), `crawl.yml` (hourly crawl + publish + deploy), `preview.yml` (staging build on push), security and ops workflows |
 | `docs/` | Architecture, security, operations |
 
 ## Develop
@@ -28,6 +28,19 @@ npm run check        # typecheck + lint + tests
 ```
 
 Requires Node 24 (native TypeScript execution and `node:sqlite`).
+
+## Setup and deploy
+
+The hourly workflow runs as soon as the repository is public; with no secrets it crawls, writes
+the `data` branch and builds the site. To put the site online and turn on summaries and alerts:
+
+1. Create the `data` branch and the Cloudflare Pages project, then add the secrets and variables:
+   `docs/deploy.md` (step by step) and `docs/github-settings.md` (where every value comes from and
+   the repository settings the plan requires).
+2. Run the `crawl` workflow once by hand and check `/status`.
+3. Work through `docs/launch-checklist.md` before announcing it.
+
+Operations (state cache, snapshots, dispatch modes, kill switch): `docs/operations.md`.
 
 ## Policy
 

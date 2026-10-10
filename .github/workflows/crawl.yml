@@ -1,8 +1,9 @@
 # Hourly crawl (plan sections 4.4 and 8.1). Two crawl jobs poll the registry in parallel,
 # diff against a SQLite state file kept in the Actions cache, and upload a diff artifact.
 #
-# publish job: added in the next feature. It `needs: [crawl-api, crawl-workday]`, downloads
-# the `diff-api` and `diff-workday` artifacts, and is the only job with `contents: write`.
+# The publish job needs both crawl jobs, downloads the `diff-api` and `diff-workday`
+# artifacts, gates and summarizes, commits the data branch, builds the site and deploys
+# it. It is the only job with `contents: write`.
 name: crawl
 
 on:
@@ -130,3 +131,145 @@ jobs:
         with:
           path: state/state-workday.sqlite
           key: state-workday-${{ github.run_id }}
+
+  publish:
+    # Runs after the API crawl even when the Workday job is skipped or failed (its artifact is
+    # optional); never runs when the API crawl failed, so a broken hour can never close jobs.
+    needs: [crawl-api, crawl-workday]
+    if: ${{ always() && needs.crawl-api.result == 'success' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    env:
+      CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
+      SITE_URL: ${{ vars.SITE_URL || 'https://walkpath.pages.dev' }}
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Check whether the data branch exists
+        id: data-branch
+        run: |
+          if git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::data branch does not exist yet; see docs/deploy.md (one-time setup)"
+          fi
+      - name: Checkout the data branch
+        if: ${{ steps.data-branch.outputs.exists == 'true' }}
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          ref: data
+          path: data
+          fetch-depth: 1
+      - name: Prepare an empty data directory
+        if: ${{ steps.data-branch.outputs.exists != 'true' }}
+        run: mkdir -p data
+      - name: Download the API diff artifact
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          name: diff-api
+          path: out/diff-api
+      - name: Download the Workday diff artifact
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        continue-on-error: true
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          name: diff-workday
+          path: out/diff-workday
+      - name: Restore publish state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-publish.sqlite
+          key: state-publish-${{ github.run_id }}
+          restore-keys: |
+            state-publish-
+      - name: Publish (gates, summaries, shards, feeds, meta, alerts)
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_AI_TOKEN: ${{ secrets.CLOUDFLARE_AI_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_MODELS_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUPPRESS_ALERTS: ${{ vars.SUPPRESS_ALERTS }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          PUBLISH_MODE: ${{ env.CRAWL_MODE == 'regate' && 'regate' || 'normal' }}
+        run: >
+          node packages/pipeline/scripts/publish.ts
+          --data data
+          --artifacts out/diff-api/diff-api.json,out/diff-workday/diff-workday.json
+          --boards registry/boards.csv
+          --sources registry/sources.json
+          --state state/state-publish.sqlite
+          --site-url "$SITE_URL"
+          --deadline-min 12
+          --mode "$PUBLISH_MODE"
+      - name: Save publish state
+        if: ${{ always() }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-publish.sqlite
+          key: state-publish-${{ github.run_id }}
+      - name: Upload meta.json (cron-drift study, plan 12.3 #6)
+        if: ${{ always() }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: meta
+          path: data/meta.json
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Commit the data branch
+        if: ${{ steps.data-branch.outputs.exists == 'true' }}
+        run: |
+          git -C data add -A
+          if git -C data -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "chore(data): hourly publish ${{ github.run_id }}"; then
+            git -C data push origin HEAD:data
+          else
+            echo "nothing to commit"
+          fi
+      - name: Stage published data into the site
+        run: node packages/pipeline/scripts/stage-site-data.ts --data data --site packages/site --clean
+      - name: Build the site
+        env:
+          PUBLIC_BRANDFETCH_CLIENT_ID: ${{ vars.PUBLIC_BRANDFETCH_CLIENT_ID }}
+        run: npm run build --workspace @walkpath/site
+      - name: Detect optional integrations
+        id: opt
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          HEARTBEAT: ${{ secrets.BETTERSTACK_HEARTBEAT_URL }}
+        run: |
+          if [ -n "$CF_TOKEN" ] && [ -n "$CF_ACCOUNT" ]; then
+            echo "cloudflare=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "cloudflare=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID not set; site built but not deployed"
+          fi
+          if [ -n "$HEARTBEAT" ]; then echo "heartbeat=true" >> "$GITHUB_OUTPUT"; else echo "heartbeat=false" >> "$GITHUB_OUTPUT"; fi
+      - name: Deploy to Cloudflare Pages
+        if: ${{ steps.opt.outputs.cloudflare == 'true' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT || 'walkpath' }}
+        run: >
+          npx --no-install wrangler pages deploy packages/site/dist
+          --project-name "$PAGES_PROJECT"
+          --branch main
+          --commit-dirty=true
+      - name: Heartbeat
+        if: ${{ success() && steps.opt.outputs.heartbeat == 'true' }}
+        env:
+          BETTERSTACK_HEARTBEAT_URL: ${{ secrets.BETTERSTACK_HEARTBEAT_URL }}
+        run: curl -fsS -m 10 --retry 3 -o /dev/null "$BETTERSTACK_HEARTBEAT_URL"

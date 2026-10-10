@@ -11,9 +11,10 @@ next one starts; it never overlaps.
 | --- | --- | --- |
 | `crawl-api` | Restores `state/state-api.sqlite` from the Actions cache, polls every active Greenhouse, Lever, Ashby, Workable and SmartRecruiters board, diffs, uploads `out/diff-api.json` as the `diff-api` artifact, saves the cache. | 25 min crawl deadline, 40 min job timeout |
 | `crawl-workday` | Same for Workday tenants with its own state file and the `diff-workday` artifact. Off until the repository variable `WORKDAY_ENABLED` is `true`. Runs with `--detail-cap 40`: 4,072 tenants × ~5 list pages × 2 s at 20 parallel tenants is about 34 minutes before any detail requests, so the first run backfills over several hours and each later run only fetches new postings (see `docs/workday.md`). | 30 min deadline, 45 min timeout |
-| `publish` | Not yet in the workflow. It will `needs` both crawl jobs, download the artifacts, gate and summarize, write the data branch, build and deploy the site. | |
+| `publish` | `needs` both crawl jobs (runs when `crawl-api` succeeded, even if Workday was skipped), checks out the `data` branch, downloads the artifacts, restores `state/state-publish.sqlite`, runs `scripts/publish.ts` (gates, summaries, shards, feeds, `meta.json`, alerts), commits the data branch, stages the data into the site, builds it, deploys to Cloudflare Pages when the token is set, and pings the heartbeat. See `docs/deploy.md`. | 12 min summary deadline, 30 min job timeout |
 
-Top-level `permissions` are `contents: read`; only the future publish job gets `contents: write`.
+Top-level `permissions` are `contents: read`; only the publish job gets `contents: write` (for the
+`data` branch commit).
 Every action is pinned to a commit SHA (verified against the tag through the GitHub API).
 
 ## Running locally
@@ -95,9 +96,24 @@ in `registry/boards.csv`.
 | --- | --- | --- | --- |
 | `SMARTRECRUITERS_API_KEY` | secret | `crawl-api` | Free developer key for the SmartRecruiters posting API; without it the source is skipped. |
 | `WORKDAY_ENABLED` | repository variable | `crawl-workday` | `true` turns the Workday job on after the tolerance test. |
+| `SITE_URL` | repository variable | `publish`, `preview` | Canonical origin, e.g. `https://walkpath.pages.dev`; absolute feed/sitemap/canonical URLs. Defaults to the placeholder when unset. |
+| `SUPPRESS_ALERTS` | repository variable | `publish` | `true` for one hour after a state restore so re-seen jobs are not re-announced. |
+| `PUBLIC_BRANDFETCH_CLIENT_ID` | repository variable | `publish`, `preview` | Brandfetch Logo Link client id (public; baked into the site). Unset → letter avatars. |
+| `CLOUDFLARE_PAGES_PROJECT` | repository variable | `publish`, `preview` | Pages project name; defaults to `walkpath`. |
+| `CLOUDFLARE_API_TOKEN` | secret | `publish`, `preview` | Token with only *Cloudflare Pages: Edit* on one account. Unset → site built, not deployed. |
+| `CLOUDFLARE_ACCOUNT_ID` | secret | `publish`, `preview` | Account id for the Pages deploy and for Workers AI. |
+| `MISTRAL_API_KEY` | secret | `publish` | Primary summarizer (Experiment plan). |
+| `GEMINI_API_KEY` | secret | `publish` | Fallback summarizer (Gemini Flash-Lite free tier). |
+| `CLOUDFLARE_AI_TOKEN` | secret | `publish` | Workers AI token (fallback summarizer, 10k neurons/day). |
+| `GROQ_API_KEY` | secret | `publish` | Fallback summarizer. |
+| `GITHUB_MODELS_TOKEN` | secret | `publish` | Fine-grained PAT with the `models` permission (last-resort summarizer). |
+| `DISCORD_WEBHOOK_URL` | secret | `publish` | Posting-only webhook for the Discord job channel. |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | secret | `publish` | Bot token and the broadcast channel id. |
+| `BETTERSTACK_HEARTBEAT_URL` | secret | `publish` | Pinged after a fully successful run; the monitor alerts when 90 min pass without one. |
 
-The publish feature adds the LLM keys, the Cloudflare token, the Discord webhook, the Telegram
-bot token and the heartbeat URL; they are documented when they land.
+Missing LLM keys mean "summary pending"; missing alert tokens mean no digest; missing Cloudflare
+secrets mean the data branch still updates but the site is not deployed. Every step logs counts
+and ids only. `docs/github-settings.md` says where each value comes from.
 
 ## State snapshots and recovery
 

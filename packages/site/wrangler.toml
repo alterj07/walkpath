@@ -1,0 +1,5 @@
+# Cloudflare Pages (Direct Upload) project settings. Deploys run from the hourly workflow with
+# `wrangler pages deploy packages/site/dist`; nothing here is used by `astro dev`.
+name = "walkpath"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
