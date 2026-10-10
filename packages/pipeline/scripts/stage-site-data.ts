@@ -10,6 +10,7 @@
  * counts and byte totals only.
  */
 import { cp, mkdir, rm, stat } from 'node:fs/promises';
+import { resolve } from 'node:path';
 import { readdirSync, statSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { ArgError, boolFlag, parseArgs, stringFlag } from '../src/cli/args.ts';
@@ -50,6 +51,12 @@ async function main(argv: readonly string[]): Promise<number> {
   const siteDir = stringFlag(args, 'site', 'packages/site');
   const clean = boolFlag(args, 'clean', false);
   const publicDir = join(siteDir, 'public');
+
+  // --clean deletes directories, so the site dir must stay inside the working directory.
+  if (!resolve(siteDir).startsWith(resolve(process.cwd()))) {
+    log.error('site directory must be inside the working directory', { site: siteDir });
+    return 1;
+  }
 
   if (!(await exists(dataDir))) {
     log.error('data directory missing', { data: dataDir });

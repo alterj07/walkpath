@@ -228,15 +228,6 @@ jobs:
           path: data/meta.json
           retention-days: 7
           if-no-files-found: ignore
-      - name: Commit the data branch
-        if: ${{ steps.data-branch.outputs.exists == 'true' }}
-        run: |
-          git -C data add -A
-          if git -C data -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "chore(data): hourly publish ${{ github.run_id }}"; then
-            git -C data push origin HEAD:data
-          else
-            echo "nothing to commit"
-          fi
       - name: Stage published data into the site
         run: node packages/pipeline/scripts/stage-site-data.ts --data data --site packages/site --clean
       - name: Build the site
@@ -268,6 +259,16 @@ jobs:
           --project-name "$PAGES_PROJECT"
           --branch main
           --commit-dirty=true
+      - name: Commit the data branch
+        # Runs after the deploy so a broken build never advances the data branch ahead of the site.
+        if: ${{ steps.data-branch.outputs.exists == 'true' }}
+        run: |
+          git -C data add -A
+          if git -C data -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "chore(data): hourly publish ${{ github.run_id }}"; then
+            git -C data push origin HEAD:data
+          else
+            echo "nothing to commit"
+          fi
       - name: Heartbeat
         if: ${{ success() && steps.opt.outputs.heartbeat == 'true' }}
         env:

@@ -4,6 +4,7 @@ dist/
 *.sqlite
 *.sqlite-journal
 /state/
+/data/
 out/
 .env
 .env.*

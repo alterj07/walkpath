@@ -88,6 +88,8 @@ Settings → Secrets and variables → Actions → Variables:
 | --- | --- | --- |
 | `WORKDAY_ENABLED` | `false` until the week-1 tolerance experiment passes, then `true` | `crawl.yml` (gates the `crawl-workday` job) |
 | `SITE_URL` | `https://<project>.pages.dev` (or the custom domain, no trailing slash) | site build: absolute feed URLs, sitemap, canonical links |
+| `SUPPRESS_ALERTS` | unset normally; `true` for one hour after restoring state from a snapshot | `crawl.yml` publish job (maps to `--no-alerts`) |
+| `CLOUDFLARE_PAGES_PROJECT` | Pages project name; defaults to `walkpath` when unset | `crawl.yml` and `preview.yml` deploy steps |
 
 ## 7. Secrets
 
@@ -110,7 +112,6 @@ not sent). Create each with the smallest scope the vendor offers.
 | `SMARTRECRUITERS_API_KEY` | developers.smartrecruiters.com → register a free developer account → create an app → API key | Read-only Posting API; without it the SmartRecruiters adapter is skipped (plan 10.2) |
 | `SENTRY_DSN` | sentry.io → Developer plan → create a Node project → Client Keys (DSN) | A DSN can only submit events; put the crawl and the site in separate projects if you want separate quotas |
 | `BETTERSTACK_HEARTBEAT_URL` | betterstack.com → Uptime → Heartbeats → create one with a 60-minute period and 30-minute grace | The URL only accepts pings; it alerts when a run is more than 90 minutes late |
-| `PUBLIC_BRANDFETCH_CLIENT_ID` | brandfetch.com/developers → Logo Link → client ID | Public by design (it appears in the site's logo URLs); stored here only so the build can inject it |
 
 After adding or rotating a secret, run the workflow once by hand (Actions → crawl → Run workflow)
 and confirm the run log prints only counts and ids.
