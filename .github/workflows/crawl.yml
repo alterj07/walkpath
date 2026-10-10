@@ -241,7 +241,9 @@ jobs:
           CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           HEARTBEAT: ${{ secrets.BETTERSTACK_HEARTBEAT_URL }}
+          VERCEL_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
         run: |
+          if [ -n "$VERCEL_HOOK" ]; then echo "vercel=true" >> "$GITHUB_OUTPUT"; else echo "vercel=false" >> "$GITHUB_OUTPUT"; fi
           if [ -n "$CF_TOKEN" ] && [ -n "$CF_ACCOUNT" ]; then
             echo "cloudflare=true" >> "$GITHUB_OUTPUT"
           else
@@ -270,6 +272,13 @@ jobs:
           else
             echo "nothing to commit"
           fi
+      - name: Trigger the Vercel rebuild
+        # Vercel builds from git and pulls the data branch itself (packages/site/scripts/fetch-data.ts);
+        # the hook only asks it to rebuild now that the branch moved.
+        if: ${{ steps.opt.outputs.vercel == 'true' && steps.data-branch.outputs.exists == 'true' }}
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: curl -fsS -m 10 --retry 3 -o /dev/null -X POST "$VERCEL_DEPLOY_HOOK_URL"
       - name: Heartbeat
         if: ${{ success() && steps.opt.outputs.heartbeat == 'true' }}
         env:

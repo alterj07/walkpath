@@ -110,6 +110,7 @@ in `registry/boards.csv`.
 | `DISCORD_WEBHOOK_URL` | secret | `publish` | Posting-only webhook for the Discord job channel. |
 | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | secret | `publish` | Bot token and the broadcast channel id. |
 | `BETTERSTACK_HEARTBEAT_URL` | secret | `publish` | Pinged after a fully successful run; the monitor alerts when 90 min pass without one. |
+| `VERCEL_DEPLOY_HOOK_URL` | secret | optional; publish job triggers a Vercel rebuild after pushing the data branch |
 
 Missing LLM keys mean "summary pending"; missing alert tokens mean no digest; missing Cloudflare
 secrets mean the data branch still updates but the site is not deployed. Every step logs counts

@@ -82,6 +82,20 @@ if (/^https:\/\/[a-z0-9.-]+$/i.test(siteUrl)) {
   console.log('csp-headers: SITE_URL not set; robots.txt has no Sitemap line');
 }
 
+// vercel.json carries a static copy of the policy for hosts that build from git; it must list
+// the same hashes, otherwise the island runtime would be blocked there.
+const vercelPath = join(dist, '..', 'vercel.json');
+try {
+  const vercel = readFileSync(vercelPath, 'utf8');
+  const missing = [...scripts.keys(), ...styles.keys()].filter((h) => !vercel.includes(h));
+  if (missing.length > 0) {
+    throw new Error(`csp-headers: vercel.json is missing CSP hash(es) ${missing.join(' ')}; update its Content-Security-Policy`);
+  }
+  console.log('csp-headers: vercel.json CSP hashes verified');
+} catch (err) {
+  if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+}
+
 console.log(`csp-headers: authorized ${scripts.size} inline script hash(es) and ${styles.size} inline style hash(es)`);
 for (const [h, preview] of scripts) console.log(`  script ${h}  ${JSON.stringify(preview)}`);
 for (const [h, preview] of styles) console.log(`  style  ${h}  ${JSON.stringify(preview)}`);

@@ -112,6 +112,7 @@ not sent). Create each with the smallest scope the vendor offers.
 | `SMARTRECRUITERS_API_KEY` | developers.smartrecruiters.com → register a free developer account → create an app → API key | Read-only Posting API; without it the SmartRecruiters adapter is skipped (plan 10.2) |
 | `SENTRY_DSN` | sentry.io → Developer plan → create a Node project → Client Keys (DSN) | A DSN can only submit events; put the crawl and the site in separate projects if you want separate quotas |
 | `BETTERSTACK_HEARTBEAT_URL` | betterstack.com → Uptime → Heartbeats → create one with a 60-minute period and 30-minute grace | The URL only accepts pings; it alerts when a run is more than 90 minutes late |
+| `VERCEL_DEPLOY_HOOK_URL` | Vercel project → Settings → Git → Deploy Hooks → create one for `main` | Only triggers a rebuild; no other scope. Optional (only when hosting on Vercel) |
 
 After adding or rotating a secret, run the workflow once by hand (Actions → crawl → Run workflow)
 and confirm the run log prints only counts and ids.

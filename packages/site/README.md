@@ -63,3 +63,12 @@ Worker that rewrites those two prefixes is the fallback.
 - `src/lib/url-state.ts` — `parseFilters`, `serializeFilters`, `filtersToSearch`, `DEFAULT_FILTERS`.
 - `src/lib/tracker.ts` — `getTracker`, `setStage`, `setNote`, `removeEntry`, `clearTracker`,
   `sanitizeTracker`, `getLastVisit`, `touchLastVisit`, `STAGES`.
+
+## Hosting on Vercel
+
+`vercel.json` (project root directory `packages/site`) carries the SPA rewrites for `/job/:id` and
+`/company/:slug`, the security headers with the current CSP hashes (the build fails if they drift),
+and a build command that first runs `scripts/fetch-data.ts` to pull the `data` branch into
+`public/`. A public repository needs no credentials; a private one needs a read-only `GITHUB_TOKEN`
+environment variable on Vercel. Each hourly run pushes the `data` branch; set a Vercel Deploy Hook
+URL as the `VERCEL_DEPLOY_HOOK_URL` secret so the workflow can trigger a rebuild after each push.
