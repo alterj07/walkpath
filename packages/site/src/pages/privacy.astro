@@ -6,9 +6,9 @@ import Base from '../layouts/Base.astro';
   <div class="prose">
     <h1>Privacy</h1>
     <p>
-      WalkPath has no accounts, no sign-up, no email list and no resume upload. We do not collect,
-      store or sell personal data. This page lists everything that happens in your browser and every
-      third party involved.
+      WalkPath needs no account, has no email list and uploads no resume. We do not collect, store
+      or sell personal data. This page lists everything that happens in your browser, the optional
+      account, and every third party involved.
     </p>
 
     <h2>In your browser</h2>
@@ -20,6 +20,17 @@ import Base from '../layouts/Base.astro';
       </li>
       <li><strong>No cookies</strong>, no fingerprinting, no third-party embeds.</li>
     </ul>
+
+    <h2>Optional account</h2>
+    <p>
+      If this deployment has accounts enabled, you can sign in with Google or an emailed link to sync
+      your saved jobs and profile across devices. Sign-in and storage are provided by Google Firebase
+      (Authentication and Cloud Firestore), which acts as our processor. The account stores exactly
+      two things: your tracker (job ids, stage, date, your note) and your profile (graduation year,
+      degree, majors, skills, preferences). No resume file is ever uploaded. Only you can read or
+      write your document. The Account page has a "Delete my account" button that removes the stored
+      document and the sign-in; see <code>docs/accounts.md</code> in the repository for the rules.
+    </p>
 
     <h2>Third parties</h2>
     <ul>

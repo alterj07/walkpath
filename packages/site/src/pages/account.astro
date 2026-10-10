@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import AccountPage from '../components/AccountPage.tsx';
+---
+
+<Base title="Account" description="Optional account for syncing saved jobs and your profile across devices." noindex>
+  <div class="prose">
+    <h1>Account</h1>
+    <AccountPage client:load />
+  </div>
+</Base>

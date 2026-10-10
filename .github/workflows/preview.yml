@@ -41,6 +41,10 @@ jobs:
         env:
           PUBLIC_BRANDFETCH_CLIENT_ID: ${{ vars.PUBLIC_BRANDFETCH_CLIENT_ID }}
           PUBLIC_CF_ANALYTICS_TOKEN: ${{ vars.PUBLIC_CF_ANALYTICS_TOKEN }}
+          PUBLIC_FIREBASE_API_KEY: ${{ vars.PUBLIC_FIREBASE_API_KEY }}
+          PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ vars.PUBLIC_FIREBASE_AUTH_DOMAIN }}
+          PUBLIC_FIREBASE_PROJECT_ID: ${{ vars.PUBLIC_FIREBASE_PROJECT_ID }}
+          PUBLIC_FIREBASE_APP_ID: ${{ vars.PUBLIC_FIREBASE_APP_ID }}
         run: npm run build --workspace @walkpath/site
       - name: Detect Cloudflare credentials
         id: opt

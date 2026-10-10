@@ -216,3 +216,18 @@ table.jobs tr:hover td { background: var(--bg-2); }
 .siblings h2, .directory h2 { font-size: 1.05rem; margin: 18px 0 6px; }
 .siblings ul, .directory ul { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0; padding: 0; list-style: none; }
 .directory li { padding: 2px 0; }
+
+/* Optional account menu (header island; hidden when accounts are not configured) */
+.account { position: relative; margin-left: auto; }
+.account-menu {
+  position: absolute; right: 0; top: calc(100% + 6px); z-index: 20;
+  min-width: 260px; max-width: calc(100vw - 2 * var(--gutter));
+  padding: 12px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--bg); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  display: grid; gap: 8px;
+}
+.account-menu form { display: grid; gap: 6px; }
+.account-menu input { width: 100%; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+.account-status { margin: 0; font-size: 0.85rem; color: var(--fg-2); min-height: 1.2em; }
+.account-status.status-error { color: var(--danger); }
+.account-page .card { display: grid; gap: 8px; padding: 12px; border: 1px solid var(--line); border-radius: 10px; margin-bottom: 16px; }

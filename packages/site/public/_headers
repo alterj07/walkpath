@@ -4,9 +4,11 @@
 # runtime is the one inline <script>/<style> pair on pages with an island:
 # scripts/csp-headers.ts hashes it after `astro build` and appends the
 # 'sha256-…' sources to script-src and style-src in dist/_headers, so there is
-# still no 'unsafe-inline'.
+# still no 'unsafe-inline'. connect-src also lists the Firebase Auth and Firestore
+# endpoints used by the optional accounts feature (docs/accounts.md); the SDK itself is
+# bundled from our origin.
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; img-src 'self' https://cdn.brandfetch.io data:; connect-src 'self' https://cloudflareinsights.com; style-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; object-src 'none'
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; img-src 'self' https://cdn.brandfetch.io data:; connect-src 'self' https://cloudflareinsights.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com https://www.googleapis.com https://*.firebaseapp.com; style-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; object-src 'none'
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin

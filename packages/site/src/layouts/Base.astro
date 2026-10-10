@@ -15,6 +15,7 @@
  * external files by Astro.
  */
 import '../styles/global.css';
+import AccountMenu from '../components/AccountMenu.tsx';
 
 interface Props {
   title: string;
@@ -69,6 +70,7 @@ const nav: Array<{ key: NonNullable<Props['current']>; href: string; label: stri
           ))}
         </nav>
         <span class="updated" id="updated-at" data-updated-at hidden></span>
+        <AccountMenu client:idle />
       </div>
     </header>
     <main class="wrap">

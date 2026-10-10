@@ -98,7 +98,14 @@ export function getTracker(): Tracker {
 }
 
 export function saveTracker(t: Tracker): boolean {
-  return writeRaw(TRACKER_KEY, JSON.stringify(sanitizeTracker(t)));
+  const ok = writeRaw(TRACKER_KEY, JSON.stringify(sanitizeTracker(t)));
+  // Lets the optional account sync (src/lib/sync.ts) push the change; harmless without a DOM.
+  try {
+    if (ok) globalThis.dispatchEvent?.(new CustomEvent('walkpath:changed'));
+  } catch {
+    // no event target available
+  }
+  return ok;
 }
 
 export function setStage(id: string, stage: Stage, now: Date = new Date()): Tracker {
