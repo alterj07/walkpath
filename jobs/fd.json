@@ -1,0 +1,82 @@
+{
+  "fd1c6385da0c": {
+    "id": "fd1c6385da0c",
+    "title": "Electrical Engineering Intern (2027 Summer Internship)",
+    "title_raw": "Electrical Engineering Intern (2027 Summer Internship)",
+    "company": {
+      "slug": "northwood-space",
+      "name": "Northwood Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Torrance, CA",
+      "city": "Torrance",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "northwoodspace",
+      "external_id": "1bc230b1-5ad2-44b8-ad61-e80a730e5026"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-29T00:29:46.173Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.041Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Northwood:</strong></p><p>Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.</p><p></p><p><strong>Role:</strong></p><p>Northwood is looking for an Electrical Engineering Intern during Summer 2027 to support the development of high-speed printed circuit boards (PCBs) for our digital backend. This backend enables our antenna system to meet high-rate processing needs across a variety of deployment environments. As part of our hardware team, you'll contribute to projects that prioritize reliability, scalability, and cost-effectiveness in engineering. In this role, you’ll work on various aspects of high-speed PCB design, from concept through prototyping and testing.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li><p>Assist in the design of PCBs for high-speed digital communication systems, including RF and mixed-signal components</p></li></ul><ul><li><p>Support the layout and setup of FPGAs, microcontrollers, and related peripherals</p></li></ul><ul><li><p>Collaborate with RF, antenna, and DSP/FPGA engineers to enhance system performance and design</p></li></ul><ul><li><p>Contribute to schematic design and layout, as well as board bring-up and validation</p></li></ul><ul><li><p>Work alongside suppliers to help optimize component selection for performance and cost</p></li></ul><ul><li><p>Test prototypes and evaluate performance both in the lab and in real-world environments</p></li></ul><ul><li><p>Participate in analyzing system performance to guide future improvements</p><p></p></li></ul><p><strong>Basic Qualifications:</strong></p><ul><li><p>Working toward a Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or a related field</p></li></ul><ul><li><p>Coursework or projects related to PCB design, digital communication systems, or high-speed data transfer</p></li></ul><ul><li><p>Familiarity with PCB design tools (e.g., Altium, Cadence) and understanding of PCB layout</p></li></ul><ul><li><p>Interest in learning about low-noise design and EMI/EMC reduction techniques</p></li></ul><ul><li><p>Basic understanding of PCB materials, signal integrity, and high-speed communication interfaces</p></li></ul><ul><li><p>Skills in soldering and PCB rework are a plus</p></li></ul><ul><li><p>Basic programming skills in C, C++, or Python are a plus</p></li></ul><ul><li><p>Strong communication and teamwork skills</p></li></ul><ul><li><p>Eagerness to work in a fast-paced startup environment and to learn from experienced engineers</p></li></ul><p></p><p><strong>Additional Information:</strong></p><p>If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.</p><p></p><p><em>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</em></p><p></p><p>Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "4d8a7402377378215ee31b853b1e0129"
+  },
+  "fd9745ab4963": {
+    "id": "fd9745ab4963",
+    "title": "Stagiaire Business Developer – Croissance Yango Partner",
+    "title_raw": "Stagiaire Business Developer – Croissance Yango Partner",
+    "company": {
+      "slug": "heetch",
+      "name": "Heetch",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Abidjan",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "heetch",
+      "external_id": "b8cbc164-a0aa-4f69-bc83-83383357563d"
+    },
+    "apply_url": "https://jobs.lever.co/heetch/b8cbc164-a0aa-4f69-bc83-83383357563d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T16:32:56.881Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:48.986Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Qui sommes-nous ?</strong></p>\n<p>Fleetch est une entreprise franco-ivoirienne et a pour mission de proposer la location de véhicules à des chauffeurs professionnels. La mission de l'équipe est d'optimiser la gestion de la flotte et l'activité des chauffeurs sur les véhicules.</p>\n<br />\n<p><strong>Nos valeurs :</strong></p>\n<ul>\n<li>\n<p>Make it happen : Nous allons au bout des choses.</p>\n</li>\n<li>\n<p>Think Different : Nous remettons en question, créons, explorons.</p>\n</li>\n<li>\n<p>Be kind : Nous nous soutenons les uns les autres.</p>\n</li>\n<li>\n<p>Play for the team : Parce que l'aventure est plus belle ensemble.</p>\n</li>\n</ul>\n<br />\n<p><strong>Ton équipe : New Business</strong></p>\n<p>Tu rejoindras l'équipe New Business de Fleetch. Sa mission est de développer des revenus complémentaires à notre activité principale de location de véhicules. Aujourd'hui, ces revenus passent avant tout par notre partenariat avec Yango : plus les chauffeurs roulent sur Yango grâce à Fleetch, plus nous générons de revenus.</p>\n<br />\n<p>L'équipe développe ce partenariat sur deux activités bien distinctes :</p>\n<ul>\n<li>\n<p>Yango Partner (chauffeurs extérieurs) : Faire rouler sur Yango, via Fleetch, des chauffeurs qui ne font pas partie de notre flotte. L'objectif est d'en recruter un maximum, de les activer et de les garder actifs.</p>\n</li>\n<li>\n<p>Incubation (chauffeurs de notre flotte) : Faire rouler au maximum sur Yango les chauffeurs qui louent nos véhicules Fleetch. L'objectif est d'augmenter le nombre de courses réalisées par chaque voiture de notre flotte.</p>\n</li>\n</ul>\n<br />\n<p><strong>Ton rôle :</strong></p>\n<p>Tu seras le véritable bras droit du Chargé New Business. Tu l'assisteras au quotidien sur ces deux activités, avec un objectif clair : faire croître au maximum le nombre de chauffeurs et de courses sur Yango.</p>\n<p>On cherche une vraie bête commerciale : quelqu'un d'accro aux KPIs, qui regarde ses chiffres tous les matins et qui n'est satisfait que quand ils explosent.</p>\n<br />\n<p><strong>Tes responsabilités principales :</strong></p>\n<ol>\n<li>\n<p><strong>Yango Partner : recruter et garder des chauffeurs extérieurs</strong></p>\n</li>\n</ol>\n<ul>\n<li>\n<p>Management des scouts terrain : Aider le Chargé New Business à recruter,canimer et suivre une équipe de scouts terrain (agents commerciauxcfreelances) qui vont chercher de nouveaux chauffeurs.cTu gardes un contact régulier avec chaque agent, tu suis ses résultats et tu le pousses à atteindre ses objectifs.</p>\n</li>\n<li>\n<p>Partenariats terrain : Te déplacer à moto dans Abidjan pour nouer, avec le Chargé New Business, des partenariats avec des lieux fréquentés par les chauffeurs : laveries, stations essence, vendeurs de café, garages ou tout autre lieu pertinent. Tu assures ensuite le suivi de chaque partenaire.</p>\n</li>\n<li>\n<p>Challenges scouts et partenaires : Participer à l'organisation de concours pour motiver nos scouts et nos partenaires à activer toujours plus de chauffeurs.</p>\n</li>\n<li>\n<p>Rétention des chauffeurs : Veiller à ce que les chauffeurs activés restent actifs dans la durée. Tu les relances, tu les motives et tu comprends pourquoi certains décrochent pour les faire revenir. Objectif : perdre le moins de chauffeurs possible d'un mois sur l'autre.</p>\n</li>\n</ul>\n<ol>\n<li>\n<p><strong>Incubation : faire rouler au maximum les chauffeurs de notre flotte</strong></p>\n</li>\n</ol>\n<ul>\n<li>\n<p>Concours chauffeurs : Aider le Chargé New Business à organiser des concours et des challenges pour les chauffeurs de notre flotte, afin d'augmenter le nombre de courses par voiture.</p>\n</li>\n<li>\n<p>Motivation au quotidien : Être présent(e) auprès de nos chauffeurs pour les encourager à rouler sur Yango, avec le bon discours et la bonne énergie.</p>\n</li>\n</ul>\n<ol>\n<li>\n<p><strong>Sur les deux activités</strong></p>\n</li>\n</ol>\n<ul>\n<li>\n<p>Suivi de la performance : Suivre au quotidien les indicateurs sur Google Sheets : chauffeurs activés, courses réalisées, performance de chaque scout et de chaque partenaire, rétention, courses par voiture. Tu remontes au Chargé New Business ce qui marche et ce qui bloque, et tu proposes des actions pour faire mieux</p>\n</li>\n</ul>\n<br />\n<p><strong>Les qualités attendues pour ce poste sont :</strong></p>\n<ul>\n<li>\n<p>Fibre commerciale : Tu sais vendre, convaincre et négocier. Tu aimes les défis et tu vas chercher le « oui ».</p>\n</li>\n<li>\n<p>Accro aux chiffres : Tu es obsédé(e) par tes objectifs et tes KPIs, tu sais où tu en es chaque jour et tu fais tout pour les dépasser.</p>\n</li>\n<li>\n<p>Aisance à l'oral : Tu sais motiver un chauffeur, animer une équipe d'agents et convaincre un gérant de station essence, avec le bon ton pour chacun.</p>\n</li>\n<li>\n<p>Leadership : Tu sais encadrer une équipe terrain, garder le contact, être exigeant(e) sur les résultats tout en créant une bonne ambiance.</p>\n</li>\n<li>\n<p>Autonomie et sens du terrain : Tu es à l'aise sur le terrain, tu prends des initiatives et tu trouves des solutions sans attendre qu'on te les donne.</p>\n</li>\n<li>\n<p>Maîtrise technique : Capacité à utiliser des outils comme Google Sheets pour suivre les résultats.</p>\n</li>\n</ul>\n<br />\n<p><strong>Ce que nous offrons :</strong></p>\n<ul>\n<li>\n<p>Une prime de 100 000 FCFA par mois se décomposant comme suit : 75 000 FCFA fixe + 25 000 FCFA de variable sur objectifs.</p>\n</li>\n<li>\n<p>De vraies possibilités d'évolution : Fleetch est une start-up en pleine croissance, et les meilleurs profils grandissent avec nous.</p>\n</li>\n<li>\n<p>Un cadre de travail agréable dans des bureaux tout neufs, au cœur de Cocody Faya.</p>\n</li>\n<li>\n<p>Une bonne ambiance avec des événements d'entreprise tous les mois.</p>\n</li>\n<li>\n<p>Un esprit start-up où tu apprendras énormément sur le commerce, le management et l'entrepreneuriat.</p>\n</li>\n<li>\n<p>Du matériel informatique.</p>\n</li>\n</ul>\n<br />\n<p><strong>Qu'est-ce qui t'attend ?</strong></p>\n<p>Si votre candidature est sélectionnée, le processus sera le suivant : </p>\n<p>Un entretien avec le Chargé New Business et la responsable de l'équipe des revenus complémentaires.</p>\n<p>Il pourrait ensuite mener à une proposition de stage.</p>\n<p></p>\n<p>🌈 Convaincus que tout un chacun a la capacité de collaborer au sein de notre entreprise, nous accordons une importance primordiale à la diversité et l'égalité des chances face à l'emploi. 🌍 Nous nous efforçons de garantir un environnement de travail sûr et inclusif. Nos engagements visent à construire une équipe composée de backgrounds différents, aux compétences variées et venant d'horizons différents.</p>",
+    "content_hash": "6eb311e5a6ac42223cca8da2c891b0f2"
+  }
+}

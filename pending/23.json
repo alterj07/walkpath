@@ -1,0 +1,47 @@
+{
+  "2354d2e7701c": {
+    "id": "2354d2e7701c",
+    "title": "Rainmaker Fellow, Atmospheric Instrumentation",
+    "title_raw": "Rainmaker Fellow, Atmospheric Instrumentation",
+    "company": {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "make-rain",
+      "external_id": "6b8ee727-b788-4f02-8157-db343181089d"
+    },
+    "apply_url": "https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T13:55:40.012Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:03:22.232Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rainmaker</h3>\n<p>Rainmaker is pioneering a modern cloud-seeding system to increase precipitation, improve water availability, and address severe-weather challenges. We combine atmospheric science, weather-resistant UAS, radar and satellite observations, numerical weather prediction, novel sensing systems, and sustainable seeding technologies to design, operate, and evaluate precipitation-enhancement programs.</p>\n<p>Rainmaker is building new atmospheric instruments because proprietary, intervention-relevant observations are central to improving our forecasts and operations.</p>\n<h3>About the Fellowship</h3>\n<p>The Rainmaker Atmospheric Instrumentation Fellowship is a paid, full-time research and engineering appointment for exceptional undergraduate and graduate students, postdoctoral researchers, recent graduates, and other early-career researchers.</p>\n<p>You will join Rainmaker's instrumentation team and work alongside our engineers and scientists on a scoped project drawn from the team's current development priorities and defined in close collaboration with your research lead or mentor. Project matching will consider available hardware and data, mentor capacity, team needs, and your background. You will take responsibility for a concrete experimental or engineering workstream while contributing to the design, testing, and review work of the broader team.</p>\n<p>Fellows are not expected to own delivery of an entire instrument program. You will be expected to produce a rigorous, reusable result that advances one important part of it.</p>\n<h3>Examples of the Work</h3><p>Fellowship projects change with Rainmaker's instrument-development priorities. Examples of the work our instrumentation team may pursue include:</p>\n\nDeveloping calibration and validation methods for an airborne cloud-particle imaging instrument. \nCreating controlled targets, fixtures, and acceptance tests for optical or particle-sensing systems. \nCharacterizing measurement uncertainty and environmental sensitivity across laboratory, ground, and flight tests. \nDesigning comparisons between Rainmaker instruments and trusted reference instrumentation. \nPrototyping a new optical, mechanical, electrical, data-acquisition, or atmospheric-sensing subsystem. \n\n<h3>What You'll Do</h3>\nTranslate a scientific measurement need into a scoped experimental or engineering plan with your mentor. \nBuild, integrate, calibrate, or test hardware and analysis methods required by the assigned project. \nCreate repeatable calibration procedures for the agreed instrument metrics. \nCharacterize measurement uncertainty and sensitivity to environmental, mechanical, optical, electrical, or algorithmic factors. \nBuild fixtures, test equipment, data-acquisition workflows, and analysis software needed for validation. \nHelp design laboratory, ground, and flight comparisons against reference instrumentation. \nConnect physical instrument behavior to measurement and retrieval quality. \nProduce clear documentation, calibration records, acceptance criteria, and reusable analysis code. \nDeliver a final artifact such as a validated dataset, calibration system, instrument prototype, test method, uncertainty analysis, or technical report. \n\n<h3>What We're Looking For</h3>\nCurrent undergraduate, master's, or PhD students; postdoctoral researchers; recent graduates; and other early-career researchers are all eligible. \nBackground in optical engineering, mechanical engineering, electrical engineering, physics, atmospheric science, experimental science, or a related field. \nStrong hands-on experimental ability and willingness to build and troubleshoot hardware personally. \nQuantitative programming and data-analysis ability. \nCareful scientific judgment about calibration, uncertainty, repeatability, and validation. \nAbility to take responsibility for a bounded workstream while collaborating closely with instrumentation engineers and scientists. \nAvailability for full-time, on-site work in El Segundo for the agreed appointment. \n\n<h3>Particularly Relevant Experience</h3>\nDigital holography, microscopy, particle imaging, lasers, high-speed cameras, lidar, aerosol instruments, cloud probes, or optical metrology. \nCalibration fixtures, laboratory automation, uncertainty budgets, environmental testing, or acceptance testing. \nScientific Python, image processing, signal processing, or data acquisition. \nAirborne, UAS-borne, field-deployed, or low-volume scientific instruments. \n\n<h3>What Success Looks Like</h3><p>By the end of the fellowship, you will have answered a clearly defined measurement or engineering question and delivered a documented result the instrumentation team can continue using. Depending on the project, that might be a calibrated prototype, validation dataset, test fixture, acceptance method, uncertainty analysis, or reusable analysis workflow.</p>\n<h3>Fellowship Details</h3>\nPaid, full-time, and on-site in El Segundo. \nThree-to-six-month appointment, with four months as the standard duration. \nRolling applications and project-specific start dates. \nAttached directly to Rainmaker's instrumentation team with a named hands-on mentor. \nPossible consideration for future full-time roles, without any promise or expectation of conversion. \nPublication may be supported when it does not compromise Rainmaker intellectual property or operational know-how. \n\n<h3>Compensation and Benefits</h3><p>$8,000 per month</p>\n<p><strong>Benefits:</strong></p>\n\nFull health coverage (medical, dental, and vision insurance) \nLunch provided when working in-office and a fully stocked kitchenette \nFree EV charging at the HQ",
+    "content_hash": "9b06316242d7e8a4feda99f587752947"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "a46279300949": {
+    "id": "a46279300949",
+    "title": "Full-Stack Intern",
+    "title_raw": "Full-Stack Intern",
+    "company": {
+      "slug": "uncountable",
+      "name": "Uncountable",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, San Francisco, Munich or London",
+      "city": "San Francisco",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "uncountable",
+      "external_id": "b9495eab-c04c-4333-b338-7dabdbddcaae"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-06-11T16:40:04.035Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.764Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 6000,
+      "max": 6000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Thank you for your interest in Uncountable Engineering!</p> <p><strong>Description</strong></p><p><strong>‍</strong>Uncountable is hiring interns who are passionate about a career in full-stack software engineering.  Our goal is to revolutionize industrial research and development.  We're looking for motivated engineers who can help to build a state of the art development platform that will be used across Fortune 500 companies.</p> <p><strong>Possible Projects</strong></p><p>Architecting database to allow for more complex analysis and building new interfaces and views for scientists to manage experiments.</p> <p><strong>We will consider only applicants that are graduating within a year of the internship.</strong></p> <p><strong>Salary: $6K / month</strong></p><p></p><p><strong>Requirements</strong></p><p></p><ul><li><p>Pursuing a degree in CS</p></li><li><p>Computer science fundamentals</p></li><li><p>Web development skills</p></li></ul><p></p><p><strong>Preferred Qualifications</strong></p><p></p><ul><li><p>‍<strong>‍</strong>Familiarity with modern javascript best practices</p></li><li><p>Familiarity with SQL database design</p></li><li><p>Experience with React</p></li></ul><p></p><p><strong>Our Current Stack</strong></p><p></p><ul><li><p>Backend: Flask (Python), Postgres</p></li><li><p>Frontend: React (Typescript), Redux, Sass</p></li></ul><p></p><p>What's next? Learn more about Interviewing at Uncountable</p> <p>Learn more about our engineering team: Check out our blog</p><p></p><p>By applying for this role, your personal data will be processed in accordance with our Privacy Policy.</p>",
+    "content_hash": "12bf2e91270af2b22764756ca2017261"
+  },
+  "a49cc47e6fbf": {
+    "id": "a49cc47e6fbf",
+    "title": "ML Engineer (Internship and Full-time)",
+    "title_raw": "ML Engineer (Internship and Full-time)",
+    "company": {
+      "slug": "tilde-research",
+      "name": "Tilde Research",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tilderesearch",
+      "external_id": "b2e145db-0111-47c1-9d9f-e856a057d8ef"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-07-14T21:43:09.149Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.098Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Tilde Research is a moonshot AI lab advancing mechanistic interpretability, new architectures, and pretraining science. We build foundational understanding of models to advance the frontier of intelligence.</strong></p><p><br /><strong>About the role:</strong></p><p>As a ML Engineer, you’ll build and operate the infrastructure that makes cutting-edge machine learning research possible. At Tilde, we believe meaningful progress in AI requires not just novel ideas, but the ability to rapidly test, scale, and iterate on them—and that demands exceptional engineering.</p><p>You’ll work on the systems that support training and evaluating large models, scaling experimental pipelines, and building the infrastructure necessary to actually understand models. Your work will be foundational to our research, making it possible to explore ambitious ideas that push the boundaries of performance, interpretability, and control.</p><p></p><p><strong>What you might work on:</strong></p><ul><li><p>Optimize inference and training throughput for novel model architectures</p></li><li><p>Build and maintain high-performance distributed training infrastructure</p></li><li><p>Collaborate with researchers to translate insights into measurable improvements in model performance and understanding</p><p></p></li></ul><p><strong>You're a good fit if you:</strong></p><ul><li><p>Have experience in deep learning or related research areas</p></li><li><p>Have demonstrated exceptional capability in working on ML infrastructure. This can include:</p><ul><li><p>Strong open source contributions</p></li><li><p>Thoughtful technical blog posts/work logs</p></li><li><p>Previous experience working with large-scale pre/post-training infrastructure</p></li></ul></li><li><p>Deep familarity with Pytorch or Jax, basic familiarity Triton/Tilelang/TK etc.</p></li><li><p>Communicate clearly and effectively, both verbally and in writing</p></li><li><p>Can design and orchestrate end-to-end ML pipelines</p></li><li><p>Are able to learn quickly</p></li></ul>",
+    "content_hash": "4b0c5dff2e114a7dae1c9c9a5ae9ec4d"
+  },
+  "a4ad6305e336": {
+    "id": "a4ad6305e336",
+    "title": "Visual Design Intern",
+    "title_raw": "Visual Design Intern",
+    "company": {
+      "slug": "claim-health",
+      "name": "Claim Health",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "claim-health",
+      "external_id": "b0180c40-f6a2-4946-b272-d61e9655d6ca"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/claim-health/b0180c40-f6a2-4946-b272-d61e9655d6ca/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-18T02:41:51.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.085Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Visual Design Intern</h3><p><strong>Claim Health</strong> · New York, NY (In-Person) · Internship<br />10–12 weeks · Competitive stipend · YC-backed, early-stage</p> <h3>About Claim Health</h3><p>Claim Health is the AI Revenue Platform for Post-Acute Care.</p><p>With the US population aging and preference for care moving to the home, post-acute care (home health, skilled nursing, home care, hospice) is one of the fastest growing verticals within healthcare. Post-acute providers operate across fragmented systems, manual workflows, and reactive processes that create operational drag and financial uncertainty. Claim Health replaces this fragmentation with an intelligent, software-driven platform that unifies data, automates execution, and enables real-time decision-making across revenue-critical operations.</p> <h3>The Role</h3><p>You'll work directly with the founding team to extend Claim Health's brand across everything we put in front of customers, partners, and the world - shipping work that actually goes live.</p><p>You can expect to:</p><ul><li><p>Own visual design across marketing assets — social content, decks, one-pagers, and campaign materials</p></li><li><p>Apply and extend Claim Health's existing brand identity consistently across every surface</p></li><li><p>Create graphics and visual content that makes people stop scrolling</p></li><li><p>Support sales and growth with polished collateral that reflects where we're headed as a company</p></li><li><p>Collaborate directly with the founding team to bring creative concepts to life fast</p></li></ul><h3>What We're Looking For</h3><ul><li><p>A strong portfolio — we want to see brand application, marketing design, and social content. Show us work you're proud of.</p></li><li><p>Sharp eye for typography, layout, and visual hierarchy</p></li><li><p>Proficiency in Figma and the Adobe Creative Suite</p></li><li><p>Ability to move fast and ship — this is a startup, not an agency</p></li><li><p>On-site in NYC full-time for the duration of the internship</p></li></ul><p><strong>Strong plus</strong></p><ul><li><p>Motion graphics experience — After Effects or similar</p></li><li><p>3D design experience — Cinema 4D or similar</p></li><li><p>Interest in healthcare or enterprise software</p></li></ul><h3>Compensation</h3><p>Competitive stipend · Direct collaboration with the founding team · Real work that ships</p><p><em>Claim Health is an equal opportunity employer.</em></p>",
+    "content_hash": "05365ea1009fcc691536052967805edb"
+  },
+  "a4b102775a18": {
+    "id": "a4b102775a18",
+    "title": "RTK - Junior Software Engineer - Internship",
+    "title_raw": "RTK - Junior Software Engineer - Internship",
+    "company": {
+      "slug": "aechelon-technology",
+      "name": "Aechelon Technology",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Farmer's Branch, Texas",
+      "city": "Farmers Branch",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "aechelontechnology",
+      "external_id": "4904960008"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-09-04T23:55:52.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:35.230Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Aechelon Technology, a Shield AI company, is a leading producer of 3D simulator content, including Geospecific visual/sensor databases and realistic 3D models. We seek people who share our passion for real-time computer graphics and commitment to our mission of helping make our Nation’s pilots safer. We will give you a chance to work with some of the most talented people in the graphics industry. </strong>\n <p>We are currently seeking students who have attained Sophomore or Junior Status in Computer Science or Computer Engineering programs to join our Summer Internship program. In addition to technical acumen, we highly value leadership skills as we believe innovation thrives when developers take initiative to make great software.</p>\n<p>This position will be a member of our radar simulation team, which develops Radar Toolkit (RTK) product, Aechelon Technology’s industry-leading radar simulation application, based in our Farmers Branch, TX office (near Dallas). This role will be paired with a Mentor who will assist in developing new technologies to improve Aechelon’s products. This role will have the opportunity to contribute to Aechelon’s shipping products and therefore make a lasting impact on our Company and our end users.</p>\n\n<p><strong>ESSENTIAL DUTIES AND</strong> <strong>RESPONSIBILITIES:</strong></p>\n<ul>\n<li>Responsible for developing and maintaining application-level software that simulates airborne radar systems and other sensors for use in a variety of training devices.  The software is written in the C++ programming language on Windows and Linux platforms.  </li>\n<li>Responsible for performing tasks related to the following areas:\n<ul>\n<li>Software Design</li>\n<li>Software Implementation</li>\n<li>Technical Documentation</li>\n<li>Team Collaboration</li>\n<li>Software Integration and Testing</li>\n</ul>\n</li>\n</ul>\n<p></p>\n<p><strong>EXPERIENCE REQUIRED FOR THIS POSITION:</strong></p>\n<ul>\n<li>In-depth knowledge and experience programming in C/C++ languages</li>\n<li>Excellent analytical and problem-solving skills</li>\n<li>Ability to work with export-controlled technology</li>\n</ul>\n<p><strong>DESIRED COMPETENCIES</strong></p>\n<ul>\n<li>Technical Expertise:\n<ul>\n<li>Strong foundation in mathematics and physics</li>\n<li>Knowledge of radar technology and signal processing</li>\n<li>Experience with OpenGL and graphics application programming</li>\n<li>Background in real-time, multi-processing systems</li>\n<li>Familiarity with tools for geographic data processing (e.g. KML, vector files, digital elevation models, satellite imagery)</li>\n</ul>\n</li>\n<li>Developmental Tools &amp; Practices\n<ul>\n<li>Experience with defect tracking systems (Bugzilla, Jira)</li>\n<li>Proficiency with configuration management tools (Preforce, Git)</li>\n<li>Ability to write clear and concise technical documentation </li>\n</ul>\n</li>\n</ul>\n<p><strong>SUPERVISORY REQUIREMENTS</strong></p>\n<ul>\n<li>None</li>\n</ul>\n<p><strong>REQUIRED EDUCATION, ELIGIBILITY AND EXPERIENCE:</strong></p>\n<ul>\n<li>At least two years progress towards a B.S. in Computer Science, Computer Engineering, or a related field</li>\n</ul>\n<p></p><p>This position description is not intended to be a complete listing of activities, duties or responsibilities that are required of the employee holding this position. Duties, responsibilities and activities may be changed or others may be assigned at any time by the Company with notice to the employee. </p>\n<p>Shield AI is an equal opportunity employer. We are committed to providing access and opportunities to individuals with disabilities. If you are an applicant who is unable to fully utilize/access our application process because of a disability, Aechelon Technology will provide a reasonable accommodation. Please send an email to dl-aechelon_hr-team@shield.ai to request that accommodation, and please be sure to include a detailed description of your requested accommodation, your name and preferred method of contact.</p>",
+    "content_hash": "0740d74f637d4e15493f819dc2cfd262"
+  },
+  "a4bb21c568dd": {
+    "id": "a4bb21c568dd",
+    "title": "Robotics Research Internship-Locomotion & Planning",
+    "title_raw": "Robotics Research Internship-Locomotion & Planning (2027)",
+    "company": {
+      "slug": "field-ai",
+      "name": "Field AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Irvine, CA",
+      "city": "Irvine",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "field-ai",
+      "external_id": "ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"
+    },
+    "apply_url": "https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-17T19:44:56.133Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:34.273Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2026",
+    "salary": {
+      "min": 45,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>About the Internship</strong>\n \nField AI is building the future of autonomy—from rugged terrain to real-world deployment. We’re on a mission to develop intelligent, adaptable robotic systems that operate beyond simulation and thrive in unpredictable environments. \n \nWe are offering a Summer 2026 internship focused on <strong>learning-based locomotion and planning</strong> for PhD students interested in advancing autonomous legged robot capabilities. As a research intern, you will work at the intersection of reinforcement learning, locomotion control, and learned planning, developing integrated systems that enable robots to move and navigate intelligently through complex, unstructured environments.\n \nYou will collaborate closely with Field AI research scientists and engineers to design experiments, develop locomotion and planning systems, and validate ideas in simulation and on real hardware. This internship emphasizes building tightly integrated learning-based systems that connect low-level locomotion with high-level planning, translating research into practical, deployable capabilities for real-world robotics.\n<h3>What You’ll Get To Do</h3>\n  \n\n<strong>Advance RL-Based Locomotion and Learned Planning Research</strong>\n \n\nDesign, implement, and evaluate reinforcement learning pipelines that tightly integrate locomotion control with learning-based planning. \nExplore how learned planners can inform and adapt locomotion behaviors across varied terrain and dynamic conditions. \nContribute to research projects from early-stage ideas through simulation experiments and on-robot validation. \n\n \n<strong>Bridge Locomotion and Planning Across the Sim-to-Real Gap</strong>\n \n\nDevelop and refine sim-to-real transfer strategies, including domain randomization, system identification, and adaptive methods, for integrated locomotion-planning systems. \nBuild and leverage GPU-accelerated simulation environments (Isaac Gym, Isaac Lab, MuJoCo) for scalable training and evaluation. \nTest and iterate on policies using real legged robot platforms in unstructured environments. \n\n \n<strong>Build Systems That Connect Research to Deployment</strong>\n \n\nTranslate research concepts into working robotic systems tested on real hardware. \nDevelop experimental setups and tooling to support data collection, evaluation, and reproducibility. \nHelp ensure locomotion and planning systems are robust, field-relevant, and ready for iterative improvement. \n\n \n<strong>Collaborate Across the Full Robotics</strong> <strong>Stack</strong>\n \n\nWork closely with systems engineers, perception experts, and embedded teams to close the loop between learning and execution. \nIncorporate real-world telemetry and field data to refine models and improve generalization. \nEngage with researchers and engineers across the team to align experiments with broader autonomy goals. \n\n \n<strong>Rapidly Iterate and Learn</strong>\n \n\nPrototype quickly, run experiments in simulation and on hardware, and analyze results rigorously. \nBalance exploratory research with concrete deliverables over the course of the internship. \nDebug system-level issues spanning simulation, software, hardware, and learning. \n\n<h3>What You Have</h3>\nCurrent PhD student in Robotics, Computer Science, Mechanical Engineering, AI/ML, or a closely related field. \nResearch experience in reinforcement learning for continuous control, locomotion, or learning-based planning. \nStrong foundation in contact dynamics, control theory, and kinematics. \nProficiency in Python and/or C++, with experience using robotics or ML tooling. \nFamiliarity with physics-based simulators such as Isaac Gym, Isaac Lab, MuJoCo, or PyBullet. \nExperience designing experiments and evaluating results on robotic systems (simulation or hardware). \nCuriosity, initiative, and a strong interest in building autonomous systems that operate in the real world. \n\n<h3>The Extras That Set You Apart</h3>\nHands-on experience with legged robot platforms (quadrupeds, wheeled-quadrupeds, bipedal systems, or exoskeletons). \nExperience with sim-to-real transfer for locomotion or planning policies. \nBackground in learning-based planning, motion planning, or terrain-adaptive control. \nFamiliarity with ROS or ROS2. \nPublications, preprints, or open-source contributions in locomotion, RL, planning, or control. \nExperience deploying neural network controllers on resource-constrained or real-time robotic platforms. \nInterest in bridging cutting-edge research with practical, field-ready robotic systems. \n\n<strong>Field AI Onsite Work Philosophy</strong>\n \nAt Field AI, we believe the most effective way to collaborate and solve complex challenges is by working together in person. This is a fully onsite role, and candidates will be expected to work from our Irvine, CA office. In-person engagement is essential to our success, and we offer flexible working hours to support focus and work-life balance.\n \n<strong>Why Join Field AI?</strong>\nWe are solving one of the world’s most complex challenges: deploying robots in unstructured, previously unknown environments. Our Field Foundational Models™ set a new standard in perception, planning, localization, and manipulation, ensuring our approach is explainable and safe for deployment.\n \nYou will have the opportunity to work with a world-class team that thrives on creativity, resilience, and bold thinking. With a decade-long track record of deploying solutions in the field, winning DARPA challenge segments, and bringing expertise from organizations like DeepMind, NASA JPL, Boston Dynamics, NVIDIA, Amazon, Tesla Autopilot, Cruise Self-Driving, Zoox, Toyota Research Institute, and SpaceX, we are set to achieve our ambitious goals.\n \n<strong>Be Part of the Next Robotics Revolution</strong>\nTo tackle such ambitious challenges, we need a team as unique as our vision — innovators who go beyond conventional methods and are eager to tackle tough, uncharted questions. We’re seeking individuals who challenge the status quo, dive into uncharted territory, and bring interdisciplinary expertise. Our team requires not only top AI talent but also exceptional software developers, engineers, product designers, field deployment experts, and communicators.\n \nJoin us, shape the future, and be part of a fun, close-knit team on an exciting journey!\n \nWe celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.",
+    "content_hash": "66442ed939dfed9a4d2859b9da56b94b"
+  }
+}

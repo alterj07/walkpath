@@ -1,0 +1,42 @@
+{
+  "5b000b6f0f80": {
+    "id": "5b000b6f0f80",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "musixmatch-s-p-a",
+      "name": "Musixmatch S.p.a",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Bologna",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "musixmatch",
+      "external_id": "c4edf289-e1ff-4763-a2d2-c1a4d124f29c"
+    },
+    "apply_url": "https://jobs.lever.co/musixmatch/c4edf289-e1ff-4763-a2d2-c1a4d124f29c/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T14:08:49.600Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:05:45.028Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>ABOUT MUSIXMATCH:</b><br />Musixmatch is the leading music metadata company, featuring the world’s largest lyrics catalog and a community of over 80M contributors. Musixmatch is the trusted global  partner of companies like Spotify, Apple, Amazon Music, Meta, Google, MTV, Shazam, Vevo, Tidal, Snapchat and has a partnership with more than 100,000 music publishers including Sony/ Music Publishing, Universal Music Publishing, Warner/Chappell, Kobalt, BMG Rights, and the Harry Fox Agency.<br />We are a bunch of creatives who care about our work and what we do.  We believe that participation and collaboration are key to getting things done well.  We are looking for tech-savvy people who are eager to learn in a fast-paced environment, who have an international outlook on life, and who love taking on new challenges.\n<b>ABOUT MUSIXMATCH:</b><br />Musixmatch is the leading music metadata company, featuring the world’s largest lyrics catalog and a community of over 80M contributors. Musixmatch is the trusted global  partner of companies like Spotify, Apple, Amazon Music, Meta, Google, MTV, Shazam, Vevo, Tidal, Snapchat and has a partnership with more than 100,000 music publishers including Sony/ Music Publishing, Universal Music Publishing, Warner/Chappell, Kobalt, BMG Rights, and the Harry Fox Agency.<br />We are a bunch of creatives who care about our work and what we do.  We believe that participation and collaboration are key to getting things done well.  We are looking for tech-savvy people who are eager to learn in a fast-paced environment, who have an international outlook on life, and who love taking on new challenges.<br /><strong>Position:<br /></strong><br />We are looking for a Software Engineer Intern to join our Services Engineering team. This role is ideal for someone who wants hands-on experience building AI-powered tooling on top of a large-scale music catalog, working with real production data and modern cloud infrastructure. You'll help design and build an MCP-based (Model Context Protocol) ecosystem that gives our Operations team an AI-assisted toolchain for data investigation, metadata auditing, anomaly detection, and automated reporting, learning how production environments and agentic systems actually work. This is an extracurricular internship (tirocinio extracurriculare) lasting 6 months, with a monthly reimbursement of €800.<br /><br /><strong>Responsibilities:<br /></strong><br />Explore and map the Recording music catalog architecture, spanning relational data (MySQL/Aurora) and non-relational document stores (DynamoDB)<br />Build specialized MCP servers, skills, and tools exposing catalog data, resources, and prompt templates to AI agents<br />Implement operations guardrails such as access controls, read-only permissions, rate limiting, and query execution safeguards, so agents can query live stores without compromising production stability<br />Instrument and monitor inference, context window, embedding, and query costs, treating cost as an engineering metric alongside accuracy and latency<br />Containerize services with Docker and deploy to Kubernetes via Helm using our standard Infrastructure-as-Code (Terraform) workflow<br />Run staged testing with the Operations team, promote to production, and support a company-wide beta release<br />Debug, test, and improve backend services across the stack<br /><br /><strong>Requirements:<br /></strong><br />Good knowledge of at least one of Node.js/TypeScript, Python, or PHP (backend development, async processing)<br />Basic understanding of database querying and modeling (SQL and/or NoSQL)<br />Interest in AI tooling, LLMs, and the Model Context Protocol (Tools, Resources, Prompts)<br />Interest in cloud technologies and DevOps (AWS, Docker, Kubernetes, Terraform are a plus)<br />Understanding of Git and collaborative development workflows<br />Problem-solving mindset and willingness to learn<br />Ability to work in English\n<b>DISCLAIMER:</b><br />**Due to the significant amount of applications we receive, unfortunately, it is not possible to answer every applicant, thus if you have not received a response from us, please be patient. We assure you that we will contact you should you be selected to move forward in the recruitment process. We would therefore like to thank all applicants for their interest and time.**",
+    "content_hash": "d61166dd9701265063048a48d68de700"
+  }
+}

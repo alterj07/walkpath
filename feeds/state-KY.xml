@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in KY</title>
+  <id>https://walkpath.vercel.app/feeds/state-KY.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-KY.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:531b42c0ea2b</id>
+    <title>Internship - Software Developer - Commerce Cloud @ Dynamic Catholic</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/531b42c0ea2b"/>
+    <updated>2026-09-02T20:55:13.080Z</updated>
+    <published>2026-09-02T20:55:13.080Z</published>
+    <author><name>Dynamic Catholic</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Overview Calling all aspiring Script Wizards and Code Monkeys! Dynamic Catholic is looking for an intern to spend the Summer working with our team of technical gurus, specifically within our salesforce commerce cloud platform. How often do you come across an opportunity to massively increase your…</summary>
+    <content type="text">Dynamic Catholic · Erlanger, KY
+
+Overview Calling all aspiring Script Wizards and Code Monkeys! Dynamic Catholic is looking for an intern to spend the Summer working with our team of technical gurus, specifically within our salesforce commerce cloud platform. How often do you come across an opportunity to massively increase your…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:341b48419956</id>
+    <title>Internship - IT @ Dynamic Catholic</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/341b48419956"/>
+    <updated>2026-09-02T18:23:25.971Z</updated>
+    <published>2026-09-02T18:23:25.971Z</published>
+    <author><name>Dynamic Catholic</name></author>
+    <category term="it_cloud_security" label="IT / Cloud / Security"/>
+    <summary type="text">Overview Looking to gain real-world experience in IT systems administration, network management, and cybersecurity while also serving a powerful mission? Join us for a summer where you&apos;ll learn how Dynamic Catholic&apos;s IT team keeps our staff, ministries, and technology running smoothly. You&apos;ll work…</summary>
+    <content type="text">Dynamic Catholic · Erlanger, KY
+
+Overview Looking to gain real-world experience in IT systems administration, network management, and cybersecurity while also serving a powerful mission? Join us for a summer where you&apos;ll learn how Dynamic Catholic&apos;s IT team keeps our staff, ministries, and technology running smoothly. You&apos;ll work…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:36a7db78773d</id>
+    <title>Internship - Front-End UX Intern @ Dynamic Catholic</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/36a7db78773d"/>
+    <updated>2026-09-02T18:00:46.332Z</updated>
+    <published>2026-09-02T18:00:46.332Z</published>
+    <author><name>Dynamic Catholic</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Overview We are looking for a Front-End UX Intern to help bridge the gap between design and development. This role is ideal for a student who is interested in both user experience and hands-on front-end coding. The intern will support the creation of polished, accessible, and reusable user…</summary>
+    <content type="text">Dynamic Catholic · Erlanger, KY
+
+Overview We are looking for a Front-End UX Intern to help bridge the gap between design and development. This role is ideal for a student who is interested in both user experience and hands-on front-end coding. The intern will support the creation of polished, accessible, and reusable user…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

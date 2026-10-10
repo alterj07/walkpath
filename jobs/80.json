@@ -1,0 +1,132 @@
+{
+  "801540ba9b19": {
+    "id": "801540ba9b19",
+    "title": "RF Engineering Intern (2027 Summer Internship)",
+    "title_raw": "RF Engineering Intern (2027 Summer Internship)",
+    "company": {
+      "slug": "northwood-space",
+      "name": "Northwood Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Torrance, CA",
+      "city": "Torrance",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "northwoodspace",
+      "external_id": "f086c92a-7e4b-4799-8f2a-2ad8b13111ca"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/northwoodspace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-29T00:09:32.920Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.041Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 36,
+      "max": 36,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Northwood:</strong></p><p>Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.</p><p></p><p><strong>Role:</strong></p><p>Northwood Space is seeking an enthusiastic RF Engineering Intern for Summer 2027 to join our team in Torrance. As an intern, you’ll assist in designing the next generation of ground stations and support the RF team’s efforts in optimizing performance, reliability, and manufacturability. You’ll gain hands-on experience working alongside electrical, RF, mechanical, manufacturing, and software engineers, contributing to the development process from concept to production.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li><p>Support the design and development of new RF hardware, as well as improvements to existing designs for enhanced performance and reliability</p></li></ul><ul><li><p>Assist in the fabrication and characterization of prototypes for antennas, feeds, and active RF circuits</p></li></ul><ul><li><p>Work closely with hardware and software engineers to test and troubleshoot integrated RF performance</p></li></ul><ul><li><p>Provide technical support to colleagues in regulatory and site operations</p></li></ul><p></p><p><strong>Minimum Qualifications:</strong></p><ul><li><p>Currently pursuing a degree in Electrical Engineering or a related field</p></li></ul><ul><li><p>Basic knowledge of transmission line theory and use of the smith chart</p></li></ul><ul><li><p>Experience in Python or another language for data analysis</p></li></ul><ul><li><p>1+ year experience in antenna, RF, or electrical design, fabrication, and test including lab work and university projects</p></li></ul><p></p><p><strong>Preferred Skills and Experience:</strong></p><ul><li><p>Experience with PCB design in a tool such as Altium</p></li></ul><ul><li><p>Experience working closely with mechanical and manufacturing engineers in translating analyzed design to machinable components</p></li></ul><ul><li><p>Familiarity with RF test equipment, such as network analyzers and spectrum analyzers, including how they work</p></li></ul><ul><li><p>Experience analyzing antenna systems in the lab (s-parameters, isolation, radiation patterns, propagation effects, etc)</p></li></ul><ul><li><p>Familiarity with 3D EM simulation tools such as CST, HFSS, ADS, FEKO, Microwave Office, etc. </p></li></ul><p></p><p><strong>Additional Information:</strong></p><p>If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.</p><p></p><p><em>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</em></p><p></p><p>Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "6f3fc7e7c0321c02e1eba8c3607f2dbb"
+  },
+  "804af89c3498": {
+    "id": "804af89c3498",
+    "title": "Software Engineer Intern - Warsaw Security",
+    "title_raw": "Software Engineer Intern - Warsaw Security",
+    "company": {
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "domain": ""
+    },
+    "location": {
+      "raw": "PL-Warsaw-Lixa C",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "snowflake",
+      "external_id": "fc1923c1-b151-4458-a792-40d58331a5be"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-05T14:38:40.509Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.904Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><h3><strong>WHAT WE OFFER</strong></h3><ul><li><p>Paid, full-time internships</p></li><li><p>Post-internship career opportunities (full-time or part-time)</p></li><li><p>Exposure to a fast-paced, fun, and inclusive culture</p></li><li><p>A chance to work with world-class security experts on challenging, high-impact projects</p></li><li><p>Opportunity to provide meaningful contributions to a real system used by customers</p></li><li><p>High level of access to supervisors (manager and mentor), detailed direction without micromanagement, feedback throughout your internship, and a final evaluation</p></li><li><p>Treated as a full member of the Snowflake team: company meetings and activities, flexible hours, casual dress code, swag, and much more</p></li><li><p>Warsaw office perks: catered lunches, access to recreational games, happy hours, company outings, and more</p></li></ul><h3><strong>WHAT WE EXPECT</strong></h3><ul><li><p>Must be actively enrolled in an accredited college/university program during the internship period</p></li><li><p>Desired majors: Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or a related field</p></li><li><p>Required coursework: algorithms, data structures, and operating systems</p></li><li><p>Recommended coursework: information security, cryptography, cloud computing, database systems, or distributed systems</p></li><li><p>Duration:  4 months + recommended</p></li><li><p>Strong programming skills in Python or Java</p></li><li><p>Solid knowledge of data structures and algorithms; familiarity with ML/AI concepts is a plus</p></li><li><p>Strong problem-solving ability and capacity to learn quickly in a dynamic environment</p></li><li><p>Experience working as part of a team</p></li><li><p>Dedication, curiosity, and a passion for security and technology</p></li><li><p>Working proficiency in English (our team operates in an English-language environment)</p></li></ul><h3><strong>WHAT YOU WILL LEARN/GAIN</strong></h3><ul><li><p>How to build enterprise-grade, reliable, and secure software services at cloud scale</p></li><li><p>Hands-on experience across key security domains: <strong>Application Security</strong>, <strong>Infrastructure &amp; Cloud Security</strong>, <strong>Security Engineering</strong>, <strong>Threat Detection &amp; Response</strong>, and <strong>Compliance &amp; Governance</strong></p></li><li><p>How to identify and remediate security vulnerabilities in large-scale distributed systems</p></li><li><p>Experience building security tooling and automation using Python and Java</p></li><li><p>Exposure to ML/AI techniques applied to security problems (anomaly detection, threat intelligence, etc.)</p></li><li><p>Collaboration with product management and engineers to deliver customer-facing security features</p></li><li><p>Practical experience with cloud infrastructure security on AWS, Azure, and/or Google Cloud</p></li></ul><h3><strong>POSSIBLE TEAMS / WORK FOCUS AREAS</strong></h3><p><strong>Teams:</strong> Application Security, Cloud &amp; Infrastructure Security, Security Engineering, Threat Detection &amp; Response, Compliance &amp; Governance</p><p><strong>Work areas:</strong></p><ul><li><p>Security tooling and automation (Python, Java)</p></li><li><p>Vulnerability detection and remediation in Snowflake's platform</p></li><li><p>Algorithm and ML/AI-driven threat detection</p></li><li><p>Cloud security posture and IAM controls</p></li><li><p>Compliance automation and policy enforcement</p></li></ul><p>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p>How do you want to make your impact?</p><p>For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com</p>",
+    "content_hash": "eac3e37c3b7d1b5252be7a80f7e47e3c"
+  },
+  "80d94d839324": {
+    "id": "80d94d839324",
+    "title": "Summer 2027 Internship - Software Engineering Intern",
+    "title_raw": "Summer 2027 Internship - Software Engineering Intern",
+    "company": {
+      "slug": "dandy",
+      "name": "Dandy",
+      "domain": ""
+    },
+    "location": {
+      "raw": "USA - New York NY",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "dandy",
+      "external_id": "d43558e9-8e51-4980-b00d-39275063f099"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T23:48:33.212Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.574Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 60,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.</p><p>Our team is dedicated to delivering end-to-end software support across all of Dandy’s product lines. Our teams collaborate across the company to ensure customers have an amazing experience at every stage: ordering, manufacturing, and support.</p><p>We are looking for motivated Software Engineering Interns to join our team. Our engineers have a high level of ownership, and you will have the opportunity to dive into unfamiliar code bases, debug real-world processes, and help launch novel-to-industry products.</p><p><strong>What You’ll Do</strong></p><p>As a Software Engineering Intern at Dandy, you will:</p><ul><li><p>Contribute to building and maintaining core ordering flows used by our end customers every day.</p></li><li><p>Work across any layer of the stack (frontend, backend, infra, data) to help ship end-to-end product experiences.</p></li><li><p>Collaborate with engineers, product managers, operations teams, and CAD designers to support the launch of innovative new products.</p></li><li><p>Dig in and learn the intricacies of the dental restoratives market—you will know more about dentures than you ever imagined!</p></li></ul><p><strong>What We’re Looking For</strong></p><ul><li><p>Currently pursuing an MS degree in Computer Science, Mathematics, or a related technical field.</p></li><li><p>Foundational experience in web development with an eagerness to work in a production TypeScript, React, and GraphQL environment.</p></li><li><p>A high level of autonomy, strong problem-solving skills, and the ability to comfortably navigate ambiguity and unfamiliar areas of a codebase.</p></li><li><p>Familiarity with our specific stack (NestJS, TypeORM, Electron) is a bonus, but not required.</p></li><li><p>Candidates must be able to reliably commute to the Dandy office in New York City, 3x days per week.</p></li></ul><h3><strong>Why Join Dandy?</strong></h3><ul><li><p>Work on real-world healthcare problems with an immediate impact on our platform, customers, and manufacturing operations.</p></li><li><p>Gain hands-on, full-stack experience at a fast-growing startup alongside a world-class technical team.</p></li><li><p>Receive dedicated mentorship from experienced engineers who value ownership, speed, and cross-functional collaboration.</p></li><li><p>Be part of a collaborative, NYC-based team where innovation happens daily.</p></li></ul><p></p><p><strong>Req ID: </strong>J-1285</p><p>For full-time positions, Dandy offers a wide range of best-in-class, comprehensive, and inclusive benefits tailored to each country where we operate. Our local benefits packages typically include healthcare, dental, mental health support, parental planning resources, retirement savings options, and generous paid time off—ensuring our team members are supported no matter where they live and work.</p><p>Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, citizenship or immigration status, or any other legally protected characteristics.</p><p>Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we can to meet your needs. Visit Dandy Careers for more! </p><p>Data Privacy Notice: By submitting your application, you consent to Dandy collecting, storing, and processing your personal information for recruitment purposes in accordance with our Privacy Policy and GDPR regulations. You have the right to access, rectify, or request the deletion of your data at any time by contacting Privacy Requests.</p>",
+    "content_hash": "a7eeaf3195924a0546a72c3ce0c46321"
+  }
+}

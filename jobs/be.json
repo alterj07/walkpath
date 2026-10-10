@@ -1,0 +1,127 @@
+{
+  "be61ac69818b": {
+    "id": "be61ac69818b",
+    "title": "Firmware Intern",
+    "title_raw": "Firmware Intern",
+    "company": {
+      "slug": "windborne-systems",
+      "name": "WindBorne Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "RWC HQ",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "windborne-systems",
+      "external_id": "75c5c65c-8179-4ca0-9659-39bf0f8f7b8b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-06T17:48:38.554Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.904Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>WindBorne Systems is supercharging weather models with a unique proprietary data source: a global constellation of next-generation smart weather balloons targeting the most critical atmospheric data. We design, manufacture, and operate our own balloons, using the data they collect to generate otherwise unattainable weather intelligence.</p><p><br />Our mission is to eliminate weather uncertainty, and in the process help humanity adapt to climate change, be that predicting hurricanes or speeding the adoption of renewables. We are building a future in which the planet is instrumented by thousands of our microballoons, eliminating gaps in our understanding of the planet and giving people and businesses the information they need to make critical decisions. The founding team of Stanford engineers was named Forbes 2019 30 under 30 and is backed by top investors including Khosla Ventures.</p><p></p><p>WindBorne is looking for a <strong>Firmware Intern </strong>to build the code bases that runs on our balloon hardware. As a vertically integrated weather company, we design, calibrate, &amp; integrate our own custom sensors &amp; control mechanisms into our autonomous balloons. This poses some unique challenges: most components are outside their temperature spec, power is extremely limited and it is not easy to update code when the system is many miles in the air. We believe the most interesting work happens at the intersection of hardware and software, where clever code can compensate for physical limitations. In this role, you’ll design and run experiments to understand the behaviors of our system in weird conditions, then cosplay as a 1960s NASA engineer to glean insight from the limited data available. You’ll own firmware strategy, making quick, tactical decisions on whether to vomit some code for a janky test or design a robust solution that will accelerate future development. From maintaining our custom RTOS and hardware abstraction layer to developing the driver interfaces for our suite of atmospheric sensors, you'll be solving fascinating challenges alongside a team of brilliant, passionate engineers who are revolutionising our understanding of the atmosphere.</p><p></p><p>This role is open at any point, not just during the summer. Applications are considered on a rolling basis.<br /></p><p><strong>Responsibilities:</strong></p><ul><li><p>Develop and maintain drivers &amp; low level libraries for new chips, modules, &amp; sensors</p></li><li><p>Own our custom open source RTOS hardware abstraction layer, Amslah. It has many custom features made for our unique application (I’m excited to tell you about them!) but ​​but requires hardening and architecture refinements as we scale</p></li><li><p>Push the limits of our custom sensor hardware &amp; calibration infrastructure, ensuring our GSBs are power optimized &amp; survive extreme cold beyond subcomponent specifications.</p></li><li><p>Work closely with people doing R&amp;D on novel hardware as we seek to improve the accuracy of our meteorological measurements.</p></li><li><p>Design fault-tolerant systems that can recover gracefully from unexpected conditions</p></li><li><p>Debug highly non-trivial issues</p></li></ul><p></p><p><strong>Skills and Qualifications:</strong></p><ul><li><p>Experience programming, shipping, and maintaining hardware in a real-world setting.</p></li><li><p>Must be excited by rapid iteration more than trying to perfectly plan ahead of time</p></li><li><p>Fluent in C/C++ and Python. Though ideally you ever so slightly look down on software engineers who only write interpreted languages, but you wouldn’t admit this because you are too nice.</p></li><li><p>Should have experience writing low-level drivers for a number of various chips.</p></li><li><p>Should be comfortable reading PCB schematics. Ideally have done a bit of EE yourself  :)</p></li><li><p>Be able to form hypothesis and run experiments about the behaviour of the system</p></li><li><p>Must be an effective communicator, able to cut through misunderstandings to the core of an issue and reason about  tradeoffs in complex multidisciplinary spaces</p></li><li><p>Excellent debugging skills in complex settings</p></li></ul><p></p><p><strong>Nice to have:</strong></p><ul><li><p>Experience with FPGAs and HDL</p></li><li><p>Knowledge of RF systems and wireless protocols</p></li><li><p>Degree in Computer Science/Electrical Engineering or related field</p></li><li><p>Stellar understanding of undergrad level physics</p></li></ul><p></p><p><strong>Salary</strong></p><ul><li><p>$33/hr</p></li></ul><h3><strong><br />Location</strong></h3><p>1600 Bridge Pwky, Redwood City, CA. In person required.</p>",
+    "content_hash": "e7f73576ac76ff98fa9ffb302435e7d7"
+  },
+  "bebcc5dee09d": {
+    "id": "bebcc5dee09d",
+    "title": "Product Analyst Intern (US) - Summer 2027",
+    "title_raw": "Product Analyst Intern (US) - Summer 2027",
+    "company": {
+      "slug": "telus-digital",
+      "name": "TELUS Digital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Columbus",
+      "city": "Columbus",
+      "state": "OH",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "telus-digital",
+      "external_id": "e1dfd8b7-fb8a-4ce9-957f-0706b13195c7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T20:43:50.252Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.620Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 27,
+      "max": 27,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are </strong></h3><p>Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.</p><p>With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data &amp; AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA &amp; Test Engineering.</p><p>From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.</p><p></p><h3><strong>Location &amp; Flexibility</strong></h3><p>Our<strong> </strong>interns<strong> </strong>are integral parts of our teams at TELUS Digital. To help retain our deep culture of collaboration, our interns maintain an in-office presence in a hybrid capacity (Tuesdays, Wednesdays, Thursdays). This role can be located in <strong>Columbus, OH.</strong></p><p></p><h3><strong>The Opportunity</strong></h3><p>Our summer internship program gives current students the chance to make an impact by contributing ideas and adding a fresh perspective to real client projects. And just to make sure you’re advancing in your craft, you’ll have plenty of opportunities to spend time with team members in your discipline to discuss the latest trends in tech, all while having a 1-on-1 mentor relationship with an experienced Product Lead.</p><p>As a Product Analyst Intern, you’ll play a central role in defining and delivering world-class products. The Product Analyst uncovers the “why” and works closely with engineering teams to successfully bring our partner’s visions to life. You’ll follow products through implementation, managing requirements, and working with design, development teams, and clients to keep development aligned with product goals.</p><p></p><h3><strong>Your Impact </strong></h3><ul><li><p>Day-to-day work that will influence millions of users</p></li><li><p>You’ll have the opportunity to learn every day from product management leadership</p></li><li><p>Hands-on experience by working on real client work</p></li><li><p>You’ll help build amazing products people love</p></li><li><p>Participate in the delivery of large and complex software projects in a team-based environment</p></li><li><p>Work with clients to understand business needs and objectives</p></li><li><p>Collaborate with project team members to break down abstract client needs into precise product requirements</p></li><li><p>Help keep projects running smoothly by managing requirement backlogs</p></li><li><p>Write user stories, acceptance criteria, and technical tickets for the engineering team</p></li><li><p>Build a shared understanding of product requirements among the internal team</p></li><li><p>Work closely with product designers to build experiences that align with business goals and support the end-users’ needs</p></li></ul><p></p><h3><strong>Your Background</strong></h3><ul><li><p>You have plans to graduate in Fall/Winter 2027 or later</p></li><li><p>An understanding of the software development life-cycle (SDLC) and experience working on software development projects</p></li><li><p>Demonstrated ability to champion projects from beginning through implementation</p></li><li><p>Have familiarity with AI tools or have used AI tools to streamline workflows</p></li><li><p>Ability to communicate clearly and rally teams and individuals around a vision</p></li><li><p>Strong documentation and technical writing skills</p></li><li><p>Ability to build relationships and collaborate with a wide range of team members and stakeholders from different backgrounds</p></li><li><p>Self-starter who takes initiative in solving problems and can self-manage commitments and deadlines</p></li><li><p>Ability to approach complex problems with a critical thinking and solutions-oriented mindset</p></li><li><p>You’re majoring in a technical concentration or have a strong interest in technology</p></li><li><p>An eye for detail and a desire to document everything</p></li><li><p>Applicants must be authorized to work permanently for any employer in the U.S. We are unable to sponsor employment visas at this time.</p></li></ul><p></p><h3><strong>Bonus Points</strong></h3><ul><li><p>Experience with client-services (working with clients)</p></li><li><p>You’re used to communicating with people of various technical backgrounds</p></li><li><p>An understanding of Agile development methods</p></li></ul><p></p><p>P.S. Even if you don’t have expertise in all of the qualifications listed, we value new perspectives and encourage you to apply. We’re committed to building a diverse company that reflects the diversity of our users. If you feel confident about a good amount of the bullet points above, we’ll ramp you up on the rest.</p><p></p><h3><strong>Equal Opportunity Employer </strong></h3><p><em>At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.</em></p><p>We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.</p><p>For more information on how we use your information, see our Privacy Policy.</p>",
+    "content_hash": "a74556949f4e2f4fea8658ddc186d4e0"
+  },
+  "bec876c7bdb1": {
+    "id": "bec876c7bdb1",
+    "title": "2027 BT RISE Internship - Information Technology Data Intern",
+    "title_raw": "2027 BT RISE Internship - Information Technology Data Intern",
+    "company": {
+      "slug": "barnes-and-thornburg",
+      "name": "Barnes & Thornburg",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Indianapolis",
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "barnes",
+      "external_id": "1881dbc0-846e-4805-968f-4e27d663f7b0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T20:13:23.469Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.374Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Summary: </strong>Under the general supervision of the Software Services Director and an assigned mentor, the Data Intern will perform a variety of functional and administrative duties in accordance with established firm policies and procedures. The intern will collaborate with department team members on specific short- and long-term projects related to their field of study and firm priorities. Activities will be assigned based on business needs and learning opportunities for the intern.</p><p></p><p><strong>Internship Eligibility: </strong>The BT RISE Internship Program is designed to introduce students in specified fields of study to the day-to-day operations of a law firm. Candidate’s skill, knowledge, aptitude, and education will be considered during the selection process. To be eligible candidates must:</p><p></p><ul><li><p>Entering their sophomore, junior, or senior year in the Fall of 2027.</p></li></ul><ul><li><p>Be enrolled in a 2-4 year undergraduate degree program at the time of the internship</p></li></ul><ul><li><p>Be available to participate for 10 consecutive weeks</p></li></ul><ul><li><p>Be pursuing a degree in data analytics, data science, computer science, information systems, business analytics, technology, or another related field</p></li></ul><p></p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Support the assigned department in delivering work that advances business initiatives.</p></li><li><p>Assist with data preparation, organization, validation, and quality control activities.</p></li><li><p>Support data analysis and reporting activities including identifying patterns, trends, inconsistencies, and opportunities for improvement.</p></li><li><p>Assist with the development, documentation, and maintenance of data processes, workflows, and procedures.</p></li><li><p>Support activities related to the development and implementation of the firm's data lake including data integration, data management, data quality, metadata, and data governance.</p></li><li><p>Collaborate with team members and business stakeholders to understand project needs and contribute to assigned projects.</p></li><li><p>Participate in internal and external meetings to gain an understanding of the firm's business operations, technology, and the role of data in supporting business decisions.</p></li><li><p>Collaborate with other departments and summer interns, where applicable</p></li><li><p>Maintain the confidentiality and security of firm and client information and comply with applicable firm policies and procedures.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>Currently enrolled in an accredited college or university and pursuing a degree in data analytics, data science, computer science, information systems, technology, or another related field.</p></li><li><p>Demonstrated interest in data, technology, analytics, business intelligence, or process improvement.</p></li><li><p>Basic understanding of data concepts including data collection, organization, quality, analysis, and interpretation.</p></li><li><p>Ability to learn new technologies, systems, processes, and concepts quickly.</p></li><li><p>Strong interpersonal skills necessary to communicate in person, by email, phone, and virtually.</p></li><li><p>Problem solving skills and the ability to approach unfamiliar challenges.</p></li><li><p>Strong analytical and critical thinking skills with the ability to identify patterns, trends, inconsistencies, and opportunities for improvement.</p></li><li><p>Strong attention to detail and the ability to produce accurate and timely work.</p></li><li><p>Ability to handle confidential information appropriately and follow established firm policies and procedures.</p></li></ul><p></p><p>The following are helpful but are not required:</p><p></p><ul><li><p>Experience with Microsoft Excel and other data analysis or reporting tools.</p></li><li><p>Coursework or experience involving statistics, data analysis, databases, or data visualization</p></li><li><p>Exposure to tools or technologies used for data analysis, reporting, or business intelligence</p></li></ul><p><strong>Working Conditions</strong></p><ul><li><p>Onsite work required.</p></li><li><p>Work is performed in a professional office environment.</p></li><li><p>Specific work hours for this position will be assigned; generally, core business hours. The requirements may occasionally vary depending on the needs of the firm.</p></li></ul><p>This job description is intended to describe the general nature and level of work performed by individuals in this position. It is not intended to be an exhaustive list of all duties, responsibilities, qualifications, or working conditions. Duties and responsibilities may be modified as business needs change.</p><p></p><p><strong>Equal Employment and Opportunity Statement:</strong></p><p>Barnes &amp; Thornburg is committed to equal employment opportunity in both principle and as a matter of policy. We will recruit, hire, train, promote, compensate and provide benefits to all applicants and employees without regard to ancestry, sex, race, color, ethnicity, national origin, gender, age, religion, religious creed, mental and/or physical disability, medical condition, military and/or veteran’s status, genetic information, marital status, sexual orientation, gender identity and/or expression, or any other basis protected by applicable federal, state and local laws. This policy applies to all recruiting, hiring, promotions, upgrades, layoffs, compensation, benefits, terminations and all other privileges, terms and conditions of employment. The firm complies fully with all federal, state and local equal employment opportunity laws.</p>",
+    "content_hash": "244498a5cd51697a7c3f6acaed1d6738"
+  }
+}

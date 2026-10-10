@@ -1,0 +1,42 @@
+{
+  "1baa4ced95c5": {
+    "id": "1baa4ced95c5",
+    "title": "Software Engineer (Agent Platform) - New Grad",
+    "title_raw": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-16T02:39:55.735Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Netic's Software Engineers working on the Agent Platform team build the features that let our AI agents build, test, and improve themselves. This isn't a role writing one-off prompts. You'll work on the orchestration layer, execution harnesses, and the \"Agent Manager\" system that allows agents to author, evaluate, and optimize other agents autonomously. This is one of the hardest and most leveraged problems in applied AI today, and you'll have a dedicated mentor guiding you end-to-end.</p><p></p><p>We need to hire multiple new graduate engineers on our Agent Platform team that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better.</p><p></p><p><strong>What You'll Do:</strong></p><ul><li><p><strong>Build the orchestration layer:</strong> Design and ship the systems that route, sequence, and supervise multi-agent workflows across customer environments in real time.</p></li><li><p><strong>Extend agent harnesses:</strong> Build the tooling, sandboxes, and eval loops agents use to test and validate their own outputs before changes reach production.</p></li><li><p><strong>Work on Agent Manager:</strong> Contribute to the internal system where agents propose, test, and roll out improvements to other agents. This including guardrails, rollback paths, and human-in-the-loop checkpoints.</p></li><li><p><strong>Ship agentic products:</strong> Design, code, and ship full-stack features for Netic's agent platform, from data models to APIs to front-end tooling.</p></li><li><p><strong>Co-create with customers:</strong> Work with real customer workflows to surface where automated agent-improvement can and can't be trusted, and turn those edge cases into platform safeguards.</p></li></ul><p></p><p><strong>What You'll Learn / Bring:</strong></p><ul><li><p><strong>Systems fundamentals:</strong> Comfort with Python (asyncio, FastAPI) and TypeScript (Node, React); CS fundamentals in distributed systems.</p></li><li><p><strong>Agent tooling exposure:</strong> Coursework, internship, or personal-project experience with LLM APIs, eval frameworks, RAG, or agent frameworks (LangChain, MCP, or similar) — production experience not required, curiosity is.</p></li><li><p><strong>Orchestration mindset:</strong> Interest in how multi-step, multi-agent systems coordinate state, tool calls, and failure recovery — you don't need to have built this before, but you should be excited to.</p></li><li><p><strong>Founder-level ownership:</strong> Track record of shipping full projects (school, internship, or personal) end-to-end, not just isolated assignments.</p></li><li><p><strong>Comfortable with ambiguity:</strong> You'll be working on bleeding edge areas within agentic AI, but that means you'll be tackling problems that don't have established best practices yet. There isn't much of a playbook for agents building agents. You should be excited to help define them and write it.</p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "d48db5c33dbd83e9501ed6b7c462ec3e"
+  }
+}

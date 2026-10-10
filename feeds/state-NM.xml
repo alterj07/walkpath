@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in NM</title>
+  <id>https://walkpath.vercel.app/feeds/state-NM.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-NM.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:cd7ab8dda28a</id>
+    <title>Optics R&amp;D Technician Intern @ Quantinuum</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/cd7ab8dda28a"/>
+    <updated>2026-09-17T19:35:39.717Z</updated>
+    <published>2026-09-17T19:35:39.717Z</published>
+    <author><name>Quantinuum</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">We are seeking an Optics R&amp;D Technician Intern in our Albuquerque, NM, location. All applicants for placement in safety-sensitive positions will be required to submit to a pre-employment drug test. Key Responsibilities: Work with a team of engineers, physicists, and technicians to advance…</summary>
+    <content type="text">Quantinuum · US Albuquerque, NM
+
+We are seeking an Optics R&amp;D Technician Intern in our Albuquerque, NM, location. All applicants for placement in safety-sensitive positions will be required to submit to a pre-employment drug test. Key Responsibilities: Work with a team of engineers, physicists, and technicians to advance…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

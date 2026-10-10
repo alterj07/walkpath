@@ -1,0 +1,82 @@
+{
+  "e96af505b559": {
+    "id": "e96af505b559",
+    "title": "RF Product Development Lab Intern",
+    "title_raw": "RF Product Development Lab Intern",
+    "company": {
+      "slug": "e-space",
+      "name": "E-Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Arlington, TX",
+      "city": "Arlington",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "espace",
+      "external_id": "12e87c91-f00f-4aa4-a3cf-4280c3a1779d"
+    },
+    "apply_url": "https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-22T02:00:01.101Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:53:53.440Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Ready to make connectivity from space universally accessible, secure and actionable? Then you’ve come to the right place!<br />E-Space is bridging Earth and space to enable hyper-scaled deployments of Internet of Things (IoT) solutions and services. We are building a highly-advanced low Earth orbit (LEO) space system that will fundamentally change the design, economics, manufacturing and service delivery associated with traditional satellite and terrestrial IoT systems.<br />We’re intentional, we’re unapologetically curious and we’re 100% committed to innovate space-based communications and deliver actionable intelligence that will expand global economies, protect space and our planet and enhance our overall quality of life. \nReady to make connectivity from space universally accessible, secure and actionable? Then you’ve come to the right place!<br />E-Space is bridging Earth and space to enable hyper-scaled deployments of Internet of Things (IoT) solutions and services. We are building a highly-advanced low Earth orbit (LEO) space system that will fundamentally change the design, economics, manufacturing and service delivery associated with traditional satellite and terrestrial IoT systems.<br />We’re intentional, we’re unapologetically curious and we’re 100% committed to innovate space-based communications and deliver actionable intelligence that will expand global economies, protect space and our planet and enhance our overall quality of life. <br /><strong>About the Role</strong>\nJoin our RF Product Development team as an intern supporting component and assembly prototyping, testing, and debugging activities. This role emphasizes software development skills to drive automation across ground-based RF test systems, data acquisition, and fault analysis workflows. \n\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Support prototyping, integration, and bring-up of RF components and assemblies in a lab environment</li>\n<li>Perform functional, performance, and environmental testing on RF hardware</li>\n<li>Troubleshoot and debug RF circuits, assemblies, and test setups to isolate root causes of failures</li>\n<li>Design and develop software/scripts to automate ground-based RF test systems and reduce manual test time</li>\n<li>Program data acquisition routines to collect measurement data from RF test equipment (e.g., spectrum analyzers, network analyzers, signal generators, power meters)</li>\n<li>Develop analysis routines/algorithms to process acquired data for fault detection and anomaly identification</li>\n<li>Build and validate data pipelines that produce \"proofed\" (verified/cleaned) data streams to support calibration activities and fault resolution</li>\n<li>Document test procedures, automation scripts, and analysis methods for repeatability and knowledge transfer</li>\n<li>Collaborate with RF engineers, test engineers, and software developers to translate manual test processes into automated workflows</li>\n<li>Assist in creating dashboards, reports, or visualizations to communicate test results and fault trends to engineering teams</li>\n<li>Support calibration activities for RF test equipment and assemblies as needed</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul>\n<li>Currently pursuing a degree in Electrical Engineering, Computer Engineering, Computer Science, or related field</li>\n<li>Foundational knowledge of RF/microwave concepts (S-parameters, signal chains, impedance matching, etc.)</li>\n<li>Programming experience in Python, MATLAB, C#, or similar languages</li>\n<li>Familiarity with instrument control/automation frameworks (e.g., PyVISA, SCPI commands, LabVIEW, VISA/GPIB interfaces)</li>\n<li>Basic understanding of data analysis techniques (statistical analysis, signal processing, or similar)</li>\n<li>Strong problem-solving skills and attention to detail</li>\n<li>Ability to work both independently and collaboratively in a lab environment</li>\n</ul>\n<p><strong>Preferred Qualifications</strong></p>\n<ul>\n<li>Experience with RF test equipment (VNAs, spectrum analyzers, signal generators, power sensors)</li>\n<li>Exposure to automated test equipment (ATE) systems or test executive software (e.g., TestStand)</li>\n<li>Experience with fault detection algorithms, anomaly detection, or machine learning basics</li>\n<li>Familiarity with version control (Git) and software development best practices</li>\n<li>Coursework or project experience in RF/microwave engineering, embedded systems, or signal processing</li>\n<li>Experience with databases or data pipeline tools for managing test data</li>\n</ul>\n<p><strong>Other Requirements</strong></p>\n<ul>\n<li>U.S. Citizenship may be required due to export control/ITAR regulations (add/remove based on your organization's needs)</li>\n<li>Ability to work on-site in a laboratory setting</li>\n<li>Must be enrolled in an accredited university program for the duration of the internship</li>\n</ul>\n\n<b>Why E-Space is right for you:</b><br />As a member of our team, you will play a crucial role in driving our success.  Our team members have a strong sense of dedication and responsibility; this includes a strong commitment to our mission to create an entirely new suite of global capabilities to improve lives, business efficiencies and build a smarter planet. This means that there will be times when extra hours, including nights and weekends, may be needed to meet critical deadlines and mission goals.  In return, we offer a dynamic work environment with opportunities for professional growth and development and the chance to make a meaningful impact in a high-growth industry.  <br />We want you to make the most of your journey at E-Space. That’s why we support and invest in the physical, emotional and financial well-being of our team members and their families. Some of what you can expect when working at E-Space:<br />•  An opportunity to really make a difference•  Sustainability at our core•  Fair and honest workplace•  Innovative thinking is encouraged•  Competitive salaries•  Continuous learning and development•  Health and wellness care options•  Financial solutions for the future •  Optional legal services (US only)•  Paid holidays•  Paid time off<br />",
+    "content_hash": "da03e0f109e31eb1623837774b131515"
+  },
+  "e990b0a85af8": {
+    "id": "e990b0a85af8",
+    "title": "Product Developer Intern",
+    "title_raw": "Product Developer Intern",
+    "company": {
+      "slug": "colonist",
+      "name": "Colonist",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Any Location",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "colonist",
+      "external_id": "b9285b46-6972-4443-b34f-8d74631a0dbd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-01-22T17:38:46.750Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.395Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Wanted:</strong> Colonist Product Developer Intern</p><p><strong>Working Hours: </strong>We work asynchronously and value outcomes over hours</p><p><strong>Location:</strong> Fully Remote</p><p><strong>Disclaimer:</strong> We review applications for this position once a month </p><p></p><p><strong>About Colonist</strong></p><p>We're building the biggest digital board game platform on the internet. Last year, our players spent 3,037 years playing 60 million games on our Settlers of Catan alternative. We're a fully remote, asynchronous team spread across multiple continents, focused on crafting extremely polished digital board games that people truly love.</p><p></p><p><strong>About The Role</strong></p><p>As a Product Developer Intern at Colonist, your mission is to work closely with our game team to solve complex product problems and build engaging game modes, ensuring seamless UI/UX across platforms. You'll learn how high-quality games and products are actually built and help shape a game that reaches millions of players.</p><p></p><p><strong>What You’ll Do</strong></p><ul><li><p>Build and improve game UI and UX, with a strong focus on clarity, polish, and fun</p></li><li><p>Contribute to new game modes, features, and gameplay experiences</p></li><li><p>Turn product ideas into working features used by real players</p></li><li><p>Work across the stack as needed </p></li><li><p>Collaborate asynchronously with product teams </p></li><li><p>Learn how to ship, iterate, and improve features based on real player behavior</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>AI first-mindset. We see AI fluency as a real multiplier</p></li><li><p>Currently enrolled in a college course, preferably software development related </p></li><li><p>Available for a mid to long-term commitment (this is not a summer-only internship)</p></li><li><p>You enjoy building projects from start to finish</p></li><li><p>You care about user experience, not just the code</p></li><li><p>Motivated by solving challenging problems</p></li><li><p>Interested in board games</p></li></ul><p><strong>Nice to Have</strong></p><p>You don’t need to check all of these boxes.</p><ul><li><p>JavaScript / TypeScript</p></li><li><p>Git and version control</p></li><li><p>Side projects, prototypes, or experiments (finished or unfinished)</p></li></ul><p><strong>Our Values at Colonist</strong></p><p>We strongly adhere to these values in our team - if these resonate, then you’ll love working here!</p><p><strong>Dependability</strong></p><p>We're self-driven players who deliver without needing supervision. When we commit to something, we make it happen.</p><p><strong>Ownership</strong></p><p>We take full responsibility and go beyond our roles to improve Colonist. </p><p><strong>Clear Communication</strong></p><p>In our remote environment, written communication is key. We're direct, structured, and always keep our team in the loop.</p><p><strong>Efficient Execution</strong></p><p>We move fast and focus on impact. Instead of getting stuck on perfect solutions, we find practical ways forward and get things done.</p><p><strong>Continuous Learning</strong></p><p>We're curious problem solvers who love a challenge. We constantly seek new ideas, embrace feedback, and aren't afraid to change our minds when we're wrong.</p><p><strong>Compensation</strong></p><ul><li><p>Competitive scholarship paid in USD</p></li></ul><p><strong>Why Colonist</strong></p><ul><li><p>Your work ships to 3,6M+ yearly active players</p></li><li><p>Async culture; deep work, no performative meetings</p></li><li><p>Unlimited vacation, yearly team offsite, full work equipment</p></li><li><p>Budget to experiment with any AI tool you want</p></li><li><p>Access to all company metrics and internal discussions</p></li></ul>",
+    "content_hash": "cca73e59a06a5f4891b0129c1d21a2eb"
+  }
+}

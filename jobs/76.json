@@ -1,0 +1,136 @@
+{
+  "7607a2fa9440": {
+    "id": "7607a2fa9440",
+    "title": "Hardware Engineering Intern",
+    "title_raw": "Hardware Engineering Intern",
+    "company": {
+      "slug": "meter",
+      "name": "Meter",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "meter",
+      "external_id": "a5f1e4c3-2930-4933-ab38-8f600486494b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T18:56:10.318Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.571Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Meter builds networking hardware that businesses depend on to stay connected. Building great hardware requires more than designing circuits and shipping products, it means thinking deeply about performance, reliability, manufacturability, supply chain, installation, sustainability, and how our products operate throughout their entire lifecycle.</p><p></p><p>We are hiring Hardware Engineering Interns to explore and solve technical problems across Meter’s hardware engineering and operations teams. During the 12-week internship, you will own a well-scoped project based on your interests, experience, and the problems that matter most to Meter.</p><p></p><p>Depending on your interests and background, you could tackle:</p><ul><li><p><strong>Next-generation power adapters:</strong> Evaluate and prototype compact, efficient power supplies for future Meter compact products such as Pets. This is an engineering-focused project including architecture selection, component evaluation, thermal performance, efficiency, reliability, product design, and cost. Ultimately, your work could help the company accomplish prototypes that will directly translate to a shippable product.</p></li><li><p><strong>Hardware lifecycle and sustainability:</strong> Explore how Meter products can be reused, refurbished, donated, disassembled, or recycled at end of life, including the technical and economic feasibility of extending their useful life.</p></li><li><p><strong>Installer hardware and tooling:</strong> Design and prototype custom hardware, tools, fixtures, or diagnostic devices that make Meter networks easier and faster to install, service, and troubleshoot in the field.</p></li><li><p><strong>Acoustics and thermal systems:</strong> Develop and characterize custom fan or cooling solutions for future high-performance networking and data center products, optimizing airflow, acoustics, reliability, power consumption, and mechanical constraints.</p></li><li><p><strong>Supply chain intelligence:</strong> Analyze Meter’s component and supply-chain data to identify material risks, long-lead components, concentration risks, and potential bottlenecks before they affect hardware builds. This is a data analysis focused project.</p></li></ul><p>This is a hands-on engineering role with real-world outcomes. You will work alongside Meter engineers, operators, suppliers, and manufacturing partners to understand a problem, evaluate potential solutions, build and test where appropriate, analyze the results, and recommend a path forward.</p><p></p><h3><strong>What success looks like</strong></h3><p>You will take ownership of a meaningful hardware problem and move it from an open question to an evidence-backed recommendation. Success could mean building and validating a working prototype, characterizing the performance of a new technology, identifying and qualifying a supplier, developing a tool that improves how we install or manufacture hardware, uncovering supply chain risks through data, or creating a process that Meter can put into practice.</p><p></p><p>You will leave behind something the Hardware team can use: data, prototypes, test results, engineering requirements, supplier evaluations, tools, or technical recommendations that help us build better products.</p><p></p><p>By the end of the internship, you should be able to explain what you investigated, how you tested your assumptions, what you learned, the engineering tradeoffs involved, and what Meter should do next.</p><p></p><p>Your day-to-day will depend on the project you choose, but you may:</p><ul><li><p>Design, build, and test electrical or mechanical prototypes for future Meter products</p></li><li><p>Evaluate components, technologies, architectures, materials, and suppliers</p></li><li><p>Develop test plans and characterize performance, reliability, thermals, acoustics, power, or other system-level behavior</p></li><li><p>Work directly with networking hardware, PCBAs, mechanical assemblies, test equipment, and manufacturing samples</p></li><li><p>Analyze manufacturing, component, or supply chain data to identify trends, risks, and opportunities</p></li><li><p>Work with overseas suppliers and manufacturing partners to understand technical capabilities, constraints, cost, and scalability</p></li><li><p>Explore sustainability, repairability, refurbishment, component reuse, recycling, and other hardware lifecycle opportunities</p></li><li><p>Work cross-functionally with hardware engineering, supply chain, operations, software, product, finance, and other teams</p></li><li><p>Present your findings and recommendations to the Hardware team at the end of the internship</p></li></ul><p></p><h3><strong>Who you are</strong></h3><p>We are searching for people who are curious, hands-on, and excited to learn by building. You are a good fit if:</p><ul><li><p>You are pursuing a degree in electrical engineering, computer engineering, mechanical engineering, manufacturing engineering, industrial engineering, supply chain, or another related technical field</p></li><li><p>You enjoy taking ambiguous technical problems and breaking them into questions you can answer through engineering and experimentation</p></li><li><p>You have experience building, testing, debugging, or taking apart hardware, or are eager to learn</p></li><li><p>You are comfortable getting hands-on with physical systems, whether that means PCBAs, mechanical assemblies, test equipment, prototypes, manufacturing data, or supplier samples</p></li><li><p>You can use data to make engineering decisions rather than relying solely on intuition</p></li><li><p>You are comfortable learning things you have never encountered before and asking questions when you don’t understand something</p></li><li><p>You can communicate technical findings clearly and turn your work into recommendations that others can act on</p></li></ul><p></p><p>Experience with networking hardware, electronics, embedded systems, PCB design, CAD, manufacturing, thermal design, acoustics, data analysis, supply chain, or hardware lifecycle engineering is a plus, but none is required individually.</p><p></p><p>More than anything, we’re looking for people who want to understand how great hardware gets built.</p><p></p><h3><strong>Why Meter?</strong></h3><p>Meter is a vertically integrated networking company. Hardware, software, services, ISP, and autonomous networks—all built on a single data pipeline from the local network to the data center.</p><p></p><p>The internet runs the world. Every purchase you make, video call you join, it's all packets flowing through networks. But those networks haven’t changed for decades. They’re brittle, complex, and surprisingly hard to set up in an enterprise space.</p><p></p><p>We started Meter to build better networks. We had to build everything from the ground-up: designing and building our own enterprise hardware, intuitive software, and streamlined operations to deliver great outcomes for our customers. Today, we build and deploy these networks at scale. Ambitious companies and enduring institutions like Bridgewater, Lyft, Reddit, rely on Meter to keep their thousands of employees and locations online and productive.</p><p></p><p>Our bet with Meter is simple: we will all use the internet more than we do today. We believe we have the definitive networking stack in place to enable business to do so as seamlessly and reliably as any modern utility.</p><p></p><h3><strong>Compensation</strong></h3><ul><li><p>The estimated hourly rate for this role is $25-40/hr.</p></li></ul><p>By applying to this job you acknowledge that you've read and understood Meter's Job Applicant Privacy Notice.</p>",
+    "content_hash": "de1eebea5b4a98e99fbd7aab615fbf4b"
+  },
+  "763130e714ca": {
+    "id": "763130e714ca",
+    "title": "Analytics Business Operations Intern",
+    "title_raw": "Analytics Business Operations Intern",
+    "company": {
+      "slug": "agilent",
+      "name": "Agilent",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Spain-Barcelona",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": [
+        "Spain-Remote Location-Barcelona"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "agilent/agilent_student_careers",
+      "external_id": "4040010"
+    },
+    "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Spain-Barcelona/Analytics-Business-Operations-Intern_4040010",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:50:49.600Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><b>Job Description</b></h3><br /><p>Agilent inspires and supports discoveries that advance the quality of life. We provide life science, diagnostic and applied market laboratories worldwide with instruments, services, consumables, applications and expertise. Agilent enables customers to gain the answers and insights they seek, so they can do what they do best: improve the world around us. Information about Agilent is available at www.agilent.com.</p><br /><p><b>Step into the future of data and AI as our Analytics &amp; Data Governance Inter</b>n. In this Internal business-facing role, you’ll help our teams work smarter by bridging the gap between technical tools and everyday users. You will support projects, manage communications, and organize SharePoint content to be accessible, AI-powered knowledge resources. If you enjoy translating complex processes into clear guidance and empowering users to maximize analytics, AI agents, and Microsoft Copilot, this is the perfect opportunity to make an impact.</p><br /><p><b>Key responsibilitie</b>s</p><br /><ul><li><b>Content Creation:</b> Develop and maintain user-friendly SharePoint pages, FAQs, and process guides to simplify analytics tools for business users.</li><li><b>Analytics Communications</b>: Prepare updates, organize announcements, and manage communication calendars to ensure clear, timely delivery of information.</li><li><b>Knowledge Managemen</b>t: Keep analytics resources accurate, well-structured, and easy to navigate so they align with current updates and support needs.</li><li><b>End-User Suppor</b>t: Empower users by addressing common questions, routing technical escalations, identifying knowledge gaps, and reviewing analytics dashboards and support materials to ensure optimal usability, working links, and clear terminology.</li><li><b>AI Integration:</b> Organize and optimize content to power AI-enabled knowledge initiatives, including searchbots, Microsoft Copilot, and automated support processes.</li><li><b>Project Coordination:</b> Support daily operations by preparing meeting materials, tracking action items, updating project statuses, and keeping deliverables organized.</li></ul><br /><h3></h3><h3><b>Qualifications</b></h3><br /><p><b>Position Summary</b></p><br /><p><b>Location</b>: Hybrid/Remote (Must be based in Spain)</p><p><b>Start Date:</b> November 2026</p><p><b>Duration:</b> 12 months preferable</p><p><b>Requirements &amp; Eligibility</b></p><br /><ul><li><b>Student Status (Mandatory)</b>: You must be currently enrolled in an official study program (University Degree, Master’s, or equivalent) and maintain active student status throughout the entire 12-month duration of the internship.</li><li><b>Ineligibility:</b> Graduates or candidates completing their studies before the end of the internship period cannot be considered.</li><li><b>Residency: </b>Must be legally based in Spain for the full duration of the program.</li></ul><p></p><p><b>Education:</b> Pursuing or recently graduated with a degree in Business, Communications, Information Systems, Analytics, or a related field.</p><p><b>Language</b>: Advanced English proficiency required to effectively facilitate meetings, draft communications, and engage stakeholders.</p><p><b>Communication:</b> Strong writing and organizational skills to successfully translate complex, technical information into clear, practical guidance.</p><p><b>Project Management:</b> A basic understanding of project management concepts, such as tracking milestones and action items, is a plus.</p><p><b>Technical &amp; Analytics Tools:</b> Comfortable using Microsoft 365 (SharePoint, Teams) to organize content and streamline processes. Familiarity with BI tools (Power BI, Qlik) is a bonus, but advanced data analysis is not required, as this role does not involve technical development.</p><p><b>AI Interest:</b> Eager to learn how AI agents and Microsoft Copilot can enhance knowledge management and content creation.</p><p><b>Work Style:</b> Proactive and collaborative team player who is also highly comfortable working independently.</p><br /><p>•\t<b>Please submit your CV in English</b></p><br /><p>If you feel motivated and ready to participate in the challenge, we are looking forward to your application. Please, complete the application process online.</p><p></p><p><b>Additional Details</b></p><p></p>This job has a full time weekly schedule. It includes the option to work remotely.<p></p>Agilent Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.<p></p><h3><b>Travel Required: </b></h3>No<p></p><h3><b>Shift: </b></h3>Day<p></p><h3><b>Duration: </b></h3>9-12 Months<p></p><h3><b>Job Function: </b></h3>General",
+    "content_hash": "2de5a9bc11e40e70be8b9881bf92099c"
+  },
+  "763d50fe7c6e": {
+    "id": "763d50fe7c6e",
+    "title": "Data Engineering Intern - AI & Analytics (January - August 2027)",
+    "title_raw": "Data Engineering Intern - AI & Analytics (January - August 2027)",
+    "company": {
+      "slug": "rivian-and-volkswagen-group-technologies",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto, California",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Irvine, California"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rivianvw.tech",
+      "external_id": "32f6b882-414f-4bac-959c-83691d120322"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T18:31:44.847Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 47,
+      "max": 51,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world.</p><p></p><p>The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we’ll map a new way forward. Working together, we’ll create a future that’s more connected, more intelligent, more sustainable for everyone.</p><p></p><p>This is a general application used to fill multiple internship openings across our AI, Data, and Analytics teams. If selected, you will be matched to a specific team based on your background and interests during the interview process.</p><ul><li><p>Data Engineering Intern - AI &amp; Analytics</p></li><li><p>Data Engineering Intern - AI/ML</p></li><li><p>Data Engineering Intern - Analytics</p></li><li><p>Software Engineering Intern - AI &amp; Machine Learning</p></li><li><p>Software Engineering Intern - AI Platform</p></li><li><p>Software Engineering Intern - DevOps</p></li><li><p>Software Engineering Intern - Execution Apps</p></li><li><p>Software Engineering Intern - Fleet Applications</p></li><li><p>Software Engineering Intern - Vehicle and Fleet Apps</p></li><li><p>Systems Analytics Engineering Intern - Connectivity and Telematics</p></li></ul><h3>Role Summary</h3><p>Software-defined vehicles generate enormous amounts of data, from vehicle telemetry to manufacturing and fleet operations. As a Data Engineering intern, you will help turn that data into usable, reliable infrastructure and analytics, working on data pipelines, machine learning platforms, or the software and analytics supporting fleet and manufacturing applications.</p><p>Specific project areas vary by team and may include:</p><ul><li><p>Developing SQL and Python based data transformation and pipeline code</p></li><li><p>Building and maintaining ELT pipelines and analytics workflows on Databricks or similar platforms</p></li><li><p>Supporting machine learning model development, evaluation, or deployment infrastructure</p></li><li><p>Contributing to software for fleet management or manufacturing execution applications that depend on reliable data</p></li><li><p>Building automated data quality tests and integrating with CI/CD workflows</p></li></ul><h3>Responsibilities</h3><ul><li><p>Design, build, or maintain data pipelines, analytics workflows, or ML supporting infrastructure</p></li><li><p>Write Python and SQL code to process, transform, and validate data</p></li><li><p>Collaborate with data scientists, analysts, or software engineers to meet data or platform needs</p></li><li><p>Contribute to automated testing for data quality and pipeline reliability</p></li><li><p>Document your work and share progress with your team throughout the internship</p></li></ul><h3>Qualifications</h3><p>Minimum:</p><ul><li><p>Currently enrolled in a Bachelor's or Master's program at an accredited US university</p></li><li><p>Proficient in Python and SQL</p></li></ul><p>Preferred:</p><ul><li><p>Actively pursuing a degree in Computer Science, Mathematics, Data Science, or a closely related field, with intent to return to school after the internship</p></li><li><p>Coursework or project experience with data engineering, analytics, or machine learning</p></li><li><p>Familiarity with cloud data platforms such as Databricks, Snowflake, or Google BigQuery</p></li><li><p>Exposure to data transformation tools such as dbt, or infrastructure as code tools such as Terraform</p></li><li><p>Interest in applying data skills to vehicle, fleet, or manufacturing use cases</p></li></ul><h3><strong>Total Rewards</strong></h3><p>We build the exceptional — and we believe the people doing that work should be rewarded accordingly. In addition to a competitive base salary, full-time positions may be is eligible to participate in our annual company performance bonus program. </p><p></p><p>Payments are discretionary and not guaranteed; actual amounts depend on company results and the terms of the plan in effect, and require active employment at the time of payout. This role is also eligible for equity in the form of Restricted Stock Units (RSUs), subject to board approval and the terms of our equity incentive plans, including applicable vesting requirements. </p><p></p><p>In addition to our compensation programs, we invest in our people with a comprehensive benefits package designed to support the health, wellbeing, and financial future for full-time employees — including health coverage, retirement savings, time off, and family planning programs. Offerings vary by country. <strong>Learn more about our global benefit programs</strong><strong>.</strong></p><p></p><p>External candidates can apply for this role through the Rivian and Volkswagen Group Technologies careers site (<strong>https://rivianvw.tech/#careers</strong>). If you are a current employee, please apply through our <strong>internal job board</strong><em><strong>.</strong></em></p><p></p><h3>Equal Opportunity</h3><p>Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.</p><p></p><p>Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.</p><p></p><h3>Candidate Data Privacy</h3><p>Rivian and Volkswagen Group Technologies” may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) record keeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law. </p><p></p><p>Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies’ service providers, including providers of background checks, staffing services, and cloud services. </p><p></p><p>Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. </p><p></p><p>If you provide a mobile telephone number as part of your application or during the recruitment process, Rivian and Volkswagen Group Technologies may use that number to contact you via SMS text message for recruitment-related purposes, including scheduling, logistics, and status updates. Message and data rates may apply. You may opt out of SMS communications at any time by replying STOP to any text message you receive from us. Consent to receive SMS messages is not a condition of applying for or being considered for employment.</p><p>Please see our <strong>Candidate Data Privacy Notice (English)</strong><strong>  </strong>and <strong>Candidate Data Privacy Notice (Serbian)</strong> for more information.</p><p>--</p><p><em>Please note this job posting represents an open, active vacancy. Additionally, we are not currently accepting applications from third party application services.</em></p>",
+    "content_hash": "29e84dd76644928c6a3007ca14d727fe"
+  }
+}

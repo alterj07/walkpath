@@ -1,0 +1,132 @@
+{
+  "510f364b8189": {
+    "id": "510f364b8189",
+    "title": "Software Engineering Intern [Spring/Summer 2027]",
+    "title_raw": "Software Engineering Intern [Spring/Summer 2027]",
+    "company": {
+      "slug": "melius",
+      "name": "Melius",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "melius",
+      "external_id": "b61f063a-4f94-4e50-a4ef-05aaab552280"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-31T14:00:47.682Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.414Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 11000,
+      "max": 11000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Melius</strong> — New York City</p><p>Engineers have Cursor. Lawyers have Harvey. The office of the CFO has Ramp. Every knowledge profession has been handed a platform that lets them orchestrate agents and scale their output by an order of magnitude — except the people who actually make the things we look at, watch, and listen to.</p><p></p><p><strong>Melius is the agents lab for creative work. </strong>We build agentic interfaces to all the work that goes into building the next generation of images, video, audio and so much more. Generative media canvas, timeline editor, asset manager, and much more, built native for agents. Using Melius, users can spend more time being creative and let go of the century old legacy tools that only acted as constraints to their imagination.</p><p></p><p>We’re backed by <strong>General Catalyst, Vine Ventures, Genius Ventures, and Antifund</strong>, and built by a team of second-time founders, former engineering leaders from Ramp, and operators who came up through top-tier VC and PE. We move fast, ship every day, and have strong opinions about craft.</p><p></p><h3><strong>The role</strong></h3><p>This is not a “summer project” internship. Expect to be treated exactly as a full time engineer would be from the first day at your job. There will be dozens of projects that you lead and are expected to educate both customers and other members of the team on.</p><p>The stack: Next.js and a real-time CRDT canvas on the frontend, NestJS / MikroORM / Postgres / Temporal / Turbopuffer on the backend, and the agent and model orchestration layer that ties it all together.</p><p>High level activities for the internship might include:</p><ul><li><p>Building new tools for our agent end-to-end — what it can do on the canvas, what it can change in the timeline editor, and how it can semantically search in the asset manager.</p></li><li><p>Sitting in on user sessions, watching a creative hit a rough edge, and shipping the fix that same hour.</p></li><li><p>Adding evals and traces that tell us, honestly, whether the agent got better this week.</p></li><li><p>Polishing canvas interactions that thousands of creatives touch every day — the small details users never explicitly notice but always feel.</p></li></ul><p>You’ll work directly with senior engineers and the founders. Expect fast feedback, real code review, and more ownership than you’ve been trusted with before.</p><p></p><h3><strong>You’ll fit if you</strong></h3><ul><li><p>Are pursuing a degree in CS (or equivalent) and have built something real: a side project people actually used, open source contributions, a previous internship where you shipped.</p></li><li><p>Are comfortable in TypeScript, or good enough at programming that you’ll be effective in it within a week.</p></li><li><p>Have played with LLMs beyond the chat box. Tool-calling, agent frameworks, React Flow, Yjs/CRDTs, or anything you hacked together at 2am are all table stakes.</p></li><li><p>Care about small details users never explicitly notice.</p></li><li><p>Are comfortable with uncertainty. We might implode tomorrow or we might grow 100,000,000% WoW next week.</p></li><li><p>Default to shipping. Let’s get shit done.</p></li></ul><p></p><h3><strong>What we offer</strong></h3><ul><li><p><strong>$8500 monthly salary</strong></p></li><li><p><strong>$2500 monthly stipend for housing</strong></p></li><li><p><strong>$70 per diem for meals</strong></p></li><li><p>In-person in NYC with a lean team of people who love the game, obsessed with building the future of creativity.</p></li></ul><p></p><p>If this is the kind of problem you’re interested in, apply!</p>",
+    "content_hash": "d24c3b80901fa0b969843a39a52c49f1"
+  },
+  "5157dfb67686": {
+    "id": "5157dfb67686",
+    "title": "Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027)",
+    "title_raw": "Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027)",
+    "company": {
+      "slug": "composio",
+      "name": "Composio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "sf",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "composio",
+      "external_id": "eea3c0be-8589-4e3d-a684-de29a9eada0d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T02:59:03.939Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.553Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 10000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Composio, we are building infrastructure that allows agents to communicate with the tools you use for work including Github, Gmail, Notion, Salesforce, etc. We are a lean team of engineers wrangling problems from context to search, that help us provide the most capable bridge between your agents and your tools.</p> <p>We raised a $25M Series A from Lightspeed with some incredible angels like Guillermo Rauch (CEO of Vercel), Dharmesh Shah (CTO of Hubspot), Gokul Rajaram. Beginning of this year we 3x our ARR with customers like Google, AWS, Mercor, Mintlify, Glean and Emergent.</p> <h3></h3><h3><strong>What you'll do?</strong></h3><ul><li><p>elevate the experience of teams building on us and integrating us into their daily lives, by improving our developer (\"Composio Platform\") https://dashboard.composio.dev/~/org and consumer (\"Composio For You\") https://dashboard.composio.dev/~/org/connect web experiences</p></li></ul><ul><li><p>deliver elegant interfaces both on the frontend and sdk</p></li><li><p>work closely with customers to win their hearts, improving the product in the process</p></li><li><p>writing crisp articulate docs</p></li></ul> <h3><strong>\"Must haves\"</strong></h3><p><em>if you are very good, nothing is a must per-se</em></p><ul><li><p><strong>core product engineering</strong></p><ul><li><p>you have built full-stack projects from scratch, taking them zero to one</p></li><li><p>you care deeply about the craft of the product you are building</p></li><li><p>you are able to hold many different persona at contention while delivering delightful experiences for them</p></li></ul></li><li><p><strong>ai native</strong></p><ul><li><p>you have built with the language models</p></li><li><p>you have built for the language models</p></li></ul></li><li><p><strong>taste</strong><strong> </strong>— you have that \"finger feel\" what makes a good product.</p></li><li><p><strong>typist</strong> — you can write docs well and explain complex ideas clearly</p></li><li><p><strong>human </strong>— you build trust and admit what you don’t know</p></li></ul> <h3><strong>Bonus</strong></h3><ul><li><p>proficient in Typescript, React, Tailwind, Next.js</p></li><li><p>started companies or built large side projects or won hackathons</p></li></ul>",
+    "content_hash": "b3b2d41617cb9d314407833574825665"
+  },
+  "51a0d4180824": {
+    "id": "51a0d4180824",
+    "title": "Embedded Systems Intern",
+    "title_raw": "Embedded Systems Intern",
+    "company": {
+      "slug": "terranova",
+      "name": "Terranova",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Berkeley",
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "terranova",
+      "external_id": "8fdce1f7-a1df-4e64-8f10-c78771a399da"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-26T02:53:05.132Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.783Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Description</strong></p><p>Backed by leading climate and American dynamism investors, Terranova builds intelligent robotic systems to terraform the Earth itself - lifting land, restoring wetlands, and protecting critical infrastructure from floods and sea-level rise.</p><p>Our mission is to preserve the built environment, create new habitats, and usher in an era of abundance. Our work supports climate resilience, disaster recovery, and defense across the United States and beyond.</p><p>We’re assembling a world-class team that wants to work on something real, physical, and civilization-scale. If you want your work to reshape the world (literally), this is the place to do it.</p><p></p><p><strong>What to to Expect</strong></p><p>Terranova seeks a embedded systems engineering intern for <strong>Spring 2027</strong> to join our core engineering team. The ideal candidate has a passion for their craft and can go deep on design and analysis while maintaining a systems-level view across electrical, embedded, and controls disciplines. This person thrives in a startup environment - owning problems end-to-end, moving fast, and building machines that survive the real world.</p><p>You’ll lead projects from concept through field deployment: designing, analyzing, fabricating, and testing large-scale robotic systems that operate in the most demanding environments on Earth. Expect to be hands-on, spend long hours in the factory and in the field working alongside technicians and operators.</p><p></p><p><strong>Key Responsibilities</strong></p><ul><li><p>Own aspects of electrical design, firmware, controls integration, and PCB design</p></li><li><p>Develop and debug embedded firmware in C/C++ for <strong>STM32/ESP32/RP2040</strong> or similar</p></li><li><p>Design and review mixed-signal PCBs using KiCad/<strong>Altium</strong>.</p></li><li><p>Integrate sensors, radios, and power electronics with reliable, low-latency interfaces (I²C, SPI, UART, CAN).</p></li><li><p>Characterize and optimize power budgets, EMI performance, and manufacturability.</p></li><li><p>Bring-up, test, and validate hardware prototypes through DFM/DFT cycles.</p></li><li><p>Support system integration and field debugging of deployed robotic platforms.</p></li><li><p>Understand <strong>high power systems (150+ kW)</strong> and ensure safe design</p></li><li><p>Collaborate closely with electrical, controls, and field teams to deliver integrated, field-ready systems</p></li><li><p>Drive failure analysis, testing, and iterative improvement based on real-world data</p></li></ul><p></p><p><strong>Preferred Skills and Experience</strong></p><ul><li><p>Hands-on prototyping skills - you enjoy working in the shop - have built hobby projects - are a maker</p></li><li><p>LiDAR and Sensors</p></li><li><p>Experience in electromechanical controls - VFDs</p></li><li><p>Experience in <strong>high voltage AC</strong> power conversion systems and lithium batteries</p></li><li><p>STM32/ESP32/RP2040</p></li><li><p><strong>C/C++</strong> with FreeRTOS/Zephyr</p></li><li><p>KiCad/Altium PCB Design <strong>(Altium preferred)</strong></p></li><li><p>Mixed-signal and power design</p></li><li><p>PCB and embedded systems design skills (Altium or equivalent)</p></li><li><p>Comfortable with the pace and intensity of early-stage startup life, including long days, 6-day workweeks, and extended field hours</p></li><li><p>Working towards a bachelor’s degree or higher in Electrical Engineering, Computer Engineering or related field</p></li><li><p>U.S. permanent residency required</p></li></ul><p></p><p><strong>Nice to Have Skills</strong></p><ul><li><p>CAD proficiency (OnShape, SolidWorks, Fusion 360, or NX)</p></li><li><p>Familiarity with C++, Python, or similar for controls or simulation</p></li><li><p>Proven project management capabilities with multiple concurrent workstreams</p></li><li><p>Experience with compliance, HAZOP, and FMEA tools for machine safety</p></li></ul><p></p><p><strong>Compensation and Timeline</strong></p><ul><li><p>$25-35/hr + relocation + company perks</p></li><li><p>Spring Internship from January-May depending on your school schedule</p></li></ul>",
+    "content_hash": "79fba5e931fc484e78b811e04008b5ba"
+  }
+}

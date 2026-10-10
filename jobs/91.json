@@ -1,0 +1,49 @@
+{
+  "915ab184e300": {
+    "id": "915ab184e300",
+    "title": "Data Engineer Co-op 2027",
+    "title_raw": "Data Engineer Co-op 2027",
+    "company": {
+      "slug": "megazonecloud",
+      "name": "MegazoneCloud",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Rochester, NY",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "megazone",
+      "external_id": "fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T15:55:19.218Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.399Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 27,
+      "max": 29,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>Who We’re Looking For</strong></h3><p>Megazone Cloud is looking for a <strong>Data Engineer Co-op</strong> who is a \"builder\" at heart and eager to apply technical skills to real-world customer problems. We need students who are curious, driven, and comfortable asking \"what if?\" to solve complex challenges.</p><p>You should be passionate about data engineering and ready to transition from classroom theory to professional execution. We value a \"jack of all trades\" approach—someone who is ready to jump into a fast-moving environment and learn a modern tech stack by doing the work.</p><h3><strong> What You'll Do</strong></h3><ul><li><p><strong>Direct Contribution:</strong> Work as a real member of the technical team, helping build and maintain the data pipelines that power our business and client solutions.</p></li><li><p><strong>Technical Mentorship:</strong> Collaborate with senior engineers under a \"force multiplier\" leadership philosophy designed to level up your technical expertise.</p></li><li><p><strong>Development:</strong> Write and optimize <strong>Python and SQL</strong> code to automate processes and manage data workflows.</p></li><li><p><strong>Project Integration:</strong> Participate in team meetings and technical discovery, bringing a fresh perspective to design discussions.</p></li><li><p><strong>Tooling &amp; Ecosystems:</strong> Gain hands-on exposure to <strong>AWS, Databricks, and Snowflake</strong>.</p></li><li><p><strong>Cross-Functional Collaboration:</strong> Work alongside data science and infrastructure teams to see how high-growth startups scale.<br /></p></li></ul><h3><strong>What You Bring (Requirements)</strong></h3><ul><li><p><strong>Education:</strong> Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, or a related technical field.</p></li><li><p><strong>Timeline:</strong> Expected graduation date of December 2026 or later.</p></li><li><p><strong>Core Skills:</strong> Academic or project-based experience with <strong>Python and SQL</strong>.</p></li><li><p><strong>Foundations:</strong> A solid understanding of data structures, algorithms, and database principles.</p></li><li><p><strong>Mindset:</strong> A strategic \"builder\" mentality and a genuine thirst for technical knowledge.</p></li><li><p><strong>Communication:</strong> Ability to communicate technical ideas clearly and work effectively within a team.</p></li><li><p><strong>Eligibility:</strong> Must be currently eligible to work in the US.</p></li></ul><p></p><h3><strong>Bonus Points</strong></h3><ul><li><p>Projects involving <strong>AWS, Databricks, or Snowflake</strong>.</p></li><li><p>Coursework in <strong>GenAI</strong> or <strong>MLOps</strong>.</p></li><li><p>A link to your GitHub or a portfolio of your technical work.</p></li></ul><h3><strong>Why You’ll Love It Here</strong></h3><ul><li><p><strong>Our Product is Our People:</strong> We invest in people who invest in themselves; your growth is our growth.</p></li><li><p><strong>True Servant Leadership:</strong> Our CTO and management team are here to empower you and clear roadblocks, not to micromanage.</p></li><li><p><strong>Flat Organization, Real Impact:</strong> Your designs and input directly shape our technical roadmap and our clients' success.</p></li><li><p><strong>A \"Learn-from-it\" Culture:</strong> We move fast—mistakes are treated as learning opportunities, not failures.</p></li></ul><p><strong>NOTE:</strong> <em>We are unable to provide sponsorship for this position.</em></p><h3><strong>Why You'll Love It Here</strong></h3><ul><li><p><strong>Our Product is Our People:</strong> We live by this. We invest in people who invest in themselves. Your growth is our growth.</p></li><li><p><strong>True Servant Leadership:</strong> Our CTO leads with a \"force multiplier\" philosophy. Management is here to empower you and clear roadblocks, not to micromanage. We won't ask you to do anything we're not willing to do ourselves.</p></li><li><p><strong>Flat Organization, Real Impact:</strong> Your voice and designs will directly shape our technical roadmap and our clients' success. You'll work on the latest tech to solve real problems.</p></li><li><p><strong>A \"Learn-from-it\" Culture:</strong> We're moving fast and building new things. We believe mistakes are learning opportunities, not failures.</p></li></ul><p>We seek diverse talent who are ready to make an immediate impact. We believe that innovation thrives when teams are built with a variety of backgrounds, experiences, and perspectives. If you are excited by this mission, we encourage you to apply, even if your experience doesn't perfectly match every qualification listed.</p><p><strong>Megazone Cloud is an Equal Opportunity Employer and participates in E-Verify to confirm the employment eligibility of all new hires.</strong> </p>",
+    "content_hash": "1cbc9c17ea77647eb05810c3b9e409c7"
+  }
+}

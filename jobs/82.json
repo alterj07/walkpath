@@ -1,0 +1,42 @@
+{
+  "826168afe983": {
+    "id": "826168afe983",
+    "title": "Electrical Platform Intern",
+    "title_raw": "Electrical Platform Intern",
+    "company": {
+      "slug": "etched",
+      "name": "Etched",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "etched",
+      "external_id": "904ddf46-55fc-4a8f-8b49-f32cfe88116a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-07T01:29:58.073Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.146Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Etched</strong></p><p>Etched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on <strong>inference</strong>. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.</p><p></p><p><strong>Job Summary</strong></p><p>Our <strong>electrical engineering interns</strong> will work on both hands-on product design and the development of design and validation infrastructure to design boards that will support bleeding edge systems and silicon.</p><p>Our Platform Team is building the full-stack system that supports Etched Silicon from PCB to Rack. We are seeking interns to work across all aspects of mechanical and electrical engineering to design the future of high power ASIC systems. We are looking for<strong> Fall '26, Spring '27, and Summer '27 </strong>interns.</p><p></p><p><strong>You may be a good fit if you have</strong></p><ul><li><p>Progress towards a Bachelor’s or Master’s in Electrical Engineering, Computer Engineering, or related field</p></li><li><p>Experience building real mechanical systems, boards, or other hands-on projects.</p></li><li><p>Knowledge of board design cycle, high-speed interconnects, power delivery, and system integration.</p></li></ul><p>We encourage you to apply even if you do not believe you meet every qualification.</p><p></p><p><strong>Program details</strong></p><ul><li><p>12-week paid internship</p></li><li><p>Generous housing support for those relocating</p></li><li><p>Daily lunch and dinner in our office</p></li><li><p>Based at our office in San Jose, CA</p></li><li><p>Direct mentorship from industry leaders and world-class engineers</p></li><li><p>Opportunity to work on one of the most important problems of our time</p></li></ul><p><br />For any questions, contact internships@etched.com</p><p></p><p><strong>How we’re different</strong></p><p>Etched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.</p> <p>We are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.</p>",
+    "content_hash": "952347818dbea8f68a85fbf7cb10bf52"
+  }
+}

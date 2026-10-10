@@ -1,0 +1,136 @@
+{
+  "98169bdfca38": {
+    "id": "98169bdfca38",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "title_raw": "Software Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "harvey",
+      "name": "Harvey",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "harvey",
+      "external_id": "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T17:00:52.813Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.558Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 62,
+      "max": 72,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>Why Harvey</strong></h3><p>At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.</p><p>This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.</p><p>Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.</p><p>At Harvey, the future of professional services is being written today — and we’re just getting started.</p><p></p><h3><strong>Role Overview</strong></h3><p>As a Software Engineer, Intern (Summer 2027) on the Engineering team at Harvey, you’ll work alongside experienced engineers on projects that power our AI products. You’ll collaborate with our Product, AI, Legal, and GTM teams to help build secure, intuitive systems that deliver real value to our customers.</p><p>This 12 or 16 week internship is ideal for students who are curious, motivated, and excited to learn how modern application-layer and GenAI products are built. You’ll gain hands-on experience across the stack, contribute to real features, and see how your work impacts users in production.</p><p>We're currently hiring Winter 2027 interns in Toronto and Summer 2027 interns in New York and San Francisco across multiple teams and roles, including Frontend, Backend, Full-Stack, Infrastructure, and Applied AI intern roles. Your interests &amp; experience will be factored into our team matching process, where you’ll have the opportunity to learn about teams across Harvey including Agents, Applied AI, Assistant, Enterprise, Infrastructure, Mobile, Vault and many others.</p><p></p><h3><strong>What You'll Do</strong></h3><p>You will:</p><ul><li><p>Own a project end-to-end from coding and testing to deploying it to production, and presenting your work to peers and leaders across the company.</p></li><li><p>Write clean, maintainable code that meets our team's standards. You'll use AI-assisted development tools daily, and you’ll own the quality of everything you ship—AI-generated or not.</p></li><li><p>Build real knowledge of the systems you support and the users they serve, bringing that perspective into product discussions.</p></li><li><p>Debug problems in your area, follow escalation procedures, and treat quality as urgent. Our users are lawyers doing high-stakes work.</p></li><li><p>Collaborate with your team through code review, pair programming, design reviews and technical documentation.</p></li><li><p>Depending on your team, you could work on retrieval over large document collections, interfaces for collaborating with AI systems, multi-region compute infrastructure, enterprise agents, or secure systems for sensitive client data. You'll also evaluate frontier models alongside senior engineers.</p><p></p></li></ul><h3><strong>What You Have</strong></h3><ul><li><p>Currently enrolled in a Bachelor's or Master's program in computer science, engineering, or a related field with a graduation date of December 2027 or later.</p></li><li><p>Able to work from our New York or San Francisco offices during our summer cohort, based on your academic schedule. Relocation support is available.</p></li><li><p>Previous internship experience is required.</p></li><li><p><strong>Technical foundation.</strong> Strong proficiency in one or more languages (Python, TypeScript/JavaScript, Java, Go, or similar) and solid general computer science knowledge.</p></li><li><p><strong>Decisiveness.</strong> You have a bias toward action. You've built something start to finish in coursework, a personal project, or in a past internship, and you know the difference between a decision you should make yourself and one worth getting feedback on. You'd rather move and correct course than stall.</p></li><li><p><strong>Simplicity.</strong> You can explain a complex technical idea in plain language, whether or not the person you're explaining it to is an engineer. You look for the simplest solution that works, and you know when added complexity is worth it.</p></li><li><p><strong>Job's Not Finished.</strong> You aren't satisfied when something merely works. You proactively seek out feedback, act on it, and keep pushing after the assignment is technically complete. Internship experience specifically at an early-stage startup is a plus.</p></li><li><p><strong>AI Forward.</strong> Comfortable using AI-assisted development tools (Claude Code, Codex, Cursor) and curious about building LLMs into your own coding workflow.</p></li></ul><p></p><p><em>Our interview process includes AI-assisted coding sessions; you'll be expected to work with AI tools the way you would on the job.</em></p><p></p><h3><strong>Compensation </strong></h3><ul><li><p><strong>Pay:</strong> $62/hr-$72/hr in San Francisco and New York</p></li></ul><p></p><h3><strong>Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices [</strong><strong>here</strong><strong>].</strong></h3><p>#LI-LW1</p><p></p><p><em>Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p><p>We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai</p>",
+    "content_hash": "90394004df79ed884d4eaa9f91d272e9"
+  },
+  "98ab6406fded": {
+    "id": "98ab6406fded",
+    "title": "Data Hall Design Intern",
+    "title_raw": "Data Hall Design Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "689a09a9-bb1f-453b-ad4e-4bceb470ccdd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/689a09a9-bb1f-453b-ad4e-4bceb470ccdd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T18:26:18.621Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>Data Hall Design produces the drawings the fleet is built from.</p><p>We’re looking for a <strong>Data Hall Design Intern </strong>to join our team during an exciting phase of growth. In this role, you will work in Revit and AutoCAD alongside our designers on liquid-cooled AI data halls: rack elevations, row layouts, cable pathway routing, and the reusable families and templates that let one reference design repeat across every new site. Your work goes through the same review gates as a full-time designer’s, and it will be in a real drawing set before you leave.</p><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><p>This internship is open to three kinds of candidates. We evaluate all three against the same bar and none is a second-tier track.</p><ol><li><p><strong>Current students</strong></p><ul><li><p>Architecture, architectural engineering, mechanical, electrical, or civil engineering, construction management, or drafting and design technology programs. A portfolio of CAD or BIM work matters more than GPA.</p></li></ul></li><li><p><strong>Transitioning service members and veterans</strong></p><ul><li><p>Drafting, engineering, survey, or facilities backgrounds. Examples: Army 12T technical engineer and other 12-series specialties; Air Force 3E5 engineering; Navy and USMC engineering, facilities, and construction ratings. Experience reading or producing construction drawings is the key signal.</p></li></ul></li><li><p><strong>Professionals returning after a career break</strong></p><ul><li><p>Architects, drafters, BIM technicians, and MEP designers returning after a break. Rusty software skills are fine; we will get you current on our Revit standards in the first weeks.</p></li></ul></li></ol><ul><li><p>One of: current enrollment in a relevant program; military experience in drafting, engineering, or facilities; or 2+ years of prior work in drafting, architecture, or MEP design.</p></li><li><p>Working proficiency in AutoCAD or Revit (coursework counts); ability to share samples of your work.</p></li><li><p>Ability to read construction and equipment drawings and understand plan, elevation, and section views.</p></li><li><p>Precision: you notice the dimension that does not add up, and you check before you assume.</p></li><li><p>Able to travel to Data Center sites 1-2 times.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Revit family authoring or template work.</p></li><li><p>BIM coordination exposure (Navisworks, clash detection).</p></li><li><p>Data center, mission-critical, or high-density facility exposure; BICSI coursework.</p></li><li><p>Dynamo or Python scripting for drawing automation; Bluebeam markup workflows.</p></li></ul><p><strong>Internship Information</strong></p><ul><li><p>Paid Internship</p></li><li><p>May - August (12 weeks)</p></li><li><p>Tuesday - Friday, 8 hours</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "4b7e43626e63744fd82017ae8e3ec252"
+  },
+  "98afee9184d4": {
+    "id": "98afee9184d4",
+    "title": "Test Engineering Intern (Spring)",
+    "title_raw": "Test Engineering Intern (Spring)",
+    "company": {
+      "slug": "h3x-technologies",
+      "name": "H3X Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Louisville, Colorado",
+      "city": "Louisville",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "h3x-technologies",
+      "external_id": "be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/h3x-technologies/be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-18T18:51:36.580Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.372Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 23,
+      "max": 37,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About H3X Technologies</strong></p><p>H3X is building America's advanced electric motor company, powering next-generation platforms in aerospace, defense, and marine. Our integrated motor drives deliver 12+ kW/kg, roughly 3x the power density of competing solutions. We're now scaling to megawatt-class systems, with customers working on everything from supersonic aircraft to turbine power generation for AI datacenters.</p><p>Our team brings together engineers and operators from aerospace, defense, and motorsports, with deep expertise in electric machines, power electronics, material science, and advanced manufacturing. We're a small, fast-moving team doing hard engineering that matters, and we're looking for people who want to do the best work of their careers alongside us.</p><p></p><p><strong>About the role</strong></p><p>H3X is looking to hire a test engineering intern this to support R&amp;D and production testing across the HPDM product line. This is not an ordinary internship. You will be given the full responsibility of a test engineer. The engineering team is intentionally small and operates at a very fast pace. A high degree of self-motivation and responsibility is required as you will be given significant freedom and will be directly responsible for your parts. We are looking for a full time Spring Intern, but also have availability for Summer 2027 and extended Co-Op positions.</p><p></p><p><strong>What you will do:</strong></p><ul><li><p><strong>Requirements/Concept</strong></p><ul><li><p>Establish and document requirements to fulfill testing equipment design needs</p></li><li><p>Conceptualize test equipment designs</p></li><li><p>Gather and consolidate requirements for R&amp;D test suites in the form of test plans</p></li></ul></li><li><p><strong>Design and Analysis</strong></p><ul><li><p>Design parts and assemblies utilizing SolidWorks</p></li></ul></li><li><p><strong>Prototype and Manufacturing</strong></p><ul><li><p>Compile complete Bills of Materials</p></li><li><p>Provide technical supply chain support for sourcing hardware</p></li><li><p>Work with technicians and test engineers to build initial prototypes</p></li><li><p>Test prototype equipment for verification</p></li></ul></li><li><p><strong>Testing and Validation</strong></p><ul><li><p>Create a test plan and checklist to validate product design targets</p></li><li><p>Support testing execution and characterization of new designs</p></li><li><p>Interpret test results, identify root-cause of issues, and make design recommendations to meet the highest level of reliability and performance</p></li></ul></li><li><p><strong>Integration</strong></p><ul><li><p>Support complete system tests</p></li></ul></li><li><p><strong>Other</strong></p><ul><li><p>Identify workplace hazards and implement safe processes</p></li><li><p>Maintain testing and production equipment where necessary</p></li></ul></li></ul><p></p><p><strong>What we are looking for:</strong></p><ul><li><p>Pursuing a Bachelor’s or Graduate Degree in Mechanical Engineering or similar</p></li><li><p>GPA of 3.0 or higher</p></li><li><p>Hands-on experience assembling mechanical systems</p></li><li><p>Hands-on experience with product testing</p></li><li><p>SolidWorks proficient (or similar)</p></li><li><p>Excellent written and verbal communication</p></li><li><p>Exceptional understanding of fundamentals</p></li><li><p>Action biased, results-driven mentality</p></li><li><p>Willingness to learn quickly</p></li></ul><p></p><p><strong>Nice to Have Experience:</strong></p><ul><li><p>Experience with dynamometer testing</p></li><li><p>Experience with electric motors and/or inverter drives</p></li><li><p>Experience with data processing</p></li></ul><p></p><p><strong>Compensation &amp; Benefits</strong></p><ul><li><p>Salary/Hourly Compensation Range: $23 - $37/hr based on school level &amp; experience</p></li><li><p>Flexible hours (deliverable-based goals)</p></li><li><p>Relocation package</p></li><li><p>Monthly company events</p></li><li><p>Friday Team Lunches</p></li></ul><p></p><p><strong>Why H3X</strong></p><p>Joining H3X means working on hard, meaningful problems with a skunkworks-style team that's laser-focused on building exceptional products. We're deeply vertically integrated and have a very tight design-build-test loop, which lets us move from concept to hardware at unmatched speed. We've gone from idea to shipping product in less than two months.</p><p>We're a small, highly skilled team where everyone carries real responsibility and shares an extreme ownership mentality. We stay focused on the critical path, keep bureaucracy to a minimum, and structure everything around delivering results. You'll learn and grow faster here than you would anywhere else.</p><p>You'll work alongside world-class engineers and builders who are pioneering electric motor technology at scale on some of the coolest programs in the industry, from supersonic aircraft to power generation for AI datacenters. If you want your contributions to be visible and your work to directly shape American reindustrialization, you'll feel at home here.</p><p></p><p><strong>Our Values</strong></p><p><strong>Be Relentless</strong> Never give up, persevere until the job is done. Run toward problems, not away from them. Grit is key.</p><p><strong>Gain insight through humility</strong> Approach every challenge with a learner’s mindset. Stay open to feedback, listen to others, and deepen your understanding through self-awareness. Put your ego aside and seek the truth in every discussion, especially when leading others.</p><p><strong>Distill &amp; Simplify</strong> Eliminate unjustified complexity and simplify wherever possible, whether in requirements, design, or execution. Use first principles thinking to distill every problem to its essence. Less is more.</p><p><strong>Find your flow</strong> Engage fully and work with intention. Find the rhythm and deep focus that lets you do your best work. Discover your Ikigai - where your strengths, passions, and purpose meet and drive your personal fulfillment and team success. That is when the magic happens.</p><p><strong>SEND (Solve, Evolve, Nail It, Deliver)</strong> Devise the best solution with the information at hand, test it, learn from it, and iterate quickly until you nail it. Nothing works perfectly the first time, but you should never hit the same issue twice. Stay laser-focused on solving customer problems and delivering solutions that create real value.</p><p></p><p><strong>Equal Opportunity Employer</strong></p><p>H3X is an equal opportunity-affirmative action employer and considers all qualified applicants for employment based on business needs, job requirements and individual qualifications, without regard to race, color, religion, sex, age, disability, sexual orientation, gender identity or expression, marital status, past or present military service or any other status protected by the laws or regulations in the locations where we operate.</p>",
+    "content_hash": "b2e9b5fd110215e11993ecc490c3020a"
+  }
+}

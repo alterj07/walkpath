@@ -1,0 +1,122 @@
+{
+  "9098d638dcbc": {
+    "id": "9098d638dcbc",
+    "title": "Robotics Engineer Intern - Test & Validation (Fall 2026)",
+    "title_raw": "Robotics Engineer Intern - Test & Validation (Fall 2026)",
+    "company": {
+      "slug": "contoro",
+      "name": "Contoro",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "contoro",
+      "external_id": "cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T17:35:48.287Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.816Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Join Contoro Robotics – Revolutionizing Warehouse Automation with Cutting-Edge Robotics</strong></h3><p>At <strong>Contoro Robotics</strong>, we're on a mission to solve labor challenges through advanced robotic solutions. Headquartered in <strong>Austin, TX</strong>, our fast-growing startup is transforming the supply chain industry with our flagship warehouse automation technology. Our team is made up of top-tier experts in <strong>robotics, AI, and logistics</strong>, working together to push the boundaries of automation.</p><p>We’re looking for <strong>talented and ambitious individuals</strong> to join us on this journey—helping shape the future of robotics while growing alongside a world-class team. If you're passionate about innovation, problem-solving, and making a real-world impact, we want to hear from you!</p><p><strong>Job Title: </strong>Robotics Engineer Intern - Test &amp; Validation (Automation team)</p><p><strong>Location:</strong> Austin, TX<br /><strong>About</strong></p><p>Contoro Robotics is an Austin based startup focused on warehouse automation. We design a state-of-the-art autonomous truck unloading system capable of lifting boxes over 60 lbs. As a Test &amp; Validation Intern, you'll be the person who runs our robots through structured test procedures and reports results that directly inform whether features ship to customer sites. You'll work closely with a senior test engineer who designs the tests and feature owners who triage failures, ensuring our Systems and Automation teams have fast, reliable feedback on every change they make. This is a hands-on role — you will be working with real robots, real boxes, and real test data every day.</p><p><strong>In this role, you will:</strong></p><ul><li><p>Execute predefined test procedures across tiered test levels (from single-box handling to full simulated site conditions)</p></li><li><p>Record and report test results accurately, including logging failure modes, timestamps, and environmental conditions</p></li><li><p>Set up and tear down test environments per documented runbooks (conveyor configurations, box arrangements, sensor calibration checks)</p></li><li><p>Flag test failures and route them to feature owners with supporting data (logs, video, metrics)</p></li><li><p>Maintain test result dashboards so Systems, Automation, and Operations teams have real-time visibility into product readiness</p></li><li><p>Track regression by re-running previously passing tests after code or hardware changes</p></li><li><p>Assist the senior test engineer with test environment maintenance and instrumentation upkeep</p></li><li><p>Document any test setup issues or runbook gaps encountered during execution</p></li></ul><p><strong>You might thrive in this role if you:</strong></p><ul><li><p>Are pursuing a degree in robotics, mechanical engineering, electrical engineering, or a related field</p></li><li><p>Are detail-oriented and comfortable with repetitive, structured tasks that demand precision</p></li><li><p>Can clearly document and communicate what you observed versus what you expected</p></li><li><p>Have basic familiarity with Linux command line and can follow technical runbooks</p></li><li><p>Have exposure to ROS, sensor data, or robotic systems (preferred, not required)</p></li><li><p>Can work on-site at Contoro's office in Austin, TX for the duration of the internship</p></li><li><p>Are available throughout two continuous terms (e.g., Spring + Summer  Summer + Fall)</p></li></ul>",
+    "content_hash": "841a0a37a62de89e0263d7257a02e74c"
+  },
+  "90db4257f0fc": {
+    "id": "90db4257f0fc",
+    "title": "Intern, Power Electronics Engineer, Power Magnetics, Spring 2027",
+    "title_raw": "Intern, Power Electronics Engineer, Power Magnetics, Spring 2027",
+    "company": {
+      "slug": "heron-power",
+      "name": "Heron Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Scotts Valley",
+      "city": "Scotts Valley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heron-power",
+      "external_id": "3960bba4-6f5b-438a-bb84-10e6e370d0b1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-24T05:14:48.320Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.803Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>What to Expect </strong></h3><p>Heron Power is a startup company building cutting-edge power electronics for the 21st-century grid. We aim to debottleneck the growth of electricity generation and consumption with scalable, innovative, and less costly hardware solutions, accelerating the electrification of everything.</p><p>Our first goal is to build better converters (inverters &amp; rectifiers) to connect large-scale renewables, storage, and loads to the grid. Heron’s leadership team is made up of seasoned veterans who have designed and shipped gigawatts of power conversion products over the past decade.</p><p>We understand that no one individual knows everything. We will all learn <em>a lot</em> together and from each other. We strive to build a collaborative, enriching environment conducive to personal, technical, and career growth. You can expect to work in a dynamic and collaborative environment, driven by first principles engineering, solving difficult problems.</p><p></p><h3>Job Overview</h3><p>Heron Power develops advanced power electronics systems to modernize and scale electrical energy infrastructure. As a <strong>Power Magnetics Engineer Intern</strong>, you will support the design, validation, and characterization of magnetic components used in high-efficiency, high-power, and medium-voltage converter systems.</p><p>Magnetic components play a critical role in determining converter performance, efficiency, thermal behavior, and electromagnetic compatibility. In this role, you will work closely with power electronics engineers to validate inductors, transformers, planar magnetics, magnetic current sensors, and EMI filtering components used in high-frequency, resonant, and multi-level converters. You will help characterize magnetic performance, analyze electromagnetic behavior, and correlate experimental measurements with analytical and simulation models.</p><p>This role provides hands-on experience working with real power converter hardware and magnetics, supporting engineering efforts from early prototype evaluation through system-level validation.</p><p></p><h3>How You Will Contribute</h3><ul><li><p><em>Support the validation and characterization of medium-voltage magnetic components including inductors, transformers, planar magnetics, magnetic current sensors, and common-mode chokes</em></p></li><li><p><em>Assist in developing and executing test plans to evaluate magnetic performance, including inductance, loss, saturation, thermal behavior, and insulation integrity</em></p></li><li><p><em>Perform laboratory measurements using oscilloscopes, impedance analyzers, LCR meters, power analyzers, and thermal measurement tools</em></p></li><li><p><em>Analyze switching waveforms to evaluate magnetic performance within power converter systems</em></p></li><li><p><em>Support EMI/EMC validation efforts, including evaluation of common-mode chokes and filtering components</em></p></li><li><p><em>Assist with electromagnetic modeling and FEA simulations to analyze magnetic fields, losses, and parasitic effects</em></p></li><li><p><em>Help evaluate PCB layout and physical implementation to identify parasitic inductance, capacitive coupling, and EMI-related issues</em></p></li><li><p><em>Assist in building, assembling, and modifying prototype magnetic components and test fixtures</em></p></li><li><p><em>Collect, analyze, and document experimental data and compare results with design expectations and simulation models</em></p></li><li><p><em>Collaborate with power electronics, mechanical, and layout engineers to support magnetics integration and performance optimization</em></p></li></ul><p></p><h3><strong>What You Will Bring</strong></h3><p>We have a short list of must-have requirements. We prioritize a strong grip on first principles, hands-on skills, and a sense of initiative.</p><p></p><h3>Must-Have Requirements</h3><ul><li><p><em>Currently pursuing a Bachelor’s, Master’s, or PhD in Electrical Engineering or related field</em></p></li><li><p><em>Strong fundamentals in power electronics, including switching converter operation</em></p></li><li><p><em>Understanding of electromagnetic and magnetic component fundamentals</em></p></li><li><p><em>Familiarity with inductors, transformers, and magnetic materials</em></p></li><li><p><em>Hands-on laboratory experience with oscilloscopes, multimeters, or similar test equipment</em></p></li><li><p><em>Experience with circuit simulation tools such as LTspice, PLECS, or equivalent</em></p></li><li><p><em>Strong analytical and problem-solving skills</em></p></li><li><p><em>Ability to work in a hands-on hardware development environment</em></p></li></ul><h3>Nice-to-Haves</h3><ul><li><p><em>Experience testing or characterizing magnetic components</em></p></li><li><p><em>Familiarity with planar magnetics or PCB-integrated magnetics</em></p></li><li><p><em>Experience with electromagnetic simulation tools such as ANSYS Maxwell, FEMM, or COMSOL</em></p></li><li><p><em>Familiarity with EMI/EMC fundamentals and filtering techniques</em></p></li><li><p><em>Understanding of parasitic inductance, capacitance, and high-frequency effects in power converters</em></p></li><li><p><em>Familiarity with medium-voltage design considerations</em></p></li><li><p><em>Experience working with magnetic core materials such as ferrite, nanocrystalline, amorphous, or powder cores</em></p></li><li><p><em>Understanding of insulation coordination, creepage and clearance, and partial discharge considerations</em></p></li><li><p><em>Experience with laboratory instruments such as impedance analyzers or power analyzers</em></p></li><li><p><em>Familiarity with wide-bandgap devices such as SiC or GaN</em></p></li><li><p><em>Experience with MATLAB or Python for data analysis</em></p></li><li><p><em>Strong interest in power electronics and energy systems</em></p></li></ul><p>If you are passionate about technology and enjoy working in a fast-paced environment, we would love to hear from you. Join us in accelerating the electrification of everything at Heron Power.</p>",
+    "content_hash": "cdf994e408e02e9f082a9fb469df83ba"
+  },
+  "90f92fc04dc3": {
+    "id": "90f92fc04dc3",
+    "title": "Product Operations Engineer Intern",
+    "title_raw": "Product Operations Engineer Intern",
+    "company": {
+      "slug": "happyrobot-inc",
+      "name": "Happyrobot Inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "happyrobot.ai",
+      "external_id": "875c5335-97a5-4408-a9ae-9fdefdd3b768"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T21:27:31.105Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.463Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About HappyRobot</strong></p><p>HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate - they make decisions, take action, and run operations autonomously across voice, email, and enterprise systems. Born in Y Combinator (S23) and backed by a16z and Base10 with over $200M raised, we power critical operations for global enterprises worldwide.</p><p>Our platform is battle-tested in the most demanding environments - where AI has real consequences. We started in logistics, built our own voice stack, models, and orchestration layer from the ground up, and are now bringing that infrastructure to every enterprise that runs the real economy.</p><p><strong>Role Overview</strong></p><p>We are looking for a Product Ops Engineer Intern to build internal applications and AI agents to accelerate operations across product, engineering, deployments, and GTM. We build AI workforces for our customers, and this role is about building them for ourselves. You'll ship real software that people at HappyRobot use every day, with mentorship from a strong engineering team.</p><p>You'll work directly with the CTO and Head of Product, and your users will be your experts across Product, Engineering, Deployments, Go-To-Market, and Operations. Instead of tracking down inefficiencies by hand, you'll build the tools and agents that remove them: cross-functional agentic workflows, data pipelines, integrations, all the way up to autonomous agents that run entire work-streams.</p><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Build internal agents to automate operational work-streams:</strong> Design, deploy, and monitor AI agents that take over recurring work end to end.</p></li><li><p><strong>Build internal applications:</strong> Design, build, and ship apps that streamline how teams work, such as deployment tracking, release and feature-enablement workflows, field feedback intake, and labeling operations management.</p></li><li><p><strong>GTM &amp; Commercial Enablement:</strong> Partner with GTM to drive technical enablement, support Product-Led Sales (PLS) motions, and refine feature pricing structures. You ensure the commercial side understands the technical reality and value of what we are shipping.</p></li></ul><p><strong>Who You Are</strong></p><ul><li><p><strong>A Technical Operator:</strong> You possess a rare mix of technical literacy (you understand APIs, data structures, and engineering constraints) and operational rigor. You don't just identify broken processes; you fix them.</p></li><li><p><strong>User-obsessed:</strong> You enjoy talking to the people who will use your tools, understanding their pain, and iterating until it's actually better.</p></li><li><p><strong>Disciplined and systems-oriented:</strong> You find satisfaction in order. You are the person who creates the documentation, builds the dashboard, and sets up the automation that prevents future fires.</p></li><li><p><strong>A self-starter:</strong> You don't need a perfectly defined path. You need a goal, and you'll figure out the rest.</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>Currently enrolled in a bachelor's or master's program (or recently graduated) in Computer Science, Engineering, Data Science, or a related technical field.</p></li><li><p>Strong analytical &amp; technical aptitude – be able to solve problems with technology.</p></li><li><p>Experience working in a multi-stakeholder environment, specifically interfacing between Engineering and Commercial/Field teams.</p></li><li><p>Ability to balance \"big picture\" strategic work (pricing, analysis) with \"in the weeds\" execution (data labeling coordination for RLHF, deployment coordination).</p></li></ul><p><strong>Why Join Us?</strong></p><ul><li><p>Real ownership of production tools and agents with real users.</p></li><li><p>A view into deployments, GTM, and operations that most engineers never get.</p></li><li><p>Join a world-class team of engineers and builders.</p></li><li><p>Backed by top investors including a16z, Y Combinator, Base10, Prysm Capital and Eurazeo.</p></li><li><p>Ownership and autonomy over projects, and encouragement to ship.</p></li></ul><p><strong>Our Operating Principles</strong></p><p><strong><br /></strong><em><strong>Extreme Ownership</strong></em></p><p>We take full responsibility for our work, outcomes, and team success. No excuses, no blame-shifting — if something needs fixing, we own it and make it better. This means stepping up, even when it’s not “your job.” If a ball is dropped, we pick it up. If a customer is unhappy, we fix it. If a process is broken, we redesign it. We don’t wait for someone else to solve it — we lead with accountability and expect the same from those around us.</p> <p><em><strong>Craftsmanship</strong></em></p><p>Putting care and intention into every task, striving for excellence, and taking deep ownership of the quality and outcome of your work. Craftsmanship means never settling for “just fine.” We sweat the details because details compound. Whether it’s a product feature, an internal doc, or a sales call — we treat it as a reflection of our standards. We aim to deliver jaw-dropping customer experiences by being curious, meticulous, and proud of what we build — even when nobody’s watching.</p> <p><em><strong>We are “majos”<br /></strong></em>Be friendly &amp; have fun with your coworkers. Always be genuine &amp; honest, but kind. “Majo” is our way of saying: be a good human. Be approachable, helpful, and warm. We’re building something ambitious, and it’s easier (and more fun) when we enjoy the ride together. We give feedback with kindness, challenge each other with respect, and celebrate wins together without ego.</p> <p><em><strong>Urgency with Focus<br /></strong></em>Create the highest impact in the shortest amount of time. Move fast, but in the right direction. We operate with speed because time is our most limited resource. But speed without focus is chaos. We prioritize ruthlessly, act decisively, and stay aligned. We aim for high leverage: the biggest results from the simplest, smartest actions. We’re running a high-speed marathon — not a sprint with no strategy.</p> <p><em><strong>Talent Density and Meritocracy<br /></strong></em>Hire only people who can raise the average; ‘exceptional performance is the passing grade.’ Ability trumps seniority. We believe the best teams are built on talent density — every hire should raise the bar. We reward contribution, not titles or tenure. We give ownership to those who earn it, and we all hold each other to a high standard. A-players want to work with other A-players — that’s how we win.</p> <p><em><strong>First-Principles Thinking<br /></strong></em>Strip a problem to physics-level facts, ignore industry dogma, rebuild the solution from scratch. We don’t copy-paste solutions. We go back to basics, ask why things are the way they are, and rebuild from the ground up if needed. This mindset pushes us to innovate, challenge stale assumptions, and move faster than incumbents. It’s how we build what others think is impossible.</p>    <p><em>The personal data provided in your application and during the selection process will be processed by Happyrobot, Inc., acting as Data Controller.</em></p><p><em>By sending us your CV, you consent to the processing of your personal data for the purpose of evaluating and selecting you as a candidate for the position. Your personal data will be treated confidentially and will only be used for the recruitment process of the selected job offer.</em></p><p><em>In relation to the period of conservation of your personal data, these will be eliminated after three months of inactivity in compliance with the GDPR and legislation on the protection of personal data.</em></p><p><em>If you wish to exercise your rights of access, rectification, deletion, portability or opposition in relation to your personal data, you can do so through security@happyrobot.ai subject to the GDPR.</em></p><p><em>For more information, visit</em><em> https://www.happyrobot.ai/privacy-policy</em></p><p><em>By submitting your request, you confirm that you have read and understood this clause and that you agree to the processing of your personal data as described.</em></p>",
+    "content_hash": "647d85688c55d145e8a6ab31ceb1029c"
+  }
+}

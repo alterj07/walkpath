@@ -1,0 +1,127 @@
+{
+  "1a104bdaf821": {
+    "id": "1a104bdaf821",
+    "title": "Power Electronics Design Intern",
+    "title_raw": "Power Electronics Design Intern",
+    "company": {
+      "slug": "amperesand",
+      "name": "Amperesand",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California, United States",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amperesand",
+      "external_id": "4425221009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amperesand/jobs/4425221009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T21:50:57.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:02.618Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Overview  </strong> </p>\n<p>Amperesand is reinventing how the world powers its most critical systems.</p>\n<p>We are facing a once-in-a-generation opportunity for infrastructure disruption. Electricity demand is skyrocketing, driven by AI factories, electric vehicles, and modern industrial growth. Energy supply is shifting to incorporate a more diverse mix of resources – including solar, gas, and batteries – at a massive scale.</p>\n<p>And yet the power infrastructure behind our latest mega-projects hasn’t meaningfully changed in nearly 100 years. Supply chains for today’s infrastructure equipment can’t match the pace and sophistication of critical energy projects. Amperesand is building hardware and software that rewrites this broken power infrastructure playbook to support a new era of energy abundance.</p>\n<p>We’ve built a new class of intelligent, software-defined power infrastructure products leveraging a decade of advanced medium voltage Solid State Transformer research that’s now ready for commercial deployment.</p>\n<p>Our products and solutions go far beyond the capabilities of traditional electrical equipment. We make power systems that are faster to deploy, dramatically smaller and more efficient, and capable of supporting modern, dynamic energy needs for tomorrow’s most demanding energy consumers.</p>\n<p>Scalable in-house advanced manufacturing capability is our foundation for meeting timeline and quality expectation to serve infrastructure customers around the world.</p>\n<p>Amperesand is led by breakthrough energy hardware development veterans and funded by top tier investors who share our vision of building a category-defining energy technology company.</p>\n<p>With hubs in San Francisco, Reno, and Singapore, our global team is laser focused on building foundational technology to solve the most pressing problems in power infrastructure at scale.</p>\n<p>Join us in building the power foundation of the future!</p><p><strong>Role Summary</strong> <br />As a Power Electronics Control Intern, you will contribute to the design, modeling, analysis, and validation of advanced power conversion systems, including AC-DC and DC-DC converters used in low-voltage and medium-voltage applications. This internship provides hands-on exposure to real-world power electronics development, with an emphasis on control systems, system-level behavior, and laboratory validation. You will work closely with experienced power electronics, firmware, and system engineers, contributing through analysis, simulation, implementation support, and experimental evaluation of advanced power converters under technical guidance.</p>\n<p><strong>Responsibilities: </strong></p>\n<ul>\n<li>Assist in modeling and analysis of power converters and control loops using control-oriented <br />techniques. </li>\n</ul>\n<ul>\n<li>Support development and evaluation of control strategies for AC-DC and DC-DC power converters. </li>\n</ul>\n<ul>\n<li>Help characterize system behavior, including stability, transient response, and operating limits. </li>\n</ul>\n<ul>\n<li>Participate in laboratory testing, debugging, and validation of power electronics hardware. </li>\n</ul>\n<ul>\n<li>Support data collection, analysis, and documentation of experimental results. </li>\n</ul>\n<ul>\n<li>Collaborate with hardware, firmware, and system engineers on power electronics <br />development tasks. </li>\n</ul>\n<ul>\n<li>Contribute to simulation and modeling activities using industry-standard tools. </li>\n</ul>\n<ul>\n<li>Follow safe laboratory practices when working with high-voltage and high-power systems. </li>\n</ul>\n<p><strong>Qualifications:</strong> </p>\n<ul>\n<li>Currently pursuing a Bachelor’s, Master’s, or PhD degree in Electrical Engineering or a closely related field. </li>\n</ul>\n<ul>\n<li>Academic coursework or project experience in power electronics, control systems, or related areas. </li>\n</ul>\n<ul>\n<li>Basic understanding of power converter operation and control concepts. </li>\n</ul>\n<ul>\n<li>Familiarity with control fundamentals such as feedback, stability, and transient response. </li>\n</ul>\n<ul>\n<li>Ability to analyze technical problems and learn new concepts quickly. </li>\n</ul>\n<ul>\n<li>Willingness to work hands-on in a laboratory environment under supervision. </li>\n</ul>\n<p><strong>Bonus Qualifications: </strong> </p>\n<ul>\n<li>Coursework or project experience involving power electronics converters or control systems. </li>\n</ul>\n<ul>\n<li>Exposure to modeling and simulation tools such as MATLAB/Simulink, PLECS, or PSIM. </li>\n</ul>\n<ul>\n<li>Basic programming experience in C/C++, Python, or MATLAB. </li>\n</ul>\n<ul>\n<li>Familiarity with laboratory instrumentation such as oscilloscopes and power supplies. </li>\n</ul>\n<ul>\n<li>Interest in advanced power conversion systems (e.g., medium-voltage, multilevel, or SST architectures). <br /> </li>\n</ul>\n<p><strong>What You Will Learn:</strong> </p>\n<ul>\n<li>Practical control-oriented modeling and analysis of power converters </li>\n</ul>\n<ul>\n<li>Hands-on experience validating control concepts on real hardware. </li>\n</ul>\n<ul>\n<li>Exposure to AC-DC and DC-DC converter architectures across LV and MV systems. </li>\n</ul>\n<ul>\n<li>How control, hardware, and firmware interact in real-world power electronics systems. </li>\n</ul>\n<ul>\n<li>Industry best practices for testing, debugging, and documentation</li>\n</ul>\n\n\n\n\n\n<p><strong>Please note</strong>: This role requires working on-site 5 days a week. We do not offer hybrid or remote options. </p>\n\n\n\n\n<p><strong><em>Candidate Confidentiality &amp; Information Protection</em></strong> </p>\n<p><em>As part of our commitment to protecting confidential and proprietary information, candidates should not disclose or provide Amperesand with any confidential, proprietary, or trade secret information belonging to a current or former employer or any other third party during the application or interview process.</em> </p>\n<p><em>Please do not submit or present employer-owned source code, schematics, designs, technical documentation, internal presentations, customer information, prototypes, or other confidential materials. Candidates should discuss their experience and accomplishments at an appropriate level and use only information and materials they are authorized to share.</em> </p>\n<p><strong><em>Pay Disclosure &amp; Benefits</em></strong></p>\n<p><em>Compensation will be determined based on experience, location, and other factors permitted by law. </em> </p>\n<p>The benefits outlined below apply exclusively to employees located in the United States.</p>\n<ul>\n<li>Competitive Salary + Incentive Stock Options  </li>\n</ul>\n<ul>\n<li>Medical, vision, and dental benefits for employees and their dependents, effective from the start of hire </li>\n</ul>\n<ul>\n<li>Company paid Basic Life, AD&amp;D, short-term and long-term disability insurance </li>\n</ul>\n<ul>\n<li>401k retirement savings plan through Empower </li>\n</ul>\n<ul>\n<li>Employees receive paid time off (PTO), paid sick days, and paid company holidays  </li>\n</ul>\n<ul>\n<li>Commuter Benefits  </li>\n</ul>\n<ul>\n<li>100% paid maternal leave (12 weeks) and paternal leave (6 weeks) </li>\n</ul>\n<p>Singapore-based employees receive benefits in accordance with local government provisions.</p>\n<p><strong><em>Equal Employment Opportunity</em> </strong></p>\n<p><em>Amperesand is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.</em> </p>\n<p><em>Amperesand is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.</em> </p>",
+    "content_hash": "493282df5a5350d694b0c42181af425d"
+  },
+  "1a15e14e7a19": {
+    "id": "1a15e14e7a19",
+    "title": "Cloud Operations Co-op 2027",
+    "title_raw": "Cloud Operations Co-op 2027",
+    "company": {
+      "slug": "megazonecloud",
+      "name": "MegazoneCloud",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Rochester, NY",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "megazone",
+      "external_id": "1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-18T19:04:04.378Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.399Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 24,
+      "max": 26,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>What we do</strong></p><p>Megazone US is a cloud Managed Service Provider. Companies hand us the cloud environments that run their business — applications, databases, networks — and we keep them running, secure and affordable across AWS, Azure and Google Cloud. In practice that means: monitoring customer systems 24x7 and responding to alerts; patching, backups and tested restores; reviewing accounts against security baselines and supporting audits such as SOC 2; analysing cloud bills and cutting waste (FinOps); automating repetitive work with scripts and infrastructure-as-code; and explaining all of it clearly to the customer. Our parent company is Korean and our customers are global, so you also see how a real follow-the-sun operation runs.</p><p><strong>What you would do</strong></p><ul><li><p>Work a real ticket queue alongside a mentor engineer — access requests, monitoring changes, inventory and tagging clean-up — owned end to end.</p></li><li><p>Run scheduled health checks, patching windows and backup verification with an engineer.</p></li><li><p>Pull cloud cost and usage reports and flag waste; help build the savings case.</p></li><li><p>Write and improve runbooks and knowledge-base articles the whole team uses.</p></li><li><p>Build one automation — a script or dashboard — that removes a recurring manual task.</p></li><li><p>Second-block co-ops go further: incident response, migration support, and Terraform contributions under review.</p></li></ul><p><strong>What we will teach you</strong></p><ul><li><p><strong>Cloud platforms: </strong>core AWS services (EC2, S3, IAM, VPC, RDS, CloudWatch) and their Azure and Google Cloud equivalents; how enterprise cloud is really organised — many accounts, landing zones and guardrails.</p></li><li><p><strong>Operations: </strong>Linux and Windows administration, monitoring and alerting with Datadog and CloudWatch, incident and change management in Jira Service Management, backup and disaster recovery.</p></li><li><p><strong>Automation: </strong>Python or Bash against cloud APIs, Terraform, Git and code review, an introduction to containers and Kubernetes.</p></li><li><p><strong>Security and cost: </strong>least-privilege access, cloud security baselines, what a SOC 2 audit asks for, and how to read and reduce a cloud bill.</p></li><li><p><strong>Professional: </strong>writing updates a customer will read, running a handover, and working with colleagues in other countries.</p></li><li><p><strong>Certification: </strong>we pay the exam fee and give study time for AWS Cloud Practitioner — and Solutions Architect Associate for a strong second block. Most co-ops leave certified.</p></li></ul><p><strong>Who we are looking for</strong></p><ul><li><p><strong>Required: </strong>enrolled in Computing &amp; Information Technologies, Information Sciences, Computer Science, Computer Engineering, Cybersecurity, Networking &amp; Systems Administration, Software Engineering, MIS or similar; at least one year of study completed, including coursework in programming, networking, operating systems or databases; comfortable at a command line and willing to learn Linux; clear written English; dependable and detail-oriented — in operations, following the procedure and recording what you did matters more than being clever; willing to ask for help early rather than guess on a production system.</p></li><li><p><strong>Helpful, not required: </strong>any hands-on cloud exposure at all, including a free-tier account or a class lab; scripting in Python, Bash or PowerShell; a home lab, help-desk job or anything you kept running for someone else; AWS Cloud Practitioner or CompTIA; Korean language ability.</p></li></ul><p><strong>Working pattern</strong></p><ul><li><p>Full time during the block, standard business hours in your office’s time zone. Laptop and tooling provided.</p></li><li><p>Occasional evening or early-morning work for maintenance windows and calls with our Korean colleagues — planned in advance, infrequent, never overnight. Co-ops are not on the on-call rotation and travel is not expected.</p></li><li><p>Onsite or hybrid so you sit near your mentor. Strong co-ops are offered a returning block and are our first pipeline for full-time Cloud Operations Engineer roles.</p></li></ul><p></p><p><strong>For faculty and career services</strong></p><p>Work is supervised and mapped to a learning plan agreed at the start of the block, with a named mentor, a mid-block check-in and an end-of-block evaluation. We are happy to complete institution-specific reporting.</p><p>One or two consecutive blocks, flexible on start and end dates around the academic calendar. We are also glad to send an engineer to speak to a class or student chapter.</p><p></p><p>Megazone US is an equal opportunity employer and considers all qualified applicants without regard to any characteristic protected by law; accommodations are available on request. Pay ranges are good-faith ranges for these locations, subject to final confirmation by Megazone US HR.</p> <h3><strong>Why You'll Love It Here</strong></h3><ul><li><p><strong>Our Product is Our People:</strong> We live by this. We invest in people who invest in themselves. Your growth is our growth.</p></li><li><p><strong>True Servant Leadership:</strong> Our CTO leads with a \"force multiplier\" philosophy. Management is here to empower you and clear roadblocks, not to micromanage. We won't ask you to do anything we're not willing to do ourselves.</p></li><li><p><strong>Flat Organization, Real Impact:</strong> Your voice and designs will directly shape our technical roadmap and our clients' success. You'll work on the latest tech to solve real problems.</p></li><li><p><strong>A \"Learn-from-it\" Culture:</strong> We're moving fast and building new things. We believe mistakes are learning opportunities, not failures.</p></li></ul><p>We seek diverse talent who are ready to make an immediate impact. We believe that innovation thrives when teams are built with a variety of backgrounds, experiences, and perspectives. If you are excited by this mission, we encourage you to apply, even if your experience doesn't perfectly match every qualification listed.</p><p><strong>Megazone Cloud is an Equal Opportunity Employer and participates in E-Verify to confirm the employment eligibility of all new hires.</strong> </p>",
+    "content_hash": "b600fd360dc1e47136199639c9fb9eeb"
+  },
+  "1aa06522ade6": {
+    "id": "1aa06522ade6",
+    "title": "ML Researcher (Internship and Full-time)",
+    "title_raw": "ML Researcher (Internship and Full-time)",
+    "company": {
+      "slug": "tilde-research",
+      "name": "Tilde Research",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tilderesearch",
+      "external_id": "e850d5b0-a5d6-4b9c-9898-f7addb441508"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-07-14T19:00:37.725Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.098Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Tilde Research is a moonshot AI lab advancing mechanistic interpretability, new architectures, and pretraining science. We build foundational understanding of models to advance the frontier of intelligence.</strong></p><p><br /><strong>About the role:</strong></p><p>As a ML Researcher, you will develop innovative techniques to deeply understand how large AI models work—and use those insights to make them better. You'll work on training, analyzing, and evaluating cutting-edge models, collaborating closely with a team of researchers and engineers to advance interpretability as a tool for improving performance and control.</p><p></p><p><strong>What you might work on:</strong></p><ul><li><p>Designing, prototyping, and optimizing novel model architectures</p></li><li><p>Investigating why models or specific components behave the way they do—and how to improve them</p></li><li><p>Curating targeted datasets to elicit and instill specific behaviors or capabilities in models</p></li><li><p>Collaborating on papers, blog posts, and open-source tools to share insights with the broader community</p></li></ul><p></p><p><strong>You're a good fit if you:</strong></p><ul><li><p>Have experience in deep learning or related research areas</p></li><li><p>Have deep technical expertise in some subfield(s) of modern ML, e.g. architecture, optimizers, RL, learning dynamics, etc.. This can include through:</p><ul><li><p>Strong publication record</p></li><li><p>Thoughtful technical blog posts</p></li></ul></li><li><p>Have experience working with large-scale pre/post-training infrastructure for experimentation</p></li><li><p>Communicate clearly and effectively, both verbally and in writing</p></li><li><p>Can come up with and evaluate research ideas</p></li><li><p>Are able to learn quickly</p></li></ul>",
+    "content_hash": "b05d6d7a6815904b3749a4113e3c1ef2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "0278a0d4c0f8": {
+    "id": "0278a0d4c0f8",
+    "title": "Software Engineer - New Grad",
+    "title_raw": "Software Engineer - New Grad (2027)",
+    "company": {
+      "slug": "replit",
+      "name": "Replit",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Foster City, CA",
+      "city": "Foster City",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "replit",
+      "external_id": "b5e81eae-06f9-4798-8988-2d06ca936dbc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T18:23:24.396Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.795Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 140000,
+      "max": 180000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.</p><p><strong>About the role:</strong></p><p>As a New Grad Software Engineer, you'll join a team of exceptional builders working on products that are reshaping how the world creates software. You'll have the opportunity to work on everything from our AI-powered development platform to the distributed systems that enable real-time collaboration for millions of developers.</p><p></p><p>This is a chance to define your career while defining the future of software development. You'll work on problems that matter, with the autonomy to drive solutions and the support to grow into a technical leader.</p><p></p><p><strong>What you will build:</strong></p><ul><li><p><strong>Product features </strong>that delight users and make it possible for anybody to create software</p></li><li><p><strong>AI coding agent</strong> that understands intent and generates production-ready applications</p></li><li><p><strong>Cloud infrastructure</strong> that provides instant, powerful development environments at global scale</p></li><li><p><strong>Platform features</strong> that enable one click deployments and scale to millions of users</p></li></ul><p></p><p><strong>Required skills and experience:</strong></p><ul><li><p>Recent graduate (2027) with a degree in Computer Science, Computer Engineering, or related field</p></li><li><p>Strong programming skills in a modern language (JavaScript/TypeScript, Python, Go, Rust)</p></li><li><p>Full-stack capabilities with experience in React, Node.js, and database technologies</p></li><li><p>Growth orientation - eager to learn new technologies and take on increasing responsibility</p></li><li><p>Collaborative spirit - you work well in cross-functional teams and value diverse perspectives</p></li></ul><p></p><p><strong>What we value</strong>:</p><ul><li><p>Problem-solving mindset: Ability to approach complex operational challenges systematically and devise effective solutions</p></li><li><p>Self-directed and autonomous: Capable of working independently while collaborating effectively with cross-functional teams</p></li><li><p>Strong communication skills: Ability to explain complex technical concepts to both technical and non-technical audiences</p></li><li><p>Continuous learning: Passion for staying current with industry best practices and new technologies</p></li><li><p>Focus on automation: Strong belief in automating repetitive tasks and building self-healing systems</p></li></ul><p><em>Show us something you've built. Replit, GitHub, a live URL, your call. We're looking for builders who pair strong fundamentals with a genuine instinct for working alongside AI agents. Have you used Replit before? If you have, please share something you have built! </em></p><p></p><p><em>This is a full-time role that can be held from our Foster City, CA office. The hybrid role has an in-office requirement of Monday, Wednesday, and Friday</em></p><p></p><p><strong>Full-Time Employee Benefits Include:</strong></p><p>💰 Competitive Salary &amp; Equity</p><p>💹 401(k) Program with a 4% match (<em>US Only</em>)</p><p>⚕️ Health, Dental, Vision and Life Insurance</p><p>🩼 Short Term and Long Term Disability</p><p>🚼 Paid Parental, Medical, Caregiver Leave</p><p>🏝 Flexible Time Off (FTO) + Holidays</p><p>🚗 Commuter Benefits  (<em>In-Office &amp; US Only</em>)</p><p>📱 Monthly Wellness Stipend</p><p>🧑‍💻 Autonomous Work Environment</p><p>🖥 In Office Set-Up Reimbursement (<em>In-Office Only</em>)</p><p>🚀 Quarterly Team Gatherings</p><p>☕ In Office Amenities (<em>In-Office Only</em>)</p><p></p><p><strong>Want to learn more about what we are up to?</strong></p><ul><li><p>Self-driving Company</p></li><li><p>Replit Agent at Scale</p></li><li><p>AI Adoption</p></li><li><p>Build Open-Source Apps</p> </li></ul><p><strong>Interviewing + Culture at Replit</strong></p><ul><li><p>Operating Principles</p></li><li><p>Reasons not to work at Replit</p></li></ul><p></p><p>To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.</p>",
+    "content_hash": "c2fcaee2e955b13277e1eea206b83165"
+  }
+}

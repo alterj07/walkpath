@@ -1,0 +1,42 @@
+{
+  "0f2cc46023f7": {
+    "id": "0f2cc46023f7",
+    "title": "Fullstack Engineer, Product Team (New Grad)",
+    "title_raw": "Fullstack Engineer, Product Team (New Grad)",
+    "company": {
+      "slug": "composio",
+      "name": "Composio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "sf",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "composio",
+      "external_id": "01e0e7ad-44a2-44e8-9340-64ca70eff491"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T03:24:53.571Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.553Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Composio, we are building infrastructure that allows agents to communicate with the tools you use for work including Github, Gmail, Notion, Salesforce, etc. We are a lean team of engineers wrangling problems from context to search, that help us provide the most capable bridge between your agents and your tools.</p> <p>We raised a $25M Series A from Lightspeed with some incredible angels like Guillermo Rauch (CEO of Vercel), Dharmesh Shah (CTO of Hubspot), Gokul Rajaram. Beginning of this year we 3x our ARR with customers like Google, AWS, Mercor, Mintlify, Glean and Emergent.</p> <h3></h3><h3><strong>What you'll do?</strong></h3><ul><li><p>elevate the experience of teams building on us and integrating us into their daily lives, by improving our developer (\"Composio Platform\") https://dashboard.composio.dev/~/org and consumer (\"Composio For You\") https://dashboard.composio.dev/~/org/connect web experiences</p></li></ul><ul><li><p>deliver elegant interfaces both on the frontend and sdk</p></li><li><p>work closely with customers to win their hearts, improving the product in the process</p></li><li><p>writing crisp articulate docs</p></li></ul> <h3><strong>\"Must haves\"</strong></h3><p><em>if you are very good, nothing is a must per-se</em></p><ul><li><p><strong>core product engineering</strong></p><ul><li><p>you have built full-stack projects from scratch, taking them zero to one</p></li><li><p>you care deeply about the craft of the product you are building</p></li><li><p>you are able to hold many different persona at contention while delivering delightful experiences for them</p></li></ul></li><li><p><strong>ai native</strong></p><ul><li><p>you have built with the language models</p></li><li><p>you have built for the language models</p></li></ul></li><li><p><strong>taste</strong><strong> </strong>— you have that \"finger feel\" what makes a good product.</p></li><li><p><strong>typist</strong> — you can write docs well and explain complex ideas clearly</p></li><li><p><strong>human </strong>— you build trust and admit what you don’t know</p></li></ul> <h3><strong>Bonus</strong></h3><ul><li><p>proficient in Typescript, React, Tailwind, Next.js</p></li><li><p>started companies or built large side projects or won hackathons</p></li></ul>",
+    "content_hash": "c2fe80f77aee21db2ab93b1706bd233c"
+  }
+}

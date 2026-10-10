@@ -1,0 +1,42 @@
+{
+  "5334c50dbb8c": {
+    "id": "5334c50dbb8c",
+    "title": "Working Student - Mechatronics Assembly Technician (20 hrs)",
+    "title_raw": "Working Student - Mechatronics Assembly Technician (20 hrs)",
+    "company": {
+      "slug": "sensmore",
+      "name": "Sensmore",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Potsdam Office",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "sensmore",
+      "external_id": "be4ff26b-0cb4-4a98-99b0-b68240908713"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/sensmore/be4ff26b-0cb4-4a98-99b0-b68240908713/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T07:23:58.155Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.097Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>sensmore is a Berlin/Potsdam-based robotics startup delivering production-proven automation for industries where the world’s raw materials are extracted, moved, and processed. Its automation system transforms heavy machines into intelligent, automated robots powered by Physical AI and vertically integrates them into the full production environment: from the machine and safety infrastructure to network infrastructure, site processes, and operational interfaces. </p><p>Co-developed with customers, sensmore is backed by Point Nine Capital, leading industry investors, the State of Brandenburg, and the European Union.</p><p>As our Working Student – Mechatronics Assembly Technician, you’ll be at the forefront of assembling advanced sensor boxes that integrate sensors, compute units, communication hardware, power systems, and more. Your craftsmanship will set the standard for durability, reliability, and field-ready performance.<br /></p><h3><strong>Responsibilities</strong></h3><p><strong>Assembly Mastery:</strong><br />Take ownership of building robust sensor boxes that integrate sophisticated electronics and mechanical systems designed for demanding environments. Apply best-practice assembly methods to ensure long-term stability and ruggedness.</p><p><strong>Quality Assurance:</strong><br />Implement, document, and refine quality processes to ensure each assembled unit meets rigorous functional and mechanical standards. Help shape continuous improvement loops across design, assembly, and testing.</p><p><strong>Prototyping &amp; CAD Support:</strong><br />Contribute to mechanical prototypes using CAD tools, 3D printing, and basic CNC machining. Assist the hardware team with rapid design iterations, enclosure improvements, and manufacturability feedback.</p><p><strong>Future Growth:</strong><br />Grow into a role where you coordinate and oversee external assembly work with trusted suppliers. Work closely with the hardware and supply chain teams to maintain high quality, streamline processes, and scale production.</p><p></p><h3><strong>What You Bring</strong></h3><ul><li><p>Currently enrolled in Mechatronics, Mechanical Engineering, Electrical Engineering, or a related field.</p></li><li><p>Hands-on experience with mechanical or hardware assembly, with an eye for durability, precision, and build quality.</p></li><li><p>Basic experience with CAD modeling (e.g., SolidWorks, Fusion 360, CATIA, or similar).</p></li><li><p>Practical skills in prototyping, including 3D printing, laser cutting, or CNC machining.</p></li><li><p>Understanding of sensor systems, communication equipment, or embedded electronics is a plus.</p></li><li><p>Strong teamwork and communication skills, with a desire to contribute to a fast-moving hardware development environment.</p></li></ul><h3><strong>What We Offer:</strong></h3><ul><li><p>Build physical AI for the world's largest off-highway machinery – making them intelligent, safe, and ready for every tough task</p></li><li><p>Join the pioneer in intelligent robotics backed by Point Nine &amp; other Tier 1 investors</p></li><li><p>Combine cutting-edge robotics research in end-to-end learning &amp; Vision Language Action Model with real-world heavy mobile equipment</p></li><li><p>Tailor your own career path, whether you like to become technical specialist or technical team lead</p></li><li><p>Experience a great team culture, beverages, and an amazing office environment</p></li></ul><h3><br /><strong>Benefits:</strong></h3><ul><li><p>Attractive compensation package and stock options.</p></li><li><p>Beverages on-site and regular social events.</p></li><li><p>Engage with top-tier researchers, engineers, and thought leaders.</p></li><li><p>Influence the future of robotic technologies and tackle significant technological challenges.</p></li><li><p>Assistance with relocation to Berlin.</p></li></ul><h3><br /><strong>About Us:</strong></h3><p>Heavy machinery, light years ahead.</p><p>sensmore automates the world's largest machines with unprecedented intelligence. Our proprietary Physical AI enables heavy machines such as wheel loaders to instantly adapt to dynamic environments and execute new tasks without prior training.</p><p>We integrate cutting-edge robotics into a platform powering intelligence and automation products - transforming productivity and safety for customers in mining, construction, and adjacent industries today.</p><p>We are proudly backed by Point Nine and other Tier 1 investors.</p>",
+    "content_hash": "eeac679e6250788252825b785b64e838"
+  }
+}

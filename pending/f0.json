@@ -1,0 +1,42 @@
+{
+  "f0db21fd14bd": {
+    "id": "f0db21fd14bd",
+    "title": "Robot Operator Internship (Part-Time)",
+    "title_raw": "Robot Operator Internship (Part-Time)",
+    "company": {
+      "slug": "pivot-robotics",
+      "name": "Pivot Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New Boston, Ohio, USA",
+      "city": "New Boston",
+      "state": "OH",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "pivotrobotics",
+      "external_id": "5b7e7074-aace-4b9a-9db8-245c8ad66a69"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-20T12:29:27.190Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.998Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Pivot Robotics</strong><br />Pivot Robotics builds AI-powered robotic systems that automate grinding and finishing processes in manufacturing. Our robots are currently deployed in production environments, and we are expanding on-site monitoring support to improve reliability, collect feedback, and support daily operation.</p><p><strong>Role Overview</strong><br />We are seeking a Shawnee State student to serve as an on-site Robot Operations Monitor at the OSCO manufacturing facility. This is a part-time position ideal for students interested in robotics, manufacturing, or engineering operations.</p><p>The role involves sitting near the deployed robotic cell during production runs, observing system behavior, documenting events, and communicating with the Pivot engineering team when issues arise.</p><p>This is <strong>not</strong> a heavy technical role. The most important qualities are reliability, attention to detail, and strong communication.</p><p><strong>Responsibilities</strong></p><ul><li><p>Be present near the Pivot robotic cell during scheduled production runs</p></li><li><p>Observe robot operation and note any interruptions, faults, or unusual behavior</p></li><li><p>Record timestamps and short descriptions of events (stops, resets, operator interventions, etc.)</p></li><li><p>Notify the Pivot team via Slack/text when predefined issues occur</p></li><li><p>Provide simple daily summaries of how the system performed</p></li><li><p>Help coordinate basic restart procedures if instructed by Pivot remotely</p></li><li><p>Serve as Pivot’s on-site point of contact during monitored shifts</p></li></ul><p><strong>Ideal Candidate</strong></p><ul><li><p>Current student at Shawnee State University</p></li><li><p>Reliable and punctual</p></li><li><p>Comfortable spending extended periods monitoring equipment</p></li><li><p>Strong written and verbal communication</p></li><li><p>Detail-oriented and organized</p></li><li><p>Interest in robotics, engineering, manufacturing, or industrial technology is a plus</p></li><li><p>No prior robotics experience required</p></li></ul><p><strong>Schedule</strong></p><ul><li><p>Part-time, flexible around class schedules</p></li><li><p>Shifts coordinated based on OSCO production runs</p></li><li><p>Some shifts may involve multi-hour monitoring blocks</p></li></ul><p><strong>Location</strong></p><ul><li><p>OSCO Industries facility (local to Shawnee State area)</p></li></ul><p><strong>What Students Gain</strong></p><ul><li><p>Exposure to real industrial robotics deployed in production</p></li><li><p>Direct interaction with a startup robotics engineering team</p></li><li><p>Experience documenting real-world system performance</p></li><li><p>Opportunity to build hands-on manufacturing / automation experience</p></li></ul>",
+    "content_hash": "92096e9e3041facc8a495c7da6278d74"
+  }
+}

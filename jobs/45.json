@@ -1,0 +1,299 @@
+{
+  "450a25bfcf47": {
+    "id": "450a25bfcf47",
+    "title": "Medical Scribe Intern, Clinical AI Safety & Evaluation",
+    "title_raw": "Medical Scribe Intern, Clinical AI Safety & Evaluation",
+    "company": {
+      "slug": "qualified-health",
+      "name": "Qualified Health",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto - Hybrid",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "qualified-health-pbc",
+      "external_id": "4964d004-a597-4013-aea7-8dece8035f10"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-27T22:56:48.929Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.032Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 40,
+      "max": 40,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Transform healthcare with us.</strong></p><p>At Qualified Health, we're redefining what's possible with Generative AI in healthcare. Our infrastructure provides the guardrails for safe AI governance, healthcare-specific agent creation, and real-time algorithm monitoring—working alongside leading health systems to drive real change.</p><p>This is more than just a job. It's an opportunity to build the future of AI in healthcare, solve complex challenges, and make a lasting impact on patient care. If you're ambitious, innovative, and ready to move fast, we'd love to have you on board.</p><p>Join us in shaping the future of healthcare.</p><p></p><p><strong>Job Summary:</strong></p><p>Qualified Health is seeking a Medical Scribe Intern to join the clinical team responsible for reviewing, evaluating, and labeling the outputs of our GenAI products. Working alongside our physicians, you will compare AI-generated clinical content against defined gold standards, and label the data that trains and evaluates our models.</p><p>The ideal candidate has worked as a medical scribe, or brings comparable clinical education or professional experience, and is fluent in medical terminology and clinical documentation. This is a paid, hourly internship. The work is structured and detail-intensive, and the quality of our product depends on it being done carefully. You will be trained and mentored directly by our physicians, who bring their clinical perspective to building products. Our physicians will review your work and give you direct feedback on it, and your input will shape how this function is built as it grows.</p><p>This role is not patient-facing and does not accrue clinical contact hours. What it offers instead is a close look at how clinical AI is evaluated for safety before it reaches patient care. It is a chance to learn how these tools are tested and improved, and to see firsthand how they are starting to change the way care is delivered.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Complete structured quality assurance, evaluation, and labeling tasks on GenAI outputs, following detailed written task instructions</p></li><li><p>Review AI-generated clinical content for accuracy, completeness, and adherence to defined criteria, documenting your reasoning clearly and consistently</p></li><li><p>Apply consistent judgment across a high volume of work without drifting from the rubric</p></li><li><p>Bring questions and blockers to the physician overseeing the work as they come up</p></li><li><p>Handle protected health information in accordance with HIPAA and our clinical safety and privacy standards</p></li></ul><p></p><p><strong>Required Qualifications:</strong></p><ul><li><p>3+ months of experience as a medical scribe, or comparable medical educational or professional experience (for example: nursing, PA, or pre-med student; EMT, CNA, or medical assistant)</p></li><li><p>Working fluency in medical terminology and clinical documentation, and an understanding of how care is recorded in the chart</p></li><li><p>Exceptional attention to detail, and the ability to explain your reasoning clearly in writing</p></li><li><p>Reliable, consistent availability of 20–40 hours per week (full time preferred) across a 6 month commitment</p></li><li><p>Able to work onsite in Palo Alto 3 days/week</p></li></ul><p></p><p><strong>Desirable Skills and Experience:</strong></p><ul><li><p>Familiarity with EHR systems (Epic, Cerner) and clinical documentation workflows</p></li><li><p>Experience with chart abstraction, data labeling or annotation, quality improvement, or clinical research</p></li><li><p>Interest in AI/ML in healthcare and in how clinical AI is evaluated for safety and accuracy</p></li></ul><p></p><p><strong>Why Join Qualified Health?</strong></p><p>You will be mentored by our physicians, who bring their clinical training to building products that change how care is delivered. You will sit with the clinical team, your findings will influence what ships, and there is opportunity to extend beyond the initial 6 months. Our physicians are glad to write letters of recommendation for interns they've worked closely with.</p><p>This is an opportunity to join a fast-growing company and a world-class team that is poised to change the healthcare industry. We are a passionate, mission-driven team that is building a category-defining product, and we are backed by premier investors.</p><p>Our employees are integral to achieving our goals, so we are proud to offer competitive pay, flexible working hours, hybrid work options, and an inclusive environment that fosters creativity and innovation.</p><p></p><p><strong>Our Commitment to Diversity</strong></p><p>Qualified Health is an equal opportunity employer. We believe that a diverse and inclusive workplace is essential to our success, and we are committed to building a team that reflects the world we live in. We encourage applications from all qualified individuals, regardless of race, color, religion, gender, sexual orientation, gender identity or expression, age, national origin, marital status, disability, or veteran status.</p><p></p><p><strong>Pay &amp; Details:</strong></p><p>This is a paid, hourly internship beginning in September 2026, at $40.00 per hour. The role runs for 6 months at 20–40 hours per week, with full time preferred, and may be extended based on performance and team needs.</p><p></p><p>Join our mission to revolutionize healthcare with AI. To apply, please send your resume through the application below.</p>",
+    "content_hash": "5ada5d705424b1c87ade9c75a420430e"
+  },
+  "451eb98c7d1a": {
+    "id": "451eb98c7d1a",
+    "title": "Software Engineer - Intern",
+    "title_raw": "Software Engineer - Intern",
+    "company": {
+      "slug": "realm",
+      "name": "Realm",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "realmalliance",
+      "external_id": "a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-26T16:12:00.320Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.423Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Company Overview</h3><p>Realm builds AI for the mining industry. We integrate with existing mine infrastructure — cameras, SCADA systems, drones, and data repositories — to predict equipment failures, detect unsafe behaviors, and optimize operations. Our platform deploys intelligence in various ways to improve productivity and safety — monitoring PPE compliance via computer vision, optimizing froth flotation processes, analyzing longwall shearer performance, tracking MSHA citation patterns, and more.</p><p>Our founders started their careers at Palantir before going on to build Blend Labs (publicly traded fintech, founded as CTO) and Even (acquired by Walmart). Our leadership team brings experience from Uber, Metropolis, and other high-bar organizations. We're a small, senior team that ships daily to production mines.</p><p>AI isn't just our product — it's how we build. We're an AI-first engineering team that uses the latest models and tooling throughout our development process, moving faster and at higher quality than traditional teams our size.</p><p>Our culture values high agency, deep ownership, collaboration, and autonomy across a fully remote workforce. Teams here move quickly and make meaningful contributions to a product that shapes global industrial outcomes.</p><h3>What You'll Do</h3><p>As an intern at Realm, you'll work alongside full-time engineers on real features that run at active mine sites - not toy projects or internal tooling.</p><ul><li><p>Contribute to our TypeScript backend serving real-time mining operations data</p></li><li><p>Build and ship features end-to-end</p></li><li><p>Work on applied AI features using LLMs (Claude, GPT, Gemini) for intelligent analysis and automation</p></li><li><p>Contribute to computer vision pipelines leveraging LLMs and services like AWS Rekognition and TensorFlow</p></li><li><p>Deploy code to production via Kubernetes with CI/CD</p></li><li><p>Interact directly with users and translate real-world operational challenges into features</p></li><li><p>Work closely with our CEO -- former CTO and Cofounder of Blend Labs -- and a senior engineering team invested in your growth</p></li></ul><p></p><h3>What We're Looking For</h3><p><em>Must-Have Qualifications</em></p><ul><li><p>Currently a Junior or Senior pursuing a BS in Computer Science or a related field</p></li><li><p>Strong CS fundamentals - data structures, algorithms, and system design</p></li><li><p>Proficiency with agentic coding tools (Claude Code, Codex, or Cursor)</p></li><li><p>Comfort working across the stack, you don't need to be an expert in everything, but you're willing to figure things out</p></li></ul><p><em>Nice-to-Have Qualifications</em></p><ul><li><p>Prior internship or project experience in a production codebase</p></li><li><p>TypeScript experience</p></li><li><p>AI or computer vision experience</p></li></ul><h3></h3><h3>Interview Process</h3><ol><li><p>Engineering quiz (async, ~60 min) — 8-question code reading and analysis assessment. No trick questions — we're testing how you think about real code.</p></li><li><p>Live coding interviews — Algorithmic problem solving and a simulated development task.</p></li><li><p>Behavioral interview with senior leadership — Culture fit, working style, and past experience.</p></li></ol><p></p><h3>Why Realm?</h3><ul><li><p>Work on mission-critical problems at the intersection of AI, security, and global infrastructure</p></li><li><p>Competitive paid internship compensation</p></li><li><p>Real ownership: your code ships to production mines</p></li><li><p>Direct mentorship from a senior engineering team with deep startup and industry experience</p></li><li><p>Dynamic, remote work environment with global reach</p></li></ul>",
+    "content_hash": "3a657c58fb3dddee39405ca70824f128"
+  },
+  "457e2a87abc1": {
+    "id": "457e2a87abc1",
+    "title": "Electrical Engineering Intern",
+    "title_raw": "Electrical Engineering Intern",
+    "company": {
+      "slug": "aeci",
+      "name": "Aeci",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Clifton Hill, Missouri",
+      "city": "Clifton Hill",
+      "state": "MO",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": [
+        "Marston, Missouri"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aeci/aeci",
+      "external_id": "REQ-1675"
+    },
+    "apply_url": "https://aeci.wd1.myworkdayjobs.com/AECI/job/Clifton-Hill-Missouri/Electrical-Engineering-Intern_REQ-1675",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:48:41.933Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>At Associated Electric Cooperative, we're committed to providing reliable energy to the communities we serve with passion and precision. We're a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!</b></p><p></p><p><b>From technical to operational to professional disciplines, our team brings a wide variety of skills, talents, and expertise to the table. We believe in both dedicating ourselves to excellence and investing in your growth.</b></p><p></p><p>Are you a smart, driven student ready to tackle the fascinating challenges of the power industry? AECI’s Thomas Hill Power Plant is seeking dedicated applicants for an Electrical Engineering internship during the summer of 2027.</p><p></p><p><b>What You'll Do:</b></p><ul><li>Write bid specifications, evaluate construction bids, and support electrical maintenance and improvement projects.</li><li>Contribute to plant relay upgrades, arc flash compliance, and electronic database development.</li><li>Assist with documentation, programming, and maintenance of controls and PLC systems, as well as predictive maintenance plans.</li><li>Work full-time, Monday through Friday, with the potential for course credit.</li></ul><p><b>Who We're Looking For:</b></p><ul><li>Current students enrolled in Electrical Engineering, Computer Engineering, or a related technical field with at least two years completed toward a bachelor’s degree.</li><li>Coursework in Circuit Theory is a must, Logic Design is a bonus.</li><li>Strong attendance and punctuality are essential.</li><li>Experience with relevant engineering software and a proactive approach to learning and problem-solving is a plus.</li></ul><p><b>Why choose AECI?</b></p><ul><li>Growth opportunities: Mentorship, training, and real-world experience.</li><li>Culture: Inclusive, innovative, and dynamic work environment.</li><li>Networking: Connect with industry leaders and peers.</li></ul><p></p><p><b>Ready to Apply?</b> Visit AECI Careers to create your profile, upload your resume, cover letter, and most recent transcript (unofficial copies are fine), and then submit your application.</p><p></p><p>AECI is fully committed to the concept and practice of equal opportunity and affirmative action in all aspects of employment.  Please contact us if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment.</p><p></p><p><b>At Associated Electric Cooperative, all of our 700+ employees across MO/AR/OK territory play a crucial role in powering our mission! Whether you're an experienced professional or just starting your career, you'll find endless opportunities for career development here. Join us in an environment where your contribution is valued, and your career can thrive as we work together to keep the lights on!</b></p><p></p><p><b>Ready to Energize your career? Visit our website at </b><b>www.aeci.org/careers</b><b> to learn more about Associated and apply for a position.  </b></p><p></p><p>Equal Opportunity Statement:</p><p></p><p>AECI is fully committed to the concept and practice of equal opportunity in all aspects of employment. Please reference the contact information below if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment. </p><p></p><p>An equal opportunity employer and provider/disability/veteran.</p>",
+    "content_hash": "0ef5058f7205ea4f63aa3d07b1bf7a7b"
+  },
+  "4584c83e3406": {
+    "id": "4584c83e3406",
+    "title": "Software Engineer Intern, RFQ",
+    "title_raw": "Software Engineer Intern, RFQ",
+    "company": {
+      "slug": "talos",
+      "name": "Talos",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "talos-trading",
+      "external_id": "2c833180-484f-4657-80e3-f822cf1a0285"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T17:02:29.617Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.370Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 50,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Institutional Fabric for the Digital Asset Market</h3><p>Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle.</p><p>At Talos, you’ll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe every member of our team brings invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust, integrity, collaboration, and mutual growth.</p><p>We are a tight-knit yet globally distributed team of highly experienced engineers and business leaders, with hubs in New York, London, Singapore, and Cyprus. You’ll be part of a hybrid-friendly environment where your unique talents and insights will play a crucial role in building something extraordinary.</p><p></p><h3><strong>Software Engineer Intern, RFQ</strong></h3><p>Talos is seeking a Software Engineer Intern to join our RFQ team for the Summer 2027. This intern will work on a critical project related to our high-performance distributed trading systems, contributing to tools that support trading decision-making and performance evaluation. Success in this role will involve designing and building components that enhance our algorithmic capabilities while adding new features to existing infrastructure.</p><p>This is a 12-week internship running from June 1, 2027  to August 27, 2027</p><p><strong>About RFQ:</strong> The RFQ platform provides a centralized, standardized quoting engine that routes requests across a curated network of liquidity providers and consolidates responses for side-by-side comparison. The system manages end-to-end OTC workflows with institutional governance, Nasdaq-integrated surveillance, and seamless settlement—enabling institutions to discover, compare, and execute on digital asset quotes with institutional controls and transparency.</p><p>Want to learn more about Talos’s engineering culture? Check out Sonic, our first open-source project which allows Talos to achieve microsecond network stack latency in Go: https://github.com/talostrading/sonic</p><p></p><h3>Responsibilities </h3><ul><li><p>Collaborate with the Trading team to define project scope, requirements, and milestones</p></li><li><p>Prepare design documentation and actively participate in architectural discussions with team members</p></li><li><p>Build features in Go to enhance Talos's RFQ system, which is responsible for managing end-to-end OTC workflows with institutional governance, Nasdaq-integrated surveillance, and seamless settlement.</p></li><li><p>Add analytics and metrics to measure impact of your changes while incorporating feedback and iterating based on team input</p></li><li><p>Demonstrate project progress through regular demos</p></li></ul><p></p><h3>Required Qualifications</h3><ul><li><p>Class of 2028 pursuing a degree in Computer Science or related field</p></li><li><p>Proficiency in at least one compiled language (e.g., Go, C++, Java)</p></li><li><p>At least one previous internship involving working on backend systems in a production environment, preferably in a user-facing context</p></li><li><p>Knowledge of relational databases (e.g Postgres) is a plus</p></li><li><p>Past experience with trading systems is a plus</p></li><li><p>Detail-oriented, self driven, analytical, and enthusiastic about working on impactful projects</p></li><li><p>Strong communication skills, with an ability to convey technical concepts clearly</p></li><li><p>Ability to work autonomously as well as a part of a collaborative team environment</p></li><li><p>Energetic, creative, and a self-starter who can manage tasks autonomously</p></li><li><p>Local to NYC HQ</p></li></ul><p></p><h3><strong>Benefits</strong></h3><p>You will also enjoy a comprehensive array of competitive benefits, regardless of your location, within our warm, welcoming, and ambitious company culture. Some of our benefits include:</p><ul><li><p>A lunch credit of $25 USD towards lunches for days in-office</p></li><li><p>Evening socials with the entire office and fellow interns</p></li><li><p>Other in-office perks: Catered lunches on Tuesdays, snacks, and drinks</p></li></ul><p></p><p>Also, check out other open positions listed on our website. Questions? Please feel free to contact earlycareers@talos.com.</p><p></p><p>© Talos Trading, careers@talos.com</p><p>Talos is proud to be an Equal Opportunity employer.  We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.  Talos is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process.  If you need any assistance or accommodations due to a disability, please let us know at careers@talos.com.<br /><br />To protect the interests of all parties, Talos Trading, LLC and its affiliates (“Talos”)<strong> strongly discourage submission of unsolicited resumes from any source other than directly from a candidate</strong>.</p><p>Talos will NOT pay fees, commissions or compensation of any kind (“Fees”) for any placement or hire resulting from the receipt of an unsolicited resume. Talos will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees and Talos reserves the right to contact, interview, and hire the candidate directly.</p><p>Agencies, search firms, recruitment firms and similar organizations (“Agencies”) must obtain advance written approval from Talos’s internal recruiting team to submit resumes, AND must sign a valid fully executed placement agreement with Talos in order to be eligible to receive any Fees from Talos. Talos will not pay a Fee to any Agency that does not have such agreement in place.  By submitting a resume without a signed agreement, you acknowledge and accept these terms.</p><p></p><p>© Talos Trading, careers@talos.com<br /><br />By submitting your application and pursuing job candidacy, you consent to the processing of your personal information in connection with our Applicant &amp; Employee Privacy Notice. </p>",
+    "content_hash": "9063d02ecd12c5773f2c23db7b62ccef"
+  },
+  "45d6a278aa81": {
+    "id": "45d6a278aa81",
+    "title": "Field Quality Investigations Engineering Intern - Summer 2027",
+    "title_raw": "Field Quality Investigations Engineering Intern - Summer 2027 - Smyrna, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Smyrna, Tennessee - United States of America",
+      "city": "Smyrna",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214248"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Field-Quality-Investigations-Engineering-Intern---Summer-2027---Smyrna--TN_R00214248",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Smyrna, TN (FQC)<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Mechanical Engineering, Electrical Engineering, Automotive Engineering, Industrial Engineering, or related engineering field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Field Quality Investigations - Engineering Intern to join our team in Smyrna, TN. The FQI Rogue Task Force provides an exciting opportunity to support the launch of the new Smyrna-built Rogue while focusing on vehicle field quality. This fast-paced environment offers a strong sense of teamwork and collaboration as the team works to quickly understand field concerns, develop countermeasures, and improve customer satisfaction. Interns will gain valuable experience in technical investigations, data analytics, technical reporting, cross-functional collaboration, and automotive quality engineering.</p><br /><p><b>A Day in the Life:</b></p><ul><li>Assist in identifying field concerns related to automotive electrical and mechanical systems and components.</li><li>Investigate assigned field quality issues through vehicle testing, bench testing, and technical analysis.</li><li>Prepare technical reports, summarize findings, and communicate recommendations to stakeholders.</li><li>Analyze field quality information, including consumer surveys, warranty data, consumer affairs reports, field staff reports, and technical hotline data.</li><li>Track corrective actions and support the development of technical service bulletins and other quality improvement initiatives.</li></ul><br /><p><b>Who We’re Looking For</b>:</p><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Engineering or a related technical field.</li><li>Students entering their Junior, Senior, or Master's program at the start of the upcoming academic term.</li><li>Strong organizational skills with keen attention to detail.</li><li>Self-motivated with a willingness to learn and continuously develop technical and professional skills.</li><li>Strong written and verbal communication skills.</li><li>Strong analytical and problem-solving abilities.</li><li>Proficiency in Microsoft Office applications, including Excel, Access, PowerPoint, and Word.</li><li>Interest in automotive systems, vehicle quality, testing, troubleshooting, and continuous improvement.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Smyrna, TN.</li></ul><br /><p><b>What You’ll Look Forward to at Nissan</b>:</p><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Smyrna Tennessee United States of America",
+    "content_hash": "b7b43d90b36317c16d70299b213560a1"
+  },
+  "45eb3044233b": {
+    "id": "45eb3044233b",
+    "title": "Summer 2027 Internship (Engineering)",
+    "title_raw": "Summer 2027 Internship (Engineering)",
+    "company": {
+      "slug": "the-exploration-company",
+      "name": "The Exploration Company",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Houston, Texas",
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "the-exploration-company",
+      "external_id": "2493c3ce-e861-4a66-97a1-df97ff016cd4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/the-exploration-company/2493c3ce-e861-4a66-97a1-df97ff016cd4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-03T19:31:34.450Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.874Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Here at The Exploration Company, we are building spacecrafts for humanity.</p><h3>Summer 2027 Engineering Internship:</h3><p>As an intern for The Exploration Company (TEC), you will be at the forefront of our crewed vehicle development. You will be instrumental in enabling our mission by designing, developing, testing, and improving engineering systems and technology.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Collaborate with engineers to design, develop, test, and improve products, systems, or processes.</p></li><li><p>Contribute to real-world engineering projects and deliverables under the guidance of a mentor.</p></li><li><p>Apply engineering principles and coursework to solve technical problems.</p></li><li><p>Develop, test, debug, and document technical solutions, tools, or prototypes.</p></li><li><p>Analyze data, identify trends, and provide recommendations to support engineering decisions.</p></li><li><p>Participate in design reviews, team meetings, and technical discussions.</p></li><li><p>Create and maintain technical documentation, reports, and project updates.</p></li><li><p>Support testing, validation, and quality assurance activities.</p></li></ul><p></p><p><strong>Basic requirements:</strong></p><ul><li><p>Pursuing a bachelor's, master's, or doctoral degree in Engineering or a related technical field.</p></li></ul><ul><li><p>Three months or more of relevant engineering experience through prior internships, co-op programs, or industry projects.</p></li><li><p>Due to federal regulations (e.g., ITAR/EAR), applicants must be U.S. citizens or lawful permanent residents (e.g., current Green Card holders)</p></li></ul><p></p><p><strong>Preferred skills and experience:</strong></p><ul><li><p>Cumulative GPA of 3.5 or above</p></li><li><p>Six months or more of relevant engineering experience through prior internships, co-op programs, or industry projects.</p></li><li><p>Experience working collaboratively in a team environment.</p></li><li><p>Demonstrated hands-on experience through academic projects, student organizations, internships, research, personal projects, or technical hobbies.</p></li><li><p>Strong problem-solving, analytical, and communication skills.</p></li><li><p>Ability to work independently, take initiative, and manage multiple priorities in a fast-paced environment.</p></li><li><p>Passion for learning new technologies and applying engineering principles to real-world challenges.</p></li></ul><ul><li><p>Experience working collaboratively in a team environment.</p></li><li><p>Proficiency with relevant engineering tools, programming languages, or technical platforms related to the role.</p></li></ul><p></p><p><strong>Additional Requirements:</strong></p><ul><li><p>Able to work full-time (40 hours per week) for a minimum of 12 weeks beginning May 2027</p></li><li><p>Able to provide your own relocation and housing</p></li></ul><p></p><p><em><strong>Note: Housing and relocation are not provided</strong></em></p><p><em><strong>Location: Houston, TX</strong></em></p><p><strong>Why you should join us!</strong></p><p>What makes us special here at The Exploration Company and why we think you will enjoy working here is:  </p><ul><li><p>We’re Agile - we make decisions fast whilst keeping our goals and systems in mind </p></li><li><p>We’re Open and Collaborative - we are transparent about risks and obstacles, so that we can cooperate to overcome them  </p></li><li><p>We have a lot of Fun - we refuel our energy knowing we are democratising space. It’s a wonderful and rare opportunity, are YOU up for the challenge?  </p></li></ul><p>We'd love to hear from you if you wish to be a part of our journey. Please submit your CV now for immediate consideration and we will be in touch shortly. <br /> <br /><em>The Exploration Company is an equal opportunity employer and values diversity. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Relocation assistance is provided for those willing to relocate including visa sponsorship where applicable.  </em><br /><br /><em><br />All offers are contingent upon the successful completion of a background check, which will be subject to the country, role, and project you applied for. By submitting your application, you acknowledge and agree that any offer of employment may be conditional upon successful condition of this check. The Exploration Company partners with Zinc Work Limited located in the UK (Zinc), a third-party provider, to ensure this process as efficient and transparent as possible. <br /><br />If applicable, you will receive an email from Zinc upon acceptance of your offer with a link to a secure portal where you can provide the required information to Zinc. </em><br /></p>",
+    "content_hash": "9d694e1ab111eadae44ffb9240892f84"
+  },
+  "45f1289cc43f": {
+    "id": "45f1289cc43f",
+    "title": "Product Design Engineer Intern - Summer 2027",
+    "title_raw": "Product Design Engineer Intern - Summer 2027",
+    "company": {
+      "slug": "skydio",
+      "name": "Skydio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Mateo, California, United States",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "skydio",
+      "external_id": "e541e878-567c-4c03-add8-baf19c63418f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T18:58:21.127Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.686Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 41,
+      "max": 41,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders, soldiers in battlefield scenarios, and beyond.</p><p><strong>About the role:</strong></p><p>As a member of the Product Design Team, you will work on meaningful projects that add value to Skydio and our users. You will solve complex, interesting problems and learn from a team of world-class engineers and researchers.</p><p></p><p><strong>How you'll make an impact:</strong></p><ul><li><p>Conquer challenges creatively with a scrappy mindset</p></li><li><p>Design parts for next generation prototypes</p></li><li><p>Chase down the root cause of mission critical issues on existing or developing products</p></li><li><p>Find solutions with engineering design or manufacturing process changes</p></li><li><p>Validate your solutions with hands-on prototyping, testing, and data collection</p></li><li><p>Communicate with a cross functional team of engineers and suppliers around the globe</p></li><li><p>Present your work in design reviews and learn from senior members of our team</p></li></ul><p></p><p><strong>What makes you a good fit:</strong></p><ul><li><p>Relentless curiosity.</p></li><li><p>Ability to leverage rock solid fundamentals to create exceptional designs for complicated products.</p></li><li><p>Passion for elegant mechanical design at the highest and lowest levels of detail that will delight customers.</p></li><li><p>Experience with 3D CAD. Familiarity with CATIA is highly valued.</p></li><li><p>Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.</p></li></ul><p></p><p><strong>Bonus skills for the job (This experience is great to have, but we are also happy to teach you):</strong></p><ul><li><p>How to design for a broad array of manufacturing processes including: injection molding, metal casting, CNC machining, sheet metal forming, and composites.</p></li><li><p>How to complete DFM (design-for-manufacturing) with local and foreign suppliers</p></li><li><p>How to design and integrate circuit boards, antennas, and connectors into mechanical assemblies</p></li></ul><p></p><p><strong>Some examples of past projects include:</strong></p><ul><li><p>Gimbal Isolation: Design, simulate, re-design, DFM, and kick-off tooling for Skydio X10 gimbal vibration isolators</p></li><li><p>Scrappy Wind Tunnel: Exactly what it sounds like. Research what it takes to make a wind tunnel. Build a wind tunnel. Use the wind tunnel to learn about aerodynamic forces on a drone to inform design improvements.</p></li><li><p>Drone Battery Charger: Create prototypes for the battery charger for Skydio 2. Perform user studies, come up with a thermal solution, architect the product, and work on cosmetic surfacing.</p></li></ul><p></p><p><strong>Compensation:</strong> The hourly rate for this position is $41/hr for Undergrad, $53/hr for Graduate students, and $58/hr for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.</p><p>*Compensation for certain positions may vary based on the position's location.</p><p>#LI-ZD1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/</p>",
+    "content_hash": "bf05e7cfe009ce70ed2b0bbf9b27336a"
+  }
+}

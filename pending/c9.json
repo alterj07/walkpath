@@ -1,0 +1,87 @@
+{
+  "c9c364fac95c": {
+    "id": "c9c364fac95c",
+    "title": "Student Worker (m/w/d)",
+    "title_raw": "Student Worker (m/w/d)",
+    "company": {
+      "slug": "cargo-partner",
+      "name": "cargo-partner",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Düsseldorf, Nordrhein-Westfalen",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "cargo-partner",
+      "external_id": "37773253-be08-49fd-986b-8dd9f291bf20"
+    },
+    "apply_url": "https://jobs.lever.co/cargo-partner/37773253-be08-49fd-986b-8dd9f291bf20/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-13T13:13:36.118Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:48:05.556Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "EUR",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over 40 years, cargo-partner has flourished in the logistics industry, delivering unparalleled service to our clients worldwide. We have now embarked on another journey and to continue our commitment for excellence, we have now joined the Nippon Express Group which will now underpin all the values we constantly aspire to achieve, now becoming a top 5 global player. As an end to end info logistics provider, we pride ourselves on offering a comprehensive portfolio of air, sea, land transport, and warehousing services.\n \nWith a unique focus on information technology and supply chain optimization, we empower businesses to thrive in today's fast-paced world. Join our dynamic team, where innovation meets passion and every voice is valued. Embark on a journey where your skills are nurtured, creativity is celebrated, and together, we take pride in making a difference.\n \nDiscover more about our Mission &amp; Vision. Dive into a world of endless opportunities and embark on the cargo-partner journey with us.\n\n<h3>Tasks</h3>\nSupport the coordination of sea and air freight shipments, including booking and scheduling. \nAssist in the preparation and verification of transport and customs documents (e.g., AWB, B/L, commercial invoices, packing lists). \nCarry out tracking &amp; tracing activities and update shipment status in internal systems. \nCommunicate with carriers, warehouses, and internal departments to ensure smooth operational flows. \nSupport the team in data entry, maintaining shipment records, and ensuring data accuracy in ERP/TMS systems. \nAssist in issue resolution, such as delays, missing documents, or deviations in transport processes. \nPrepare reports, KPIs, and analyses to support operational performance monitoring. \nContribute to process optimization initiatives, including administrative support and small internal projects. \nProvide general administrative assistance to the logistics operations teams. \n\n<h3>Requirements</h3>\n<h4><strong>Logistics Skills</strong></h4>\n\nBasic understanding of international logistics, incoterms, and global transport flows. \nFirst experience or coursework in sea freight, air freight, customs processes, or supply chain operations (advantageous but not mandatory). \nAbility to work with shipment documentation (e.g., AWB, B/L, commercial invoices, packing lists). \n\n<h4><strong>Digital &amp; Analytical Skills</strong></h4>\n\nProficiency in Microsoft Office (Excel, Outlook, Word). \nComfort working with ERP/TMS systems (e.g., SAP, CargoWise, AS400) is a plus. \nStrong attention to detail and ability to work with data. \n\n\n\n<h4><strong>Language &amp; Communication</strong></h4>\n\nFluent German and English (written and spoken) for internal and external communication. \nStrong communication skills when interacting with carriers, partners, and internal teams. \n\n\n\n<h4><strong>Personal Competencies</strong></h4>\n\nStrong organizational skills and ability to multitask in a fast‑paced logistics environment. \nReliable, structured, and solution‑oriented working style. \nTeam player with a hands-on mentality and willingness to learn. \nAbility to work independently with minimal supervision after onboarding. \n\n\n\n\n\n\n\nReady to take off with us? Join our journey in global logistics!\n \nPlease contact Julian Alefs for further questions via E-Mail julian.alefs@cargo-partner.com",
+    "content_hash": "24fb8b924f86a8b1718e9820673b00ca"
+  },
+  "c9f672e7ba84": {
+    "id": "c9f672e7ba84",
+    "title": "Forward Deployed Engineer (FDE) - New Grad",
+    "title_raw": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "f2d170eb-c4c3-4715-9d2e-84dd4fe857c8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-15T23:32:19.419Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Our Forward Deployed Engineers are at the heart of building AI that transforms how essential service businesses operate. This role combines cutting-edge AI development with real-world impact, creating systems that handle complex business operations autonomously.</p><p></p><p>We need to hire multiple new graduates to join our FDE team that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better. </p> <p><strong>What You’ll Do:</strong></p><ul><li><p><strong>Architect agents:</strong> Build and ship multi-modal AI agents that drive business impact for essential service companies.</p></li><li><p><strong>Co‑build with customers:</strong> Work directly with enterprise stakeholders to map workflows and deploy our product to unlock immediate revenue lift.</p></li><li><p><strong>Own end‑to‑end lifecycle:</strong> Manage everything from design, to implementation, to rollout, including deployment, measuring success, and iterating with customers.</p></li><li><p><strong>Ensure scalability:</strong> Build reliable systems that support thousands of concurrent interactions with strong performance.</p></li><li><p><strong>Run rapid experiments:</strong> Evaluate cutting‑edge text/voice models, fine‑tune, live A/B test, and iterate within tight feedback loops.</p></li><li><p><strong>Elevate the platform:</strong> Surface patterns and opportunities across customers to inform product and engineering roadmaps.</p></li></ul> <p><strong>What You’ll Bring:</strong></p><ul><li><p><strong>Production systems:</strong> Experience building and maintaining production systems using Python (asyncio, FastAPI) and TypeScript (Node, React).</p></li><li><p><strong>AI systems:</strong> Hands-on experience with LLM, TTS and speech APIs, fine-tuning models, vector databases, RAG, and evaluation frameworks.</p></li><li><p><strong>Performance focus:</strong> Ability to meet SLAs, resolve issues, and optimize systems for speed and reliability at scale.</p></li><li><p><strong>Scale mindset:</strong> Experience building production monitoring and debugging systems across cloud infrastructure and databases.</p></li><li><p><strong>Customer obsession:</strong> Comfortable engaging directly with customers to troubleshoot issues, understand edge cases, and deliver fast solutions.</p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "0f9e27fb5fe4bfbeb66176004a8f5bf8"
+  }
+}

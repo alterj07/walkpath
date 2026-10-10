@@ -1,0 +1,51 @@
+{
+  "94a152a7e454": {
+    "id": "94a152a7e454",
+    "title": "Software Engineer Intern - (Summer 2027)",
+    "title_raw": "Software Engineer Intern - (Summer 2027)",
+    "company": {
+      "slug": "the-voleon-group",
+      "name": "The Voleon Group",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Berkeley, CA",
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York City, NY"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "voleon",
+      "external_id": "57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T20:19:32.967Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.551Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 14583,
+      "max": 14583,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p>The Voleon Group is a quantitative hedge fund headquartered in Berkeley, CA. We apply statistical machine learning to get an edge in highly competitive, fast-moving financial markets. We employ world-class engineering and research talent to solve financial prediction problems.</p><p></p><p>We are seeking passionate software engineers who can tackle hard problems in a high-stakes environment. You should be a highly motivated individual who can push a project through to completion, as well as demonstrate excellence in designing clean, robust software.  </p> <p>At Voleon, software engineers design and build complex, high-performance systems such as:</p><p>   - Real-time trading systems</p><p>   - Large-scale distributed data processing</p><p>   - Research infrastructure to develop the next generation of machine learning models</p><p>   - and much more</p> <p>You will have the opportunity to work closely with machine learning researchers, trading staff, and engineers.  You will gain exposure to the full “finance stack,\" learning about a broad range of areas including machine learning, the mechanics of institutional trading, market execution dynamics, and more.</p> <p><strong>We are open to accepting interns who can start in summer 2027. </strong></p> <h3><strong>Responsibilities</strong></h3><ul><li><p>Designing complex systems.</p></li><li><p>Take on a lot of responsibility very quickly.  You will “own” your work (passionately).</p></li></ul><p></p><h3><strong>Requirements</strong></h3><ul><li><p><strong>Expected to graduate in 2028</strong></p></li><li><p>Hands-on experience writing code: You have built something significant. You understand how to write modular, maintainable, well-organized, and thoughtfully structured code.</p></li><li><p>Mastery of Computer Science fundamentals.</p></li><li><p>Modern software practices: You are comfortable using Linux, git, and mainstream databases.  </p></li><li><p>You are familiar with cloud infrastructure.</p></li><li><p>You are incredibly good at at least one thing.</p></li><li><p>You are eager to work in diverse teams.</p></li><li><p>You are available to work a full-time internship during the summer, fall, or winter of 2027.</p><p></p></li></ul><h3><strong>Equal Opportunity Employer</strong></h3><p>The Voleon Group is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender, marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal law.</p>",
+    "content_hash": "cfb71a8ade5bceb7d12e3ac5ca122da0"
+  }
+}

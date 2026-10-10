@@ -1,0 +1,96 @@
+{
+  "641ddcc2c222": {
+    "id": "641ddcc2c222",
+    "title": "Rainmaker Fellow, Radar Science",
+    "title_raw": "Rainmaker Fellow, Radar Science",
+    "company": {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Norman, OK"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "make-rain",
+      "external_id": "4cac0840-20c6-4d20-9b66-0eefc109e6a9"
+    },
+    "apply_url": "https://jobs.lever.co/make-rain/4cac0840-20c6-4d20-9b66-0eefc109e6a9/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T13:58:44.682Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:03:22.232Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rainmaker</h3>\n<p>Rainmaker is pioneering a modern cloud-seeding system to increase precipitation, improve water availability, and address severe-weather challenges. We combine atmospheric science, weather-resistant UAS, radar and satellite observations, numerical weather prediction, novel sensing systems, and sustainable seeding technologies to design, operate, and evaluate precipitation-enhancement programs.</p>\n<p>Radar is central to how Rainmaker observes storms, targets operations, evaluates atmospheric evolution, and learns from field programs. Fellows work with scientists and operators who use the resulting analysis in real decisions.</p>\n<h3>About the Fellowship</h3>\n<p>The Rainmaker Radar Science Fellowship is a paid, full-time research appointment for exceptional undergraduate and graduate students, postdoctoral researchers, recent graduates, and other early-career researchers.</p>\n<p>You will join Rainmaker's radar-science group and work alongside our researchers on a scoped project drawn from the team's current research priorities and defined in close collaboration with your research lead or mentor. Project matching will consider available data, mentor capacity, team needs, and your background. You will take responsibility for a concrete workstream while contributing to ongoing analysis, scientific review, and operational support across the radar team.</p>\n<h3>Examples of the Work</h3><p>Fellowship projects change with Rainmaker's research and operational priorities. Examples of the work our radar team may pursue include:</p>\n\nCreating a radar-aircraft collocation atlas to investigate which radar structures and dual-polarization features contain useful information about measured supercooled liquid water. \nExtending and validating an MRMS/MESH hail-event catalog and storm-object tracker. \nBuilding a carefully controlled radar evaluation framework for cloud-seeding operations \nAutomating an existing radar-analysis workflow used by Rainmaker scientists and operators. \n\n<h3>What You'll Do</h3>\nBuild quality-controlled radar datasets aligned with aircraft, UAS, satellite, model, surface, or operational observations. \nImplement and validate radar-processing, feature-extraction, retrieval, storm-tracking, or statistical-analysis methods. \nInvestigate how results vary with storm type, range, terrain, temperature regime, observing geometry, and data quality. \nDevelop honest baselines and quantify uncertainty, false detections, selection effects, and failure modes. \nCreate case visualizations and scientific analyses that domain experts can inspect. \nProduce clear, reusable code and documentation. \nPresent findings to Rainmaker's radar scientists, meteorologists, operators, and technical leadership. \nDeliver a final artifact such as a validated dataset, case atlas, tracking system, retrieval candidate, operational product, analysis protocol, or research paper. \n\n<h3>What We're Looking For</h3>\nCurrent undergraduate, master's, or PhD students; postdoctoral researchers; recent graduates; and other early-career researchers are all eligible. \nStrong quantitative and programming ability, preferably in Python. \nExperience with radar meteorology, atmospheric science, signal processing, remote sensing, image analysis, geospatial data, or a closely related field. \nAbility to formulate a scientific question, implement an analysis, and validate the result carefully. \nComfort working with large, imperfect observational datasets. \nHigh agency and the ability to take responsibility for a bounded workstream while collaborating with experienced researchers. \nClear written and verbal communication. \nAvailability for full-time, on-site work in El Segundo for the agreed appointment. \n\n<h3>What Success Looks Like</h3><p>By the end of the fellowship, you will have answered a clearly defined scientific or operational question and delivered a result the radar team can continue using. Depending on the project, that might be a validated dataset, novel retrieval, tracking system, analysis framework, or automated operational workflow.</p>\n<h3>Fellowship Details</h3>\nPaid, full-time, and on-site in El Segundo, CA or Norman, OK. \nThree month appointment \nRolling applications and project-specific start dates. \nAttached directly to Rainmaker's radar-science group with a named mentor. \nPossible consideration for future full-time roles, without any promise or expectation of conversion. \nPublication may be supported when it does not compromise Rainmaker intellectual property or operational know-how. \n\n<h3>Compensation and Benefits</h3><p>$8,000 per month</p>\n<p><strong>Benefits:</strong></p>\n\nFull health coverage (medical, dental, and vision insurance) \nLunch provided when working in-office and a fully stocked kitchenette \nFree EV charging at the HQ",
+    "content_hash": "d4e6d985119ffc01ea00507e4ad30c97"
+  },
+  "64f5bdd10542": {
+    "id": "64f5bdd10542",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Walnut Creek, California"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "2809dd0b-766b-40c1-abd7-75d1be5faa79"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/2809dd0b-766b-40c1-abd7-75d1be5faa79/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T20:06:56.021Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 33,
+      "max": 36,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>San Francisco Applicants:</strong> Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n \n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "813d7775aad536e0dea9aa9081f113f3"
+  }
+}

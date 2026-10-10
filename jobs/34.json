@@ -1,0 +1,132 @@
+{
+  "341b48419956": {
+    "id": "341b48419956",
+    "title": "Internship - IT",
+    "title_raw": "Internship - IT",
+    "company": {
+      "slug": "dynamic-catholic",
+      "name": "Dynamic Catholic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Erlanger, Kentucky",
+      "city": "Erlanger",
+      "state": "KY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "dynamiccatholic",
+      "external_id": "be91591f-e7bd-4aad-8bab-3303fe0cff20"
+    },
+    "apply_url": "https://jobs.lever.co/dynamiccatholic/be91591f-e7bd-4aad-8bab-3303fe0cff20/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T18:23:25.971Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:38.591Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Overview</strong>\n \nLooking to gain real-world experience in IT systems administration, network management, and cybersecurity while also serving a powerful mission? Join us for a summer where you'll learn how Dynamic Catholic's IT team keeps our staff, ministries, and technology running smoothly. You'll work alongside our IT Systems Administrator, gaining hands-on exposure to helpdesk support, infrastructure, and security practices in a real business environment. Don't just make a few bucks this summer, serve a powerful mission and gain invaluable experience for your future career in IT.\n \n<strong>Who we are</strong>\n \nAt Dynamic Catholic our Mission is simple: to re-energize the Catholic Church in America. Catholics are leaving the Church at an alarming rate, and disengagement among those who remain is staggeringly high. This is where you come in. We are looking for driven, talented, and dynamic individuals who will work tirelessly to use their talents to inspire people to rediscover the genius of Catholicism.\n<h3>What you'll leave with</h3>\n\nHands-on experience supporting a helpdesk ticketing system and resolving real end-user issues \nExposure to identity and access management tools, including Google Accounts, Okta SSO, and AzureAD \nExperience with collaboration platforms such as Microsoft Office, Slack, Zoom, and Egnyte \nIntroductory experience with Microsoft Azure and server administration fundamentals \nExposure to endpoint management and MDM tools, including PDQ, Intune, and Mosyle \nFamiliarity with IT asset management practices using Snipe-IT \nAn inside look at network management, firewall basics, and cybersecurity best practices \nMentorship from an experienced IT Systems Administrator and exposure to real IT project work \nIncreased knowledge and experience in technology operations to carry with you for the rest of your career \n\n\n<h3>What you already have</h3>\n\nA love for learning and problem-solving \nInterest in IT, computer science, or a related field of study \nPassionate about serving others in a unique and world-class way \nComfortable jumping in to help, even when a problem is unfamiliar \nFlexible and adaptable - jack of all trades ready to jump into whatever project is needed \nStrong attention to detail and a respect for keeping systems and information secure \n\n\n\n<strong>Location</strong>\nThis role is located in the Greater Cincinnati area. This is why we offer paid housing for our interns! \n \n<h3>Sponsorhsip</h3>\nApplicants must not require employer sponsorship for work authorization now or in the future. We are unable to sponsor visas for this position.",
+    "content_hash": "e143c1b63292414a4292a6c4a0b943a3"
+  },
+  "345d817a6f9b": {
+    "id": "345d817a6f9b",
+    "title": "Internship at Quantinuum’s UK QEC team",
+    "title_raw": "Internship at Quantinuum’s UK QEC team",
+    "company": {
+      "slug": "quantinuum",
+      "name": "Quantinuum",
+      "domain": ""
+    },
+    "location": {
+      "raw": "UK London or Cambridge",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:quantinuum",
+      "external_id": "46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382"
+    },
+    "apply_url": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-18T11:13:42.362Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:06.152Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": null,
+    "salary": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "GBP",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Quantinuum is opening an internship position for the Quantum Error Correction (QEC) team in the United Kingdom. If selected, you will work on an active project that contributes towards the architectural design, analysis, and implementation of our QEC stack. The project will be related to one of the following: algebraic geometry, tensor network / ZX calculus, QEC code automorphisms, accelerate the classical simulation of non-Clifford fault-tolerant (FT) QEC gadgets, design of compact FT magic state preparation gadgets, development of partially-FT techniques to reduce noise on large-scale quantum algorithms, or demonstrate small-scale fully-FT quantum algorithms in Quantinuum’s trapped-ion hardware.\n \nBased in the London-Victoria or Cambridge offices, you will be working in a research-focused group with scientific direction from experienced QEC researchers, with a close connection to hardware and software engineers. You will work towards a scientific publication and / or software libraries. This is an excellent opportunity to advance the theory and practice of quantum computing while building your professional and academic career.\n \n<strong>You must have an interests In QEC and evidence of researching publications showing your ability to understand the fundamentals of QEC and contribute towards new ideas. Ideally working of QEC projects in your studies.</strong> \n<h3>Key Responsibilities:</h3>\nContribute to an active research project supervised by Quantinuum’s QEC experts. \nWriting a research paper and / or software libraries that accelerate the research in QEC. \nParticipate in the day-to-day activities of the QEC team: discussions, journal clubs, seminars, etc… \n\n<h3>Key Requirements:</h3>\nResearch publications showing evidence of your ability to understand the fundamentals of QEC and contribute towards new ideas. \nA bachelor’s or master’s degree or equivalent in Maths, Computer Science, Physics or a related discipline. \nScientific computing, programming in Python. \n\n<h3>Desirable Skills:</h3>\nExperience with one or more of high-speed languages like C++, Rust, Julia. \nCommunicating scientific ideas clearly and precisely, both verbally and in writing. \n\nAre you ready to dive into the quantum space and work alongside industry leaders? As an intern at Quantinuum, you will have the unique opportunity to contribute to an active project, utilising your existing skills while gaining invaluable experience in this cutting-edge field.\n \n \n<strong>What You'll Experience:</strong>\n- Collaborate with some of the brightest minds in the industry, gaining insights and knowledge from seasoned professionals.\n- Engage in hands-on projects that will enhance your technical skillset and understanding of quantum technologies.\n- Receive mentorship and guidance to help you refine your career path and professional development.\n \n<strong>Why Choose Quantinuum?</strong>\nOur mission is to provide you with a comprehensive internship experience that not only exposes you to the industry but also positions Quantinuum as a top contender for your future career aspirations.\n \nIf you’re eager to grow, learn, and make meaningful contributions in the exciting world of quantum technology, we want to hear from you!",
+    "content_hash": "3a502c8651636a72853d4f8898e8ae06"
+  },
+  "34ae34348307": {
+    "id": "34ae34348307",
+    "title": "Software Engineer Co-op 2027",
+    "title_raw": "Software Engineer Co-op 2027",
+    "company": {
+      "slug": "megazonecloud",
+      "name": "MegazoneCloud",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Rochester, NY",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "megazone",
+      "external_id": "e2889469-cf20-4227-bf24-2a6e885f8dca"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T15:30:58.836Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.399Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 27,
+      "max": 28,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We’re Looking For</strong></h3><p>Megazone Cloud is looking for a <strong>Software Engineer Co-op</strong> who is a \"builder\" at heart and eager to kickstart their career in a high-growth, global environment. You are passionate about deep-diving into software development, cloud architecture, and solving ambiguous, high-stakes technical problems.</p><p>As a Co-op, you won't just be watching from the sidelines. You will be a key part of our internal and client-facing teams, contributing to technical discovery, designing full-stack solutions, and collaborating with our senior experts to execute a clear vision. You are a fast learner with a thirst for knowledge and a desire to see your code make a real-world impact.</p><h3><strong>What You’ll Do</strong></h3><ul><li><p><strong>Collaborate and Build:</strong> Work directly with senior engineers and our U.S. tech team to translate complex business requirements into functional software features and services.</p></li><li><p><strong>Own the Full Stack:</strong> Design, develop, test, and deploy software solutions, gaining hands-on experience with Python, Java, JavaScript, or Go.</p></li><li><p><strong>Be a Client-Facing Contributor:</strong> Participate in technical discussions and client meetings, effectively communicating progress on tickets, improvements, and deliverables.</p></li><li><p><strong>Solve the Unsolvable:</strong> Assist in troubleshooting and resolving complex issues related to cloud infrastructure, applications, and services.</p></li><li><p><strong>Drive Modern Practices:</strong> Help implement monitoring solutions and lean into DevOps best practices, including CI/CD and Infrastructure as Code.</p></li><li><p><strong>Learn and Multiply:</strong> Actively participate in design reviews and knowledge-sharing sessions, leveraging our \"force multiplier\" culture to level up your skills and the team’s output.</p></li></ul><h3><strong>What You Bring (Requirements)</strong></h3><ul><li><p><strong>Educational Foundation:</strong> Currently pursuing a degree in Computer Science, Software Engineering, or a related technical field.</p></li><li><p><strong>Technical Curiosity:</strong> Proficiency in at least one programming language (e.g., <strong>Python</strong>, <strong>Java</strong>, <strong>JavaScript</strong>, <strong>Go</strong>) and a strong grasp of programming/scripting fundamentals.</p></li><li><p><strong>Cloud Ambition:</strong> Exposure to or a deep interest in major cloud platforms (e.g., <strong>AWS</strong>, <strong>Azure</strong>) and modern data ecosystems.</p></li><li><p><strong>DevOps Mindset:</strong> Foundational knowledge of DevOps practices, including version control, CI/CD pipelines, and automation.</p></li><li><p><strong>Communication Excellence:</strong> Ability to translate technical concepts for different audiences and a desire to engage in a professional services/consulting environment.</p></li><li><p><strong>Startup Mentality:</strong> A strategic \"builder\" mindset, a sense of ownership, and the agility to manage multiple workstreams in a fast-paced environment.</p></li></ul><h3><strong>Bonus Points (Nice-to-Haves)</strong></h3><ul><li><p>Previous internship or project experience in a <strong>Professional Services</strong> or consulting environment.</p></li><li><p>Experience with <strong>GenAI</strong>, <strong>MLOps</strong>, or specialized data tools (e.g., Databricks, Snowflake).</p></li><li><p>Relevant AWS or cloud-provider certifications (e.g., AWS Certified Cloud Practitioner).</p></li></ul><p><strong>NOTE:</strong> <em>We are unable to provide sponsorship for this position.</em></p><h3><strong>Why You'll Love It Here</strong></h3><ul><li><p><strong>Our Product is Our People:</strong> We live by this. We invest in people who invest in themselves. Your growth is our growth.</p></li><li><p><strong>True Servant Leadership:</strong> Our CTO leads with a \"force multiplier\" philosophy. Management is here to empower you and clear roadblocks, not to micromanage. We won't ask you to do anything we're not willing to do ourselves.</p></li><li><p><strong>Flat Organization, Real Impact:</strong> Your voice and designs will directly shape our technical roadmap and our clients' success. You'll work on the latest tech to solve real problems.</p></li><li><p><strong>A \"Learn-from-it\" Culture:</strong> We're moving fast and building new things. We believe mistakes are learning opportunities, not failures.</p></li></ul><p>We seek diverse talent who are ready to make an immediate impact. We believe that innovation thrives when teams are built with a variety of backgrounds, experiences, and perspectives. If you are excited by this mission, we encourage you to apply, even if your experience doesn't perfectly match every qualification listed.</p><p><strong>Megazone Cloud is an Equal Opportunity Employer and participates in E-Verify to confirm the employment eligibility of all new hires.</strong> </p>",
+    "content_hash": "38eb08b8cb09714944831b8d32c4600a"
+  }
+}

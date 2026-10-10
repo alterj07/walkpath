@@ -1,0 +1,47 @@
+{
+  "c8d14f49c991": {
+    "id": "c8d14f49c991",
+    "title": "Controls Engineering Intern / Student Researcher - Winter 2026",
+    "title_raw": "Controls Engineering Intern / Student Researcher - Winter 2026",
+    "company": {
+      "slug": "antares-nuclear",
+      "name": "Antares Nuclear",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "antares",
+      "external_id": "92a0d857-1a5f-4edd-bf95-6289a5cd36ea"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/antares/92a0d857-1a5f-4edd-bf95-6289a5cd36ea/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-31T23:31:55.699Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.687Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Winter 2026",
+    "salary": {
+      "min": 34,
+      "max": 36,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Us</strong></p><p>At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in space.</p><p></p><p>The Antares team hails from SpaceX, the White House, the Pentagon, the Department of Energy, MIT, Rigetti Computing, General Atomics, Relativity Space, Ursa Major, and National Laboratories like Idaho, Oak Ridge, Los Alamos, and Savannah River. Antares has raised over $600M in venture capital from top-tier investors and has hundreds of million-dollars on contract with the military services, NASA, and the Department of Energy.</p><p></p><p><strong>A hands-on controls role for a student who wants to take theory all the way to real hardware.</strong></p><p></p><p>The Antares Mission Engineering Team is seeking a motivated master’s student or advanced undergraduate student, preferably junior year or above, to participate in controls engineering for nuclear technology and support hands-on controls development for prototype terrestrial and space electromechanical systems. The ideal candidate has a strong foundation in classical controls and is excited to bridge theory with real hardware, especially in robotics, actuation, or experimental automation systems.</p><p>This role will involve designing, implementing, and testing control loops using commercial off-the-shelf hardware such as NI DAQ systems, programmable power supplies, motor drives, sensors, and electrical actuation hardware. The work will span system identification, time-domain modeling, Laplace-domain control design, data acquisition, and closed-loop validation on physical hardware.<br /><br />This role is 5 days a week in our Torrance, CA headquarters - remote candidates will not be considered.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li><p>Develop and tune classical controllers for actuation and thermal/electromechanical systems</p></li><li><p>Build time-domain models of physical systems from first principles and experimental data</p></li><li><p>Design controllers using Laplace-domain tools, including transfer functions, poles/zeros, bandwidth, stability margins, and step-response analysis</p></li><li><p>Compare model predictions against experimental behavior, work with hardware responsible engineers to interpret test results, and iterate on controller design</p></li><li><p>Iterate on digital twins using field test data and multiphysics simulation results</p></li></ul><p></p><h3><strong>Required Qualifications</strong></h3><ul><li><p>Current master’s student or junior/senior undergraduate in mechanical engineering, electrical engineering, robotics, controls, aerospace, or related field</p></li><li><p>Strong understanding of classical control theory</p></li><li><p>Experience with time-domain modeling and Laplace-domain control design</p></li><li><p>Ability to move between continuous-time and discrete-time control representations, including converting Laplace-domain models into time-steppable simulations suitable for controller implementation and numerical analysis</p></li><li><p>Familiarity with PID control, transfer functions, stability, bandwidth, and transient response</p></li><li><p>Hands-on experience with actuation systems such as motors, heaters, valves, servos, linear actuators, or similar hardware</p></li><li><p>Comfortable working with sensors, DAQs, electrical drive hardware, and experimental test setups</p></li><li><p>Strong Python programming experience, including building reusable simulation components, numerical test harnesses, and controller validation tools beyond basic array manipulation</p></li></ul><p></p><h3><strong>Preferred Qualifications</strong></h3><ul><li><p>Robotics or mechatronics project experience</p></li><li><p>Experience bringing up and integrating COTS test hardware such as NI DAQs, motor drives, power supplies, relays, sensors, and instrumentation, including debugging, calibration, and test procedure development</p></li><li><p>Experience writing Python scripts for data acquisition, control-loop execution, logging, and analysis</p></li><li><p>Experience with NI DAQ hardware, DAQmx, or Python-based data acquisition</p></li><li><p>Experience working with high-voltage systems or relevant high-voltage safety training</p></li><li><p>Familiarity with motor controllers, programmable power supplies, thermocouples, encoders, load cells, or similar instrumentation</p></li><li><p>Experience with system identification, frequency response, or closed-loop tuning</p></li><li><p>Comfort reading schematics, wiring test setups, and debugging hardware/software interfaces</p></li></ul><p></p><h3><strong>Nice To Have</strong></h3><ul><li><p>Prior work on robotic arms, mobile robots, test stands, thermal systems, or actuator characterization</p></li><li><p>Experience taking a controller from whiteboard math to real hardware</p></li><li><p>A practical instinct for noisy sensors, real-world delays, saturation, and hardware limits</p></li></ul><p></p><p><strong>Culture</strong></p><p>At Antares, we like to specifically tie each role to our founding document’s set of values–here are the top five cultural values we think you should believe at your core to be successful:</p><ul><li><p><em>Think in Systems</em> - Energy and Defense are complex ecosystems with numerous stakeholders with competing priorities, conflicting policies, perverse incentives, and emergent and path-dependent properties. First principles thinking alone is insufficient. Think probabilistically and then take action. “If you want to be certain, then you are apt to be obsolete.” Over-optimizing the components often degrades the system</p></li><li><p><em>Obsess over the End User</em> - The customer and end user are often not the same. We will never build globally competitive commercial products if we lose sight of our end users and their entire interaction with the product life cycle</p></li><li><p><em>Be Unconstrained by Convention</em> - Our only limits are the laws of physics. Many, even experts, will say what we are working on is impossible. They said the same about SpaceX reusing rockets. Generationally impactful companies, by definition, must accomplish the seemingly impossible. If it were easy, it would have already been done. Never shy away from a solution because it has never been tried before, and never choose to do something because that's “how it's always been done”</p></li><li><p><em>Go Where the Work I</em>s - Never miss a chance to meet a customer, user, or stakeholder face to face, even if that means hopping on a plane. If you can’t make it, find a teammate who can channel your intentions and go in your place. Deep work can be done from anywhere, but we believe teams are built in person, and aim to maximize our time together</p></li><li><p><em>Operate in the Grey</em> - Embrace nuance in pursuit of truth. Question every fundamental assumption</p><p></p></li></ul><p><strong>Equal Opportunity</strong></p><p>Antares is an Equal Opportunity Employer. Employment decisions are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "e3ea01c5db38e916793b6de573889ea2"
+  }
+}

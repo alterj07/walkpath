@@ -1,0 +1,170 @@
+{
+  "6f22b1d9debd": {
+    "id": "6f22b1d9debd",
+    "title": "Internship - Search Machine Learning Engineer",
+    "title_raw": "Internship - Search Machine Learning Engineer",
+    "company": {
+      "slug": "perplexity-ai",
+      "name": "Perplexity AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Belgrade",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "perplexity",
+      "external_id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-01-13T21:20:02.894Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.771Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Perplexity is looking for a Search Machine Learning Engineer Intern to help build the next generation of advanced search technologies, with a focus on retrieval and ranking. You will work closely with experienced engineers to improve search quality, experiment with new models, and ship features that directly impact how users search and discover information.</p><p>Internship program: 12 - 24 weeks, full-time, part-time, in-person in the Belgrade office.</p><p><strong>Responsibilities:</strong></p><ul><li><p>Contribute to experiments that improve search quality through better models, data usage, and evaluation tools, under the guidance of senior engineers.</p></li></ul><ul><li><p>Design and implement components of the search platform and model stack, including retrieval, ranking, and classification models.</p></li></ul><ul><li><p>Train evaluating models (including LLM-based approaches) for retrieval, ranking, and classification tasks.</p></li></ul><ul><li><p>Support deployment and monitoring of search and ranking models in a scalable and performant way.</p></li></ul><ul><li><p>Help build and iterate on RAG pipelines for grounding and answer generation.</p></li></ul><ul><li><p>Collaborate with Data, AI, Infrastructure and Product teams to deliver improvements quickly and learn best practices in production ML.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>Strong foundation in machine learning and statistics, with coursework or projects related to information retrieval, ranking, or recommender systems.</p></li><li><p>Experience with Python and common ML frameworks (e.g. PyTorch, TensorFlow, JAX) through academic, open source, or personal projects.</p></li><li><p>Familiarity with evaluating model quality using offline metrics and/or A/B testing is a plus, but not required.</p></li><li><p>Previous experience (internships, research, or significant projects) working on search, recommendation, or NLP is a plus, but not required.</p></li><li><p>Self-driven and curious, with a strong sense of ownership, willingness to learn, and comfort working in a fast-paced environment</p></li><li><p>Experience with Rust will be a plus</p><p></p></li></ul><p><strong>What we're looking for: </strong></p><ul><li><p><strong>You’ve built something you’re proud of: </strong>Not just a class assignment - we want to see a project you genuinely cared about and took the initiative to build and finish.</p></li><li><p><strong>You’re currently enrolled at a Serbian university: </strong>Bachelor’s, Master’s, or PhD program or you’re self-taught with a strong passion for software engineering and technology.</p></li><li><p><strong>You’re curious, persistent, and self-driven: </strong>you take ownership, work through challenges, and follow through on what you start.</p></li><li><p><strong>You’re eager to learn and improve:</strong> you’re willing to put in the work, develop your skills, and get better every week.</p></li><li><p><strong>You’re comfortable working in English:</strong> in a collaborative, professional environment.</p></li><li><p><strong>You thrive in a high-performance environment: </strong>you’re comfortable with high standards, direct feedback, and a fast pace.</p></li><li><p><strong>You’re willing to challenge and be challenged: </strong>You’re comfortable asking questions, sharing your perspective, and pushing back constructively when it matters.</p></li></ul>",
+    "content_hash": "b89cf8b1d5705c5742bd0904b29cf3dc"
+  },
+  "6f74612a5901": {
+    "id": "6f74612a5901",
+    "title": "Infrastructure Engineering Summer Intern",
+    "title_raw": "Infrastructure Engineering Summer Intern",
+    "company": {
+      "slug": "alliancebernstein",
+      "name": "AllianceBernstein",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Nashville, Tennessee",
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "abglobal/abcampuscareers",
+      "external_id": "R0019749"
+    },
+    "apply_url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:43:54.020Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><b>Who You’ll Work With:</b></p><p>The Technology team provides computing, communications, infrastructure, services, support, and innovations that sustain high-quality research and diverse investment services for institutional investors and private clients. The team also supports AB’s employees. Technical roles in our New York City and Nashville locations have a high degree of interaction with our investment teams.</p><p></p><p>The Operations team provides vital investment-management functions through more than two dozen offices located around the world. It’s dedicated to institutional investment-management services, private client administration, fund services, brokerage operations and change agents.</p><p></p><p><b>What You’ll Do:</b></p><p>The Infrastructure Engineering Summer Intern within our Technology &amp; Operations business unit will be gathering requirements and then designing and implementing the tools in collaboration with teams from GETS, as well as from development and other business areas. Interns will learn by working closely with their project manager, mentor, independent study, and team members. </p><p></p><p>Projects may be with the following teams:</p><ul><li><p>Cyber Security Unit (CSU)</p></li><li><p>Server and Desktop Technology</p></li><li><p>Application/Web Hosting</p></li><li><p>Database Management</p></li><li><p>Messaging &amp; Mobile Services</p></li><li><p>Networking</p></li><li><p>Desktop Engineering</p></li><li><p>Platform Engineering</p></li></ul><p></p><p>Summer Interns contribute to and learn from AB’s innovative use of technology, deep research capabilities, global presence, and breadth of investment management expertise. The flat corporate structure allows Interns to become deeply integrated into the team and contribute meaningfully to investment decision-making early on in their careers.</p><p>What We’re Looking For:</p><ul><li><p>December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts</p></li><li><p>Cumulative GPA of 3.3 or better</p></li><li><p><b>Must be a U.S. Citizen or Permanent Resident</b> (must be able to work in the U.S. without visa sponsorship now or in the future)</p></li><li><p>Candidates must be available to work full-time from June through August</p></li><li><p>Selected candidates will need to successfully complete a thorough background check</p></li><li><p>It is not permissible to simultaneously take academic classes or hold other employment that will conflict with the internship schedule</p></li><li><p>Interest in project management, particularly with the scoping of projects, capturing and documenting requirements, and defining use cases, user interfaces, and testing scenarios</p></li><li><p>Experience and interest in working with sophisticated technology including Linux, UNIX, DBMS (Oracle, MS SQL or Sybase), Networking, and/or Mobile Computing</p></li><li><p>Interest in leveraging AI and emerging technologies to improve infrastructure reliability, automate operational processes, strengthen security, and enhance the delivery of technology services</p></li><li><p>Excellent communication and presentation skills</p></li><li><p>Detail-oriented, ability to multi-task and work in a fast-paced environment</p></li></ul><p></p><p><b>Who We Are:</b></p><p>We are a leading global investment management firm offering high-quality research and diversified investment services to institutional clients, retail investors, and private-wealth clients in major markets around the globe. With over 4,000 employees across 57 locations operating in 26 countries and jurisdictions, our ambition is simple: to be the most trusted investment firm in the world. We realize that it's our people who give us a competitive advantage and drive success in the market, and our goal is to create an inclusive culture that rewards hard work.</p><p></p><p>Our culture of intellectual curiosity and collaboration creates an environment where you can thrive and do your best work. Whether you're producing thought-provoking research, identifying compelling investment opportunities, infusing new technologies into our business, or providing thoughtful advice to our clients, we are fully invested in you. If you're ready to challenge your limits and empower your career, join us!</p><p></p><p><b>How We Invest in You:</b></p><p>AB’s purpose is to pursue insight that unlocks opportunity.  It is why we exist and what we work at every day.  Our shared values define how we work.  They’re a foundation of our culture, which empowers all of us to be our complete selves – and contribute to our distinctive talents.  We invest in one another, strive for distinctive knowledge, speak with courage and conviction, and act with integrity – Always! </p><p></p><p>We recognize the value of investing in one another, fostering growth and advancement while meeting evolving individual needs. That’s why we’ve crafted a comprehensive internship program that includes, but is not limited to, the below opportunities:</p><ul><li><p>Firmwide Onboarding </p></li></ul><ul><li><p>Introduction to Asset Management and Capital Markets </p></li></ul><ul><li><p>Mentoring Program </p></li></ul><ul><li><p>Career Planning </p></li></ul><ul><li><p>Training and Development Opportunities  </p></li></ul><p></p>Nashville, Tennessee",
+    "content_hash": "eed22117e7c9317ec9df1cccbb19e6f0"
+  },
+  "6f9cd19ceb47": {
+    "id": "6f9cd19ceb47",
+    "title": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
+    "title_raw": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "445db430-6f81-41cf-847a-56a947afb936"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T18:28:54.868Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nAs a Modeling &amp; Simulation Software Engineering Intern you will work with the software team to develop performant modeling and simulation code for our 6DOF SITL simulation using Julia. You'll Interface with the Flight Software, HMI, and Flight Sciences teams to meet stakeholder needs and ensure accurate results. Your work will involve creating hardware/physics informed software models and validate results with real data. \n\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n\n<h3>Responsibilities:</h3>\nDevelop performant simulation code for 6 Degrees of Freedom (6DOF) Software-in-the-Loop (SITL) systems using Julia. \nDevelop user driven features and focus on scalability of our Monte Carlo simulation \nCollaborate with cross-functional teams including Flight Software, Human-Machine Interface (HMI), and Flight Sciences to align simulation outputs with stakeholder requirements. \nDesign and implement physics-informed models that accurately represent hardware behavior and system dynamics. \nValidate simulation accuracy by comparing model outputs with real-world flight data and refining models accordingly. \nOptimize simulation performance to ensure real-time execution and scalability across different test environments. \nParticipate in code reviews and testing cycles to maintain high software quality and reliability. \nDocument modeling assumptions, validation results, and integration workflows for internal knowledge sharing and future development. \n\n<h3>Requirements:</h3>\nPursuing a degree in Computer Science, Aerospace Engineering, Electrical Engineering, Applied Mathematics, or a related technical field. \nProficiency in Julia or strong experience with scientific computing languages such as Python, MATLAB, or C++. \nUnderstanding of 6DOF dynamics and simulation principles, especially in aerospace or robotics contexts. \nFamiliarity with modeling physical systems, including hardware-in-the-loop or physics-informed simulation techniques. \nExperience with data validation and analysis, including comparing simulation outputs to real-world data. \nStrong understanding of engineering first principles \nDemonstrated ability to work within cross-functional teams \nEnthusiasm for aviation and Hermeus' mission \nExcellent written and verbal communication skills \nGPA of 3.0 or above \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "155f439b97d1699c88c143968a531fbe"
+  },
+  "6ff16d3046de": {
+    "id": "6ff16d3046de",
+    "title": "Intern, Medium Voltage Test Engineering",
+    "title_raw": "Intern, Medium Voltage Test Engineering",
+    "company": {
+      "slug": "heron-power",
+      "name": "Heron Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Scotts Valley",
+      "city": "Scotts Valley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heron-power",
+      "external_id": "46097ca0-4093-4a56-9c44-8ec41617bbc0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T15:55:06.262Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.803Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>What to Expect</h3><p>Heron Power is a startup company building cutting-edge power electronics for the 21st-century grid. We aim to de-bottleneck the growth of electricity generation and consumption with scalable, innovative, and less costly hardware solutions, accelerating the electrification of everything.</p><p>Our first goal is to build better converters (inverters &amp; rectifiers) to connect large-scale renewables, storage, and loads to the grid. Heron’s leadership team is made up of seasoned veterans who have designed and shipped gigawatts of power conversion products over the past decade.</p><p>We understand that no one individual knows everything. We will all learn a lot together and from each other. We strive to build a collaborative, enriching environment conducive to personal, technical, and career growth. You can expect to work in a dynamic environment, driven by first principles engineering, solving difficult problems—with a strong bias toward hands-on execution and learning by doing.</p> <h3>Job Overview</h3><p>You will build and operate the high-voltage test infrastructure we use to characterize and qualify insulation systems in medium-voltage power electronics. This role owns a real piece of the reliability validation loop: test bench setup, dielectric characterization campaigns, degradation analysis, and structured failure mode documentation. You will work with equipment and methodologies that most EE programs never expose students to—and you will be building the data foundation that informs how we design insulation systems for grid-tied hardware at scale.</p><p></p><h3>How You Will Contribute</h3><p><strong>Medium Voltage Test Infrastructure</strong></p><ul><li><p><em>Design, build, and operate medium-voltage test benches: HV power supplies, measurement dividers, partial discharge detection systems, protective earthing schemes, and safety interlocks.</em></p></li></ul><ul><li><p><em>Own bench system design: HV clearances, grounding architecture, protection strategy, measurement integrity, and safe operating procedures.</em></p></li></ul><ul><li><p><em>Build and document test fixtures for cable assemblies, busbars, insulation specimens, and HV subcomponents—to a standard someone else can operate safely.</em></p></li></ul><ul><li><p><em>Learn and strictly enforce MV lab safety protocols: electrical clearances, interlock design, lockout/tagout, and safe approach procedures.</em></p></li></ul><p><strong>Dielectric Characterization &amp; Testing</strong></p><ul><li><p><em>Execute dielectric strength tests—AC/DC withstand and impulse—against defined acceptance criteria; own data collection and reporting.</em></p></li></ul><ul><li><p><em>Perform insulation resistance, polarization index, and dielectric loss (tan δ) measurements using HV megohmmeters, LCR bridges, and dielectric analyzers.</em></p></li></ul><ul><li><p><em>Run partial discharge (PD) measurements end to end: system setup, acquisition, PRPD pattern generation, and first-pass interpretation.</em></p></li></ul><ul><li><p><em>Execute accelerated aging and environmental stress campaigns on insulating materials under thermal, humidity, and combined stress conditions.</em></p></li></ul><p><strong>Degradation Analysis &amp; Closing the Loop</strong></p><ul><li><p><em>Track and analyze degradation trends across test campaigns: capacitance drift, tan δ evolution, PD magnitude and repetition rate, breakdown statistics.</em></p></li></ul><ul><li><p><em>Build structured data workflows and visualizations that clearly show baseline, stressed, and failed states—and make the trajectory actionable.</em></p></li></ul><ul><li><p><em>Produce failure mode documentation: what failed, what the failure mechanism was, what the precursor signals were, and what changed.</em></p></li></ul><ul><li><p><em>Partner with design and materials engineering to translate test findings into corrective actions and design improvements.</em></p></li></ul><p><strong>Materials Characterization &amp; Inspection</strong></p><ul><li><p><em>Support post-failure analysis: specimen dissection, cross-section preparation, visual and microscopic inspection, comparison against reference specimens.</em></p></li></ul><ul><li><p><em>Maintain sample tracking logs, calibration records, and test procedure documentation to production-quality standards.</em></p></li></ul><h3>What You Will Bring</h3><p>We prioritize a strong foundation in first principles, practical skill, an inquisitive mindset, and a proactive attitude. We care as much—or more—about how you work as what you already know.</p><h3><strong>Must-Have</strong></h3><ul><li><p><em>Pursuing a BS or MS in Electrical Engineering, Physics, or Materials Science.</em></p></li></ul><ul><li><p><em>Coursework in electromagnetics, dielectrics, or high-voltage engineering—or demonstrated independent study in this area.</em></p></li></ul><ul><li><p><em>Genuine technical interest in high-voltage physics, insulation behavior, and failure mechanisms.</em></p></li></ul><ul><li><p><em>Strong debugging instincts: ability to isolate failure modes, design targeted experiments, and close findings into documented root causes.</em></p></li></ul><ul><li><p><em>Detail-oriented and safety-conscious—MV lab work demands rigor and discipline.</em></p></li></ul><h3><strong>Nice-to-Haves</strong></h3><ul><li><p><em>Exposure to partial discharge theory, dielectric spectroscopy, or high-voltage lab techniques.</em></p></li></ul><ul><li><p><em>Familiarity with IEC or IEEE dielectric testing standards (IEC 60243, IEC 60270, or similar).</em></p></li></ul><ul><li><p><em>Experience with data analysis and visualization in Python or MATLAB.</em></p></li></ul><ul><li><p><em>Prior lab research in materials characterization, high-voltage systems, or power electronics.</em></p></li></ul><p>If you are passionate about technology and enjoy working in a fast-paced environment, we would love to hear from you. Join us in accelerating the electrification of everything at Heron Power. </p>",
+    "content_hash": "00d09cd6255bf4c82331a1a464a07f5c"
+  }
+}

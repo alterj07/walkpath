@@ -1,0 +1,132 @@
+{
+  "da1c3a8a2989": {
+    "id": "da1c3a8a2989",
+    "title": "AI Innovation Internship",
+    "title_raw": "AI Innovation Internship",
+    "company": {
+      "slug": "fundwell",
+      "name": "Fundwell",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fundwell",
+      "external_id": "2d91136d-b54d-4ed0-93de-22c7839a3982"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-02T17:51:56.945Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.415Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2026",
+    "salary": {
+      "min": 20,
+      "max": 20,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Build. Compete. Win $25,000.</strong></h3><h3><strong>Duration:</strong> June – August 2026 (3 months) </h3><p>Fundwell is a financial technology platform revolutionizing the way businesses access capital. Traditional business financing often involves complex processes, hidden fees, and lengthy approval times. We're changing that and fast. Leveraging our proprietary technology, deep industry expertise, and ethical-first approach, we deliver quick, transparent, and tailored funding solutions to small and medium-sized businesses nationwide. Today, our platform is expanding beyond financing into receivables, payables, and embedded payments, giving businesses greater control over their cash flow.</p><p></p><h3><strong>What You'll Be Working On</strong></h3><p>We're accepting five interns, you'll be handed a real problem, a real budget, and the autonomy to solve it. We are hosting a 3 month long hackathon for interns to build something that can change the trajectory of Fundwell. Then we judge it, and someone will walk away with $25,000.</p><p>Your project will be scoped to your strengths and Fundwell's highest-leverage opportunities at the time. That means building AI-powered tools, automation workflows, and intelligent systems that create measurable impact across the business — from how we attract customers to how we build products.</p><p>Whatever your track, the expectation is the same: identify the opportunity, build the solution, demo your progress, and show results. We'll give you the resources. The rest is on you.</p><p></p><h3><strong>The Program</strong></h3><p>From day one, you're building toward a final presentation to a panel of judges that includes our executive leadership. Throughout the summer, you'll run regular demos to show your progress and iterate based on feedback. At the end, the intern with the best results — measured by real impact, creativity, and execution.</p><p>Prizes:</p><ul><li><p><strong>1st Place: $25,000 grand prize</strong></p></li><li><p><strong>2nd Place: An all-expenses-paid trip for you and your friends**</strong></p></li></ul><p></p><h3><strong>Who We're Looking For</strong></h3><p>You're a student with a genuine obsession with AI and automation. You don't wait for permission to build things. You've probably already shipped something on your own, even if it's small.</p><p>You should apply if:</p><ul><li><p>You're comfortable working with LLMs, APIs, MCP and automation tools</p></li><li><p>You thrive with open-ended problems and minimal hand-holding</p></li><li><p>You want real ownership, not busywork</p></li><li><p>You're genuinely competitive and the idea of a $25K prize makes you sharpen up</p></li><li><p>You have a background in CS, engineering, data science, or a related technical field is preferred, but we care more about what you've built than your major.</p></li></ul><h3><strong>What’s in it for You</strong></h3><ul><li><p>$20–25/hour base compensation</p></li><li><p>Latest-Gen Mac Mini workstation</p></li><li><p>Virtual spend card loaded with AI credits (Anthropic, OpenAI, and more)</p></li><li><p>A sandboxed environment to build freely — no red tape, no production risk</p></li><li><p>Direct access to Fundwell's leadership team</p></li><li><p>College credit coordination available upon request</p></li><li><p>A résumé line that actually means something</p></li></ul>",
+    "content_hash": "f177838a781b9c55a3e353540a05b237"
+  },
+  "da41841124bc": {
+    "id": "da41841124bc",
+    "title": "2027 Internship Sensor Systems Engineer",
+    "title_raw": "2027 Internship Sensor Systems Engineer",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "d7da851b-55c2-45d4-bf8b-aa879282f25c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T21:19:41.680Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3>About the Role &amp; Team</h3><p>Every new machine type we bring into the fleet raises the same question from scratch: which sensors, where do they go and what are they used for? The Systems / Sensors team answers it with analysis rather than guesswork, trading off coverage, cost, durability, and what will actually survive on a jobsite. As our Sensor Systems intern, you'll own sensor selection and placement analysis for a new machine platform, from first trade study to validation on real steel.</p><p></p><h3>What You'll Do</h3><ul><li><p>Work at the intersection between sensor physics, autonomy systems architecture, mechanical integration and design.</p></li><li><p>Analyze sensor coverage, occlusion, and blind spots for candidate sensor suites on new machine types</p></li><li><p>Build or extend tooling that models field of view, range, and coverage geometry</p></li><li><p>Run trade studies weighing performance against cost, durability, and mounting constraints</p></li><li><p>Prototype mounting concepts and validate coverage assumptions on actual machines</p></li><li><p>Turn your analysis into sensor requirements and specs the hardware team can build to</p></li><li><p>Work across perception, hardware, and safety to make sure the suite serves everyone downstream</p></li></ul><h3>What We're Looking For</h3><h3>Required</h3><ul><li><p>Currently pursuing a BS, MS, or PhD in an engineering or engineering-adjacent discipline such as mechanical, electrical, physics, mechatronics, robotics, or computer science (or bringing equivalent hands-on experience)</p></li><li><p>Solid grasp of 3D geometry, coordinate frames, and transforms</p></li><li><p>Python for analysis and tooling</p></li><li><p>CAD fluency -  enough to reason about where hardware physically goes</p></li><li><p>Willingness to go to mock construction sites and test sensor configurations</p></li></ul><h3>Preferred</h3><ul><li><p>Experience with device physics, ray tracing, rendering or coverage simulation</p></li><li><p>Familiarity with autonomous vehicle sensor suites</p></li><li><p>Exposure to heavy equipment or off-road machinery</p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "e0167920be2ac5942a3a645e885c2221"
+  },
+  "da863a70a515": {
+    "id": "da863a70a515",
+    "title": "Supply Chain Data & Analytics Intern (2027 Summer Internship)",
+    "title_raw": "Supply Chain Data & Analytics Intern (2027 Summer Internship)",
+    "company": {
+      "slug": "northwood-space",
+      "name": "Northwood Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Torrance, CA",
+      "city": "Torrance",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "northwoodspace",
+      "external_id": "69f99cd7-3ce7-413a-8cfe-29b7ccbc1490"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T23:46:52.992Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.041Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 34,
+      "max": 34,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Northwood:</strong></p><p>Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.</p><p></p><p><strong>Role:</strong></p><p>We are seeking a <strong>Supply Chain Data &amp; Analytics Intern</strong> to join our team for the summer in 2027. You will be at the cutting edge of turning complex supply chain challenges into high-impact, data-driven solutions. You won’t just be analyzing spreadsheets—you’ll be designing predictive models, building automated data pipelines, and creating tools that shape how we forecast demand, optimize inventory, and manage supplier performance across a fast-growing, high-tech operation. You will collaborate directly with engineers, operations leaders, and data scientists to influence strategic decisions and make an immediate, visible impact on the company’s growth trajectory. If you’re excited by solving problems with data, pushing technological boundaries, and seeing your insights drive tangible outcomes, this role is for you.</p><p><strong>Responsibilities:</strong></p><ul><li><p>Develop ETL pipelines and automate data collection from multiple internal and external sources.</p></li></ul><ul><li><p>Build predictive models for demand forecasting, inventory optimization, and supplier risk analysis.</p></li></ul><ul><li><p>Analyze lead times, procurement trends, logistics efficiency, and other operational metrics.</p></li></ul><ul><li><p>Design dashboards and reporting tools to provide real-time, actionable insights.</p></li></ul><ul><li><p>Conduct scenario modeling to support decision-making on production, procurement, and distribution.</p></li></ul><ul><li><p>Implement data validation processes and quality checks to ensure accuracy and reliability.</p></li></ul><ul><li><p>Present complex analyses in a clear, compelling way to cross-functional teams and leadership.</p></li></ul><ul><li><p>Contribute to building scalable data systems and analytics best practices within the supply chain function.</p></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>Pursuing a degree in Supply Chain Management, Industrial Engineering, Data Science, Business Analytics, or related field.</p></li></ul><ul><li><p>Strong analytical and problem-solving skills with a passion for data-driven decision making.</p></li></ul><ul><li><p>Proficiency in Excel; experience with SQL, Python, R, or data visualization tools (e.g., Tableau, Power BI, Looker) is a plus.</p></li></ul><ul><li><p>Experience with predictive modeling, statistical analysis, or machine learning applied to operations or supply chain problems.</p></li></ul><ul><li><p>Interest in supply chain operations and how data can drive efficiency and resilience.</p></li></ul><ul><li><p>Strong communication skills-you can translate numbers into insights and tell a story.</p></li></ul><ul><li><p>Self-starter who is curious, detail-oriented, and eager to learn in a fast-paced environment.</p></li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><ul><li><p>Prior experience in the aerospace, satellite, telecommunications, or defense industries</p></li></ul><ul><li><p>Experience with ERP Systems (NetSuite, Oracle/SAP)</p></li></ul><ul><li><p>Startup or fast-paced environment experience a plus</p></li></ul><p></p><p><strong>Additional Information:</strong></p><p>If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.</p><p></p><p><em>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</em></p><p></p><p>Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "e5858a5fd26b4916d36a164eb909fc70"
+  }
+}

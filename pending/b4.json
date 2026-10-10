@@ -1,0 +1,87 @@
+{
+  "b402f6303d53": {
+    "id": "b402f6303d53",
+    "title": "Engineering Fellowship",
+    "title_raw": "Engineering Fellowship",
+    "company": {
+      "slug": "10a-labs",
+      "name": "10a Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Washington D.C.",
+      "city": "Washington",
+      "state": "DC",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "10alabs",
+      "external_id": "4203095009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-27T18:16:06.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:27.558Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 30,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About 10a Labs: </strong>10a Labs is the safety and threat-intelligence layer trusted by frontier AI labs, AI unicorns, Fortune 10 companies, and leading global technology platforms. Our adversarial red teaming, model evaluations, and intelligence collection enable engineering, safety, and security teams to stay ahead of evolving threats and deploy AI systems safely.</p><p><strong>About the role</strong>: As an Engineering Fellow, you will apply your technical skills to support high-impact research problems. Fellows will contribute across the project lifecycle — from processing diverse data sources and designing dynamic visualizations, to deploying sophisticated models and building cloud infrastructure. This is a hands-on role at the intersection of applied research and practical engineering, with opportunities to explore novel methods, test ideas quickly, and generate insights. </p>\n<p>Fellows specialize in one of three concentrations based on interest and past experience: Software Engineering, Data Engineering, or Machine Learning. </p>\n<p><strong>In this role, you will:</strong></p>\n<ul>\n<li>Collaborate with engineers on real projects, including client-facing products and in-house tooling;</li>\n<li>Assist with researching experiment design and automation, particularly as it relates to abuse detection or red teaming of AI systems;</li>\n<li>Ideate / brainstorm new research approaches to known and novel problems in the Trust &amp; Safety and AI Security fields; and</li>\n<li>Support other critical initiatives. </li>\n</ul>\n<p><strong>Software Engineering concentration responsibilities may include:</strong></p>\n<ul>\n<li>Implementing cloud infrastructure for deploying machine learning models;</li>\n<li>Writing high-coverage test suites for complex codebases; and</li>\n<li>Guiding project development with software engineering best practices, including version control, continuous integration, and design patterns. </li>\n</ul>\n<p><strong>Data Engineering concentration responsibilities may include:</strong></p>\n<ul>\n<li>Sourcing, curating, and processing diverse data sources across domains and modalities, including automated collection of internet-scale datasets; </li>\n<li>Designing data architecture schemata, implementing with production-grade data storage tools, and interfacing via custom APIs; and </li>\n<li>Developing front-end dashboards and other visualizations.  </li>\n</ul>\n<p><strong>Machine Learning concentration responsibilities may include:</strong></p>\n<ul>\n<li>Training, validating, evaluating, and deploying cutting-edge machine learning algorithms including classifiers, LLMs, and computer vision models;</li>\n<li>Building agentic systems for automated prompting, red-teaming, research, and rapid experimentation; </li>\n<li>Supporting projects with specialized knowledge of frontier model architectures and cutting-edge technology. </li>\n</ul>\n<p><strong>We’re looking for someone who: </strong></p>\n<ul>\n<li>Brings curiosity and creativity to ambiguous research problems, with a bias toward experimentation and rapid iteration; </li>\n<li>Thrives in collaborative, interdisciplinary environments; is resourceful, proactive, and adaptable;</li>\n<li>Is comfortable communicating technical ideas clearly to both technical and non-technical audiences; and </li>\n<li>Is excited about contributing to real-world applications and exploring new methods that push beyond standard benchmarks. </li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>Strong academic background and quantitative foundation demonstrated through applied coursework, research, or hands-on-experience</li>\n<li>Strong Python background</li>\n<li>Clear communicator of technical concepts for non-technical audiences</li>\n</ul>\n<p><strong>Nice to have:</strong></p>\n<ul>\n<li>Familiarity with Google Cloud Platform (or similar), including storage and database services (e.g., Cloud Storage, CloudSQL, Cloud Spanner), workflow orchestration (e.g., Cloud Composer/Airflow, Cloud Run, Pub/Sub), and ML services (e.g., Vertex AI, Compute Engine)</li>\n<li>Experience managing full lifecycle projects from design to deployment</li>\n</ul>\n<p><strong>Software Engineering: </strong></p>\n<ul>\n<li>\n<ul>\n<li>Experience designing and building end-to-end backend systems, from architecture and data modeling to deployment, scaling, and monitoring</li>\n<li>Proficiency in backend programming languages such as Python, Java, Kotlin, Node.js, or Go and experience building secure systems, APIs, and microservices</li>\n<li>Knowledge of security best practices, including authentication methods (OAuth, JWT), encryption, and secure API development; knowledge of common attack vectors (SQL injection, privilege escalation, DDoS) and effective mitigation strategies</li>\n</ul>\n</li>\n</ul>\n<p><strong>Data Engineering: </strong></p>\n<ul>\n<li>\n<ul>\n<li>Experience with web scraping/crawling (e.g., Beautiful Soup, Selenium, Scrapy)</li>\n</ul>\n</li>\n</ul>\n<p><strong>Machine Learning Engineering: </strong></p>\n<ul>\n<li>\n<ul>\n<li>Computer vision skills (OCR, image classification, deep fake detection)</li>\n<li>Familiarity with multimodal learning (text-image or text-audio) or cross-domain model evaluation</li>\n<li>Exposure to MLOps tools and practices (Docker, Kubernetes, CI/CD for ML, MLflow, etc.)</li>\n<li>Understanding of modern retrieval-augmented generation (RAG), AI agent frameworks, and context-aware orchestration (e.g., LangChain, LlamaIndex, OpenAI Agents, or AutoGen) for building intelligent applications</li>\n</ul>\n</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Flexible start / end dates</li>\n<li>Remote work (based in the continental<strong> </strong>U.S.) </li>\n<li>Flexible schedule, up to 20 hours per week (negotiable)</li>\n<li>Hourly pay commensurate with experience and qualifications</li>\n<ul>\n<li>$30 per hour for undergraduate students </li>\n<li>$35 per hour for graduate students</li>\n<li>$50 per hour for advanced PhD students</li>\n<li>$60 per hour for postdocs or non-tenured positions</li>\n<li>$125 per hour for tenure-track academics</li>\n</ul>\n</ul>",
+    "content_hash": "2c6ba8d4db47e17ab8a2ba9d256ba68e"
+  },
+  "b406f0873004": {
+    "id": "b406f0873004",
+    "title": "Product Safety Engineering Intern - Summer 2027",
+    "title_raw": "Product Safety Engineering Intern - Summer 2027 - Franklin, TN and Smyrna, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Franklin, Tennessee - United States of America",
+      "city": "Franklin",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214249"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Safety-Engineering-Intern---Summer-2027---Franklin--TN-and-Smyrna--TN_R00214249",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Franklin, TN and Smyrna, TN (Field Quality Center)<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Mechanical Engineering, Electrical Engineering, Biomedical Engineering, Biomechanical Engineering, or related field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Product Safety Engineering Intern to join our team in Franklin, TN and Smyrna, TN. The Product Safety Engineering team is responsible for evaluating vehicle safety performance, investigating field issues, and analyzing technical data to identify potential safety concerns and opportunities for risk mitigation. This internship provides exposure to automotive engineering, vehicle testing, safety regulations, data analytics, and cross-functional collaboration with engineering, legal, quality, and regulatory compliance teams.</p><br /><p><b>A Day in the Life:</b></p><ul><li>Assist with vehicle and component-level field investigations related to product safety concerns.</li><li>Support crash analyses and technical evaluations to assess vehicle and system performance.</li><li>Prepare technical engineering reports that communicate investigation findings and support business activities.</li><li>Support child safety seat fitment evaluations and child and teen safety advocacy initiatives.</li><li>Participate in community outreach and STEM activities focused on traffic safety awareness and education.</li></ul><br /><p><b>Who We’re Looking For</b>:</p><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Mechanical Engineering, Electrical Engineering, Biomedical Engineering, Biomechanical Engineering, or a related field.</li><li>Students entering their Junior or Senior year at the start of the upcoming academic term.</li><li>Basic knowledge of vehicle design and safety systems, including airbags, seat belts, energy management systems, electronic stability control (ESC), advanced driver assistance systems (ADAS), and vehicle dynamics.</li><li>Aptitude for conducting investigations, assessing component and system performance, and preparing technical reports.</li><li>Familiarity with automotive diagnostics and troubleshooting methodologies.</li><li>Experience with data analysis tools and interpreting technical data.</li><li>Strong analytical, problem-solving, and communication skills.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Franklin, TN and Smyrna, TN as needed.</li></ul><br /><p><b>What You’ll Look Forward to at Nissan</b>:</p><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Franklin Tennessee United States of America",
+    "content_hash": "329ca094c028e12f7ad3b6eb2743332f"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "b68427643d69": {
+    "id": "b68427643d69",
+    "title": "Internship",
+    "title_raw": "Internship",
+    "company": {
+      "slug": "kinetic-systems",
+      "name": "Kinetic Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "kineticsystems",
+      "external_id": "209873f8-541e-4afe-9782-78487dffb734"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-18T21:37:29.782Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.457Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Kinetic Systems is an applied research lab building data infrastructure for the autonomous hospital.</p><p>We spun out of the Stanford PhD program in 2025 and are backed by General Catalyst. Our mission is to advance the capabilities of frontier models for solving clinically and economically meaningful healthcare tasks.</p> <h3>The Role</h3><p>As an<strong> Intern</strong>, you’ll get hands-on experience across the full stack of what we do: product, research, training, evals, and infrastructure.</p><p><strong>Note: </strong>This is a full-time role, required to be in-person in SF. Internships must be at least 3-months.</p> <h3>What You’ll Do</h3><ul><li><p>Whatever it takes! Please read the other job descriptions to get a sense of what we do</p></li></ul> <h3>Who You Are</h3><ul><li><p>Have experience with PyTorch, HuggingFace, or similar libraries</p></li><li><p>Familiar with best practices around RLEs, benchmarks, evals, and post-training</p></li><li><p>Interested in healthcare as an application (prior background not necessary)</p></li></ul> <h3>Why Us</h3><p>If you join our team, you will be joining a team with leading healthcare + AI expertise, and an opportunity to help advance AI research in one of its most meaningful application areas.</p>",
+    "content_hash": "dc129dea858ba06661b23726d9a9fce7"
+  }
+}

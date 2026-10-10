@@ -1,0 +1,47 @@
+{
+  "3fceece0f8f6": {
+    "id": "3fceece0f8f6",
+    "title": "New Grad Software Engineer (Full Stack)",
+    "title_raw": "New Grad Software Engineer (Full Stack)",
+    "company": {
+      "slug": "n1",
+      "name": "N1",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "n1",
+      "external_id": "73724fe2-9a93-4a60-b349-4fd3d2efa94a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-12-11T15:27:25.906Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.213Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 180000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About N1:</strong></p><p>N1 is the first hyper-performant and horizontally scalable blockchain network designed to enable trustless computing at internet scale. </p><p>N1 is comprised of a team spanning backgrounds from Harvard, CMU, DFINITY, VMWare, Galaxy Digital, and more, and is backed by top-tier institutions like Founders Fund, Kraken Ventures, SALT, Amber Group, and more.</p><p></p><p><strong>Position Overview:</strong></p><p>We are seeking a Software Engineer, Full-Stack to join our engineering team full-time. This role involves developing front-end, server-side, and database applications with a focus on blockchain products. The ideal candidate is highly organized, service-oriented, scrappy, and product-minded. You will be responsible for owning and enhancing our web-based platforms and internal tools, ensuring they are intuitive, secure, and high-performance.</p><p></p><p><strong>Requirements:</strong></p><ul><li><p>Scrappy, resourceful, and product-driven engineer</p></li><li><p>An eye for good front-end design</p></li><li><p>Strong experience with React/TypeScript/NodeJS/Next, and database systems</p></li><li><p>Experience with a wide array of technical expertises and software development processes</p></li><li><p>Strong communications skills both written and verbal</p></li><li><p>Writing good technical documentation</p></li><li><p>Love problem solving</p></li></ul><p><br /><em>The base salary range for this full-time position is $100K- $180K. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in New York at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.</em></p>",
+    "content_hash": "a4b1680a44869ad20c76c2843f25470d"
+  }
+}

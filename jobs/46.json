@@ -1,0 +1,49 @@
+{
+  "46aa76788625": {
+    "id": "46aa76788625",
+    "title": "Embedded Software Engineering Intern - Summer",
+    "title_raw": "Embedded Software Engineering Intern - Summer",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "15020e6e-be1c-4455-95a3-aa798474cec4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-05T16:55:33.634Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p> <p><strong>About the role</strong></p><p>We’re hiring embedded software interns for the summer term to write the firmware and applications that run our fabs. The internship begins in May or June, with a preferred commitment of 4 to 8 months. You’ll be working on an integrated engineering team building semiconductor fabrication equipment, so you’ll be exposed to some very interesting engineering problems. You’ll be bringing up high-performance tools with tight requirements in areas such as structures, optics, liquids, heat transfer, physics, and chemistry. You’ll be a good fit if you’re familiar with end-to-end system bring-up.</p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months.<strong> Because of this, a portfolio (can be your GitHub) is required to apply</strong>: show us the things you’ve actually built!  For us, a good portfolio includes evidence of software engineering excellence and curiosity. </p> <p><strong>Responsibilities</strong></p><ul><li><p>Develop real-time linux applications and microcontroller firmware in Rust for controlling semiconductor fabrication equipment</p></li><li><p>Build backend systems for capturing and analyzing semiconductor process data</p></li></ul> <p><strong>Required Experience</strong></p><ul><li><p>Pursuing a Bachelor’s Degree or higher in Electrical and Computer Engineering, Computer Science, or similar field</p></li><li><p>Proficiency in Python/C/C++</p></li><li><p>Low level systems programming experience and good understanding of embedded systems and OS concepts (Linux/RTOS)</p></li><li><p>Microcontroller programming experience, knowledge of microcontroller peripherals such as ADC, GPIO, PWM, SPI and I2C</p></li></ul> <p><strong>Nice-to-have</strong></p><ul><li><p>Familiarity with electronics and feedback control systems</p></li><li><p>Proficiency in Rust</p></li></ul> <p><strong>Working at fab2</strong><br />We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p><br /><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p></li></ul><p></p><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p><br /><strong>Export Control Analysis: </strong>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p> <p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "d2361da9909b367c17db5a8c5dadfe7b"
+  }
+}

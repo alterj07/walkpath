@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in VA</title>
+  <id>https://walkpath.vercel.app/feeds/state-VA.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-VA.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:1759860c86d8</id>
+    <title>2027 Embedded Systems / Software Engineering Undergrad Intern @ The Aerospace Corporation</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/1759860c86d8"/>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <published>2026-10-08T00:00:00.000Z</published>
+    <author><name>The Aerospace Corporation</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering…</summary>
+    <content type="text">The Aerospace Corporation · Chantilly, VA +1 more
+
+The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:180eeaf02e7a</id>
+    <title>Software Engineering Intern @ Range</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/180eeaf02e7a"/>
+    <updated>2026-10-01T23:50:30.689Z</updated>
+    <published>2026-10-01T23:50:30.689Z</published>
+    <author><name>Range</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Software Engineering InternRange is creating AI-powered solutions to eliminate financial complexity for our members. We&apos;re transforming wealth management through the perfect blend of cutting-edge technology and human expertise. We&apos;re obsessed with member experience! We&apos;ve built an integrated…</summary>
+    <content type="text">Range · McLean, VA
+
+Software Engineering InternRange is creating AI-powered solutions to eliminate financial complexity for our members. We&apos;re transforming wealth management through the perfect blend of cutting-edge technology and human expertise. We&apos;re obsessed with member experience! We&apos;ve built an integrated…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:737d55b8195b</id>
+    <title>Transportation Engineer Intern - May 2027 @ AMT Engineering</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/737d55b8195b"/>
+    <updated>2026-09-15T22:09:13.261Z</updated>
+    <published>2026-09-15T22:09:13.261Z</published>
+    <author><name>AMT Engineering</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">A. Morton Thomas and Associates, Inc. (AMT) is seeking a highly motivated and diverse Transportation Engineer Intern (STEM - Science, Technology, Engineering or Math) to join us in our Herndon, VA office for the 2027 internship period. This is a paid full-time position with anticipated duration…</summary>
+    <content type="text">AMT Engineering · Herndon, VA +5 more
+
+Season: Summer 2027
+
+A. Morton Thomas and Associates, Inc. (AMT) is seeking a highly motivated and diverse Transportation Engineer Intern (STEM - Science, Technology, Engineering or Math) to join us in our Herndon, VA office for the 2027 internship period. This is a paid full-time position with anticipated duration…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:aea3896d82a5</id>
+    <title>Software Engineering Intern (US) - Summer 2027 @ TELUS Digital</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/aea3896d82a5"/>
+    <updated>2026-08-28T20:44:04.131Z</updated>
+    <published>2026-08-28T20:44:04.131Z</published>
+    <author><name>TELUS Digital</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Who We AreWelcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through…</summary>
+    <content type="text">TELUS Digital · Charlottesville, VA +2 more
+
+Season: Summer 2027
+
+Who We AreWelcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:11a9c61bff2e</id>
+    <title>JSP ETM (Future Opportunity) - COOP &amp; Cyber Continuity Analysts @ AGE Solutions</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/11a9c61bff2e"/>
+    <updated>2025-08-07T14:58:27.000Z</updated>
+    <published>2025-08-07T14:58:27.000Z</published>
+    <author><name>AGE Solutions</name></author>
+    <category term="it_cloud_security" label="IT / Cloud / Security"/>
+    <summary type="text">About Us AGE Solutions is a premier technology and professional services company, providing in-depth consulting, advanced technology solutions, and essential services throughout the U.S. government, defense, and intelligence sectors. Prioritizing innovation and client-focused solutions, we assist…</summary>
+    <content type="text">AGE Solutions · Arlington, VA
+
+About Us AGE Solutions is a premier technology and professional services company, providing in-depth consulting, advanced technology solutions, and essential services throughout the U.S. government, defense, and intelligence sectors. Prioritizing innovation and client-focused solutions, we assist…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

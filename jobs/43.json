@@ -1,0 +1,42 @@
+{
+  "43b7e630c485": {
+    "id": "43b7e630c485",
+    "title": "AI Labs Intern",
+    "title_raw": "AI Labs Intern",
+    "company": {
+      "slug": "interplay",
+      "name": "Interplay",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "interplay",
+      "external_id": "bdf67758-1f20-4a01-8bb3-ccebfa79e9ac"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T17:02:17.534Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.848Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>AI LABS INTERN</strong></p><p></p><p><strong>LOCATION</strong></p><p>New York, NY, USA<br />(Hybrid work – required to be in office 2–3 days/week)</p><p></p><p><strong>JOB DESCRIPTION</strong></p><p>At Interplay, we invest, coach, and cofound companies. We're building a next-generation AI operations platform designed to transform how our firm and portfolio companies operate. We're looking for an AI Intern to join our Platform team and work alongside our engineers on Ivy and other internal products. You'll sit close to the people actually using our tools, find what's broken or missing, and help build the fix — learning by shipping into real production workflows rather than a sandbox.</p><p></p><p><strong>WHAT YOU'LL DO</strong></p><ul><li><p>Sit with business line teams and document how their workflows actually run today.</p></li><li><p>Test and QA new AI protocols before they go live; triage issues and reproduce bugs.</p></li><li><p>Prototype small tools, scripts, and integrations that solve a specific person's specific problem.</p></li><li><p>Write and maintain documentation for internal tools and protocols.</p></li><li><p>Run research tasks — competitive scans, vendor evaluations, feasibility checks on new capabilities.</p></li><li><p>Take on one-off build tasks across frontend, backend, and APIs as they come up.</p><p></p></li></ul><p><strong>WHO YOU ARE</strong></p><ul><li><p>A current student or recent grad who builds things for fun, not just for class.</p></li><li><p>Comfortable asking non-technical people a lot of questions.</p></li><li><p>Scrappy and resourceful, with a bias toward getting something working.</p></li><li><p>Curious about AI and LLM tooling.</p></li><li><p>A clear communicator, in writing and in person.</p></li><li><p>Positive, coachable, and outcome-driven.</p><p></p></li></ul><p><strong>REQUIRED SKILLS</strong></p><ul><li><p>Currently enrolled in or recently completed a degree in Computer Science or a related field, or equivalent hands-on building experience.</p></li><li><p>Working proficiency in at least one modern programming language (Python, JavaScript/TypeScript).</p></li><li><p>Basic understanding of APIs and databases (SQL).</p></li><li><p>Evidence of shipping something end to end — coursework, internships, hackathons, or personal projects all count.</p></li><li><p>Strong written and verbal communication skills.</p></li><li><p>U.S. work authorization.</p><p></p></li></ul><p><strong>NICE TO HAVE</strong></p><ul><li><p>Experience with Next.js, Vercel, or Supabase.</p></li><li><p>Familiarity with AI/LLM platforms (Anthropic, OpenAI, Gemini).</p></li><li><p>Any experience building or prompting agents.</p><p></p></li></ul><p><strong>DETAILS</strong></p><p>10–20 hours per week, flexible around your class schedule<br />Potential to convert to full time</p>",
+    "content_hash": "6661e5350010c27c355b1306bf7d1bdc"
+  }
+}

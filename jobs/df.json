@@ -1,0 +1,87 @@
+{
+  "df160784d380": {
+    "id": "df160784d380",
+    "title": "Co-Op, Thermal Test Engineer, Fall 2026 (July-December)",
+    "title_raw": "Co-Op, Thermal Test Engineer, Fall 2026 (July-December)",
+    "company": {
+      "slug": "alloy-enterprises",
+      "name": "Alloy Enterprises",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Burlington, MA",
+      "city": "Burlington",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "alloyenterprises",
+      "external_id": "946e7ae1-d2ac-4889-a72a-268b0aeda9bd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-25T21:04:53.149Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:56.855Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 23,
+      "max": 23,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Cooling performance limits high-power computing, semi-conductor fab, cell networks, photonics, power electronics, and most of our digital world. Alloy Enterprises enables customers to break through these constraints with novel complex metal components that dramatically improve heat dissipation in high-performance systems. Alloy’s patented Stack Forging™ process enables complex micro-geometries, resulting in single-piece, leak-tight parts that deliver superior cooling performance, lower pressure drops, and exceptional reliability. Founded in 2020, Alloy is a 45-person hardtech startup that has raised over $50M in capital and is shipping components to customers manufacturing servers, lasers, semiconductor equipment, and defense systems.</p><p><strong>About the Role</strong></p><p>We are looking for a hands-on Mechanical or Industrial Engineering Co-op to support our thermal test lab and product validation efforts. This role is ideal for someone who enjoys building, troubleshooting, and working directly with hardware.</p><p>You will work closely with engineering and production teams to execute thermal and fluidic testing, develop test setups, and generate high-quality data that informs both product development and customer deliverables. Strong communication, attention to detail, and a bias toward action are critical to success in this role.</p><p><strong>What you will do:</strong></p><ul><li><p>Build, assemble, and maintain thermal and fluidic test setups (pumps, heat exchangers, sensors, plumbing, etc.)</p></li><li><p>Execute testing on cooling plates and assemblies, including:</p><ul><li><p>Leak testing</p></li><li><p>Flow rate measurement</p></li><li><p>Pressure drop (ΔP) characterization</p></li><li><p>Thermal performance evaluation</p></li></ul></li><li><p>Instrument test setups with thermocouples, pressure sensors, and flow meters</p></li><li><p>Collect, clean, and organize test data for analysis</p></li><li><p>Support development and refinement of standardized test methods</p></li><li><p>Troubleshoot test setups, fixtures, and data acquisition systems</p></li><li><p>Collaborate with engineering to evaluate new designs and process improvements</p></li><li><p>Assist in documenting results for internal reports and customer-facing materials</p></li><li><p>Help maintain lab organization, safety, and repeatability across test specimens</p></li></ul><p><strong>What You’ll Bring</strong></p><ul><li><p>Pursuing a degree in Mechanical Engineering, Industrial Engineering, or a related field</p></li><li><p>Strong hands-on aptitude and interest in building and debugging physical systems</p></li><li><p>Basic understanding of heat transfer, thermodynamics, and fluid mechanics</p></li><li><p>Experience with lab equipment, instrumentation, or test setups (academic or internship)</p></li><li><p>Ability to work independently and take ownership of tasks from setup through execution</p></li><li><p>Strong attention to detail and commitment to repeatable, high-quality results</p></li><li><p>Clear written and verbal communication skills</p></li></ul><p><strong>Preferred Experience:</strong></p><ul><li><p>Experience with data acquisition systems (DAQ), sensors, or lab instrumentation</p></li><li><p>Familiarity with Python, MATLAB, or similar tools for data analysis</p></li><li><p>Experience with CAD tools (Onshape or SOLIDWORKS)</p></li><li><p>Exposure to thermal systems, cooling loops, or fluid handling systems</p></li><li><p>Previous co-op, internship, or hands-on project experience in a lab or manufacturing environment</p></li></ul><p><em><strong>*Pay Range: $23-28/hour dependent on experience, qualifications, and education level</strong></em></p><p><strong>Additional requirements</strong></p><p>This position will require access to information subject to control under U.S. export control laws and regulations, including the Export Administration Regulations (“EAR”) and International Traffic in Arms Regulations (“ITAR”).  Please note that any offer for employment will be conditioned on authorization to receive controlled items without sponsorship for an export license.  </p><p></p><p><strong>Regarding Sponsorship</strong></p><p>Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa, including H-1B, H-1C, H-2A, H-2B, H-3, F-1 or OPT at this time.</p><p></p><p><strong>Equal employment opportunity</strong></p><p>We are committed to creating an equitable and inclusive environment for all our employees and seek to build a team that reflects the diversity of the people we hope to serve with our products. We are proud to be an equal opportunity employer.</p>",
+    "content_hash": "8ede4d36eafea7c974c3d2b8edf22fb3"
+  },
+  "df8393d5f2d9": {
+    "id": "df8393d5f2d9",
+    "title": "Quality Assurance Internship (QA)",
+    "title_raw": "Quality Assurance Internship (QA)",
+    "company": {
+      "slug": "fanatee",
+      "name": "Fanatee",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid, SP",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fanatee",
+      "external_id": "eef92e98-8947-4259-b920-89028284ea84"
+    },
+    "apply_url": "https://jobs.lever.co/fanatee/eef92e98-8947-4259-b920-89028284ea84/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T18:02:23.024Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:19.854Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Sobre a vaga</strong></p>\n<p>Nossos jogos são utilizados diariamente por milhões de pessoas ao redor do mundo. Como estagiário da área de QA você fará parte do time responsável por garantir a pontualidade e a qualidade de cada versão que chega às mãos dos nossos usuários.</p>\n<p><strong><br />Responsabilidades</strong></p>\n<p>- Planejar e executar testes exploratórios e planilhas de testes nos jogos e nos sistemas de backend;</p>\n<p>- Interagir com os times de produto e programação e entender a fundo as regras de negócio presentes nos jogos e suas implementações;</p>\n<p>- Investigar bugs por meio de ferramentas e reports de usuários;</p>\n<p>- Interagir com diversas áreas para garantir que a qualidade do produto está como planejada;</p>\n<p>- Acessar os bancos de dados dos jogos e configurar os cenários necessários para a execução dos testes;</p>\n<p>- Propor e debater melhorias no processo de testes e automações</p>\n<p><strong><br />Requisitos</strong></p>\n<p>- Estar entre o primeiro e o penúltimo ano da graduação em Design de Games, Jogos Digitais, Ciência da Computação, Engenharia, Sistemas de Informação ou áreas relacionadas;</p>\n<p>- Conhecimentos básicos de lógica de programação e banco de dados;</p>\n<p>- Conhecimento de metodologias ágeis;</p>\n<p>- Vontade de aprender novas tecnologias e habilidades;</p>\n<p>- Inglês avançado;</p>\n<p>- Pró-atividade;</p>\n<p>- Capacidade de organização;</p>\n<p>- Capacidade de trabalhar em um ambiente colaborativo;</p>\n<p>- Boas habilidades de comunicação.</p>\n<p><strong><br />Diferenciais (não obrigatórios)</strong></p>\n<p>- Conhecimento de ferramentas de acompanhamento de projetos como Jira, Trello, entre outros;</p>\n<p>- Conhecimento de GIT ou outros sistemas de versionamento de código;</p>\n<p>- Conhecimento de C# e Unity;</p>\n<p>- Conhecimento de Java e Swift;</p>\n<p>- Conhecimento em banco de dados não relacionais;</p>\n<p>- Experiência com testes manuais e automatizados</p>\n\n<strong>O que oferecemos<br /></strong>\n \n<p>- Remuneração competitiva<br />- Benefícios flexíveis<br />- Suporte ao desenvolvimento profissional<br />- Ambiente descontraído, incluindo dress code informal<br />- Trabalho remoto, com reuniões presenciais ocasionais em São Paulo, quando necessário<br />- Espaço para momentos de descanso, com lanches, frutas e bebidas à disposição<br /><br />Embora a função seja principalmente remota, nosso escritório em São Paulo está disponível para quem busca um espaço de trabalho dedicado. Lá, você encontrará um ambiente tranquilo, uma geladeira abastecida com lanches e bebidas e até uma mesa de pingue-pongue para se divertir um pouco.</p>\n<p>Venha nos ajudar a construir o futuro junto com o nosso time incrível!</p>\n<br /><strong>Sobre a Fanatee</strong>\n\n<p>A Fanatee é uma startup de jogos para dispositivos móveis fundada em 2013. Desde então, nosso objetivo tem sido possibilitar que as pessoas joguem nossos jogos a qualquer hora e em qualquer lugar.</p>\n<p>Acreditamos que a qualidade é a chave para o sucesso. Nossos processos criativos são bem planejados e cuidadosamente detalhados, e nosso talento está em transformar grandes ideias em grandes negócios: nossos jogos já ultrapassaram 250 milhões de downloads em todo o mundo.</p>\n<p>Acreditamos que um ambiente de trabalho diverso contribui para uma sociedade cada vez mais responsável e que valoriza as diferenças.</p>\n<p>Nosso sonho nos permite fazer aquilo que mais amamos: trabalhar com pessoas talentosas e apaixonadas e oferecer a elas a oportunidade de alcançar objetivos tão grandes quanto seus próprios sonhos.</p>\n<p>Se você quer compartilhar essa jornada conosco e fazer parte de um ambiente leve, divertido e focado, que respira inovação e cultura de games, candidate-se agora!</p>",
+    "content_hash": "135fffb70a654065f9d8e491334f1358"
+  }
+}

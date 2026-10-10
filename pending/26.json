@@ -1,0 +1,50 @@
+{
+  "26dc588ff64c": {
+    "id": "26dc588ff64c",
+    "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
+    "title_raw": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
+    "company": {
+      "slug": "quora",
+      "name": "Quora",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote - Multiple Locations",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": [
+        "United States",
+        "Canada"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "quora",
+      "external_id": "cf34f80e-fe5c-454d-bc9a-4c59993ffda0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T22:08:04.740Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.177Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 97600,
+      "max": 139000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em>[</em><em><strong>Quora is a privately held, \"remote-first\" company</strong></em><em><strong>. </strong>This position can be performed remotely from anywhere in Canada or the United States. Please visit </em><em>careers.quora.com/eligible-countries</em><em> for details regarding employment eligibility by country.]</em></p><p></p><h3><strong>About Quora:</strong></h3><p>Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms:</p><ul><li><p>Quora: a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.</p></li><li><p>Poe: a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together.</p></li></ul><p>Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.</p><p><strong>This role will be working on our Quora product.</strong></p><p></p><h3><strong>About the Team and Role:</strong></h3><p>Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month.</p><p>Our team owns Quora's ML platform and ranking infrastructure across four areas: <strong>serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency</strong>. We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. </p><p>As a <strong>Software Engineer (New Grad)</strong> on this team, you'll work at the intersection of machine learning, distributed systems, and GPU serving performance — and your work will have an enormous impact on Quora's long-term success.</p><p><strong>No previous ML infrastructure experience is required for this role.</strong> You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong technical guidance — and you'll be shipping to production in your first few weeks.</p><p><strong>Stack:</strong> Python, Go, C++, PyTorch, Kubernetes/EKS, NVIDIA Triton, Ray, AWS</p><p>🚀 Excited to see our MLP team's amazing work in action? Check out some of the incredible projects they've completed below! 👇✨<br />- https://quoraengineering.quora.com/Migrating-from-x86-to-AWS-Graviton-A-Journey-in-Cost-Optimization-and-Performance</p><p>- https://aws.amazon.com/blogs/containers/quora-3x-faster-machine-learning-25-lower-costs-with-nvidia-triton-on-amazon-eks/</p><p>- https://quoraengineering.quora.com/Building-a-Service-Mesh-in-a-Hybrid-Environment</p><p>- https://quoraengineering.quora.com/Building-Embedding-Search-at-Quora</p><p>- https://quoraengineering.quora.com/Feature-Engineering-at-Quora-with-Alchemy</p><p></p><h3><strong>Responsibilities:</strong></h3><ul><li><p>Help build and maintain the core infrastructure that powers Quora's ML platform, ensuring high availability, scalability, and performance</p></li><li><p>Build and improve the distributed systems that serve our ML models in production, from Large Recommendation Models (LRMs) to Large Language Models (LLMs)</p></li><li><p>Work on GPU model serving, optimizing latency, throughput, and cost to support larger and more capable models</p></li><li><p>Contribute to platform initiatives such as PyTorch-first standardization and ML ecosystem modernization</p></li><li><p>Improve ML developer velocity by building tooling that helps ML engineers develop, test, and deploy models more efficiently</p></li><li><p>Modernize our feature store so ML engineers can get new features into production faster</p></li><li><p>Participate in the team's on-call rotation, helping resolve production issues as you grow your knowledge and ownership of the platform</p></li></ul><p></p><h3><strong>Minimum Requirements:</strong></h3><ul><li><p><strong>Availability for meetings and impromptu communication during Quora's \"</strong><strong>coordination hours</strong><strong>\" (Mon-Fri: 9am-3pm Pacific Time)</strong></p></li><li><p>A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D. in Computer Science, Engineering, or a related technical field</p></li><li><p>Genuine interest in large-scale distributed systems, infrastructure, and machine learning</p></li><li><p>Knowledge of Python, Go, or C++, or the ability to learn them quickly</p></li><li><p>A passion for learning and always improving yourself and the team around you</p></li></ul><p></p><h3><strong>Preferred Requirements:</strong></h3><ul><li><p>Previous software engineering experience via an internship, work experience, open-source contribution, or coding competition</p></li><li><p>Coursework or hands-on experience with ML frameworks such as PyTorch or TensorFlow</p></li><li><p>Exposure to Kubernetes, Docker, or cloud technologies like AWS</p></li><li><p>Experience with low-level performance work of any kind: profiling, benchmarking, optimization</p></li><li><p>Passion for Quora's mission and goals</p></li></ul><p></p><p><strong>At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.</strong></p><p></p><h3><strong>Additional Information:</strong></h3><p>We are accepting applications on an ongoing basis. This role is a backfill for an existing vacancy.</p><p>Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more. Benefits are country-specific and may vary.</p><p>There are many factors that will determine the starting compensation, including but not limited to experience, location, education, and business needs.</p><ul><li><p>US candidates only: For US based applicants, the salary range is $97,600 - $139,000 USD + equity + benefits.</p></li><li><p>Canada candidates only: For Toronto and Vancouver based applicants, the salary range is $125,320 - $142,783 CAD + equity + benefits. For all other locations in Canada, the salary range is $116,965 - $133,264 CAD + equity + benefits.</p></li><li><p>In equity-eligible countries, we currently also offer a flexible equity program where a portion of equity compensation may be taken as cash.</p></li></ul><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><p>AI technology may assist in sorting applications and recording interview notes, but all decisions are made by a member of our team.</p><p><strong>To ensure a secure hiring process, all final candidates will undergo identity verification and a comprehensive background check prior to onboarding.</strong></p><p>Job Applicant Privacy Notice: https://careers.quora.com/quora-global-job-applicant-privacy-notice</p><p></p><p>#LI-SS2<br />#LI-REMOTE</p>",
+    "content_hash": "b49ee68c089b44458c21a9e4cc994a06"
+  }
+}

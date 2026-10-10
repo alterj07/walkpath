@@ -1,0 +1,42 @@
+{
+  "d8e2bab7bcb2": {
+    "id": "d8e2bab7bcb2",
+    "title": "Software Engineer - New Grad",
+    "title_raw": "Software Engineer - New Grad",
+    "company": {
+      "slug": "realm",
+      "name": "Realm",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "realmalliance",
+      "external_id": "56d8b433-31ad-43a2-997e-b8538f5f2c9f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-03T15:24:15.805Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.423Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Company Overview</h3><p>Realm builds AI for the mining industry. We integrate with existing mine infrastructure — cameras, SCADA systems, drones, and data repositories — to predict equipment failures, detect unsafe behaviors, and optimize operations. Our platform deploys intelligence in various ways to improve productivity and safety — monitoring PPE compliance via computer vision, optimizing froth flotation processes, analyzing longwall shearer performance, tracking MSHA citation patterns, and more.</p><p>Our founders started their careers at Palantir before going on to build Blend Labs (publicly traded fintech, founded as CTO) and Even (acquired by Walmart). Our leadership team brings experience from Uber, Metropolis, and other high-bar organizations. We're a small, senior team that ships daily to production mines.</p><p>AI isn't just our product — it's how we build. We're an AI-first engineering team that uses the latest models and tooling throughout our development process, moving faster and at higher quality than traditional teams our size.</p><p>Our culture values high agency, deep ownership, collaboration, and autonomy across a fully remote workforce. Teams here move quickly and make meaningful contributions to a product that shapes global industrial outcomes.</p><h3>What You'll Do</h3><p>You'll work alongside senior engineers on real features that run at active mine sites — not internal tooling or throwaway projects. We expect new grads here to ramp quickly and take on meaningful ownership within their first few months.</p><p></p><h3>What We're Looking For</h3><p><em>Must-Have Qualifications</em></p><ul><li><p>BS in Computer Science or a related field </p></li><li><p>Strong CS fundamentals — data structures, algorithms, and system design</p></li><li><p>Proficiency with agentic coding tools (Claude Code, Codex, or Cursor) and an AI-first development style</p></li><li><p>Comfort working across the stack</p></li><li><p>Ability to work independently and ramp without heavy hand-holding</p></li><li><p>US citizen or permanent resident, based in the US</p></li></ul><p><em>Nice-to-Have Qualifications</em></p><ul><li><p>Prior internship experience working on a production codebase</p></li><li><p>Strong TypeScript proficiency</p></li><li><p>AI, computer vision, or ML experience</p></li><li><p>Startup or fast-paced team experience</p><p></p></li></ul><h3>Why Realm? </h3><ul><li><p>Work on mission-critical problems at the intersection of AI, security, and global infrastructure</p></li><li><p>Shape the brand and product of a category-defining company from the ground up</p></li><li><p>High-ownership, high-impact role with direct influence on company growth</p></li><li><p>Competitive compensation with significant equity upside</p></li><li><p>Dynamic, remote work environment with global reach</p></li></ul><p></p><h3>Interview Process</h3><ol><li><p>Engineering quiz (async, ~60 min) — A 8-question code reading and analysis assessment. No trick questions — we're testing how you think about real code.</p></li><li><p>Live coding interviews (3 x 1-hour sessions) — Algorithmic problem solving and a simulated development task.</p></li><li><p>Behavioral interview with senior leadership — Culture fit, working style, and past experience.</p></li><li><p>Reference checks</p></li></ol><p></p><h3>Benefits/Perks</h3><p>🏥 Full medical, dental, and vision benefits</p><p>🌴 Unlimited PTO </p><p>💰401(k) with 4% safe-harbor match</p><p>📈 Equity in an early-stage, fast-growing company</p><p>💻 Home office allowance</p>",
+    "content_hash": "f25d864354b331bfe1649a4f9007a27f"
+  }
+}

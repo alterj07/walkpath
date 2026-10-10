@@ -1,0 +1,42 @@
+{
+  "5c02402fb5b6": {
+    "id": "5c02402fb5b6",
+    "title": "Software Developer, 2027 Leadership Development Program, Woking",
+    "title_raw": "Software Developer, 2027 Leadership Development Program, Woking",
+    "company": {
+      "slug": "ion-group",
+      "name": "ION Group",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Woking",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ion",
+      "external_id": "e973fefd-7180-4da9-a323-c212fc98cc05"
+    },
+    "apply_url": "https://jobs.lever.co/ion/e973fefd-7180-4da9-a323-c212fc98cc05/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T06:58:00.340Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:59:40.362Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Our Company</strong>\n  \n\n\n<p>ION is the world’s most progressive FinTech company providing pioneering software and consultancy services to customers around the globe. We serve large financial institutions, trading firms, central banks, and corporations. We are committed to automating processes that positively impact on our customers’ work and provide insights to enable more informed decision making. We provide software and data to our customers to simplify complex processes and digitize their businesses. Our products and services help the world's leading organizations do more, in a better and simpler way, than ever before. </p>\n\n\n<p>ION software underpins the global fixed income, foreign exchange, and derivatives markets, powers the world’s central banks, and enables the automation of workflows across critical treasury and commodities operations for thousands of companies worldwide. ION data and analytics are the golden source for M&amp;A, equity, and leverage finance bankers worldwide. With a dynamic team of 13,000+ employees, 40+ global offices, and 5,000+ customers worldwide, ION provides an unparalleled career experience for those who share our passion for growth and technology evolution.</p>\n\n\n \n<strong>ION Group consists of the following divisions: </strong>\n \n\n\n<ul>\n<li>ION Analytics: Provider of investment banking M&amp;A, equity and debt data, analytics, and content.</li>\n<li>ION Corporates: Provider for the digital corporation, enabling automation of workflows across critical treasury and commodities operations.</li>\n<li>ION Markets: Provider of trading automation, analytics, and infrastructure to the global financial markets.</li>\n<li>ION Core Banking: Provider of core banking and financial software for financial institutions in Italy and internationally.</li>\n<li>ION Insight Score: Provider of credit information and credit management in Italy.</li>\n<li>ION Risk Metrics: Provider of credit servicing and asset management in Italy. </li>\n</ul>\n\n\n \n<strong>Our Programme</strong>\n  \nOur Leadership Development Program (LDP) is a foundational global initiative focused on developing talent for ION’s growing operations around the world. The program provides an opportunity for outstanding university graduates to start a career in a dynamic and fast paced global FinTech firm.\n \nAnalysts will spend the first 3 years of their career in 3 unique, 12-month rotations gaining experience across the product lifecycle. At the end of their 3 rotations analysts will transition to a deeper dive in one area of ION. \n \n \n<strong>What you'll do</strong>\n\n\n<p>In the role of Software Developer, you will develop products for our global customers including Tier 1 banks and Fortune 100 corporations. You will be part of an Agile team, who are responsible for end-to-end product development, including: </p>\n\n\n<ul>\n<li>\n<p>Analyzing business requirements and product solutioning. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Architecture and designs using the latest principles and patterns in software engineering. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Coding, testing, and continuous integration of solutions using the latest and upcoming technologies. </p>\n</li>\n</ul>\n\n\n \n<strong>Your Contribution</strong>\n\n\n<ul>\n<li>\n<p>Build innovative products and solutions that: </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<ul>\n<li>Reduce business process complexity.</li>\n<li>Increase organizational efficiency through automation.</li>\n<li>Liberate people from performing repetitive manual tasks.</li>\n<li>Help ION’s clients gain a competitive advantage by using our products. </li>\n</ul>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Resolve complex technical and business issues and communicate effectively to Internal teams and ION clients. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Automate complex business workflows and processes and make a positive impact to client businesses. </p>\n</li>\n</ul>\n\n\n \n<strong>Basic Qualifications</strong>\n\n\n<ul>\n<li>\n<p>2027 graduation. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>2:1 or above. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Bachelor’s, or Master’s, in Computer Science or related STEM disciplines, such as Data Science, or Quantitative Finance, with experience in hands-on programming required. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Authorization to work in selected countries without restriction or need for sponsorship. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Demonstrated interest in finance and/or technology, ideally including work experience. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Passion for learning, self-improvement, and a questioning and challenging mindset. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Motivated self-starter who is proactive, enthusiastic, and passionate about what they do. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Strong problem-solving capabilities and the desire to understand the “why” behind each problem.</p>\n</li>\n</ul>\n\n\n \n<strong>How you'll grow</strong>\n \n\n\n\n<p>Our 36-month Leadership Development Program (LDP) allows you to rotate through different areas of the product lifecycle. You will work closely with ION product teams, and clients, and grow, gaining: </p>\n\n\n<ul>\n<li>\n<p>Deep knowledge in:</p>\n<ul>\n<li>\n<p>Diverse set of technologies, development methodologies, and processes required to build complex mission-critical systems using distributed architectures.</p>\n</li>\n<li>\n<p>Financial domain to build world class products. </p>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n\n<ul>\n<li>\n<p>E2E Software Product Development Lifecycle. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>A mastery of foundational technologies, keeping on top of constant technological evolution through your work with subject matter experts. </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Personality traits in an Imaginative and Positive culture:</p>\n</li>\n</ul>\n<ul>\n<li>\n<ul>\n<li>Passionate. </li>\n<li>\n<p>Expressive.</p>\n</li>\n<li>Intelligent. </li>\n</ul>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<p>Exposure to: </p>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<ul>\n<li>\n<p>Product Management. </p>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<ul>\n<li>\n<p>Client Services. </p>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<ul>\n<li>\n<p>Support. </p>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<ul>\n<li>\n<ul>\n<li>\n<p>Deployment. </p>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n<strong>Application process</strong>\n \n\nApplicants that submit successful online applications will be required to complete online verbal and numerical reasoning assessments within 4 days of receiving the test link.\n \nSuccessful applicants will subsequently be invited to a video interview.\n \nThe final part of the process is an assessment day consisting of interviews, a case study and a group exercise.\n \nWe review applications on a rolling basis and encourage you to apply as soon as you are ready because initial video interviews can occur prior to the application period closing.\n \nWe aim to notify you of your application status approximately one month after we receive your application.",
+    "content_hash": "13a8a050c730d430ed22945f2bc936f6"
+  }
+}

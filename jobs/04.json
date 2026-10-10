@@ -1,0 +1,127 @@
+{
+  "04060c6bdf46": {
+    "id": "04060c6bdf46",
+    "title": "UX Design Intern",
+    "title_raw": "UX Design Intern",
+    "company": {
+      "slug": "allied-solutions",
+      "name": "Allied Solutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Carmel, IN",
+      "city": "Carmel",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliedsolutions/Allied_External",
+      "external_id": "R-011093"
+    },
+    "apply_url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/UX-Design-Intern_R-011093",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:59:51.987Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.      <br /><br />Interested applicants must be available during the 12-week program (May 17th – Aug. 6th, 2027). This is a full-time internship (40-hours per week) based at our headquarters in Carmel, IN.     <br /><br />The UX Design Intern will directly assist the UXLab with a wide range of projects related to User-Centered Design and Human Computer Interaction. In this position, the intern will gain a better understanding of the role and gain hands on experience for them to be better prepared to work in User Experience.<p></p><p><b>Job Duties and Responsibilities </b></p><ul><li><p>Identify, plan, and conduct user research methods for various client-facing and non- client-facing projects </p></li></ul><ul><li><p>Analyze qualitative and quantitative data to inform UX/UI recommendations </p></li></ul><ul><li><p>Present research findings to internal stakeholders </p></li></ul><ul><li><p>Create low/high fidelity wireframes for upcoming applications </p></li></ul><ul><li><p>Work with front-end to build and manage prototypes </p></li></ul><ul><li><p>Run technical validation meetings with wireframes </p></li></ul><p></p><p><b>Qualifications (Education, Experience, Certifications &amp; KSA)</b> </p><ul><li><p>Currently enrolled in undergraduate program as rising Junior or Senior, pursuing a degree in User Experience, Informatics, Marketing, or related field </p></li></ul><ul><li><p>Must have prepared portfolio to present for interviews  </p></li></ul><ul><li><p>Ability to manage deadlines </p></li></ul><ul><li><p>Ability to multitask </p></li></ul><ul><li><p>Strong written and oral communication skills </p></li></ul><ul><li><p>Ability to prioritize </p></li></ul><p></p><p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job. </p><p></p><p>#LI-SJ1<br />#LI-Onsite</p><p></p><p>We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.<br /><br />All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p><p></p><p>To view our privacy statement click here</p><p></p><p>To view our terms and conditions click here</p>",
+    "content_hash": "4d4757dcc458029c827e606a1e3e4278"
+  },
+  "04b6ece8fac4": {
+    "id": "04b6ece8fac4",
+    "title": "Security Research Internship",
+    "title_raw": "Security Research Internship",
+    "company": {
+      "slug": "certik",
+      "name": "CertiK",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY  / Seattle, WA / San Francisco Bay Area, CA / Remote",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "certik",
+      "external_id": "148afcf8-106b-42fa-a516-6bb8f1184e33"
+    },
+    "apply_url": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2022-08-24T19:41:10.951Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:48:32.870Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": {
+      "min": 3000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>About CertiK</b>One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 3,200 Enterprise clients, secured over $310 billion worth of digital assets, and has detected over 60,000 vulnerabilities in blockchain code. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz. <br /><b>Investors</b> = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. <br /><b>About the role</b>We are seeking security research interns to join a top-notch security research team. We are working on a wide range of security research topics, including malware analysis, vulnerability detection, network anomaly detection, mobile app analysis, reverse engineering, and fraud detections. Multiple research tasks are ready to be explored. \n<h3>Responsibilities</h3>Develop analysis tools to facilitate security discovery and design mitigation techniques to deter security threats. Review system implementation of sandbox, VM, network modules, and critical distributed system. Perform vulnerability discovery and develop PoC exploits to large distributed system implementations. Publish research findings in related academic and industry venues. \n<h3>Requirements</h3>Pursuing Masters or PhD in Computer Science or Cybersecurity related field.  Experiences in vulnerability discovery and exploitation on web applications or system software. \n<h3>Preferred</h3>Experiences in WASM or Rust/Go development is a plus. CTF experiences are a plus as well. \n<b>Compensation</b>$3000 - $8000/month (Full Time). The exact compensation at which this internship is filled will be determined by the skills and experience of qualified candidates.<br />#blockchain#startups#hiring<br />CertiK accepts applications on an ongoing basis for this position until it is filled. The approximate date of closing will be April 30, 2024. <br />CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles.\n \nIn compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.\n \nCertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law.\n \nCertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.\nhttps://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf\n \nAll CertiK employees are expected to actively support diversity on their teams, and in the Company.",
+    "content_hash": "35430c1238f7d663803bbdf171c88d2c"
+  },
+  "04bfacb47bdd": {
+    "id": "04bfacb47bdd",
+    "title": "Research Engineering Internship",
+    "title_raw": "Research Engineering Internship",
+    "company": {
+      "slug": "twin-labs",
+      "name": "Twin Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "twin-so",
+      "external_id": "84c83c66-3683-4afd-abd5-afb12ec232c4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/twin-so/84c83c66-3683-4afd-abd5-afb12ec232c4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-08-19T07:37:56.684Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.677Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Twin – Research Engineering Internship</p><p><br /><strong>Core Platform · Paris / Hybrid / Remote (Europe)</strong></p><p><br />About Twin</p><p><br />Twin builds autonomous agents that are reliable and scalable enough for companies to actually delegate work to them. We engineered the first commercial agent deployed to 500k SMBs — <strong>Invoice Operator</strong> — achieving 95%+ accuracy at a fraction of the human cost. Over the coming months, we expect this first agent alone to automate millions of man-hours.<br />To achieve this, we've built, among other things:</p><ul><li><p>A Rust-based browser infrastructure, maintaining low latency at high scale and concurrency</p></li><li><p>A password manager enabling secure and automated agent authentication, including solving 2FA</p></li><li><p>A graph-based agent framework, making complex agents robust through modularity and decoupling</p></li><li><p>A self-correcting infrastructure, allowing agents to learn from mistakes and continuously improve as they encounter new challenges</p></li></ul><p><br />Founded in 2024, we've raised €12M from LocalGlobe and the founders of companies like Hugging Face, Datadog, and Alan. Our ambition: launch and distribute the next generation of high-impact agents, and become the trusted layer where autonomous work runs.<br />About the Core Platform team</p><p><br />The Core Platform team builds the foundational infrastructure powering Twin's high-performance, Rust-based agent engine. This engine manages browser automation, communication between agents and humans, and the evaluation and testing pipelines that keep our agents best-in-class.</p><p><br />The team's objective is to continuously improve <strong>speed, cost, and reliability at scale</strong> — and lay the groundwork for training our own advanced models that will <strong>outperform the current state of the art</strong>.</p><p><br />About the position</p><p><br />This is <strong>first and foremost a software engineering role</strong> — but one with a clear long-term target: the systems you build here will directly enable us to train <strong>our own world-class browsing agents</strong>, surpassing current industry benchmarks in both performance and reliability.<br />In the short term, you'll work on the engineering foundations: better data pipelines, smarter evaluation frameworks, and reliability tooling. In the long term, that work will fuel <strong>the datasets, metrics, and insights</strong> that make our models the best in the world.<br />Main challenges</p><ul><li><p>Build sophisticated <strong>Rust-based data filtering &amp; evaluation systems</strong> to identify the highest-quality agent interactions for training</p></li><li><p>Develop <strong>large-scale pipelines</strong> to collect, process, and analyze browsing behavior in real time</p></li><li><p>Create <strong>evaluation frameworks</strong> to measure and compare agent decision quality — and feed those insights back into model training</p></li><li><p>Solve complex reliability and performance issues with elegant engineering approaches that translate into better datasets and smarter agents</p></li></ul><p>Requirements</p><p><br />Must-have</p><ul><li><p>Strong software engineering skills and experience shipping reliable code</p></li><li><p>Creative problem-solving mindset — knowing when engineering beats brute-force model training</p></li><li><p>Comfortable in lower-level languages (Rust experience a plus)</p></li><li><p>Interest in AI agents and belief that <strong>great models start with great systems</strong></p></li><li><p>Ability to work fast and autonomously</p></li><li><p>Based in Paris or willing to spend your first month+ in our office (remote/hybrid possible after onboarding)</p></li></ul><p>Nice to have</p><ul><li><p>Experience with Rust (any level)</p></li><li><p>Previous production experience in any technology stack</p></li><li><p>Understanding of ML concepts (for future model training context)</p></li><li><p>Experience in data processing, evaluation, or testing infrastructure</p></li></ul><p><strong>No production experience yet?</strong> Show us you're exceptional through personal projects, open-source contributions, competitive programming, or other evidence of your ability to solve complex problems with speed and elegance.</p>",
+    "content_hash": "5c3fb5e4b64fd3a64f8e8807957b9262"
+  }
+}

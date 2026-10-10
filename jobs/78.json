@@ -1,0 +1,138 @@
+{
+  "7897a32a2dee": {
+    "id": "7897a32a2dee",
+    "title": "2027 Internship - Digital Design Engineer",
+    "title_raw": "2027 Internship - Digital Design Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Chandler, Arizona",
+        "Greensboro, North Carolina"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "0310fbd1-a2a8-4c0f-a842-86e05ae7d98e"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T22:51:49.540Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />We are seeking highly motivated digital design interns to join our team to work on Cirrus Logic's newest mixed-signal integrated circuits (ICs) products. In this role, you’ll contribute to the development of digital logic circuits such as digital filters for a wide range of applications, Mixed-Signal Audio, Embedded SoCs, and high-precision Industrial/Data Acquisition systems.\n \nThis is a hands-on opportunity to work in a collaborative, innovation-driven environment where your contributions will directly impact real-world products. We recruit interns year-round for Spring, Summer, and Fall 2027 opportunities. Each internship lasts 12–16 weeks and follows a full-time schedule.\n<h3>Responsibilities </h3>\nDesign and implement RTL modules using Verilog for DSP and data conversion ICs. \nPerform logic simulation, functional verification, and synthesis in a mixed-signal environment. \nCollaborate with the design team on integration and system-level verification. \nSupport behavioral modeling of analog and mixed-signal circuits. \nAssist with test vector generation and lab test development. \n\n<h3>Required Skills and Qualifications </h3>\nCurrently <strong>pursuing a MS or PhD</strong> in Electrical Engineering or a related field. \nStrong understanding of Digital Signal Processing (DSP) concepts. \nProficiency in Verilog and Synopsys-based design flows. \nExperience with Matlab for algorithm development and analysis. \nFamiliarity with PWM techniques, transistor-level simulators, and place-and-route tools. \n\n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "ea3fc2dae3cb3bb5c17e1e3a1ac1b22a"
+  },
+  "78d968247f26": {
+    "id": "78d968247f26",
+    "title": "Applied Scientist Intern",
+    "title_raw": "Applied Scientist Intern",
+    "company": {
+      "slug": "ramp",
+      "name": "Ramp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY (HQ)",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ramp",
+      "external_id": "b39ceb08-a0a7-4f8b-a760-2fb88e209956"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T01:44:04.643Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.286Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 12500,
+      "max": 12500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2029
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Ramp</strong></h3><p>Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p>The problems are high-stakes, data-dense, and unforgiving.</p><p>We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.</p><p>The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.</p><p>If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.</p><p></p><h3><strong>About the Role</strong></h3><p>The Applied Science team builds models and tools that solve Ramp’s most critical problems: from underwriting businesses to combatting fraud to making spend management smarter. We’re deeply embedded in the business and provide a quantitative foundation for decision making.</p><p>As an Applied Science intern, you’ll be a fully integrated member of the team and own your project from start to finish. Working with engineers, product managers, and business stakeholders, you’ll translate complex business needs into scalable machine-learning-driven solutions. This is a chance to apply ML concretely, ship code, and create genuine value for Ramp and our customers.</p><p>You will focus on exciting problems in areas like: credit, fraud, growth, or our core product.</p> <h3><strong>What You’ll Do</strong></h3><ul><li><p><strong>End-to-End ML</strong>: own the model lifecycle from data exploration and feature engineering to training, benchmarking, deployment, and monitoring</p></li><li><p><strong>State-of-the-Art AI</strong>: leverage the latest Large Language Models (LLMs) to solve novel problems and create new product capabilities for our customers</p></li><li><p><strong>Versatile Techniques</strong>: apply the right tools to the right problems, whether it’s deep learning, gradient boosting, or causal inference</p></li><li><p><strong>Rigorous Experimentation</strong>: quantify the impact of your work through A/B tests and other statistical methods</p></li><li><p><strong>Collaborate</strong>: partner closely with product and business leaders to translate models and insights into actionable strategy and user-facing features</p></li></ul> <h3><strong>What You Need</strong></h3><ul><li><p><strong>B.S., M.S. or Ph.D. Student: </strong>currently pursuing a degree in Data Science, Computer Science, Math, Physics, Economics, Statistics, or other quantitative fields with an expected graduation date<strong> between Dec 2027 - 2029.</strong> Graduate degrees are preferred, but not a must.</p></li><li><p><strong>Strong ML Fundamentals</strong>: solid understanding of the mathematical foundations of machine learning, statistics, probability, and optimization</p></li><li><p><strong>Strong Interest or Experience with AI</strong>: curiosity and drive to integrate cutting edge LLMs and agents into applied solutions</p></li><li><p><strong>Python Proficiency</strong>: good grasp of common Data Science libraries (pandas, scikit-learn, NumPy, PyTorch, etc.)</p></li><li><p><strong>SQL Knowledge</strong>: experience wrangling data in a modern data warehouse (e.g. Snowflake, BigQuery, Redshift, Clickhouse)</p></li></ul><ul><li><p><strong>Practical Experience</strong>: track record of curating datasets and building/evaluating ML models</p></li><li><p><strong>Strong Communication</strong>: ability to clearly explain complex concepts to both technical and non-technical audiences and use data to build a compelling narrative</p></li><li><p><strong>Bias For Action</strong>: a comfort with ambiguity and desire to ship solutions quickly then iterate</p></li></ul> <h3><strong>Nice to Haves</strong></h3><ul><li><p><strong>Publications, Projects, or Previous Experience:</strong> relevant experience applying AI/ML and demonstrating your passion for the field</p></li><li><p><strong>Production ML Mindset</strong>: knowledge of software engineering best practices applied to ML including version control (Git), testing, and writing maintainable code</p></li><li><p><strong>Data Orchestration</strong>: experience with leveraging modern data orchestration platforms (Airflow, Dagster, Prefect, Metaflow)</p></li></ul> <h3><strong>Compensation</strong></h3><ul><li><p>The monthly rate for this internship is $12,500 USD + housing stipend</p></li></ul> <h3><strong>Ramp Benefits</strong></h3><ul><li><p>Apple MacBook</p></li><li><p>Catered lunches in NYC office Monday-Friday</p></li><li><p>Weekly coffee stipend</p><p></p></li></ul><p></p><h3><strong>Benefits available to all full-time Ramp employees (Global)</strong></h3><ul><li><p>Flexible PTO</p></li><li><p>Centralized home-office equipment ordering</p></li><li><p>Health and wellness stipend</p></li><li><p>Budget for intra-office travel</p></li><li><p>Weekly coffee stipend</p></li></ul><p></p><h3><strong>United States</strong></h3><ul><li><p>100% medical, dental &amp; vision insurance coverage for you, with partial coverage for dependents</p></li><li><p>One Medical annual membership</p></li><li><p>401(k), including employer match on contributions made while employed by Ramp</p></li><li><p>Fertility HRA (up to $10,000 per year)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay</p></li><li><p>Pet insurance</p></li><li><p>In-office perks: lunch, snacks, drinks, and more</p></li><li><p>Relocation expense coverage to NYC or SF (if needed)</p><p></p></li></ul><h3><strong>Canada</strong></h3><ul><li><p>Group medical, dental, and vision coverage through Sun Life</p></li><li><p>Life, AD&amp;D, and disability coverage</p></li><li><p>Fertility drug coverage (up to $4,000 lifetime)</p></li><li><p>Group Retirement Plan with employer match (RRSP + DPSP)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay</p></li><li><p>Employee Assistance Program and virtual care through Lumino Health</p></li></ul><p></p><h3><strong>United Kingdom</strong></h3><ul><li><p>Private medical insurance through Freedom Elite</p></li><li><p>Virtual GP and at-home care via eMed x Livi</p></li><li><p>Workplace pension through Penfold, with salary sacrifice option</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay</p></li></ul><p></p><h3><strong>Referral Instructions</strong></h3><p>If you are being referred for the role, please contact that person to apply on your behalf.</p> <h3><strong>Other notices</strong></h3><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p> <p><em>Beware of recruiting scams: Ramp will only contact you through official @</em><em>Ramp.com</em><em> email addresses and will never ask for payment or sensitive personal information during the hiring process.</em></p> <p>Ramp Applicant Privacy Notice</p>",
+    "content_hash": "9a1dc744fc12bb651d1b44434b0996ce"
+  },
+  "78f4c53678db": {
+    "id": "78f4c53678db",
+    "title": "Software Engineering Intern, 2028 Grads",
+    "title_raw": "Software Engineering Intern, 2028 Grads",
+    "company": {
+      "slug": "rilla",
+      "name": "Rilla",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rilla",
+      "external_id": "0e111ca4-3837-43d2-8507-6030a0dc32d9"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T18:27:02.877Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.139Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>A Foundational Company</strong></h3><p>Rilla is on a mission to index the offline world.<br /><br />Today, we’ve built the leading sales coaching software for organizations doing sales offline. We have over 1000 customers, including The Home Depot, KKR, Neighborly, and PulteGroup, using our product to enable AI sales coaching across their organization.<br /><br />We are backed by Google Ventures, Bessemer Ventures, Crew Capital, and Broom Ventures, along with others.<br /><br />We’re an in office team in NYC with builders who operate like high speed reinforcement learners. We obsess over our customers, move at a high velocity, are not afraid of failure, and look to maximize our real-world impact.<br /><br />If you want to build the products and systems for how billions of conversations in the real world are captured and indexed, Rilla is the place to do it.</p><p></p><h3><strong>The Role</strong></h3><p>Rilla engineers architect and ship features across the stack at lightning speed. On a daily basis, you will build end-to-end workflows, take them to production, and solve real world problems across an out-sized scale.</p><p>As an early technical steward, you will raise the bar for code quality and decision‑making, setting patterns that cement a world‑class engineering culture as we scale. While the company 10×’s, your scope and ownership will grow just as fast—building the tools, mental models, and platforms that let both you and Rilla accelerate exponentially.</p><p>Do you describe yourself as \"obsessive\"? Do you aspire to be a founder or a leader in applying AI to the physical world? We believe Rilla is the best place — with the best peers — to learn how.</p><p></p><h3><strong>Technologies We Use</strong></h3><ul><li><p>Different languages and frameworks, including React, React Native, Typescript and Python</p></li><li><p>Open-source technologies like Node.js, PostgreSQL, Turborepo, Lodash, and Zod</p></li><li><p>Industry-standard build tooling, including GitHub Actions, Terraform, and Spacelift</p></li></ul><h3><strong>What We Value</strong></h3><ul><li><p>An<strong> infinite learner</strong>. Someone who is relentless in their curiosity.</p></li><li><p>A <strong>customer obsessive</strong>. Someone who deeply care about delighting customers and solving real pains, not vanity metrics.</p></li><li><p>A <strong>winning attitude</strong>. You thrive with extreme accountability, learning as a team, and both giving and receiving rapid feedback.</p></li><li><p><strong>Extreme empathy.</strong> Our customers are not tech companies. They live and work in the real world. Empathy is critical to arriving at correct solutions.</p></li><li><p><strong>Unafraid of failure.</strong> You take risks. You see failure as an opportunity to learn, grow, and be better the next time. In a weird way, you trick your brain into being excited when you fail, because it means you got a new opportunity to learn more.<br /></p></li></ul><h3><strong>What We Require</strong></h3><ul><li><p>Strong coding skills with demonstrated proficiency in programming languages, such as Javascript, C++, Python, Rust, or similar languages.</p></li><li><p>Strong engineering prowess, ideally developed at start-ups.</p></li><li><p>Familiarity with storage and data processing systems, cloud infrastructure, and other technical tools.</p></li><li><p>Strong written and verbal communication skills and ability to iterate quickly with teammates, incorporating feedback and holding a high bar for quality.<br /></p></li></ul><h3><strong>Don’t Work Here</strong></h3><p>Please don't join if you're not excited about:</p><ol><li><p>Building an AI product for an industry untouched by modern software</p></li><li><p>Constantly talking to and visiting customers in the field</p></li><li><p>Working ~60 hrs/week in person with some of the most ambitious people in NYC</p></li><li><p>Attempting to build a generational company, and the intensity required to do so</p></li></ol><p>Our benefits aim to empower Rilla employees in removing roadblocks to achieving their life’s work. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Rilla.<br /></p><h3><strong>Benefits</strong></h3><ul><li><p>Medical, dental, and vision insurance</p></li><li><p>Breakfast, lunch, dinner, and supplementary food and drink — 6x a week</p></li><li><p>Gym membership</p></li><li><p>Commuter benefits</p></li><li><p>Relocation assistance</p></li><li><p>Take what you need paid time off, not accrual based</p></li><li><p>$1,000 stipend for learning and personal growth</p></li><li><p>$1,500 a month rent stipend </p></li><li><p>Tech equipment</p></li><li><p>Unlimited token budget</p></li></ul>",
+    "content_hash": "69b8c5ea90d47e4c3fa7191e71fbf305"
+  }
+}

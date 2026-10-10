@@ -1,0 +1,177 @@
+{
+  "a65997a6286c": {
+    "id": "a65997a6286c",
+    "title": "Software Engineering Co-op",
+    "title_raw": "Software Engineering Co-op",
+    "company": {
+      "slug": "acceldata",
+      "name": "Acceldata",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Kitchener",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "acceldata",
+      "external_id": "3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4"
+    },
+    "apply_url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2024-01-22T21:38:21.879Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:35.580Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 30,
+      "currency": "CAD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h4><strong>ABOUT US</strong></h4>\nAcceldata is the market leader in Enterprise Data Observability. Founded in 2018, Silicon Valley-based Acceldata has developed the world's first Enterprise Data Observability Platform to help build and operate great data products.\n \nEnterprise Data Observability is at the intersection of today’s hottest and most crucial technologies such as AI, LLMs, Analytics, and DataOps. Acceldata provides mission-critical capabilities that deliver highly trusted and reliable data to power enterprise data products.\n \nDelivered as a SaaS product, Acceldata's solutions have been embraced by global customers, such as HPE, HSBC, Visa, Freddie Mac, Manulife, Workday, Oracle, PubMatic, PhonePe (Walmart), Hersheys, Dun &amp; Bradstreet, and many more. Acceldata is a Series-C funded company whose investors include Insight Partners, March Capital, Lightspeed, Sorenson Ventures, Industry Ventures, and Emergent Ventures.\n<h4><strong>ABOUT US</strong></h4>\nAcceldata is the market leader in Enterprise Data Observability. Founded in 2018, Silicon Valley-based Acceldata has developed the world's first Enterprise Data Observability Platform to help build and operate great data products.\n \nEnterprise Data Observability is at the intersection of today’s hottest and most crucial technologies such as AI, LLMs, Analytics, and DataOps. Acceldata provides mission-critical capabilities that deliver highly trusted and reliable data to power enterprise data products.\n \nDelivered as a SaaS product, Acceldata's solutions have been embraced by global customers, such as HPE, HSBC, Visa, Freddie Mac, Manulife, Workday, Oracle, PubMatic, PhonePe (Walmart), Hersheys, Dun &amp; Bradstreet, and many more. Acceldata is a Series-C funded company whose investors include Insight Partners, March Capital, Lightspeed, Sorenson Ventures, Industry Ventures, and Emergent Ventures.<br /><h3><strong>Summary</strong></h3>\n\n<p>As a Software Engineering Co-op at Acceldata Inc in Canada, you will have the opportunity to work on exciting big data projects and create a Data platform from scratch, learn from experienced professionals, and make a real impact by showcasing your effort directly to the enterprise.  In this role, you will design, build, and scale components of the Acceldata Open Data Platform (ODP), contributing to open-source technologies and solving real-world challenges in large-scale data infrastructure. We seek passionate, self-driven individuals eager to make a tangible impact, learn continuously, and deliver solutions that enable organizations to unlock the full potential of the open-source community.</p>\n<p></p>\n<p>This is a 4 month assignment, 40 hours per week, with required on-site presence at 151 Charles Street West, inside the Communitech Innovation Center.</p>\n\n<h3>Why Intern With Us:</h3><p>At Acceldata, you won’t just be writing code; you’ll be shaping the foundation of modern data platforms used by some of the world’s largest enterprises. You’ll work alongside seasoned engineers and open-source contributors who are passionate about solving complex distributed systems challenges at scale. Every project you take on will directly impact how a data platform is managed, observed, and optimized across hybrid and cloud ecosystems.</p>\n<p>This is your chance to build technology that truly matters, software that drives mission-critical pipelines, scales to petabytes, and influences the open-source community at large. We move fast, value creativity, and reward innovation. If you’re looking for a place where your ideas can become real systems and your work can be seen, used, and respected across the data ecosystem, Acceldata is where you belong.</p>\n<h3>RESPONSIBILITIES</h3>\n\n<p>Collaborate with the engineering team to write, test, and deploy software solutions using advanced Java or Scala programming.</p>\n \n\n<p>Participate actively in the entire software development lifecycle, including requirement analysis, design, implementation, testing, and maintenance.</p>\n \n\n<p>Leverage past experience with at least one Apache project (e.g., Apache Hadoop, Apache Spark, Apache Kafka) to contribute effectively to the project.</p>\n \n\n<p>Utilize knowledge of open-source community best practices and development methodologies.</p>\n \n\n<p>Identify and troubleshoot issues, ensuring the delivery of high-quality software solutions.</p>\n \n\n<p>Participate in code reviews to maintain code quality and share knowledge with team members.</p>\n \n\n<p>Commit to continuous learning and professional development, adapting to new tools, languages, and platforms as required.</p>\n \n\n<p>Stay updated with the latest advancements in open-source projects and contribute to the community as needed.</p>\n \n\n<h3>REQUIREMENTS</h3>\n\n<p>Currently pursuing a degree in Computer Science, Software Engineering, or a related field.</p>\n \n\n<p>Strong programming skills in languages such as Java or Scala, and Python.</p>\n \n\n<p>Developed and prepared project build models associated with Maven, Gradle, or SBT.</p>\n \n\n<p>Hands-on experience in Github &amp; Nexus management and its use cases.</p>\n \n\n<p>Solid understanding of data structures, algorithms, and software development principles.</p>\n \n\n<p>Experience with distributed computing, big data technologies, and cloud platforms is a plus.</p>\n \n\n<p>Strong understanding and hands-on experience with Kubernetes, including deploying, managing, and scaling applications.</p>\n \n\n<p>Familiarity with Kubernetes concepts such as Pods, Services, Deployments, StatefulSets, ConfigMaps, and Secrets.</p>\n \n\n<p>Knowledge of data structures, algorithms, and software development principles.</p>\n \n\n<p>Excellent problem-solving and analytical abilities.</p>\n \n\n<p>Understanding of the big data ecosystem, including data ingestion, processing, and storage technologies.</p>\n \n\n<p>Strong communication skills, both verbal and written, to effectively collaborate with cross-functional teams.</p>\n \n\n<p>Proven ability to work well in a team environment, contributing to a collaborative culture.</p>\n \n\n<p>Enthusiasm to learn and adapt to new technologies.</p>\n \n\n<h3>Application Documents Required</h3>\nProof of Co-Op enrollment \nCo-Op Work History, if applicable \nResume \nGrade Report \n\n<h3>Compensation and Benefits Information</h3>\nApple Mac Equipment \nCatered lunch once a week in the office \nGym with onsite showers \nGames Rooms \nDesignated bicycle room  \nDrinks and snacks \n\n \n \n \n<strong>Acceldata is an equal-opportunity employer</strong>\n \n<strong>At Acceldata, </strong>we are committed to providing equal employment opportunities regardless of job history, disability, gender identity, religion, race, color, caste, marital/parental status, veteran status, or any other special status. We stand against the discrimination of employees and individuals and are proud to be an equitable workplace that welcomes individuals from all walks of life if they fit the designated roles and responsibilities.\n \n<strong>#LifeAtAcceldata </strong>is all about working with some of the best minds in the industry and experiencing a culture that values an ‘out-of-the-box’ mindset. If you want to push boundaries, learn continuously, and grow to be the best version of yourself, Acceldata is the place to be!",
+    "content_hash": "df2110b0315c40191d6c4ed2d4fdf40b"
+  },
+  "a66036370af3": {
+    "id": "a66036370af3",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "simular",
+      "name": "Simular",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "remote",
+      "others": [
+        "Remote",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "simular",
+      "external_id": "063f177b-c3f2-44d2-8eeb-622a977e7d5a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-10-13T08:38:26.744Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.583Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Where multiple locations are listed for this role, the position may be based in any of those locations, with priority determined according to the order of listing.<br /><br /></p><p><strong>What you’ll do</strong></p><p>As a Software Engineer Intern at Simular, you’ll work closely with our founding team to help bring AI agents into the real world. Depending on your skills and interests, you may:</p><ul><li><p>Contribute to core product development, building new features and improving performance.</p></li><li><p>Work with the infrastructure team on scaling systems and virtual machines.</p></li><li><p>Support Forward Deployed Engineering projects, writing scripts and integrations to adapt agents to customer needs.</p></li><li><p>Collaborate with designers and researchers to prototype new ideas and test them with users.</p></li><li><p>Gain hands-on experience in a fast-moving startup where every line of code can make an impact.</p></li></ul><p></p><p><strong>You might be a fit if</strong></p><ul><li><p>Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Information Systems, or a related technical field.</p></li><li><p>Solid programming skills in Python, JavaScript/TypeScript, or a similar language.</p></li><li><p>Strong CS fundamentals and problem-solving ability; competitive programming background (e.g. ACM ICPC, IOI, Google Code Jam, or equivalent contests) is highly preferred.</p></li><li><p>Willingness to dive into different parts of the stack, from frontend to backend to deployment scripts.</p></li><li><p>Curiosity, adaptability, and eagerness to learn in an ambiguous, fast-paced environment.</p></li><li><p>Strong communication and collaboration skills.</p></li><li><p>Bonus: prior internship or project experience in AI, agents, or productivity tools.</p></li></ul>",
+    "content_hash": "1707cf7dc52a15c54ed34b005510cdc1"
+  },
+  "a6c6f712112b": {
+    "id": "a6c6f712112b",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "ambrook",
+      "name": "Ambrook",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ambrook",
+      "external_id": "e458b046-aa7f-4022-bca5-63cdfd495456"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-21T19:35:46.030Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.401Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<p><strong>Ambrook helps American family-run businesses become more profitable and resilient.</strong><br />From volatile markets to climate shifts, independent operators face mounting pressure. While sustainable investments often yield the best long-term returns, they require financial clarity and capital that fragmented legacy systems can’t provide.<br /><br /><strong>We are rebuilding the financial infrastructure that real economy operators rely on.</strong> By replacing paperwork with modern tools for accounting, banking, and spending, Ambrook gives owners the data they need to prove viability to lenders and the next generation. We empower the stewards of land and labor to make confident investments in their future.<br /><br /><strong>We’re a Series B startup backed by</strong> <strong>Lachy Groom,</strong> <strong>Thrive Capital, Dylan Field, Thomson Reuters Ventures, Cameron Ventures, and leaders at Notion, Gusto, and Vercel</strong>. We’re looking for team members to help us untangle the intersection of American industry, climate, and the economy.</p><p><strong>The Opportunity</strong></p><p>As part of our second cohort of engineering interns, you'll work as a valued member of our team building features that directly impact farmers across America. This is an exciting opportunity to gain real-world development experience while contributing to sustainable agriculture, with mentorship from experienced engineers who are invested in your growth.​</p><p></p><p><strong>We’re looking for someone who we can count on to…</strong></p><p></p><ul><li><p>Own: Build and ship real product features that customers use, while helping improve our infrastructure alongside experienced engineers.</p></li><li><p>Learn: Gain experience in engineering best practices, agile development, and working across teams while discovering how agritech and climate solutions help farmers succeed.</p></li><li><p>Grow: Understand the basics of agricultural finance, farm operations, and sustainability practices through hands-on project work.</p></li><li><p>Contribute: Help identify ways to improve our development process and codebase while learning full-stack development.</p></li></ul><p></p><p><strong>Within the first few weeks you’ll</strong></p><p></p><ul><li><p>Learn how to use Ambrook’s tech stack to deliver a standalone feature to our customers</p></li><li><p>Contribute to Engineering team meetings and review code from peers. </p></li><li><p>Analyze Ambrook’s use of best practices and share a technical note with our team about where we have opportunities to improve.</p></li></ul><p></p><p><strong>By the end of your internship you’ll…</strong></p><p></p><ul><li><p>Collaborate with the team as the owner for a full-stack feature built into our core product. As the engineering owner, you’ll break down your project into granular pieces and practice good project management hygiene, triaging and prioritizing new issues that come in.</p></li><li><p>Collaborate with our Product team to influence prioritization of feature ideas and requests with insights from our audience.</p></li><li><p>Embed yourself deeply in understanding the state of farm finance, building a strong intuition about customer needs and audience segmentation.</p></li></ul><p></p><p><strong>About you</strong></p><ul><li><p>Currently pursuing B.S. (or higher) in Computer Science or a related field. Expected graduation: Winter 2027 - Spring/Summer 2028</p></li><li><p>Available to work full-time in our NYC office for 12-16 weeks between May - August 2027</p></li><li><p>Excited to build software that makes natural resource industries like agriculture more sustainable and profitable.</p></li><li><p>Comfortable taking on ambiguous problems and creating elegant technical solutions</p></li><li><p>Exhibits strong computer science fundamentals and an eagerness to learn</p></li><li><p>Bonus: Experience with Typescript, React, React Native, and/or Next.js.</p></li><li><p>Bonus: Track record of building and shipping complex software projects</p></li><li><p>Bonus: Experience in agriculture</p></li></ul><p></p><p><strong>Our tech stack</strong></p><ul><li><p>Next.js / React application written in Typescript</p></li><li><p>Hosted on Google Cloud</p></li><li><p>Firestore &amp; Google Cloud Storage &amp; Postgres for data storage</p></li><li><p>BigQuery &amp; Data Studio for data insights</p></li></ul><p></p><p><strong>What makes this internship special</strong></p><ul><li><p>Make a real difference: Build features that help farmers adopt sustainable practices and grow their businesses</p></li><li><p>Experience life at a high growth startup: see the complete product development cycle, from design to deployment in a fast-paced environment</p></li><li><p>Get personalized mentorship: Work directly with senior engineers who are invested in your growth</p></li><li><p>Join a mission-driven team: Experience startup culture while helping build the future of sustainable agriculture</p></li><li><p>Work closely with customers: Your work will help real farms and agribusinesses across America succeed - and you'll get to meet some of them</p></li></ul><p></p><p><strong>Values</strong></p><p></p><ul><li><p>Real Talk – We create space for ourselves and others to be straightforward, vulnerable, and accountable.</p></li><li><p>Reach Understanding – We are driven by curiosity and empathy to learn about our customers, team, and world.</p></li><li><p>Be Proactively Resourceful – We are internally motivated and externally empowered to identify opportunities and solve problems.</p></li><li><p>Derisk Thoughtfully – We lean into the biggest risks we face as a company and put in the work to address them systematically.</p></li><li><p>Find the Positive-Sum – We believe in creating incentive structures that align the needs of our company, our customers, and our planet.</p></li></ul><p></p><p>Ambrook is an equal opportunity employer. We are committed to building diversity and inclusion into our core company culture.</p>",
+    "content_hash": "432c2245e4120c393d2ddbb5a4df1f40"
+  },
+  "a6e4980c7d9f": {
+    "id": "a6e4980c7d9f",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "kos-ai",
+      "name": "kos.ai",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "kos.ai",
+      "external_id": "efab6ffb-9658-47f7-8b5f-a295c55957d3"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-07T14:45:44.780Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.692Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About </strong><strong>kos.ai</strong></h3><p>Trillions of dollars are flowing into datacenters, defense, energy, and manufacturing. The finance teams processing that capital can't keep up. 800-page invoices, thousand-page contracts, landing every few weeks, often on weekends. The world can't hire specialized accountants fast enough.</p><p>Kos is the world's first virtual finance employee for america’s industrial revival. We're processing invoices for some of the fastest-growing infrastructure and defense companies in America. Backed by $12M from 8VC, XYZ, and MVP with industry-leaders as shareholders (Keith Taylor [ex-CFO Equinix], Heather Paduck [CFO STACK], Matt DeNezza [ex-CFO Crusoe], Sachin Katti [Industrial Compute OpenAI]).</p><p>Media: The Information covering our launch</p><p></p><h3>The Role</h3><p>You'll work alongside the founding engineering team on bounded projects. Eval infrastructure. ERP integration stubs. Internal ops dashboards. The agent training pipeline. Whatever you ship lands in production at live customers.</p><p>What you'll do:</p><ul><li><p>Build and ship a bounded project in one of: eval infrastructure, ERP integration stubs, internal ops dashboards, or the agent training pipeline</p></li><li><p>Partner with the founding team. They're your reviewer and your mentor.</p></li><li><p>Learn how an AI-native product works under the hood. The agent loop, the eval harness, the production plumbing. Not the marketing version.</p></li><li><p>Contribute to code reviews, design discussions, and the culture of the team<br /></p></li></ul><h3>You</h3><ul><li><p>Current CS or ML undergrad or Master's student with a hands-on project or internship track record</p></li><li><p>Fluent in one of Python, TypeScript, or Go. You pick up whatever else the project needs.</p></li><li><p>You've played with LLMs, agents, or computer-use workflows. You've built something, not just read about it.</p></li><li><p>You're hungry to ship code into production, not complete a rotational checklist</p></li><li><p>You'd rather ship one thing a customer touches than polish ten projects that live on a demo-day slide</p></li><li><p>You're comfortable working in-person at our SF office for the whole internship<br /></p></li></ul><h3>Comp and Benefits</h3><ul><li><p>Relocation benefits</p></li><li><p>Visa sponsorship for eligible candidates<br /></p></li></ul><h3>Team</h3><p>Tanuj and Mani met at Stanford as graduate researchers under Sachin Katti.</p><p>Tanuj spent his career in and around the operators Kos serves: IT, datacenters, industrials, and hardware. He previously founded Spot AI, a computer vision company which scaled to over 1,000 enterprise customers. Mani's an International Olympiad medalist, earned his Engineering PhD at Stanford, &amp; published leading research at Microsoft Research. He then built product within Microsoft Azure's Strategic Missions and Technologies group.</p><p>We built Kos because the finance and operations teams behind America's re-industrialization are talented, overwhelmed, and can't hire their way out. Every CFO we spoke to described the same problem: 800-page pay apps, thousand-page contracts, work piling up on weekends, and a talent pool for inventory, utilities, capex, and construction accounting that's simply too small to meet the moment. The back office of the buildout is the bottleneck, and it's the one nobody's building for. They deserve a partner that can keep pace with their ambition.</p>",
+    "content_hash": "a6ac4f7dd513308b872f42506f5f20de"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "2923da929a63": {
+    "id": "2923da929a63",
+    "title": "Hardware Engineering Intern",
+    "title_raw": "Hardware Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Carlos, CA"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "f22cee0e-55d9-42cd-806e-1c1fc7217770"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-21T21:09:03.523Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>At Base, we’re building the future of residential energy. Our unique battery, power inverter, and interconnection systems are designed from the ground up to deliver affordable, reliable, and resilient power to households that are underserved by today’s aging and overloaded electrical grid.</p><p></p><p>Unlike conventional energy storage solutions that cost 5–10x more, our vertically integrated approach allows us to deliver larger, more powerful batteries at a fraction of the price. We’re combining innovative hardware, clever business models, and local manufacturing to get this product in the hands of real people–fast.</p><p></p><p>As a Hardware Engineering Intern, you'll be hands-on with every phase of product development–from early prototyping to production support. You'll work alongside experienced engineers in a fast-paced, highly collaborative environment, solving challenging problems in mechanical and electrical design for cutting-edge batteries, inverters, and microgrid interconnection devices. You’ll learn by doing–and what you do will ship.</p><p></p><p><strong>What You'll Do</strong></p><ul><li><p>Collaborate with senior engineers to design, simulate, build, and test electrical and mechanical systems.</p></li><li><p>Participate in hands-on prototyping, debugging, and iterative testing of early- and late-stage hardware.</p></li><li><p>Support both R&amp;D and production efforts–from first breadboard to high-volume manufacturing.</p></li><li><p>Help diagnose and solve real-world performance, thermal, and integration issues.</p></li><li><p>Contribute to system documentation, test procedures, and design reviews.</p></li></ul><p></p><p><strong>What You'll Bring</strong></p><ul><li><p>Current junior or senior in an undergraduate program, or a graduate student, in Engineering, Physics, Math, or a related technical field.</p></li><li><p>Strong understanding of electrical or mechanical engineering fundamentals (depending on focus).</p></li><li><p>Passion for hands-on hardware development and building things that work in the real world.</p></li><li><p>For mechanical focus: experience with CAD design (e.g., SolidWorks, Fusion 360, or similar) is a plus.</p></li><li><p>For electrical focus: familiarity with schematic capture and PCB layout tools (e.g., KiCad, Altium) is a plus.</p></li><li><p>Curious, self-motivated, and eager to work on hard problems with real-world impact.</p></li></ul><p></p><p><strong>Why Base?</strong></p><p>You won’t be stuck on the sidelines. At Base, interns contribute to meaningful product work that ships. You’ll gain real experience with real stakes–mentored by engineers who’ve built systems at scale across the energy, aerospace, and hardware industries. This is a chance to make a dent in the energy transition, not just study it. Come help us build something better.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "5b53ef6fe31cf563ba8bf05177415cce"
+  },
+  "296cee9de3cc": {
+    "id": "296cee9de3cc",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "title_raw": "Software Engineer Intern (Summer 2027)",
+    "company": {
+      "slug": "saronic",
+      "name": "Saronic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "saronic",
+      "external_id": "60afb634-5515-4347-824a-3816735541c2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T19:45:15.873Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.760Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.</p><p></p><p><strong>Job Overview</strong></p><p>We are seeking a motivated and talented Software Engineer Intern to work on real-world problems that contribute directly to the development of our autonomous surface vessels. You will gain hands-on experience in software development, testing, and integration, and work alongside experienced engineers to tackle complex challenges in autonomy, sensor fusion, and real-time processing.</p><p></p><p>This internship is ideal for students pursuing Computer Science, Software Engineering, Electrical Engineering, and Computer Engineering, or a related field, and eager to make an impact in the defense tech industry. All interns will be supported and mentored by experienced Software Engineers.</p><p></p><p><strong>Responsibilities </strong></p><ul><li><p>Design, implement, and test software components for autonomous systems, including navigation algorithms, sensor integration, and communication protocols</p></li><li><p>Collaborate with the team to develop and optimize algorithms for real-time decision-making, path planning, and object detection</p></li><li><p>Assist in the development of testing frameworks and participate in hardware-in-the-loop (HIL) testing to validate software performance in simulated and real-world environments</p></li><li><p>Contribute to the creation of technical documentation, including design specifications, user manuals, and test plans</p></li><li><p>Work closely with cross-functional teams, including mechanical, electrical, and systems engineers, to ensure seamless integration of software with hardware components</p></li></ul><p></p><p><strong>Qualifications</strong></p><ul><li><p>Currently enrolled in a Bachelor's or Master's program in Computer Science, Software Engineering, Electrical and Computer Engineering, or a related field</p></li><li><p>Programming skills in Python, C++, Typescript, Javascript, or Rust</p></li><li><p>Basic understanding of robotics principles, autonomous systems, and sensor technologies</p></li><li><p>Strong analytical and problem-solving skills</p></li><li><p>Ability to work independently and collaboratively in a fast-paced environment</p></li><li><p>This role requires full-time in office presence (40 hours/week) based at our headquarters in Austin, TX, from May through August 2027</p></li></ul><p></p><p><strong>Physical Demands</strong></p><ul><li><p>Prolonged periods of sitting at a desk and working on a computer</p></li><li><p>Occasional standing and walking within the office</p></li><li><p>Manual dexterity to operate a computer keyboard, mouse, and other office equipment</p></li><li><p>Visual acuity to read screens, documents, and reports</p></li><li><p>Occasional reaching, bending, or stooping to access file drawers, cabinets, or office supplies</p></li><li><p>Lifting and carrying items up to 20 pounds occasionally (e.g., office supplies, packages)</p></li></ul><p></p><p><em>Saronic CCPA Notice for Candidates and California Employees</em></p><p><em>If this role is based in the United States, it requires access to export-controlled information or items that require “U.S. Person” status. As defined by U.S. law, individuals who are any one of the following are considered to be a “U.S. Person”: (1) U.S. citizens, (2) legal permanent residents (a.k.a. green card holders), and (3) certain protected classes of asylees and refugees, as defined in </em><em>8 U.S.C. 1324b(a)(3)</em><em>.</em><br /><br />Saronic does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. <em>We are also committed to providing reasonable accommodations for qualified individuals with disabilities.</em></p>",
+    "content_hash": "02f211720d0035af12f6293bc1f76c6a"
+  },
+  "29f1716faf58": {
+    "id": "29f1716faf58",
+    "title": "Avionics Certification Engineering Intern - Phoenix Site",
+    "title_raw": "Avionics Certification Engineering Intern - Phoenix Site",
+    "company": {
+      "slug": "acron-aviation",
+      "name": "Acron Aviation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Phoenix, AZ",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "acronaviation",
+      "external_id": "ad4a75ee-4247-4f71-afe5-174f16832edf"
+    },
+    "apply_url": "https://jobs.lever.co/acronaviation/ad4a75ee-4247-4f71-afe5-174f16832edf/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T00:43:00.890Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:35.608Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Acron Aviation is seeking an Avionics Certification Engineering Intern to support the development, certification, and regulatory approval of avionics systems and equipment for commercial, business, and military aircraft applications at our <b>Phoenix, Arizona</b> site.<br />This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.<br />This internship provides hands-on experience with aviation regulatory compliance activities, including Supplemental Type Certificates (STCs), Technical Standard Orders (TSOs), FAA certification processes, and aircraft integration projects. The intern will collaborate with experienced certification engineers, systems engineers, ODA Unit Members, FAA representatives, and cross-functional project teams to help ensure avionics products and aircraft modifications meet applicable regulatory requirements and industry standards. <br />\nAcron Aviation is seeking an Avionics Certification Engineering Intern to support the development, certification, and regulatory approval of avionics systems and equipment for commercial, business, and military aircraft applications at our <b>Phoenix, Arizona</b> site.<br />This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.<br />This internship provides hands-on experience with aviation regulatory compliance activities, including Supplemental Type Certificates (STCs), Technical Standard Orders (TSOs), FAA certification processes, and aircraft integration projects. The intern will collaborate with experienced certification engineers, systems engineers, ODA Unit Members, FAA representatives, and cross-functional project teams to help ensure avionics products and aircraft modifications meet applicable regulatory requirements and industry standards. <br />\n<h3>What you will do</h3>Assist with the preparation and review of certification documentation supporting STC and TSO programs. Support regulatory compliance activities for avionics systems, equipment, and aircraft modifications. Assist in developing certification plans, compliance checklists, and requirements traceability matrices. Research applicable FAA regulations, advisory circulars, policy documents, and industry standards. Support the evaluation of avionics designs against applicable certification requirements. Assist with the preparation and maintenance of engineering data packages, technical reports, and certification records. Participate in design reviews, technical meetings, and certification status reviews. Support test planning, test witnessing, and analysis of test results. Assist with aircraft integration and verification activities for avionics installations. Collaborate with engineering teams to help resolve certification-related findings and technical issues. Maintain accurate project documentation within company configuration management systems. Complete other engineering and project-related assignments as needed. \n<h3>Learning Opportunities</h3>During the internship, the successful candidate may gain exposure to: FAA certification processes and regulatory frameworks. Supplemental Type Certificate development and approval. Technical Standard Order authorization processes. Aircraft system integration and modification programs. Avionics architectures and aircraft communication, navigation, surveillance, recorder, and display systems. Industry standards such as RTCA DO-160, DO-178C, DO-254, ARP4754A, and ARP4761. Certification engineering best practices and compliance demonstration methods. Collaboration across engineering, program management, quality, and regulatory disciplines.  \n<h3>Required Qualifications</h3>Currently pursuing a bachelor’s or master’s degree in one of the following areas: Aerospace Engineering Electrical Engineering Mechanical Engineering Systems Engineering Another related technical discipline Strong interest in aviation, aerospace systems, avionics, and regulatory certification. Basic understanding of electrical, electronic, aircraft, or systems engineering concepts. Strong analytical, organizational, and problem-solving skills. Effective written and verbal communication skills. Ability to work effectively in a collaborative engineering environment. Proficiency with Microsoft Office applications, including Excel, Word, and PowerPoint. Ability to work full-time and onsite for the duration of the internship program.  This position may require access to information, technology, software, or hardware that is subject to U.S. export control laws and regulations. To comply with these requirements, applicants must qualify as a US Person. \n<h3>Preferred Qualifications</h3>Coursework related to avionics, aerospace systems, electronics, certification, or systems engineering. Familiarity with FAA regulations, including 14 CFR Parts 21, 23, 25, 27, or 29. Knowledge of avionics systems such as communication, navigation, surveillance, flight management, or cockpit display systems. Familiarity with requirements management or systems engineering tools. Previous internship, academic project, laboratory, aviation, or aerospace experience. Familiarity with artificial intelligence tools or applications, such as Microsoft Copilot or Cursor \n<b>Equal Opportunity Statement</b>Acron Aviation is proud to be an Affirmative Action and Equal Opportunity Employer. We are committed to treating all employees and applicants with respect and dignity and to maintaining a workplace free from unlawful discrimination. All applicants will be considered for employment regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or any other legally protected characteristic. <b>Additional Information:</b>Acron Aviation maintains a drug-free workplace and conducts pre-employment substance abuse testing and background checks, where allowed by law. Acron Aviation is an E-Verify employer",
+    "content_hash": "311c5312d1859dc817a7af4a064f8d04"
+  }
+}

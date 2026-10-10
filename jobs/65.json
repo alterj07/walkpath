@@ -1,0 +1,42 @@
+{
+  "6502a302d4f5": {
+    "id": "6502a302d4f5",
+    "title": "Engineering Internship",
+    "title_raw": "Engineering Internship",
+    "company": {
+      "slug": "conveo-ai",
+      "name": "Conveo.ai",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Antwerp",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "conveo",
+      "external_id": "00915c85-373b-4094-b17e-1dca197e644f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T13:13:26.925Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.834Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Conveo is the AI research platform enabling fast, affordable, and high quality consumer / B2B research. Global brands like Unilever, Google, and Orange use our AI video interviewer across insights, marketing, and product teams.</p><p></p><h3>The Problem</h3><p>The current/traditional research methods companies rely on are slow, expensive, and superficial. Running great research also requires expertise which is a blocker to many companies. That directly affects how well companies understand their customers and how well they can serve them.</p><p></p><h3>The Team</h3><p>You will join an extremely talented team of incredibly passionate, high-energy people. We go the extra mile while having the best time of our lives. Our team has the combination of decades of market research knowledge, incredible engineering ability, and experience building companies.</p><p></p><h3>How We Operate</h3><p>- We truly care about our clients and the problem we solve. That means we humbly go the extra mile every time.</p><p>- Our engineering team talks directly with our customers. No layers in between.</p><p>- We work hard and we have fun.</p><p>- To keep our quality bar incredibly high, we want to execute with the smallest possible team.</p><p></p><h3>The Role</h3><p>As an Engineering Intern, you won't be watching from the sidelines. You'll ship real features to real customers from your first weeks. You'll work alongside senior engineers building an AI-native platform at the cutting edge of what's possible, and you'll be expected to take ownership of meaningful work, not busywork.</p><p></p><p>This is for someone who writes code because they can't help it. You've built things on your own. You're curious about AI. And you want to learn what it takes to build a product that Fortune 500 companies depend on.</p><p></p><h3>What You'll Do</h3><p></p><p>1. <strong>Ship real features.</strong> Own features from spec through deployment on our production platform, used daily by global enterprise teams.</p><p>2. <strong>Build with AI at the core.</strong> Work hands-on with LLMs, prompt engineering, and AI-native product design. Not as a side project, but as the product itself.</p><p>3. <strong>Work full-stack.</strong> Contribute across the stack: React/TypeScript frontend, Node.js backend, PostgreSQL, cloud infrastructure (AWS/GCP).</p><p>4. <strong>Talk to customers.</strong> Sit in on client calls. Understand why what you're building matters. Translate real problems into technical solutions.</p><p>5. <strong>Learn from senior engineers.</strong> Pair with experienced builders who've shipped at scale. Get direct, honest feedback that accelerates your growth faster than any classroom.</p><p></p><h3>What We're Looking For</h3><p></p><p><strong>Non-negotiables</strong></p><p>- Currently pursuing a degree in Computer Science, Software Engineering, or equivalent hands-on experience</p><p>- Strong fundamentals in at least one of: TypeScript/JavaScript, Python, or similar</p><p>- You've built something: a side project, open-source contribution, hackathon project, or personal tool. Show us.</p><p>- Genuine curiosity about AI and how it's reshaping products</p><p>- Strong written and verbal English communication</p><p></p><p><strong>Bonus (not required)</strong></p><p>- Experience with React, Node.js, or full-stack web development</p><p>- Familiarity with LLM APIs, prompt engineering, or AI application development</p><p>- Experience with PostgreSQL or other relational databases</p><p>- Cloud infrastructure exposure (AWS, GCP)</p><p></p><p><strong>Mindset</strong></p><p>- You default to building, not theorizing</p><p>- You're comfortable with ambiguity and figure things out</p><p>- You take ownership. You don't wait to be told what to do.</p><p>- You want to be great, not just good enough</p><p>- You're low ego and high standards</p><p></p><h3>What Success Looks Like</h3><p>- You've shipped features that customers use and value</p><p>- The engineering team trusts you with real responsibility</p><p>- You've learned more in a few months than most interns learn in a year</p><p>- You leave with a portfolio of production work, not PowerPoint decks</p><p></p><h3>Why Join</h3><p>- Work with the latest AI models at the cutting edge of what's possible</p><p>- Work at a hyper-growth, Y Combinator-backed startup where speed and impact matter</p><p>- Learn directly from senior engineers and founders. No layers in between.</p><p>- Collaborate with a team that is obsessed with excellence and execution</p><p>- Competitive internship compensation and growth opportunities</p><p>- Flexible working hours and PTO</p><p></p><p><strong>Location:</strong> Antwerp, Belgium</p><p><strong>Duration:</strong> 6 weeks+ (flexible)</p><p><strong>Type:</strong> Full-time internship</p>",
+    "content_hash": "583fad767437a4fac6cd4890723f8349"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "2005ea280b62": {
+    "id": "2005ea280b62",
+    "title": "AI/ML Research Intern",
+    "title_raw": "AI/ML Research Intern",
+    "company": {
+      "slug": "afterquery",
+      "name": "AfterQuery",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "afterquery",
+      "external_id": "00cd591f-6894-4259-83b6-36c999351dde"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/afterquery/00cd591f-6894-4259-83b6-36c999351dde/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-12T04:52:52.579Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:55.845Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About AfterQuery</strong></h3><p>AfterQuery is an applied research lab curating data solutions for foundation model development. We serve every frontier AI lab with the mission of delivering the best data to power the best models. In doing so, we can make expertise that once took a lifetime to build available to anyone who needs it. </p><p>Our customers are the ones building the foundation models themselves and our work sits directly in the loop of how those systems improve. This is a rare opportunity to join a company at a defining moment in AI. Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation. We're based in San Francisco and backed by leading investors including Altos Ventures, BoxGroup, and Y Combinator and angels from Google DeepMind, OpenAI, Anthropic, Meta Superintelligence Labs, and Microsoft AI.</p><p></p><h3>Why Apply</h3><p><strong>Massive Opportunity:</strong> Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation, and we're not slowing down.</p><p><strong>Founding Impact:</strong> You will own and architect core infrastructure systems that power our platform from the ground up.</p><p><strong>Equity &amp; Growth:</strong> Competitive salary and meaningful equity. As we scale, you’ll have the opportunity to shape the engineering organization and lead major technical initiatives.</p><p><strong>Strong Team:</strong> Our founding team has experience from Citadel Securities, Meta, Google, Silver Lake, and Morgan Stanley — work alongside world-class engineers and researchers.</p><p></p><p>AfterQuery is seeking exceptional undergraduate and masters students for our AI/ML Research Internship program. This is not a typical internship – you'll work directly with our research team on cutting-edge AI projects focused on advanced reasoning, computer use, and agentic models. You'll have access to our network of experts and specialized datasets to support your research contributions. Successful interns will have the opportunity to co-author research papers, gain invaluable experience with frontier AI systems, and potentially present work at leading AI conferences. Students enrolled in undergraduate or masters programs in relevant fields are welcome to apply. This job will demand between 10 and 40 hours per week depending on company needs.</p><p></p><h3>Company Overview</h3><p>AfterQuery is a research lab investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. Our customers are the foundation model labs, and we serve all of the frontier AI labs.</p><p>We are based in San Francisco, CA, and have raised funding from top investors, including Y Combinator and BoxGroup, ex-partners from Lightspeed and Index Ventures, and senior leadership at Google DeepMind and Meta GenAI.</p><p>Our founding team brings backgrounds from Jane Street, Meta, Citadel Securities, Google, Goldman Sachs, Morgan Stanley, Silver Lake, Berkeley Artificial Intelligence Research (BAIR), and Stanford Artificial Intelligence Laboratory (SAIL).</p><h3><strong>Why Apply</strong></h3><ul><li><p>Contribute to cutting-edge AI research</p></li><li><p>Co-author papers for top AI conferences</p></li><li><p>Access specialized datasets and computational resources</p></li><li><p>Develop highly sought-after industry and academic skills</p></li><li><p>Join one of the fastest growing YC startups</p></li><li><p>Work with AfterQuery’s founding team (Citadel Securities, Meta, Google, Silver Lake, Morgan Stanley)</p></li></ul><h3><strong>Responsibilities</strong></h3><ul><li><p>Support research scientists in designing and running experiments</p></li><li><p>Collect, process, and analyze proprietary datasets</p></li><li><p>Help develop and test new algorithms for advanced reasoning and agents</p></li><li><p>Contribute to research documentation and findings</p></li><li><p>Participate in research discussions and present findings</p></li><li><p>Collaborate on interdisciplinary projects with interns and researchers</p></li></ul><h3><strong>Preferred Qualifications</strong></h3><ul><li><p>Experience in AI, ML, or related research projects</p></li><li><p>Familiarity with large language models and reinforcement learning</p></li><li><p>Knowledge of NLP or multi-modal systems</p></li><li><p>Previous research experience or publications</p></li><li><p>Strong communication skills; able to explain complex concepts</p></li><li><p>Experience with data visualization and analysis tools</p></li></ul><h3>Company Benefits (For Eligible Employees):</h3><ul><li><p>Health Insurance: Medical, Vision, Dental</p></li><li><p>401(k) with Employer Match</p></li><li><p>Daily Meals: Daily UberEats Stipend</p></li><li><p>Monthly Wellness Stipend</p></li></ul><p>We are an equal opportunity employer committed to providing a workplace free from discrimination and harassment. Employment decisions are made without regard to legally protected characteristics under applicable federal, state, or local law. </p><p>We comply with applicable pay transparency requirements and provide compensation ranges based on the position, qualifications, experience, and other relevant factors. Reasonable accommodations are available to qualified individuals with disabilities and for sincerely held religious beliefs, as required by law. This job description is intended to describe the general nature and level of work performed and is not an exhaustive list of all duties, responsibilities, qualifications, or working conditions associated with the position. We reserve the right to modify this job description as business needs change.</p>",
+    "content_hash": "f3f1853730327270279736956ea8aa3f"
+  },
+  "2057c620f429": {
+    "id": "2057c620f429",
+    "title": "Software engineering Intern",
+    "title_raw": "Software engineering Intern",
+    "company": {
+      "slug": "maximor-ai",
+      "name": "Maximor AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "maximor",
+      "external_id": "3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-25T20:15:07.571Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.261Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>We're building the future of accounting. Our AI-powered agentic platform automates complex financial workflows — from reconciliation and audit prep to tax compliance and advisory — so accountants can focus on the work that actually matters. Backed by top-tier investors, we're a small, fast-moving team shipping product at a pace that would make most startups jealous.</p><p></p><h3>The Role</h3><p>We're looking for a Software Engineering Intern who's excited to build real features, ship real code, and see their work in the hands of real users — all in a single summer. You won't be working on a side project no one looks at. You'll be embedded in one of our product squads, contributing directly to our core platform alongside senior engineers, designers, and domain experts.</p><p>By the end of the summer, you'll have owned a meaningful project from scoping through delivery, presented your work to the company, and gained deep exposure to how AI agents, LLMs, and modern infrastructure come together to solve hard problems in finance.</p><p></p><h3>What You'll Do</h3><ul><li><p>Design, build, and ship features across our full stack (React/TypeScript front end, Python/FastAPI back end, PostgreSQL)</p></li><li><p>Work with LLM orchestration frameworks to develop, test, and improve our AI accounting agents</p></li><li><p>Collaborate with accountants and domain experts to understand real-world workflows and translate them into product</p></li><li><p>Write clean, well-tested code and participate in code reviews with experienced engineers</p></li><li><p>Tackle ambiguous problems — we'll give you ownership, context, and support, not a step-by-step playbook</p></li><li><p>Present your summer project to the full team at the end of the internship</p></li></ul><p></p><h3>What We're Looking For</h3><ul><li><p>Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field (expected graduation 2027 or later)</p></li><li><p>Strong fundamentals in at least one programming language (Python, TypeScript/JavaScript, Go, or similar)</p></li><li><p>Familiarity with web development concepts (APIs, databases, front-end frameworks)</p></li><li><p>Genuine curiosity about AI/ML, large language models, or agentic systems — prior project work or coursework is a plus, not a requirement</p></li><li><p>Comfort with ambiguity and a bias toward action — you'd rather ship an imperfect v1 than deliberate forever</p></li><li><p>Strong communication skills and a collaborative mindset</p></li></ul><p></p><h3>Bonus Points</h3><ul><li><p>Experience with LLM APIs (OpenAI, Anthropic, etc.) or prompt engineering</p></li><li><p>Exposure to accounting, fintech, or enterprise SaaS</p></li><li><p>Contributions to open-source projects</p></li><li><p>Familiarity with cloud infrastructure (AWS, GCP) or containerization (Docker, Kubernetes)</p></li></ul><p></p><h3>Why Join Us</h3><ul><li><p><strong>Real impact:</strong> Your code will be in production, used by accountants at real firms, before you go back to school.</p></li><li><p><strong>Learn fast:</strong> Daily exposure to AI agents, LLM engineering, and complex financial domain problems — the kind of experience that's hard to get anywhere else.</p></li><li><p><strong>Great team:</strong> Small enough that everyone knows your name, senior enough that you'll learn from every conversation.</p></li><li><p><strong>Career launchpad:</strong> Strong interns receive full-time return offers. Several of our current engineers started as interns.</p></li></ul>",
+    "content_hash": "8ec16b751b69d6692af49aa9eb30ede2"
+  },
+  "20fda60daf8f": {
+    "id": "20fda60daf8f",
+    "title": "Electrical Engineering Intern",
+    "title_raw": "Electrical Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Carlos, CA"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "7284737d-7e04-43e0-af1f-858103f64e97"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T21:34:59.586Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>At Base, we’re building the future of residential energy. Our unique battery, power inverter, and interconnection systems are designed from the ground up to deliver affordable, reliable, and resilient power to households that are underserved by today’s aging and overloaded electrical grid.</p><p></p><p>Unlike conventional energy storage solutions that cost 5–10x more, our vertically integrated approach allows us to deliver larger, more powerful batteries at a fraction of the price. We’re combining innovative hardware, clever business models, and local manufacturing to get this product in the hands of real people–fast.</p><p></p><p>As a Hardware Engineering Intern, you'll be hands-on with every phase of product development–from early prototyping to production support. You'll work alongside experienced engineers in a fast-paced, highly collaborative environment, solving challenging problems in mechanical and electrical design for cutting-edge batteries, inverters, and microgrid interconnection devices. You’ll learn by doing–and what you do will ship.</p><p></p><p><strong>What You'll Do</strong></p><ul><li><p>Collaborate with senior engineers to design, simulate, build, and test electrical and mechanical systems.</p></li><li><p>Participate in hands-on prototyping, debugging, and iterative testing of early- and late-stage hardware.</p></li><li><p>Support both R&amp;D and production efforts–from first breadboard to high-volume manufacturing.</p></li><li><p>Help diagnose and solve real-world performance, thermal, and integration issues.</p></li><li><p>Contribute to system documentation, test procedures, and design reviews.</p></li></ul><p></p><p><strong>What You'll Bring</strong></p><ul><li><p>Current junior or senior in an undergraduate program, or a graduate student, in Engineering, Physics, Math, or a related technical field.</p></li><li><p>Strong understanding of electrical or mechanical engineering fundamentals (depending on focus).</p></li><li><p>Passion for hands-on hardware development and building things that work in the real world.</p></li><li><p>Electrical focus: familiarity with schematic capture and PCB layout tools (e.g., KiCad, Altium) is a plus.</p></li><li><p>Curious, self-motivated, and eager to work on hard problems with real-world impact.</p></li></ul><p></p><p><strong>Why Base?</strong></p><p>You won’t be stuck on the sidelines. At Base, interns contribute to meaningful product work that ships. You’ll gain real experience with real stakes–mentored by engineers who’ve built systems at scale across the energy, aerospace, and hardware industries. This is a chance to make a dent in the energy transition, not just study it. Come help us build something better.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "63ae5f0953bcc362e9bff292965a6d16"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "5600502d660e": {
+    "id": "5600502d660e",
+    "title": "Founding Engineer Intern",
+    "title_raw": "Founding Engineer Intern",
+    "company": {
+      "slug": "clera",
+      "name": "Clera",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "clera",
+      "external_id": "d3c69268-3324-4a84-b911-7a4303672767"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-03T22:57:11.096Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.503Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "yes",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the Role</h3><p>A fast-growing, pre-seed AI startup in the talent and recruiting space is looking for a <strong>Founding Engineer Intern</strong> to join their founding team in San Francisco. You'll work directly with the CTO to ship features daily and help build a fully agentic system that automates headhunting end-to-end. This role puts you at the center of rapid experimentation with real ownership and high-impact outcomes — including time in hacker-house environments in Latin America.</p><h3>What You'll Do</h3><ul><li><p>Build and ship features daily alongside the CTO to automate the recruiting process end-to-end.</p></li><li><p>Own full end-to-end development — from ideation to production — for core product features.</p></li><li><p>Collaborate with the founding team to design and ship components of an agentic AI system.</p></li><li><p>Talk to users and measure impact on hiring speed to drive rapid iteration.</p></li><li><p>Thrive in a founder-paced, high-output environment with daily feedback loops.</p></li></ul><h3>What We're Looking For</h3><p><strong>Required:</strong></p><ul><li><p>At least 6 months of experience with <strong>React</strong> and <strong>TypeScript</strong> in a production environment.</p></li><li><p>Hands-on experience with <strong>Cursor, Supabase, Prisma, and Typesense</strong> in a production React/TypeScript stack.</p></li><li><p>Full-stack focus — not an ML engineer and not overly specialized in a single language (e.g. Python or C++).</p></li><li><p>Strong ownership mindset with the ability to drive features from ideation to production independently.</p></li><li><p>Currently enrolled in or pursuing a degree in Computer Science, Software Engineering, or a related field.</p></li><li><p>Something outstanding about your profile — top GPA, strong university, impressive projects, or an active GitHub.</p></li><li><p>Experience working in entrepreneurial, fast-paced, scrappy environments.</p></li><li><p>Willingness to work 7 days/week and participate in hacker-house setups in LatAm.</p></li></ul><p><strong>Nice to Have:</strong></p><ul><li><p>Portfolio or sample projects demonstrating full-stack development and open-source contributions.</p></li></ul><h3>Location</h3><p>Based in <strong>San Francisco, CA</strong>. On-site role with hacker-house periods in Latin America. Visa sponsorship is available.</p>",
+    "content_hash": "557d3e6b9209ead6c68de7d81d58035c"
+  }
+}

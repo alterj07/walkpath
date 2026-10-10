@@ -1,0 +1,47 @@
+{
+  "b436935e8173": {
+    "id": "b436935e8173",
+    "title": "Coatings Engineer/Scientist Co-op",
+    "title_raw": "Coatings Engineer/Scientist Co-op",
+    "company": {
+      "slug": "lydian",
+      "name": "Lydian",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "lydian",
+      "external_id": "bc092b36-e885-41dd-b970-ae2c06f5e271"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/lydian/bc092b36-e885-41dd-b970-ae2c06f5e271/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T16:12:42.549Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:14.820Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Spring 2026",
+    "salary": {
+      "min": 30,
+      "max": 32,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Company Overview</h3><p>Lydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel with 95% lower emissions than traditional jet fuel.</p><p>Since our founding in 2021, Lydian has achieved key milestones in record time, including the production of our first liquid fuel from our pilot system, capable of producing 10,000 gallons of fuel per year for a fraction of the capital and time of alternative approaches. We are building a motivated, diverse, and collaborative team that is passionate about addressing the growing climate crisis and is committed to excellence in their work. In particular, we look for tenacious people who are energized by solving the hardest, highest impact problems that come their way.</p><p></p><h3>Position Overview</h3><p>Lydian is looking for a 6-month Coatings Engineer/Scientist Co-op for Spring 2026 to develop and optimize coating materials, including slurry formulation, monolith coatings, and coatings characterization, as well as optimization and scale-up of these methods to enable pilot-scale demonstrations. In this role, you will work at the intersection of materials chemistry and process engineering, developing slurries that can be applied uniformly and reliably to ceramic substrates and then survive demanding high-temperature operation. You will interface with engineers and scientists across various domains in order to inform your experimental design and research priorities, and your work will directly determine how our catalysts are manufactured at scale.</p><p></p><p>This is an hourly position based in Boston, MA and has a minimum commitment of 6-months. The role is fully in-person and hands-on in the lab.</p><p></p><h3>Responsibilities</h3><ul><li><p>Development of slurry coatings with different powders, binders, rheology modifiers and solvents, including characterization of slurry properties (e.g., viscosity, particle size, solids loading) and their effect on coating quality</p></li><li><p>Application of coatings to monolith substrates and evaluation of coating loading, uniformity, adhesion, and thermal stability</p></li><li><p>Scale-up of promising formulations to coat large substrates (catalyst monoliths &gt; 5 in long), translating small-sample recipes into repeatable processes for full-size parts</p></li><li><p>Working effectively with partners, including automotive catalyst suppliers, to develop scalable manufacturing techniques and transfer Lydian coating processes to partner equipment</p></li><li><p>Using advanced characterization techniques (e.g., microscopy, XRD, surface area and porosity, thermal analysis) to develop understanding of materials and coatings, and working with external partners who can perform some techniques under our guidance</p></li><li><p>Building, upgrading, and maintaining coating and materials test equipment as needed to support experiments</p></li><li><p>Collaborating with the other projects to understand and incorporate requirements and cooperatively solve problems, particularly with the catalyst synthesis and reactor teams</p></li><li><p>Documenting procedures and results, analyzing data, and communicating findings and recommendations to the team</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p>B.S. or M.S. candidate in Chemical Engineering, Materials Science, Ceramic Engineering, or related field</p></li><li><p>Hands-on, proactive mentality when it comes to lab work and pushing ideas forward</p></li><li><p>Interest in high-temperature materials science. Experience in slurry formulation and coatings (e.g., washcoating, dip coating, rheology, dispersion of ceramic powders) preferred but not necessary</p></li><li><p>Understanding of reaction kinetics, heat transfer, and mass transport at an undergraduate level; familiarity with heterogeneous catalysis concepts is a plus</p></li><li><p>Experience documenting experimental procedures, collecting data and performing statistical analyses of datasets</p></li><li><p>Focus on safety and assessing/mitigating risks when running experiments in a lab, including handling of fine powders, solvents, and high-temperature furnaces</p></li><li><p>Curiosity, eagerness to learn, and a proactive mindset; comfortable asking questions and taking initiative in an environment where procedures are still being developed</p></li><li><p>Strong written and verbal communication skills for sharing results with a cross-functional team</p></li><li><p>Desire to work in a fast-paced environment and solve interesting technical problems</p></li></ul><p></p><h3><strong>Company culture and benefits</strong></h3><ul><li><p>Paid lab/engineering-focused internship with a collaborative in-person technical team</p></li><li><p>Challenging, meaningful work that can directly impact company success</p></li><li><p>Opportunities for networking/exposure within the climate tech community</p></li><li><p>Mentorship from a great team of engineers and scientists</p></li></ul>",
+    "content_hash": "9ba07002970d8205d990071306d70729"
+  }
+}

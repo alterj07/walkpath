@@ -1,0 +1,135 @@
+{
+  "cc26377005f5": {
+    "id": "cc26377005f5",
+    "title": "GNC Engineering Intern",
+    "title_raw": "GNC Engineering Intern",
+    "company": {
+      "slug": "reflect-orbital",
+      "name": "Reflect Orbital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reflect-orbital",
+      "external_id": "242494ac-5d48-4d46-9b3c-16a8da598108"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reflect-orbital/242494ac-5d48-4d46-9b3c-16a8da598108/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T21:57:15.320Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.587Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 27,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.</p><p></p><h3>About the Role</h3><p>Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.</p><p>During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.</p><p>Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.</p><p></p><h3>Responsibilities</h3><ul><li><p>Work on a focused piece of our guidance, navigation, and control stack, in simulation, in flight software, or both.</p></li><li><p>Build complete tools and test setups, with an emphasis on fully completing and shipping your work.</p></li><li><p>Get hands on with our flatsat, integrating and debugging components on real avionics.</p></li><li><p>Own an open question, whether that's a sensor trade, an orbit study, or a failure mode nobody has characterized yet, and document your findings so the team can build on them.</p></li></ul><p></p><h3>Ideal Qualifications</h3><ul><li><p>You are able to work full-time onsite</p></li><li><p>You are enrolled in a Bachelor's or Master’s degree program from an accredited college or university in aerospace engineering, mechanical engineering, or related engineering field</p></li><li><p>Understanding of fundamentals in the fields of orbital mechanics, spacecraft attitude dynamics, control systems and state estimation/sequential filtering</p></li><li><p>Familiarity with ADCS components such as star trackers, IMU's, reaction wheels, CMG's, RCS, etc</p></li><li><p>Proficiency in mathematical modeling and simulation software, including numerical methods</p></li><li><p>Proficiency in Python, C/C++ or Rust code development</p></li><li><p>Application of technical skills outside of the classroom (examples include: extracurricular projects, volunteering, personal projects, laboratory research, or prior internship/work experience)</p></li><li><p>Excellent communication skills and the ability to work collaboratively in a professional team environment</p></li><li><p>Eagerness to learn and adapt in a dynamic startup environment</p></li></ul><p></p><p>Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.</p><p>We are also interested in carving out unique roles for unconventional people that we are excited about working with.</p><p></p><h3><strong>Benefits</strong></h3><p>Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.</p><ul><li><p>Generous paid time off</p></li><li><p>Healthy lunches provided daily</p><p></p></li></ul><h3><strong>Equal Opportunity</strong></h3><p>Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><p></p><p><strong>More about Reflect Orbital:</strong></p><p>Learn more about our team here.</p>",
+    "content_hash": "7309d8d518ee1c11c1b49d566cde1f3b"
+  },
+  "cca023067ee7": {
+    "id": "cca023067ee7",
+    "title": "Engineering Intern (Summer 2027)",
+    "title_raw": "Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "decagon",
+      "name": "Decagon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "decagon",
+      "external_id": "16529089-a048-4bc3-8456-3f197135e00b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-20T23:04:23.664Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.710Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 3000,
+      "max": 3000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><strong>About Decagon</strong></p><p>Decagon is the leading conversational AI platform empowering every brand to deliver concierge customer experiences.</p><p>Our technology enables industry-defining enterprises like Avis Budget Group, Block’s Cash App and Square, Chime, Oura Health, and Hunter Douglas to deploy AI agents that power personalized, deeply satisfying interactions across voice, chat, email, SMS, and every other channel.</p><p>We’re building a future where customer experiences are being redefined from support tickets and hold music to faster resolutions, richer conversations, and deeper relationships. We’re proud to be backed by world-class investors who share that vision, including a16z, Accel, Bain Capital Ventures, Coatue, and Index Ventures, along with many others.</p><p>We’re an in-office company, driven by a shared commitment to excellence and velocity. Our values — Just Get It Done, Invent What Customers Want, Winner’s Mindset, and The Polymath Principle — shape how we work and grow as a team.</p><p></p><p><strong>About the Role</strong><br />As an intern on Decagon’s Engineering team, you’ll be part of a pioneering group shaping the future of intelligent agents. You’ll contribute directly to production-ready initiatives that address real team needs, gaining hands-on experience and leaving your mark on meaningful, high-visibility work.<br /><br />This is a 12-week internship running June 1 – August 20, 2027, based out of our San Francisco office.<br /><br />This role is designed for candidates graduating between December 2027 and July 2028.<br /></p><p><strong>Your background looks something like this</strong></p><ul><li><p>You will graduate by summer 2028 with a degree in Computer Science or a related technical field</p></li><li><p>You have experience from previous software engineering internships </p></li><li><p>You write amazing code, fast</p></li><li><p>Experience using AI coding agents as part of development</p></li><li><p>You are excited to thrive in a fast-paced environment, continuously learn, and sharpen your skills<br /></p></li></ul><p><strong>Even better</strong></p><ul><li><p>Prior experience working with multi-modal models</p></li><li><p>Experience with distributed systems, data pipelines, or production infrastructure</p></li><li><p>0→1 product-building experience<br /></p><p></p></li></ul><h3><strong>More about the teams hiring Summer 2027 Engineering Interns </strong></h3><h3>Agent Engineering</h3><p>The Agent Engineering team at Decagon deploys mission-critical AI agents to our customers that impact millions of users and directly drive Decagon’s growth. You will build on our industry-leading AI agent platform, collaborate directly with customers and use your own creativity to devise long-term, scalable solutions.</p><p>Our mission is to deliver magical support experiences — AI agents working alongside human agents to help users resolve their issues.</p><h3>Agent Orchestration</h3><p>The Agent Orchestration team builds the runtime and model orchestration layer that powers Decagon’s agents in production. This is the orchestration layer that turns workflows, tools and guardrails into a reliable, low-latency, and delightful experience for end users.</p><h3>Enterprise Product</h3><p>The Enterprise Product team creates the platform that customers use to build, maintain, and improve their AI agents. We transform complex engineering work into intuitive self-serve products, making sophisticated AI capabilities accessible to both technical and non-technical Customer Experience teams. This team is core to Decagon’s ability to scale: the tools you build directly support agents for all our customers, each with unique workflows, data, and requirements.</p><h3>Infrastructure</h3><p>The Infrastructure team builds and operates the foundations that power Decagon: networking, data, ML serving, developer platform, and real‑time voice. We partner closely with product, data, and ML to deliver high‑scale, low‑latency systems with clear SLOs and great developer ergonomics.</p><p>Read more about the infra team's work here.</p><p></p><p><em><strong>Note:</strong> The benefits listed below apply to full-time employees. Interns are eligible for daily lunches and snacks in the office, and the monthly lifestyle stipend.</em></p><p></p><p><strong>Benefits</strong></p><p>We proudly offer the following benefits for our full-time employees:</p><ul><li><p>Medical, Dental, and Vision benefits for you and your family</p></li><li><p>Life Insurance and Disability Benefits</p></li><li><p>Retirement Plan (e.g., 401K, pension)</p></li><li><p>Parental Leave</p></li><li><p>Fertility and family building benefits through Carrot</p></li><li><p>Monthly stipend to support your wellness, lifestyle, and work-life balance</p></li><li><p>Daily lunches and snacks in the office to keep you at your best</p></li><li><p>Take what you need vacation policy (subject to local requirements; UK employees receive 25 days of statutory leave)</p></li></ul><p><em>These benefits are described in more detail in Decagon’s policies, may vary by location, and can change at any time according to applicable compensation and benefits plans.</em></p>",
+    "content_hash": "a653393451ed61008ad0609ea345ae15"
+  },
+  "ccdb209444a5": {
+    "id": "ccdb209444a5",
+    "title": "Summer 2027 Democracy, Speech & Technology Internship",
+    "title_raw": "Summer 2027 Democracy, Speech & Technology Internship",
+    "company": {
+      "slug": "aclu-of-northern-california",
+      "name": "ACLU of Northern California",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "aclunc",
+      "external_id": "8829550002"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/aclunc/jobs/8829550002",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T18:38:33.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:30.976Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em>Location: We expect our Summer 2027 internships will proceed in-person (or in a hybrid model) at our offices in San Francisco, Sacramento, and Fresno. In your application materials please include your preference and willingness to be based in each of these locations.</em></p>\n<p><em>Deadline: Open until filled. Applications from first year law students will not be reviewed until November 2026.</em></p>\n<p>The ACLU of Northern California’s Legal Advocacy Department invites law and graduate students to apply for its Democracy, Speech &amp; Technology Internship. Students willing to work with intensity and focus will find an internship at ACLU NorCal to be a rewarding learning experience. Qualified applicants are enthusiastic, creative, and detail-oriented; have strong research, writing, and oral communication skills; and can articulate a commitment to work for social justice and the ideals of the ACLU. </p>\n<p><strong>About the Legal Advocacy Department</strong></p>\n<p>The Legal Advocacy Department promotes policy change and pursues cutting edge impact litigation to defend and expand the civil liberties and civil rights guaranteed by the Bill of Rights. The Department’s work focuses on three broad issue areas: Criminal Law &amp; Immigration; Democracy, Speech &amp; Technology; and Special Litigation &amp; Appeals. The Department’s staff is based in San Francisco, Sacramento, and Fresno. Department staff work closely with other departments within ACLU NorCal, including Organizing, Communications, Development, as well as with ACLU California Action.</p>\n<p><strong>Democracy, Speech &amp; Technology Internship</strong></p>\n<p>Democracy, Speech &amp; Technology Interns work directly with one or more attorneys in support of the project’s litigation and policy work, which focuses on safeguarding free speech, privacy, and open government, in the digital world and beyond.  </p>\n<p>Interns will be tasked with legal and policy research and analysis; helping to author reports, advocacy materials, portions of court documents, and pre-litigation demand letters; and/or assisting with legislative or other local campaigns. Interns may attend and participate in public hearings at the state and county level and participate in meetings with policy-makers and advocates as such opportunities arise. When possible, interns may also attend appellate arguments, trial court proceedings, and depositions. Interns are encouraged to attend and participate in departmental meetings, where prospective litigation and policy strategies are discussed. At times, assignments may arise that provide interns the opportunity to work across the Department’s three broad issue areas, including Criminal Law &amp; Immigration and Special Litigation &amp; Appeals<em>.</em></p>\n<p><em>Applicants must currently be enrolled in law school or a graduate program in Computer Science, Engineering, Information Science, Public Policy, Political Science, Journalism, or a related field, and must demonstrate a strong interest in the intersection of civil liberties and free speech, technology, and privacy. The Legal Advocacy Department accepts two to three</em><em> Democracy, Speech &amp; Technology Interns per term.</em></p>\n<p><em> </em></p>\n<p><strong>Application Process</strong></p>\n<p>Summer internships are full-time for 10 – 12 weeks and generally begin the day after Memorial Day. “Split” summers may be considered where the intern is available for a minimum of 10 weeks. Part-time internships are not available during the summer.</p>\n<p></p>\n<p><strong>Funding and Scholarship Opportunities</strong></p>\n<p>For summer internship funding, students should seek funding through their institutions to the extent it is available. At ACLU NorCal, we strive to create equitable opportunities for student-applicants and recognize that not all institutions provide funding (or adequate funding) for students pursing public interest internships and career paths. As such, for students coming from schools that do not offer summer funding, ACLU NorCal will provide you with funding to compensate for you work with us over the summer.</p>\n<p><em>Application deadlines</em></p>\n<p>Applicants are encouraged to apply early in the hiring cycle. </p>\n<ul>\n<li>Summer term: Applications will be accepted beginning in early September for the following summer term. ACLU NorCal staff will not begin to review applications from first year law students until November 2026.</li>\n</ul>\n<p><em>How to apply</em></p>\n<p>Applications from all interested law and graduate students are welcome. Please note that ACLU NorCal does not consider applications from undergraduate students. Applications must include the following in PDF format: (1) Cover Letter that includes (a) a brief statement about why you want to work on the particular Program/Issue Area you’ve applied for, (b) your preference and willingness to be based in each of our three office locations for the summer (San Francisco, Sacramento, and Fresno), and (c) how you encountered the internship opening; (2) Resume; and (3) Writing Sample.</p>\n<p><em>The ACLU of Northern California advances equity and inclusion in the workplace by providing equal employment opportunity to support a work environment free from discrimination on the basis of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age (over 40), sexual orientation, military and veteran status, arrest or conviction record, and any other basis prohibited by law. The organization also provides reasonable accommodations for qualified applicants and employees with disabilities. This equal employment opportunity policy applies to all aspects of employment, including recruitment, selection, advancement, training, problem resolution, and separation from employment. Through this policy, ACLU NorCal strives to establish and maintain an equitable and accessible work environment that is supportive and free from discrimination.</em></p>",
+    "content_hash": "aa8f355824edf4162f5dcd7e905329db"
+  }
+}

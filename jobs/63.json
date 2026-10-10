@@ -1,0 +1,181 @@
+{
+  "6377edd8d18c": {
+    "id": "6377edd8d18c",
+    "title": "Electrical Engineering Intern - 997",
+    "title_raw": "Electrical Engineering Intern - 997",
+    "company": {
+      "slug": "quantinuum",
+      "name": "Quantinuum",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US Broomfield, CO",
+      "city": "US Broomfield",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:quantinuum",
+      "external_id": "672bb667-0569-44bc-a2fa-a0fcd85673fb"
+    },
+    "apply_url": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T18:01:11.442Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:06.152Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 24,
+      "max": 36,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<p>We are seeking an <strong>Electrical Engineering Intern</strong> in our <strong>Broomfield, CO</strong> location. The Electrical Engineering Intern will be part of the engineering team and will play a hands-on role in designing, enhancing, integrating, and testing control-system electronics for our next-generation quantum computers, including digital, analog, power, and RF components.</p>\n<p>As an Electrical Engineering Intern, you will collaborate with engineers across disciplines to develop solutions and systems that meet evolving product and customer needs.</p>\n<p>A successful Electrical Engineering Intern will bring foundational knowledge from coursework in analog, digital, power, and/or RF electronics; curiosity about complex hardware systems; and a collaborative, results-oriented approach to engineering challenges.</p>\n<h3>Key Responsibilities:</h3>\nYou will be integral in the design and test of the Quantinuum control system, which includes digital, analog, and RF components \nYou will collaborate with the Quantinuum engineering team to create solutions and systems that meet the evolving needs of our customers \nYou will participate in all phases of product development and will be part of a group of hardworking engineers whose expertise ensures the success of the Quantinuum H-Series Quantum Computers \n\n<h3>YOU MUST HAVE:</h3>\nActively pursuing a bachelor’s or master’s degree \nGraduating on/after December 2027 \nDue to Contractual requirements, must be a U.S. Person. defined as, U.S. citizen permanent resident or green card holder, workers granted asylum or refugee status  \nDue to national security requirements imposed by the U.S. Government, candidates for this position must not be a People's Republic of China national or Russian national unless the candidate is also a U.S. citizen.  \n\n<h3>WE VALUE:</h3>\n\nActively pursuing a bachelor’s or master’s degree in Electrical Engineering or Computer Engineering preferred \nDigital, Analog, and/or RF circuit analysis and design knowledge \nPCB board design and/or FPGA HDL coding (e.g., Verilog, VHDL, System Verilog) and simulation knowledge \nSoftware development experience \nExperience in teamwork and collaboration \nIndividuals who are results-oriented and able to work with little supervision, who consistently take the initiative to get things done despite competing priorities \nGood interpersonal skills, verbal and written \n\n\nQuantinuum is a leading quantum computing company delivering a full stack platform designed to make quantum computing deployable in real-world environments. With active engagements spanning pharmaceuticals, material science, financial services, government, industrial sectors, and leading academic and research institutions worldwide, we are helping organizations unlock the transformative potential of quantum computing. \n \nOur global team of more than 800 employees includes many of the world's leading scientists, engineers, and researchers, with more than 70% of our technology team holding advanced degrees at the Master's or PhD level. Headquartered in Broomfield, Colorado, Quantinuum operates<strong> </strong>across the United States, United Kingdom, Germany, Japan, and Singapore. \n \nBy joining Quantinuum, you’ll help shape the future of quantum computing, pushing the limits of technology, and making the impossible possible.\n \n<p><strong>What’s in it for you?</strong></p>\n\n<p>We believe our people are our greatest strength and offer a comprehensive rewards package that supports your professional growth, well-being, and long-term success.</p>\n<ul>\n<li>For candidates located outside of this state, this role will include a housing stipend of $500 per check/bi-weekly  </li>\n<li>A competitive market rate and innovative, game-changing work</li>\n<li>Flexible work schedule</li>\n<li>Employee discounts</li>\n</ul>\n\n\n<p><strong>Equal Opportunity Employer</strong></p>\n<p>Quantinuum is proud to be an equal opportunity employer. We are committed to building an inclusive workplace where all employees and applicants are treated with respect and provided equal opportunities regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, ancestry, marital status, or any other characteristic protected by applicable law.</p>\n<p><strong>Know Your Rights:</strong> Workplace discrimination is illegal. For more information about Quantinuum, please visit our website. </p>\n<p>We are committed to making our recruitment process accessible to all. If you require any reasonable adjustments at any stage of the application or interview process, please let us know use the Lets talk contact form. </p>\n<p>Applications will be accepted on an ongoing basis, there is no application deadline for this position.</p>",
+    "content_hash": "92859dcbe296786c0f44875a817354b5"
+  },
+  "63a7bcbde69a": {
+    "id": "63a7bcbde69a",
+    "title": "Intern, Quantitative Research",
+    "title_raw": "Intern, Quantitative Research",
+    "company": {
+      "slug": "american-bankers-association",
+      "name": "American Bankers Association",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US DC Main Office",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aba/aba",
+      "external_id": "R614"
+    },
+    "apply_url": "https://aba.wd1.myworkdayjobs.com/ABA/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-03T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:42:06.909Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 15,
+      "max": 37.5,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<p><b>Want to work for a great Organization? </b></p><p></p><p>The American Bankers Association is the banking industry's champion. Joining ABA makes you part of a team that: • has Extraordinary People - ABA experts are the \"go to\" sources for bankers, policy makers and the media for credible information and insights for the banking industry. • has Unmatched Scope and Scale - ABA's unparalleled information and services keep members current, knowledgeable and prepared. • is Impact-Driven - ABA has a proven record of bringing about positive change for our members and the industry. We take action and achieve results. Plus competitive pay, an outstanding benefits package, a convenient DC location, a professional collegial work environment and an opportunity to work on issues of national significance equals a winning combination!</p><p></p><p>Click Here to review ABA's holistic approach to Benefits and Total Rewards.</p><p></p><p><b>Employer of Choice: </b>ABA is recognized with a <i>2025</i> <i>Great Company Culture Award </i>and <i>2025 Great Place to Work</i> designation!</p><p></p><p><b>Job Description:</b></p><p><b>Duration/Hours:</b></p><p>June 7, 2027 – August 13, 2027</p><p></p><p>Pay rate is $25/hour for undergraduate students, $30/hour for graduate students, and $35/hour for PHD/Law students</p><p></p><p>Full-time; 37.5 hours per week</p><p></p><p>Based in Washington, DC, with an expectation to work onsite at least two days per week.</p><p></p><p>ABA’s Internship provides students with a paid opportunity to work with one of the biggest trade associations in Washington, DC. This extremely selective opportunity provides students with the opportunity to do substantial work in various divisions across ABA, connect with leadership, build a network, and make a difference.</p><p></p><p><b>Primary Responsibilities</b></p><br /><ul><li>Collect, organize and analyze financial statement data of non-bank financial institutions (NBFI), traditional banks and NBFIs that turn into banks.</li><li>Identify and track emerging trends in the NBFI acquisition of traditional commercial banks.</li><li>Research on the differences in business models, funding sources and expense structure between NBFIs turned into banks and traditional banks</li><li>Prepare research summaries, charts and briefing materials to support senior team members in policy analysis and developing insights.</li></ul><br /><p><b>Required Skills</b></p><br /><ul><li>Strong foundation in financial statement analysis (income statement, balance sheet, cash flow).</li><li>Proficiency in Excel and data analysis tools (e.g., pivot tables, financial ratios, basic modeling).</li><li>Experience with Python or R for data cleaning, statistical analysis, and visualization.</li><li>Attention to detail, accuracy, and ability to work independently under guidance from senior staff.</li><li>Curiosity about financial markets, banking, and regulatory developments, with a willingness to explore emerging trends in the economy and financial market. <br /><br /></li></ul><p><b>Minimum Education Requirements:</b></p><br /><ul><li>Must be currently enrolled in an accredited institution pursuing an undergraduate degree, graduate degree, or PHD with an expected graduation date of December 2027 or later.</li><li>Completion of coursework in macroeconomics, microeconomics and accounting; additional finance or banking courses a plus.</li><li>Preferred fields of study: Economics, Finance, Statistics and Quantitative Analytics</li></ul><p></p><p><b>Salary Band Range:</b></p><p></p>$15.00 - $37.50 - $60.00<p></p><p>American Bankers Association (ABA) is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, age, sex, marital status, gender identity, sexual orientation, disability, protected Veteran status, personal appearance, political affiliation, family responsibilities, or any other characteristic protected by applicable law.</p>",
+    "content_hash": "9f15856bbb687c55e7f436a967fe4b05"
+  },
+  "63b1a4510b3d": {
+    "id": "63b1a4510b3d",
+    "title": "Avionics Engineer Intern (Summer 2027)",
+    "title_raw": "Avionics Engineer Intern (Summer 2027)",
+    "company": {
+      "slug": "swarm-aero",
+      "name": "Swarm Aero",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Oxnard",
+      "city": "Oxnard",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "swarmaero",
+      "external_id": "4e005f46-28db-4591-b1d4-393a9c0f0b36"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/swarmaero/4e005f46-28db-4591-b1d4-393a9c0f0b36/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T20:30:41.477Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.107Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 35,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.</p><p>The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.</p><p></p><h3>READ THIS PART FIRST</h3><p><strong>Aircraft avionics is where electrical design, networking, sensing, software, and physical integration all have to agree. You will help make those interfaces real on a large uncrewed aircraft.</strong></p><p></p><h3>WHAT WE DO</h3><p>Swarm Aero is redefining air power. We are building autonomous aircraft and Legion, command and control software designed to coordinate large numbers of heterogeneous autonomous systems. Our team combines experience building novel aircraft, scaling startups, and delivering technology for national security.</p><p></p><h3>THE INTERNSHIP</h3><p>You will own a scoped project with a clear technical or business outcome, work directly with the people responsible for the system, and present what you built and learned at the end of the summer. The goal is not to give you practice work. It is to give you useful work with the support to do it well.</p><p></p><h3>WHAT YOU'LL DO</h3><p>· Support avionics architecture, interface definition, component selection, and integration</p><p>· Develop or revise schematics, wiring diagrams, interface-control documents, harness definitions, or electrical load analyses</p><p>· Bring up sensors, flight computers, communications equipment, power systems, and other avionics hardware</p><p>· Use oscilloscopes, logic analyzers, multimeters, and test equipment to investigate faults</p><p>· Build test fixtures, automate tests, and support hardware-in-the-loop, ground, or flight-test activities</p><p></p><h3>WHAT WE'RE LOOKING FOR</h3><p>· Currently pursuing a degree in Electrical Engineering, Computer Engineering, Aerospace Engineering, or a closely related field, with graduation and enrollment requirements to be confirmed.</p><p>· Coursework or project experience in circuits, digital systems, signals, embedded systems, controls, or communications</p><p>· Ability to read schematics and reason across hardware and software interfaces</p><p>· Hands-on electronics experience through a lab, team, research program, internship, or personal project</p><p></p><h3>WHAT SETS YOU APART</h3><p>· PCB design, harness design, RF, networking, controls, or sensor integration</p><p>· Python, C/C++, MATLAB/Simulink, or another useful engineering language</p><p>· Familiarity with aerospace interfaces, connectors, EMI/EMC, or environmental testing</p><p></p><h3>WHAT YOU DO NOT NEED</h3><p>Aerospace experience, a perfect GPA, or a previous internship at a famous company. Show us what you have built, analyzed, tested, organized, or improved, and be ready to explain your contribution clearly.</p><p></p><h3>THE HONEST VERSION</h3><p>The pace is fast, the problems will not arrive fully defined, and you may spend part of the summer learning why your first approach was wrong. We will expect you to ask questions, test your assumptions, document your work, and leave the project better than you found it.</p><p></p><h3></h3><p><strong>ITAR requirement</strong></p><p>To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</p><p>Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability.<br /><br /><strong>What We Offer</strong></p><ul><li><p>Meaningful equity in a high-growth defense technology company</p></li><li><p>Competitive base salary commensurate with experience</p></li><li><p>Medical, dental, vision, and 401k</p></li><li><p>PTO and paid sick leave</p></li><li><p>Monthly wellness stipend</p></li><li><p>Daily catered lunch (office)</p></li><li><p>Paid parental leave</p></li><li><p>Direct impact on a critical national security mission</p></li><li><p>A world-class team of engineers and operators solving genuinely hard problems</p></li></ul>",
+    "content_hash": "0332ffe05ed32db674b62aca381556b9"
+  },
+  "63cbb00785e1": {
+    "id": "63cbb00785e1",
+    "title": "Mechanical Packaging Systems Engineering Intern (Summer 2027)",
+    "title_raw": "Mechanical Packaging Systems Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "foth",
+      "name": "Foth",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Green Bay, Wisconsin",
+      "city": "Green Bay",
+      "state": "WI",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "foth",
+      "external_id": "c074a997-c723-4c6f-b531-686ef1461c25"
+    },
+    "apply_url": "https://jobs.lever.co/foth/c074a997-c723-4c6f-b531-686ef1461c25/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T02:08:06.617Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:55:20.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p>\n<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p><br />\n<p>Curious about how products move from production to packaging? At Foth, our internship program provides a unique opportunity to learn from experienced engineers while contributing to projects that support real-world manufacturing operations. As a <strong>Mechanical Engineering Intern</strong> on our <strong>Packaging Systems Team</strong>, you'll gain hands-on experience supporting the design and optimization of packaging systems for a variety of industrial clients. Based in <strong>Green Bay, WI</strong>, you'll work with multidisciplinary teams on projects involving packaging equipment, automation technologies, material handling systems, and production line improvements. During this <strong>Summer 2027</strong> internship, you'll develop technical and professional skills while gaining valuable insight into engineering design, project development, and industry best practices.</p>\n\n<h3>Primary Responsibilities: </h3>\n\nSupport the design, evaluation, and improvement of packaging systems and production lines \nAssist with packaging line assessments and development of engineering recommendations \nContribute to engineering deliverables such as equipment specifications, layouts, and testing plans \nPerform engineering analysis and calculations to support project design and execution. \nParticipate in equipment testing, commissioning, and startup activities \nGain hands-on experience through site visits and travel to client and vendor facilities \n\n\n<h3>Required Qualifications: </h3>\n\nPursuing a Bachelor's Degree in Mechanical Engineering, Industrial Engineering, or Mechanical Engineering Technology from an ABET-accredited program \nPrevious experience with and/or coursework involving basic level AutoCAD Mechanical 2D functions \nGPA of 3.0 or greater \n\n\nAll Foth Companies are equal opportunity employers, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law. Qualified women, minorities, persons with disabilities, and veterans are encouraged to apply. All locations are tobacco-free.  Subject to applicable state law, all applicants who have received a written offer of employment and a copy of Foth’s Drug and Alcohol-Free Workplace Program Policy, will be required to undergo testing for commonly abused controlled substances. Applicants must complete the required drug testing within two business days of offer acceptance.  Foth will pay for all drug testing, which will be conducted by a licensed independent medical laboratory that follows testing requirements in accordance with applicable state law.\n \n<strong>Colorado Residents:</strong> In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n \n<strong>Notice to Third Party Recruiters/Agencies:</strong> Foth does not accept unsolicited resumes from third party recruiting firms. Absent a signed recruiting agreement coordinated through Foth, Foth reserves the right to pursue and hire candidates without financial obligation to third party recruiters or agencies.",
+    "content_hash": "5aa5d80ea384e737e8a3bd3f08260c39"
+  }
+}

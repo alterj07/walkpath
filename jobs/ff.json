@@ -1,0 +1,127 @@
+{
+  "ff6c659b58c5": {
+    "id": "ff6c659b58c5",
+    "title": "Intern, Power Electronics Engineer, Spring/Summer 2027",
+    "title_raw": "Intern, Power Electronics Engineer, Spring/Summer 2027",
+    "company": {
+      "slug": "heron-power",
+      "name": "Heron Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Scotts Valley",
+      "city": "Scotts Valley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heron-power",
+      "external_id": "b220d7a4-19a9-416b-85cf-9dc8f9f46f40"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heron-power/b220d7a4-19a9-416b-85cf-9dc8f9f46f40/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-12T18:16:33.341Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.803Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>What to Expect </strong></h3><p>Heron Power is a startup company building cutting-edge power electronics for the 21st-century grid. We aim to debottleneck the growth of electricity generation and consumption with scalable, innovative, and less costly hardware solutions, accelerating the electrification of everything.</p><p>Our first goal is to build better converters (inverters &amp; rectifiers) to connect large-scale renewables, storage, and loads to the grid. Heron Power’s leadership team is made up of seasoned veterans who have designed and shipped gigawatts of power conversion products over the past decade.</p><p>We understand that no one individual knows everything. We will all learn <em>a lot</em> together and from each other. We strive to build a collaborative, enriching environment conducive to personal, technical, and career growth. You can expect to work in a dynamic and collaborative environment, driven by first principles engineering, solving difficult problems.</p><h3></h3><h3><strong>Job Overview</strong></h3><p>As a Power Electronics Intern, you will work alongside a team of experienced engineers to design, develop, and validate cutting-edge medium-voltage power electronics systems. This role offers a unique opportunity to gain hands-on experience with real hardware, contribute to key product development initiatives, and deepen your understanding of high-voltage systems, power converter architectures, and control systems. You will be exposed to all stages of the hardware development lifecycle—from concept and modeling to prototyping and testing—while collaborating cross-functionally with teams in firmware, mechanical design, validation, and manufacturing.</p><p> This internship is ideal for students passionate about power electronics and excited to build scalable, efficient, and reliable energy systems that will shape the future of the grid.</p><p></p><h3><strong>How You Will Contribute</strong></h3><p></p><p><strong>What You Will Bring</strong></p><p>We have a short list of must-have requirements. We prioritize a strong grip on first principles, hands-on skills, and a sense of initiative. Domain-specific knowledge and experience will help determine the career level for each hire.</p><ul><li><p> <em>Support the design and development of power conversion systems.</em></p></li><li><p><em>Assist in the modeling and simulation of power converter topologies and control strategies using tools like MATLAB/Simulink or PLECS.</em></p></li><li><p><em>Contribute to component selection, circuit design, schematic capture, and hardware bring-up activities.</em></p></li><li><p><em>Work with senior engineers to characterize switching devices (IGBTs, SiC/GaN MOSFETs) and magnetic components.</em></p></li><li><p><em>Participate in the prototyping and bench testing of converter hardware, including measurement and analysis of key electrical waveforms.</em></p></li><li><p><em>Support lab testing activities such as thermal profiling, efficiency measurement, and EMC evaluation.</em></p></li><li><p><em>Document test results and contribute to hardware design reviews and team discussions.</em></p></li></ul><h3><strong>Must-Have Requirements </strong></h3><ul><li><p><em>Currently pursuing a Bachelor's, Master's, or PhD in Electrical Engineering (or a related field), with a strong academic focus on power electronics.</em></p></li><li><p><em>Solid understanding of power electronics fundamentals, including converter topologies (buck, boost, inverter, LLC, etc.) and switching device operation.</em></p></li><li><p><em>Familiarity with circuit simulation tools such as SPICE, LTspice, or PLECS.</em></p></li><li><p><em>Exposure to gate drivers, sensing circuits, and magnetic component behavior.</em></p></li><li><p><em>Experience using basic lab equipment (oscilloscopes, multimeters, power supplies) and comfort working in a hands-on lab environment.</em></p></li><li><p><em>Excellent communication, problem-solving, and organizational skills.</em></p></li><li><p><em>Passion for learning and the ability to work independently in a fast-paced, team-oriented environment.</em></p></li></ul><p><strong>Nice-to-Haves</strong></p><ul><li><p><em>Prior internship, co-op, or research experience in power electronics design or validation.</em></p></li><li><p><em>Experience with control systems for power converters (e.g., current-mode control, PLL, or digital control loops).</em></p></li><li><p><em>Familiarity with PCB design and schematic capture tools such as Altium or KiCad.</em></p></li><li><p><em>Exposure to high-voltage safety practices and design considerations.</em></p></li><li><p><em>Programming experience for test automation or control (e.g., Python, MATLAB, embedded C).</em></p></li><li><p><em>Interest in renewable energy systems, electric vehicles, datacenter power architectures and/or industrial electrification.</em></p></li></ul><p> If you are passionate about technology and enjoy working in a fast-paced environment, we would love to hear from you. Join us in accelerating the electrification of everything at Heron Power.</p>",
+    "content_hash": "655e1c66c7e39ff783294a84b7d1255e"
+  },
+  "ff73de277470": {
+    "id": "ff73de277470",
+    "title": "Intern, Software Engineering (Summer 2027)",
+    "title_raw": "Intern, Software Engineering (Summer 2027)",
+    "company": {
+      "slug": "rivet-industries",
+      "name": "Rivet Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose, CA",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rivet",
+      "external_id": "03fcb078-7371-4cfd-89a9-368e5b60d914"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T18:25:02.980Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.218Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Rivet</strong><br />Rivet is an American company building integrated task systems — fusing hardened hardware with software, sensors, AI, and networking — for industrial workforces and defense personnel. We create capabilities that multiply the effectiveness of every individual and withstand the world’s toughest environments.<br /><br />We serve the people who build, operate, maintain, and defend our way of life. From technicians and engineers to first responders and service members, they embody the hard work, ingenuity, and meritocratic values that drive Western prosperity. Yet too often they are forced to rely on outdated tools that fail under modern pressures. Rivet exists to reset that priority.<br /><br />At Rivet, you’ll join a mission-driven team that fuses disciplines to deliver decisive outcomes where they matter most. Whether shaping our technology, strengthening our partnerships, or building our culture, every role here contributes to equipping the front lines with the modern systems they deserve.<br /><br /><strong>Work Authorization Requirement: Due to the nature of our business and compliance with federal regulations, all candidates must be a \"U.S. Person\". Upon hire, you will be required to provide documentation verifying your status as a U.S. Citizen, a lawful permanent resident, or a protected individual under 8 U.S.C. 1324b(a)(3).</strong></p><p></p><p><strong>Summary</strong></p><p>Join Rivet’s software engineering team in San Jose for a hands-on summer internship working on software that runs at the edge and interfaces directly with hardware. You’ll work primarily in lower-level languages such as <strong>C++ and C#</strong>, building and testing systems across perception, computer vision, sensor fusion, and edge machine learning. This is an opportunity to work on real products and challenging technical problems at the intersection of software, AI, and hardware.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Develop, test, and debug <strong>C++ and C# software</strong> for edge and hardware-integrated systems.</p></li></ul><ul><li><p>Contribute to systems involving <strong>perception, computer vision, sensor fusion, or edge ML</strong>.</p></li></ul><ul><li><p>Build and evaluate software on real hardware, diagnose issues, and improve system performance and reliability.</p></li></ul><ul><li><p>Collaborate with software, hardware, and other engineering teams to bring features from development through testing and deployment.</p></li></ul><p></p><p><strong>Requirements</strong></p><ul><li><p>Currently enrolled in an <strong>undergraduate or graduate program</strong> in Computer Science, Computer Engineering, or a related technical field.</p></li></ul><ul><li><p>Available to work <strong>40 hours per week in our San Jose, CA office during Summer 2027</strong>.</p></li></ul><ul><li><p>Strong programming experience in <strong>C++, C#, or another lower-level programming language</strong>, with a willingness to work close to hardware.</p></li></ul><ul><li><p>Strong interest in at least one of <strong>perception, computer vision, sensor fusion, or edge machine learning</strong>.</p></li></ul><ul><li><p><strong>U.S. Person</strong> eligible to work on Rivet’s programs and technology.</p></li></ul><p></p><p>Compensation may vary within the posted range based on relevant experience, skills, education, and other job-related factors. In addition to base salary, this role may be eligible for equity and other forms of compensation. Eligible employees also receive a competitive benefits package, including unlimited PTO.<br /><br />Rivet is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable law. Certain roles may require U.S. Person status, security clearance eligibility, or other requirements imposed by law or government contract.</p>",
+    "content_hash": "2c625ff63d0f9f0fc1d4fe6ca5b48464"
+  },
+  "fff59df53257": {
+    "id": "fff59df53257",
+    "title": "Computational Plasma Research Summer 2027 Intern",
+    "title_raw": "Computational Plasma Research Summer 2027 Intern",
+    "company": {
+      "slug": "helion-energy",
+      "name": "Helion Energy",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Everett, WA",
+      "city": "Everett",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "helion",
+      "external_id": "d2a1f8af-a310-44af-a5bc-c68816ebb7f6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T23:08:03.380Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.719Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 57,
+      "max": 57,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Helion</strong></p><p>We are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.<br /><br />Since Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma temperatures of 150 million degrees Celsius (13 keV). Helion is continuing to iterate and on the path to the world's first fusion power plant, Orion.<br /><br />This is a pivotal time to join Helion. You will tackle real-world challenges with a team that prizes urgency, rigor, ownership, and a commitment to delivering hard truths – values essential to achieving what no one has before. Together, we will change the future of energy, because the world can't wait.</p><p></p><p><strong>What You Will Be Doing:</strong></p><p>The computational research team at Helion works with multiple plasma simulation codes to simulate and analyze Helion’s fusion machines and test beds. The goal of the simulation effort is to develop predictive computational capabilities derived from first principles, validated against experimental data across multiple FRC merging devices, to inform next-generation fusion machine design.</p><p><br /><strong>You Will:</strong></p><ul><li><p>Be responsible for using Helion’s computational suite of tools to study a particular aspect of the machine, which could include FRC formation, translation, merging, or compression</p></li></ul><ul><li><p>Work with your team and mentor to develop a simulation study and develop a set of results</p></li></ul><ul><li><p>Develop a report and present your findings to the broader research team at Helion</p></li></ul><p><strong>Required Skills:</strong></p><ul><li><p>Ability to work full time, onsite in Everett, WA for a minimum of 12 consecutive weeks during summer 2027</p></li></ul><ul><li><p>Currently pursuing a PhD in Physics, Aerospace Engineering, or a related field, with relevant experience in plasmas</p></li></ul><ul><li><p>Must be able to complete their PhD program and commence full-time employment no later than May 2028</p></li></ul><ul><li><p>GPA of 3.0 or above</p></li></ul><ul><li><p>Experience working with plasma simulation codes (e.g. PIC, Vlasov codes, MHD)</p></li></ul><ul><li><p>Experience doing research in a team environment</p></li></ul><ul><li><p>Scripting and analysis in Python, C++ or MATLAB</p></li></ul><p>#LI-Onsite #LI-TM1 </p>",
+    "content_hash": "ea2b5d5cff570e8dc7331e602c51728b"
+  }
+}

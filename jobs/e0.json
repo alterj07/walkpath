@@ -1,0 +1,87 @@
+{
+  "e08ab70fa03f": {
+    "id": "e08ab70fa03f",
+    "title": "Kernel Engineer (Internship and Full-time)",
+    "title_raw": "Kernel Engineer (Internship and Full-time)",
+    "company": {
+      "slug": "tilde-research",
+      "name": "Tilde Research",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tilderesearch",
+      "external_id": "bc4e4071-cf64-4460-8265-b1e5a603d6b8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-07-14T21:45:39.710Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.098Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Tilde Research is a moonshot AI lab advancing mechanistic interpretability, new architectures, and pretraining science. We build foundational understanding of models to advance the frontier of intelligence.</strong></p><p><br /><strong>About the role:</strong></p><p>As a Kernel Engineer at Tilde, you'll design, implement, and optimize high-performance GPU kernels that are critical to scaling our training and inference workloads. Your work will enable faster iteration cycles, higher throughput, and lower latency. You'll work closely with ML researchers and engineers to co-design models and infrastructure that are deeply performance-aware, and help push the limits of what current hardware can support.<br /><br /></p><p><strong>What you might work on:</strong></p><ul><li><p>Design, develop, and tune custom GPU kernels for core model operations</p></li><li><p>Work with ML engineers to prototype and scale novel model architectures</p></li><li><p>Contribute to system-wide efforts to improve efficiency and throughput, beyond just kernel-level optimizations<br /></p></li></ul><p><br /><strong>You're a good fit if you:</strong></p><ul><li><p>Have experience in deep learning or related research areas</p></li><li><p>Have demonstrated exceptional capability in working on ML kernels. This can include:</p><ul><li><p>Strong open source contributions</p></li><li><p>Thoughtful technical blog posts/work logs</p></li><li><p>Previous experience working on hardware-aligned algorithms</p></li></ul></li><li><p>Deep familiarity with PyTorch, Triton/TK/TileLang (&gt;1 of), basic familiarity with CUDA, and knowledge of GPU architecture.</p></li><li><p>Communicate clearly and effectively, both verbally and in writing</p></li><li><p>Strong algorithmic thinker</p></li><li><p>Are able to learn quickly</p></li></ul>",
+    "content_hash": "702c7a91fd0cdda6d78c1965df114b39"
+  },
+  "e0e6c0e37160": {
+    "id": "e0e6c0e37160",
+    "title": "Data Analyst Intern",
+    "title_raw": "Data Analyst Intern",
+    "company": {
+      "slug": "zuru",
+      "name": "Zuru",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles | United States",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "zuru",
+      "external_id": "750dea66-6f5a-4622-80d6-b6289954d3d0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-01-15T00:30:36.053Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:27.540Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We're looking for a data analyst intern to join our LA based team! If you're a problem-solving pro, an analytical thinking, a team player and can speak the language of data - we want to hear from you!</p> <p>ZURU is on a mission to disrupt across industries, challenge the status quo and catalyst change through radical innovation and automation advances.  This is in play in different pillars of the company: ZURU Toys are re-imagining what it means to play; ZURU Tech is shaping a better future by leading the next building revolution; ZURU Edge is pioneering new generation FMCG brands to better serve modern consumers.  </p> <p>Founded in 2003 by EY Entrepreneur of the Year and World Entrepreneur Hall of Fame brothers Nick and Mat Mowbray, ZURU has quickly grown to a team of over 5000 direct and indirect members across more than 30 international locations. </p> <p>One of the largest toy companies in the world, globally recognised and award-winning brands include Bunch O Balloons, Mini Brands, XSHOT, Rainbocorns and Smashers. Our global FMCG brands include MONDAY Haircare, Rascals, NOOD, BONKERS, Gumi Yum Surprise.</p> <p><strong>What You'll Do </strong></p><ul><li><p></p></li></ul><ul><li><p>Assist in collecting and organizing data from various sources, including databases, file shares, and external data sets, ensuring accuracy and completeness for analysis.</p></li><li><p>Perform preliminary data analysis to identify trends, patterns, and anomalies within large datasets using statistical tools and software.</p></li><li><p>Write and execute SQL queries to retrieve information from databases for specific analysis projects, ensuring data integrity and efficiency.</p></li><li><p>Collaborate with cross-functional teams to understand data needs and deliver actionable insights through data analysis.</p></li><li><p>Participate in the design and implementation of new data collection and analysis methodologies to improve the quality and efficiency of data-driven decision-making processes.</p></li><li><p>Document analytical methodologies, coding procedures, statistical findings and progress reports to ensure transparency and reproducibility of results.</p></li><li><p>Support the maintenance and troubleshooting of data analytics tools and software, including performing updates and ensuring compatibility with data sources.</p></li><li><p>The hourly rate for this position is $20 - $25 per hour.</p></li><li><p>Please note this role is based in-person in our LA office.</p></li></ul><p><strong>What You'll Gain </strong></p><ul><li><p></p></li></ul><ul><li><p><strong>Experience </strong>with real-world data analysis and hands-on application of techniques. Learn practical skills and best practices applicable to industry-wide analytics tools.</p></li><li><p><strong>Develop your data analyst skills by </strong>working with experienced professionals to improve your insight creation and practical expertise in data collection, analysis, and interpretation.</p></li><li><p><strong>Be exposed to an ever-expanding and far-reaching business across a wide variety of sectors and industry groups </strong>giving you a chance to learn about market practices, challenges, and trends. You'll gain valuable insights into how data is used across different sectors, helping you see how your skills make a real impact in the business world.</p></li></ul><p><strong>What You'll Bring </strong></p><ul><li><p></p></li></ul><ul><li><p>Familiar with SQL, Data Visualization, Statistical Analysis, Python Programming, ETL practices.</p></li><li><p>A go-getter with energy, creativity and determination to continuously improve and push boundaries.</p></li></ul> <p><strong>LIFE@ZURU</strong></p><p>At ZURU, we have cultivated a high-performing culture that encourages excellence. Our team works towards ambitious goals, learning, performing, and improving together, all while having fun. We empower talented individuals to do their best work every day.</p> <p>At ZURU, you get out what you put in. You are responsible for driving your own career and we provide the platform to achieve it. As ZURU is on such a fast growth trajectory, there are opportunities here that you won’t find anywhere else.</p> <p>We recognise that ZURU’s success stems from our people and you can only be at your best when you are looking after yourself. ZURU encourages all our team members to invest in their wellbeing by providing an array of benefits and tools.</p> <p><strong>WHAT WE OFFER</strong></p><p>🌱 Culture for Growth</p><p>🌎 Global Opportunities</p><p>💡 Be surrounded by an A Player Team</p><p>💰 Competitive Remuneration</p> <p><strong>ZURU – Tomorrow Reimagined</strong></p><p>🚀ZURU.com</p><p>#LI-AJ1</p><p><em>ZURU may use AI tools to help screen, assess or select applicants.</em></p>",
+    "content_hash": "e3a5066963447c94c28613aaa855a625"
+  }
+}

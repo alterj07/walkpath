@@ -1,0 +1,42 @@
+{
+  "a8731a346e65": {
+    "id": "a8731a346e65",
+    "title": "Internship R&D",
+    "title_raw": "Internship R&D",
+    "company": {
+      "slug": "sereact",
+      "name": "Sereact",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Stuttgart Schockenriedstr. 17",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "sereact",
+      "external_id": "54f1304b-89fb-47b4-ade5-51e1c2a74f41"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/sereact/54f1304b-89fb-47b4-ade5-51e1c2a74f41/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-10T13:26:58.221Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.222Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are:</strong></h3><p>We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.</p><p></p><h3><strong>Overview:</strong></h3><p>We are seeking a highly motivated Research Intern to contribute to our work on task decomposition and multimodal fusion for imitation learning in robotic manipulation. This internship is ideal for students or early-stage researchers passionate about applying machine learning, computer vision, and robotics to real-world industrial automation challenges.</p><p></p><h3><strong>Your Responsibilities:</strong></h3><ul><li><p>Develop and evaluate task decomposition methods for complex robotic manipulation tasks.</p></li><li><p>Investigate multimodal sensor fusion (e.g., vision, force, tactile) techniques to improve policy learning.</p></li><li><p>Implement and benchmark imitation learning pipelines using both simulated and real-world robotic setups.</p></li><li><p>Collaborate with our engineering team to transfer research outcomes to prototype systems.</p></li><li><p>Document and present findings to both technical and non-technical stakeholders.</p></li></ul><p></p><h3><strong>Qualifications:</strong></h3><p></p><h3>Must Have:</h3><ul><li><p>Enrolled in a Master’s or PhD program in Robotics, Machine Learning, Computer Vision, or a related field with a <strong>minimum GPA of 1.7</strong> (German scale).</p></li><li><p><strong>OR</strong> GitHub repository with at least 5 stars</p></li></ul><h3>Other Requirements:</h3><ul><li><p>Familiarity with reinforcement learning, imitation learning, or behavior cloning methods.</p></li><li><p>Hands-on experience with robotic platforms or simulation environments (e.g., PyBullet, Isaac Gym).</p></li><li><p>Strong programming skills in Python; familiarity with PyTorch or TensorFlow is a plus.</p></li><li><p>Excellent problem-solving skills and the ability to work independently.</p></li></ul><p></p><h3><strong>What We Offer:</strong></h3><ul><li><p>Flexible working hours</p></li><li><p>Option to work from home when needed</p></li><li><p>A motivated team and an open corporate culture</p></li></ul>",
+    "content_hash": "a1c6fbf50c10880c06fa3597edbf8f50"
+  }
+}

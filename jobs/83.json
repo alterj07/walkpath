@@ -1,0 +1,95 @@
+{
+  "83a1aa38ace4": {
+    "id": "83a1aa38ace4",
+    "title": "Software Engineering Co-op",
+    "title_raw": "Software Engineering Co-op",
+    "company": {
+      "slug": "ambrook",
+      "name": "Ambrook",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ambrook",
+      "external_id": "29ffbcea-17c3-4488-9d57-a9f7249b49a5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-08T18:00:52.533Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.401Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Spring 2028",
+    "salary": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><strong>Ambrook helps American family-run businesses become more profitable and resilient.</strong><br />From volatile markets to climate shifts, independent operators face mounting pressure. While sustainable investments often yield the best long-term returns, they require financial clarity and capital that fragmented legacy systems can’t provide.<br /><br /><strong>We are rebuilding the financial infrastructure that real economy operators rely on.</strong> By replacing paperwork with modern tools for accounting, banking, and spending, Ambrook gives owners the data they need to prove viability to lenders and the next generation. We empower the stewards of land and labor to make confident investments in their future.<br /><br /><strong>We’re a Series B startup backed by</strong> <strong>Lachy Groom,</strong> <strong>Thrive Capital, Dylan Field, Thomson Reuters Ventures, Cameron Ventures, and leaders at Notion, Gusto, and Vercel</strong>. We’re looking for team members to help us untangle the intersection of American industry, climate, and the economy.</p><p></p><p><strong>The Opportunity</strong></p><p><em>This posting is for the spring co-op cycle, for at least 6 months from January through June 2027.</em></p><p>As part of our engineering co-op program, you'll work as a valued member of our team building features that directly impact farmers across America. This is an exciting opportunity to gain real-world development experience while contributing to sustainable agriculture, with mentorship from experienced engineers who are invested in your growth.​</p><p>You'll also get real reps with modern AI dev tooling and with building AI products themselves. We've used AI dev tools since the earliest days of the company and stay close to the bleeding edge. Through Ambrook Labs, we're exploring AI-native features like natural language invoice drafting, voice-driven bookkeeping entry, and Desk, a task inbox that turns unstructured voice and text into organized workflows. We also speak regularly about the impact AI is having on us as people and developers, and balance marvel &amp; enthusiasm about these tools with a respect for our craft.</p><p></p><p><strong>We’re looking for someone who we can count on to…</strong></p><ul><li><p>Own: Build and ship real product features that customers use, while helping improve our infrastructure alongside experienced engineers.</p></li><li><p>Learn: Gain experience in engineering best practices, agile development, and working across teams while discovering how agtech and climate solutions help farmers succeed.</p></li><li><p>Grow: Understand the basics of agricultural finance, farm operations, and sustainability practices through hands-on project work, including how real-world financial data actually looks and how AI can help make sense of it.</p></li><li><p>Contribute: Help identify ways to improve our development process and codebase while learning full-stack development.</p></li></ul><p></p><p><strong>Within the first few weeks you’ll</strong></p><ul><li><p>Learn how to use Ambrook’s tech stack to deliver a standalone feature to our customers</p></li><li><p>Contribute to Engineering team meetings and review code from peers. </p></li><li><p>Analyze Ambrook’s use of best practices and share a technical note with our team about where we have opportunities to improve.</p></li></ul><p></p><p><strong>By the end of your co-op you’ll…</strong></p><ul><li><p>Collaborate with the team on core product work.</p></li><li><p>Own a project from start to finish - from a technical design document through implementation. As the engineering owner, you’ll break down your project into granular pieces and practice good project management hygiene, triaging and prioritizing new issues that come in.</p></li><li><p>Collaborate with our Product team to influence prioritization of feature ideas and requests with insights from our audience.</p></li><li><p>Embed yourself deeply in understanding the state of farm finance, building a strong intuition about customer needs and audience segmentation.</p></li></ul><p></p><p><strong>About you</strong></p><ul><li><p>Currently pursuing B.S. (or higher) in Computer Science or a related field. Expected graduation: Spring 2028.</p></li><li><p>Available to work full-time in our NYC office for the spring co-op cycle, for at least 6 months from January through June 2027.</p></li><li><p>Excited to build software that makes natural resource industries like agriculture more sustainable and profitable.</p></li><li><p>Comfortable taking on ambiguous problems and creating elegant technical solutions.</p></li><li><p>Exhibit strong computer science fundamentals and an eagerness to learn.</p></li><li><p>Know when AI coding tools can expedite your workflows, and also when you need to dive into the code yourself.</p></li><li><p>Experience with TypeScript, React, React Native, and/or Next.js.</p></li><li><p>Bonus: Experience with LLM APIs, prompt engineering, or basic ML tooling.</p></li><li><p>Bonus: Experience in agriculture.</p></li></ul><p></p><p><strong>Our tech stack</strong></p><ul><li><p>Next.js / React application written in TypeScript</p></li><li><p>Hosted on Google Cloud</p></li><li><p>Firestore &amp; Postgres &amp; Google Cloud Storage for data storage</p></li><li><p>BigQuery &amp; Data Studio for data insights</p></li></ul><p></p><p><strong>What makes this co-op special</strong></p><ul><li><p>Make a real difference: Build features that help farmers adopt sustainable practices and grow their businesses.</p></li><li><p>Experience life at a high-growth startup: See the complete product development cycle from design to deployment in a fast-paced environment.</p></li><li><p>Get personalized mentorship: Work directly with senior engineers who are invested in your growth.</p></li><li><p>Join a mission-driven team: Experience startup culture while helping build the future of sustainable agriculture.</p></li><li><p>Work closely with customers: Your work will help real farms and agribusinesses across America succeed - and you'll get to meet some of them.</p></li></ul><p></p><p><strong>Values</strong></p><ul><li><p>Real Talk – We create space for ourselves and others to be straightforward, vulnerable, and accountable.</p></li><li><p>Reach Understanding – We are driven by curiosity and empathy to learn about our customers, team, and world.</p></li><li><p>Be Proactively Resourceful – We are internally motivated and externally empowered to identify opportunities and solve problems.</p></li><li><p>Derisk Thoughtfully – We lean into the biggest risks we face as a company and put in the work to address them systematically.</p></li><li><p>Find the Positive-Sum – We believe in creating incentive structures that align the needs of our company, our customers, and our planet. </p></li></ul><p></p><p>Ambrook is an equal opportunity employer. We are committed to building diversity and inclusion into our core company culture.</p><p>Ambrook can support visa sponsorship (OPT/CPT, TN, J-1) for eligible candidates.</p>",
+    "content_hash": "4c586b0dab5816561c0c0c069224bd86"
+  },
+  "83c5731385b8": {
+    "id": "83c5731385b8",
+    "title": "AI Research Internship - WM",
+    "title_raw": "AI Research Internship - WM",
+    "company": {
+      "slug": "institute-of-foundation-models",
+      "name": "Institute of Foundation Models",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Sunnyvale, CA",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ifm-us",
+      "external_id": "3eec355c-6dde-4a3e-8cdf-b2a8930d5678"
+    },
+    "apply_url": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-12T18:24:33.741Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:58:48.234Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 140000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "About the Institute of Foundation Models\nWe are a dedicated research lab for building, understanding, using, and risk-managing foundation models. Our mandate is to advance research, nurture the next generation of AI builders, and drive transformative contributions to a knowledge-driven economy.\n \n<strong>As part of our team, you’ll have the opportunity to work on the core of cutting-edge foundation model training, alongside world-class researchers, data scientists, and engineers, tackling the most fundamental and impactful challenges in AI development. </strong>You will participate in the development of groundbreaking AI solutions that have the potential to reshape entire industries. Strategic and innovative problem-solving skills will be instrumental in establishing MBZUAI as a global hub for high-performance computing in deep learning, driving impactful discoveries that inspire the next generation of AI pioneers.\n \n<strong>Key Responsibilities </strong>\nThis <strong>intensive, short-term internship</strong> offers a unique opportunity for aspiring AI engineers to;\n• Collect, prepare and processing training and validation datasets.\n• Assist in designing and tweaking model architectures.\n• Implement testing frameworks to assess model performance.\n• Analyze model outputs for accuracy and bias.\n• Participate in the review and refinement of AI algorithms.\n• Document findings and procedures for team collaboration.\n \n<strong>Academic Qualifications</strong>\nCurrently pursuing or recently completed a Master's, or Ph.D. in Computer Science, Data Science, Artificial Intelligence, Applied Mathematics, Statistics, or a related quantitative field.",
+    "content_hash": "3c6be5227afcdeac1fff872b87e01e9e"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ef1de03137e0": {
+    "id": "ef1de03137e0",
+    "title": "Business Intelligence Intern",
+    "title_raw": "Business Intelligence Intern",
+    "company": {
+      "slug": "4flow",
+      "name": "4Flow",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Campinas",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "4flow/4flow",
+      "external_id": "R4559"
+    },
+    "apply_url": "https://4flow.wd3.myworkdayjobs.com/4flow/job/Campinas/Business-Intelligence-Intern_R4559",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:41:24.673Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:41:24.673Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>What your new challenge will look like</h3><br /><p>As a Business Intelligence Intern, you will support our BI team in transforming data into clear, reliable and actionable information.</p><p>You will work closely with experienced team members and gradually take responsibility for operational activities and selected BI development tasks. Your activities will include:</p><br /><ul><li>Support the development, maintenance and improvement of BI dashboards and reports</li><li>Assist with data preparation, validation and quality checks</li><li>Help structure and maintain reports, KPIs and supporting documentation</li><li>Support recurring operational activities and the maintenance of existing BI solutions</li><li>Assist the team in troubleshooting dashboards and data-related issues</li><li>Contribute to the automation and simplification of recurring manual activities</li><li>Work with tools such as Excel, Tableau and other data and visualization technologies</li><li>Collaborate with colleagues and stakeholders from different functions and countries</li><li>Participate in knowledge-sharing sessions and internal BI training activities</li><li>Learn and apply Business Intelligence development standards and best practices</li></ul><br /><h3>Why you belong at 4flow</h3><br /><ul><li>You are currently pursuing a bachelor’s degree in Engineering, Information Systems, Computer Science, Data Analytics, Business Administration, Economics or a comparable field</li><li>You have strong analytical skills and logical reasoning</li><li>You enjoy working with data and solving structured problems</li><li>You are curious, proactive and motivated to learn new tools and concepts</li><li>You have basic to intermediate knowledge of Microsoft Excel</li><li>You are comfortable communicating and collaborating with different people from different locations and cultures</li><li>You have English skills at a minimum B1/B2 level and are comfortable working in an international environment</li><li>You are interested in Business Intelligence, data analytics and data visualization</li></ul><br /><p>The following qualifications are considered a plus:</p><br /><ul><li>Previous academic, personal or professional experience with Tableau or another data visualization tool</li><li>Basic knowledge of SQL, Python, Power BI, Tableau Prep or data transformation concepts</li><li>Experience with data analysis through university projects, internships, student organizations or personal projects</li><li>Knowledge of or interest in supply chain management, logistics or operations</li><li>Familiarity with dashboards, KPIs or structured datasets</li></ul><br /><h3>What we offer</h3><br /><p>Come join us! As part of a highly international, fast-growing company with a vibrant corporate culture, you will benefit from:</p><ul><li>Caju multi-benefit card</li><li>Fuel or transportation allowance</li><li>Health and dental plans, according to the conditions applicable to the internship program</li><li>Life insurance</li><li>Comprehensive well-being initiatives, including Wellhub, our Employee Assistance Program for mental health, and dedicated committees for health and well-being</li><li>Outstanding opportunities for your individual development, including access to LinkedIn Learning and internal training programs</li><li>Hybrid working model for flexibility and work-life balance</li></ul><br /><p><b>And there is more!</b></p><br /><ul><li>An international environment with exposure to global projects</li><li>Practical experience in Business Intelligence, analytics, supply chain and logistics</li><li>Structured learning with support from experienced BI professionals</li><li>Opportunities to participate in knowledge-sharing sessions and improvement initiatives</li><li>A collaborative and supportive company culture</li><li>Team events and a modern office environment</li><li>Opportunity to build a career path in Business Intelligence and analytics</li></ul><br /><p>We are committed to equal opportunities and welcome applications from all individuals, regardless of age, gender, origin, disability, sexual orientation, religion, or any other legally protected characteristic.</p><br /><p>Ready for 4flow? Then please apply online. Please upload an English version of your resume when applying.</p>",
+    "content_hash": "cebff68c6790ffd41979c5ddd1c0702d"
+  }
+}

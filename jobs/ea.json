@@ -1,0 +1,132 @@
+{
+  "ea2eb504ff72": {
+    "id": "ea2eb504ff72",
+    "title": "Electrical Engineer Intern - Winter 2027",
+    "title_raw": "Electrical Engineer Intern - Winter 2027",
+    "company": {
+      "slug": "skydio",
+      "name": "Skydio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Mateo, California, United States",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "skydio",
+      "external_id": "9ac944bc-89da-44bb-bf9c-3b9922e7cbee"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T19:47:28.660Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.686Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 47,
+      "max": 47,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders, soldiers in battlefield scenarios, and beyond.</p><p><strong>About the role:</strong></p><p>We are seeking interns to join our EE team this Winter, with a January start. We are looking for Electrical Engineering Interns who will help prototype, validate, develop, and refine the electrical systems that bring together state-of-the-art computing hardware, sensing, and power systems in the latest autonomous flying sensors. As a member of the Electrical Engineering team, you will be helping solve tough challenges alongside a team of world-class engineers.</p><p></p><p><strong>How you’ll make an impact:</strong></p><ul><li><p>Take ownership of low-voltage electronic hardware development, including specification, schematic design, PCB layout, prototyping, and fabrication</p></li><li><p>Perform hands-on bring-up, assembly, and debugging of custom circuit boards for testing and validation</p></li><li><p>Collaborate cross-functionally with mechanical, firmware, reliability, software, and electrical teams to build reliable test and validation systems for new products</p></li><li><p>Develop and test PCBAs for subsystems such as power distribution, battery management, sensing, motor control, and computing</p></li><li><p>Participate in schematic, layout, and BOM reviews, providing feedback on internally and externally developed designs</p></li><li><p>Support system integration and test activities through test execution, troubleshooting, and failure analysis.</p></li></ul><p></p><p><strong>What makes you a good fit:</strong></p><ul><li><p>Currently pursuing a degree in Electrical Engineering (or a related field)</p></li><li><p>Solid grasp of electrical engineering fundamentals</p></li><li><p>Familiar with basic EE lab tools (oscilloscope, signal generators, etc.)</p></li><li><p>Familiar with scripting/programming in Python/C</p></li><li><p>Some experience with power electronics (motor driver, switch mode power supplies…), digital electronics (MCU, FPGA, Ethernet, USB, SPI, I2C…), and/or analog electronics (filters, ADC/DAC…)</p></li><li><p>Previous internship work on electronic products</p></li><li><p>Familiar with an EDA software suite, preferably Cadence Allegro</p></li><li><p>Ability to quickly prototype solutions and circuit demonstrations</p></li><li><p>Ability to work autonomously</p></li><li><p>Ability to obtain FAA Part 107 certification within 30 days of engagement start, if required</p></li></ul><p><strong>Compensation:</strong> The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $58/hr for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Interns are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.</p><p>*Compensation for certain positions may vary based on the position’s location.</p><p>#LI-ZD1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/</p>",
+    "content_hash": "3a289b5ba4e27b1d4f1bb2530a3064bf"
+  },
+  "ea9e127e1203": {
+    "id": "ea9e127e1203",
+    "title": "Machine Learning Research Intern 2027",
+    "title_raw": "Machine Learning Research Intern 2027",
+    "company": {
+      "slug": "phonic",
+      "name": "Phonic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "phonic",
+      "external_id": "a6c8c3d2-250a-4c2f-8a20-e4667ca38e41"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-03T01:48:32.013Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.871Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Phonic</strong></h3><p>Phonic is a product and research lab focused on powering the most realistic, human-like voice AI conversations. We've re-thought the entire stack in pursuit of this goal, from models to product, to create voice agents that feel like they truly understand you, respond emotionally and perform agentic tasks with frontier intelligence.</p><p>Our team includes top-tier AI researchers, international olympiad medalists, and former founders.</p><p>Our customers include companies that are building voice-native AI products in industries such as customer support, healthcare, and logistics. We have raised over $30M from tier 1 VCs.</p><p></p><h3><strong>About the Team</strong></h3><p>Phonic has a very talent-dense and close-knit team. We collaborate with high trust and are constantly trying to improve how we work to deliver world-class research and product. Everyone takes ownership in what they do and they aren’t afraid to dive in headfirst into new problems. Our team includes top-tier AI researchers, international olympiad medalists, and former founders and we’re fully in-person in our SF office.</p><p></p><h3><strong>The Role</strong></h3><p>As a Research Intern at Phonic, you'll work directly on the core problems that make Phonic's voice AI feel genuinely human. You'll own a research direction end-to-end — from identifying the right problem to designing experiments, developing novel methods, and seeing results through to production impact. This isn't a role focused on incremental improvements; we're looking for someone with the taste to identify what matters, the rigor to pursue it correctly, and the drive to ship it. You'll be fully in-person in our SF office.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Identify high-leverage research problems across the voice AI stack from audio understanding to audio output, and take full ownership of driving them forward</p></li><li><p>Design and run rigorous experiments that analyze architectural trade-offs to understand how design choices influence a model’s scalability, latency, and quality</p></li><li><p>Curate massive training datasets and execute rigorous experiments to determine exactly how data quality shapes model behavior and performance</p></li><li><p>Work directly with research scientists and engineers to move fast from prototype to production</p></li><li><p>Build the training pipelines, evaluation frameworks, and tooling that let us experiment and iterate quickly</p></li></ul><h3><strong>What You'll Bring</strong></h3><ul><li><p>A track record of original work: you've found a real problem, developed an approach, and seen it through</p></li><li><p>Proficiency in PyTorch (or JAX), and the ability to implement models cleanly from papers</p></li><li><p>Fluency in the math, probability, optimization, and linear algebra underlying model behavior</p></li><li><p>You move fluidly between ideas and implementation; you don't just think about problems, you build things</p></li><li><p>Clear, precise written and verbal communication</p></li></ul><h3><strong>Nice To Have</strong></h3><ul><li><p>Research experience in speech, audio, or language modeling (ASR, TTS, LLMs, codec models)</p></li><li><p>Familiarity with generative modeling techniques: diffusion, flow matching, or autoregressive models</p></li><li><p>Experience with RLHF or preference optimization</p></li><li><p>Competitive programming or olympiad background</p></li><li><p>Publications or preprints at venues like NeurIPS, ICML, ICLR, Interspeech, ICASSP, or ACL</p></li></ul><p><strong>Benefits</strong></p><ul><li><p><strong>💸 </strong>Top-tier compensation: in order to get the best talent, we provide salary and equity that recognize your skillset</p></li><li><p><strong>🥗 </strong>Meals: free breakfast, lunch, and dinner provided in the office</p></li><li><p>🤝 We have regular off-sites and team celebrations</p></li></ul>",
+    "content_hash": "cfa9d4ce75747beb7f90da22960aaea3"
+  },
+  "eae80d0fd827": {
+    "id": "eae80d0fd827",
+    "title": "Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project",
+    "title_raw": "Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project",
+    "company": {
+      "slug": "aclu-kentucky",
+      "name": "ACLU Kentucky",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote/Hybrid-New York York, NY",
+      "city": "/ -New York York",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "acluinternships",
+      "external_id": "8843314002"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/acluinternships/jobs/8843314002",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-28T15:23:07.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:30.955Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 20,
+      "max": 20,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About the Role</strong></h3>\n<p>The ACLU seeks a full-time <strong>Summer</strong> <strong>Undergraduate</strong> Intern in the <strong>Speech, Privacy and Technology Project</strong><strong> </strong>of the ACLU’s National office in <strong>New York City. </strong>This position can be remote or hybrid.</p>\n<p><strong>Qualifying applicants must currently be matriculated undergraduate students and must be based in the U.S. for the entire duration of the internship.</strong></p>\n<h3><strong>The Team:</strong></h3>\n<p>The Speech, Privacy and Technology Project is dedicated to protecting and expanding the First Amendment freedoms of expression, association, and inquiry; expanding the right to privacy and increasing the control that individuals have over their personal information; and ensuring that civil liberties are enhanced rather than compromised by new advances in science and technology. The project is currently litigating cases and conducting other advocacy efforts on a variety of issues, including political protest, freedom of expression online, privacy of electronic information, journalists’ rights, scientific and academic freedom, openness in the courts, privacy rights at the border, and the impact of big data and algorithmic decision-making.</p>\n<h3><strong>What You’ll Do:</strong></h3>\n<p>The undergraduate summer internship is designed to provide interns with the opportunity to learn about public interest work, explore personal research opportunities, and engage in legal advocacy and public writing for issues on which the Speech, Privacy, and Technology Project focuses. There are no educational prerequisites for the position, and applicants need not have any background nor prior knowledge in pre-law, technology, or science-related fields. The Project strongly encourages people of color, women, LGBTQ+ people, and people with disabilities to apply.</p>\n<h3><strong>Your Day to Day:</strong></h3>\n<ul>\n<li>Conducting research on issues relating to free speech, privacy and technology</li>\n<li>Preparing, producing and developing litigation and advocacy materials</li>\n<li>Drafting posts for the ACLU blog</li>\n<li>Conducting research on Freedom of Information Act requests</li>\n<li>Attending meetings to gain firsthand knowledge of active cases and advocacy projects</li>\n<li>Assisting with litigation and advocacy projects</li>\n<li>Assisting with the maintenance of case files</li>\n<li>Assisting in administrative support and other maintenance tasks to support the work of the project</li>\n<li>Proposing independent research projects relating to free speech, privacy and technology</li>\n</ul>\n<p>This posting provides a general but not comprehensive list of the opportunities of the internship. </p>\n<h3><strong>What You'll Bring:</strong></h3>\n<p>The undergraduate internship is open to students who have completed at least one year of their undergraduate program before the internship commences. Undergraduate interns should possess the following: </p>\n<ul>\n<li>Enthusiasm for issues related to free speech, privacy, and technology as well as a commitment to social justice and civil liberties.</li>\n<li>Strong research, writing, and communications skills.</li>\n<li>Initiative to see projects through to completion.</li>\n<li>Strong proficiency with Microsoft Office Suite (i.e. Word, Excel, and PowerPoint).</li>\n</ul>\n<h3><strong>Future ACLU'ers Will:</strong></h3>\n<ul>\n<li>Be committed to advancing the mission of the ACLU</li>\n<li>Center and embed the principles of equity, inclusion and belonging in their work by demonstrating commitment to diversity with an approach that respects and values multiple perspectives</li>\n<li>Be committed to work collaboratively and respectfully toward resolving obstacles and conflicts</li>\n</ul>\n<h3><strong>Internship Logistics</strong></h3>\n<ul>\n<li><strong>Location</strong>: Our internship program offers a limited number of remote or hybrid intern positions. This internship may be <strong>remote or </strong><strong>hybrid and based in our New York City office.</strong></li>\n<li><strong>Time Commitment</strong>: Summer internships require a full time (35 hour/week) commitment for 10 consecutive weeks.</li>\n<li><strong>Internship Duration</strong>: Internships have a start date of <strong>May 24 or June 7.</strong></li>\n<li><strong>Stipend</strong>: A stipend is available for those students who are lawfully authorized to work. Undergraduate interns receive a stipend amount $20/hour (stipends are taxed)</li>\n</ul>\n<h3><strong>Why the ACLU</strong></h3>\n<p>For over 100 years, the ACLU has worked to defend and preserve the individual rights and liberties guaranteed by the Constitution and laws of the United States. Whether it’s ending mass incarceration, achieving full equality for the LGBTQ+ community, establishing new privacy protections for our digital age, or preserving the right to vote or the right to have an abortion, the ACLU takes up the toughest civil liberties cases and issues to defend all people. </p>\n<h3><strong>Our Commitment to Accessibility, Equity, Diversity &amp; Inclusion</strong></h3>\n<p>Accessibility, equity, diversity, and inclusion are core values of the ACLU and central to our work to advance liberty, equality, and justice for all. For us diversity, equity and inclusion are not just check-the-box activities, but a chance for us to make long-term meaningful change. We are a community committed to learning and growth, humility and grace, transparency and accountability. We believe in a collective responsibility to create a culture of belonging for all people within our organization – one that respects and embraces difference; treats everyone equitably; and empowers our colleagues to do the best work possible. We are as committed to anti-oppression and anti-racism internally as we are externally. Because whether we’re in the courts or in the office, we believe ‘We the People’ means all of us.  </p>\n<p>With this commitment in mind, we strongly encourage applications from all qualified individuals without regard to race, color, religion, gender, sexual orientation, gender identity or expression, age, national origin, marital status, citizenship, disability, veteran status and record of arrest or conviction, or any other characteristic protected by applicable law. </p>\n<p><em>The ACLU is committed to providing reasonable accommodation to individuals with disabilities. If you are a qualified individual with a disability and need assistance applying online, please complete the </em>Accommodation Request Form</p>\n<p><em>If you are selected for an interview, you will receive additional information regarding how to request an accommodation for the interview process.</em></p>\n<p><strong><em>In order to be considered for this position, all candidates must formally submit an application. </em><em>The ACLU does not accept unsolicited calls or emails from candidates regarding their application status.</em></strong></p>",
+    "content_hash": "3106e56f7922151a71c65536357502d6"
+  }
+}

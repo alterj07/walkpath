@@ -1,0 +1,87 @@
+{
+  "5d926bb51b44": {
+    "id": "5d926bb51b44",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern - Hybrid",
+    "company": {
+      "slug": "lean-techniques",
+      "name": "Lean TECHniques",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "leantechniques",
+      "external_id": "a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T14:36:21.374Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.984Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We’re currently looking to add a group of <em><strong>Software Engineering Interns</strong></em> to this nerd club of ours. If you’re someone who has basic programming skills, and is currently going through a formal computer science program, or have recently completed one, we might be a good match! Here at Lean TECHniques, we work with Fortune 500 companies to help take technology from a cost center, to a competitive advantage.</p> <p><strong>Here’s what you can expect in an internship with LT:</strong></p><p>You’ll join forces with 3-5 other team members to deliver high-quality, low-maintenance software solutions that help organizations cement their place in the digital economy.</p><p>You’ll help LT improve some of our internal systems, and work on code that we use day to day.</p><p>You’ll learn test-driven development practices to help write high-quality code.</p><p>You’ll continue to refine your craft and grow your skills through ongoing training, personal development and other learning opportunities that help you reach your goals.</p> <p><strong>What Skills Do You Bring to the Table?</strong></p><p>Know how to program in one or more languages. We believe we can teach you the specifics that are needed, but you’ll need to know how to approach problems programmatically.</p><p>Able to work within a team. Our teams are successful because we know how to get along and treat each other as professionals.</p><p>A positive attitude. We work on hard problems and engineering can be frustrating at times, so bringing a positive attitude can help see you through the rough times.</p>",
+    "content_hash": "fe2ab0bac056eda8c7a19ed451c90279"
+  },
+  "5d92771de415": {
+    "id": "5d92771de415",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "title_raw": "Software Engineer Intern (Summer 2027)",
+    "company": {
+      "slug": "swarm-aero",
+      "name": "Swarm Aero",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "swarmaero",
+      "external_id": "04cff1f6-c790-4773-8568-e487a03626f6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T18:52:20.927Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.107Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 35,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.</p><p>The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.</p><p></p><h3>READ THIS PART FIRST</h3><p><strong>Legion is not a normal web application. It is command and control software that has to present dense real-time information, coordinate distributed systems, and continue being useful when communications are imperfect.</strong></p><p></p><h3>WHAT WE DO</h3><p>Swarm Aero is redefining air power. We are building autonomous aircraft and Legion, command and control software designed to coordinate large numbers of heterogeneous autonomous systems. Our team combines experience building novel aircraft, scaling startups, and delivering technology for national security.</p><p></p><h3>THE INTERNSHIP</h3><p>You will own a scoped project with a clear technical or business outcome, work directly with the people responsible for the system, and present what you built and learned at the end of the summer. The goal is not to give you practice work. It is to give you useful work with the support to do it well.</p><p></p><h3>WHAT YOU'LL DO</h3><p>· Build product features across frontend, backend, full-stack, real-time, or forward-deployed software</p><p>· Develop interfaces for telemetry, geospatial data, mission planning, scheduling, collaboration, or system health</p><p>· Build and operate backend services, APIs, event-driven systems, or data pipelines</p><p>· Write automated tests, improve developer tooling, and help ship production-quality software</p><p>· Support integration and test events, debug issues across services and networks, and turn what you learn into product improvements</p><p></p><h3>WHAT WE'RE LOOKING FOR</h3><p>· Currently pursuing a degree in Computer Science, Software Engineering, or a closely related field, with graduation and enrollment requirements to be confirmed.</p><p>· Strong programming fundamentals and experience building a substantial software project</p><p>· Experience with a modern frontend framework, backend language, systems language, or full-stack application</p><p>· Ability to explain technical tradeoffs, debug methodically, and write maintainable code</p><p></p><h3>WHAT SETS YOU APART</h3><p>· React, TypeScript, Go, Python, Rust, C++, or similar tools</p><p>· Distributed systems, networking, real-time applications, maps, games, simulation, or data visualization</p><p>· Linux, Docker, CI/CD, customer-facing engineering, or deployed project experience</p><p></p><h3>WHAT YOU DO NOT NEED</h3><p>Aerospace experience, a perfect GPA, or a previous internship at a famous company. Show us what you have built, analyzed, tested, organized, or improved, and be ready to explain your contribution clearly.</p><p></p><h3>THE HONEST VERSION</h3><p>The pace is fast, the problems will not arrive fully defined, and you may spend part of the summer learning why your first approach was wrong. We will expect you to ask questions, test your assumptions, document your work, and leave the project better than you found it.</p><p></p><p><strong>ITAR requirement</strong></p><p>To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</p><p>Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability.<br /><br /><strong>What We Offer</strong></p><ul><li><p>Meaningful equity in a high-growth defense technology company</p></li><li><p>Competitive base salary commensurate with experience</p></li><li><p>Medical, dental, vision, and 401k</p></li><li><p>PTO and paid sick leave</p></li><li><p>Monthly wellness stipend</p></li><li><p>Daily catered lunch (office)</p></li><li><p>Paid parental leave</p></li><li><p>Direct impact on a critical national security mission</p></li><li><p>A world-class team of engineers and operators solving genuinely hard problems</p></li></ul>",
+    "content_hash": "9668785077310859a4d82a59e30e8026"
+  }
+}

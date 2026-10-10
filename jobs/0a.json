@@ -1,0 +1,179 @@
+{
+  "0a5232bf2037": {
+    "id": "0a5232bf2037",
+    "title": "Robotics Engineering Intern: Systems & Applications - IMMEDIATE START",
+    "title_raw": "Robotics Engineering Intern: Systems & Applications - IMMEDIATE START",
+    "company": {
+      "slug": "graymatter-robotics",
+      "name": "GrayMatter Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles - HQ",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "graymatter-robotics",
+      "external_id": "aa7c2419-7bb9-4080-9403-937c4db01bb6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T20:38:50.391Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Immediate",
+    "salary": {
+      "min": 30,
+      "max": 40,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Summary</strong></p><p>GrayMatter Robotics is a well-capitalized Physical AI company headquartered in Los Angeles, building Factory SuperIntelligence (FSI) through systems that learn, adapt, and develop genuine process intelligence across every part they touch. Our robots take on the tedious, hazardous, and ergonomically demanding work that has kept manufacturing dependent on a shrinking skilled workforce, delivering superhuman performance. Robotics has a demo problem. GMR doesn't. Our systems are in active production today, adapting autonomously to real geometries, real materials, and real process variation without reprogramming. We deliver our system through a Robots-as-a-Service (RaaS) model that converts capital expenditure into an operating subscription, making Physical AI accessible to the manufacturers who need it most. We hire people who want to solve hard physical problems at an industrial scale.</p><p></p><p>We help manufacturers improve the quality of life for their workforce while increasing production capacity and reducing scrap, repair, and rework costs. As a Robotics Engineering Intern, you will join our Customer Success team onsite in Carson, CA to spearhead advancements in robotic surface treatment applications. Your work will enhance manufacturing efficiency and precision while supporting GMR's mission to innovate and improve industry standards.</p> <p><em><strong>This is a paid internship running approximately October 2026 through March 2027. Candidates must be available to start no later than October 1, 2026.</strong></em></p><p></p><p><strong>Role &amp; Responsibilities</strong></p><ul><li><p>Work on our Customer Success team with other cross-functional teams on designing, implementing, and testing systems associated with robotic grinding applications. </p></li><li><p>Partner with Senior Application Engineers to support robotic solutions</p></li><li><p>Participate in rigorous system testing practices</p></li><li><p>Assist in proof of concepts for new customers</p></li><li><p>Participate in hands-on work to solve difficult problems</p></li><li><p>Be curious and eager to learn new skills, efficient ways of working and how to pay close attention to details</p></li></ul><p></p><p><strong>Minimum Qualifications</strong></p><ul><li><p>Has or in the process of obtaining a bachelor's degree or higher in Robotics, Mechanical Engineering, Electrical Engineering, Computer Science or related field</p></li><li><p>Experience in iterative design and prototyping of cyber-physical and mechatronic systems</p></li><li><p>Exposure to manufacturing processes and industries</p></li><li><p>Ability to read and interpret C++/Python </p></li><li><p>Experience with Visual Studio Code</p></li><li><p>Adaptable to new environments and comfortable with changing environments</p></li><li><p>Ability to communicate and collaborate effectively across multiple teams</p></li><li><p>Willingness to work in a fast-paced environment with quickly changing priorities</p></li><li><p>Must secure work authorization in the United States and maintain ongoing work authorization beginning at the time of hire through the entirety of employment</p></li></ul><p></p><p><strong>Preferred Qualifications</strong></p><ul><li><p>Has or in the process of obtaining a master's degree or higher in Robotics, Mechanical Engineering, Electrical Engineering, Computer Science or related field</p></li><li><p>Industry or internship work experience within autonomous manufacturing</p></li><li><p>Experience in manufacturing processes</p></li><li><p>Experience in developing standard operating procedures and documentation</p></li><li><p>Experience working with industrial robots and auxiliary systems</p></li><li><p>Programming skill in C++ / python</p></li><li><p>Expertise in 3D CAD design</p></li><li><p>Experience with Linux environment</p></li><li><p>Background in Dynamics / controls / motion planning / machine learning / robotics / computer vision / artificial intelligence / computational geometry</p></li><li><p>Experience with ROS</p></li></ul><p><em>GrayMatter Robotics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. We celebrate diversity and are committed to creating an inclusive environment for all employees. We encourage and embrace applicants of all backgrounds to apply!</em></p><p></p><p><em>GrayMatter Robotics is committed to providing reasonable accommodations for candidates with disabilities. If you believe you require accommodations during the recruiting process, please contact accommodations@graymatter-robotics.com to submit your request.</em></p><p></p><p><em>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</em></p><p></p><p><em>Depending on the position and if listed, compensation may include the base salary range, bonus or commission, and equity. We also provide comprehensive benefits and perks which include but are not limited to medical, dental, vision, unlimited PTO, 401(k) plan + employer match, regular offsite events, a discretionary fund for enhancing productivity and so much more! The range listed on job postings reflect the minimum and maximum new hire salary across levels in Los Angeles, CA.</em></p>",
+    "content_hash": "8e2593132d99e93f762519b4de7aaa02"
+  },
+  "0a6a3f337c06": {
+    "id": "0a6a3f337c06",
+    "title": "Intern, Software Engineering, 2027",
+    "title_raw": "Intern, Software Engineering, 2027",
+    "company": {
+      "slug": "cowboy-space",
+      "name": "Cowboy Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Carlos, California",
+      "city": "San Carlos",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cowboyspace",
+      "external_id": "56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T23:15:23.746Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.252Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Cowboy Space Corp.</strong></p><p></p><p><strong>Mission</strong><br />Cowboy Space Corporation is solving the global energy crisis by building the infrastructure for abundant, resilient space-based solar energy. We are tackling one of humanity's most complex engineering challenges with a world-class team dedicated to delivering a revolutionary power platform. Cowboy Space Corporation is transforming how civilization powers, computes and connects - from orbit to Earth.</p><p></p><p><strong>Background</strong><br /> Cowboy Space Corporation is building the infrastructure to power and connect the orbital economy. Our modular, scalable satellites collect sunlight in Low Earth Orbit to enable multiple integrated applications: transmitting energy via infrared lasers (space-to-earth and space-to-space), powering on-orbit high-performance computing clusters (GPU/TPU), and providing secure, high bandwidth optical data transport.</p><p>Current energy and data systems rely on complex logistics and outdated infrastructure. Cowboy Space Corporation overcomes these challenges by enabling direct, on-demand, secure, and scalable energy distribution and data processing from space. This will revolutionize how we operate in orbit and on Earth, supporting the rapidly expanding space industrial base, ISAM (In-Space Servicing, Assembly, and Manufacturing) operations, remote regions, and military bases.</p><p>Baiju Bhatt founded Cowboy Space Corporation in 2024. Inspired by his father's work with NASA Langley Research Center, Baiju earned his B.S. in Physics and M.S. in Mathematics at Stanford before co-founding Robinhood, now a public company that has helped over 20 million Americans access the financial system. Cowboy Space Corporation has raised ~$365 million from Index Ventures, Interlagos, Construct Ventures, Breakthrough Energy Ventures, Andreessen Horowitz, NEA, and others.</p><p>This is an ambitious mission that demands extraordinary talent. Cowboy Space Corporation's team has worked at places like SpaceX, Blue Origin, Stoke Space, Astranis and NASA, and is based in San Carlos, CA. If you're ready to solve complex technical challenges and help build the most important energy company in the world, we want to hear from you.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Design, development, and testing of software across flight, embedded, and ground systems, including avionics, guidance/navigation/control, and satellite bus/payload software</p></li><li><p>Build and maintain software for signal processing, RF/optical communication pipelines, and on-orbit compute infrastructure (GPU/TPU clusters)</p></li><li><p>Develop tooling and services for mission operations, telemetry/command infrastructure, and satellite health monitoring</p></li><li><p>Write, test, and debug code across the stack — from low-level embedded/real-time systems to higher-level ground and data systems</p></li><li><p>Collaborate with hardware, electrical, and systems engineering teams to define interfaces, debug integration issues, and validate end-to-end system behavior</p></li><li><p>Build simulation, test, and hardware-in-the-loop frameworks to validate software against spacecraft requirements</p></li><li><p>Participate in code reviews, write technical documentation, and contribute to engineering best practices as the team and codebase scale</p></li></ul><p></p><p><strong>Basic Qualifications</strong></p><ul><li><p>Currently enrolled as an undergraduate or graduate student in Computer Science, Computer Engineering, Electrical Engineering, or a related STEM field</p></li><li><p>Strong fundamentals in software engineering: data structures, algorithms, and computer architecture</p></li><li><p>Proficiency in at least one systems or general-purpose programming language (C, C++, Python, or similar)</p></li><li><p>Collaborative, self-directed work style; comfort with ambiguity and learning quickly</p></li></ul><p></p><p><strong>Preferred Qualifications</strong></p><ul><li><p>Experience with embedded or real-time systems programming (RTOS, bare-metal, or similar constrained environments)</p></li><li><p>Exposure to signal processing, hardware description languages (VHDL/Verilog), or FPGA-based development</p></li><li><p>Familiarity with flight software frameworks (e.g., cFS, F Prime) or spacecraft software architectures</p></li><li><p>Experience with version control, CI/CD pipelines, and automated testing frameworks</p></li><li><p>Prior internship, coursework, or personal project experience involving robotics, satellites, avionics, or other hardware-adjacent software</p></li><li><p>Comfort debugging across the hardware/software boundary, including use of tools like oscilloscopes, logic analyzers, or debuggers</p></li></ul><p><strong>Compensation</strong></p><p>(Quarter-long internship) — Paid $1,800 weekly</p><ul><li><p>Daily lunch in the office and a fully stocked kitchen with beverages and snacks</p></li></ul><p></p><p><strong>ITAR Requirements</strong></p><ul><li><p>Export Control Requirement: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), applicants must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about ITAR here.</p></li></ul><p></p><p><strong>Disclaimer</strong><br />This job description is a summary of the primary duties and responsibilities of the job and position. It is not intended to be a comprehensive or all-inclusive listing of duties and responsibilities. Contents are subject to change at Cowboy Space Corp.'s discretion.</p><p>Cowboy Space Corp. is an equal employment opportunity employer. We consider individuals for employment or promotion according to their skills, abilities and experience. Cowboy Space Corp. is committed to complying with all applicable laws prohibiting discrimination based on race, color, religious creed, age, national origin, ancestry, physical, mental or developmental disability, sex (which includes pregnancy, childbirth, breastfeeding and medical conditions relating to pregnancy, childbirth or breastfeeding), veteran status, military status, marital or registered domestic partnership status, medical condition (including cancer or genetic characteristics), genetic information, gender, gender identity, gender expression, sexual orientation, as well as any other category protected by federal, state or local laws.</p>",
+    "content_hash": "cbab3c9b6822cc26f4942a34f0df38b4"
+  },
+  "0a76a5e5cfcc": {
+    "id": "0a76a5e5cfcc",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "title_raw": "Software Engineer Intern (Summer 2027)",
+    "company": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York, New York"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "notion",
+      "external_id": "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T19:07:13.459Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.087Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 57,
+      "max": 57,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Who We Are</h3><p>Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p></p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><p></p><p><strong>This internship will take place from May 17 - August 6 or June 14 - Sept 3 (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time.</strong></p><p></p><h3>What You'll Achieve:</h3><ul><li><p>Write clean, secure, tested, and documented code.</p></li><li><p>Design &amp; enhance the Notion product with new capabilities with an AI first mindset</p></li><li><p>Develop, fix and debug software for across our full stack: web services, databases, applications, tools while leveraging modern frameworks and tooling.</p></li></ul><p></p><h3>Qualifications:</h3><ul><li><p>Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must graduate before Summer 2028.</p></li><li><p>This internship will take place from May 17 - August 6 or June 14 - Sept 3 (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time.</p></li><li><p>Previous internship experience.</p></li><li><p>Working towards a proficiency of one or more programming languages such as Typescript, Node.js, or Python.</p></li><li><p>You find large challenges exciting and enjoy discovering problems as much as solving them.</p></li><li><p>You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment.</p></li></ul><p></p><h3>Skills You’ll Need To Bring:</h3><ul><li><p><strong>Thoughtful problem-solving:</strong> For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.</p></li><li><p><strong>Put users first:</strong> You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.</p></li><li><p><strong>Not ideological about technology:</strong> To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go.</p></li><li><p><strong>Empathetic communication:</strong> You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.</p></li><li><p><strong>Team player:</strong> For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</p></li><li><p><strong>AI enthusiast:</strong> You have built or prototyped features with AI technologies (LLMs, Embeddings, ML) and are interested in learning more</p></li></ul><p></p><h3>Nice to Haves:</h3><ul><li><p>You have expertise with specific technologies that are part of our stack, including Typescript, React, Python.</p></li><li><p>You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.</p></li><li><p>You have interests outside of technology, such as in art, history, or social sciences.</p></li></ul><p></p><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated hourly range for this role is $57/hr for Bachelors and $61/hr for Master’s.</p><p></p><p>#LI-Onsite</p><p></p><h3>A Note on AI</h3><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><p></p><h3>Equal Opportunity &amp; Accommodations</h3><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p></p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p>",
+    "content_hash": "1ac128025192bdd31469cafc6d3f40eb"
+  },
+  "0aa266f94807": {
+    "id": "0aa266f94807",
+    "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+    "title_raw": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "5b08e2df-c9db-4831-aece-67d89e744796"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-03T02:07:59.510Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nJoin our team developing cutting-edge software for the Quarterhorse supersonic unmanned aircraft. You'll work with C++ and web technologies (TypeScript/JavaScript) to build control systems for both remotely piloted (HOTAS) and autonomous flight modes. This role includes designing and implementing intuitive user interfaces, ranging from hands-on control to point-and-click autonomy management.\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n<h3>Responsibilities:</h3>\nSoftware development on the human-machine interaction (HMI) program used by flight crew to control the aircraft and run simulations \nSoftware development on the communications software (RF, Satcom, networking) running on the ground and the vehicle  \nCollaborate with flight crew to develop and assess usability of the cockpit software and hardware  \nCollaborate with engineers to display and control hardware systems  \nParticipate in all stages of the software development lifecycle including planning, design, implementation, review, testing, documentation, and user evaluation  \n\n<h3>Requirements:</h3>\nMust be currently enrolled in an accredited college or university (Undergraduate student (at least a rising senior) or enrolled in a Master's or Ph.D. program) \nPursuing Computer Science, Aerospace Engineering, or related degrees  \nC/C++ Experience   \nWeb Applications Experience (JavaScript, TypeScript, React, Angular, Electron, etc.)  \nComputer Networking knowledge \nAviation/simulation experience  \nStrong understanding of engineering first principles \nDemonstrated ability to work within cross-functional teams \nEnthusiasm for aviation and Hermeus' mission \nExcellent written and verbal communication skills \nGPA of 3.0 or above \n\n<h3>Preferred Skills and Experience: </h3>\nDemonstrated knowledge or interest in aerospace industry (aviation or rocketry clubs, pilot license, DCS Ace, etc.)   \nExperience working on 2D or 3D games or simulations (especially Unreal, Unity, Cesium) \nNetworking protocol knowledge (TCP/UDP), IP routing, Etc,  \nUser Interface (UI) or Human-Computer Interaction (HCI) classes  \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "6267e30f9d3c7495d1b45674390a6aba"
+  }
+}

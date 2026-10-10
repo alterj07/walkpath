@@ -1,0 +1,90 @@
+{
+  "aea3896d82a5": {
+    "id": "aea3896d82a5",
+    "title": "Software Engineering Intern (US) - Summer 2027",
+    "title_raw": "Software Engineering Intern (US) - Summer 2027",
+    "company": {
+      "slug": "telus-digital",
+      "name": "TELUS Digital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Charlottesville",
+      "city": "Charlottesville",
+      "state": "VA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Durham",
+        "Columbus"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "telus-digital",
+      "external_id": "32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T20:44:04.131Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.620Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 31,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are</strong></h3><p>Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.</p><p>With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data &amp; AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA &amp; Test Engineering.</p><p>From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.</p><p></p><h3><strong>Location &amp; Flexibility</strong></h3><p>Our<strong> </strong>interns<strong> </strong>are integral parts of our teams at TELUS Digital. To help retain our deep culture of collaboration, our interns maintain an in-office presence in a hybrid capacity (Tuesdays, Wednesdays, Thursdays). This role can be located in <strong>Columbus, OH, Charlottesville, VA, or Durham, NC.</strong></p><p></p><h3><strong>The Opportunity</strong></h3><p>We believe the best ideas come from shared creativity. What sets us apart from other agencies is that our engineers sit right beside researchers and creatives, so perspectives from multiple disciplines shape our products. Our summer internship program gives current students the chance to make an impact by contributing ideas and adding a fresh perspective to real client projects, all while receiving one-on-one mentoring from our full-time team members. Not only that, but you’ll have snacks galore, and plenty of chances to socialize with your fellow interns — including fun outings during work hours. We’ll have you with us full-time (think 40 hours a week for approx. 11 weeks) and yes, it is definitely paid. Not a bad gig, right?</p><p>We understand our responsibility to create a diverse, equitable, and inclusive place within the tech industry, while pushing to make our industry more representative. Because of this responsibility, we need candidates who value diversity and inclusion through their work, team collaboration, or involvement in student organizations.</p><p></p><h3>Your Impact</h3><ul><li><p>Your day-to-day contributions will support real client work, helping TELUS Digital deliver technical excellence for the stakeholders who depend on us</p></li><li><p>You’ll have the opportunity to learn every day from engineering leadership</p></li><li><p>You’ll build amazing products people love</p></li><li><p>You’ll participate in the delivery of large and complex software projects in a team-based environment</p></li></ul><p></p><h3><strong>Your Background</strong></h3><ul><li><p>You plan to graduate in Fall/Winter 2027 or later</p></li><li><p>Have experience with mobile or web development (Swift, Java, Kotlin, TypeScript, Javascript, etc.)</p></li><li><p>You’ve done a mobile or web  project in school or in your spare time</p></li><li><p>Interest or experience integrating AI technology into your development process</p></li><li><p>A self-starter who embraces new technologies</p></li><li><p>You are intellectually curious and enjoy digging into what makes each platform unique</p></li><li><p>A commitment to delivering quality code for best-in-class digital experiences</p></li><li><p>You appreciate good design and have an eye for details</p></li><li><p>Applicants must be authorized to work permanently for any employer in the U.S. We are unable to sponsor employment visas at this time.</p></li></ul><p>P.S. Even if you don’t have expertise in all of the qualifications listed, we value new perspectives and encourage you to apply. We’re committed to building a diverse company that reflects the diversity of our users. If you feel confident about a good amount of the bullet points above, we’ll ramp you up on the rest.</p><p></p><h3><strong>Equal Opportunity Employer</strong></h3><p><em>At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.</em></p><p>We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.</p><p>For more information on how we use your information, see our Privacy Policy.</p>",
+    "content_hash": "404e84c4ae6bca7eff12cf1107a9bb04"
+  },
+  "aeb6adff72eb": {
+    "id": "aeb6adff72eb",
+    "title": "Spring/Summer 2027 Engineering Intern",
+    "title_raw": "Spring/Summer 2027 Engineering Intern",
+    "company": {
+      "slug": "primer",
+      "name": "Primer",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "primer",
+      "external_id": "edd1667b-6323-444a-adc1-40bae5b9a3b0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T04:51:55.355Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.590Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "yes",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3></h3><h3><br />About Primer</h3><p>Primer is a growing network of K–8 schools restoring the timeless foundations of American education. Inspired by the original teaching primers that shaped a nation of readers, thinkers, and builders, our schools begin with what has always worked, and build for what lies ahead. Close-knit learning environments. Skilled educators. A culture that takes kids seriously as learners and leaders.</p><p>Primers shaped the first 200 years of American children. Primer will ready them for the next.</p><h3>Role overview</h3><p>We're hiring Full Stack Software Engineering Interns. The internship begins in January, May, or June, with a preferred commitment of 4 to 8 months. You'll build PrimerOS, the operating system that runs our schools, shipping features that teachers, students, and families rely on every day.</p><p>Primer's goal is simple: fix K–12 education in America. We build schools from the ground up and run them on a single operating system nobody's built before. That means the work is broad by nature. Our engineering projects span frontend, backend, systems, hardware, and more. As a startup, we give interns real ownership and mission-critical work, with a small, high-performing team around you for mentorship and support.</p><p></p><h3>What you'll do</h3><ul><li><p>Work with TypeScript, Node, GraphQL, Prisma, Postgres, Next, React, and Relay. We invest heavily in our DevEx and agent stack.</p></li><li><p>Tackle meaningful projects with direct impact. You'll build features used daily by teachers, students, and families, solving real problems in education.</p></li><li><p>Work daily with team members from engineering, product, design, and academic program teams.</p></li><li><p>Contribute to a culture of excellence through code reviews and a high bar for quality.</p></li></ul><p></p><h3><strong>What we're looking for</strong></h3><ul><li><p>You have a real passion for fixing the US education system. You're energized by the chance to redesign the school experience from the ground up.</p></li><li><p>The unknowns fuel you. You love rolling up your sleeves and figuring out what needs to happen.</p></li><li><p>You have a strong grasp of engineering fundamentals and know how to apply them.</p></li><li><p>You take pride in your craft. Every detail matters, and you care about building exceptional software.</p></li></ul><p></p><h3><strong>Working at Primer</strong></h3><p>Full-time, in-office internship based out of our sunny Mission District office in San Francisco, 5 days a week. Competitive salary and benefits package, with J-1 and F-1 visa sponsorship available.</p>  <p><em>Primer is a mission-first company. We believe our mission is the highest-leverage way we can create positive change. In service of that, we keep work centered on mission execution and avoid social or political activism at work that’s unrelated to the mission. If that energizes you, we’d love to see you apply.</em></p>",
+    "content_hash": "13d75c621b35a0040f1bc2a65db8ca0a"
+  }
+}

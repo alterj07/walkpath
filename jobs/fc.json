@@ -1,0 +1,87 @@
+{
+  "fc208512bdae": {
+    "id": "fc208512bdae",
+    "title": "Power Electronics Engineering Intern (Spring)",
+    "title_raw": "Power Electronics Engineering Intern (Spring)",
+    "company": {
+      "slug": "h3x-technologies",
+      "name": "H3X Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Louisville, Colorado",
+      "city": "Louisville",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "h3x-technologies",
+      "external_id": "c121c3a9-a6ea-441a-b617-876cf6293fce"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/h3x-technologies/c121c3a9-a6ea-441a-b617-876cf6293fce/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-18T19:14:34.844Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.372Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 23,
+      "max": 37,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About H3X Technologies</strong></p><p>H3X is building America's advanced electric motor company, powering next-generation platforms in aerospace, defense, and marine. Our integrated motor drives deliver 12+ kW/kg, roughly 3x the power density of competing solutions. We're now scaling to megawatt-class systems, with customers working on everything from supersonic aircraft to turbine power generation for AI datacenters.</p><p>Our team brings together engineers and operators from aerospace, defense, and motorsports, with deep expertise in electric machines, power electronics, material science, and advanced manufacturing. We're a small, fast-moving team doing hard engineering that matters, and we're looking for people who want to do the best work of their careers alongside us.</p><p></p><p><strong>About the role</strong></p><p>Our team at H3X is hiring Power Electronics Intern. You will contribute to the design, testing, and validation of breakthrough power electronic systems for next-generation electric propulsion. You will work alongside experienced engineers, gaining hands-on experience with high-voltage systems and the manufacturing processes that take ideas from concept to production. We are looking for a full time Spring Intern, but also have availability for Summer 2027 and extended Co-Op positions.</p><p></p><p><strong>What you will do:</strong></p><ul><li><p>Assist in the design, simulation, and testing of power electronic hardware</p></li><li><p>Support the development and validation of PCB assemblies and wire harnesses, collaborating with engineering and manufacturing teams to implement new processes</p></li><li><p>Conduct simulations and performance analyses using industry-standard tools (MATLAB, LTspice, Simulink) to validate system performance and identify optimization opportunities</p></li><li><p>Participate in troubleshooting and root cause analysis for hardware issues, assisting in implementing corrective actions and documenting outcomes</p></li><li><p>Assist with test setup, measurement, and evaluation of prototypes and production units, including high-voltage system operation under lab safety guidelines</p></li><li><p>Contribute to technical documentation, including test reports and manufacturing instructions for PCB and wire harness assemblies</p></li><li><p>Stay updated on latest trends and advancements in power electronics</p></li></ul><p></p><p><strong>What we are looking for:</strong></p><ul><li><p>Currently pursuing a BS, MS, or PhD in Electrical Engineering, Computer Engineering, or a closely related field</p></li><li><p>Strong electronics fundamentals and project-based electronics experiences</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Organized with attention to detail</p></li><li><p>Experience or interest in high-voltage systems, power electronics, electric motors</p></li><li><p>Curious and motivated by first principles</p></li></ul><p></p><p><strong>Nice to have experience:</strong></p><ul><li><p>Coursework or experience in power electronics principles, including converter topologies, semiconductor devices, etc.</p></li><li><p>Familiarity with PCB design tools (Altium preferred)</p></li><li><p>Experience in simulation tools such as MATLAB, LTspice, Simulink, or similar</p></li><li><p>Hands-on experience with circuit prototyping and troubleshooting; comfort with lab instruments and small hand tools</p></li><li><p>Experience with scripting and/or software development (Python, C, etc.)</p></li></ul><p></p><p><strong>Why H3X</strong></p><p>Joining H3X means working on hard, meaningful problems with a skunkworks-style team that's laser-focused on building exceptional products. We're deeply vertically integrated and have a very tight design-build-test loop, which lets us move from concept to hardware at unmatched speed. We've gone from idea to shipping product in less than two months.</p><p>We're a small, highly skilled team where everyone carries real responsibility and shares an extreme ownership mentality. We stay focused on the critical path, keep bureaucracy to a minimum, and structure everything around delivering results. You'll learn and grow faster here than you would anywhere else.</p><p>You'll work alongside world-class engineers and builders who are pioneering electric motor technology at scale on some of the coolest programs in the industry, from supersonic aircraft to power generation for AI datacenters. If you want your contributions to be visible and your work to directly shape American reindustrialization, you'll feel at home here.</p><p></p><p><strong>Compensation &amp; Benefits</strong></p><ul><li><p>Salary/Hourly Compensation Range: $23 - $37/hr based on school level &amp; experience</p></li><li><p>Flexible hours (deliverable-based goals)</p></li><li><p>Relocation package</p></li><li><p>Monthly company events</p></li><li><p>Friday Team Lunches</p></li></ul><p></p><p><strong>Our Values</strong></p><p><strong>Be Relentless</strong> Never give up, persevere until the job is done. Run toward problems, not away from them. Grit is key.</p><p><strong>Gain insight through humility</strong> Approach every challenge with a learner’s mindset. Stay open to feedback, listen to others, and deepen your understanding through self-awareness. Put your ego aside and seek the truth in every discussion, especially when leading others.</p><p><strong>Distill &amp; Simplify</strong> Eliminate unjustified complexity and simplify wherever possible, whether in requirements, design, or execution. Use first principles thinking to distill every problem to its essence. Less is more.</p><p><strong>Find your flow</strong> Engage fully and work with intention. Find the rhythm and deep focus that lets you do your best work. Discover your Ikigai - where your strengths, passions, and purpose meet and drive your personal fulfillment and team success. That is when the magic happens.</p><p><strong>SEND (Solve, Evolve, Nail It, Deliver)</strong> Devise the best solution with the information at hand, test it, learn from it, and iterate quickly until you nail it. Nothing works perfectly the first time, but you should never hit the same issue twice. Stay laser-focused on solving customer problems and delivering solutions that create real value.</p><p></p><p><strong>Equal Opportunity Employer</strong></p><p>H3X is an equal opportunity-affirmative action employer and considers all qualified applicants for employment based on business needs, job requirements and individual qualifications, without regard to race, color, religion, sex, age, disability, sexual orientation, gender identity or expression, marital status, past or present military service or any other status protected by the laws or regulations in the locations where we operate.</p>",
+    "content_hash": "c7966071b1b16b248dbc81c53ea00501"
+  },
+  "fcb7d7e85682": {
+    "id": "fcb7d7e85682",
+    "title": "Forward Deployed Engineering Internship (Fall 2026 & Winter 2027)",
+    "title_raw": "Forward Deployed Engineering Internship (Fall 2026 & Winter 2027)",
+    "company": {
+      "slug": "composio",
+      "name": "Composio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "sf",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "composio",
+      "external_id": "6b742321-a1e6-46d7-88d1-103bae44df23"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/composio/6b742321-a1e6-46d7-88d1-103bae44df23/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T03:11:20.887Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.553Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Composio, we are building infrastructure that allows agents to communicate with the tools you use for work including Github, Gmail, Notion, Salesforce, etc. We are a lean team of engineers wrangling problems from context to search, that help us provide the most capable bridge between your agents and your tools.</p> <p>We raised a $25M Series A from Lightspeed with some incredible angels like Guillermo Rauch (CEO of Vercel), Dharmesh Shah (CTO of Hubspot), Gokul Rajaram. Beginning of this year we 3x our ARR with customers like Google, AWS, Mercor, Mintlify, Glean and Emergent.</p><p></p><p><em>running stateful agent infrastructure inside someone else's cluster is new territory. as our FDE intern, you'll help define what reliable, repeatable on-prem agent deployment looks like across customers running us in their own environments.</em></p><p></p><h3><strong>What you'll do?</strong></h3><ul><li><p>get hands-on with the on-prem lifecycle: helm charts, upgrades, the weekly release train, rollback paths.</p></li><li><p>help pull diverged customer forks back onto one supported chart, with guardrails.</p></li><li><p>contribute to onboarding so a new customer deploys in days, not weeks.</p></li><li><p>debug across the stack: temporal workflows, k8s init ordering, storage, auth-refresh pipelines.</p></li><li><p>support the security surface: CVE triage, patching, RCAs.</p></li></ul><h3><strong>\"Must haves\"</strong></h3><p><em>if you are very good, nothing is a must per-se</em></p><ul><li><p><strong>you've built in environments you don't fully control </strong>— homelab, VPC, self-hosted — and like figuring out why systems break.</p></li><li><p><strong>curious about kubernetes and helm;</strong> you want to go deep.</p></li><li><p><strong>ai native </strong>— you've built with language models and have opinions on agents and MCP</p></li><li><p><strong>comfortable in linux;</strong> you can write a clear RCA.</p></li><li><p><strong>human</strong> — you build trust and admit what you don't know.</p></li></ul><p>BONUS: temporal, Postgres, cloud secret managers, self-hosted delivery (kots/airgap), open source or hackathon wins.</p>",
+    "content_hash": "876dc993adf105eda9afa6197e827c77"
+  }
+}

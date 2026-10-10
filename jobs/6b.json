@@ -1,0 +1,82 @@
+{
+  "6b2be53f6734": {
+    "id": "6b2be53f6734",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "title_raw": "Software Engineering Intern (Summer 2026)",
+    "company": {
+      "slug": "spacial-ai",
+      "name": "Spacial AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "spacial",
+      "external_id": "67b76194-6cc0-4d37-a3e3-c21a14ff4a26"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-17T05:54:41.077Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:23.165Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Spacial:<br /></strong>At Spacial, we’re redefining how the built world gets designed, engineered, and approved. With decades of combined experience across architecture, engineering, and construction, we’ve felt the industry’s pain points firsthand — slow approvals, endless redlines, and unclear requirements that derail even the best designs.</p><p>We built Spacial to fix that. Our AI-powered platform automates structural and MEP engineering, transforming 2D plans into permit-ready, code-compliant drawings in days, not months.</p><p>This isn’t just optimization. It’s a new standard built to give the AEC industry speed, clarity, and control from day one. By connecting architects, engineers, builders, and homeowners on a single platform, Spacial eliminates friction, streamlines approvals, and accelerates how ideas become reality.</p><p><strong>Role Overview</strong><br />We are looking for a Software Engineering Intern to join Spacial for Summer 2026. This role is ideal for a student who is excited about building real product features, improving internal workflows, and working on applied AI initiatives. You will work closely with our team to develop features for our website, support workflow automation, and help with projects involving LLMs and AI model training.</p><p>This is a strong opportunity for someone who wants exposure to how a startup operates across multiple functions. The tools, workflows, and AI systems you help build may support a range of areas, including but not limited to go-to-market, operations, internal processes, and product development.</p><p><strong>What You’ll Do</strong></p><ul><li><p>Build, test, and ship features on the Spacial website</p></li><li><p>Help design and improve internal tools and workflow automations that increase speed and efficiency across teams</p></li><li><p>Support LLM- and AI-powered initiatives that can be applied across various parts of the business, including go-to-market, operations, customer workflows, and internal knowledge systems</p></li><li><p>Assist with training, evaluating, and improving AI models and prompts for practical business use cases</p></li><li><p>Collaborate with engineering, product, operations, and leadership on cross-functional projects</p></li><li><p>Prototype new tools and systems that help automate manual work and improve team productivity</p></li><li><p>Support debugging, QA, and deployment of new features and internal systems</p></li><li><p>Contribute to the technical implementation of experiments that improve how the company operates and serves customers</p></li></ul><p><strong>Example Projects</strong></p><ul><li><p>Building new user-facing features and improvements for the Spacial website</p></li><li><p>Creating internal dashboards, scripts, or lightweight tools to streamline team workflows</p></li><li><p>Supporting LLM-based workflows for research, operations, customer support, or go-to-market efforts</p></li><li><p>Improving data pipelines or processes that help teams work more efficiently</p></li><li><p>Experimenting with AI tooling to reduce manual tasks and support faster decision-making</p></li><li><p>Assisting with backend integrations and automation across internal systems<br />Qualifications</p></li></ul><p><strong>Qualifications</strong></p><ul><li><p>Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field</p></li><li><p>Strong programming skills in languages such as Python, JavaScript, or TypeScript</p></li><li><p>Interest in AI, LLMs, and practical software development</p></li><li><p>Comfortable working in a fast-paced startup environment</p></li><li><p>Strong problem-solving skills and attention to detail</p></li><li><p>Interested in gaining exposure to the many functions involved in building and running a startup</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience building web applications</p></li><li><p>Exposure to backend development and APIs</p></li><li><p>Experience with machine learning tools or AI model workflows</p></li></ul><p><strong>What You’ll Gain</strong></p><ul><li><p>Hands-on experience building real-world software features</p></li><li><p>Exposure to applied AI and LLM-based workflows</p></li><li><p>Opportunity to work closely with a startup team and contribute to meaningful projects</p></li><li><p>Mentorship from experienced engineers and operators</p></li></ul><p><strong>Location &amp; Duration</strong></p><ul><li><p>Summer 2026 (10–12 weeks)</p></li><li><p>Must be able to commute to our office in Palo Alto, CA</p></li></ul>",
+    "content_hash": "fe88899bba7324af793c744f8c3ceb45"
+  },
+  "6bff6177307c": {
+    "id": "6bff6177307c",
+    "title": "Applied AI Engineer Intern - Advancing Agent Quality",
+    "title_raw": "Applied AI Engineer Intern - Advancing Agent Quality",
+    "company": {
+      "slug": "brightstar-ai",
+      "name": "Brightstar.AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Miami",
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "brightstar-ai",
+      "external_id": "a72ffc7e-38ba-4d7c-8d08-cac6b9974024"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T16:02:37.080Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:02.264Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Role Type:</strong> External Research Affiliate / Think Tank Contributor<br /><strong>Location:</strong> South Florida preferred<br /><strong>Affiliation:</strong> Local university-based Masters or PhD researcher or postdoctoral AI researcher working under faculty direction<br /><strong>Organization:</strong> Brightstar.AI</p><p><strong>Role Summary</strong></p><p>Brightstar.AI is seeking a full-time or recently graduated <strong>Masters or PhD-level Applied AI Engineer Intern</strong> – <strong>Advancing Agent Quality </strong>with a strong research mindset, affiliated with a leading (South Florida) university, to contribute to its AI Think Tank and to the hands-on build-out of Brightstar’s proprietary AI systems. The intern will pair academic rigor with applied engineering: building the evaluation environments, automated raters, and diagnostic tooling that establish — with evidence rather than impression — whether an agent is reliable enough to put in front of operators, executives, and investors.</p><p>The first concrete assignment is the <strong>AI Twin Board</strong>, Brightstar’s proprietary board-simulation product, where the intern will help build the evaluation harness end to end: realistic task suites, calibrated LLM judge, failure-mode diagnostics, and the data flywheel that feeds improvements back into the agents themselves. The AI Twin Board is the starting point, not the full scope — as Brightstar’s AI portfolio expands, the same quality discipline will be applied to other agentic systems, internal platforms, and portfolio-company deployments.</p><p>Working in coordination with university professors and research leaders, the intern will also bring up-to-date knowledge of the fast-evolving AI landscape — especially <strong>large language models, reasoning systems, emerging model capabilities, and the societal implications of advanced AI</strong> — and help translate what current and next-generation systems may enable over the next six months to three years into Brightstar’s evaluation standards and Think Tank point of view.</p><p><strong>Key Responsibilities</strong></p><p>· Design, build, and scale realistic agent environments and task suites that reflect how Brightstar’s agents are actually used — board-level deliberation, research synthesis, diligence workflows, and multi-step tool use.</p><p>· Develop agentic LLM judge, calibrate them against human expert evaluation, and benchmark Brightstar agents against leading frontier models.</p><p>· Build trajectory-analysis frameworks and diagnostic tooling that root-cause agent failure modes — passivity, hallucination, persona drift, brittle tool execution — and feed fixes back into agent prompts, harnesses, and architecture.</p><p>· Enable agents to generate and iterate on their own verifiers (automated test cases, checklists, ground-truth sets) to support effective exploration and iterative problem-solving.</p><p>· Harvest multi-turn interaction trajectories into high-quality datasets and reward signals that support fine-tuning and post-training of the models Brightstar relies on.</p><p>· Contribute to the <strong>AI Twin Board</strong> build-out as the initial focus, and extend the same evaluation approach to other Brightstar AI initiatives as the roadmap grows.</p><p>· Contribute frontier AI research perspectives to the Brightstar.AI Think Tank as part of weekly review sessions and select strategic discussions.</p><p>· Review relevant research papers, conference findings, and publications from leading AI institutions and labs as inputs to the Think Tank knowledge base and to Brightstar’s evaluation methodology.</p><p>· Help interpret academic and technical developments for a business and investment audience, including implications for industry transformation and applied AI opportunities.</p><p><strong>Minimum Qualifications</strong></p><p>· Currently enrolled in a Masters or PhD program — or serving as a postdoctoral or early-career academic researcher — in <strong>Artificial Intelligence, Machine Learning, Computer Science, Computational Linguistics, or a related field</strong>.</p><p>· 1 years of research, project, or professional experience with LLMs or Agents.</p><p>· 2 year of experience with machine learning and deep learning.</p><p>· Experience in software engineering and cloud-based development.</p><p>· Experience with agent builders, e.g. OpenSDK, OpenAI Agent Builder, etc.</p><p>· Able to communicate complex technical concepts clearly to non-technical executive audiences.</p><p><strong>Preferred Qualifications</strong></p><p>· In-depth knowledge of machine learning algorithms, including supervised learning and reinforcement learning.</p><p>· Hands-on experience building LLM or agent evaluation systems — autoraters, human-evaluation pipelines, benchmark design, or evaluation infrastructure.</p><p>· Experience with multi-agent orchestration, retrieval-augmented generation, and tool-use / function-calling reliability.</p><p>· Active research or publications in <strong>LLMs, reasoning systems, model behavior, AI safety, or the societal impact of advanced AI systems</strong>.</p><p>· Strong research discipline, intellectual curiosity, and the ability to separate meaningful signal from AI hype.</p><p>· Affiliated with a (South Florida) university and working under the supervision of a faculty member or professor, or recent graduate.</p><p><strong>Why This Role Matters</strong></p><p>Brightstar.AI’s Think Tank is intended to provide <strong>systematic forward-looking intelligence</strong> on where AI may create value, where it may disrupt industries, and how firms can better anticipate what may work tomorrow rather than only what worked yesterday. Masters and PhD-level Applied AI Engineers are a critical part of that model, bringing academic depth, frontier perspective, and analytical rigor into the Think Tank’s quarterly insights and longer-term point of view. Moreover, this role extends beyond research to focus on the practical application of AI in terms of AI Twin Board technology, which we see as a key differentiator in our research approach and value creation methodology.</p>",
+    "content_hash": "8aea59bbced8440993ff9f0c7f5e7c0d"
+  }
+}

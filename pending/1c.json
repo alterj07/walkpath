@@ -1,0 +1,42 @@
+{
+  "1c18a38825f6": {
+    "id": "1c18a38825f6",
+    "title": "Internship 2027",
+    "title_raw": "Internship 2027",
+    "company": {
+      "slug": "cowboy-space",
+      "name": "Cowboy Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Kent, Washington",
+      "city": "Kent",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cowboyspace",
+      "external_id": "785956e4-2d57-4b5a-9621-c2e54e99ccc0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cowboyspace/785956e4-2d57-4b5a-9621-c2e54e99ccc0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T16:01:44.943Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.252Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Mission<br /></strong>Cowboy Space Corporation is solving the global energy crisis by building the infrastructure for abundant, resilient space-based solar energy. We are tackling one of humanity's most complex engineering challenges with a world-class team dedicated to delivering a revolutionary power platform. Cowboy Space Corporation is transforming how civilization powers, computes and connects — from orbit to Earth.</p><p></p><p><strong>Background<br /></strong>Cowboy Space Corporation is building the infrastructure to power and connect the orbital economy. Our modular, scalable satellites collect sunlight in Low Earth Orbit to enable multiple integrated applications: transmitting energy via infrared lasers (space-to-earth and space-to-space), powering on-orbit high-performance computing clusters (GPU/TPU), and providing secure, high bandwidth optical data transport.</p><p>Current energy and data systems rely on complex logistics and outdated infrastructure. Cowboy Space Corporation overcomes these challenges by enabling direct, on-demand, secure, and scalable energy distribution and data processing from space. This will revolutionize how we operate in orbit and on Earth, supporting the rapidly expanding space industrial base, ISAM (In-Space Servicing, Assembly, and Manufacturing) operations, remote regions, and military bases.</p><p>Baiju Bhatt founded Cowboy Space Corporation in 2024. Inspired by his father's work with NASA Langley Research Center, Baiju earned his B.S. in Physics and M.S. in Mathematics at Stanford before co-founding Robinhood, now a public company that has helped over 20 million Americans access the financial system. Cowboy Space Corporation has raised ~$365 million from Index Ventures, Interlagos, Construct Ventures, Breakthrough Energy Ventures, Andreessen Horowitz, NEA, and others.</p><p>This is an ambitious mission that demands extraordinary talent. Cowboy Space Corporation's team has worked at places like SpaceX, Blue Origin, Stoke Space, Astranis and NASA, and is based in San Carlos, CA. If you're ready to solve complex technical challenges and help build the most important energy company in the world, we want to hear from you.</p><p></p><p><strong>About the Role</strong></p><p>We're looking for a Mechanical/Aerospace Engineering Intern to join our team in Kent, Washington for Summer 2027. This is a hands-on opportunity to work alongside experienced spacecraft engineers on the mechanical systems that make our orbital solar power satellites possible — from structural design and thermal management to assembly, integration, and test. You'll contribute to real hardware that is on the path to flight, not a simulated project, while learning directly from engineers who have built spacecraft at SpaceX, Blue Origin, Stoke Space, Astranis, and NASA.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Support the design and analysis of structural, mechanical, or thermal subsystems using CAD tools and engineering analysis methods</p></li><li><p>Assist in developing and executing test plans for mechanical hardware, including structural, vibration, thermal, or deployment testing</p></li><li><p>Participate in the build, integration, and assembly of flight or engineering development hardware in the lab</p></li><li><p>Analyze test data and generate technical reports summarizing findings, anomalies, and design recommendations</p></li><li><p>Collaborate cross-functionally with electrical, software, and systems engineering teams to resolve integration issues</p></li><li><p>Support fabrication and machine shop activities, including reviewing drawings and coordinating with machinists or vendors</p></li><li><p>Help maintain engineering documentation, including drawings, test procedures, and design change requests</p></li><li><p>Present findings and progress updates to the engineering team throughout the internship</p></li></ul><p></p><p><strong>Basic Qualifications</strong></p><ul><li><p>Currently pursuing a B.S. or M.S. in Mechanical Engineering, Aerospace Engineering, or a related field</p></li><li><p>Coursework or hands-on project experience in mechanical design, structural analysis, or thermal systems (e.g., senior design, formula/rocketry/robotics teams, research lab work)</p></li><li><p>Proficiency with CAD software (e.g., SolidWorks, CATIA, or similar)</p></li><li><p>Strong fundamentals in statics, dynamics, materials, and/or thermodynamics</p></li><li><p>Demonstrated ability to work hands-on with hardware, not just simulation or theory</p></li><li><p>Strong ownership mentality, comfort with ambiguity, and ability to work effectively in a fast-paced startup environment</p></li><li><p>Available to work on-site in Kent, WA for the full duration of the Summer 2027 internship</p></li></ul><p></p><p><strong>Preferred Qualifications</strong></p><ul><li><p>Experience with spacecraft, aerospace structures, or other flight hardware programs (internship, co-op, or extracurricular project team)</p></li><li><p>Familiarity with finite element analysis (FEA) tools (e.g., ANSYS, Nastran)</p></li><li><p>Exposure to machining, fabrication, or hands-on prototyping</p></li></ul><p></p><p><strong>Compensation</strong></p><p>(Quarter-long internship) — Paid $1,800 weekly</p><p>Daily lunch in the office and a fully stocked kitchen with beverages and snacks</p><p></p><p><strong>ITAR Requirements</strong></p><p></p><p>Export Control Requirement: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), applicants must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about ITAR here.</p><p></p><p>Disclaimer</p><p></p><p>This job description is a summary of the primary duties and responsibilities of the job and position. It is not intended to be a comprehensive or all-inclusive listing of duties and responsibilities. Contents are subject to change at Cowboy Space Corp.’s discretion.</p><p></p><p>Cowboy Space Corp. is an equal employment opportunity employer. We consider individuals for employment or promotion according to their skills, abilities and experience. Cowboy Space Corp. is committed to complying with all applicable laws prohibiting discrimination based on race, color, religious creed, age, national origin, ancestry, physical, mental or developmental disability, sex (which includes pregnancy, childbirth, breastfeeding and medical conditions relating to pregnancy, childbirth or breastfeeding), veteran status, military status, marital or registered domestic partnership status, medical condition (including cancer or genetic characteristics), genetic information, gender, gender identity, gender expression, sexual orientation, as well as any other category protected by federal, state or local laws.</p>",
+    "content_hash": "3537629b82c48b9a4715ccfe3956fff8"
+  }
+}

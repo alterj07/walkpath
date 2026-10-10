@@ -1,0 +1,50 @@
+{
+  "4c772baccb88": {
+    "id": "4c772baccb88",
+    "title": "2027 New Graduate - Nuclear Engineer",
+    "title_raw": "2027 New Graduate - Nuclear Engineer",
+    "company": {
+      "slug": "radiant-industries",
+      "name": "Radiant Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "radiant-industries",
+      "external_id": "34c3d21e-5260-4bdd-8e7b-46e310e57c02"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/radiant-industries/34c3d21e-5260-4bdd-8e7b-46e310e57c02/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T21:29:28.752Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 105000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Radiant</strong></h3><p>Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. The company’s first reactor, Kaleidos, is a 1-megawatt, fail-safe microreactor that can be transported anywhere power is needed and run for up to 5 years without refueling. Portable nuclear power with rapid-deploy capability can replace similar-sized diesel generators and provide critical asset support for hospitals, data centers, remote sites, and military bases. Radiant’s unique, practical approach to nuclear development leverages modern software engineering to rapidly deliver safe, factory-built microreactors that use existing, well-qualified materials. Founded in 2020, Radiant is on track to test its first reactor at the Idaho National Laboratory this summer, with initial customer deliveries beginning in 2028.</p><p>Radiant is seeking a highly motivated Nuclear Engineer to join the team. </p><p><strong>Responsibilities:</strong></p><ul><li><p>Assist with nuclear design and analysis tasks, including shielding, neutronics, thermal, and fuel-related studies.</p></li><li><p>Support coupled neutronics and thermal calculations to refine system performance models.</p></li><li><p>Document methods, results, and findings in clear technical reports and presentations.</p></li><li><p>Collaborate with cross-functional teams and provide technical input as projects evolve.</p></li><li><p>Support the development of lower order shielding analysis models to develop rapid shielding design solutions.</p></li><li><p>Support the development of uncertainty propagation methodology and its execution on the Kaleidos Demonstration Unit</p></li><li><p>Perform criticality safety analysis for the Production Plant of Kaleidos reactors</p></li><li><p>Present a final project review at the end of internship to engineers and leadership</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>BS or MS in Mechanical Engineering, Nuclear Engineering, or a related discipline.</p></li><li><p>Graduating in December 2026 or Spring 2027.</p></li><li><p>Strong academic foundation in nuclear engineering principles (e.g., reactor physics, thermal-hydraulics, radiation shielding).</p></li><li><p>Proficiency in at least one programming language (Python, C++, C#, or similar).</p></li></ul><p><strong>Desired Qualifications:</strong></p><ul><li><p>Hands-on experience through coursework, research, projects, or labs in nuclear system design or analysis.</p></li><li><p>Familiarity with nuclear simulation codes (e.g., OpenMC, Serpent, MCNP, MOOSE, BISON, RELAP, CFD, Pronghorn, GRIFFIN).</p></li><li><p>Prior software development experience or exposure to version control, testing, or documentation practices.</p></li><li><p>Strong communication skills and ability to work in a collaborative team environment.</p></li><li><p>Enthusiasm for Radiant’s mission to rapidly deploy nuclear microreactors to provide clean energy in remote locations.</p></li></ul><h3><strong>Benefits and Perks</strong></h3><ul><li><p>Stock: Substantial incentive stock plan for all full-time employees.</p></li><li><p>Medical: 100% up to base silver level plan for employee + 50% dependents, offers up to Platinum plans.</p></li><li><p>One Medical: Sponsored memberships for employees and their dependents.</p></li><li><p>Vision: 100% top tier plan coverage + 50% for dependents.</p></li><li><p>Dental: 100% top tier plan coverage, orthodontia extra, 50% for dependents.</p></li><li><p>Voluntary life, accident, hospital, critical illness, commuter and FSA/HSA are offered as employee contributed benefits.</p></li><li><p>8-weeks of paid parental leave for all parents. Additional paid pregnancy leave for CA employees.</p></li><li><p>Daily catered lunch. Free snacks and drinks.</p></li><li><p>Flexible PTO policy. Remote workday allocation.</p></li><li><p>Company and team-bonding events, happy hours and in-person camaraderie.</p></li><li><p>Beautiful El Segundo headquarters close to the Pacific Ocean.</p></li></ul><p></p><p><strong>Total Compensation and Benefits</strong><br />Radiant compensates people for impact and invests in those who continue to raise the bar. Radiant’s new hire compensation package includes base salary, substantial equity grants, and comprehensive health benefits. Total compensation and level are determined through a rigorous evaluation of interview performance, experience, education, and qualifications, and are designed to support continued growth as scope, responsibility, and impact expand at Radiant.<br /><br />The best of today’s advanced reactor builders don’t wait for job postings. They join the winning team. If that’s you, contact us directly for immediate opportunities: recruiting@radiantnuclear.com.<br /><br /><em>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</em></p><p><em>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</em></p>",
+    "content_hash": "dc5625c20b3fdc2c7fc280604d55e31b"
+  }
+}

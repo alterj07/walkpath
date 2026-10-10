@@ -1,0 +1,82 @@
+{
+  "5804f18f78af": {
+    "id": "5804f18f78af",
+    "title": "Generalist Intern",
+    "title_raw": "Generalist Intern",
+    "company": {
+      "slug": "messa-inc",
+      "name": "Messa, Inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Americas",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "messa",
+      "external_id": "a7822443-df7a-424f-a209-fbd408e96f7b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/messa/a7822443-df7a-424f-a209-fbd408e96f7b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-21T00:54:25.051Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.543Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We're building the missing evaluation layer for hiring — structured, evidence-based interviews, AI-assisted and human-decided. Early customers include publicly listed companies and global startups. Pre-seed, backed by top-tier VCs, founded by a two-time exited founder.</p><p>We’re looking for an Intern in 3 months paid contract, with the possibility of extension (depending on business needs and performance)</p><p></p><h3><strong>What you'll do</strong></h3><p>Own real work from week one. The scope shifts with what the company needs, but expect:</p><ul><li><p>Optimizing our internal tools (Claude, Notion, Slack — whatever saves us hours)</p></li><li><p>Customer and market research: finding the 500 companies we should be talking to</p></li><li><p>GTM support: outbound, demo prep, CRM, anything that moves a deal</p></li><li><p>Product support: listening to user calls, surfacing patterns, writing up insights</p></li><li><p>Writing: briefs, docs, memos — sharp and clear</p></li></ul><h3><strong>Who you are</strong></h3><ul><li><p>Recent grad, current student, or 0–3 years into your career</p></li><li><p>You've built something you’re proud of: a side project, a community, a workflow, a campaign</p></li><li><p>Genuinely proficient with AI tools (not just using them, <em>building with</em> them)</p></li><li><p>You write clearly and think fast</p></li><li><p>Remote-ready: proactive, visible, no hand-holding needed</p></li><li><p>You want this to become full-time and you love startup mentality and agility</p></li></ul><p><strong>Nice to have:</strong> CS, design, or business background. Bilingual English/Spanish. Any HR Tech or recruiting exposure.</p><h3><br /><strong>Logistics</strong></h3><p>Remote, US-based. Bay Area a plus. <br />Trial: full-time, paid stipend competitive with top tech internships. <br />Full-time conversion: market salary + early equity + benefits.</p><p><em>Messa is an Equal Employment Opportunity and Affirmative Action Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All employment decisions are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, or disability status.</em></p>",
+    "content_hash": "98354d5e641442d39a102ae2f56915ab"
+  },
+  "58980d851c05": {
+    "id": "58980d851c05",
+    "title": "Working Student – Control System Support (f/m/d)",
+    "title_raw": "Working Student – Control System Support (f/m/d)",
+    "company": {
+      "slug": "focused",
+      "name": "Focused",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Darmstadt, DE",
+      "city": "Darmstadt",
+      "state": "DE",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "focused",
+      "external_id": "4803ce65-9552-4b20-9620-093eada92d4d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/focused/4803ce65-9552-4b20-9620-093eada92d4d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T07:14:36.301Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.081Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Focused Energy</h3><p>Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A — the largest fully secured Series A in the global fusion industry — we are scaling rapidly across multiple geographies.</p><p>Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.</p><p></p><h3>Your Role</h3><p>Focused Energy is seeking a <strong>Working Student - Control System Support (f/m/d)</strong> to join the control-system team within our Laser organization. In this role, you will work directly with our control systems engineers on the practical, hands-on aspects of building and testing the systems that operate our laser platforms. Your responsibilities will include implementation support, testing, debugging, documentation, and following up on issues until they are resolved. This position offers a unique opportunity to work closely with real experimental hardware and control-system engineering in a company tackling one of the most challenging problems in energy.</p><p></p><h3>What You'll Do</h3><ul><li><p>Support the control-system team with implementation, testing, debugging, and documentation of control-system components.</p></li><li><p>Help investigate issues affecting system progress and follow them through to resolution.</p></li><li><p> Maintain and improve control-system documentation, test records, interface descriptions, I/O lists, cable schedules, wiring documentation, test procedures, and commissioning records.</p></li><li><p>Work closely with electrical, mechanical, controls, and laser engineers to bring an instrumentation system for high energy lasers into reliable operation.</p></li><li><p>Support integration and verification activities for laser-related systems.</p></li><li><p>Contribute hands-on in a fast-moving, experimental engineering environment.</p></li><li><p>Proactively flag risks, blockers, and deviations early to your technical lead.</p></li></ul> <h3>Who You Are</h3><ul><li><p>Currently pursuing a <strong>Bachelor's or Master's degree </strong>in <strong>Electrical Engineering, Control Engineering, Automation, Mechatronics, Computer Engineering, Physics,</strong> or a related field.</p></li><li><p>Have a basic understanding of control systems, automation, electronics, or real-time systems, acquired through coursework or project experience.</p></li><li><p>Possess some programming experience with Labview, Python, .Net, MATLAB/Simulink, or similar tools.</p></li><li><p>Able to systematically break down and analyze technical problems.</p></li><li><p>Comfortable working with technical documentation and open to learning how to use version-control or issue-tracking tools.</p></li><li><p>Reliable, organized, proactive, and eager to learn in a hands-on environment.</p></li><li><p>Strong communication skills in English.</p></li></ul><p></p><h3>What We Offer</h3><ul><li><p>Innovative Technology &amp; Mission: Be part of a cutting-edge company working on groundbreaking research in clean energy and scientific discovery.</p></li><li><p>Career Development: We invest in our people. This is an opportunity to join an early, growing company at the forefront of new technology, where you’ll have the opportunity to develop and grow your career.</p></li><li><p>Collaborative Culture: Work with great people in a dynamic, international environment with top-tier scientists, engineers and professionals passionate about solving global challenges.</p></li><li><p>Ownership: Take ownership from day 1 and drive impact by making decisions, solving challenges and shaping the future of our company.</p></li><li><p>Your Success is our Success: We offer a competitive salary and company ownership in the form of stock options, giving you a direct stake in our success and ownership in what we build together.</p></li><li><p>Vacation Days: We support your work-life-balance by granting you 30 days of vacation per year.</p></li><li><p>Snacks and Drinks: Our office fridges are never empty. Enjoy our healthy snacks and drinks. Our Darmstadt office even offers a canteen with delicious lunch options daily.</p></li><li><p>Retirement Plan: If you decide for a private pension plan, we will finance 20% on top of your monthly contributions, plus loyalty incentives.</p></li><li><p>Equipment: We offer state-of-the-art Windows or Apple Laptops. In addition, you will receive a keyboard, mouse and headset so you are fully equipped from day 1.</p></li><li><p>Events: We organize regular events to foster team bonding, encourage collaboration, and build a strong, supportive company culture. Connect with colleagues across departments, share ideas, and have fun together, both in and outside of the workplace.</p></li><li><p>Mobility with NAVIT: We partner with NAVIT to support your flexible commuting needs—whether it’s a public transportation ticket, taxi rides or car-sharing you choose what fits your lifestyle.</p></li><li><p>Fitness with Wellhub: We care about your health. Get access to a wide range of gyms, fitness studios and wellness services across Europe through our partnership with Wellhub.</p></li></ul> <p><br />Focused Energy is an equal opportunity employer committed to creating an inclusive environment. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, Focused Energy will consider for employment qualified applicants with arrest and conviction records.</p><p>Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. </p>",
+    "content_hash": "c59735fbce3784bd8562adbb3d584d4b"
+  }
+}

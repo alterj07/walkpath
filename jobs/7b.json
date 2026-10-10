@@ -1,0 +1,122 @@
+{
+  "7b269b1a9b56": {
+    "id": "7b269b1a9b56",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "conductorai",
+      "name": "ConductorAI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "conductorai",
+      "external_id": "d6a1b110-10ad-4b5e-83a0-88c5fd7bc891"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T16:27:43.596Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.647Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Introduction</h3><p>We value candidates who have significant experience with managing complexity, working independently, and are motivated by hard problems.</p><p></p><h3><strong>What We Offer</strong></h3><ul><li><p>The ability to have real impact on mission-critical workflows</p></li><li><p>The chance to use state-of-the-art tech to solve novel problems with mission partners</p></li><li><p>The opportunity to define your role through time as we grow</p></li><li><p>Competitive salary and equity upside with annual merit refreshes based on impact</p></li></ul><p><strong>Position Overview</strong></p><p>As a Software Engineer Intern, you’ll work alongside our engineering team to build ConductorAI’s core application: a user-facing web platform for large-scale document search, review, and AI-powered workflows. You’ll contribute to real production systems, including document-processing pipelines, agentic workflow execution, database scaling, and applications that push state-of-the-art LLMs to their limits.</p><p>This is a product engineering role as much as a systems role. You’ll help design and build intuitive interfaces for complex, document-centric workflows and see how the software you build is used to solve real problems across defense, government, and regulated commercial environments.</p><p>You won’t be confined to low-stakes intern projects. You’ll be trusted with meaningful work on our product’s critical path and given the opportunity to own features from problem definition through implementation. You’ll work closely with experienced engineers who will provide mentorship and technical guidance while giving you the autonomy to experiment, learn quickly, and take on increasingly challenging problems.</p><p>We’re looking for interns with strong computer science fundamentals, a generalist mindset, and the curiosity and drive to learn new technologies quickly. You’ll join a small, tight-knit technical team where interns work directly alongside full-time engineers and have meaningful visibility into how an early-stage company builds products, makes technical decisions, and scales.</p><p>This internship is intended to be a pathway to future opportunities at ConductorAI. Strong performers may have the opportunity to return for additional internships or co-ops or join the team full-time after graduation.</p><p><br /><strong>Location</strong></p><p>This internship is open to candidates based in the US, with a strong preference for candidates who can work from our <strong>NYC or DC offices</strong> for the summer.</p><h3><strong>Key Responsibilities</strong></h3><ul><li><p>Build and improve search, review, and AI-powered agents for accuracy and consistency</p></li><li><p>Build polished, reliable user-facing features in our Next.js/React application</p></li><li><p>Develop backend APIs, data models, and workflow execution paths that support responsive frontend experiences</p></li><li><p>Write high-quality, maintainable code alongside a small team of experienced engineers</p></li><li><p>Contribute to the design and architecture of production systems</p></li><li><p>Own meaningful features and technical problems from initial idea through implementation</p></li><li><p>Work closely with engineers, product teammates, and users to understand problems and help translate them into product improvements</p></li><li><p>Learn quickly, ask thoughtful questions, and take increasing ownership as you become familiar with our product and codebase</p></li></ul><h3><strong>Qualifications</strong></h3><ul><li><p>US citizenship required; this role supports work subject to US government contract obligations and export control regulations (ITAR/EAR)</p></li><li><p>Currently pursuing or recently completed a degree in Computer Science, Computer Engineering, or a related technical field</p></li><li><p>Strong computer science fundamentals and demonstrated software engineering ability through internships, coursework, research, projects, or other experience</p></li><li><p>Proficiency in at least one modern programming language, with an ability and willingness to work across our Python and TypeScript/React stack</p></li><li><p>Strong problem-solving skills and an ability to learn unfamiliar technologies quickly</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Product-minded approach with an interest in building software that is intuitive and useful</p></li><li><p>Proactive, high-ownership mindset and willingness to tackle challenging, ambiguous problems</p></li></ul><h3><strong>Nice to Haves</strong></h3><ul><li><p>Previous software engineering internship or meaningful experience building and shipping software</p></li><li><p>Experience with Python, TypeScript, React, or Next.js</p></li><li><p>Experience building with LLMs, AI agents, RAG, or other AI engineering techniques</p></li><li><p>Experience with backend systems, APIs, databases, or distributed systems</p></li><li><p>Familiarity with document processing or search/retrieval systems</p></li><li><p>Experience contributing to open-source software, research, technical clubs, hackathons, or substantial personal projects</p></li><li><p>Experience working in a startup or other fast-paced technical environment</p></li><li><p>Interest in defense, intelligence, national security, or other complex operational domains</p></li><li><p>Active or current security clearance</p></li></ul>",
+    "content_hash": "7b2afe95915561d79d3e961902f017dd"
+  },
+  "7b71a3633692": {
+    "id": "7b71a3633692",
+    "title": "Developer Intern",
+    "title_raw": "Developer Intern",
+    "company": {
+      "slug": "crest-industries",
+      "name": "Crest Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Pineville, Louisiana",
+      "city": "Pineville",
+      "state": "LA",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "crestoperations",
+      "external_id": "e012721c-e731-483d-a4e3-1a240c48bfbd"
+    },
+    "apply_url": "https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T17:16:25.345Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:50:28.671Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Come join our team at Crest Operations!<br />With companies located across the United States, Crest Industries is committed to bringing together the best people and the right resources to meet today’s challenges and deliver the innovations of tomorrow. With significant recent growth and company acquisitions, Crest more than ever is a catalyst for change, using a little grit and a lot of determination to drive a forward movement for our customers and our employees.\nCome join our team at Crest Operations!<br />With companies located across the United States, Crest Industries is committed to bringing together the best people and the right resources to meet today’s challenges and deliver the innovations of tomorrow. With significant recent growth and company acquisitions, Crest more than ever is a catalyst for change, using a little grit and a lot of determination to drive a forward movement for our customers and our employees.<br />\n<h3>Position Summary</h3>\n<p>The Developer Intern will help design, develop, and improve business applications, workflows, automations, and reporting solutions using Microsoft's Power Platform ecosystem.</p>\n<p>The intern will work directly with business stakeholders and enterprise technology teams to solve operational challenges through low-code development while learning software development lifecycle practices, business process analysis, application architecture, and automation design.</p>\n<p>This role is ideal for students interested in:</p>\n<ul>\n<li>Software Development</li>\n<li>Business Application Development</li>\n<li>Low-Code Development</li>\n<li>Solution Architecture</li>\n<li>Data Analytics</li>\n<li>Digital Transformation</li>\n<li>Business Systems Engineering</li>\n</ul>\n<h3>Responsibilities</h3>\n<ul>\n<li>Design and develop Power Apps applications</li>\n<li>Create Power Automate workflows and integrations</li>\n<li>Build Power BI dashboards and reports</li>\n<li>Participate in requirements gathering and business analysis</li>\n<li>Design data models and SharePoint-based solutions</li>\n<li>Assist with application testing and quality assurance</li>\n<li>Document solutions and technical designs</li>\n<li>Develop automation opportunities that improve business efficiency</li>\n<li>Support application lifecycle management and deployment activities</li>\n<li>Participate in solution architecture reviews</li>\n</ul>\n<h3>Technologies Exposure</h3>\n<ul>\n<li>Power Apps</li>\n<li>Power Automate</li>\n<li>Power BI</li>\n<li>Microsoft Dataverse</li>\n<li>SharePoint Online</li>\n<li>Microsoft 365</li>\n<li>SQL</li>\n<li>Azure Services</li>\n<li>REST APIs</li>\n<li>AI Builder</li>\n</ul>\n<h3>Preferred Qualifications</h3>\n<ul>\n<li>Pursuing a degree in Computer Science, Information Systems, Data Analytics, CIS, or related field</li>\n<li>Experience with programming concepts</li>\n<li>Understanding of databases and data structures</li>\n<li>Strong analytical thinking skills</li>\n<li>Interest in software development and automation</li>\n</ul>\n<h3>What Students Will Learn</h3>\n<ul>\n<li>Application development lifecycle</li>\n<li>Enterprise software development</li>\n<li>Business process automation</li>\n<li>Data integration</li>\n<li>API connectivity</li>\n<li>Solution architecture</li>\n<li>User experience design</li>\n<li>Agile development practices</li>\n</ul>\n\nWe know how difficult it is to <i><b>manage change and solve problems</b></i>. Continuous improvement is hard work. Founded in 1958, we’ve seen our share of struggles. We’ve failed. We’ve learned and we’ve adapted. We will <i><b>continue to grow and evolve</b></i> to meet our customers’ ever-changing needs.  To do this, there are three forces that we leverage that will not change: <i><b>Our Solid Foundation, Innovation, and The Right People.</b></i>  When we bring these three forces together, we get a <i><b>forward movement</b></i>. Our logo reflects our respect for the past and our legacy but also <i><b>supports where our industries are going.</b></i><br /><b>THE RIGHT PEOPLE</b>We hire people who share our values and we put <i><b>the right people in the right seats</b></i>, with the <i><b>skill sets that fit our customers’ challenges</b></i> and we work hard to <i><b>develop our people</b></i>. Our people come to work because it feels like home, no matter where they are from. We <i><b>place each other above egos</b></i> because, at Crest, our coworkers are like your family. And like family, we believe in <i><b>honest and clear communication</b></i> so that <i><b>the path towards our customers’ success is a united effort</b></i>.<br /><br /><br /><i>Crest Operations is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information.</i><br /><i>Crest Operations is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request information regarding reasonable accommodation, contact your Human Resource Business Partner.</i><br />Equal Opportunity Employer/Protected Veterans/Individuals with DisabilitiesCrest Operations will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)<br />Part of the CREST INDUSTRIES family of companies.",
+    "content_hash": "a8357a082b2a302a9713c4025befb7ee"
+  },
+  "7bcb73b2ed66": {
+    "id": "7bcb73b2ed66",
+    "title": "2027 BT RISE Internship - Information Security",
+    "title_raw": "2027 BT RISE Internship - Information Security",
+    "company": {
+      "slug": "barnes-and-thornburg",
+      "name": "Barnes & Thornburg",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Indianapolis",
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "barnes",
+      "external_id": "c77ef2c2-6aeb-4350-9fd4-842931c14177"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T20:17:25.702Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.374Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Fall 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Summary:</strong></p><p>Under the general supervision of the Department Director and assigned mentor, and according to established Firm policies and procedures, the Intern performs a variety of functional and administrative duties for the Firm. The Intern will work collaboratively with department team members on specific short and long-term projects related to their field of study and firm priorities with a focus on all aspects of Information Security, including Cyber Security. Activities will be assigned by the Department Director based on business needs and learning opportunities for the Intern.</p><p></p><p><strong>Internship Eligibility: </strong></p><p>The BT R.I.S.E. Internship Program is designed to introduce students in specified fields of study to the day-to-day operations of a law firm. Candidate’s skill, knowledge, aptitude, and education will be considered during the selection process. </p><p>To be eligible candidates must:</p><ul><li><p>Entering their sophomore, junior, or senior year in the Fall of 2027.</p></li></ul><ul><li><p>Be available to participate for 10 consecutive weeks.</p></li></ul><ul><li><p>Enrolled in a 2-4 year undergraduate degree program at time of internship</p></li></ul><p></p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Support assigned department to deliver meaningful work that advances business initiatives related to the implementation of Information Security initiatives for the firm.</p></li><li><p>Collaborate with work team members on focused projects, data input, data analysis, process documentation, and recordkeeping.</p></li><li><p>Participate in internal and external meetings to develop an aptitude for their field of study and business acumen.</p></li><li><p>Observe confidentiality in all client and Firm matters.</p></li><li><p>Collaborate with other departments and summer interns, where applicable</p></li><li><p>Other duties as assigned.</p></li></ul><p>The intern must be able to perform all essential job duties and responsibilities of this position satisfactorily and as outlined, with or without reasonable accommodation. Reasonable accommodation requests may be accommodated, absent undue firm hardship.</p><p><strong>Qualifications:</strong></p><ul><li><p>Currently enrolled in an accredited college/university program to receive college course credits.</p></li><li><p>Pursuing a degree in fields of study that aligns with the following departments: Human Resources, Accounting, Marketing, Information Technology, and Legal Operations.</p></li><li><p>Ability to concentrate and pay close attention to detail when performing work functions.</p></li><li><p>Ability to proofread typed material for contextual, grammatical, typographical or spelling errors.</p></li><li><p>Strong interpersonal skills necessary in order to communicate in person, by email, phone, and virtually.</p></li><li><p>Ability to follow instructions effectively from a diverse group of clients, attorneys, and staff.</p></li><li><p>Provide timely and accurate information with ordinary courtesy and tact.</p></li><li><p>Ability to operate standard office equipment, including personal computer,</p></li></ul><p>      copiers, phones, and scanning equipment.</p><ul><li><p>Ability to work collaboratively and independently.</p></li></ul><p>This job description is intended to describe the general requirements of this position. As such, it is not designed to cover or contain a comprehensive listing of job duties or responsibilities required in this job. Subject to firm needs, duties and responsibilities of this position may change at any time, on a temporary or permanent basis, and with or without notice</p><p><strong>Working Conditions:</strong></p><ul><li><p>Onsite work required.</p></li><li><p>Normal office environment with little exposure to excessive noise, dust, temperature and the like.</p></li><li><p>Specific work hours for this position will be assigned; generally, core business hours. The requirements may vary occasionally, depending on the needs of the firm.</p></li></ul><p>The above is intended to describe the general content of and requirements for the performance of this job. It is not to be construed as an exhaustive statement of essential functions, responsibilities or requirements.</p><p><strong>Equal Employment and Opportunity Statement:</strong></p><p>Barnes &amp; Thornburg is committed to equal employment opportunity in both principle and as a matter of policy. We will recruit, hire, train, promote, compensate and provide benefits to all applicants and employees without regard to ancestry, sex, race, color, ethnicity, national origin, gender, age, religion, religious creed, mental and/or physical disability, medical condition, military and/or veteran’s status, genetic information, marital status, sexual orientation, gender identity and/or expression, or any other basis protected by applicable federal, state and local laws. This policy applies to all recruiting, hiring, promotions, upgrades, layoffs, compensation, benefits, terminations and all other privileges, terms and conditions of employment. The firm complies fully with all federal, state and local equal employment opportunity laws.</p>",
+    "content_hash": "ede8f3cc08773cea1d77a3de486065f0"
+  }
+}

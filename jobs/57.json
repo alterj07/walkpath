@@ -1,0 +1,47 @@
+{
+  "573a27239047": {
+    "id": "573a27239047",
+    "title": "Software Engineering Internship (Summer 2027)",
+    "title_raw": "Software Engineering Internship (Summer 2027)",
+    "company": {
+      "slug": "amca",
+      "name": "AMCA",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amca",
+      "external_id": "4425120009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T22:04:08.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:59.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>There was a time when all of America believed that the future of the physical world could be radically different. The engineers of the mid-1900s put a man on the moon in eight years, designed and built planes and submarines from scratch in under three, and conceived of building things we wouldn’t even be able to dream up today.</p>\n<p>Today, the last of the engineers who imagined and built these systems are retiring. As they go, we lose not only the engineering knowledge gained from their decades of imagination and trial-and-error, but also the spirit that made that imagination possible.</p>\n<p>Amca is working day-in and day-out to restore America’s ability to engineer anything that our critical systems depend on, and reinvigorate the cycle of creation that allows imagination to shape physical reality. We rapidly develop and manufacture new critical components and subsystems required to build and sustain the planes, military vehicles, and core infrastructure America needs. By restoring the capability of our antiquated supply chains, we increase the country’s capacity to imagine and realize new systems, and make a physical world that looks very different from today.</p><h3>Software Engineer</h3>\n<h3><strong>Overview</strong></h3>\n<p>Amca is hiring software engineering interns to build the systems that turn decades of engineering knowledge into structured, usable data. The work broadly falls into two areas: software that digitizes, labels, and organizes millions of technical drawings, designs, and engineering documents, and a custom software suite that makes engineers and factory teams faster across the factories and Protoshop.</p>\n<p>Interns work on real production problems with real users on the other end. The tools built here shape how quickly hardware gets designed, built, and shipped.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Build pipelines that ingest, digitize, label, and structure large volumes of technical drawings, CAD files, and engineering documentation</li>\n<li>Develop internal tools that speed up engineering and manufacturing workflows across the factories and Protoshop, using data we've codified from our acquired factories or by observing the current practices of our factories. </li>\n<li>Design and ship full stack products and features</li>\n<li>Work directly with engineers and production teams to understand their bottlenecks, turn them into software, measure the software’s impact, and improve product</li>\n<li>Improve the performance, reliability, and scalability of existing systems</li>\n<li>Write clean, tested, well-documented pseudo-code and code and take part in code review</li>\n</ul>\n<h3><strong>Basic Qualifications</strong></h3>\n<ul>\n<li>Currently pursuing a bachelor's or master's degree in computer science, computer or software engineering, mathematics, physics, or a related field</li>\n<li>Understand and experience using storage systems, cloud infrastructure, and front-end frameworks</li>\n<li>Learns quickly, picks up unfamiliar tools without hand-holding, can understand and write detailed documentation, and takes ownership of everything you build</li>\n<li>Communicates clearly with both technical and non-technical teammates on plans, updates, and blockers</li>\n</ul>\n<h3><strong>Preferred Skills and Experience</strong></h3>\n<ul>\n<li>Strong fluency in using AI coding tools to build and ship efficiently, but does not rely on these tools to write code, nor trust these tools entirely to write flawless code. You are responsible for understanding every line an agent writes. </li>\n<li>Strong git habits, especially on shared repos, including clear commits, branching, pull requests, reviews</li>\n<li>Experience shipping full-stack features or applications to production, through an internship, project team, or personal project</li>\n<li>Proficiency in one or more of TypeScript, React, Go, Python, or SQL</li>\n</ul>Hourly Pay Range$30—$50 USD<p><em>This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a US person as: any individual who is granted U.S. citizenship; or. any individual who is granted U.S. permanent residence (\"Green Card\" holder); or. any individual who is granted status as a \"protected person\" under 8 U.S.C 1324b(a)(3).</em></p>\n<p><em>The Advanced Manufacturing Company of America prohibits discrimination or harassment based on the following categories: race, color, religion, religious creed (including religious dress and grooming practices), national origin, ancestry, citizenship, physical or mental disability, medical condition (including cancer and genetic characteristics), genetic information, marital status, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender, gender identity, gender expression, age (40 years and over), sexual orientation, veteran and/or military status, protected medical leaves (requesting or approved for leave under the Family and Medical Leave Act or the California Family Rights Act), domestic violence victim status, political affiliation, and any other status protected by state or federal law.</em></p>",
+    "content_hash": "f0b6d927e7ccbd108c2bd0ac46a3333c"
+  }
+}

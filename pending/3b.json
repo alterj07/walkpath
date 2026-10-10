@@ -1,0 +1,47 @@
+{
+  "3b70432119b4": {
+    "id": "3b70432119b4",
+    "title": "Software Engineer, New Grad",
+    "title_raw": "Software Engineer, New Grad",
+    "company": {
+      "slug": "nooks",
+      "name": "Nooks",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "nooks",
+      "external_id": "311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-05T20:25:44.976Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.964Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 200000,
+      "max": 200000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About </strong><strong>Nooks.ai</strong><strong>:</strong></h3><p>Nooks is an applied AI lab building the Agent Workspace for GTM. We design AI agents that operate across the full sales action set, from <em>account strategy</em> to <em>prospect research</em> and <em>outreach</em>. Building 0→1 has never been easier, but selling at the speed of the market remains the last frontier for AI. Our mission is to 10x every seller by automating the busywork so they can focus on what humans do best: closing deals.</p><p></p><p>Today, over 1,500 customers run on Nooks, including Notion, HubSpot, Cursor, and Rippling. We’ve raised $70M+ from top VCs like Kleiner Perkins, which made its first sales-tech investment in over a decade with us. Since then, we’ve tripled ARR each year for 3 years running and grown a high-caliber team turning the art of sales into a scalable science.</p><p></p><h3>Build the future of AI-powered work.</h3><p>At Nooks, we're building AI agents that automate one of the most important functions in every business: revenue generation.</p><p>Our products combine large language models, voice AI, and real-time collaboration to help sales teams prospect smarter, engage customers more effectively, and spend more time selling. Every day, thousands of users rely on Nooks to do work that used to take entire teams.</p><p>We're still early, which means engineers have an outsized impact. You'll ship code in your first week, own projects from idea to production, talk directly with customers, and help define what AI-native enterprise software looks like.</p><p>If you want to spend your early career solving hard technical problems, building products people genuinely love, and working alongside a team that moves quickly without sacrificing quality, we'd love to meet you.</p><p></p><h3>What You'll Do</h3><p>As a new graduate engineer, you'll work across the stack and collaborate closely with product, design, and customers to build features that ship quickly and make a measurable impact.</p><p><strong>You'll:</strong></p><ul><li><p>Design, build, and ship full-stack features using React, TypeScript, Node.js, and Python.</p></li><li><p>Own projects from initial idea through deployment, monitoring, and iteration.</p></li><li><p>Work directly with customers to understand problems and turn feedback into product improvements.</p></li><li><p>Build systems that power AI agents, real-time collaboration, and enterprise-scale workflows.</p></li><li><p>Improve the performance, reliability, and scalability of our platform.</p></li><li><p>Write clean, maintainable code and contribute thoughtful code reviews.</p></li><li><p>Learn from experienced engineers while taking on meaningful ownership from day one.</p></li></ul><h3>What We're Looking For</h3><p>We're much more interested in how you think than whether you've used every technology in our stack.</p><p>You'll likely be a great fit if you:</p><ul><li><p>Are completing or recently completed a Bachelor's or Master's degree in Computer Science or a related technical field.</p></li><li><p>Have strong computer science fundamentals, including algorithms, data structures, and software design.</p></li><li><p>Have built software through internships, research, open source, startups, or personal projects.</p></li><li><p>Love solving difficult technical problems and learning new technologies.</p></li><li><p>Are excited to work across the stack. Experience with React, TypeScript, Node.js, or Python is a plus, but not required.</p></li><li><p>Thrive in fast-moving environments where engineers take ownership and make product decisions.</p></li><li><p>Enjoy collaborating with teammates and communicating technical ideas clearly.</p></li><li><p>Can work from our San Francisco office at least three days each week.</p></li></ul><h3>Why Join Nooks?</h3><p>Early in your career, the environment you choose matters more than almost anything else.</p><p>At Nooks, you'll:</p><ul><li><p>Ship production code from your first week.</p></li><li><p>Build AI products used every day by leading sales organizations.</p></li><li><p>Work directly with experienced founders and engineers in a highly collaborative environment.</p></li><li><p>Own meaningful technical problems instead of small pieces of large projects.</p></li><li><p>Help define one of the fastest-moving categories in enterprise software.</p></li></ul><p><strong>Your first few months at Nooks</strong></p><p>You'll ship your first production change during your first week. From there, you'll progressively take ownership of larger features while pairing closely with experienced engineers, learning our AI infrastructure, and working directly with customers. By the end of your first few months, you'll have shipped multiple customer-facing features and be owning projects end-to-end.</p><p>That's the kind of detail that top candidates remember, and it's much more compelling than another bullet saying \"build scalable applications.\" It tells applicants what success actually looks like.</p><p></p><h3>Compensation &amp; Benefits</h3><p>Compensation for this role includes competitive base salary, meaningful equity, and comprehensive benefits. Our benefits package includes medical, dental, vision, life, and disability insurance, hybrid work, and unlimited paid time off. Benefits may vary based on location and are subject to change.</p><p>The base salary range for this role is <strong>$200,000</strong>, in addition to equity and benefits.</p><p><em>Nooks is an equal opportunity employer and federal contractor or subcontractor. Consequently, the parties agree that, as applicable, they will abide by the requirements of 41 CFR 60-1.4(a), 41 CFR 60-300.5(a) and 41 CFR 60-741.5(a) and that these laws are incorporated herein by reference. These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. These regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. The parties also agree that, as applicable, they will abide by the requirements of Executive Order 13496 (29 CFR Part 471, Appendix A to Subpart A), relating to the notice of employee rights under federal labor laws.</em></p><p></p><h3><strong>Equal Employment Opportunity Statement</strong></h3><p>Nooks is an equal opportunity employer committed to fostering a diverse and inclusive workforce. We believe in providing equal employment opportunities to all individuals regardless of race, color, religion, gender, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other characteristic protected by law.  </p><p>Nooks does not discriminate in hiring, promotion, compensation, or any other employment practices, and we are committed to ensuring a workplace that is free from discrimination, harassment, and retaliation. We encourage individuals from all backgrounds to apply and join our team.</p>",
+    "content_hash": "288ef155c7b0937dede9335195d29189"
+  }
+}

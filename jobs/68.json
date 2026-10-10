@@ -1,0 +1,92 @@
+{
+  "686aa8407657": {
+    "id": "686aa8407657",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "title_raw": "Software Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "niantic-spatial",
+      "name": "Niantic Spatial",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "niantic-spatial",
+      "external_id": "898b2da7-03cd-486e-96e3-3430a148c8fd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T15:54:27.940Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.810Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 48,
+      "max": 70,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Niantic Spatial</strong></p><p>At Niantic Spatial, we're building the future of physical AI. Powered by a proprietary database of over 30 billion posed images, our groundbreaking mapping technology unlocks a new dimension of interaction and spatial intelligence that helps both humans and machines better understand, represent, navigate, and engage with the real environment.</p><p>Our reconstruction technology captures environments with geometric accuracy and extreme detail from any standard camera, and our Visual Positioning System delivers precise positioning almost anywhere in the world. We serve customers across robotics, the public sector, and energy and industrial markets - building for the 80% of economic activity that takes place beyond our screens.</p><p></p><p><strong>About the Role</strong></p><p>We're hiring software engineering interns for Summer 2027; each intern will be embedded in a specialized track. You won't be shadowing or running demos - you'll own a real problem on a small team, write code that ships to production, and work on systems and datasets that don't exist anywhere else: petabyte-scale 3D reconstructions, foundation models trained on physical space, and positioning infrastructure deployed globally.</p><p><strong>Select your primary track when you apply. </strong>We'll match you based on fit; switching tracks after matching is uncommon but possible if there's strong mutual interest.</p><p></p><p><strong>Track 1: ML /AI Infrastructure</strong></p><p>You'll build the systems that make large-scale physical AI possible. Not just run experiments, but design the distributed training pipelines, data ingestion infrastructure, and GPU optimization layers that let us train foundation models on billions of images and 3D data points.</p><ul><li><p><strong>Model Training with PyTorch — </strong>Implement, train, and evaluate model architectures in PyTorch, iterating on data loaders, loss functions, and training loops to improve model quality and convergence on real production datasets.</p></li><li><p><strong>Training Infrastructure — </strong>Design and scale distributed training pipelines for our Large Geospatial Model, handling petabyte-scale spatial data across multi-GPU and multi-node environments.</p></li><li><p><strong>Data Pipelines — </strong>Build high-throughput ingestion and preprocessing pipelines that transform raw imagery and 3D point clouds into training-ready datasets.</p></li><li><p><strong>Observability — </strong>Instrument training runs with metrics, dashboards, and alerting so engineering teams can debug and iterate faster.</p></li></ul><p><em>Best for: Students obsessed with the intersection of ML and systems - PyTorch, distributed computing (Ray, Spark), CUDA, and high-performance architecture.</em></p><p></p><p><strong>Track 2: Product Engineering</strong></p><p>You'll build the product APIs and services that sit behind our spatial computing products, helping customers manage projects, organize spatial data, upload content, and turn it into useful experiences. You'll work across backend and product engineering to take features from design to production, with a focus on clear interfaces, reliable workflows, and software that other teams can build on.</p><ul><li><p><strong>Product Features —</strong> Build and ship features for managing organizations, projects, spatial data, and content.</p></li><li><p><strong>API Design —</strong> Design the interfaces that connect our products, web and mobile applications, and developer tools, making them consistent, well-documented, and easy to use.</p></li><li><p><strong>Workflows &amp; Integrations —</strong> Connect the steps behind core product workflows, from uploading and processing data to making results available to users and applications.</p></li><li><p><strong>End-to-End Delivery —</strong> Collaborate with engineers across frontend, backend, and infrastructure to launch features and learn from real customer use.</p></li></ul><p><em>Best for: Students who enjoy building products from the backend up and interested in how APIs and data power user experiences. Motivated by shipping software that real customers and developers use.</em></p><p></p><p><strong>Track 3: Backend Systems</strong></p><p>You'll build and harden the high-throughput services that power our Visual Positioning System and reconstruction platform - processing vast volumes of visual data and delivering centimeter-level positioning to users and robots globally.</p><ul><li><p><strong>Service Development — </strong>Design and ship microservices in Go or C++ that sit in the critical path of our positioning and reconstruction APIs.</p></li><li><p><strong>Data Ingestion — </strong>Build and optimize pipelines that ingest, validate, and route large volumes of visual and sensor data from diverse hardware sources.</p></li><li><p><strong>Performance &amp; Reliability — </strong>Profile service bottlenecks, improve latency, and improve system observability through structured logging, metrics, and distributed tracing.</p></li><li><p><strong>API Design — </strong>Contribute to internal and external API design, writing clean, well-tested, production-grade interfaces that other teams and customers depend on.</p></li></ul><p><em>Best for: Pragmatic engineers who care about correctness, performance, and clean systems design and want to see their code serving real traffic within weeks.</em></p><p></p><p><strong>What You'll Bring (All Tracks)</strong></p><ul><li><p>Currently pursuing a BS or MS in Computer Science, Robotics, Electrical Engineering, Systems Engineering, Computer Vision, or a related field.</p></li><li><p>TypeScript, Python, C++ or Go experience for Infrastructure and Backend tracks.</p></li><li><p>Genuine curiosity about how AI interacts with the physical world - 3D reconstruction, spatial reasoning, or real-world positioning systems.</p></li><li><p>Ability to work independently, debug ambiguous problems, and communicate clearly with a small team.</p></li><li><p>Available for 4 days per week in our San Francisco office for the full 12-week internship.</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with cloud infrastructure - Kubernetes, AWS or GCP, Docker, Terraform.</p></li><li><p>Familiarity with CUDA or GPU parallelization.</p></li><li><p>Open-source contributions to libraries like PyTorch, OpenCV, COLMAP, or similar.</p></li><li><p>Prior work in robotics, autonomous systems, XR, or spatial computing (coursework, research, or projects acceptable)</p></li><li><p>Exposure to Gaussian Splatting, NeRF, or 3D reconstruction techniques</p></li><li><p>Familiarity with REST APIs</p></li><li><p>Experience with SQL or other relational databases</p></li><li><p>Experience using AI-assisted development tools (Claude, ChatGPT, etc.) to write, debug, and improve code</p></li></ul><p></p><p><strong>Compensation &amp; Benefits</strong></p><p>The expected hourly rate for this internship is 48–70/hour, based on assessed skills, experience, and relevant coursework. Housing assistance is available for candidates outside the Bay Area - details provided during the offer process.</p><p></p><p><strong>Location &amp; Work Model</strong></p><p>This internship is based in our San Francisco, CA office. We work in a high-collaboration environment and ask interns to be on-site a minimum of 4 days per week. To make that easy, we provide lunch every day and snacks are always stocked.</p><p></p><p><strong>Inclusive Application</strong></p><p>We know the strongest candidates don't always tick every box. If you're excited about this role and believe you could do it well, we encourage you to apply even if your experience doesn't match every qualification listed - you may be exactly who we're looking for.</p><p></p><p><strong>Equal Opportunity</strong></p><p>Niantic Spatial is an equal opportunity employer. Individuals seeking employment at Niantic Spatial are considered without regard to race, color, ancestry, national origin, religion, creed, age, gender (including pregnancy, childbirth, breastfeeding or related medical conditions), marital status, physical or mental disability, medical condition, genetic information, military or veteran status, gender identity, gender expression, sexual orientation, or any other protected category under applicable laws. Niantic Spatial will also consider qualified applicants with criminal histories in accordance with applicable laws. Please contact your recruiter if you want to request an accommodation for the job application or interview process.</p><p></p><p><strong>Candidate Privacy</strong></p><p>I understand that by submitting my job application, the information I provide as part of that application will be used in accordance with Niantic Spatial's Privacy Notice for Job Applicants and Candidates https://www.nianticspatial.com/applicant-privacy-notice.</p>",
+    "content_hash": "274e9e3ca264f93471800ed9c4661238"
+  },
+  "6882dfce2988": {
+    "id": "6882dfce2988",
+    "title": "Composite Engineering (M&P) Intern (Summer 2027)",
+    "title_raw": "Composite Engineering (M&P) Intern (Summer 2027)",
+    "company": {
+      "slug": "swarm-aero",
+      "name": "Swarm Aero",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Oxnard",
+      "city": "Oxnard",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "swarmaero",
+      "external_id": "31565a0a-c55e-4d70-832d-8a4b5e5528ad"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/swarmaero/31565a0a-c55e-4d70-832d-8a4b5e5528ad/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T18:52:14.070Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.107Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 35,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.</p><p>The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.</p><p></p><h3>READ THIS PART FIRST</h3><p><strong>Composite aircraft are built at the intersection of material behavior and disciplined process. You will work in both places: learning why a material behaves the way it does and helping turn that knowledge into parts the team can build repeatedly.</strong></p><p></p><h3>WHAT WE DO</h3><p>Swarm Aero is redefining air power. We are building autonomous aircraft and Legion, command and control software designed to coordinate large numbers of heterogeneous autonomous systems. Our team combines experience building novel aircraft, scaling startups, and delivering technology for national security.</p><p></p><h3>THE INTERNSHIP</h3><p>You will own a scoped project with a clear technical or business outcome, work directly with the people responsible for the system, and present what you built and learned at the end of the summer. The goal is not to give you practice work. It is to give you useful work with the support to do it well.</p><p></p><h3>WHAT YOU'LL DO</h3><p>· Support composite fabrication, tooling, bonding, cure, trimming, finishing, and inspection activities</p><p>· Plan or execute material characterization, coupon testing, process trials, and data analysis</p><p>· Study cure cycles, resin systems, fiber architecture, defects, joints, or process-structure-property relationships</p><p>· Investigate manufacturing problems and help document root causes and corrective actions</p><p>· Create work instructions, test reports, process specifications, or other technical documentation</p><p></p><h3>WHAT WE'RE LOOKING FOR</h3><p>· Currently pursuing a degree in Materials Science, Mechanical Engineering, Aerospace Engineering, Chemical Engineering, or a closely related field, with graduation and enrollment requirements to be confirmed.</p><p>· Coursework or project experience in materials, composites, polymers, manufacturing, mechanics, or laboratory methods</p><p>· Comfort working safely in a lab and on a manufacturing floor</p><p>· A hands-on project, research effort, shop role, or team where you made and tested physical parts</p><p></p><h3>WHAT SETS YOU APART</h3><p>· Prepreg, infusion, out-of-autoclave processing, adhesives, or bonded joints</p><p>· Mechanical testing, microscopy, NDI, statistical analysis, or DOE</p><p>· CAD, tooling, machining, metrology, Python, MATLAB, or data-analysis experience</p><p></p><h3>WHAT YOU DO NOT NEED</h3><p>Aerospace experience, a perfect GPA, or a previous internship at a famous company. Show us what you have built, analyzed, tested, organized, or improved, and be ready to explain your contribution clearly.</p><p></p><h3>THE HONEST VERSION</h3><p>The pace is fast, the problems will not arrive fully defined, and you may spend part of the summer learning why your first approach was wrong. We will expect you to ask questions, test your assumptions, document your work, and leave the project better than you found it.</p><p></p><p><strong>ITAR requirement</strong></p><p>To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</p><p>Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability.<br /><br /><strong>What We Offer</strong></p><ul><li><p>Meaningful equity in a high-growth defense technology company</p></li><li><p>Competitive base salary commensurate with experience</p></li><li><p>Medical, dental, vision, and 401k</p></li><li><p>PTO and paid sick leave</p></li><li><p>Monthly wellness stipend</p></li><li><p>Daily catered lunch (office)</p></li><li><p>Paid parental leave</p></li><li><p>Direct impact on a critical national security mission</p></li><li><p>A world-class team of engineers and operators solving genuinely hard problems</p></li></ul>",
+    "content_hash": "04e166c45fc0e0ce6a80130b45d253b7"
+  }
+}

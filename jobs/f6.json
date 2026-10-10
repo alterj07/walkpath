@@ -1,0 +1,92 @@
+{
+  "f6782957163e": {
+    "id": "f6782957163e",
+    "title": "Electrical Engineering Summer 2027 Intern",
+    "title_raw": "Electrical Engineering Summer 2027 Intern",
+    "company": {
+      "slug": "helion-energy",
+      "name": "Helion Energy",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Everett, WA",
+      "city": "Everett",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "helion",
+      "external_id": "045d97eb-5efd-4e35-90f5-65eebe3363f4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T22:50:06.408Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.719Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 59,
+      "max": 59,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Helion</strong></p><p>We are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.<br /><br />Since Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma temperatures of 150 million degrees Celsius (13 keV). Helion is continuing to iterate and on the path to the world's first fusion power plant, Orion.<br /><br />This is a pivotal time to join Helion. You will tackle real-world challenges with a team that prizes urgency, rigor, ownership, and a commitment to delivering hard truths – values essential to achieving what no one has before. Together, we will change the future of energy, because the world can't wait.</p><p><strong>What You Will Be Doing: </strong> </p><p>As a Helion Electrical Engineer, you will directly contribute to advancing fusion technology. In this role, you’ll design<strong> </strong>and fabricate<strong> </strong>both analog and digital electronic circuits, including op-amp, passive and active filter circuits, along with PCB design and validation. You'll also drive the development of next-generation, in-house data acquisition systems and electronic instruments to support our ongoing innovation. This internship offers hands-on experience, solving real-world engineering problems that are important to deploying fusion energy to the world.   </p><p><strong>You Will:</strong> </p><ul><li><p>Perform qualification and testing plans on new or modified designs </p></li><li><p>Support senior electrical engineers in design updates and documentation </p></li><li><p>Fix hardware issues as they arise on integrated fusion generators </p></li><li><p>Learn from historical engineering approaches, design novel hardware, and test your solutions </p></li><li><p>Apply both engineering first-principles and method-based thinking to challenging problems </p></li><li><p>Learn from experts to expand your engineering skillset and domain knowledge </p></li></ul><p><strong>Required Skills:</strong> </p><ul><li><p>Ability to work full time, onsite in Everett, WA for a minimum of 12 consecutive weeks during summer 2027 </p></li><li><p>Currently enrolled in a Bachelor’s degree in Electrical Engineering or related field </p></li><li><p>GPA of 3.0 or above </p></li><li><p>Worked with board layout and circuit simulation tools (e.g. KiCAD, LT Spice, Altium) </p></li><li><p>Worked with designing analog and digital circuits </p></li><li><p>Experience applying engineering principles (e.g. making design trades while communicating progress and blockers) </p></li><li><p>Ability to safely work with higher voltages, such as building AC or with high voltage (1- 10 KVDC) power supplies, and familiarity with electric and magnetic fields </p></li></ul><p><strong>Base Pay:</strong></p><ul><li><p>$59 / hour</p></li></ul><p>#LI-Onsite #LI-MT1 </p>",
+    "content_hash": "20794f3b34f05fa4a8fe23020477113c"
+  },
+  "f6d78febd1ad": {
+    "id": "f6d78febd1ad",
+    "title": "Flight Software Engineering Intern",
+    "title_raw": "Flight Software Engineering Intern",
+    "company": {
+      "slug": "reflect-orbital",
+      "name": "Reflect Orbital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reflect-orbital",
+      "external_id": "d2ad1427-89aa-404d-8678-7b8e6dace5e2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T21:57:24.003Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.587Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 27,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.</p><p></p><h3>About the Role</h3><p>Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.</p><p>During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.</p><p>Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.</p><p></p><h3>Responsibilities</h3><ul><li><p>Own the design, development, analysis, manufacturing, and testing of novel spacecraft components</p></li><li><p>Build complete tools and testing setups, with an emphasis on fully completing and shipping your work</p></li><li><p>Prototype and iterate rapidly</p><p></p></li></ul><h3>Ideal Qualifications</h3><ul><li><p>You're capable of incredibly scrappy solutions, but also have experience building &amp; shipping complex and high quality solutions when the problem requires it</p></li><li><p>You're both capable of working highly independently, but you know when to seek experience</p></li></ul><p></p><p>Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.</p><p>We are also interested in carving out unique roles for unconventional people that we are excited about working with.</p><p></p><h3><strong>Benefits</strong></h3><p>Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.</p><ul><li><p>Generous paid time off</p></li><li><p>Healthy lunches provided daily</p><p></p></li></ul><h3><strong>Equal Opportunity</strong></h3><p>Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><p></p><p><strong>More about Reflect Orbital:</strong></p><p>Learn more about our team here.</p>",
+    "content_hash": "35b3e1311a5f8a454d3c1b6bcacdea51"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "50d4f662ddc9": {
+    "id": "50d4f662ddc9",
+    "title": "Software Engineer, Intern",
+    "title_raw": "Software Engineer, Intern",
+    "company": {
+      "slug": "exa",
+      "name": "Exa",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "exa",
+      "external_id": "a9e01521-66f1-481b-89da-ec01d4620f16"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T01:16:43.904Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.310Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 200000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Exa is an applied AI lab building a search engine unlike the world has ever seen. We build massive-scale infra to crawl the entire web, train state-of-the-art embedding models to process it, and design super high performant vector databases to retrieve over it. We now power search for Cursor, Cognition, HubSpot, and over 400,000 developers and have raised $350m from Lightspeed, Benchmark, and a16z.</p> <p>Our ultimate goal is to build perfect search over all the world's information, far beyond Google. If you want to build massive-scale ML systems that will define the way the new AI world consumes information, this is the place for you.</p> <p>As an engineering intern, you'd play a critical role in lots of our projects. We're pretty flexible on what projects people work on based on their skills and interests.</p><p></p><p><strong>Who You Are</strong></p><ul><li><p>Currently pursuing a degree in Computer Science, Engineering, Physics, or a related technical field AND are willing to take off a semester to work full time in SF. Remote and part-time interns are not accepted.</p></li><li><p>You have experience with some high performance language (C++, Rust, etc.)</p></li><li><p>You often code technically difficult or interesting projects for fun</p></li><li><p>You care about the problem of finding high quality information and recognize how important this is for the world</p></li></ul><p></p><p><strong>What You Could Do</strong></p><ul><li><p>Recreate Google-level keyword search over 10 billion pages in 1 month</p></li><li><p>Build a state-of-the-art crawling system that works optimally for any website</p></li><li><p>Build a custom vector database that runs over a billion vectors in under 100ms</p></li></ul><p></p><p>This is an in-person opportunity in San Francisco. We're happy to sponsor international candidates (e.g., STEM OPT, OPT, H1B, O1, E3).</p><p>Exa is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or related conditions, criminal histories consistent with applicable law, or any other basis protected by applicable law.</p>",
+    "content_hash": "72fc876da43d29f15eb7b83bef5982b0"
+  },
+  "50d5372c65e8": {
+    "id": "50d5372c65e8",
+    "title": "UX Design Internship - Summer 2027",
+    "title_raw": "UX Design Internship - Summer 2027",
+    "company": {
+      "slug": "immuta",
+      "name": "Immuta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "College Park, MD | Columbus, OH | Boston, MA",
+      "city": "College Park",
+      "state": "MD",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "immuta",
+      "external_id": "682fa987-3f52-4d95-8239-8e145ce04ed3"
+    },
+    "apply_url": "https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T19:40:28.416Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:58:54.169Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Immuta is the Data Authorization Company, helping the world’s largest organizations control who, and what, can access their data.</p>\n<p>The way enterprises access data is fundamentally changing. Organizations are racing to put data to work across analytics and AI, while AI copilots and agents are emerging as an entirely new class of data consumer. Traditional approaches built around tickets, static permissions, and manual approvals were not designed for this speed, scale, or complexity.</p>\n<p>Immuta provides the authorization layer for modern data and AI. Our platform enables organizations to provision governed access to data by policy, by request, and dynamically for AI agents, so people and AI can access the data they need while enterprises maintain security, compliance, and control.</p>\n<p>For Chief Data Officers, that means making enterprise data dramatically easier to access and use without giving up governance. For AI leaders, it means giving AI agents secure, governed access to enterprise data so they can move from experimentation into production.</p>\n<p>Founded in 2015, Immuta is trusted by Fortune 500 companies and government agencies worldwide.</p>\n<ul>\n<li>Our technology ecosystem includes Snowflake, Databricks, AWS, Microsoft Azure, Google Cloud, Okta, ServiceNow, Teradata, Alation, Atlan, and Starburst — connecting Immuta to the data, cloud, identity, and enterprise platforms powering modern data and AI environments.</li>\n<li>Immuta has been recognized by Forbes as a top American startup employer, by Inc. Magazine and Built In as one of the best workplaces, and by Fast Company as one of the world’s most innovative companies.</li>\n<li>Immuta has raised $263 million from investors including NightDragon, Snowflake, Databricks, ServiceNow, Citi Ventures, Dell Technologies Capital, DFJ Growth, IAG, Intel Capital, March Capital, Okta Ventures, StepStone, Ten Eleven Ventures, and Wipro Ventures.</li>\n<li>We operate as a hybrid workplace with offices in Boston, MA; Columbus, OH; and College Park, MD.</li>\n</ul>\n\n\n<p>Immuta is the Data Authorization Company, helping the world’s largest organizations control who, and what, can access their data.</p>\n<p>The way enterprises access data is fundamentally changing. Organizations are racing to put data to work across analytics and AI, while AI copilots and agents are emerging as an entirely new class of data consumer. Traditional approaches built around tickets, static permissions, and manual approvals were not designed for this speed, scale, or complexity.</p>\n<p>Immuta provides the authorization layer for modern data and AI. Our platform enables organizations to provision governed access to data by policy, by request, and dynamically for AI agents, so people and AI can access the data they need while enterprises maintain security, compliance, and control.</p>\n<p>For Chief Data Officers, that means making enterprise data dramatically easier to access and use without giving up governance. For AI leaders, it means giving AI agents secure, governed access to enterprise data so they can move from experimentation into production.</p>\n<p>Founded in 2015, Immuta is trusted by Fortune 500 companies and government agencies worldwide.</p>\n<ul>\n<li>Our technology ecosystem includes Snowflake, Databricks, AWS, Microsoft Azure, Google Cloud, Okta, ServiceNow, Teradata, Alation, Atlan, and Starburst — connecting Immuta to the data, cloud, identity, and enterprise platforms powering modern data and AI environments.</li>\n<li>Immuta has been recognized by Forbes as a top American startup employer, by Inc. Magazine and Built In as one of the best workplaces, and by Fast Company as one of the world’s most innovative companies.</li>\n<li>Immuta has raised $263 million from investors including NightDragon, Snowflake, Databricks, ServiceNow, Citi Ventures, Dell Technologies Capital, DFJ Growth, IAG, Intel Capital, March Capital, Okta Ventures, StepStone, Ten Eleven Ventures, and Wipro Ventures.</li>\n<li>We operate as a hybrid workplace with offices in Boston, MA; Columbus, OH; and College Park, MD.</li>\n</ul>\n<br />\n<h3><strong>ABOUT THE TEAM</strong></h3>\n<p>UX Design at Immuta helps make complex data access and governance workflows easier to understand and use. The team brings together design, research, and engineering to understand user problems, explore solutions, and turn them into clear, usable product experiences.</p>\n<p>As a UX Design Intern, you’ll work with UX designers and collaborate with product and engineering teammates. You’ll help connect customer needs to what the product actually does and learn how a product team moves from understanding a problem to designing and prototyping a solution.</p>\n\n<h3></h3>\n<h3><strong>YOUR INTERNSHIP</strong></h3>\n<p>At Immuta, interns are treated like members of the team. You’ll join the team’s regular workflow, contribute to real work, and take on responsibilities that reflect your skills and the team’s priorities.</p>\n<p>The exact projects will depend on what the team is working on next summer, but you can expect to:</p>\n\nExplore user and customer problems through research, conversations, workshops, and other discovery activities. \nTurn research and product insights into concepts, user flows, mockups, and prototypes. \nUse design tools to communicate ideas, explain design decisions, and gather feedback. \nWork with engineers and product teammates to understand constraints and shape solutions that can work in the real product. \nParticipate in activities such as storyboarding, journey mapping, user interviews, and portfolio or design critiques. \nUse front-end skills, where relevant, to prototype, test, or communicate how an experience could work across responsive and mobile interfaces. \nShare your work, explain your thinking, incorporate feedback, and build confidence working across design, research, and engineering. \n\n\n<h3></h3>\n<h3><strong>TOOLS &amp; TECHNOLOGIES</strong></h3>\n<p>Depending on your role, you may work with:</p>\n\nFigma and similar design tools \nWireframing, mockups, and interactive prototyping \nStoryboarding, journey mapping, user interviews, and other research methods \nHTML and CSS \nFront-end frameworks such as Angular or React \nResponsive and mobile design concepts \nAI-enabled tools and workflows used by your team \n\n<p>You do not need to know every tool listed above. We’re looking for a strong foundation, curiosity, and the ability to learn.</p>\n\n<h3></h3>\n<h3><strong>WHAT WE’RE LOOKING FOR</strong></h3>\n\nA portfolio that demonstrates your design work, prototypes, research, product thinking, or other relevant projects. \nStrong ability in at least one of three areas: visual design, user research, or engineering/front-end development. Experience across two or more is a plus.\n\n You do not need to be equally strong in all three areas. We’re interested in candidates who can demonstrate clear strength in at least one and curiosity about the others. \n\n\nCuriosity about users, products, and how technology can solve real problems. \nStrong communication and collaboration skills. \nInitiative, willingness to learn, and comfort receiving and applying feedback. \n\n\n\n\nAt Immuta, our goal is to help bridge the gap between personal and professional growth, so that our team members can be well and thrive personally and professionally. After all, great professional success stories rarely happen without great personal success stories! Our generous benefits package given to all full time employees includes:\n<ul>\n<li>100% employer paid Healthcare (Medical, Dental, Vision) premiums for you and your dependents (including Domestic Partners)</li>\n<li>Stock Options</li>\n<li>Paid parental leave (Both Maternity and Paternity)</li>\n<li>Unlimited Paid time off (U.S. based positions)</li>\n<li>Learning and Development Resources</li>\n</ul>\n \n<strong>EEO NOTICE: </strong>Immuta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, marital status, age, disability (including disability due to pregnancy) or genetics, protected veteran status, or any other characteristic protected by law. Immuta complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment.\n \n<strong>NOTICE TO THIRD PARTY RECRUITERS: </strong>Immuta does not accept candidates from third party recruiters. All candidates submitted through are considered to be submissions by the candidate and no submission will obligate Immuta to pay any third party for the referral or hiring of a candidate.\n \n\n\n<strong>AI NOTICE:</strong> As part of our hiring process, Immuta may use artificial intelligence (AI) tools to support recruiting activities, such as application review and interview coordination. These tools assist our recruiting team but do not replace human decision-making. To protect the privacy of all participants and the confidentiality of Immuta information discussed during interviews, candidates may not use external recording tools, AI meeting assistants, or third-party transcription platforms during interviews unless approved in advance by Immuta. If you require an accessibility accommodation or assistance during the interview process, please contact us in advance so we can support your needs appropriately. For more information on how we process your personal data, please visit our Privacy Notice for Job Applicants.",
+    "content_hash": "eacdca8a835fd9a94d4093dea2ca911a"
+  }
+}

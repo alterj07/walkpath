@@ -1,0 +1,217 @@
+{
+  "2d394478fd86": {
+    "id": "2d394478fd86",
+    "title": "MTS - Research Scientist Internship",
+    "title_raw": "MTS - Research Scientist Internship",
+    "company": {
+      "slug": "collinear-ai",
+      "name": "Collinear AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Sunnyvale, California",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco, CA",
+        "Bengaluru, India"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "collinear-ai",
+      "external_id": "ae85fd08-dfd8-42e5-9b3b-9921ba24742b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T12:49:17.720Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Collinear's Internship program is designed for PhD students who are eligible to do a 12-week internship. Start dates are flexible and can be extended. </p><p></p><p>As an MTS - Research Scientist (Applied Scientist), you will help build the data engine for frontier AI. You will develop the high-fidelity environments and evaluation stacks that the world’s leading AI labs rely on to stress-test their most advanced agents. You will work across domains including Computer Use, Enterprise MCP/Toolcalling and Coding. Verifier Design, Simulated Personas, Benchmarking Personal AGI are some of the research areas we work on.</p><h3><br /><strong>Responsibilities:</strong></h3><ul><li><p><strong>Build Agentic Environments</strong>: Design and implement the next generation of \"SimLabs\", ultra-realistic, long-horizon simulation environments where agents learn to navigate ambiguity and maintain context.</p></li><li><p><strong>Programmatic and Agentic Verification</strong>: Develop rigorous, policy-aware judges and evaluations that measure genuine capability and safety beyond simple benchmarks.</p></li><li><p><strong>Close the Loop</strong>: Design and execute high-quality post-training runs (CPT, SFT, RL) to deliver frontier performance on open-source models using curated, high-signal data.</p></li><li><p><strong>Collaborate</strong>: Work daily with the founders and research staff to shape the roadmap and push the state-of-the-art in AI reliability.</p></li><li><p><strong>Create</strong>. Work on analyzing model failure modes and creating frontier data pipelines which scale with test-time compute.<br /></p></li></ul><h3><strong>About You</strong></h3><p>We are looking for individuals who demonstrate a rare combination of technical depth, research intuition, and high agency.</p><ul><li><p><strong>Technical Foundation:</strong> A Bachelor’s, Master’s, or PhD in a technical field (CS, Math, Physics, etc.), or a demonstrated \"proof of work\" through significant open-source contributions or industry experience.</p></li><li><p><strong>Engineering Rigor:</strong> A strong foundation in software engineering with the ability to build robust, scalable infrastructure. You should be comfortable in a Python-friendly, CLI-first development environment.</p></li><li><p><strong>ML Fluency:</strong> A principled understanding of foundation models, including how they are constructed, evaluated, and optimized.</p></li><li><p><strong>Empirical Mindset:</strong> Experience conducting research or technical experiments with a focus on reproducibility and data-driven results.<br /></p></li></ul><h3><strong>What will make you stand out</strong></h3><ul><li><p><strong>Research Taste:</strong> You have a strong intuition for identifying what matters in complex problem spaces. You can balance deep research exploration with the pragmatism needed to ship a product.</p></li><li><p><strong>Impact-Driven Agency:</strong> You care about outcomes, not just activity. You don't wait for a ticket; you identify gaps in the system, build the solution, and ensure it moves real-world metrics for frontier AI labs.</p></li><li><p><strong>Domain Expertise:</strong> Prior experience with Reinforcement Learning (RLHF/RLAIF), simulation systems, or building long-horizon agentic environments.</p></li><li><p><strong>Proven Track Record:</strong> A history of contributing to influential ML research (e.g., publications at NeurIPS, ICLR, ICML) or maintaining high-impact open-source projects.</p></li><li><p><strong>Post-Training Experience:</strong> Experience fine-tuning or evaluating large-scale models to deliver \"frontier performance\" on open-source benchmarks.</p></li></ul> <h3><strong>Why Join Collinear</strong></h3><ul><li><p><strong>Own the Frontier:</strong> Work on the most pressing problem in AI today: making agents reliable enough for production.</p></li><li><p><strong>High Density of Talent:</strong> Join a small, elite team where you will be pushed to do your life's work.</p></li><li><p><strong>Elite Compensation:</strong> We offer competitive salary and equity packages to ensure we attract the best of the best.</p></li><li><p><strong>Direct Impact:</strong> At a seed-backed startup, your work directly shapes the company's trajectory and the future of AI safety.</p></li></ul>",
+    "content_hash": "f2db7112cb2a725a7462e1388be3de19"
+  },
+  "2d409938785a": {
+    "id": "2d409938785a",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "beacon-software",
+      "name": "Beacon Software",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "beaconsoftware",
+      "external_id": "2452d342-a069-4eda-adbe-9df296808ca1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-02T00:08:18.727Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.572Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Beacon Software</strong></h3><p>Beacon is acquiring and operating a portfolio of vertical SaaS companies. Most private equity firms scale by adding people. We are building Beacon to scale by adding software. The thesis is simple: portfolio operations, value creation, and deal sourcing are bottlenecked by human attention, and an agentic operating system can lift that ceiling by an order of magnitude.</p><p>We are building that system. It has two pieces. A sensing layer is a cross-portfolio data lake on open table formats with a feature store on top that makes the data agent-readable. An action layer runs workflows across three domains: how we run the portfolio, how we grow the portfolio, and how we acquire into it. Underneath both sits a feedback loop that captures every action and outcome with stable identifiers.</p> <h3><strong>About the Role</strong></h3><p>We are hiring a Software Engineering Intern to join the Beacon HQ engineering team for the Fall 2026 co-op term. You will work directly with our senior engineers on the platforms that power how we operate the portfolio: data ingestion across 25+ portcos, internal tools used by our operating team every day, and AI-powered workflows that we are embedding into both Beacon HQ and the portfolio products themselves.</p><p>This is not a fetch-coffee internship. We are a small team and interns ship real code into production. Past interns have owned services end-to-end, written features that the entire operating team now depends on, and built tooling that meaningfully changed how a specific portco runs. The bar is high. The autonomy is real.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Ship production code into Beacon's internal platform. You will own a meaningful piece of work end-to-end, from design through deployment.</p></li><li><p>Build integrations between portco source systems (QuickBooks, HubSpot, Salesforce, Stripe, Postgres, and similar) and our central data platform.</p></li><li><p>Prototype and ship LLM-powered internal tools that our operating team uses to manage the portfolio.</p></li><li><p>Work directly with senior engineers, including our CTO and Staff Engineers, on code review, system design, and technical decision-making.</p></li><li><p>Pair with the operations team to understand the problem before writing the code. Engineering at Beacon is operator-facing, and you will learn how to ship software that someone actually uses.</p></li></ul><p></p><h3><strong>Who You Are</strong></h3><ul><li><p>Currently enrolled in a Software Engineering, Computer Science, Computer Engineering, or related undergrad or graduate program.</p></li><li><p>Comfortable writing production-quality code in at least one of TypeScript, Python, or Go. You do not need to know all three, but you should be able to pick up a new language quickly.</p></li><li><p>Comfortable working in someone else's codebase. You can read code as well as you write it.</p></li><li><p>Curious about data systems, APIs, and the practical mechanics of LLM-driven applications. Prior exposure is a plus but not required.</p></li><li><p>Strong written communicator. Beacon runs on writing, and interns are expected to write design docs, PR descriptions, and updates that hold up to senior review.</p></li><li><p>Operator instincts. You take the time to understand the problem before reaching for a solution.</p></li></ul><p></p><h3><strong>Bonus Points</strong></h3><ul><li><p>Prior co-op or internship experience shipping production software.</p></li><li><p>Exposure to modern data tooling (dbt, Snowflake, Databricks, Postgres at scale).</p></li><li><p>Experience with LLM APIs (OpenAI, Anthropic) or agentic workflow frameworks.</p></li><li><p>Side projects or open-source contributions that demonstrate independent technical curiosity.</p></li></ul><p></p><h3><strong>What We Offer</strong></h3><ul><li><p>Direct mentorship from senior engineers and the Beacon CTO.</p></li><li><p>Real ownership. You will ship code that the operating team depends on, not throwaway prototypes.</p></li><li><p>Exposure to a unique operational problem: building software that scales across a portfolio of very different businesses.</p></li><li><p>Competitive co-op compensation.</p></li><li><p>Remote-friendly, with travel to Beacon HQ in Toronto for onboarding and key in-person sessions.</p></li></ul> <p><br /><strong>Our Values at Beacon Software</strong></p><ul><li><p>Humility: We acknowledge that the path to getting to the right answer involves being wrong along the way. We have strong beliefs which are weakly held. We actively seek new ideas and believe we can learn from anyone at any time.</p></li><li><p>Honesty: We are truth seeking in our approach to business problems. Business is a repeat game and we believe that human relationships generate alpha. We understand that trust is earned over a lifetime and can be lost in an instant.</p></li><li><p>Hunger: We play to win. We hold ourselves to high standards and will not be outworked. We take pride in having a deep sense of responsibility to ourselves, each other, our partners, and our customers. We believe to whom much is given much is expected.</p></li><li><p>Horizon: We seek to build a generational software company. This will take decades. We manage our expectations and those of our partners to take advantage of the 8th wonder of the world - compounding growth.</p></li></ul><p><br /><em><strong>How We Use AI in Our Hiring Process: </strong>To ensure transparency, we want candidates to know that Beacon Software uses Artificial Intelligence and AI-enabled tools to assist with screening, reviewing, organizing and highlighting profiles and applications that match the key requirements for each role.</em></p> <p><em><strong>AI does not make hiring decisions: </strong>Every application is reviewed by a member of our team, and all decisions throughout the process are made by humans. We use AI to support efficiency and consistency, not to replace human judgment. We are committed to a fair, thoughtful, and equitable experience for every candidate.</em></p>",
+    "content_hash": "c921f6c1ad71e3cb444b849c5ef85416"
+  },
+  "2de2c8c8366d": {
+    "id": "2de2c8c8366d",
+    "title": "2027 Machine Learning Summer Internship",
+    "title_raw": "2027 Machine Learning Summer Internship",
+    "company": {
+      "slug": "advanced-space",
+      "name": "Advanced Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Westminster, CO",
+      "city": "Westminster",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "advancedspace",
+      "external_id": "4324875009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T20:22:30.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:34.737Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 28,
+      "max": 37,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Advanced Space | 2027 Summer Internship | Onsite </p>\n<p><strong>We’re going to the Moon. Think you’ve got what it takes? </strong></p>\n<p></p>\n<p><strong>About the Role</strong> </p>\n<p>At Advanced Space, we're enabling humanity's return to the Moon and building the technologies that will take us to Mars and beyond. We're looking for a <strong>2027 Machine Learning Summer Intern</strong> to join our team and help push the state of the art in aerospace applications.</p>\n<p>As a Machine Learning Intern, you'll work alongside experienced technical staff who will provide mentorship and guidance throughout your internship. You'll gain hands-on experience designing, developing, testing, and applying machine learning models to solve complex engineering challenges supporting the future of space exploration.</p>\n<p>This internship is ideal for students passionate about artificial intelligence, machine learning, aerospace applications, and applied research. You'll have the opportunity to work on meaningful projects while collaborating with engineers and researchers developing innovative solutions for real space missions.</p>\n<p></p>\n<p><strong>About Advanced Space</strong> </p>\n<p>Advanced Space exists to enable the sustainable exploration, development, and settlement of space through innovative software, mission services, and technology solutions. As the owner and operator of NASA's CAPSTONE™ mission and the Prime Contractor for AFRL's Oracle mission, we're helping shape the future of cislunar exploration while supporting commercial, civil, and national security customers. </p>\n<p>Our team combines deep technical expertise with an entrepreneurial mindset. We move quickly, collaborate across disciplines, and empower every engineer to make meaningful contributions. If you're passionate about solving challenging problems and seeing your work fly in space, you'll fit right in. </p>\n<p></p>\n<p><strong>What You'll Actually Do</strong> </p>\n<p><strong>Develop machine learning solutions for aerospace applications.</strong></p>\n<p>Research, implement, and evaluate state-of-the-art machine learning algorithms and techniques to solve challenging engineering problems.</p>\n<p><strong>Build and test ML models.</strong></p>\n<p>Design, develop, and improve machine learning models and systems supporting applications such as:</p>\n<ul>\n<li>Spacecraft autonomy</li>\n<li>Anomaly detection</li>\n<li>Natural language processing</li>\n<li>Uncertainty quantification</li>\n<li>Multimodal signal detection</li>\n</ul>\n<p><strong>Analyze data and optimize performance.</strong></p>\n<p>Perform data preprocessing, feature engineering, model evaluation, and optimization to improve the performance, scalability, and reliability of ML solutions.</p>\n<p><strong>Collaborate with engineering teams.</strong></p>\n<p>Work alongside aerospace and software engineers to integrate machine learning solutions into mission-focused applications.</p>\n<p><strong>Share your research and findings.</strong></p>\n<p>Document technical work and present project results through reports, presentations, and discussions with the technical team.</p>\n<p></p>\n<p><strong>Who Thrives Here</strong> </p>\n<ul>\n<li>You are currently pursuing a degree in <strong>Computer Science, Engineering, Mathematics, Statistics, or a related field</strong>.</li>\n<li>You have experience programming in <strong>Python</strong> and working with data processing libraries such as Pandas, NumPy, or Scikit-learn.</li>\n<li>You have experience with machine learning frameworks such as TensorFlow or PyTorch.</li>\n<li>You understand foundational machine learning concepts, including supervised and unsupervised learning, classification, regression, clustering, and dimensionality reduction.</li>\n<li>You are familiar with software development best practices, including Git version control.</li>\n<li>You enjoy solving complex technical problems and conducting applied research.</li>\n<li>You communicate technical concepts clearly and collaborate effectively with teammates.</li>\n</ul>\n<p></p>\n<p><strong>Bonus Points if You Have Experience With</strong></p>\n<ul>\n<li>CUDA C/C++ or GPU computing</li>\n<li>High-performance or scientific computing</li>\n<li>Natural language processing</li>\n<li>Computer vision</li>\n<li>Aerospace engineering concepts such as nonlinear estimation, optimization, or control theory</li>\n<li>Machine learning applied to engineering or scientific problems</li>\n</ul>\n<p></p>\n<p><strong>Success is Measured By</strong> </p>\n<ul>\n<li>Developing and evaluating machine learning solutions for real aerospace challenges.</li>\n<li>Applying ML techniques to meaningful mission-focused projects.</li>\n<li>Collaborating effectively with engineers and technical staff.</li>\n<li>Communicating research findings clearly through documentation and presentations.</li>\n<li>Building technical skills through mentorship and hands-on experience.</li>\n</ul>\n<p></p>\n<p><strong>Why Join Advanced Space</strong> </p>\n<ul>\n<li>Gain hands-on experience applying machine learning to real space missions.</li>\n<li>Work alongside engineers and researchers solving complex aerospace challenges.</li>\n<li>Contribute to innovative projects supporting missions to the Moon and beyond.</li>\n<li>Receive mentorship and guidance from experienced technical staff.</li>\n<li>Be part of a growing company where your contributions directly support mission success.</li>\n</ul>\n<p></p>\n<p><strong>Compensation &amp; Benefits</strong> </p>\n<ul>\n<li>Competitive internship compensation: <strong>$28–$37/hour</strong></li>\n<li>Housing stipend</li>\n<li>Mentorship and guidance from technical staff</li>\n<li>Opportunities to contribute to research projects directly tied to active space missions</li>\n<li>Collaborative work environment at our Westminster, Colorado headquarters</li>\n</ul>\n<p></p>\n<p><strong>Advanced Space is an Equal Opportunity Employer.</strong> We celebrate diversity and are committed to creating an inclusive workplace for all employees. Employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. </p>",
+    "content_hash": "f1a82ffcfcdd9592b006114b70166664"
+  },
+  "2df3c6028f9f": {
+    "id": "2df3c6028f9f",
+    "title": "Intern - Product Operations",
+    "title_raw": "Intern - Product Operations",
+    "company": {
+      "slug": "acxiom",
+      "name": "Acxiom",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote/Homebased",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "acxiomllc/AcxiomUSA",
+      "external_id": "JR014481"
+    },
+    "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014481",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-18T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:46:59.258Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "As a Product Operations Intern, you will work within Acxiom’s Product organization to support the planning, coordination, measurement, and continuous improvement of product and technology initiatives.<br />This role extends beyond traditional technical project management. You will gain hands on experience across product operations, program execution, data analysis, process improvement, workflow automation, product enablement, and strategic research. You will collaborate with Product, Engineering, Data, Commercial, Enablement, Compliance, and Program Management teams to help translate strategy into coordinated execution.<br />This is an opportunity to contribute to meaningful product and platform initiatives while learning how enterprise technology, data, identity, and marketing solutions are developed, governed, and brought to market.<p></p><p><b>Internship Details</b></p><ul><li>This internship opportunity will begin on January 11, 2027</li><li>The role requires 20 to 29 hours per week during the semester and up to 40 hours per week during summer and academic breaks</li><li>Candidates should have an anticipated graduation date between May 2027 and December 2027</li></ul><p></p><p><b>What You Will Do</b></p><ul><li>Support product and program planning by maintaining milestones, risks, decisions, dependencies, and action items</li><li>Assist with recurring operational reporting, portfolio dashboards, OKR updates, and leadership materials</li><li>Analyze product, program, and operational data to identify trends, capacity concerns, execution gaps, and improvement opportunities</li><li>Support project setup and maintenance across Workday, Jira, Confluence, SharePoint, Slack, Teams, and other collaboration platforms</li><li>Help maintain Workday project information, including resource allocations, hours, end dates, stages, and related attributes</li><li>Review team allocations and help identify potential resource conflicts or overallocation</li><li>Assist with product requirements, process maps, operating procedures, implementation plans, and project documentation</li><li>Document product, platform, data, partner, and integration workflows</li><li>Support workflow automation and the responsible use of artificial intelligence to improve reporting, research, documentation, and team productivity</li><li>Conduct structured market, partner, ecosystem, and competitive research to support product and commercialization decisions</li><li>Develop playbooks, training resources, and enablement materials for internal teams and stakeholders</li><li>Support program governance activities, project reviews, and Product or Program Management audits</li><li>Coordinate project meetings, document decisions, and follow up on assigned actions</li><li>Review status reports and presentations for completeness, accuracy, and consistency</li><li>Provide limited project management coverage during planned absences and short term team needs</li><li>Support Product Operations initiatives, team events, and professional development programs</li><li>Complete and present a defined internship project with measurable recommendations or business outcomes</li></ul><p></p><p><b>What You Will Need</b></p><ul><li>Currently pursuing a bachelor’s or master’s degree in Product Management, Business, Information Systems, Data Analytics, Computer Science, Marketing, Media, or another applicable field</li><li>Strong analytical, organizational, and problem solving skills</li><li>Experience using Microsoft Office, including Excel and PowerPoint</li><li>Ability to organize complex information and translate it into clear documentation, insights, and next steps</li><li>Strong written and verbal communication skills</li><li>Demonstrated ability to collaborate with internal partners and provide clear status updates</li><li>Experience leading or contributing to project teams in an educational, professional, or volunteer setting</li><li>Strong attention to detail and demonstrated persistence in completing assignments</li><li>Proactive learning, intellectual curiosity, and a willingness to take initiative</li><li>Ability to manage multiple priorities in a fast paced environment</li><li>Interest in product operations, product management, data, identity, artificial intelligence, advertising technology, or enterprise platforms</li></ul><p></p><p><b>What Will Set You Apart</b></p><ul><li>Experience with collaboration and project management tools, including Jira, Confluence, SharePoint, Trello, Slack, or Teams</li><li>Familiarity with Agile methodologies and software or product development practices</li><li>Experience with data analysis, reporting, dashboards, or visualization tools such as Power BI or Tableau</li><li>Experience using artificial intelligence or automation tools to improve research, analysis, documentation, or workflows</li><li>Exposure to advertising technology, marketing technology, data platforms, identity solutions, digital media, or enterprise software</li><li>Experience developing presentations, process documentation, research summaries, or recommendations for academic or professional audiences</li><li>A demonstrated interest in improving how teams plan, collaborate, make decisions, and deliver products</li></ul><p></p><p><b>What You Will Gain</b></p><p>You will gain practical experience in how product strategy is translated into operational plans and measurable execution. You will learn how large Product, Engineering, Data, and business teams coordinate priorities, manage dependencies, evaluate performance, and bring capabilities to market.</p><p></p><p>Each intern will receive structured onboarding, a designated manager, access to subject matter mentors, regular progress reviews, and a clearly defined scope of work. You will also have opportunities to participate in product demonstrations, team meetings, leadership discussions, and professional development activities.</p><p></p><p>This experience can help prepare you for future roles such as Product Operations Analyst, Product Analyst, Data Analyst, Technical Program Coordinator, Integration Specialist, or Associate Product Manager.</p><p></p><p>We believe in building an exciting workplace where associates feel highly motivated and want to engage every single day. It is meaningful to Acxiom that we invest in our culture and promote a balanced work life experience. Acxiom has a fast paced, high performance culture where we empower our people to do innovative, powerful work. You will always be guided to do what is right.</p><p>Acxiom is an affirmative action and equal opportunity employer, AA/EOE/W/M/Vet/Disabled, and does not discriminate in recruiting, hiring, training, promotion, or other employment of associates or the awarding of subcontracts because of a person’s race, color, sex, age, religion, national origin, protected veteran status, disability, sexual orientation, gender identity, genetics, or other protected status.</p><p></p><p><b>Primary Location City/State:</b></p>Homebased - Conway, Arkansas<p></p><p><b>Additional Locations (if applicable):</b></p><p></p><p>Acxiom is an equal opportunity employer, including disability and protected veteran status (EOE/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, military status, physical or mental disability, sexual orientation, gender identity or expression, genetics or other protected status.</p><br /><p>Attention California Applicants:  Please see our CCPA/CPRA Privacy Act notice here.</p><br /><p>Attention Colorado, California, Connecticut, Massachusetts, Maryland, Nevada, New Jersey, New York City, Ohio, Rhode Island, Virginia, and Washington Applicants: This position is not located in the aforementioned locations but applications for remote work may be considered. For information about this role under state or local equal pay or pay transparency laws, please contact compensation@acxiom.com.</p>",
+    "content_hash": "dbfd9202d44526cfc54f34b0a1a8450d"
+  },
+  "2dfe9518054c": {
+    "id": "2dfe9518054c",
+    "title": "6 months Internship in Strategy & Data Science",
+    "title_raw": "6 months Internship in Strategy & Data Science | New York",
+    "company": {
+      "slug": "ekimetrics",
+      "name": "Ekimetrics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ekimetrics",
+      "external_id": "d8f0b664-ad5b-4111-a1dc-a8143934bf24"
+    },
+    "apply_url": "https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2018-10-29T12:57:55.074Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:53:01.833Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 2800,
+      "max": 2800,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Ekimetrics is a global leader in Marketing Effectiveness and AI-powered solutions. Since 2006, we’ve been helping businesses optimize marketing and operations by combining AI with business and tech expertise across 4 domains: Marketing Effectiveness, Customer Analytics, Operational Excellence, ESG &amp; sustainability.   With a full in-house team and offices in Paris, London, New York, Hong Kong, and Shanghai, we deliver tailor-made solutions that turn data into real positive impact, leveraging our unique combination of technology and services.   We excel at delivering AI impact at scale. Our mission is to harness this power to tackle the world’s most urgent issues. We commit to responsibility and frugality in AI, systematic AI impact at scale, and loyalty to our values and DNA. <br /><b>Your Responsibilities </b>As an intern at Ekimetrics, you will contribute to high-quality analytics projects for international clients across industries such as Auto, Beauty, Retail, and Financial Services. You will gain hands-on experience in marketing and customer analytics, working closely with Senior Business Scientists and Managers.- Contribute to one major client project in Marketing Mix Modeling (MMM) and Marketing Mix Optimization (MMO)- Clean, prepare, and manipulate data from multiple sources using Python, R, SQL, or Excel- Support statistical and predictive modeling, including regression, econometrics, Bayesian methods, and marketing metrics.- Help develop dashboards, charts, and visualizations to communicate insights effectively to clients and internal teams.- Participate in client meetings and calls under supervision, contributing insights and helping translate analytics into practical recommendations- Support the preparation of client deliverables, ensuring accuracy, quality, and timely delivery- Take part in team knowledge-sharing sessions, learning from colleagues and sharing best practices where possible- Take ownership of professional development, pursuing relevant certifications and training paths in programming, analytics, and data science- Actively participate in office meetings, training sessions, and team initiatives- Champion and role-model our core values: Curiosity, Creativity, Excellence, Generosity, and Enjoyment<br /><b>Your Profile</b>Experience &amp; Technical Skills- 0-2 years of professional experience, including internships or graduate placements- Bachelor's or Master's degree (or equivalent) in Statistics, Economics, Data Science, Computer Science, Applied Mathematics, or a related analytical fieldBasic knowledge of Python or R, and other analytics tools; willingness to learn more advanced techniques- Understanding of statistical modeling, regression, econometrics, Bayesian statistics, and/or marketing metrics- Ability to work with and clean large datasets while maintaining attention to quality- Nice-to-have experience with Databricks, Azure, or MMM exposure- Proficient in Microsoft Office (Excel, PowerPoint, Word)Soft Skills- Analytical mindset, curiosity, and problem solving skills- Ability to work autonomously while being a collaborative team member- Strong communication skills to engage with clients and internal teams- Interest in business challenges, marketing strategy, and results-oriented thinking- Positive attitude, resilience, and sense of humor\nEkimetrics is an equal opportunity employer committed to making all employment decisions without regard to race/ethnicity, gender, pregnancy, gender identity or expression, color, creed, religion, national origin, age, disability, marital status (including domestic partnerships and civil unions), sexual orientation, military veteran status, unemployment status, or other legally protected categories, subject to applicable law.",
+    "content_hash": "581ee480190dace82fa1b32a67497049"
+  }
+}

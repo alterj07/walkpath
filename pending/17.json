@@ -1,0 +1,45 @@
+{
+  "179bab030495": {
+    "id": "179bab030495",
+    "title": "Business Analyst Summer Intern",
+    "title_raw": "Business Analyst Summer Intern",
+    "company": {
+      "slug": "alliancebernstein",
+      "name": "AllianceBernstein",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Nashville, Tennessee",
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "abglobal/abcampuscareers",
+      "external_id": "R0019767"
+    },
+    "apply_url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:43:54.020Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><b>Who You’ll Work With:</b></p><p>The Technology team provides computing, communications, infrastructure, services, support, and innovations that sustain high-quality research and diverse investment services for institutional investors and private clients. The team also supports AB’s employees. Technical roles in our New York City and Nashville locations have a high degree of interaction with our investment teams.</p><p>The Operations team provides vital investment-management functions through more than two dozen offices located around the world. It’s dedicated to institutional investment-management services, private client administration, fund services, brokerage operations and change agents.</p><p><b>What You’ll Do:</b></p><p>The Business Analyst Summer Intern within our Technology &amp; Operations business unit will be assigned to a variety of teams supporting institutional investors, research analysts, portfolio managers, client relationship managers, traders, wholesalers, and more.  You will work closely with Sr. Business Analysts and Project Managers while learning key business processes, AllianceBernstein’s products and services, and develop an understanding of the inner workings of how an investment management firm is powered by technology.</p><p> Internship projects may include:</p><ul><li>Streamlining and simplifying the Trading Order Management process</li><li>Applying statistical and machine learning techniques used in the investment decision making process</li><li>Re-designing aspects of client reporting</li><li>Explore opportunities for better automation</li></ul><p>Summer Interns contribute to and learn from AB’s innovative use of technology, deep research capabilities, global presence, and breadth of investment management expertise. The flat corporate structure allows Interns to become deeply integrated into the team and contribute meaningfully to investment decision-making early on in their careers.</p><p><b>What We’re Looking For:</b></p><ul><li>December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts</li><li>Cumulative GPA of 3.3 or better</li><li><b>Must be a U.S. Citizen or Permanent Resident</b> (must be able to work in the U.S. without visa sponsorship now or in the future)</li><li>Candidates must be available to work full-time from June through August</li><li>Selected candidates will need to successfully complete a thorough background check</li><li>It is not permissible to simultaneously take academic classes or hold other employment that will conflict with the internship schedule</li><li>Keen interest in project management, particularly with the scoping of projects, capturing and documenting requirements, and defining use cases, user interfaces, and testing scenarios</li><li>Experience with SQL and/or other programming languages is a plus</li><li>Interest in leveraging AI and emerging technologies to improve business processes, enhance decision-making, identify automation opportunities, and deliver innovative solutions</li><li>Excellent communication and presentation skills</li><li>Detail-oriented, ability to multi-task and work in a fast-paced environment</li></ul><p><b>Who We Are:</b></p><p>We are a leading global investment management firm offering high-quality research and diversified investment services to institutional clients, retail investors, and private-wealth clients in major markets around the globe. With over 4,000 employees across 57 locations operating in 26 countries and jurisdictions, our ambition is simple: to be the most trusted investment firm in the world. We realize that it's our people who give us a competitive advantage and drive success in the market, and our goal is to create an inclusive culture that rewards hard work.</p><p>Our culture of intellectual curiosity and collaboration creates an environment where you can thrive and do your best work. Whether you're producing thought-provoking research, identifying compelling investment opportunities, infusing new technologies into our business, or providing thoughtful advice to our clients, we are fully invested in you. If you're ready to challenge your limits and empower your career, join us!</p><p><b>How We Invest in You:</b></p><p>AB’s purpose is to pursue insight that unlocks opportunity.  It is why we exist and what we work at every day.  Our shared values define how we work.  They’re a foundation of our culture, which empowers all of us to be our complete selves – and contribute to our distinctive talents.  We invest in one another, strive for distinctive knowledge, speak with courage and conviction, and act with integrity – Always! </p><p>We recognize the value of investing in one another, fostering growth and advancement while meeting evolving individual needs. That’s why we’ve crafted a comprehensive internship program that includes, but is not limited to, the below opportunities:</p><ul><li>Firmwide Onboarding </li></ul><ul><li>Introduction to Asset Management and Capital Markets </li></ul><ul><li>Mentoring Program </li></ul><ul><li>Career Planning </li></ul><ul><li>Training and Development Opportunities  </li></ul><p></p>Nashville, Tennessee",
+    "content_hash": "6a89a844e05df76e582c154a950c0a16"
+  }
+}

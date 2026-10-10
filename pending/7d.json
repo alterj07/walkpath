@@ -1,0 +1,127 @@
+{
+  "7d3b078b2afc": {
+    "id": "7d3b078b2afc",
+    "title": "Software Engineer (New Grad)",
+    "title_raw": "Software Engineer (New Grad)",
+    "company": {
+      "slug": "aurelian",
+      "name": "Aurelian",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Seattle",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "aurelian",
+      "external_id": "a2bc965f-d639-41f7-946a-67c05c22e04e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T00:32:39.480Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:59.423Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Aurelian </strong></h3><p>Aurelian builds AI tools that help 911 centers handle more with less, so telecommunicators can stay focused on what matters most and communities get the response they need.</p><p></p><p>AVA is a conversational AI agent that answers non-emergency calls; the agent routes, triages, and resolves the calls without any human intervention. By handling administrative calls like noise complaints, lost dogs, and parking inquiries, AVA eliminates hold times and lets call-takers focus their energy on actual emergencies.</p><p></p><p>CORA supports call-takers on the calls that matter most. CORA is an on-screen assistant that delivers real-time SOP checklists, smart reminders, and contextual guidance as an emergency call unfolds, so dispatchers stay calm, consistent, and confident when every second counts. When AVA detects an emergency mid-call, it transfers the caller to a telecommunicator and passes along the caller details, location, incident type, and key statements directly into CORA. The call-taker never starts from scratch.</p><p></p><p>The problem we're solving is serious. The average emergency communications center is 30% understaffed nationwide. Staffing shortages drive burnout and attrition, which makes the shortage worse. Meanwhile, 60-80% of the calls coming in aren't even emergencies at all. Aurelian addresses both sides of that equation: AVA reduces unnecessary call volume, and CORA makes every emergency call more manageable for the people handling it.</p><p><br />Aurelian is live in centers across the country, answering thousands of non-emergency calls every day, and is backed by New Enterprise Associates and Y Combinator. Aurelian is growing rapidly; we are hiring people who want to help scale this work and make a real difference in public safety infrastructure for communities across the country.</p><h3><strong>Why Join Us</strong></h3><p>We're hiring Software Engineers who have recently graduated to own product outcomes end-to-end. We don't have product managers at Aurelian — our engineers talk to customers, decide what to build, and ship it.</p><p>This role is for someone who is as excited about <em>why</em> we're building something as <em>how</em>. You'll write code every week, but the thing that makes you exceptional is your ability to deeply understand a problem, make smart product decisions, and own the outcome.</p> <h3><strong>What You’ll Be Doing</strong></h3><ul><li><p><strong>Own product outcomes, not just features:</strong> You won't be handed a spec. You'll talk to customers, identify the highest-leverage problems, figure out what to build, and build it.</p></li><li><p><strong>Be the PM for your area:</strong> You'll define the roadmap, make prioritization tradeoffs, and communicate progress across the company.</p></li><li><p><strong>Ship fast and iterate:</strong> Build and ship features across our platform — from AI call handling, to dispatcher-facing tools, to analytics and integrations. Get things into customers' hands, learn, and iterate.</p></li><li><p><strong>Work directly with customers:</strong> Our users are 9-1-1 dispatchers and PSAP administrators. You'll visit dispatch centers, watch how they use the product, and use that context to drive what you build next.</p></li></ul><h3><strong>Who We’re Looking For</strong></h3><ul><li><p>Bachelors degree in computer science. </p></li></ul><ul><li><p><strong>Product thinker first, engineer second:</strong> You've owned products or features end-to-end — not just built what someone else decided. You think in terms of user problems and outcomes, not just technical solutions.</p></li><li><p><strong>Comfortable across the stack:</strong> You can build what needs building — frontend, backend, or both. You don't need to be the deepest technical expert on the team, but you're a capable, confident engineer.</p></li><li><p><strong>High ownership:</strong> You see a problem, figure out the right thing to build, and drive it to completion. You take responsibility for outcomes, not just your code.</p></li><li><p><strong>Customer empathy:</strong> You genuinely like understanding how people use software. You're energized by customer conversations, not drained by them.'</p></li></ul><p></p><h3><strong>Must have already graduated to be considered. </strong></h3><p></p><p>To learn more about what it's like to work at Aurelian, visit our About Us page and follow us on LinkedIn to stay up to date!</p><p></p><p>We encourage you to apply even if you don’t meet every qualification listed above. We believe exceptional people come from many different backgrounds, and we’d rather connect with you than miss the opportunity.<br /></p><p></p><p>Come do the best work of your life and join us in shaping the future of critical technology that truly matters.</p><p></p><h3></h3><h3><strong>For Full-Time roles, Aurelian offers a variety of benefits, including:</strong></h3><ul><li><p><em>Comprehensive Medical, Dental, &amp; Vision Insurance</em></p></li><li><p><em>401(k)</em></p></li><li><p><em>Unlimited PTO</em></p></li><li><p><em>Company-wide offsites </em></p></li><li><p><em>Equipment stipend </em></p></li><li><p><em>Relocation assistance</em></p></li><li><p><em>Daily delivered lunches (on us)</em></p></li><li><p><em>Office in Seattle </em></p></li><li><p><em>Start-up Equity </em></p></li></ul>",
+    "content_hash": "24d3a2bc7f60f892fcbd6dce3a69ef1d"
+  },
+  "7d8af3fa8a85": {
+    "id": "7d8af3fa8a85",
+    "title": "2027 Internship Safety Engineer, Agentic Safety Case Assessment",
+    "title_raw": "2027 Internship Safety Engineer, Agentic Safety Case Assessment",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "cb06dc4f-3e78-4546-897d-b39ba12a9178"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T21:34:08.587Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>Putting an autonomous 40-ton excavator on a live jobsite means being able to say, precisely, what we know about its safety and what that knowledge rests on. Today that argument lives in hazard analyses, requirements, tests and logs, linked by hand.</p><p>As a Safety Engineering intern, you’ll explore how formal methods and LLM-assisted proving can strengthen that argument. Working at the intersection of formal methods, statistics, and field robotics, you’ll formalize a narrowly scoped safety claim, verify a checker in Lean, and evaluate it on real fleet data, with explicit assumptions and auditable results.</p><h3><strong>What You'll Do</strong></h3><ul><li><p>Become fluent in Bedrock's safety case and trace safety claims through the hazards, requirements, mitigations, and evidence that support them</p></li><li><p>Build an end-to-end demonstration for one claim: define the property and assumptions, implement a checker in Lean, prove its correctness against the specification, and run it on fleet data</p></li><li><p>Develop checks for assumptions that can be monitored in fleet data, and document those that require other evidence</p></li><li><p>Build audit tooling for LLM-assisted proving: record proof dependencies, document toolchain trust assumptions, and reject proof placeholders or unapproved axioms in automated builds</p></li><li><p>Work with Safety, Systems, and Autonomy teams to review formal specifications and turn findings into safety case improvements</p></li><li><p>Document the results, limitations, and recommendations for adoption in our review process</p></li></ul><h3><strong>What We're Looking For</strong></h3><h3><strong>Required</strong></h3><ul><li><p>Hands-on experience with Lean and mathlib experience, particularly real analysis or probability.</p></li><li><p>Working knowledge of probability and statistics (distributions, confidence intervals, tail bounds).</p></li><li><p>Familiarity with knowledge graphs or structured document analysis</p></li><li><p>Ability to translate informal claims into precise specifications and identify their assumptions</p></li><li><p>Experience evaluating LLM-generated code or proofs.</p></li><li><p>Background in autonomous vehicles, heavy equipment, or other safety-critical robotics.</p></li></ul><h3><strong>Preferred</strong></h3><ul><li><p>Exposure to safety or assurance-case practice (GSN, UL 4600, ISO 13849, IEC 61508) or runtime verification.</p></li><li><p>Experience with Rust verification tools (Aeneas, Verus, Kani) or differential/property-based testing.</p></li><li><p>Familiarity with knowledge graphs or structured document analysis</p></li><li><p>Background in autonomous vehicles, heavy equipment, or other safety-critical robotics<br /></p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "f19031b6ccec59d97fd6bf73300a545f"
+  },
+  "7dd0f700ce2c": {
+    "id": "7dd0f700ce2c",
+    "title": "Forward Deployed Engineer (New Grad)",
+    "title_raw": "Forward Deployed Engineer (New Grad)",
+    "company": {
+      "slug": "composio",
+      "name": "Composio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "sf",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "composio",
+      "external_id": "f83a19a0-8188-4100-9dd5-b259efb342e6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T03:24:08.307Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.553Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Composio, we are building infrastructure that allows agents to communicate with the tools you use for work including Github, Gmail, Notion, Salesforce, etc. We are a lean team of engineers wrangling problems from context to search, that help us provide the most capable bridge between your agents and your tools.</p> <p>We raised a $25M Series A from Lightspeed with some incredible angels like Guillermo Rauch (CEO of Vercel), Dharmesh Shah (CTO of Hubspot), Gokul Rajaram. Beginning of this year we 3x our ARR with customers like Google, AWS, Mercor, Mintlify, Glean and Emergent.</p><p></p><p><em>running stateful agent infrastructure inside someone else's cluster is new territory. as our FDE intern, you'll help define what reliable, repeatable on-prem agent deployment looks like across customers running us in their own environments.</em></p><p></p><h3><strong>What you'll do?</strong></h3><ul><li><p>get hands-on with the on-prem lifecycle: helm charts, upgrades, the weekly release train, rollback paths.</p></li><li><p>help pull diverged customer forks back onto one supported chart, with guardrails.</p></li><li><p>contribute to onboarding so a new customer deploys in days, not weeks.</p></li><li><p>debug across the stack: temporal workflows, k8s init ordering, storage, auth-refresh pipelines.</p></li><li><p>support the security surface: CVE triage, patching, RCAs.</p></li></ul><h3><strong>\"Must haves\"</strong></h3><p><em>if you are very good, nothing is a must per-se</em></p><ul><li><p><strong>you've built in environments you don't fully control </strong>— homelab, VPC, self-hosted — and like figuring out why systems break.</p></li><li><p><strong>curious about kubernetes and helm;</strong> you want to go deep.</p></li><li><p><strong>ai native </strong>— you've built with language models and have opinions on agents and MCP</p></li><li><p><strong>comfortable in linux;</strong> you can write a clear RCA.</p></li><li><p><strong>human</strong> — you build trust and admit what you don't know.</p></li></ul><p>BONUS: temporal, Postgres, cloud secret managers, self-hosted delivery (kots/airgap), open source or hackathon wins.</p>",
+    "content_hash": "baf2e2b6403e8846856cba8364a8710f"
+  }
+}

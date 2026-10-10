@@ -1,0 +1,84 @@
+{
+  "c14046652236": {
+    "id": "c14046652236",
+    "title": "Water Engineer Internship - Summer 2027",
+    "title_raw": "Water Engineer Internship - Summer 2027",
+    "company": {
+      "slug": "ms-consultants-inc",
+      "name": "ms consultants, inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Pittsburgh, PA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Columbus, OH"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "msconsultants",
+      "external_id": "742e33ad-ad91-475b-be86-5ba7701a5fba"
+    },
+    "apply_url": "https://jobs.lever.co/msconsultants/742e33ad-ad91-475b-be86-5ba7701a5fba/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T19:55:39.793Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:05:35.155Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Water Engineer Internship - Summer 2027</strong><br />ms consultants, inc.<br />Pittsburgh, PA; Columbus, OH</p>\n<p>Consider spending your Summer investing in your career development with ms consultants!  At ms consultants, you’ll work closely with an assigned manager and mentor on assignments related to your field of study to take your classroom learning to the next level.  You’ll work on live projects supporting our clients with innovative solutions by overcoming real life design challenges.</p>\n\n<h3>What You'll Do: </h3>\n\nSupport hydrologic, hydraulic, water quality, and geospatial evaluations. \nSupport watershed and water quality assessments and conventional aspects of watershed planning and BMP prioritization. \nSupport the design efforts for a variety of water resources and site development projects. \nSupport planning, design, construction, and maintenance of stormwater infrastructure and BMPs, low impact development projects, and green infrastructure practices. \nSupport field work including environmental sampling and parameter collection, stormwater BMP inspection and maintenance, BMP retrofit assessments and stream evaluations. \n\n\n<h3>What You'll Bring:</h3>\n<p>We are looking for an individual who is currently pursuing an Engineering based degree, enrolled in core classes, and is seeking employment in support of project work.</p>\n\nCandidates should be pursuing a bachelor’s degree in civil engineering, or related field of study. \nDetail-oriented personality with strong technical skills. \nAttention to quality control. \n\n\n<strong>Why Choose ms consultants?  </strong>\nWe are proud to be an award-winning engineering, architecture, planning and environmental consulting firm, annually ranking within ENR’s Top 500 Design Firms. We partner with a variety of public and private clients and take pride in the many relationships we have formed by providing quality design solutions since 1963. We are dedicated to helping these clients achieve their goals through integrated, innovative solutions, and outstanding customer service.\n \nAs a member of the ms team, we consider your needs as a professional and as an individual outside of work. We offer a career path which provides opportunities for advancement at any level of your career and costs for licensure, certifications, and further education. To support yourself and your family, we offer a robust benefits package with options for health coverage, in addition to life insurance, disability, long-term care, and more. Our comprehensive 401(k) plan with company matching contributions sets you up for the future, from hire to retire. Wherever you are in your personal and professional journey, ms has you covered.\n \nWe know work-life balance is important and offer paid time off and flexible work schedules for when you need it, in addition to company paid holiday. Our focus on work-life balance also includes a hybrid work option, giving you the flexibility to work in the office and at home. We’re also able to offer full-time remote work for select position, depending on the role and work requirement.\n \n<strong>Our Mission:  </strong>\nBy investing in our people, we create comprehensive solutions for communities and clients.\n \n<strong>Our Vision:  </strong>\nOur vision is to shape a better tomorrow.\n \n<strong>Our Values:  </strong>\nWe are accountable. We foster collaboration. We stand for inclusion. We are committed to excellence. We are passionate about our work.\n \n<strong>The ms Commitment to Diversity, Equity, &amp; Inclusion</strong>\nms is a company that actively promotes anti-racist values and fosters an environment of diversity, equity, and inclusion. This means working together to speak out and take action against all forms of racism, bias, and discrimination, not only in our company but in our community and everyday lives. Read more about ms DEI here.\n \n<em>ms consultants, inc. is an Equal Opportunity/Affirmative Action employer. ms fully supports and maintains compliance with all state, federal, and local regulations. ms does not discriminate against applicants or employees on the basis of race, color, religion, sex (including gender identity, sexual orientation, and pregnancy), national origin, age (40 or older), disability, or genetic information.</em>\n \n<em>We value your privacy. Any personal information you provide in connection with this job posting will be handled in accordance with our Privacy Policy and Terms &amp; Conditions. By providing your contact information, you may receive text messages from ms consultants, inc regarding job opportunities and the hiring process. Message and data rates may apply. You can opt out at any time by replying STOP. To learn more, please visit  Privacy Policy and Terms and Conditions. </em>",
+    "content_hash": "42b67a5a909212b934e699c55e51a3fe"
+  },
+  "c1bf1bae9c73": {
+    "id": "c1bf1bae9c73",
+    "title": "Process Control Engineering Intern",
+    "title_raw": "Process Control Engineering Intern",
+    "company": {
+      "slug": "cleveland-cliffs",
+      "name": "Cleveland-Cliffs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Detroit Regional Office",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aksteel/careers",
+      "external_id": "R13475"
+    },
+    "apply_url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Detroit-Regional-Office/Process-Control-Engineering-Intern_R13475",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:53:55.484Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Location: Novi, MI</p><br /><p>Cleveland-Cliffs takes pride in offering a variety of opportunities for students and new graduates who have an interest in the steel industry and a passion for innovation and sustainability. We offer a best-in-class internship program in the industry and partner with many universities to provide co-op opportunities. Working beside industry-leading engineering and operational leaders, our interns/co-ops will create meaningful solutions to real-world problems. As an intern/co-op with Cleveland-Cliffs, you will build life-long professional connections and have the opportunity to be considered for future full-time employment.</p><br /><p>As a Process Control Engineering Intern at Cleveland-Cliffs, the projects assigned will vary based on the intern’s education level and plant location, but will generally reflect the duties outlined below.</p><br /><p><b>Summary of Responsibilities: </b></p><ul><li>Software development in a variety of programming languages and on a variety of hardware platforms</li><li>Maintenance of computer hardware and software</li><li>Maintenance and problem solving of all aspects of the automation system</li><li>Modifications to the automation system to adapt to new products and processes</li><li>Address issues that may impact production or system reliability</li><li>Process modeling for mill processes of a chemical, metallurgical and mechanical nature</li><li>Administration of a variety of Operating Systems and relational databases on workstations and servers</li><li>Work with complex measurement systems, such as:</li><li>Vision systems for product quality</li><li>Thermal imaging temperature measurements</li><li>RFID and barcode tag reading for product identification</li><li>X-ray, nuclear gauges, and other gauging systems</li><li>Work with networking technologies, high-speed data transmission, and specialty interfaces</li><li>Close coordination with a production department</li><li>Respond to routine and emergency requests</li><li>Manage local area project, task, and priority lists</li><li>Make recommendations for system and process improvements</li><li>Work with vendors on products and performance issues</li><li>Coordinating with Research and Development and other staff departments</li></ul><br /><p><b>Minimum Qualifications:</b></p><ul><li>Enrollment in Bachelor of Science program in the field of Computer Engineering, Software Engineering, Electrical Engineering, or other related technical degree</li><li>Completion of sophomore year of study by the summer of 2027</li></ul><br /><p>Applicants for this position must be currently legally authorized to work in the United States on a full-time basis.</p><br /><p>Cleveland-Cliffs is a leading North America-based steel producer with focus on value-added sheet products, particularly for the automotive industry. The Company is vertically integrated from the mining of iron ore, production of pellets and direct reduced iron, and processing of ferrous scrap through primary steelmaking and downstream finishing, stamping, tooling, and tubing. We offer an excellent total compensation package, including competitive pay with variable compensation opportunity, health insurance, retirement plan, education assistance, paid time off, and more. </p><p></p><p><i>Cleveland-Cliffs Inc. is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please send an e-mail to careers@clevelandcliffs.com or call 1-(312) 899-3097 and let us know the nature of your request and your contact information. Do not email your application materials to this email address. Application materials sent to this email address will not be considered.</i></p><p></p><p><i>Cleveland-Cliffs Inc. is an equal opportunity employer – M/F/Veteran/Disability. We are a drug-free workplace and conduct pre-employment screening as a condition of employment.</i></p>",
+    "content_hash": "2c049fdff4585da41cd5ddd2bc289f15"
+  }
+}

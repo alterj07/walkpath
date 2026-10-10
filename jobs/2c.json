@@ -1,0 +1,42 @@
+{
+  "2c23ac5015bc": {
+    "id": "2c23ac5015bc",
+    "title": "Internship - 3D Vision for Robotics",
+    "title_raw": "Internship - 3D Vision for Robotics",
+    "company": {
+      "slug": "fiducial",
+      "name": "Fiducial",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Delft",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fiducial",
+      "external_id": "50c7e0fd-6305-4876-8b22-ccd96bd94d40"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fiducial/50c7e0fd-6305-4876-8b22-ccd96bd94d40/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-12-19T09:18:00.577Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.628Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Opening</strong></h3><p>WE CANNOT PROVIDE VISA SPONSORSHIP</p><h3><br /><strong>Details</strong></h3><p>Preferred starting date: ASAP</p><p>Weekly availability: full-time (5 days/week)</p><p>Period: 6 months</p><p>Location: Aerospace Innovation Hub, Delft, the Netherlands</p><h3><br /><strong>About the company</strong></h3><p>Fiducial is a young but fast-growing deep-tech start-up with big ambitions at the frontier of autonomy, perception, and defence. Our core expertise lies in 3D vision and graphics technologies which we deploy in a dual-use context for inspection and defence. This role will initially focus mainly on the defence context where we are developing software for advanced on-board UAV situational awareness in military applications. Our solutions are aimed to operate with low-cost and widely available sensors and compute. From there, we plan to develop a line-up of interconnected solutions to safeguard European safety.</p><p>Our team consists of engineers that are passionate about the technology and solutions they develop. The only time most of us are not thinking about the technology is when we are asleep, and sometimes even then. Our team members have a background in different fields such as Aerospace Engineering, Computational Science and Engineering, Robotics, and Computer Graphics. Our office is located in the Aerospace Innovation Hub, a start-up hub located on the TU Delft campus in the faculty of Aerospace Engineering.</p><p>We work closely with top-tier partners, ranging from government agencies and prime contractors to academic research institutes and other start-ups. Our projects span from large tender orders in collaboration with partners, low TRL research with government agencies, to direct collaboration with military units. Whether through formal R&amp;D programs or rapid prototyping tracks, we operate at the intersection of innovation and deployment.</p><h3><br /><strong>Your role</strong></h3><p>You will work in our team of experienced 3D vision engineers, 3D computer graphics engineers, and robotics engineers. You will not just work on some unimportant side project but you might actually build key parts of solutions that will be used by our customers and partners. Activities include:</p><ul><li><p>Working on our in-house SOTA-beating visual odometry engine</p></li><li><p>Reconstructing 3D flight paths from camera detections</p></li><li><p>Implementing novel depth estimation methods for navigation</p></li></ul><h3><strong>What we expect from you</strong></h3><ul><li><p>Experience with real-time software development such as game, simulation, robotics or embedded development.</p></li><li><p>Experience with 3D vision for robotics such as SLAM, VIO, LIO or similar.</p></li><li><p>Familiarity with basic 3D vision concepts and algorithms such as projective geometry, epipolar geometry, PnP</p></li><li><p>Experience with 3D reconstruction solutions such as gaussian splatting, COLMAP, or photogrammetry.</p></li><li><p>Experience with modern C++</p></li></ul><p><strong>General</strong></p><ul><li><p>Full-time availability during the internship period.</p></li><li><p>A willingness to pick up and learn new concepts quickly and to self-acquire missing background knowledge.</p></li><li><p>A high degree of autonomy, determination and grit in making cool tech work.</p></li></ul><h3><strong>What can we offer</strong></h3><ul><li><p>1000 euro monthly compensation.</p></li><li><p>10 vacation days during internship period.</p></li><li><p>(Really) flexible working hours and option to work from home 2 days per week.</p></li><li><p>Have a direct and significant influence on highly innovative products.</p></li><li><p>The opportunity to iterate quickly with tight feedback loops, close to the product. We are innovating, learning is to be expected.</p></li><li><p>Responsibility over the things you implement, you are the expert on what you build.</p></li></ul><h3><strong>The application procedure</strong></h3><ul><li><p>If after reading the above you are convinced you are the right person for the job, send us some information about yourself; this can be a resume, website or other source, as long as we get a clear impression of your background and skills.</p></li><li><p>We’ll get back to you ASAP. If we feel you could be a fit for the position, we’ll invite you for an informal introduction so we can get to know you, and equally important, you can get to know us. After this, a technical focused interview could follow.</p></li><li><p>If at this point we feel you are the person we are looking for, we’ll discuss the specifics (starting date and period).</p></li><li><p>Welcome to the team!</p></li></ul>",
+    "content_hash": "7de087ab216be9bf6090d4d09969be17"
+  }
+}

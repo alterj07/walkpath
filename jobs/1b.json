@@ -1,0 +1,233 @@
+{
+  "1b320c3c8fea": {
+    "id": "1b320c3c8fea",
+    "title": "Software Engineering Intern, iOS",
+    "title_raw": "Software Engineering Intern, iOS",
+    "company": {
+      "slug": "ramp",
+      "name": "Ramp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY (HQ)",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ramp",
+      "external_id": "b66be397-240b-41a6-9b05-493299b270a9"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T01:01:49.394Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.286Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 12500,
+      "max": 12500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Ramp</strong></h3><p>Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p>The problems are high-stakes, data-dense, and unforgiving.</p><p>We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.</p><p>The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.</p><p>If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.</p><p></p><p>Explore our Engineering Blog &amp; Emerging Talent Blog to learn more about how we build at Ramp and what it’s like to start your career here.</p><p></p><h3>About the Role</h3><p>Ramp is, at its core, an engineering company, and is on a mission to build the best engineering team in the US! We are looking for iOS interns (12 or 16 weeks) who are excited to be part of our story and help us build a diverse and vibrant tech community. We hire engineers with a broad set of technical skills, who are highly cross-functional, and eager to solve a wide range of engineering challenges. Our ideal candidate has a strong sense of ownership and enjoys owning projects from inception to scaling them in production. We value people who take pride in their work, and show an aptitude for learning quickly whether they’re familiar with our stack or not. You'll be working with a nimble team of committed and talented engineers and having a large, long-term impact on technical design and engineering culture.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p>Build and ship new features for Ramp’s iOS app</p></li><li><p>Work alongside experienced engineers and contribute to our mobile codebase</p></li><li><p>Collaborate with Product and Design to bring new features and experiences to life</p></li><li><p>Learn from customer feedback and help continuously improve our product</p></li><li><p>Contribute to engineering tools and processes that help the team move quickly and scale</p><p></p></li></ul><h3><strong>What You’ll Need</strong></h3><ul><li><p>Currently pursuing a B.S. or higher in Computer Science or a related technical field, graduating December 2027 or later</p></li><li><p>Experience with Swift and/or iOS development through internships, coursework, or personal projects</p></li><li><p>Strong programming fundamentals and understanding of mobile development concepts</p></li><li><p>Experience building a mobile app, feature, or relevant project</p></li><li><p>Ability to turn product ideas into thoughtful engineering solutions</p></li><li><p>Desire to learn quickly, take ownership, and work in a fast-paced environment</p></li></ul><p></p><h3><strong>Nice to Haves</strong></h3><ul><li><p>Experience with SwiftUI</p></li><li><p>Familiarity with mobile design patterns and best practices</p></li><li><p>Experience shipping an iOS app or feature to real users</p></li><li><p>Exposure to technologies in our mobile stack, including Swift Concurrency, The Composable Architecture, Bazel, OpenAPI, or Buildkite</p></li><li><p>Experience with web or backend development</p></li></ul><p></p><h3><strong>Compensation</strong></h3><ul><li><p>The monthly rate for this internship is $12,500 USD + housing stipend</p></li></ul><p></p><h3><strong>Ramp Benefits</strong></h3><ul><li><p>Apple MacBook</p></li><li><p>Catered Lunches in NYC office Monday-Friday</p></li></ul><p></p><h3><strong>Benefits available to all full-time Ramp employees (Global)</strong></h3><ul><li><p>Flexible PTO</p></li><li><p>Centralized home-office equipment ordering</p></li><li><p>Health and wellness stipend</p></li><li><p>Budget for intra-office travel</p></li><li><p>Weekly coffee stipend</p></li></ul><p></p><h3><strong>United States</strong></h3><ul><li><p>100% medical, dental &amp; vision insurance coverage for you, with partial coverage for dependents</p></li><li><p>One Medical annual membership</p></li><li><p>401(k), including employer match on contributions made while employed by Ramp</p></li><li><p>Fertility HRA (up to $10,000 per year)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay</p></li><li><p>Pet insurance</p></li><li><p>In-office perks: lunch, snacks, drinks, and more</p></li><li><p>Relocation expense coverage to NYC or SF (if needed)</p><p></p></li></ul><h3><strong>Canada</strong></h3><ul><li><p>Group medical, dental, and vision coverage through Sun Life</p></li><li><p>Life, AD&amp;D, and disability coverage</p></li><li><p>Fertility drug coverage (up to $4,000 lifetime)</p></li><li><p>Group Retirement Plan with employer match (RRSP + DPSP)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay</p></li><li><p>Employee Assistance Program and virtual care through Lumino Health</p></li></ul><p></p><h3><strong>United Kingdom</strong></h3><ul><li><p>Private medical insurance through Freedom Elite</p></li><li><p>Virtual GP and at-home care via eMed x Livi</p></li><li><p>Workplace pension through Penfold, with salary sacrifice option</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay</p></li></ul><p></p><h3><strong>Referral Instructions</strong></h3><p>If you are being referred for the role, please contact that person to apply on your behalf.</p> <h3><strong>Other notices</strong></h3><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p> <p><em>Beware of recruiting scams: Ramp will only contact you through official @</em><em>Ramp.com</em><em> email addresses and will never ask for payment or sensitive personal information during the hiring process.</em></p> <p>Ramp Applicant Privacy Notice</p>",
+    "content_hash": "135556c9fa1882c12ad56410d8571f48"
+  },
+  "1b4740b0769b": {
+    "id": "1b4740b0769b",
+    "title": "AI Research Intern",
+    "title_raw": "AI Research Intern",
+    "company": {
+      "slug": "pangram-labs",
+      "name": "Pangram Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Brooklyn",
+      "city": "Brooklyn",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "pangramlabs",
+      "external_id": "2d00752c-b3f2-40e1-9c50-60147c858d0b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-04T19:47:04.969Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.235Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 8000,
+      "max": 11000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Pangram Labs is hiring talented <strong>AI Research Interns</strong> for Spring or Summer 2027.</p><p></p><p>Research interns conduct research relating to frontier AI detection research or related topics, with the goal of publishing a paper in a major conference venue. Examples of past internship projects at Pangram include EditLens (https://arxiv.org/pdf/2510.03154) and Scaling Laws for Wild AI Text (https://arxiv.org/abs/2609.40295).</p><p></p><p><strong>What You’ll Work On</strong></p><p></p><p>Interns are assigned a mentor, and choose a research topic or area prior to the internship. Current active research areas within Pangram include:</p><p></p><ul><li><p>Adversarial Robustness: how do detectors perform against humanizers and adversarial paraphrasing?</p></li><li><p>Interpretability: can we build more explainable, interpretable AI detection?</p></li><li><p>Mixed Human/AI Authorship: how can we quantify the different facets of human-AI coauthorship?</p></li><li><p>New Architectures: how can we optimize Pangram’s architecture for efficiency or even higher levels of accuracy?</p></li><li><p>Multimodal Detection: how can we improve AI detection for images, video, and audio?</p></li><li><p>Effects of AI-Generated Data on LLM Training: what is the effect of AI-generated data on foundation model training?</p></li><li><p>Agentic AI detection: how can we harness the power of agents to give Pangram more context about authorship?</p></li><li><p>Topics of your choice: propose an original topic relevant to AI detection</p></li></ul><p></p><p><strong>Requirements</strong></p><p></p><ul><li><p>Currently pursuing an M.S. or Ph.D. in Computer Science/Artificial Intelligence. Exceptional undergraduates entering their senior year are welcome to apply.</p></li><li><p>Prior research experience that has resulted in a published paper in a top AI venue.</p></li><li><p>Fluency in deep learning fundamentals and experience training neural networks.</p></li><li><p>Excellent programming skills in Python and a deep learning framework like Pytorch.</p></li><li><p>Experience working with an AI agent for research like Claude Code or Codex.</p></li></ul><p></p><p><strong>Compensation</strong></p><p></p><ul><li><p>$8,000-$11,000 per month</p></li><li><p>Relocation stipend available</p></li><li><p>In-office lunch</p></li><li><p>Top interns may receive return offers for full-time roles</p></li></ul>",
+    "content_hash": "d878f4c27a1468cbfcd8b047191ea051"
+  },
+  "1b6a4dae581c": {
+    "id": "1b6a4dae581c",
+    "title": "Infrastructure Engineer Intern",
+    "title_raw": "Infrastructure Engineer Intern",
+    "company": {
+      "slug": "dedalus-labs",
+      "name": "Dedalus Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "dedalus-labs",
+      "external_id": "fab1accf-2b21-453b-869f-a08759fa605c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-15T02:00:46.815Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": {
+      "min": 7800,
+      "max": 8667,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the role</h3><p>Dedalus Labs builds persistent computers for AI agents. Our flagship product, Dedalus Machines, gives agents an isolated environment where they can run software, keep files and state, and work over time.</p><p>We're looking for someone who notices a slow build, a repeated manual step, or a service that fails in a way nobody can explain, and wants to make it better. You'll learn how our infrastructure is built and operated by owning a useful improvement with the team.</p><h3>About the internship</h3><p>This is a paid, full-time, approximately three-month internship in San Francisco. Applications are open throughout the year, with start dates agreed individually. You'll work alongside Dedalus engineers on a scoped project the team can use, with direct feedback on your implementation and decisions.</p><p>We want evidence that you can learn something difficult, finish a working version, and improve it when the first approach fails. You do not need prior production ownership. You should already have a project you understand well enough to explain its hardest bug, its limits, and your personal contribution.</p><h3>What you might own</h3><ul><li><p>A build, test, or deployment improvement. Trace where the time goes, identify repeated work or a reliability problem, and verify the change against the same workload.</p></li><li><p>A provisioning or developer-tooling workflow that another engineer can run and troubleshoot from its documentation.</p></li><li><p>A scoped scheduling, storage, or service-recovery improvement, with tests for interrupted work and partial failure.</p></li><li><p>Diagnostics that connect a failed operation to the relevant logs, metrics, and resource state, followed by a fix for the underlying problem.</p></li></ul><p>Your project will have an agreed scope and completion criteria. The outcome should be usable by the team, with tests, documentation, and a clear account of its limitations.</p><h3>What we look for</h3><p>You have completed a meaningful programming project in Go, Rust, C, C++, or a similar language. You can explain its design, inspect its behavior on Linux, and investigate a failure. Experience with CI/CD, containers, Kubernetes, cloud infrastructure, networking, or infrastructure as code is useful.</p><p>Show us a tool someone used, a service you operated, a difficult bug you reproduced, or an experiment that led to a working improvement. Research and coursework are welcome too. Tell us what you personally implemented, including any decisions or extensions beyond the starting instructions.</p><p>When you get stuck, you narrow the problem, read the relevant source or documentation, and try an experiment that can teach you something. You ask for help with the evidence you've collected and explain what you need to understand next. You act on feedback and keep ownership of the result.</p><p>You use AI coding tools where they help. You must be able to explain the resulting code, test its behavior, and correct it when it is wrong. We care about your judgment and understanding throughout the work.</p><p>We evaluate the work relative to your experience and opportunities. A degree, a particular employer, or owning hardware is not a prerequisite. Be specific about what you have already learned and where you want to go deeper.</p><h3>This internship may be a poor fit if</h3><ul><li><p>You want to configure tools without understanding or investigating the software they run.</p></li><li><p>You need every next step supplied before trying a small experiment or asking a focused question.</p></li><li><p>You declare an improvement without checking whether another engineer can use it and whether the result is measurable.</p></li></ul><h3>Logistics</h3><ul><li><p>Rolling applications throughout the year.</p></li><li><p>Approximately three months, with exact dates agreed individually.</p></li><li><p>Paid, full-time, and five days per week in person in San Francisco.</p></li><li><p>Meals and office benefits included.</p></li><li><p>Relocation support may be available.</p></li><li><p>Visa support may be considered depending on the candidate and circumstances.</p></li><li><p>Possible consideration for full-time employment, without a guarantee of conversion.</p></li></ul><h3>Show us your work</h3><p>Use your application to show us one thing you built and one difficult problem you investigated. They can come from the same project. Choose work you already have. We are not asking you to build a new project for this application.</p><ul><li><p><strong>Work:</strong> Show the code, demo, design, or result. Explain what you personally owned, what you reused, and one decision that made the result better or simpler.</p></li><li><p><strong>Investigation:</strong> Describe the symptom, your first explanation, the evidence that changed your thinking, and how you established the result. Include the workload or users involved and any important limitations.</p></li><li><p><strong>Writing:</strong> Share one piece of your best writing as a separate, required sample. Simple and succinct is welcome. Choose work that shows your thinking and your voice in a professional or similarly thoughtful context: a strong README, design note, blog post, postmortem, proposal, or essay. A serious, self-contained Reddit post is fine. Tweets, Twitter/X threads, and short social posts do not count. Link it or paste a redacted excerpt. Tell us the intended audience, what you wrote, why you chose it, and any coauthors or AI assistance.</p></li></ul><p>Work from employment, open source, research, coursework, or independent projects is welcome. Public source code is optional. A redacted excerpt or a concrete account of private work is fine. Keep confidential information out of your application.</p><p>Tell us which problem in this role you want to own and why. If your strongest evidence is easy to miss on a resume, point us to it. An existing demo or short screen recording is welcome, and video is optional.</p><h3>Compensation</h3><p>Internship pay is $45-$50 per hour. The monthly range shown above is an approximate equivalent of $7,800-$8,667 at 40 hours per week, averaged over 52 weeks per year. Actual pay is based on hours worked.</p>",
+    "content_hash": "606d232455bd1bb24469bd63859e63b4"
+  },
+  "1bf404209fd1": {
+    "id": "1bf404209fd1",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)",
+    "title_raw": "Software Engineer Intern, Mobile (Winter 2027)",
+    "company": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York, New York"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "notion",
+      "external_id": "2b587e66-deac-421a-a824-9415ba78b5a7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T19:58:11.492Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.087Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 57,
+      "max": 57,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3>Who We Are</h3><p>Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p></p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><p></p><p>Notion is an in person company, and currently requires its employees to come to the office for three Anchor Days (Mondays, Tuesdays, and Thursdays). <em><strong>This internship will take place from Jan 25 - Apr 16 and you will need to be able to work out of our NY or SF office during this time.</strong></em></p><p></p><h3>About the Role:</h3><p>Mobile devices have reshaped personal computing—the power of a desktop now fits in our pockets. By giving everyone the building blocks to create their own tools, we'll solve more problems wherever we go. A delightful, intuitive mobile experience: that's our guiding light, and we need Android and iOS engineers to make it a reality.</p><p>During your 12-week internship, you will be paired with a mentor that will help guide you as you work closely with our team to build and ship impactful projects. These projects will drive valuable impact to our customers and engineers. Take a look at what our past intern cohort worked on with our Blog post here and here and TikTok post.</p><p></p><h3>What You'll Achieve:</h3><ul><li><p>Write clean, secure, tested, and documented code.</p></li><li><p>You'll collaborate with the team to strategize, mold, and develop innovative features for our Android and iOS application.</p></li><li><p>At our core, we prioritize crafting top-tier applications. Your role could involve enhancing the Android or iOS app's performance, reliability, and overall refinement. Additionally, you'll have the opportunity to optimize aspects of the app within the web stack.</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p>Pursuing a Bachelor's or Master’s degree in computer science, engineering, or another related field. Must graduate before December 2027.</p></li><li><p>Previous mobile internship experience.</p></li><li><p>Working towards a proficiency of one or more programming languages such as Kotlin, Java, Typescript, Node.js, Swift, Go, Python, or Rust.</p></li><li><p>You find large challenges exciting and enjoy discovering problems as much as solving them.</p></li><li><p>You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment.</p></li><li><p>This internship will take place from Jan - Apr and you will need to be able to work out of our SF or NY office during this time.</p></li></ul><p></p><h3>Skills You'll Need to Bring: </h3><ul><li><p><strong>Thoughtful problem-solving:</strong> For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.</p></li><li><p><strong>Put users first:</strong> You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.</p></li><li><p><strong>Not ideological about technology:</strong> To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go.</p></li><li><p><strong>Empathetic communication:</strong> You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.</p></li><li><p><strong>Team player:</strong> For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</p></li></ul><p></p><h3>Nice to Haves:</h3><ul><li><p>You're proficient with any part of our technology stack: Kotlin, Jetpack Compose, Android SDK, Dagger, Swift, React, TypeScript, Postgres.</p></li><li><p>You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.</p></li><li><p>You have interests outside of technology, such as in art, history, or social sciences.</p></li></ul><p></p><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated hourly range for this role is $57/hr for Bachelors or $61/hr for Master’s.</p><p></p><p>By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy and NYLL 144.</p><p></p><p>#LI-Onsite</p><p></p><h3>A Note on AI</h3><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><p></p><h3>Equal Opportunity &amp; Accommodations</h3><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p></p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p>",
+    "content_hash": "2b1c471e04d27cf92ec1e76cf2213783"
+  },
+  "1bfbc799fdd4": {
+    "id": "1bfbc799fdd4",
+    "title": "Summer 2027 Undergraduate Intern, National Security Project",
+    "title_raw": "Summer 2027 Undergraduate Intern, National Security Project",
+    "company": {
+      "slug": "aclu-kentucky",
+      "name": "ACLU Kentucky",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "acluinternships",
+      "external_id": "8842752002"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/acluinternships/jobs/8842752002",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-28T14:41:42.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:30.955Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 20,
+      "max": 20,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>ABOUT THE ROLE</strong></h3>\n<p>The ACLU seeks a <strong>Summer 2027 </strong><strong>Undergraduate Intern</strong> in the <strong>National Security Project </strong>of the ACLU's National Office. This is a <strong>hybrid</strong> position based out our National Office located in <strong>New York, NY.</strong></p>\n<p>Qualifying applicants must currently be matriculated undergraduate students and must be based in the U.S. for the entire duration of the internship. </p>\n<h3><strong>THE TEAM</strong></h3>\n<p>The National Security Project fights for people and communities harmed by the government in the name of national security. Recognizing the danger of expansive claims of state power, we advocate for a robust system of checks and balances and for policies that comply with the Constitution, civil liberties, and human rights. Through the courts, Congress, and public education, we strive to ensure that people are able to participate fully in civic life and are free from discrimination, unwarranted suspicion and surveillance, unlawful force and detention, and the stigma and other injustices that result from these abuses. </p>\n<h3><strong>WHAT YOU'LL DO</strong></h3>\n<p>The National Security Project’s Undergraduate Intern will be responsible for a wide range of administrative and substantive tasks to support our litigation and advocacy efforts in the national security context. </p>\n<h3> <strong>Your Day to Day</strong></h3>\n<ul>\n<li>Reviewing and logging government documents in National Security Project online databases </li>\n<li>Organizing and archiving case files </li>\n<li>Conducting factual research </li>\n</ul>\n<h3> <strong>WHAT YOU'LL BRING</strong></h3>\n<p>The internship is open to students who will have completed at least three years of an undergraduate degree program before the internship commences. Interns should possess the following:   </p>\n<ul>\n<li>Strong interest in human rights and civil liberties issues </li>\n<li>Excellent research, writing, and communication skills </li>\n<li>Strong computer and web-based research skills </li>\n<li>Strong organizational skills </li>\n<li>Initiative to see projects through to completion </li>\n</ul>\n<p>Preferred: Experience, through personal connection or work experience, working with historically marginalized communities whose civil rights and liberties are harmed by discriminatory or abusive national security policies </p>\n<h3><strong>FUTURE ACLU'ERS WILL</strong></h3>\n<ul>\n<li>Be committed to advancing the mission of the ACLU</li>\n<li>Center and embed the principles of equity, inclusion and belonging in their work by demonstrating commitment to diversity with an approach that respects and values multiple perspectives <br />Be committed to work collaboratively and respectfully toward resolving obstacles and conflicts </li>\n</ul>\n<h3><strong>INTERNSHIP LOGISTICS </strong></h3>\n<ul>\n<li><strong>Location</strong>: Our internship program offers a limited number of remote or hybrid intern positions. This internship is hybrid based out of our National Office<strong> in New York, NY</strong>.</li>\n<li><strong>Time Commitment</strong>: This internship is full-time (35 hrs/wk) for a duration of 10 consecutive weeks.</li>\n<li><strong>Internship Duration</strong>: This internship has a start date of <strong>May 24 or June 7.</strong></li>\n<li><strong>Stipend: </strong>A stipend is available for those students who are lawfully authorized to work. Students who receive outside funding are eligible for a partial stipend to bring their total funding up to the level of the ACLU’s stipend amount for the summer. Legal interns receive a stipend amount of $20/hour (stipends are taxed)</li>\n</ul>\n<p><strong>Priority Application Deadline: November 2</strong></p>\n<p>While there is a priority deadline, our project is committed to reviewing all applications on a rolling basis until the closing of posting. </p>\n<h3><strong>WHY THE ACLU</strong> </h3>\n<p>For over 100 years, the ACLU has worked to defend and preserve the individual rights and liberties guaranteed by the Constitution and laws of the United States. Whether it’s ending mass incarceration, achieving full equality for the LGBTQ+ community, establishing new privacy protections for our digital age, or preserving the right to vote or the right to have an abortion, the ACLU takes up the toughest civil liberties cases and issues to defend all people.  </p>\n<h3><strong>OUR COMMITMENT TO ACCESSIBILITY, EQUITY, DIVERSITY &amp; INCLUSION</strong></h3>\n<p>Accessibility, equity, diversity, and inclusion are core values of the ACLU and central to our work to advance liberty, equality, and justice for all. For us diversity, equity and inclusion are not just check-the-box activities, but a chance for us to make long-term meaningful change. We are a community committed to learning and growth, humility and grace, transparency and accountability. We believe in a collective responsibility to create a culture of belonging for all people within our organization – one that respects and embraces difference; treats everyone equitably; and empowers our colleagues to do the best work possible. We are as committed to anti-oppression and anti-racism internally as we are externally. Because whether we’re in the courts or in the office, we believe ‘We the People’ means all of us.   </p>\n<p>With this commitment in mind, we strongly encourage applications from all qualified individuals without regard to race, color, religion, gender, sexual orientation, gender identity or expression, age, national origin, marital status, citizenship, disability, veteran status and record of arrest or conviction, or any other characteristic protected by applicable law.   </p>\n<p><em>The ACLU is committed to providing reasonable accommodation to individuals with disabilities. If you are a qualified individual with a disability and need assistance applying online, please complete the </em>Accommodation Request Form</p>\n<p><em>If you are selected for an interview, you will receive additional information regarding how to request an accommodation for the interview process.</em></p>\n<p><strong><em>In order to be considered for this position, all candidates must formally submit an application. The ACLU does not accept unsolicited calls or emails from candidates regarding their application status.</em></strong></p>\n<p><strong><em></em></strong></p>\n<h3>ACLU’s internship program is supported in part by the Arnie Miller Fund for the Next Generation: The Arnie Miller Fund For The Next Generation | American Civil Liberties Union.</h3>\n<p><strong><em></em></strong></p>",
+    "content_hash": "349e83b4b01ef9f7da889361426e68f1"
+  }
+}

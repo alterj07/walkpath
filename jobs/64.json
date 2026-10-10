@@ -1,0 +1,130 @@
+{
+  "6415264b7bc0": {
+    "id": "6415264b7bc0",
+    "title": "EA & Cloud Intern - Summer 2027",
+    "title_raw": "EA & Cloud Intern - Summer 2027 - Franklin, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Franklin, Tennessee - United States of America",
+      "city": "Franklin",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214214"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:58:44.510Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Franklin, TN<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Computer Science, Cloud Computing, Information Systems, Software Engineering, Artificial Intelligence, Machine Learning, or related field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for an EA &amp; Cloud Intern to join our team in Franklin, TN. This internship provides a unique opportunity to gain hands-on experience in enterprise architecture, cloud technologies, and AI-driven development within a large-scale enterprise environment. You will work alongside experienced technology professionals to design and build innovative solutions, learn how cloud platforms operate at scale, and contribute to projects that support Nissan's digital transformation initiatives.</p><br /><h3>A Day in the Life:</h3><ul><li>Design and build production-grade AI agents that support AI-driven development lifecycle (AI-DLC) initiatives.</li><li>Leverage enterprise AI tools to accelerate development, improve productivity, and enhance business processes.</li><li>Collaborate with technical teams to develop and deploy cloud-based solutions.</li><li>Learn and apply enterprise architecture standards, governance practices, and technology frameworks.</li><li>Support initiatives that improve cloud operations, automation, and platform management across the organization.</li></ul><br /><h3>Who We’re Looking For:</h3><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Computer Science, Cloud Computing, Information Systems, Software Engineering, Artificial Intelligence, Machine Learning, or a related field.</li><li>Students entering their Junior, Senior, or Master's program at the start of the upcoming academic term.</li><li>Strong Python programming skills.</li><li>Familiarity with AWS services, including EC2, S3, Lambda, IAM, and VPC; AWS certification is a plus.</li><li>Coursework or project experience involving AI/ML, Generative AI, Large Language Models (LLMs), agentic AI, prompt engineering, or related technologies.</li><li>Basic understanding of DevOps and DevSecOps concepts, including CI/CD, Git, and Infrastructure as Code.</li><li>Strong problem-solving and analytical skills.</li><li>Excellent communication and collaboration skills with the ability to work effectively in a team environment.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Franklin, TN.</li></ul><br /><h3>What You’ll Look Forward to at Nissan:</h3><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Franklin Tennessee United States of America",
+    "content_hash": "457cf8e3556e9a38d14d2a70fb48b58b"
+  },
+  "64334e8982f6": {
+    "id": "64334e8982f6",
+    "title": "Robot Learning Engineer Intern",
+    "title_raw": "Robot Learning Engineer Intern",
+    "company": {
+      "slug": "gritt-robotics-inc",
+      "name": "GRITT ROBOTICS INC",
+      "domain": ""
+    },
+    "location": {
+      "raw": "South San Francisco",
+      "city": "South San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gritt",
+      "external_id": "5c4737ce-f546-453b-b30d-791a121fb9fd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-21T00:11:20.106Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.302Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em>Gritt</em><em> is an intelligent system that combines robotics and AI to build the infrastructure that pulls society forward. Gritt deploys via simple attachments to common equipment found on construction sites and autonomously performs labor-intensive tasks, verification, and planning. Gritt systems are already building critical infrastructure in the harshest outdoor environments, starting with large-scale solar. The </em><em>founding team</em><em> includes experts in robotics and AI from Carnegie Mellon, Stanford, and MIT. Gritt is backed by Obvious Ventures, Union Square Ventures, First Round Capital, Climactic, Congruent Ventures, and other leading firms.</em></p><p></p><p><strong>Role: Robot Learning Engineer Intern</strong></p><p><strong>Location: SF Bay Area (in-person)</strong><br /><br /><strong>About Internships at Gritt</strong><br />Our internships are scoped projects: you own a defined deliverable end-to-end, work with a dedicated mentor, and demo your work to the whole team. Many interns receive return or full-time offers. This will be an internship for one of two durations: 3 months, or 6 months. <br /><br />We offer competitive salaries, and the opportunity to work on a mission with tremendous climate impact.<br /><br /><br /><strong>What you'll get to work on</strong></p><ul><li><p>Train policies (imitation learning, RL, or fine-tuned foundation models) for real robot tasks.</p></li><li><p>Build data collection and evaluation pipelines; run ablations.</p></li><li><p>Deploy policies on hardware and iterate against real-world performance.</p></li><li><p>Test your work on real robots at the office.</p></li><li><p>Get hands-on with pose estimation, VLM, VLA, 3D scene reconstruction, object detection, and multimodal learning.</p></li><li><p>Get the opportunity to publish (for PhD interns).</p></li><li><p>Attend Tier-1 industry conferences.</p></li></ul><p></p><p><em>An example project could be could be anything from pick-and-place policies for large flexible panels under wind disturbance, to sim-to-real for manipulation from a machine on uneven ground.</em></p><h3><br /><strong>What we look for</strong></h3><ul><li><p>Pursuing MS/PhD in ML, Robotics, CS, or related field (exceptional undergraduates welcome).</p></li><li><p>Strong PyTorch; solid grounding in deep learning and one of IL/RL.</p></li><li><p>Applied evidence: publications, open-source, or substantial course/competition projects.</p></li><li><p>Should be comfortable taking ownership of tasks with light supervision.</p></li><li><p>Must have excellent problem-solving skills.</p></li><li><p>Legally authorized to do an internship in the United States for either 3 months or 6 months.</p></li></ul><h3><br /><strong>Nice to have</strong></h3><ul><li><p>Experience with simulators (Isaac, MuJoCo), VLA/foundation models, tele-op data collection, or real-hardware deployment.</p></li></ul>",
+    "content_hash": "00c4d69df5c4ef393ca304a1719fef51"
+  },
+  "64e57886d7ea": {
+    "id": "64e57886d7ea",
+    "title": "Full Stack Software Engineering Intern",
+    "title_raw": "Full Stack Software Engineering Intern",
+    "company": {
+      "slug": "gecko-robotics",
+      "name": "Gecko Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gecko-robotics",
+      "external_id": "01138338-ff3c-4982-8ba3-5401386bf082"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T13:16:37.228Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.675Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 40,
+      "max": 80,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>What We Do </strong></h3><p>Gecko Robotics is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.</p><p><strong>Role at a Glance</strong></p><p>Gecko Robotics is seeking a <strong>Full Stack Software Engineering Intern</strong> to join our Engineering team in New York for <strong>Summer 2027</strong>. This is a full-time, onsite internship, Monday through Friday.</p><p>Gecko’s Engineering teams build customer-facing applications that turn robot, sensor, and document data into decisions about the health of critical infrastructure. You will work across the stack on a defined project: building frontend workflows, backend services, and data pipelines that make complex asset data usable by the people who maintain it. You will ship real features into a product that customers already rely on, with clear direction from a mentor and the room to own your piece of it.</p><p>Due to government program requirements, candidates must be authorized to work in the United States.</p><p><strong>What you will do</strong></p><ul><li><p>Own a scoped full-stack project from design through deployment under the guidance of experienced engineers.</p></li><li><p>Build user-facing features in React and TypeScript that support real operational workflows.</p></li><li><p>Develop backend APIs and services in Python that ingest, transform, and serve structured and unstructured data.</p></li><li><p>Design data models and schemas, and write the logic that parses, associates, and validates data from multiple sources.</p></li><li><p>Use version control, code review, testing, and structured debugging to produce maintainable code.</p></li><li><p>Collaborate with engineers, product managers, and Forward Deployment Engineers to understand how customers use the product, with the option to travel to a customer site during the summer.</p></li><li><p>Present your project, results, and recommended next steps at the end of the internship.</p></li></ul><p><strong>Technologies We Use</strong></p><p>React, TypeScript, Python, PostgreSQL, REST APIs, Git, Linux, and cloud infrastructure (GCP). Depending on the project, you may also work with LLM APIs and data-processing pipelines, 3D visualization, or containerized deployments. The specific tools will depend on the assigned project.</p><p><strong>About You</strong></p><p>You are a builder who likes seeing your work used. You are comfortable moving between frontend and backend, you break large problems into shippable pieces, and you communicate clearly about what you built, what you learned, and what you would do next.</p><p><strong>Required Skills</strong></p><ul><li><p>Currently pursuing a bachelor’s or master’s degree in computer science, software engineering, or a related technical discipline, with an expected graduation date between December 2027 and May 2028.</p></li><li><p>Ability to work onsite in New York, Monday through Friday, for the full Summer 2027 internship.</p></li><li><p>Foundational programming experience in Python and JavaScript or TypeScript, including object-oriented or functional programming concepts.</p></li><li><p>Experience building a web application end to end (frontend and backend) through coursework, projects, research, hackathons, or a prior internship.</p></li><li><p>Working familiarity with Git or similar version control systems.</p></li><li><p>Understanding of relational databases and REST APIs.</p></li><li><p>Strong written and verbal communication skills, including the ability to document technical work, explain tradeoffs, and collaborate on ambiguous problems.</p></li><li><p>Ability to independently close knowledge gaps, stay organized, and learn from feedback.</p></li></ul><p><strong>Preferred Skills</strong></p><ul><li><p>Experience with React and TypeScript in a real project.</p></li><li><p>Experience designing data schemas or working with messy, real-world datasets.</p></li><li><p>Exposure to cloud infrastructure, preferably GCP, and to containers such as Docker.</p></li><li><p>Exposure to integrating LLM or other AI APIs into an application.</p></li><li><p>Interest in 3D, visualization, or spatial data.</p></li><li><p>Interest in industrial, defense, or infrastructure applications where reliability matters.</p></li></ul><h3><strong>Who We Are</strong></h3><p>At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral parental leave, full medical, dental, and vision insurance, mental health, ongoing professional development, family planning assistance, and flexible paid time off. </p><p>Gecko values collaboration, innovation, and partnership, and we believe we do our best work when we're together in person. We’re an office-first culture but understand that sometimes you may need to work from home. Many people are in the office five days a week, others need a bit more flexibility. Ultimately, we care about the outcomes we achieve - and creating a culture of autonomy and trust that enables that impact.</p><p>Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer.  We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today’s infrastructure and give form to tomorrow’s. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal, state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we’d love to hear from you.</p>",
+    "content_hash": "fb2afa372a7880683e067dffc4ce6d42"
+  }
+}

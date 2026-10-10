@@ -1,0 +1,135 @@
+{
+  "9327cadca5ad": {
+    "id": "9327cadca5ad",
+    "title": "Embedded Software Engineering Intern",
+    "title_raw": "Embedded Software Engineering Intern",
+    "company": {
+      "slug": "gecko-robotics",
+      "name": "Gecko Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gecko-robotics",
+      "external_id": "24561868-f075-4edf-a991-59ff0174e92a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T17:18:09.087Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.675Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>What We Do </strong></h3><p>Gecko Robotics is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.</p><p><strong>Role at a Glance</strong></p><p>Gecko Robotics is seeking an <strong>Embedded Software Engineering Intern</strong> to join RoboSPLAT within Field Infra in Pittsburgh for <strong>Summer 2027</strong>. This is a full-time, onsite internship, Monday through Friday.</p><p>RoboSPLAT builds software and tools that help teams develop, deploy, debug, and operate Gecko’s robotic and ultrasonic testing (UT) collection systems. You will work primarily in C/C++ and Python on a defined project that improves system integration, diagnostics, testing, or development workflows.</p><p><strong>What you will do</strong></p><ul><li><p>Develop C/C++ and Python software for a defined embedded software project under the guidance of experienced engineers.</p></li><li><p>Build or improve tooling, diagnostics, tests, or workflows that reduce friction in developing, debugging, and deploying software on robot hardware.</p></li><li><p>Work across software and system boundaries by integrating services or hardware-facing interfaces, investigating system behavior, testing solutions, and documenting findings.</p></li><li><p>Use version control, code review, and structured debugging practices to produce maintainable code.</p></li><li><p>Collaborate with RoboSPLAT and partner teams, communicate status and tradeoffs clearly, and deliver a final demonstration and handoff.</p></li></ul><p><strong>Technologies We Use (If Applicable)</strong></p><p>C/C++, Python, Git, Linux, networking, and ROS 2. Depending on the project, you may also work with the Yocto Project, NVIDIA Jetson Orin, cloud infrastructure, or Electron, React, and TypeScript.</p><p><strong>About You</strong></p><p>You are a hands-on engineering student who wants to understand how software behaves on real hardware. You work methodically, seek out missing knowledge, communicate clearly, and care about building tools and systems that others can use.</p><p><strong>Required Skills</strong></p><ul><li><p>Currently pursuing a bachelor’s or master’s degree in electrical engineering, computer engineering, computer science, or a related engineering discipline, with an expected graduation date between December 2027 and May 2028.</p></li><li><p>Ability to work onsite in Pittsburgh, Monday through Friday, for the full Summer 2027 internship.</p></li><li><p>Foundational programming experience in C/C++ and Python, including object-oriented programming.</p></li><li><p>Working familiarity with Git or similar version control systems.</p></li><li><p>Understanding of basic computer networking.</p></li><li><p>Strong written and verbal communication skills, including the ability to document technical work, explain findings and tradeoffs, and collaborate on ambiguous problems.</p></li><li><p>Ability to independently close knowledge gaps, stay organized, and learn from feedback.</p></li></ul><p><strong>Preferred Skills</strong></p><ul><li><p>Experience with ROS 2.</p></li><li><p>Familiarity with embedded Linux systems or platforms such as the Yocto Project or NVIDIA Jetson Orin.</p></li><li><p>Exposure to cloud infrastructure, preferably GCP.</p></li><li><p>Experience building applications with Electron, React, or TypeScript.</p></li><li><p>Exposure to embedded communication protocols, microcontrollers, or real-time operating systems is a plus.</p></li><li><p>Ability to work with basic electronic systems, read simple schematics, and use common lab equipment such as oscilloscopes, multimeters, and programmable power supplies.</p></li></ul><h3><strong>Who We Are</strong></h3><p>At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral parental leave, full medical, dental, and vision insurance, mental health, ongoing professional development, family planning assistance, and flexible paid time off. </p><p>Gecko values collaboration, innovation, and partnership, and we believe we do our best work when we're together in person. We’re an office-first culture but understand that sometimes you may need to work from home. Many people are in the office five days a week, others need a bit more flexibility. Ultimately, we care about the outcomes we achieve - and creating a culture of autonomy and trust that enables that impact.</p><p>Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer.  We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today’s infrastructure and give form to tomorrow’s. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal, state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we’d love to hear from you.</p>",
+    "content_hash": "8af5f87e01bc7356674c2bcbb094818c"
+  },
+  "9332048ec122": {
+    "id": "9332048ec122",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "layup-parts",
+      "name": "Layup Parts",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Huntington Beach, CA",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "layup",
+      "external_id": "0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53"
+    },
+    "apply_url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-07-10T18:39:19.848Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:01:42.552Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Layup Parts, we're developing the technology that will build the future. </p>\n<p>We're a manufacturing technology company replacing months of lead time with days, using proprietary software, automation, and advanced manufacturing systems built for speed. Our customers are inventing what's next, in aerospace, defense, robotics, and beyond. To keep up with them, manufacturing has to change. That's what we're building. </p>\n\n\n<p>We design, machine, laminate, and build at industry-leading speeds.  Now we’re looking for a highly motivated Software Engineering Interns to join our team as members of our growing software engineering division that is building out our proprietary software. </p>\n<p><strong>Rolling Applications Open Year-Round: </strong> Whether you're looking for a Fall, Winter, Spring, or Summer internship, we’re accepting applications on a rolling basis. Join us for the season that fits your schedule and make a real impact on our fast-moving team. </p>\n\n<h3>Why You’ll Love This Internship: </h3>\nWork on real production software that powers our factory.  \nLearn by doing in a startup environment that values your input.  \nCollaborate with production, manufacturing and engineering team members to solve tough problems.  \nBuild technology that’s changing how composites parts get made for aerospace and defense clients.  \n\n<h3>What you will do: </h3>\nHelp build out our factory operating system.  \nDesign interfaces for production machinery to capture real time data.  \nCollaborate and create new features for our customer portal.  \nDevelop internal tools and improving manufacturing processes with automation.  \n\n<h3>Required: </h3>\n<strong>Being awesome! Be the kind of person you want to work with!</strong>  \nBe a strong engineer of exceptional ability, driven by engineering fundamentals.  \nAbility to quickly understand and navigate complex systems and established code bases.  \n\n<h3>Preferred: </h3>\nSome hands-on experience with Go, React TS or Rust  \nExperience designing software related to 3D part representations or manipulation in a CAD/CAM program or similar.  \nFamiliarity with customer facing software applications.  \nExperience regarding manufacturing or part design (especially composites).  \nGood understanding of the mechanical and manufacturing world.  \n\n<strong>Equal Opportunity</strong> \nLayup is an equal-opportunity employer. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the CA Fair Chance Initiative for Hiring Ordinance. \n \n<strong>ITAR Requirements</strong> \nTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.",
+    "content_hash": "e4e082297b096cab2dc3f3384c42efe8"
+  },
+  "9334ddb1425c": {
+    "id": "9334ddb1425c",
+    "title": "AI/SWE Intern",
+    "title_raw": "AI/SWE Intern",
+    "company": {
+      "slug": "bild-ai",
+      "name": "Bild AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bild-ai",
+      "external_id": "b333f0f7-0ca6-4509-8697-9303396b5364"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-20T16:09:44.217Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.964Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 3000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Puneet and I (Roop) to tackle the chaos of blueprint reading, cost estimation, and permit applications in construction. It's a gnarly technical challenge requiring cutting-edge computer vision and AI—and we're impact-driven to make building homes, hospitals, and schools faster and cheaper. Featured on <strong>Business Insider</strong>.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Apply the latest computer vision, LLMs, and AI systems to solve real construction problems</p></li><li><p>Ship prototypes fast and iterate based on user feedback from contractors and architects</p></li><li><p>Build your intern project with sole ownership, from research to production</p></li></ul><h3><strong>We want</strong></h3><ul><li><p>0-to-1 builder, with your AI in production</p></li><li><p>Growth mindset, slope &gt; y-intercept</p></li><li><p>Direct communication with empathy and honesty. Tell us what energizes and frustrates you</p></li><li><p>Don’t mind <strong>schlep</strong>. We are regularly knee-deep in the messy, unglamorous work</p></li></ul><h3><strong>Bonus points (if any)</strong></h3><ul><li><p>Applied CV/ML experience</p></li><li><p>Have built something people used/paid for</p></li><li><p>Construction, architecture, or real estate interest</p></li><li><p>Genuinely motivated by making housing and building more affordable</p></li></ul><h3><strong>Message with</strong></h3><ul><li><p>Why you think we're a mutual fit</p></li><li><p>Your favorite fruit (mine is <strong>Sitaphal</strong>)</p></li><li><p>(Please keep it short)</p></li></ul><h3><strong>Logistics</strong></h3><ul><li><p>SF-based for the course of the internship, we’ll cover logistics</p></li></ul>",
+    "content_hash": "97a49f8a9f44080cf0d8c770f60f46c0"
+  }
+}

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in GA</title>
+  <id>https://walkpath.vercel.app/feeds/state-GA.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-GA.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:953c300d7236</id>
+    <title>Developer Intern @ Alston &amp; Bird Law Firm</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/953c300d7236"/>
+    <updated>2026-10-07T00:00:00.000Z</updated>
+    <published>2026-10-07T00:00:00.000Z</published>
+    <author><name>Alston &amp; Bird Law Firm</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">THE FIRMAs a leading international law firm, we are dedicated to excellence through impactful communication, collaboration, and community involvement. Our company culture has earned us one of the &quot;100 Best Companies to Work For&quot; for 27 consecutive years. This honor, along with many others,…</summary>
+    <content type="text">Alston &amp; Bird Law Firm · Atlanta, GA
+
+THE FIRMAs a leading international law firm, we are dedicated to excellence through impactful communication, collaboration, and community involvement. Our company culture has earned us one of the &quot;100 Best Companies to Work For&quot; for 27 consecutive years. This honor, along with many others,…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:7458dc8660ae</id>
+    <title>Build Reliability Engineering Intern - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/7458dc8660ae"/>
+    <updated>2026-09-22T15:09:49.327Z</updated>
+    <published>2026-09-22T15:09:49.327Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:5ee9d0a3667c</id>
+    <title>Avionics Electrical Engineering Intern - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/5ee9d0a3667c"/>
+    <updated>2026-09-09T14:07:12.921Z</updated>
+    <published>2026-09-09T14:07:12.921Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:e221a18cb611</id>
+    <title>Flight Operations &amp; Airworthiness Engineering Intern - Spring/Summer/Fall 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/e221a18cb611"/>
+    <updated>2026-09-08T14:55:19.649Z</updated>
+    <published>2026-09-08T14:55:19.649Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Fall 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:699673144814</id>
+    <title>GNC &amp; Flight Software Intern - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/699673144814"/>
+    <updated>2026-09-03T19:19:21.264Z</updated>
+    <published>2026-09-03T19:19:21.264Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:4cf85556b6df</id>
+    <title>Mission Systems Engineering Intern - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/4cf85556b6df"/>
+    <updated>2026-09-03T16:35:01.429Z</updated>
+    <published>2026-09-03T16:35:01.429Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA +1 more
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:0aa266f94807</id>
+    <title>Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/0aa266f94807"/>
+    <updated>2026-09-03T02:07:59.510Z</updated>
+    <published>2026-09-03T02:07:59.510Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:75ebb3a285fc</id>
+    <title>Municipal Engineering Internship @ Benesch</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/75ebb3a285fc"/>
+    <updated>2026-09-01T20:46:09.000Z</updated>
+    <published>2026-09-01T20:46:09.000Z</published>
+    <author><name>Benesch</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Simply Put, A Great Place to Work Benesch is a growing, multi-disciplined planning, engineering, and professional services firm. We enhance infrastructure and communities across the country – creating spaces and providing connections in ways that make a difference. We pride ourselves on being…</summary>
+    <content type="text">Benesch · Atlanta, GA +3 more
+
+Season: Summer 2026
+
+Simply Put, A Great Place to Work Benesch is a growing, multi-disciplined planning, engineering, and professional services firm. We enhance infrastructure and communities across the country – creating spaces and providing connections in ways that make a difference. We pride ourselves on being…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:54979e8f9a90</id>
+    <title>Subsystem Test Engineering Intern - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/54979e8f9a90"/>
+    <updated>2026-09-01T15:46:08.009Z</updated>
+    <published>2026-09-01T15:46:08.009Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA +1 more
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:05c9719f6ca3</id>
+    <title>Software Engineering Intern (HIL) - Spring/Summer 2027 @ Hermeus</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/05c9719f6ca3"/>
+    <updated>2026-09-01T15:30:22.789Z</updated>
+    <published>2026-09-01T15:30:22.789Z</published>
+    <author><name>Hermeus</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…</summary>
+    <content type="text">Hermeus · Atlanta, GA
+
+Season: Summer 2027
+
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

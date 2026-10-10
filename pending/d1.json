@@ -1,0 +1,42 @@
+{
+  "d1a024554d7e": {
+    "id": "d1a024554d7e",
+    "title": "Service Delivery Analyst Intern",
+    "title_raw": "Service Delivery Analyst Intern",
+    "company": {
+      "slug": "alliedsolutions",
+      "name": "Alliedsolutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Carmel, IN",
+      "city": "Carmel",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliedsolutions/allied_external",
+      "external_id": "R-011085"
+    },
+    "apply_url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Service-Delivery-Analyst-Intern_R-011085",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:59:49.854Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.      <br /> <br />Interested applicants must be available during the 12-week program (May 17th – Aug. 6th, 2027). This is a full-time internship (40-hours per week) based at our headquarters in Carmel, IN.    <br /><br />The Service Delivery Analyst Intern will support technical implementation activities, operational readiness, and cross-functional coordination across Enterprise Technology Group teams. This role will assist with tracking tasks, documenting requirements, communicating status updates, and helping resolve implementation or post-implementation issues.  <br /><br />The intern will gain hands-on experience partnering with business and technical stakeholders to translate business needs into actionable requirements, support process improvements, and ensure implementation work progresses effectively.<p></p><p><b>Job Duties and Responsibilities</b> </p><ul><li><p>Assist with coordinating implementation activities across technical and business teams. </p></li></ul><ul><li><p>Track project tasks, milestones, action items, and deliverables to support timely completion. </p></li></ul><ul><li><p>Help document business requirements, process updates, meeting notes, and implementation details. </p></li></ul><ul><li><p>Support communication of project status, risks, blockers, and next steps to internal stakeholders. </p></li></ul><ul><li><p>Participate in issue tracking and follow-up efforts to help drive resolution across teams. </p></li></ul><ul><li><p>Assist with operational readiness activities, including documentation review, knowledge transfer, and transition support. </p></li></ul><ul><li><p>Support process improvement efforts by identifying recurring issues, workflow gaps, or opportunities to improve execution. </p></li></ul><p></p><p><b>Qualifications (Education, Experience, Certifications &amp; KSA)</b> </p><ul><li><p>Currently enrolled in an undergraduate program as a rising Junior or Senior, pursuing a degree in Information Systems, Informatics, Data Analytics, or related field </p></li></ul><ul><li><p>Strong organizational and time management skills. </p></li></ul><ul><li><p>Excellent analytical and problem-solving abilities </p></li></ul><ul><li><p>Strong verbal and written communication skills </p></li></ul><p></p><p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job. </p><p></p><p>#LI-SJ1</p><p>#LI-Onsite</p><p></p><p>We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.<br /><br />All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p><p></p><p>To view our privacy statement click here</p><p></p><p>To view our terms and conditions click here</p>",
+    "content_hash": "922885b67cf273c80cee0212d374d8cd"
+  }
+}

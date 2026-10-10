@@ -1,0 +1,47 @@
+{
+  "7458dc8660ae": {
+    "id": "7458dc8660ae",
+    "title": "Build Reliability Engineering Intern - Spring/Summer 2027",
+    "title_raw": "Build Reliability Engineering Intern - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "ee3a4109-b6e7-4ed5-8981-a483b3936e5a"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T15:09:49.327Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\n\n<p>As a Build Reliability Engineering Intern at Hermeus, you will support the development, improvement, and standardization of manufacturing processes used to build our next-generation aircraft. You will work closely with engineers and technicians to identify manufacturing challenges, investigate root causes, and implement improvements across structural fabrication and assembly processes.</p>\n\n\n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n\n<h3>Responsibilities:</h3>\nSupport the development and improvement of manufacturing processes for aircraft structures and hardware. \nWork hands-on with sheet metal, welded assemblies, tooling, and other manufacturing equipment on the factory floor. \nInvestigate manufacturing defects, nonconformances, and process inefficiencies to identify root causes. \nDevelop and implement corrective actions to improve quality, repeatability, and manufacturing efficiency. \nHelp establish standardized processes and best practices for welding, fabrication, repair, preparation, and assembly. \nCreate and improve work instructions, process documentation, and manufacturing standards. \nPartner with engineers and technicians to capture lessons learned and incorporate them into future builds. \nSupport continuous improvement projects across structural manufacturing and aircraft assembly. \n\n<h3>Requirements:</h3>\nPursuing a degree in Mechanical Engineering, Aerospace Engineering, Materials Science &amp; Engineering, or a related technical field (undergraduate student in your third or fourth year of study, or enrolled in a Master's or Ph.D. program). \nHands-on experience building, fabricating, assembling, or testing hardware through internships, coursework, clubs, competition teams, or personal projects. \nComfortable working directly on the factory floor and learning manufacturing processes hands-on. \nStrong interest in manufacturing, welding, materials, structures, or process improvement. \nAbility to approach problems using engineering first principles and root-cause analysis. \nStrong written and verbal communication skills with an ability to clearly document technical processes. \nDemonstrated ability to work effectively with engineers, technicians, and cross-functional teams. \nEnthusiasm for aviation and Hermeus’s mission \nGPA of 3.0 or above \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "6dfc3007e3d76c4aebfdcbf932ba99ed"
+  }
+}

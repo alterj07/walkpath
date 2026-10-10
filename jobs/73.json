@@ -1,0 +1,138 @@
+{
+  "735c8b8b379e": {
+    "id": "735c8b8b379e",
+    "title": "Computer Vision/Machine Learning Intern, 2027",
+    "title_raw": "Computer Vision/Machine Learning Intern, 2027",
+    "company": {
+      "slug": "allen-control-systems",
+      "name": "Allen Control Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "allen-control-systems",
+      "external_id": "a7831fef-7125-4c03-b828-5f0472989037"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T21:21:47.890Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:56.798Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Overview</strong><em><br />ACS (Allen Control Systems) is a defense technology company building precision robotic systems for the United States and its allies. Founded by two former U.S. Navy electrical engineers with deep experience in robotics and software, ACS brings together AI, computer vision, precision motion, and advanced hardware to solve complex defense challenges across land, air, and maritime environments.</em></p><p><em>Our flagship product, Bullfrog, is an autonomous precision weapon system that transforms existing weapons into highly accurate counter-drone systems — giving warfighters a scalable, cost-effective response to one of the fastest-growing threats on the modern battlefield. Bullfrog is deployed with U.S. forces, and ACS works with organizations throughout the U.S. military and national security community.</em></p><p><em>Following a $200 million Series B at a $2.2 billion valuation, ACS is rapidly expanding manufacturing, accelerating Bullfrog deployments, and developing the next generation of autonomous battlefield systems. This is an opportunity to join a proven, fast-moving team and help scale technology with direct, real-world impact on national security.</em></p><p><em>ACS is headquartered in Austin, Texas, with additional operations in Alexandria, Virginia; Mountain View, California; and Huntsville, Alabama. For more information, visit </em><em>allencontrolsystems.com</em><em>.</em></p><h3></h3><p>Our interns aren't fetching coffee or shadowing — they're working alongside the same engineers building the systems we ship. This is early-career work with real stakes.</p><p><strong>Location: </strong>Austin, TX (on-site)</p><p><strong>Duration: </strong>Summer 2027 (~10-12 wks)</p><p><strong>Pay: </strong>Paid internship</p><p><strong>Team: </strong>Small, hands-on, direct impact</p><p></p><p><strong>What You Could Work On:</strong></p><ul><li><p>Models that detect, track, and classify drones and other aerial threats in real time</p></li><li><p>Training data generation and pipeline work — the unglamorous but critical foundation of any good model</p></li><li><p>Getting models to run fast on real embedded hardware (like NVIDIA Jetson), not just in a notebook</p></li><li><p>Experiments in sensor fusion, tracking robustness, and performance under real-world field conditions</p></li></ul><p>(We're keeping this general on purpose — exact projects depend on where things stand next summer, but this is the flavor of work you'd be doing.)</p><p></p><p><strong>What We're Looking For:</strong></p><ul><li><p>Currently pursuing a degree in Computer Science, Electrical Engineering, Robotics, or a related field</p></li><li><p>Coursework or project experience with PyTorch, TensorFlow, OpenCV, or similar</p></li><li><p>Comfortable in Python, with some exposure to C++ a plus</p></li><li><p>Genuine interest in real-time perception — models that have to work in milliseconds, not just on a benchmark</p><p></p></li></ul><p><strong>Why ACS:</strong></p><ul><li><p>Direct impact: your work ships on hardware being fielded to protect real people — not stuck in a slide deck.</p></li><li><p>Real ownership: no red tape. You'll work directly with the engineers building Bullfrog, from day one.</p></li><li><p>Small team, big scope: at a startup this size, interns take on real problems, not busywork.</p></li><li><p>Mentorship from engineers who've designed and fielded real defense systems.</p></li></ul><p></p><p><em>Allen Control Systems is an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment. Allen Control Systems prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p>",
+    "content_hash": "6455f9f61c9316b48503fa8c846f3a26"
+  },
+  "737d55b8195b": {
+    "id": "737d55b8195b",
+    "title": "Transportation Engineer Intern - May 2027",
+    "title_raw": "Transportation Engineer Intern - May 2027",
+    "company": {
+      "slug": "amt-engineering",
+      "name": "AMT Engineering",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Herndon, Virginia",
+      "city": "Herndon",
+      "state": "VA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Pittsburgh, Pennsylvania",
+        "Charleston, SC",
+        "Richmond, Virginia",
+        "Columbus, OH",
+        "Parkersburg, West Virginia"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "amtengineering",
+      "external_id": "d31f9b99-d307-4737-be56-168fada33c6a"
+    },
+    "apply_url": "https://jobs.lever.co/amtengineering/d31f9b99-d307-4737-be56-168fada33c6a/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T22:09:13.261Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:43:48.700Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "A. Morton Thomas and Associates, Inc. (AMT) is seeking a highly motivated and diverse <strong>Transportation Engineer Intern (STEM - Science, Technology, Engineering or Math) </strong>to join us in our Herndon, VA office for the 2027 internship period. This is a paid full-time position with anticipated duration from May through August 2027 (flexible) and has the potential to transition into a Full-Time Junior Engineer Role upon graduation. The successful candidate will work under the supervision of Project Managers and Team Leaders with partnerships with other engineering staff. \n \nAs an active, socially responsible, and tight-knit community, we are looking for top talent to join us in our Herndon, VA office.\n<h3>Responsibilities</h3>\nSupport various project tasks including regulatory requirements/reviews, cost estimates, research, procurement support, etc.; \nPerform data entry, management, evaluation, and presentation; \nSupport the preparation of reports, plans, and specifications for clients; \nMay work on field assignments as needed; \nWill be supported by leaders, mentors, and teammates; and \nPerform other related duties and responsibilities as necessary \n\n<h3>Minimum Requirements</h3>\nMust be at least 18 years old; \nPursuing Bachelor or Associates Degree in Civil/Transportation Engineering or related field; \nMinimum GPA of 3.0; \nHas excellent verbal and written communication skills; \nPossesses solid technical and problem-solving skills; \nSelf-motivated, detail oriented person; \nProficient in Microsoft Office (Word, Excel, and Power Point); and \nHonest, fun, hard-working and ready to learn and grow. \n\n<strong> </strong>\n\n<strong>Preferred Qualifications</strong> \nExperience with engineering software applications (AutoCAD, MathCAD, Bentley Microstation, etc.) is preferred but not required. \n\n<strong>Why Join AMT?</strong>\n \nAt AMT, we understand that our most valuable asset is our staff. For 70 years, we have worked diligently to build a team of talented employees who fully embody our values as an organization – values such as teamwork, integrity, and innovation. Now that we have transitioned into an employee-owned firm, we are excited to place the future of AMT into over 500 sets of dedicated hands.\n \n<strong>The AMT Difference</strong>\n \nOur company culture is characterized by a workforce that holds the highest standards of ethics and integrity, focused client care, and commitment to AMT's Core Values of safety, respect, integrity, commitment, quality, teamwork. leadership, responsibility, and profitable growth.\n \nOperating as an ESOP allows us to reward our dedicated and loyal employees with additional benefits from the company’s stock as well as an incentive to continue building a high-performance ownership culture. To strengthen and support its employees, AMT invests in programs and processes to sustain an engaging work environment. AMT also recognizes the importance of employee benefits and policies and remains committed to providing programs that are both comprehensive and competitive in the industry.\n \n<strong>Competitive Benefit Package</strong>\n \nTo strengthen and support its employees, its greatest asset, AMT invests in programs and processes to sustain an engaging work environment. AMT also recognizes the importance of employee benefits and policies and remains committed to providing programs that are both comprehensive and competitive in the industry. With AMT, you will get:\n \n• Tiered medical coverage\n• Dental/Vision\n• 401(k) with a generous 6% Company Match\n• Short- and long-term disability\n• College savings plan\n• Life insurance\n• Paid time off\n• Holidays\n• Training/Certifications",
+    "content_hash": "e5e1ebc2f8d352c3b49f3af527fbf9d5"
+  },
+  "73c8d06a04bf": {
+    "id": "73c8d06a04bf",
+    "title": "Software Engineer Intern - Summer 2027",
+    "title_raw": "Software Engineer Intern - Summer 2027",
+    "company": {
+      "slug": "belvedere-trading",
+      "name": "Belvedere Trading",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Chicago, Illinois",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "belvederetrading",
+      "external_id": "10746b3d-1760-4573-9b63-b93f5a5e4fc0"
+    },
+    "apply_url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T17:01:40.988Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:46:12.493Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 130000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions.  High-performance proprietary development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. We place a high premium on defining, developing, and deploying high-performance trading software using a team-based, holistic development approach. We look for passionate team members that excel and their contribution is critical to our continued success. \nBelvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions.  High-performance proprietary development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. We place a high premium on defining, developing, and deploying high-performance trading software using a team-based, holistic development approach. We look for passionate team members that excel and their contribution is critical to our continued success. <br />\n\n<p>At Belvedere Trading, our pragmatic Software Engineer Interns work directly with full-time Software Engineers and other interns to develop our low latency, high-performance, proprietary trading systems. They participate in all aspects of our software development lifecycle, from design to testing to deployment, and have both a love of technology and a demonstrated interest in the financial markets. We are looking for college juniors who fit this bill. </p>\n\n\n<p>Don’t know a lot about finance or trading? No sweat. Belvedere Trading University (BTU) program will teach you everything you need to know once you join the team. </p>\n\n\n<h3>What our Software Engineer Interns do</h3>\n\n<ul>\n<li>\n<p>Collaborate – Work in a collaborative team environment which encourages constant learning and innovation from all levels of the company to build the future of technology and finance  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>BTU – Participate in our in-house learning and development curriculum via peer-lead lectures to obtain knowledge about the fundamentals of trading and our proprietary trading systems </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Partner with team members to design, implement, and debug complex trading applications, ensure our software meets requirements, and is testable </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Communicate with project managers and team leadership to develop work strategies </p>\n</li>\n\n</ul>\n\n<h3>Key qualities in great candidates</h3>\n\n<ul>\n<li>\n<p>High performer – Experience developing efficient, user-friendly, extensible programs, preferably with an object-oriented programming language such as C++, C#, or Java   </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Ownership – Thrive in a collaborative, entrepreneurial environment </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Intellectual curiosity and passion – Desire to continuously learn in a team environment, solve challenging problems and learn quickly </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Strong Communication – Effectively communicate project updates to teammates and product managers </p>\n</li>\n<li>AI Fluency – Effectively use AI tools to improve efficiency and effectiveness while maintaining independent judgement and critical thinking</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Ability to live in Chicago and attend the internship fully in person during the summer of 2027  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Graduation date of December 2027/Spring 2028</p>\n</li>\n\n</ul>\n\n<b>Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.</b><b>We encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. </b><b>We welcome your application.</b><br /><b>Core Values</b>The secret to our award-winning culture is our Core Values: <b>Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse</b>. We live and breathe these values every day.<br /><b>Compliance</b>For our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications. <b>Our Stance</b>Belvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. Please note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. Any questions regarding the virtual recruiting process, please reach out to recruiting@belvederetrading.com. <b>Work Schedule:</b> Regular and reliable attendance during standard business hours with the ability to be on-site prior to the start of business on occasion <b>Amount of Travel Required: </b>None<b>Sponsorship</b>: Yes",
+    "content_hash": "65c0782af354a63b551084ff12906ccb"
+  }
+}

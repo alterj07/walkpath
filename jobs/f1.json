@@ -1,0 +1,92 @@
+{
+  "f13c3a459a4e": {
+    "id": "f13c3a459a4e",
+    "title": "Embedded Controls Intern (Spring)",
+    "title_raw": "Embedded Controls Intern (Spring)",
+    "company": {
+      "slug": "h3x-technologies",
+      "name": "H3X Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Louisville, Colorado",
+      "city": "Louisville",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "h3x-technologies",
+      "external_id": "d406e4b4-9b48-438c-a2af-b7feb8563a40"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-21T16:44:22.442Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.372Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 23,
+      "max": 37,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About H3X Technologies</strong></p><p>H3X is building America's advanced electric motor company, powering next-generation platforms in aerospace, defense, and marine. Our integrated motor drives deliver 12+ kW/kg, roughly 3x the power density of competing solutions. We're now scaling to megawatt-class systems, with customers working on everything from supersonic aircraft to turbine power generation for AI datacenters.</p><p>Our team brings together engineers and operators from aerospace, defense, and motorsports, with deep expertise in electric machines, power electronics, material science, and advanced manufacturing. We're a small, fast-moving team doing hard engineering that matters, and we're looking for people who want to do the best work of their careers alongside us.</p><p></p><p><strong>About the role</strong></p><p>H3X is looking to hire an embedded controls intern to support embedded controls &amp; firmware development, as well as debugging across the entirety of the HPDM product line. This is not an ordinary internship. You will be given the full responsibility of an embedded controls engineer. The engineering team is intentionally small and operates at a very fast pace. A high degree of self-motivation and responsibility is required as you will be given significant freedom and have direct responsibility on relevant programs. We are focused on hiring Spring Interns, but will also have future Summer roles, and open to extended Co-Op periods.</p><p></p><p><strong>What you will do:</strong></p><ul><li><p>Assist in the development and maintenance of motor control firmware in C++, from low-level drivers to control algorithms</p></li><li><p>Assist in the development and maintenance of motor simulations, configuration tools, and data processing scripts</p></li><li><p>Collaborate with other teams to add support for new products and features</p></li><li><p>Track down and resolve firmware bugs, and write firmware to help identify hardware bugs</p></li><li><p>Support the testing team with custom testing builds, data collection, and troubleshooting</p></li><li><p>Expand firmware testing and documentation, including unit tests, CI/CD pipelines, linting, and test plans</p></li></ul><p></p><p><strong>What we are looking for:</strong></p><ul><li><p>Pursuing a Bachelor’s or graduate degree in Computer Engineering, Computer Science, Electrical Engineering, or a related field</p></li><li><p>Proficiency in C++ and embedded systems</p></li><li><p>Comfort with Python for scripting and tool development</p></li><li><p>Comfort with the command line - running scripts, using git, and building projects</p></li><li><p>Strong understanding of embedded systems fundamentals: microcontrollers, peripherals, real-time constraints, and hardware/software interface</p></li><li><p>Hands-on, project-based experience with embedded systems</p></li><li><p>Excellent written and verbal communication skills</p></li><li><p>Motivated to know why and how something works, not just that it does</p></li></ul><p></p><p><strong>Nice to have experience:</strong></p><ul><li><p>Motor control experience, understanding of fundamental motor equations</p></li><li><p>Experience interfacing with power electronics or motor drive hardware</p></li><li><p>Comfort with lab instruments and small hand tools</p></li></ul><p></p><p><strong>Why H3X</strong></p><p>Joining H3X means working on hard, meaningful problems with a skunkworks-style team that's laser-focused on building exceptional products. We're deeply vertically integrated and have a very tight design-build-test loop, which lets us move from concept to hardware at unmatched speed. We've gone from idea to shipping product in less than two months.</p><p>We're a small, highly skilled team where everyone carries real responsibility and shares an extreme ownership mentality. We stay focused on the critical path, keep bureaucracy to a minimum, and structure everything around delivering results. You'll learn and grow faster here than you would anywhere else.</p><p>You'll work alongside world-class engineers and builders who are pioneering electric motor technology at scale on some of the coolest programs in the industry, from supersonic aircraft to power generation for AI datacenters. If you want your contributions to be visible and your work to directly shape American reindustrialization, you'll feel at home here.</p><p></p><p><strong>Compensation &amp; Benefits</strong></p><ul><li><p>Salary/Hourly Compensation Range: $23 - $37/hr based on school level &amp; experience</p></li><li><p>Flexible hours (deliverable-based goals)</p></li><li><p>Relocation package</p></li><li><p>Monthly company events</p></li><li><p>Friday Team Lunches</p></li></ul><p></p><p><strong>Our Values</strong></p><p></p><p><strong>Be Relentless</strong> Never give up, persevere until the job is done. Run toward problems, not away from them. Grit is key.</p><p><strong>Gain insight through humility</strong> Approach every challenge with a learner’s mindset. Stay open to feedback, listen to others, and deepen your understanding through self-awareness. Put your ego aside and seek the truth in every discussion, especially when leading others.</p><p><strong>Distill &amp; Simplify</strong> Eliminate unjustified complexity and simplify wherever possible, whether in requirements, design, or execution. Use first principles thinking to distill every problem to its essence. Less is more.</p><p><strong>Find your flow</strong> Engage fully and work with intention. Find the rhythm and deep focus that lets you do your best work. Discover your Ikigai - where your strengths, passions, and purpose meet and drive your personal fulfillment and team success. That is when the magic happens.</p><p><strong>SEND (Solve, Evolve, Nail It, Deliver)</strong> Devise the best solution with the information at hand, test it, learn from it, and iterate quickly until you nail it. Nothing works perfectly the first time, but you should never hit the same issue twice. Stay laser-focused on solving customer problems and delivering solutions that create real value.</p><p></p><p><strong>Equal Opportunity Employer</strong></p><p>H3X is an equal opportunity-affirmative action employer and considers all qualified applicants for employment based on business needs, job requirements and individual qualifications, without regard to race, color, religion, sex, age, disability, sexual orientation, gender identity or expression, marital status, past or present military service or any other status protected by the laws or regulations in the locations where we operate.</p>",
+    "content_hash": "975039d22833c84c277fabdc58e3a7c2"
+  },
+  "f14671bedb94": {
+    "id": "f14671bedb94",
+    "title": "Electrical Engineering Internship - Spring 2027",
+    "title_raw": "Electrical Engineering Internship - Spring 2027",
+    "company": {
+      "slug": "vital-lyfe",
+      "name": "VITAL LYFE",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles - Greater Area",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "vital-lyfe",
+      "external_id": "784ef608-4307-4719-b83e-678a9d9f5590"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/784ef608-4307-4719-b83e-678a9d9f5590/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T22:49:55.533Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.434Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 30,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Vital Lyfe</strong><br />Vital Lyfe is a tech company redefining water autonomy through innovation, creating a new category of personal water-making technology built to scale where infrastructure can’t.</p> <p><strong>Mission </strong><br />We’re looking for passionate and driven interns to join our mission and gain hands-on experience working on impactful projects.</p> <p><strong>What You'll Do</strong></p><ul><li><p>Work on developing and optimizing the electrical components of our desalination devices.</p></li><li><p>Focus on power management, sensor interfacing, and system reliability.</p></li><li><p>Utilize tools like Altium, MATLAB, or similar platforms for design and simulation.</p> </li></ul><p><strong>What We’re Looking For</strong></p><p><strong>Education</strong>: Currently pursuing a degree in Electrical Engineering.</p><p><strong>Skills</strong>: Experience or coursework in relevant fields (e.g., fluid dynamics, circuit design, thermodynamics, material science).</p><p><strong>Attributes</strong>:</p><ul><li><p>A passion for solving real-world problems.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>Excellent communication and teamwork abilities.</p> <p><strong>Physical Job Requirements - Essential Functions</strong></p></li><li><p>Hands on work on development hardware.</p></li><li><p>Long periods of standing, crouching, walking.</p></li><li><p>Lifting up to 50 lbs</p></li></ul> <p><strong>Why Join Us?</strong></p><ul><li><p><strong>Impact</strong>: Work on technology that addresses one of humanity’s most pressing challenges.</p></li><li><p><strong>Hands-On Experience</strong>: Tackle real-world projects and gain invaluable industry knowledge.</p></li><li><p><strong>Mentorship</strong>: Learn from a team of seasoned engineers and innovators.</p></li><li><p><strong>Growth Opportunities</strong>: Contribute to a growing startup and help shape its future.</p></li></ul><p>Location Requirement: Ability to work 100% onsite in Torrance, CA (remote or hybrid work will not be considered)</p><p></p><p>Vital Lyfe is an Equal Opportunity Employer; employment with Vital Lyfe is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "8dfc15ce7b8edc2c47760ab265c0a87e"
+  }
+}

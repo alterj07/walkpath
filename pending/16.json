@@ -1,0 +1,42 @@
+{
+  "16254638baf2": {
+    "id": "16254638baf2",
+    "title": "Full-Stack Software Engineer (Product) - New Grad",
+    "title_raw": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "bab5d1e5-e31b-42f0-9cef-334b1f17fed3"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-16T00:04:22.320Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Netic's Full-Stack Software Engineers working on the product team build the features that put AI in the hands of real businesses. This role combines technical excellence with customer empathy, crafting products that make complex AI feel simple, and deliver immediate value to essential service industries.</p><p></p><p>We need to hire multiple new graduate engineers for our core software product team that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better.</p><p></p><p><strong>What You'll Do:</strong></p><ul><li><p><strong>Build agentic products:</strong> Design, code, and ship full-stack features for Netic's AI platform.</p></li><li><p><strong>Co‑create with customers:</strong> Work closely with our customers to understand workflows, gather feedback, and turn pain points into features that stick.</p></li><li><p><strong>Own end‑to‑end delivery:</strong> Drive projects from spec to production, handling data models, APIs, front‑end polish, and post‑launch iteration.</p></li><li><p><strong>Ensure quality:</strong> Build, test, and monitor features in production to ensure reliability and performance.</p></li></ul> <p><strong>What You'll Bring:</strong></p><ul><li><p><strong>Proven product builder:</strong> Ability to deliver user‑facing software at scale; you’ve carried features through multiple release cycles.</p></li><li><p><strong>Full‑stack fluency:</strong> Comfortable with React, TypeScript, Python; experience with databases and cloud infrastructure.</p></li><li><p><strong>AI experience (nice‑to‑have):</strong> Hands‑on with LLM APIs, embeddings, or RAG patterns—or hunger to learn fast.</p></li><li><p><strong>Customer empathy:</strong> Track record of translating stakeholder goals into crisp technical specs and delightful products.</p></li><li><p><strong>Founder‑level ownership:</strong> You run toward ambiguity, write clean code quickly, and see failures as data for the next sprint.</p></li><li><p><strong>Excellent communicator:</strong> Able to explain architectural trade‑offs to engineering, and business outcomes to executives. </p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "7cee093bd23e1bf9dd9d1b8945ccdd1b"
+  }
+}

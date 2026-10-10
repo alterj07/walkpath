@@ -1,0 +1,127 @@
+{
+  "3486b7ba5431": {
+    "id": "3486b7ba5431",
+    "title": "Product Intern",
+    "title_raw": "Product Intern",
+    "company": {
+      "slug": "hook-music",
+      "name": "Hook Music",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "hookmusic",
+      "external_id": "fb45d28d-625f-490d-8a59-701d53fa22c1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/hookmusic/fb45d28d-625f-490d-8a59-701d53fa22c1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T19:19:45.392Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.095Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Hook</strong></h3><p>Hook is a social music platform, backed by top-tier investors, building the next generation of music discovery, fan expression, and creator growth. We turn the songs people love into sounds they can play with — enabling fans and creators to reimagine music through intuitive, remix-friendly experiences with zero learning curve. By partnering directly with artists, labels, and rightsholders, Hook ensures music is discovered, shared, and expressed in ways that respect and reward the people behind it. At Hook, music isn't just consumed — it's experienced, expressed, and made personal.</p><p></p><h3><strong>Role Overview</strong></h3><p>We are looking for a Product Intern to work directly alongside our product lead on Hook's consumer app across iOS and web. In this role, you will assist with day-to-day product operations as the app scales.</p><p>You will own incoming marketing requests, product trackers, and follow-through across projects, and take on workstreams of your own as you earn trust. You will work with Hook's product, engineering, design, marketing, and growth teams. You must be detail-oriented, organized, and able to manage multiple projects and deadlines at once.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Oversee incoming marketing requests: scope them, route them to design or engineering, and track them to delivery</p></li><li><p>Build and maintain the trackers product, engineering, and marketing work from, such as launch checklists, request queues, and status boards</p></li><li><p>Keep Jira tickets accurate, run follow-ups after meetings, and flag blockers and slipping dates early</p></li><li><p>Help pull and analyze product data to answer questions from the product and growth teams</p></li><li><p>Check event tracking and follow up on growth experiments with the product lead</p></li><li><p>Represent product in cross-functional calls with engineering, design, and marketing, and drive decisions to closure</p></li></ul><p></p><h3><strong>Required Skills &amp; Experience</strong></h3><ul><li><p>Currently a senior undergraduate or a master's student</p></li><li><p>Project management experience from an internship, job, student organization, or side project</p></li><li><p>Detail-oriented with the ability to manage multiple projects and deadlines</p></li><li><p>Excellent written communication and organizational skills</p></li><li><p>Self-starter who thrives in a fast-paced, entrepreneurial environment</p></li><li><p>Able to work in person from our TriBeCa, NYC office</p><p></p></li></ul><h3><strong>Preferred Skills &amp; Experience</strong></h3><ul><li><p>A previous product management internship</p></li><li><p>A data or engineering background, such as SQL, analytics tools, or a technical degree</p></li><li><p>Familiarity with Jira, Figma, or product analytics tools like Mixpanel</p></li><li><p>Experience working at an early-stage startup</p></li><li><p>Passion for music and technology. Music industry experience is not required.</p><p></p></li></ul><h3><strong>Why This Role Matters</strong></h3><p>This role will shape how Hook's product team runs as the consumer app scales and help define the processes product, engineering, and marketing use to ship.</p><p></p><h3><strong>Compensation</strong></h3><p>This internship is unpaid and available for school credit. The internship offers the opportunity for exceptional interns to grow into a longer-term or full-time role at Hook.</p>",
+    "content_hash": "fc0c4da40239880484fdfa2b37d0ce92"
+  },
+  "34bd47b954b3": {
+    "id": "34bd47b954b3",
+    "title": "Software Engineer (New Grad)",
+    "title_raw": "Software Engineer (New Grad)",
+    "company": {
+      "slug": "zettabyte",
+      "name": "Zettabyte",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "zettabyte-space",
+      "external_id": "50a9c6dc-7225-4ff0-a914-69d1dd325d6a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-08T18:46:04.308Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:27.446Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>At Zettabyte, we're building the software and systems that make large-scale AI infrastructure actually work. We help enterprises and sovereign nations deploy, manage, and optimize GPU clusters — from bare metal to cloud. Backed by the world's top hardware supply chain (Foxconn, Wistron, Pegatron), we're scaling AI compute globally.</p><h3>Why This Role Exists</h3><p>We're hiring new grad software engineers to work across the entire stack — from the frontend interfaces enterprises use to manage GPU clusters, to the backend services and infrastructure that power them, to the Kubernetes clusters where AI actually gets trained and served. You'll pick up whatever needs to be done: shipping product features, writing backend services in Go, operating infrastructure, and dogfooding our product relentlessly. We need builders who can move fast across boundaries.</p><h3>What You'll Do</h3><ul><li><p><strong>Own features end-to-end</strong> — from scoping the problem with users, to writing frontend and backend code, to deploying and monitoring in production</p></li><li><p>Build fast, polished interfaces in Vue, Next.js, or React</p></li><li><p>Design and build backend services in Go</p></li><li><p>Own and operate Kubernetes infrastructure — deployments, scaling, monitoring, troubleshooting</p></li><li><p>Build and maintain CI/CD pipelines and infrastructure-as-code</p></li><li><p>Administer and harden Linux systems; own networking end-to-end (DNS, firewalls, load balancers, ingress, VPNs)</p></li><li><p>Set up monitoring, alerting, and runbooks. Run incident response and post-mortems</p></li><li><p><strong>Dogfood our product relentlessly.</strong> Use it daily, break it on purpose, file detailed bugs, push the team to ship better software</p></li><li><p>Automate everything. If you're doing it manually more than once, script it</p></li><li><p>Operate cloud infrastructure (GCP, AWS, or Azure)</p></li><li><p>Use AI dev tools (Claude Code, Codex, Cursor, etc.) to move faster and ship more</p></li></ul><h3>You'll Thrive Here If You</h3><ul><li><p>0–2 years of experience — new grads welcome, what matters is what you can do</p></li><li><p>Strong in at least one of: <strong>frontend</strong> (JavaScript/TypeScript, Vue/React/Next.js), <strong>backend</strong> (Go, service design, APIs), or <strong>infrastructure</strong> (Linux, Kubernetes, networking)</p></li><li><p>Comfortable working across the stack — you don't need to be an expert in everything, but you're not afraid to jump in</p></li><li><p>Testing mindset — you enjoy breaking things and making sure code works</p></li><li><p>Product instincts — you think about the user first and notice when something feels off</p></li><li><p>High agency — when something is broken, you fix it; when something is missing, you build it</p></li><li><p>Ship fast, iterate, communicate clearly</p></li><li><p>Comfortable with ambiguity. Requirements change. Priorities shift. You thrive in that</p></li></ul><h3>Bonus Points</h3><ul><li><p><strong>Fluent in Chinese (Mandarin) — strong bonus</strong></p></li><li><p>Deeper Kubernetes experience — RBAC, networking policies, operating clusters in production</p></li><li><p>Terraform, Pulumi, or other IaC tools</p></li><li><p>Observability stacks (Prometheus, Grafana, Datadog, ELK)</p></li><li><p>Service meshes, gRPC, or message queues (Kafka, NATS, RabbitMQ)</p></li><li><p>Design sensibility — Figma to pixel-perfect, or skip Figma entirely</p></li><li><p>Familiarity with AI/ML tools and integrating LLMs into products</p></li><li><p>Bare metal or on-prem experience</p></li><li><p>Security hardening or pen-testing background</p></li><li><p>Contributions to open source or notable side projects</p></li><li><p>A homelab you can tell us about in unreasonable detail</p></li></ul><p>Don't meet every requirement? Please still apply. We care more about what you can build and how you think than whether you check every box. If this role excites you, we want to hear from you.</p><h3>Logistics &amp; Compensation</h3><ul><li><p>Competitive salary and equity based on experience</p></li><li><p>Hybrid — 3 days in office, 2 days WFH; must be located in Palo Alto</p></li><li><p>Applicants must be authorized to work in the United States without visa sponsorship</p></li></ul>",
+    "content_hash": "608b3d7cd4e92c1de4d9494b6bd72f71"
+  },
+  "34eca7246bbf": {
+    "id": "34eca7246bbf",
+    "title": "Quality Engineering Intern - Summer 2027",
+    "title_raw": "Quality Engineering Intern - Summer 2027",
+    "company": {
+      "slug": "antares-nuclear",
+      "name": "Antares Nuclear",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "antares",
+      "external_id": "9335fe9a-a994-4209-bd97-9a6070f4e94f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/antares/9335fe9a-a994-4209-bd97-9a6070f4e94f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T05:45:17.375Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.687Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 34,
+      "max": 34,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Us</strong></p><p>At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in space.</p><p></p><p>The Antares team hails from SpaceX, the White House, the Pentagon, the Department of Energy, MIT, Rigetti Computing, General Atomics, Relativity Space, Ursa Major, and National Laboratories like Idaho, Oak Ridge, Los Alamos, and Savannah River. Antares has raised over $600M in venture capital from top-tier investors and has hundreds of million-dollars on contract with the military services, NASA, and the Department of Energy.</p><p></p><p><strong>About the Summer Internship Program</strong></p><p>Internships at Antares are anything but ordinary. You'll work alongside our team as we design, build, and test fission microreactors built to deliver reliable energy for critical missions on Earth, in space, and underwater.</p><p>Our interns contribute to real work from day one. Depending on your role, you may touch hardware, write and test software, support manufacturing and operations, or help build the systems that allow Antares to move quickly as we scale. You'll work alongside engineers, operators, and other experts solving challenging problems—and you'll leave your internship with hands-on experience that's difficult to find anywhere else.</p><p>We work hard, move quickly, and take pride in what we're building. If you're excited to learn by doing and want to contribute to the next generation of nuclear energy, we'd love to have you join us next summer.</p><p></p><p>We will be running two separate cohorts to accommodate students on both semester and quarter schedules:</p><p><strong>Cohort #1</strong></p><p>Monday, May 17 – Friday, August 13</p><p><strong>Cohort #2</strong></p><p>Monday, June 14 – Friday, September 10</p><p></p><p>All internship roles are based at our Torrance headquarters and require interns to work onsite five days per week. We will not be considering candidates for remote or hybrid arrangements.</p><p>Interns will receive a relocation and housing stipend as part of their offer package.</p><p></p><p><strong>About the Team</strong></p><p>Interns on the Quality Engineering team develop inspection methods and qualify inspection equipment for a variety of mechanical and electrical systems. They work cross-functionally with design, manufacturing, test, supply chain, and materials teams to validate hardware, characterize the uncertainty of inspection techniques, and ensure rigor in the build of nuclear systems, structures, and components.</p><p>Interns begin with small starter projects and quickly progress to a long-duration project that culminates in a technical deliverable and presentation. You will be integrated and evaluated as a first-year junior engineer, not simply as an intern. The bar for success is high: you are expected to use your mentor and available resources thoughtfully, execute on your project, and proactively identify additional issues and opportunities for improvement.</p><p></p><p><strong>Roles and Responsibilities:</strong></p><ul><li><p>Develop inspection methods for mechanical and electrical systems.</p></li></ul><ul><li><p>Support the qualification and implementation of inspection equipment and techniques.</p></li></ul><ul><li><p>Collaborate with design, manufacturing, test, supply chain, and materials teams to validate hardware.</p></li></ul><ul><li><p>Characterize measurement and inspection uncertainty and document technical conclusions.</p></li></ul><ul><li><p>Help ensure rigor and traceability in the build of nuclear systems, structures, and components.</p></li></ul><ul><li><p>Research new tools and technologies that could close gaps in the Quality Engineering team's capabilities.</p></li></ul><ul><li><p>Develop automation and implement process improvements that increase inspection effectiveness and repeatability.</p></li></ul><ul><li><p>Own a long-duration project through a final technical deliverable and presentation while communicating progress, risks, and opportunities.</p></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>Currently enrolled in at least a bachelor's degree program in an engineering discipline relevant to the work and entering the junior or senior year of study.</p></li></ul><ul><li><p>Prior internship experience or more than one year of significant project-team, laboratory, or research experience.</p></li></ul><p></p><p><strong>Preferred Skills &amp; Experience:</strong></p><ul><li><p>GPA of 3.5 or above.</p></li></ul><ul><li><p>Experience in a university club or organization; leadership experience is preferred.</p></li></ul><ul><li><p>Strong interpersonal and technical communication skills, such as leading a student project team or presenting research at a conference.</p></li></ul><ul><li><p>Strong analytical and problem-solving skills with close attention to detail.</p></li></ul><ul><li><p>Ability to work cross-departmentally with different groups and teams.</p></li></ul><ul><li><p>Ability to work effectively in a dynamic environment with changing needs and requirements.</p></li></ul><ul><li><p>Ability to work independently and as part of a team, take initiative, and communicate effectively.</p></li></ul><p></p><p><strong>Location</strong></p><ul><li><p>We are located in Torrance, CA in a 322,000 square foot, brand new facility featuring large open spaces for team collaboration, R&amp;D, and production, as well as easy access to the 405, 105, and 110 freeways. Our facility is in the heart of Los Angeles' vibrant emerging tech ecosystem alongside many other high growth startups and enterprises.</p></li></ul><p></p><p><strong>Culture</strong></p><p>At Antares, we like to specifically tie each role to our founding document’s set of values–here are the top five cultural values we think you should believe at your core to be successful:</p><ul><li><p><em>Think in Systems</em> - Energy and Defense are complex ecosystems with numerous stakeholders with competing priorities, conflicting policies, perverse incentives, and emergent and path-dependent properties. First principles thinking alone is insufficient. Think probabilistically and then take action. “If you want to be certain, then you are apt to be obsolete.” Over-optimizing the components often degrades the system</p></li><li><p><em>Obsess over the End User</em> - The customer and end user are often not the same. We will never build globally competitive commercial products if we lose sight of our end users and their entire interaction with the product life cycle</p></li><li><p><em>Be Unconstrained by Convention</em> - Our only limits are the laws of physics. Many, even experts, will say what we are working on is impossible. They said the same about SpaceX reusing rockets. Generationally impactful companies, by definition, must accomplish the seemingly impossible. If it were easy, it would have already been done. Never shy away from a solution because it has never been tried before, and never choose to do something because that's “how it's always been done”</p></li><li><p><em>Go Where the Work I</em>s - Never miss a chance to meet a customer, user, or stakeholder face to face, even if that means hopping on a plane. If you can’t make it, find a teammate who can channel your intentions and go in your place. Deep work can be done from anywhere, but we believe teams are built in person, and aim to maximize our time together</p></li><li><p><em>Operate in the Grey</em> - Embrace nuance in pursuit of truth. Question every fundamental assumption</p><p></p></li></ul><p><strong>Equal Opportunity</strong></p><p>Antares is an Equal Opportunity Employer. Employment decisions are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "89d4bf1d71985c1f80effb5a5d894bd8"
+  }
+}

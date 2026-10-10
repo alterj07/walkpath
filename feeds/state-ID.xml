@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in ID</title>
+  <id>https://walkpath.vercel.app/feeds/state-ID.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-ID.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:d3808ba1079a</id>
+    <title>Nuclear Operations &amp; Licensing Engineering Intern - Summer 2027 @ Antares Nuclear</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/d3808ba1079a"/>
+    <updated>2026-09-14T06:20:25.916Z</updated>
+    <published>2026-09-14T06:20:25.916Z</published>
+    <author><name>Antares Nuclear</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">About UsAt Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity&apos;s presence in outer space.…</summary>
+    <content type="text">Antares Nuclear · Idaho Falls, ID
+
+Season: Summer 2027
+
+About UsAt Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity&apos;s presence in outer space.…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

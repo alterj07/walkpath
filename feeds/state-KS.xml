@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in KS</title>
+  <id>https://walkpath.vercel.app/feeds/state-KS.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-KS.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:e7496be57318</id>
+    <title>2027 Co-Op - Electrical Engineering @ CESO, Inc.</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/e7496be57318"/>
+    <updated>2026-09-09T16:25:13.059Z</updated>
+    <published>2026-09-09T16:25:13.059Z</published>
+    <author><name>CESO, Inc.</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Are you an intern/co-op seeking purpose, challenge, and working alongside talented colleagues? With a diverse portfolio of residential, energy, commercial, light industrial and public programs, CESO has the opportunity for you to develop and learn hands on. We help coach our interns/co-ops to use…</summary>
+    <content type="text">CESO, Inc. · Overland Park, KS
+
+Season: Summer 2027
+
+Are you an intern/co-op seeking purpose, challenge, and working alongside talented colleagues? With a diverse portfolio of residential, energy, commercial, light industrial and public programs, CESO has the opportunity for you to develop and learn hands on. We help coach our interns/co-ops to use…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:ad6865df00e1</id>
+    <title>Junior Software Engineer - Internship @ Aechelon Technology</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/ad6865df00e1"/>
+    <updated>2025-08-01T21:51:59.000Z</updated>
+    <published>2025-08-01T21:51:59.000Z</published>
+    <author><name>Aechelon Technology</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Aechelon Technology, a Shield AI company, is a leading producer of 3D simulator content, including Geospecific visual/sensor databases and realistic 3D models. We seek people who share our passion for real-time computer graphics and commitment to our mission of helping make our Nation’s pilots…</summary>
+    <content type="text">Aechelon Technology · Overland Park, KS
+
+Aechelon Technology, a Shield AI company, is a leading producer of 3D simulator content, including Geospecific visual/sensor databases and realistic 3D models. We seek people who share our passion for real-time computer graphics and commitment to our mission of helping make our Nation’s pilots…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,42 @@
+{
+  "766bc41dae22": {
+    "id": "766bc41dae22",
+    "title": "DevOps Engineer (New Grad)",
+    "title_raw": "DevOps Engineer (New Grad)",
+    "company": {
+      "slug": "dream-games",
+      "name": "Dream Games",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Istanbul",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "dreamgames",
+      "external_id": "c801dd86-2e4a-4355-910b-969e847ee076"
+    },
+    "apply_url": "https://jobs.lever.co/dreamgames/c801dd86-2e4a-4355-910b-969e847ee076/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2023-07-07T08:07:31.810Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:23.337Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "We are looking for a passionate new grad to join our team as a DevOps Engineer. You will design and implement scalable systems. This is an exciting opportunity to work closely with our development teams to address their needs and scale out the infrastructure of our attribution pipeline and related technologies. You take ownership of our infrastructure over various locations and continuously scale it, making sure that our servers run smoothly and at their highest efficiency.\n \nAt Dream Games, all team members have a genuine chance to contribute to the final product and have an impact on the company. If you want to be a team member of a fast-growing company, you might be the person we are looking for!\n<h3>Responsibilities</h3>\nBuilding and supporting infrastructure and developer tools to improve game development processes \nBuilding advanced automated build, test, and release infrastructure \nProviding troubleshooting and timely resolution of the system, network, and infrastructure problems \nIdentifying and solving critical problems and preventing them from reoccurring via root cause analysis and automation \n\n<h3>Requirements</h3>\nFresh graduate from the university’s field of engineering \nInterest in cloud providers such as GCP and AWS \nInterest in Infrastructure as Code \nKnowledge of Containerized technologies and Container orchestration frameworks \nPassion and interest in games \nAppreciation and understanding of teamwork \n\n<h3>Compensation &amp; Benefits</h3>\nMonthly net salary is 250.000 TL \nHealth, dental, and vision insurance with %100 coverage \nRelocation support as needed \n\n \nProtecting your privacy and the security of your data is a top priority for Dream Games. We collect and process your personal data as confidential as part of the recruitment process. Please read our Statement of Personal Data Protection Law and Consent Letter to know more details.",
+    "content_hash": "3c55bcde57be4b5c836cc342f951a4cd"
+  }
+}

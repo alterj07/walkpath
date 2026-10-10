@@ -1,0 +1,42 @@
+{
+  "ded7850a5af1": {
+    "id": "ded7850a5af1",
+    "title": "Perception Intern",
+    "title_raw": "Perception Intern",
+    "company": {
+      "slug": "mach9",
+      "name": "Mach9",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "mach9",
+      "external_id": "6189f940-38ab-4235-80fb-1dda13966435"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/mach9/6189f940-38ab-4235-80fb-1dda13966435/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T21:41:01.916Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:14.868Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the role</h3><p>As a Perception Intern at Mach9, you will contribute to a range of projects that are critical to the development and enhancement of our core products. You will have the opportunity to work on advanced 2D image and 3D point cloud models for object and panoptic detection, focusing on urban and roadway features such as traffic lights, utility poles, curbs, and painted road markings.</p><h3></h3><h3>Example past and future projects:</h3><ul><li><p>Develop an initial prototype to detect paint lines and curbs on roadways. (This project ended up developing into one of our new products).</p></li><li><p>Bring our perception models and algorithms into a real-time detection domain, trading off accuracy for speed to run on an advanced edge mapping hardware system.</p></li><li><p>Assist in the development and tuning of machine learning models to enhance performance and accuracy.</p></li></ul><p></p><h3>What We're Looking For:</h3><ul><li><p>Strong programming fundamentals in Python, with a focus on algorithmic problem-solving and clean code design.</p></li><li><p>Ability to implement and iterate on heuristic or geometry-based algorithms<strong> </strong>quickly.</p></li><li><p>Hands-on experience with machine learning frameworks (e.g., PyTorch, Jax) and familiarity with computer vision tasks.</p></li><li><p>A keen interest in applying machine learning to solve real-world problems, particularly in the context of geospatial data analysis.</p></li><li><p>Excellent problem-solving abilities and a collaborative mindset, with the capacity to work independently on complex tasks.</p></li><li><p>Currently pursuing a degree in Machine Learning, Computer Science, or a related field, with a solid understanding of machine learning concepts and techniques.</p></li></ul><p></p><h3>Why Mach9?</h3><p>This internship presents a unique opportunity to contribute to impactful projects at the intersection of machine learning and geospatial technology. You will work alongside industry experts, gain valuable practical experience, and help shape the future of urban infrastructure management.</p>",
+    "content_hash": "8262f3b1cd4edd601bf2e894738c86b1"
+  }
+}

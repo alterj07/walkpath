@@ -1,0 +1,127 @@
+{
+  "180eeaf02e7a": {
+    "id": "180eeaf02e7a",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "range",
+      "name": "Range",
+      "domain": ""
+    },
+    "location": {
+      "raw": "McLean, VA",
+      "city": "McLean",
+      "state": "VA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "range",
+      "external_id": "5fe3697d-b5b3-4772-9de4-1551cb726718"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T23:50:30.689Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.292Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3>Software Engineering Intern</h3><p>Range is creating AI-powered solutions to eliminate financial complexity for our members. We're transforming wealth management through the perfect blend of cutting-edge technology and human expertise. We're obsessed with member experience! We've built an integrated platform that tackles the full spectrum of financial needs–investments, taxes, retirement planning, and estate management–all unified in one intuitive system.</p><p>Backed by Google's Gradient Ventures and Cathay Innovations, we're in hyper-growth mode and looking for exceptional talent to join our starting lineup. Every Ranger at this stage is shaping our culture and way of life—from former CEOs and startup founders to experts from leading hedge funds and tech companies.</p><p>If you're ready to build something that truly matters in financial services, bring your talent to Range. Here, you'll make a genuine impact on how people manage their financial lives while working alongside a team that celebrates wins, makes big decisions, and blazes new trails together.</p><p></p><h3>About the Role</h3><p>We're looking for Software Engineering Interns to join our team for a summer internship. You'll work alongside experienced engineers to build real features that impact our members, gaining hands-on experience across the full stack. This isn't a side project internship—you'll contribute meaningful code to our production platform from day one.</p><p>This opportunity is based at Range's Headquarters in McLean, VA. This is a part-time in-office position.</p><p></p><h3>What You'll Do</h3><ul><li><p>Build and ship features across our web platform alongside a cross-functional team of engineers, designers, and product managers</p></li><li><p>Write clean, well-tested code that contributes to a secure, scalable production environment</p></li><li><p>Participate in code reviews, design discussions, and engineering team rituals</p></li><li><p>Learn and apply engineering best practices in a fast-paced startup setting</p></li><li><p>Take ownership of an intern project with real user impact, presenting your work to the team at the end of the program</p></li></ul><h3>What We're Looking For</h3><ul><li><p>Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field (expected graduation between December 2027 and June 2028)</p></li><li><p>Familiarity with JavaScript, TypeScript, or similar programming languages</p></li><li><p>Eagerness to work across the stack—frontend, backend, and infrastructure</p></li><li><p>Strong problem-solving skills and a curiosity for learning new technologies quickly</p></li><li><p>Excellent product instincts—you think about users first, not just the most elegant technical solution</p></li><li><p>Ability to thrive in an ambiguous, fast-paced startup environment where you won't always be told exactly what to do</p></li></ul><h3>Bonus Points</h3><ul><li><p>Experience building web applications with React and TypeScript</p></li><li><p>Exposure to Node.js or server-side JavaScript</p></li><li><p>Familiarity with AWS or other cloud platforms</p></li><li><p>Personal projects, open-source contributions, or hackathon experience</p></li><li><p>Interest in fintech or financial services</p></li></ul>",
+    "content_hash": "48b343155a99eaf2c43257a32d076a29"
+  },
+  "18922451202d": {
+    "id": "18922451202d",
+    "title": "軟體測試品保與技術文件實習生 (WEDA ACC Container QA & Doc Review Intern)",
+    "title_raw": "軟體測試品保與技術文件實習生 (WEDA ACC Container QA & Doc Review Intern)",
+    "company": {
+      "slug": "advantech",
+      "name": "Advantech",
+      "domain": ""
+    },
+    "location": {
+      "raw": "林口",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": [
+        "台北內湖"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "advantech/external",
+      "external_id": "JR202610009"
+    },
+    "apply_url": "https://advantech.wd3.myworkdayjobs.com/External/job/--WEDA-ACC-Container-QA---Doc-Review-Intern-_JR202610009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:47:58.495Z",
+    "posted_at_source": "FIRST_SEEN",
+    "first_seen_at": "2026-10-10T02:47:58.495Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>***本實習為【學期中長期實習方案】，一週需至少到班3天（到班日程可彈性調整），需配合半年以上，請同學評估自身課業或生活安排確認可配合再行投遞，謝謝！***<br /><br />▉實習資訊</p><p>■實習職缺：軟體測試品保與技術文件實習生 (WEDA ACC Container QA &amp; Doc Review Intern)</p><p>■時程需求：需配合半年以上，每週 3-5 天，可配合課表彈性調整(Part-time or Full-time, 6 Months+)<br />■工作地點： On-site實體辦公(內湖瑞光/林口辦公室)<br /> </p><p>Job Description: Software QA &amp; Documentation Intern</p><p>Focus: WEDA ACC Container Quality Assurance, Azure DevOps &amp; GitHub</p><p>1. Role Overview</p><p>We are seeking a detail-oriented, proactive Software QA &amp; Documentation Intern to ensure the release quality, container stability, and documentation integrity of the WEDA ACC platform. Operating across GitHub and Azure DevOps, you will validate container builds, perform integration testing, capture failure signatures, and conduct systematic reviews of deployment documentation and release notes.</p><p>2. Key Responsibilities</p><p>A. Container &amp; Pipeline Quality Assurance:</p><p>•\tImage Validation: Pull, run, and validate container images built through Azure DevOps Pipelines and GitHub Actions.</p><p>•\tContainer Testing: Execute regression, functional, and sanity testing on Docker environments for WEDA ACC modules.</p><p>•\tDefect Tracking: Reproduce bugs, extract runtime logs, and log structured tickets with reproducible steps in Azure Boards and GitHub Issues.</p><p>•\tConfig Verification: Validate container network configurations, exposed ports, volume bindings, and environment variables.</p><p>B. Technical Documentation &amp; Review Process:</p><p>•\tPR &amp; Spec Review: Review Pull Request (PR) documentation and Markdown guides in GitHub repositories against actual system behavior.</p><p>•\tRelease Readiness: Audit release notes, deployment guides, and changelogs to ensure technical accuracy prior to deployment handoffs.</p><p>•\tKnowledge Management: Maintain and organize team knowledge bases within Azure DevOps Wiki and GitHub Pages/Docs.</p><p>•\tContinuous Refinement: Identify obsolete or misleading documentation and submit timely updates.</p><p>3. Qualifications &amp; Technical Requirements</p><p>•\tEducation: Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, Information Management, or related STEM fields.</p><p>•\tContainer Fundamentals: Practical understanding of Docker commands (docker run, logs, inspect, exec), container lifecycles, and docker-compose configurations.</p><p>•\tGit &amp; GitHub: Familiarity with branching, commits, Pull Requests, and markdown documentation formatting.</p><p>•\tLinux CLI: Comfortable with Linux/macOS shell navigation and basic bash/shell commands.</p><p>•\tCore Competency: High attention to detail with strong analytical and written communication skills.</p><p>4. Preferred Qualifications (Bonus)</p><p>•\t Prior exposure to Azure DevOps (Azure Pipelines, Azure Boards, Artifacts, or Wiki).</p><p>•\t Hands-on experience with API testing tools such as Postman or curl.</p><p>•\t Basic scripting ability in Python or Bash for test automation.</p><p>•\t Familiarity with container orchestration concepts (Kubernetes, Compose).</p><p>5. What You Will Gain</p><p>•\t Hands-on experience with enterprise CI/CD environments combining Azure DevOps and GitHub.</p><p>•\t Real-world proficiency in container testing and QA methodologies within production software stacks.</p><p>•\t Direct technical mentorship from experienced software and DevOps engineers.</p><p>職缺說明書 (JD)：軟體測試品保與技術文件實習生</p><p>核心範疇：WEDA ACC 容器品保 (Container QA)、Azure DevOps 與 GitHub 流程</p><p>一、 職務簡介 (Role Overview)</p><p>我們正在尋找一位細心、對軟體品保與系統交付流程有熱忱的「軟體測試品保與技術文件實習生」。本職位將深入 WEDA ACC 專案的容器化交付流程，主要利用 GitHub 與 Azure DevOps (ADO) 工具鏈，負責容器映像檔之功能驗證、部署測試、異常回報，並擔任技術文件與 Release Notes 的嚴格把關者，確保交付件之穩定性與文件一致性。</p><p>二、 主要工作職責 (Key Responsibilities)</p><p>1. 容器品保與管線驗證 (Container &amp; Pipeline QA)：</p><p>•\t映像檔交付驗證： 驗證由 Azure DevOps Pipelines 及 GitHub Actions 所建置產出之容器映像檔 (Container Images)。</p><p>•\t容器化功能測試： 於測試環境中執行 WEDA ACC 各模組之回歸測試、整合測試與基本健康檢查 (Health Check)。</p><p>•\t缺陷追蹤與除錯： 檢視與重現異常狀況，擷取容器日誌 (Logs)，並於 Azure Boards 或 GitHub Issues 建立結構化之 Bug 追蹤單。</p><p>•\t配置組態查核： 檢查環境變數 (Env Variables)、Port Mapping、Volume 掛載等各項容器配置之正確性。</p><p>2. 技術文件審查與發布管理 (Documentation Review &amp; Release Process)：</p><p>•\tPR 與技術手冊審查： 針對 GitHub 上的 Pull Request (PR) 說明、Markdown 技術文檔進行查核，確保文檔與實際系統實作相符。</p><p>•\t版本發布把關： 於版本發布前，嚴格稽核 Release Notes、部署指南 (Deployment Guides) 與 Changelog 之正確性。</p><p>•\t知識庫維護： 協助整理與維護 Azure DevOps Wiki 或專案知識庫，落實文件版本控管與標準化範本。</p><p>•\t文檔優化： 敏銳主動找出文檔中過期、模糊或錯誤之處，並提出相應更新修訂。</p><p>三、 條件要求 (Qualifications &amp; Requirements)</p><p>•\t學歷背景： 資訊工程、電機工程、資訊管理或相關理工科系在學學生 (學士生高年級或碩士生尤佳)。</p><p>•\t容器基礎： 具備基本 Docker 概念與常用指令操作 (如 docker run, logs, inspect, exec 及 Docker Compose 觀念)。</p><p>•\t版本控制： 具備 Git 版本控制觀念，熟悉 Branch 分支、Commit、Pull Request (PR) 流程及 Markdown 撰寫能力。</p><p>•\t作業系統： 具備基礎 Linux 系統操作經驗，熟悉 Command Line 指令介面。</p><p>•\t個人特質： 具備高度細心度、耐心與良好的書面溝通與表達能力，能清楚描述技術問題與測試步驟。</p><p>四、 加分條件 (Preferred Qualifications)</p><p>•\t 具備 Azure DevOps (Pipelines, Boards, Repos, Wiki) 實際操作經驗者佳。</p><p>•\t 具備 Postman 或 curl 等 API 測試工具使用經驗者。</p><p>•\t 具備基本 Python 或 Bash Shell 腳本撰寫能力，能編寫輔助測試腳本者。</p><p>•\t具備英文技術文件撰寫與溝通能力者佳。</p><p>五、 實習收穫與成長 (What You Will Learn)</p><p>•\t 深入接觸企業級 GitHub + Azure DevOps 混合開發與持續整合/持續交付 (CI/CD) 實際生態。</p><p>•\t 累積微服務與容器化系統在實際商用場景下的品保測試、Log 分析與 Issue 排查經驗。</p><p>•\t 由資深工程師與架構師一對一指導，培養嚴謹的工程規範與專業技術文檔寫作水準。</p><br />",
+    "content_hash": "1fc43c4a3d89ba5f56d693992d0643ed"
+  },
+  "189870f0ef3e": {
+    "id": "189870f0ef3e",
+    "title": "Finance - Analytics Intern",
+    "title_raw": "Finance - Analytics Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "eea685b7-23a1-4a86-b661-9aeb737c9866"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/eea685b7-23a1-4a86-b661-9aeb737c9866/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T23:47:52.939Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>We’re looking for an Analytics Intern to help make data more accessible, reliable, and useful across the company. You’ll work with financial and operational data to answer questions, build analyses, and help create reporting that gives teams a clearer view of the business.</p><p>This is a hands-on role for someone who enjoys solving ambiguous problems with data. You’ll work across different datasets and teams, learn how our business operates, and help turn raw information into insights that people can use.</p><h3><br /><strong>What You’ll Do</strong></h3><ul><li><p>Support budgeting, forecasting, and financial planning processes.</p></li><li><p>Help prepare and maintain financial reports and analyses.</p></li><li><p>Analyze actual results against budgets and forecasts and help identify key drivers of variances.</p></li><li><p>Work with financial and operational data to support business decisions.</p></li><li><p>Help organize and improve financial models, reporting, and planning processes.</p></li><li><p>Partner with members of the finance and accounting teams to understand and validate financial information.</p></li><li><p>Assist with recurring reporting and ad hoc analyses as the business evolves.</p></li><li><p>Help improve the way financial information is organized, accessed, and communicated across the company.</p><p></p></li></ul><h3><strong>What You’ll Bring</strong></h3><ul><li><p>Currently pursuing a degree in finance, accounting, economics, business, computer science, data science, or a related field.</p></li><li><p>Strong analytical and quantitative skills.</p></li><li><p>Comfort working with spreadsheets and large amounts of data.</p></li><li><p>Curiosity and an interest in understanding how businesses work.</p></li><li><p>Strong attention to detail and a desire to get the numbers right.</p></li><li><p>Ability to communicate clearly and turn analysis into practical takeaways.</p></li><li><p>Willingness to learn new tools, systems, and concepts.</p></li><li><p>Experience with financial modeling, SQL, BI tools, orchestrating AI agents, or similar tooling is a plus, but not required.</p><p></p></li></ul><h3><strong>About the Team</strong></h3><p>The Base finance &amp; business operations team is responsible for providing clear visibility on past and future performance across the business, financing our growth, capital allocation decisions, and supporting the broader Base team on key performance drivers. To succeed, Base must raise and deploy tens of billions of dollars, maintain sustainable unit economics, exercise extreme operating leverage, and balance supply/demand and growth/profitability in a complex and high-pace environment. The Finance team enables these by (i) building toward omniscience with sharp analytics and tools for observability, (ii) integrating with the business to support operational decisions, (iii) establishing tight controls and processes to cull complexity, and (iv) presenting Base to investors effectively.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "b75b1120765ae08caa0eb3c4ae4faac6"
+  }
+}

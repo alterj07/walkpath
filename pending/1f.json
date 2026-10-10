@@ -1,0 +1,47 @@
+{
+  "1fc40fef3211": {
+    "id": "1fc40fef3211",
+    "title": "Product Manager (New Grad)",
+    "title_raw": "Product Manager (New Grad)",
+    "company": {
+      "slug": "uncountable",
+      "name": "Uncountable",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, London, Toronto, San Francisco",
+      "city": "London",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "uncountable",
+      "external_id": "1f8425be-cd39-4397-a9c1-6511ecfc39fc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-06-22T20:46:31.157Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.764Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": {
+      "min": 125000,
+      "max": 140000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Thank you for your interest in Uncountable Engineering!</p> <p><strong>Description</strong></p><p>Uncountable is looking for a product manager who recently graduated from or will graduate from university. This role is perfect for a high-achieving CS student who is interested in breaking into product management right away or looking to gain more well-rounded product and business experience before starting their own company. This will be a fast paced role with a lot of responsibility and a steep learning curve.</p><p><strong>‍</strong></p><p>Our goal is to revolutionize industrial research and development.  We're looking for a motivated PM who can help to build a state of the art development platform that will be used across Fortune 500 companies.</p> <p>This role is an in-person role working out of one of our offices.</p> <p><strong>Primary Responsibility</strong></p><p>You primary responsibility will be to prioritize features, plan projects, triage issues, and assist engineers.</p> <p>Examples:</p><p>- Writing up 20+ tickets on a weekly basis with implementation plans</p><p>- Developing planning documents for larger projects</p><p>- Making judgement calls about which customer-facing issues to work on next</p><p>- Participating in management-level discussions and company strategic initiatives to get a broader perspective on how the Uncountable platform should evolve</p>  <p><strong>Important Caveats</strong></p><p><em>Read these before applying.</em></p><p>- Uncountable is an engineering-first organization and needs a PM that can work closely with engineers. We will not consider applications from those without a CS degree. You will be asked to write code during the interview process.</p><p>- Uncountable values execution over idea generation. The leverage you will have as a PM will be a function of the hours you put in writing tickets, assisting engineers, and more. This is a role where expect a lot of hard work.</p> <p><strong>Salary: $125-140K + equity</strong></p> <p>Requirements</p><p>- Computer science bachelor's degree</p><p>- 2+ internship experiences in software development</p><p>- Demonstrated interest in product or entrepreneurship</p><p>‍<strong>‍</strong></p><p>Our Current Stack</p><p>Backend: Flask (Python), Postgres</p><p>Frontend: React (Typescript), Redux, Sass</p> <p>Benefits</p><p>- Competitive Salary and Equity</p><p>- Health and Dental Insurance</p><p>- 401K with Employer Contribution</p><p></p><p><strong>Agentic Coding</strong></p><p>Development at Uncountable has changed dramatically due to the introduction of LLM's. Read more about our practices at:</p><p>https://engineering.uncountable.com/coding</p><p>We're excited for you to build the future of development with us.</p><p></p><p>What's next? Learn more about Interviewing at Uncountable</p> <p>Learn more about our engineering team: Check out our blog</p><p></p><p>By applying for this role, your personal data will be processed in accordance with our Privacy Policy.</p>",
+    "content_hash": "c1a21e9a086422aded7818d7317bc131"
+  }
+}

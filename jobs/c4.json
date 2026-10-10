@@ -1,0 +1,42 @@
+{
+  "c448cf9a9bb4": {
+    "id": "c448cf9a9bb4",
+    "title": "Software Engineer Intern (Fullstack)",
+    "title_raw": "Software Engineer Intern (Fullstack)",
+    "company": {
+      "slug": "n1",
+      "name": "N1",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "n1",
+      "external_id": "298585c3-96b1-4728-8d37-31482f85a064"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-06-02T16:52:32.392Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.213Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About N1:</strong></p><p>N1 is the first hyper-performant and horizontally scalable blockchain network designed to enable trustless computing at internet scale. </p><p>N1 is comprised of a team spanning backgrounds from Harvard, CMU, DFINITY, VMWare, Galaxy Digital, and more, and is backed by top-tier institutions like Founders Fund, Kraken Ventures, SALT, Amber Group, and more.</p><p></p><p><strong>Position Overview:</strong></p><p>We're seeking a Software Engineer intern, Full-Stack to join our engineering team full-time. This role is involves developing front-end, server-side, and database applications with a focus on blockchain products. The ideal candidate is highly organized, service-oriented, scrappy, and product-minded. You will be responsible for owning and enhancing our web-based platforms and internal tools, ensuring they are intuitive, secure, and high-performance.</p><p></p><p><strong>Requirements:</strong></p><ul><li><p>Scrappy, resourceful, and product-driven engineer</p></li><li><p>An eye for good front-end design</p></li><li><p>Strong experience with React/TypeScript/NodeJS/Next, and database systems</p></li><li><p>Experience with a wide array of technical expertises and software development processes</p></li><li><p>Strong communications skills both written and verbal</p></li><li><p>Writing good technical documentation</p></li><li><p>Loves problem solving</p></li><li><p>Strong interest in crypto</p></li></ul>",
+    "content_hash": "3f8898821916b68e0b0bc5a9715e291c"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "863c913c6172": {
+    "id": "863c913c6172",
+    "title": "Embedded Software Engineering Intern - Winter",
+    "title_raw": "Embedded Software Engineering Intern - Winter",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco Office",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "3c7fd0f1-b25f-413c-8e62-6ef00a9d47da"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T00:42:30.817Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p> <p><strong>About the role</strong></p><p>We’re hiring embedded software interns for the winter term to write the firmware and applications that run our fabs. The internship begins in January, with a preferred commitment of 4 to 8 months. You’ll be working on an integrated engineering team building semiconductor fabrication equipment, so you’ll be exposed to some very interesting engineering problems. You’ll be bringing up high-performance tools with tight requirements in areas such as structures, optics, liquids, heat transfer, physics, and chemistry. You’ll be a good fit if you’re familiar with end-to-end system bring-up.</p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months.<strong> Because of this, a portfolio (can be your GitHub) is required to apply</strong>: show us the things you’ve actually built!  For us, a good portfolio includes evidence of software engineering excellence and curiosity. </p> <p><strong>Responsibilities</strong></p><ul><li><p>Develop real-time linux applications and microcontroller firmware in Rust for controlling semiconductor fabrication equipment</p></li><li><p>Build backend systems for capturing and analyzing semiconductor process data</p></li></ul> <p><strong>Required Experience</strong></p><ul><li><p>Pursuing a Bachelor’s Degree or higher in Electrical and Computer Engineering, Computer Science, or similar field</p></li><li><p>Proficiency in Python/C/C++</p></li><li><p>Low level systems programming experience and good understanding of embedded systems and OS concepts (Linux/RTOS)</p></li><li><p>Microcontroller programming experience, knowledge of microcontroller peripherals such as ADC, GPIO, PWM, SPI and I2C</p></li></ul> <p><strong>Nice-to-have</strong></p><ul><li><p>Familiarity with electronics and feedback control systems</p></li><li><p>Proficiency in Rust</p></li></ul> <p><strong>Working at fab2</strong><br />We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p><br /><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p></li></ul><p></p><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p><br /><strong>Export Control Analysis: </strong>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p> <p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "2909785d9c5dd3fca43cd5abdabf0fcd"
+  },
+  "867b6c70f3a1": {
+    "id": "867b6c70f3a1",
+    "title": "Run Perception Graduate Internship, R&D - Winter 2027",
+    "title_raw": "Run Perception Graduate Internship, R&D - Winter 2027",
+    "company": {
+      "slug": "brooks-running",
+      "name": "Brooks Running",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US, Washington, Seattle",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "brooksrunning",
+      "external_id": "af8e5a0b-0383-486d-9096-d029a6a83a48"
+    },
+    "apply_url": "https://jobs.lever.co/brooksrunning/af8e5a0b-0383-486d-9096-d029a6a83a48/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-03T00:57:44.110Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:47:31.620Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 33,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Who We Are:</strong></p>\n<p>At Brooks, we believe movement is the key to feeling more alive. That’s why we’re driven to create gear and experiences that take people to the place that makes them feel more alive — whether it’s a headspace, a feeling, or a finish line. </p>\n<p>Everyone who works at Brooks is propelled by a company culture that sparks excitement, fuels collaboration, inspires creativity, and ignites innovation.</p>\n<p>Our brand values help bond us together and drive our success:  </p>\n<ul>\n<li><em><strong>Runner First</strong></em><strong> </strong>\n<ul>\n<li><em>We act in the best interest of the runner</em></li>\n</ul>\n</li>\n<li><em><strong>Word is Bond</strong></em>  \n<ul>\n<li><em>We do what we say we’ll do </em></li>\n</ul>\n</li>\n<li><em><strong>Champion Heart</strong></em><strong> </strong> \n<ul>\n<li><em>We give our all in everything we do  </em></li>\n</ul>\n</li>\n<li><em><strong>There is no “I” in Run </strong></em>\n<ul>\n<li><em>We stay generous with our humanity </em></li>\n</ul>\n</li>\n<li><em><strong>Keep Moving </strong></em>\n<ul>\n<li><em>We find ways to move every day, because joy is kinetic! </em></li>\n</ul>\n</li>\n</ul>\n<p>We welcome everyone from every walk of life looking to inspire others through the power of movement - because we’re <em>all </em>moving towards something. Let’s run there.   </p>\n<p><strong>Who We Are:</strong></p>\n<p>At Brooks, we believe movement is the key to feeling more alive. That’s why we’re driven to create gear and experiences that take people to the place that makes them feel more alive — whether it’s a headspace, a feeling, or a finish line. </p>\n<p>Everyone who works at Brooks is propelled by a company culture that sparks excitement, fuels collaboration, inspires creativity, and ignites innovation.</p>\n<p>Our brand values help bond us together and drive our success:  </p>\n<ul>\n<li><em><strong>Runner First</strong></em><strong> </strong>\n<ul>\n<li><em>We act in the best interest of the runner</em></li>\n</ul>\n</li>\n<li><em><strong>Word is Bond</strong></em>  \n<ul>\n<li><em>We do what we say we’ll do </em></li>\n</ul>\n</li>\n<li><em><strong>Champion Heart</strong></em><strong> </strong> \n<ul>\n<li><em>We give our all in everything we do  </em></li>\n</ul>\n</li>\n<li><em><strong>There is no “I” in Run </strong></em>\n<ul>\n<li><em>We stay generous with our humanity </em></li>\n</ul>\n</li>\n<li><em><strong>Keep Moving </strong></em>\n<ul>\n<li><em>We find ways to move every day, because joy is kinetic! </em></li>\n</ul>\n</li>\n</ul>\n<p>We welcome everyone from every walk of life looking to inspire others through the power of movement - because we’re <em>all </em>moving towards something. Let’s run there.   </p><br />\n\n<h4>Brooks Internship Program:</h4>\n<p>Brooks Running hosts internships at our Seattle HQ offices to provide hands-on, meaningful work experience to further enhance your education and professional aptitude. Our interns gain exposure to real work, and projects while working side by side with Brooks employees and leadership. If chosen for this role, you will embark on 6 months of learning, professional development, and exposure to the Brooks brand and culture.</p>\n<h4>Internship Details:</h4>\n<p>Duration: 6 months</p>\n<p>Internship Target Start: January 12, 2026 Compensation: $33.00/hr</p>\n<p>Location: Seattle, HQ Schedule: 40 hours / week</p>\n<p>Please apply if you can commit to the duration, salary and location for this opportunity.</p>\n<h4>Your Opportunity:</h4>\n<p>Our Run Perception Team is seeking a master’s graduate intern to work at our Seattle HQ offices. As the Run Perception Intern, you will gain hands-on experience in product research at the leading running brand – Brooks Sports, Inc. Your primary responsibilities will be to assist Run Perception Researchers as they collect information from product testers across the nation to contribute key perceptual information regarding fit, performance, and design. This information is critical for our multi-departmental infrastructure, including Development, Design, and Merchandising, to ensure that performance integrity of our product meets the needs of our end consumers. You will also gain knowledge on how perceptual feedback influences design and development of athletic products at Brooks.</p>\n<p>With the Run Perception Team being part of our Development team, you will learn how to work closely with the Developers on building product based off insights collected not only from the Run Perception Team, but also from other collaborators across the company.</p>\n\n<br />\n\n<h4>Your Impact (Responsibilities):</h4>\n<ul>\n<li>Understand athletic product design features and components, and how they influence fit, feel, and ride.</li>\n<li>Conduct internal and external perception testing data collections for inline footwear and the sourcing team. This entails targeted participant recruitment based on the product goals and consumer base, creation of perception surveys that test the hypotheses at hand, analysis of qualitative results, and synthesis of data into a clear point of view highlighting how the product is performing.</li>\n<li>Compile and present scientific reports via PowerPoint, summarizing findings based on runner feedback that are delivered to product teams for use in product improvement.</li>\n<li>Use your graduate-level research skills to conduct Run Perception studies that lead to innovative testing procedures and optimization of product for all who run.</li>\n<li>Use your advanced data analytics skills to mine data in our Tableau historical dashboards containing over 3 million words of perception testing feedback for product over the last six years to recommend product improvements based on identified opportunities.</li>\n<li>Use AI-powered tools to help analyze and summarize wear test feedback at both the individual and historical dataset level, uncovering meaningful patterns and insights that strengthen product storytelling and recommendations.</li>\n<li>Develop loyal, engaging relationships with our product testers and the Brooks community.</li>\n<li>Assist with the management of Brooks perception testing community social media account on Facebook with timely and accurate responses to participants and the creation of engaging content for the group. Other duties as assigned.</li>\n</ul>\n\n<br />\n\n<h4>Project:</h4>\n<p>As a part of your experience as a graduate intern at Brooks, you will have the opportunity to complete a project under the support and supervision of your manager. Details of your project will be finalized once you arrive at Brooks based on your interests and the needs of the business. You will use your ever-growing analytical skillset as a graduate student to prepare a thoughtful and elevated project. Weave your learnings from your graduate courses into your work to challenge yourself and benefit Brooks. You will present your work and findings to senior leadership at Brooks at the end of your internship, to hone in on your research, recommendation, and presentation skills.</p>\n\n\n<h3>Qualifications: </h3><ul>\n<li>Master’s degree with a background in biomechanics, kinesiology, and/or exercise science or an equivalent analytical field.</li>\n<li>Willing to commit to the intern position for six months onsite in Seattle, WA</li>\n<li>Willingness to learn and gain hands-on experience.</li>\n<li>Able to commit to up to 40 hours a week to be physically present at HQ.</li>\n<li>Strong verbal and written communication skills, demonstrating effective listening through concise and clear verbal and written communication.</li>\n<li>Experience with Microsoft Office, including Word, Excel, and PowerPoint.</li>\n<li>Well-developed quantitative skills with an aptitude for report-building, data mining, and interpretation.</li>\n<li>Product creation or running retail experience is ideal.</li>\n<li>Strong organizational skills.</li>\n<li>Detail-oriented with an emphasis on quality work products. Always looking to improve our products and processes while also displaying a willingness to dive into the details and help wherever necessary.</li>\n<li>Must be able to collaborate in a team-oriented environment.</li>\n<li>Understanding our product line and our competitors desired.</li>\n<li>Experience using AI for data analysis support or brainstorming desired.</li>\n<li>Embrace Brooks values!</li>\n</ul>\n\n\n<strong>Benefits:</strong>\nPaid Internship  \nSign-on bonus to provide financial support before first paycheck  \nHousing Subsidy  \nTravel Fee Coverage  \nMedical/Dental/Vision Coverage  \n60% Employee Discount  \nPaid Holidays  \n \n<strong>Compensation:</strong>\n$33/hour\n\n \n<br /><p><em>At Brooks, we celebrate diversity &amp; equity. We are committed to creating an inclusive environment, and encourage people of all backgrounds, perspectives, experiences, and skills to apply. Brooks is proud to be an equal employment opportunity employer. All employment decisions are made without regard to race, religion, creed, color, national origin, age, sex, gender, gender identity or expression, two-spirit identity, sexual orientation, genetic information, the presence of a physical, mental, or sensory disability, marital status, pregnancy (including childbirth and related conditions), caste, citizenship or immigration status, honorably discharged veteran or military status, actual or perceived victims of domestic violence, harassment, sexual assault or stalking, HIV or Hepatitis C infection, political ideology, use of a trained service animal by a person with a disability, or on any other basis protected by federal, state, or local law, or any other non-merit based factors.</em></p>",
+    "content_hash": "6fe7a6464e8a1e8fbab7fcd40f23de4a"
+  },
+  "86d7c88c2bc6": {
+    "id": "86d7c88c2bc6",
+    "title": "Quantitative Researcher Intern",
+    "title_raw": "Quantitative Researcher Intern",
+    "company": {
+      "slug": "scientech-research-llc",
+      "name": "Scientech Research LLC",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New Jersey",
+      "city": null,
+      "state": "NJ",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "scientech-research",
+      "external_id": "b05bcb2f-2bb6-40c4-8702-3ba386eeab80"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-01-23T21:38:36.595Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.852Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Job Responsibilities:</strong></p><ol><li><p>Assisting senior quantitative researchers to carry out quantitative strategy design, research and development of global futures, stocks and options market.</p></li><li><p>Statistically analyzing large scale tick by tick financial data to extract alpha patterns.</p></li></ol><p></p><p><strong>Qualifications:</strong></p><ol><li><p>Advanced degrees from top universities, majoring in science and engineering, preferably Statistics, Mathematics, Computer Science, EE, and Physics. Have formal trainings of independent academic research.</p></li><li><p>Programming skills: proficient in the following programming languages - C++ and Python.</p></li><li><p>Mathematical basics: having a good understanding of data science, being critical in learning knowledge, understanding at least one of statistical modeling, machine learning, econometrics or optimization.</p></li><li><p>Being fast, critical and reasonable in thinking.</p></li><li><p>Good communicator, being rigorous, patient, and having a strong sense of teamwork.</p></li><li><p>Highly motivated, and able to work in a fast-paced environment.</p></li></ol>",
+    "content_hash": "a6ed669cab290b0085e4299d310e0d97"
+  },
+  "86fc60a25a11": {
+    "id": "86fc60a25a11",
+    "title": "Data Scientist",
+    "title_raw": "Data Scientist",
+    "company": {
+      "slug": "lever-implementation-training-environment",
+      "name": "Lever Implementation Training Environment",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "leverdemo-8",
+      "external_id": "45d39614-464a-4b62-a5cd-8683ce4fb80a"
+    },
+    "apply_url": "https://jobs.lever.co/leverdemo-8/45d39614-464a-4b62-a5cd-8683ce4fb80a/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2019-07-29T20:38:21.543Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:01:59.673Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2012",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "________This is an example!________<br />PLEASE READ: these jobs are testing jobs of Lever's testing environment - please do not apply for this job.<br />Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies like Netflix, Yelp, Cirque du Soleil, Shopify, and Spotify rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. We’re extraordinarily proud of the company we’ve built so far (not to mention humbled to be recognized as the #1 place to work in San Francisco, as well as a top workplace in the entire United States). Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture. \n________This is an example!________<br />PLEASE READ: these jobs are testing jobs of Lever's testing environment - please do not apply for this job.<br />Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies like Netflix, Yelp, Cirque du Soleil, Shopify, and Spotify rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. We’re extraordinarily proud of the company we’ve built so far (not to mention humbled to be recognized as the #1 place to work in San Francisco, as well as a top workplace in the entire United States). Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture. <br />Lever is hiring a Data Scientist to bring our data to life by uncovering insights and turning it into a tool through models and forecasts. The ideal candidate has worked successfully in technology organizations as a data scientist or similar role and has strong theoretical and practical skills.\n<h3>What to expect in the role</h3><br /> Develop statistical analysis and models and apply them to solving real problems Work with our product development team to guide product decisions through data-based recommendations Define and report on metrics and KPIs Automate analysis and data pipelines while ensuring our data infrastructure is set up for scale \n<h3>Expectations</h3><br /> Experience as a data scientist or equivalent Experience with a variety of data manipulation tools and languages (SQL, R, Python) A history of delivering and reporting on impact Outstanding communication skills A background in statistics and/or mathematics is preferred \n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\n<h3></h3><br />\nTHE LEVER STORYLever builds modern recruiting software for teams to source, interview, and hire top talent. Our team strives to set a new bar for enterprise software with modern, well-designed, real-time apps. We participated in Y Combinator in summer 2012, and since then have reached our Series D, raising more than $120 million. As the applicant tracking system of choice for Netflix, Atlassian, KPMG, and McGraw-Hill Education, and thousands more leading companies, Lever means you hire the best by hiring together. Lever is an equal opportunity employer. We are committed to providing reasonable accommodations and will work with you to meet your needs. If you are a person with a disability and require assistance during the application process, please don’t hesitate to reach out! We celebrate our inclusive work environment and welcome members of all backgrounds and perspectives. Learn more about our team culture and commitment to diversity and inclusion.  California residents applying for positions at Lever can see our privacy policy here.",
+    "content_hash": "68f09097e6a1ed286f96b48baf49fe14"
+  }
+}

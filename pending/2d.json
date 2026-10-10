@@ -1,0 +1,42 @@
+{
+  "2d4885c03ed4": {
+    "id": "2d4885c03ed4",
+    "title": "Analyst - Co-op/Internship",
+    "title_raw": "Analyst - Co-op/Internship",
+    "company": {
+      "slug": "amend-consulting",
+      "name": "AMEND Consulting",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Cincinnati, Ohio, United States",
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amendconsulting",
+      "external_id": "4005823009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amendconsulting/jobs/4005823009",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-06-27T01:04:47.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:00.019Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>This opportunity is tailored for students seeking a co-op or internship experience. </p>\n \n<strong>About AMEND:</strong>\n \nAMEND is a management consulting firm based in Cincinnati, OH with areas of focus in operations, analytics, and technology.  We are focused on strengthening the people, processes, and systems in organizations to generate a holistic transformation. Our three-tiered approach provides a distinct competitive edge and allows us to build strong relationships and create customized solutions for every client.  This is an incredible time to step into a growing team where everyone is aligned to a common goal to change lives, transform businesses, and make a positive impact on anything we touch.  \n \n<strong>Overview:</strong>\n \nThis is a 16-week development program for students and early professionals, designed to accelerate your career through a full-time rotational internship. You will work directly with Partners, Project Leaders, and business executives to accomplish project goals and deliver solutions for your clients. This is a client-facing role, solving real problems and engaging with business strategy while designing cutting-edge solutions with your technical skills or to improve processes.  You will be joining a team of world-class talent – our expert team includes talent in Operations, FP&amp;A, Data Science, Data Engineering, and Business Intelligence.\n \nAMEND is an environment of explosive growth, and the Analyst Program equips you with the tools to pursue your personal and professional development as a part of our team. While taking on the role of a fully billable consultant in this rigorous program, you will participate in weekly trainings to learn about all areas of focus at AMEND, develop an individualized development plan for yourself, and experience mentorship from experts in our field. The program is a great way to explore different specialties and to find out what you’re most passionate about. Many alumni of this program have chosen to stay at AMEND, and many others have found their dream careers through connections they made while at AMEND.\n \nWe have three program rotations each year and are constantly looking for new talent to join our team! We are currently interviewing for Spring 2027 and beyond! \n \n<strong>Summary of Essential Job Functions:</strong>\n<em>Analysts’ projects may include any of the following activities. We are looking for team members with experience in some of these areas or a willingness to learn! You don't need to be an expert in all of them on Day 1. </em>\n<ul>\n<li>Gather and define user requirements for tools and solutions</li>\n<li>Analyze processes and identify gaps</li>\n<li>Assess systems and their capabilities versus user and process requirements</li>\n<li>Facilitate and gather feedback from client team members</li>\n<li>Analyze capacity of machines or production through time studies</li>\n<li>Perform root cause analysis and use data to draw conclusions</li>\n<li>Interpret financial statements to identify opportunity areas</li>\n<li>Perform financial modeling and forecast financial metrics for clients</li>\n<li>Analyze supply chain and pricing strategies</li>\n<li>Develop data visualizations for clients to enable data-driven decision making</li>\n<li>Load and clean data, manipulating structure and connecting data tables where needed</li>\n<li>Build skillset in some of the following: Power BI, Excel, R, Python, SQL</li>\n<li>Apply all statistical results to a business setting with clear resulting actions</li>\n<li>Develop PowerPoint presentations for client report outs</li>\n<li>Travel as needed to meet client needs, up to 4 days/week</li>\n</ul>\n \n<strong>Other Skills Needed:</strong>\n<ul>\n<li>Consulting and Change Management skills</li>\n<li>Ability to build relationships and collaborate with clients and AMEND team members</li>\n<li>Project and Time Management</li>\n<li>Robust problem-solving skills</li>\n<li>Capacity to focus on goals and manage action items, prioritization, and accountability</li>\n<li>Strong self-awareness to seek constant feedback</li>\n<li>Motivation and excitement to drive your continued development</li>\n</ul>\n \nAll this to say – we are looking for talented people who are excited to make an impact on our clients. If this job description isn’t a perfect match for your skillset, but you are talented, eager to learn, and passionate about our work, please apply! Our recruiting process is centered around you as an individual and finding the best place for you to thrive at AMEND, whether it be with the specific title on this posting or something different. One recruiting conversation with us has the potential to open you up to our entire network of opportunities, so why not give it a shot? We’re looking forward to connecting with you.\n<p></p><p>*Applicants must be authorized to work for any employer in the U.S.  We are unable to sponsor or take over sponsorship of employment Visa at this time.* </p>",
+    "content_hash": "78ccd78b2eb56e963d165b95ec594442"
+  }
+}

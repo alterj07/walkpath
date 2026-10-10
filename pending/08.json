@@ -1,0 +1,47 @@
+{
+  "081e93df2e18": {
+    "id": "081e93df2e18",
+    "title": "Coherent Optical Systems Internship",
+    "title_raw": "Coherent Optical Systems Internship",
+    "company": {
+      "slug": "taara",
+      "name": "Taara",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Sunnyvale, CA",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "taaraconnect",
+      "external_id": "06d29a2a-9913-4c52-b1ba-9236ca086acb"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T19:34:59.065Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 7000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Taara:</strong></p><p>Born at X, Google's Moonshot Factory, Taara is on a mission to connect billions of people lacking abundant and affordable internet today by pioneering the way we use light to deliver faster, cheaper, more reliable connectivity. We are bringing groundbreaking wireless optical communication and photonics chip technologies to the world to bridge the digital divide.</p><p>Joining Taara allows you to work as part of a multidisciplinary team of experts in optics, software, and hardware, all collaborating to solve the hardest connectivity challenges on a global scale. If you want to tackle problems that matter and build tools with real-world impact, we would love to meet you.</p><p><strong>About the Role:</strong></p><p>At <strong>Taara</strong>, as a <strong>Coherent Optical Systems Intern</strong>, you will work on receiver synchronization for next-generation wireless optical communication (WOC) links. This is a larger-scope opportunity <strong>(6 to 12+ months)</strong> spanning both lab and simulation work, and could form the basis of a longer-term collaboration or thesis project.</p><p>What such a receiver can achieve is bounded by real lasers, modulators, and analog electronics. You will evaluate components against system requirements, assemble the benchtop experiments that test them, and work toward stable closed-loop operation. In parallel you will extend the simulation that predicts this behavior, using each to check the other. </p><p>There is real room to shape the direction: survey what is available, design the experiments that separate real limits from prototype artifacts, and follow the evidence to the strongest design.</p><p><strong>How you will make 10X Impact:</strong></p><ul><li><p><strong>Component Evaluation:</strong> Screen commercially available lasers, modulators, and front-end electronics against system requirements, and measure the characteristics vendors do not publish (tuning response, wavelength stability and drift, linewidth, bandwidth, range, noise).</p></li><li><p><strong>Synchronization &amp; Control Loop Design:</strong> Design and analyze the feedback loops that track carrier phase and frequency, and validate them against control theory using transient, frequency-domain, and stability analysis.</p></li><li><p><strong>Physical-Layer Simulation:</strong> Extend our end-to-end model of the link and its tracking loops, and reconcile it against measurement.</p></li></ul><p><strong>What you should have:</strong></p><ul><li><p>Currently pursuing a Master's, or PhD in Electrical Engineering, Applied Physics, Optics, Communications, or a related field.</p></li><li><p><strong>Working knowledge of Analog / RF Electronics</strong>, and a feel for how hardware limits (delay, bandwidth, noise, saturation) shape the loop and the signal processing around it. Strong foundation in <strong>Digital Communications / Signal Processing</strong> (modulation, detection, BER, spectral analysis).</p></li><li><p><strong>Hands-on lab experience</strong>, including work with lasers and modulators, and comfort with high-speed scopes, spectrum analyzers, and power meters.</p></li><li><p><strong>Strong familiarity with Control theory on hardware </strong>measuring an open-loop response, closing a feedback loop, and diagnosing why one oscillates, drifts, or loses lock.</p></li><li><p>Experience with <strong>scientific Python</strong> (NumPy/SciPy), and comfort writing clean, modular, tested code.</p></li><li><p>An <strong>owner's mindset</strong>, able to take an underspecified hardware problem and drive it forward independently in the lab.</p></li><li><p>A habit of <strong>reaching a clear conclusion and documenting it</strong>, including when the conclusion is that an approach does not work.</p></li><li><p>Ability to commit to a 6-12 months internship, with flexibility to fit your academic schedule.</p></li><li><p>Ability to work in the Sunnyvale office at least 3 days per week.</p></li></ul><p><strong>It'd be great if you also had one or more of these:</strong></p><ul><li><p><strong>Laser Frequency Control:</strong> Stabilizing or locking lasers, or hands-on work with narrow-linewidth sources, tunable lasers, and optical modulators.</p></li><li><p><strong>Synchronization:</strong> Familiarity with phase-locked loops, carrier and timing recovery, or coherent detection.</p></li><li><p><strong>Hardware Depth:</strong> Hands-on circuit design (analog, RF, or mixed-signal), or lab characterization of high-speed electronics.</p></li><li><p><strong>High-Performance Numerics:</strong> Experience with accelerated array frameworks such as JAX, and functional, vectorized programming.</p></li><li><p><strong>Stochastic Methods:</strong> Phase-noise modeling, rare-event Monte Carlo, or first-passage / cycle-slip statistics (Fokker-Planck, Kramers rate).</p></li><li><p><strong>Domain Knowledge:</strong> Optical or RF communications, photonics, free-space optics, or atmospheric turbulence/fading channels.</p></li><li><p><strong>Judgment about real components</strong>, knowing which datasheet specifications are guaranteed and which are typical, and a willingness to go measure the ones that matter.</p></li><li><p><strong>Control theory you have applied on hardware</strong>, including measuring an open-loop response, closing a feedback loop, and diagnosing why one oscillates, drifts, or loses lock.</p></li></ul><p><strong>What we offer:</strong></p><ul><li><p>Competitive salary: $7,000-$10,000/month depending on degree.</p></li><li><p>Flexible duration to fit your academic schedule.</p></li><li><p>Direct mentorship from industry-leading engineers in a \"moonshot\" environment.</p></li><li><p>Opportunity to work on technology that has the potential to change how billions of people access the internet.</p></li></ul>",
+    "content_hash": "4e1654ef6a41b9ad60efcd836c6b436c"
+  }
+}

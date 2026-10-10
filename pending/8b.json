@@ -1,0 +1,92 @@
+{
+  "8b7cc108528c": {
+    "id": "8b7cc108528c",
+    "title": "Engineering Internship, Business Operations (Summer 2027)",
+    "title_raw": "Engineering Internship, Business Operations (Summer 2027)",
+    "company": {
+      "slug": "amca",
+      "name": "AMCA",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amca",
+      "external_id": "4253828009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4253828009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-20T16:51:16.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:59.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>There was a time when all of America believed that the future of the physical world could be radically different. The engineers of the mid-1900s put a man on the moon in eight years, designed and built planes and submarines from scratch in under three, and conceived of building things we wouldn’t even be able to dream up today.</p>\n<p>Today, the last of the engineers who imagined and built these systems are retiring. As they go, we lose not only the engineering knowledge gained from their decades of imagination and trial-and-error, but also the spirit that made that imagination possible.</p>\n<p>Amca is working day-in and day-out to restore America’s ability to engineer anything that our critical systems depend on, and reinvigorate the cycle of creation that allows imagination to shape physical reality. We rapidly develop and manufacture new critical components and subsystems required to build and sustain the planes, military vehicles, and core infrastructure America needs. By restoring the capability of our antiquated supply chains, we increase the country’s capacity to imagine and realize new systems, and make a physical world that looks very different from today.</p><h3><strong>Overview:</strong></h3>\n<p>Amca is looking for sharp, high-energy interns to join our Business Operations team. You will work directly on the workflows that keep Amca's pipeline moving — supporting business development, tracking opportunities, and helping execute on new growth. This is a fast-paced, high-ownership role where your work will have direct impact on the company's growth. You will collaborate cross-functionally with program management, engineering, and production teams to help identify and execute new business opportunities.</p>\n<p></p>\n<h3><strong>Responsibilities:</strong></h3>\n<ul>\n<li>Support Amca's business development and pipeline management processes, including opportunity identification, bid preparation, and follow-through</li>\n<li>Track and manage active opportunities across Amca's target markets</li>\n<li>Coordinate with internal teams to gather technical and programmatic inputs needed to pursue new business</li>\n<li>Assist with research and analysis to support business development and program management decisions</li>\n<li>Help maintain accurate records of pipeline activity, bids, and outcomes</li>\n<li>Contribute to process improvements that increase the speed and quality of Amca's business operations workflows</li>\n</ul>\n<p></p>\n<h3><strong>Basic Qualifications:</strong></h3>\n<ul>\n<li>Currently enrolled in a bachelor's or graduate degree program</li>\n<li>Background or coursework in one or more of the following: Business, Finance, Political Science, Law, Supply Chain Management, Engineering, or a closely related field</li>\n</ul>\n<p></p>\n<h3><strong>Preferred Skills and Experience:</strong></h3>\n<ul>\n<li>Demonstrated track record of high performance in academic, professional, or extracurricular settings</li>\n<li>Exceptional written and verbal communication skills</li>\n<li>Strong attention to detail and ability to manage multiple concurrent workstreams under deadline pressure</li>\n<li>Comfortable working in fast-moving, ambiguous environments with a high degree of ownership</li>\n<li>Prior exposure to defense acquisition, government contracting, or DoD procurement processes</li>\n<li>Prior experience in aerospace, defense, or industrial manufacturing</li>\n</ul>Hourly Pay Range$30—$50 USD<p><em>This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a US person as: any individual who is granted U.S. citizenship; or. any individual who is granted U.S. permanent residence (\"Green Card\" holder); or. any individual who is granted status as a \"protected person\" under 8 U.S.C 1324b(a)(3).</em></p>\n<p><em>The Advanced Manufacturing Company of America prohibits discrimination or harassment based on the following categories: race, color, religion, religious creed (including religious dress and grooming practices), national origin, ancestry, citizenship, physical or mental disability, medical condition (including cancer and genetic characteristics), genetic information, marital status, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender, gender identity, gender expression, age (40 years and over), sexual orientation, veteran and/or military status, protected medical leaves (requesting or approved for leave under the Family and Medical Leave Act or the California Family Rights Act), domestic violence victim status, political affiliation, and any other status protected by state or federal law.</em></p>",
+    "content_hash": "78b32c6c9fc247b5c304d6bd743e2b98"
+  },
+  "8bc6c1472a66": {
+    "id": "8bc6c1472a66",
+    "title": "Rainmaker Fellow, Atmospheric Science",
+    "title_raw": "Rainmaker Fellow, Atmospheric Science",
+    "company": {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "make-rain",
+      "external_id": "7842e3ba-68d5-489f-bcd2-020cb26e23e2"
+    },
+    "apply_url": "https://jobs.lever.co/make-rain/7842e3ba-68d5-489f-bcd2-020cb26e23e2/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T13:58:10.743Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:03:22.232Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rainmaker</h3>\n<p>Rainmaker is pioneering a modern cloud-seeding system to increase precipitation, improve water availability, and address severe-weather challenges. We combine atmospheric science, weather-resistant UAS, radar and satellite observations, numerical weather prediction, novel sensing systems, and sustainable seeding technologies to design, operate, and evaluate precipitation-enhancement programs.</p>\n<p>Rainmaker needs quantitative methods that translate atmospheric conditions into operational and program-design decisions. Fellows work on analyses intended to change what Rainmaker builds, where it operates, or how it evaluates results.</p>\n<h3>About the Fellowship</h3>\n<p>The Rainmaker Atmospheric Science Fellowship is a paid, full-time research appointment for exceptional undergraduate and graduate students, postdoctoral researchers, recent graduates, and other early-career researchers.</p>\n<p>You will join Rainmaker's atmospheric-science team and work alongside our researchers on a scoped quantitative project drawn from Rainmaker's current scientific and operational priorities and defined in close collaboration with your research lead or mentor. Project matching will consider available data, mentor capacity, team needs, and your background. You will take responsibility for a concrete analytical workstream while contributing to the broader team's research, reviews, and operational decisions.</p>\n<p>Fellows are not expected to arrive with an independent research agenda or define a project in isolation. You will be expected to turn an important atmospheric or operational question into a rigorous analysis and a result the team can continue using.</p>\n<h3>Examples of the Work</h3><p>Fellowship projects change with Rainmaker's research and operational priorities. Examples of the work our quantitative atmospheric-science team may pursue include:</p>\n\nEstimating seedable hours and program opportunity for a proposed or existing operating region. \nQuantitatively evaluating cloud-seeding operations, targeting decisions, or factors associated with precipitation yield. \nBuilding ground-truth datasets and validation methods for forecasting, retrieval, or machine-learning systems. \nVerifying forecasts or automating a meteorological analysis used by operations. \nComparing program designs, targeting strategies, or operational constraints across candidate regions. \n\n<h3>What You'll Do</h3>\nWork with your research lead to translate an atmospheric, operational, or program-design question into measurable quantitative criteria. \nBuild and document the quality-controlled dataset required for the assigned project. \nApply appropriate statistical, climatological, geospatial, verification, or decision-analysis methods. \nCompare results across relevant reanalysis, NWP, satellite, radar, terrain, operational, or in-situ data sources. \nIncorporate practical operational constraints when they are relevant to the question. \nQuantify uncertainty, missingness, bias, and sensitivity to assumptions. \nCreate maps, summaries, and decision-oriented outputs for scientists, operators, and program designers. \nBuild a documented and reusable workflow that the team can extend to future questions. \nDeliver a final artifact such as a dataset, analysis, evaluation framework, operational tool, technical report, or presentation. \n\n<h3>What We're Looking For</h3>\nCurrent undergraduate, master's, or PhD students; postdoctoral researchers; recent graduates; and other early-career researchers are all eligible. \nBackground in meteorology, atmospheric science, applied mathematics, statistics, physics, hydrology, geospatial science, or a related field. \nStrong Python and quantitative-analysis ability. \nExperience with meteorological, climate, geospatial, radar, satellite, or model data. \nAbility to make ambiguous definitions explicit and test the sensitivity of results to assumptions. \nStrong scientific judgment about uncertainty, representativeness, and the difference between an analytical proxy and operational ground truth. \nClear written and verbal communication. \nAvailability for full-time, on-site work in El Segundo for the agreed appointment. \n\n<h3>Particularly Relevant Experience</h3>\nGRIB, netCDF, xarray, reanalysis, NWP, radar, satellite, terrain, or operational datasets. \nClimatology, forecast verification, spatial statistics, time-series analysis, uncertainty quantification, or decision analysis. \nCloud microphysics, precipitation, orographic meteorology, convection, weather modification, or field operations. \nReproducible scientific workflows and decision-oriented visualization. \n\n<h3>What Success Looks Like</h3><p>By the end of the fellowship, you will have answered a clearly defined scientific or operational question and delivered a result the atmospheric-science team can continue using. The work should include clear uncertainty and sensitivity analysis and should not present an analytical proxy as more certain than the underlying observations support.</p>\n<h3>Fellowship Details</h3>\nPaid, full-time, and on-site in El Segundo. \nThree-to-six-month appointment, with three months as the standard duration. \nRolling applications and project-specific start dates. \nAttached directly to Rainmaker's atmospheric-science team with a named mentor. \nPossible consideration for future full-time roles, without any promise or expectation of conversion. \n\n<h3>Compensation and Benefits</h3><p>$8,000 per month</p>\n<p><strong>Benefits:</strong></p>\n\nFull health coverage (medical, dental, and vision insurance) \nLunch provided when working in-office and a fully stocked kitchenette \nFree EV charging at the HQ",
+    "content_hash": "3cdd33dcafa39353dc63b9c134dbab81"
+  }
+}

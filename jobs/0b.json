@@ -1,0 +1,132 @@
+{
+  "0b3e865d191c": {
+    "id": "0b3e865d191c",
+    "title": "Software Engineer, Intern (Summer 2027)",
+    "title_raw": "Software Engineer, Intern (Summer 2027)",
+    "company": {
+      "slug": "persona",
+      "name": "Persona",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "persona",
+      "external_id": "eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T16:48:33.837Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.790Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 7500,
+      "max": 8000,
+      "currency": "USD",
+      "period": null
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Persona</strong></p><p>Persona is the configurable identity platform built for businesses in a digital-first world. Verifying individuals and organizations is harder — but more important — than ever, with AI enabling fraudsters to launch sophisticated accounts at scale and regulations evolving rapidly.</p><p>We’ve built Persona to support practically every use case and industry — that’s why we’re able to serve a wide range of leading companies. For example, Reddit relies on Persona for age assurance and verification to comply with online safety regulations, protecting younger users while maintaining a seamless experience. Meanwhile, OpenAI relies on Persona to keep bad actors out, protecting one of the world’s most powerful AI platforms from large-scale abuse in a time when AI is reshaping the way we work and live.</p><p>We’re growing rapidly and looking for exceptional people to join us!</p><p><strong>Our Engineering team and internship program </strong>This is not your typical engineering internship. During your internship, you'll have opportunities for ownership that will significantly build your confidence as a software engineer. At one of the fastest-growing startups in technology, you'll ship code as early as your first week! You'll receive dedicated 1:1 mentorship, along with challenging technical assignments, novel product feature work, and many opportunities to stretch your technical skills unlike ever before. We’re building both a product and a technology, but doing whatever it takes isn’t always straightforward. This role will help show you how to build the correct systems for scale, while also building something that customers want.</p><p></p><p><strong>What you'll learn</strong></p><p></p><ul><li><p><strong>Build and ship: </strong>You'll design foundational aspects of the identity platform</p></li><li><p><strong>Partner with customers: </strong>Work directly with customers to understand their pain points and build product features for them. You’re in the driver's seat to get your project in front of real customers</p></li><li><p><strong>See (and ship) scale: </strong>Handle both first-time and long-time customers running a CSV data test at Super Bowl Sunday scale</p></li><li><p><strong>Cross-team collaboration: </strong>Discuss the unique aspects of your projects with teams such as product, design, post-sales, and sales</p></li><li><p><strong>Continuous learning: </strong>Work with your mentor and a close-knit team to ensure your learnings from past projects are brought into future projects, helping you grow quickly as an engineer</p></li></ul><p></p><p><strong>What you'll bring to Persona</strong></p><p></p><ul><li><p>Pursuing a Bachelor's or Master's in computer science, engineering, math, or related discipline with a strong CS background</p></li><li><p>Previous programming experience is a must. While we use Ruby/Rails, Typescript, React, Redux, Android, iOS, and Python, we care more about engineering skills than knowledge of specific languages or frameworks</p></li><li><p>Proficiency in full-stack development, previous experience with data modeling and schema design</p></li><li><p>Ability to work independently and collaboratively to execute projects and adhere to deadlines - Eager to discuss positive and negative feedback regarding large projects</p></li><li><p>Willing to be in-person in San Francisco and work out of our San Francisco office Tuesday - Thursdays (WFH option Mondays and Fridays)</p></li><li><p>You thrive in a fast-paced, high-growth startup environment</p></li></ul><p></p><p>At Persona, we believe in people above all else. We strive to create an inclusive environment where everyone's contributions are valued and their growth is supported. We're honored to be recognized as one of Fortune's Best Medium Workplaces, a testament to our commitment to fostering a world-class team. You can read what it’s like to work at Persona on Glassdoor or visit our Early Careers page to see more opportunities like this one.</p><p></p><p><strong>Benefits and Perks</strong></p><p>For full-time US-based employees (excluding internship and contractor opportunities), Persona offers a wide range of benefits, including medical, dental, and vision, 3% 401(k) contribution, unlimited PTO, quarterly mental health days, family planning benefits, professional development stipend, wellness benefits, among others. </p><p><br />For full-time UK employees, Persona offers a wide range of benefits, including private medical insurance, dental insurance, a 6% employer pension contribution, unlimited PTO, a monthly wellness stipend, professional development stipend, co-working stipend, and more.</p><p><br />As part of our interview process, all candidates will be asked to verify their identity with Persona. This step is used solely to confirm that candidates are who they say they are, and will have no impact on hiring decisions.</p>",
+    "content_hash": "f1630a2810a7ad413f1efc409c70c73c"
+  },
+  "0b5bd27afd72": {
+    "id": "0b5bd27afd72",
+    "title": "Field Engineering Co-Op",
+    "title_raw": "Field Engineering Co-Op",
+    "company": {
+      "slug": "acceldata",
+      "name": "Acceldata",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Kitchener",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "acceldata",
+      "external_id": "d69a1a62-284c-47d1-b74f-ea02dffad32f"
+    },
+    "apply_url": "https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-08T16:42:33.163Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:35.580Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 30,
+      "currency": "CAD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h4><strong>ABOUT US</strong></h4>\nAcceldata is the market leader in Enterprise Data Observability. Founded in 2018, Silicon Valley-based Acceldata has developed the world's first Enterprise Data Observability Platform to help build and operate great data products.\n \nEnterprise Data Observability is at the intersection of today’s hottest and most crucial technologies such as AI, LLMs, Analytics, and DataOps. Acceldata provides mission-critical capabilities that deliver highly trusted and reliable data to power enterprise data products.\n \nDelivered as a SaaS product, Acceldata's solutions have been embraced by global customers, such as HPE, HSBC, Visa, Freddie Mac, Manulife, Workday, Oracle, PubMatic, PhonePe (Walmart), Hersheys, Dun &amp; Bradstreet, and many more. Acceldata is a Series-C funded company whose investors include Insight Partners, March Capital, Lightspeed, Sorenson Ventures, Industry Ventures, and Emergent Ventures.\n<h4><strong>ABOUT US</strong></h4>\nAcceldata is the market leader in Enterprise Data Observability. Founded in 2018, Silicon Valley-based Acceldata has developed the world's first Enterprise Data Observability Platform to help build and operate great data products.\n \nEnterprise Data Observability is at the intersection of today’s hottest and most crucial technologies such as AI, LLMs, Analytics, and DataOps. Acceldata provides mission-critical capabilities that deliver highly trusted and reliable data to power enterprise data products.\n \nDelivered as a SaaS product, Acceldata's solutions have been embraced by global customers, such as HPE, HSBC, Visa, Freddie Mac, Manulife, Workday, Oracle, PubMatic, PhonePe (Walmart), Hersheys, Dun &amp; Bradstreet, and many more. Acceldata is a Series-C funded company whose investors include Insight Partners, March Capital, Lightspeed, Sorenson Ventures, Industry Ventures, and Emergent Ventures.<br />\n<h3>Summary</h3>\n<p>As a Field Engineer Co-op at Acceldata, you’ll be working hands-on with complex distributed systems, helping real customers solve deep infrastructure and data observability challenges.</p>\n<p>You’ll get to:</p>\n<ul>\n<li>Shadow and contribute to field-engineering solutions and architecture reviews.</li>\n<li>Dive into diagnostics around performance, scalability, and deployment for large-scale data environments.</li>\n<li>Learn how we enable observability across Data, Kubernetes, cloud-native platforms, and Open Source components like spark, hive, kafka etc.</li>\n<li>Collaborate directly with the Field Architects to troubleshoot issues and propose improvements.</li>\n<li>Learn designing, developing and deploying reusable automation and AI frameworks to enable observability of various data ecosystems and platforms.</li>\n<li>Build context across Sales, Product, and Customer Success, understanding how real-world engineering meets customer expectations.</li>\n<li>See what it means to turn technical solutions into customer value at scale.</li>\n</ul>\n<p>This role is built for future Sales Engineers, Solution Architects, or Platform Engineers who want early exposure to enterprise-scale engineering problems. </p>\n<p>If you’re excited by debugging distributed systems, working close to customer impact, and seeing how world-class engineering drives business outcomes, this Co-Op is built for you.</p>\n\nThis is a 4 month assignment, 40 hours per week, with required on-site presence at 151 Charles Street West, inside the Communitech Innovation Center.\n<h3>WHY INTERN WITH US</h3>\n\nGain valuable experience at a fast-growing tech startup in Canada. \nWork alongside senior field engineers and architects to solve complex platform reliability and data operations challenges. \nGain hands-on experience with cloud native and distributed systems like Hadoop, Spark, Kafka, Hive, and Kubernetes. \nGet mentorship from engineers and architects who’ve scaled infrastructure at leading tech companies. \nOpportunity for future employment and career growth. It’s a launchpad into high-impact, customer-facing technical roles. \nJoin the team that coined the term Data Observability. \n\n\n<h3>RESPONSIBILITIES</h3>\n\nCollaborate with the field engineering team to write, test, and deploy software solutions using advanced Java or Scala programming. \nCommit to continuous learning and professional development, adapting to new tools, languages, and platforms as required. \nThis position is perfect for individuals who are passionate about technology, eager to solve complex business problems, and possess a strong customer-centric mindset. \n\n\n<h3>REQUIREMENTS</h3>\nCurrently pursuing a degree in Computer Science, Software Engineering, or a related field. \nStrong programming skills in languages such as Java, Scala, and Python.Knowledge of data structures, algorithms, and software development principles. \nExperience with distributed computing, big data technologies, and cloud platforms is a plus. \nExcellent problem-solving and analytical abilities. \nStrong understanding and hands-on experience with Kubernetes, including deploying, managing, and scaling applications. \nFamiliarity with Kubernetes concepts such as Pods, Services, Deployments, StatefulSets, ConfigMaps, and Secrets. \nUnderstanding of the big data ecosystem, including data ingestion, processing, and storage technologies. \nStrong communication skills, both verbal and written, to effectively collaborate with cross-functional teams. \nProven ability to work well in a team environment, contributing to a collaborative culture. \nEnthusiasm to learn and adapt to new technologies. \n\n<h3>Application Documents Required</h3>\nCo-op Work History \nResume \nGrade Report \n\n<h3>Compensation and Benefits Information</h3>\n\nApple Mac Equipment \nCatered lunch once a week in the office \nGym with onsite showers \nGames Rooms \nDesignated bicycle room  \nDrinks and snacks \n\n\n<strong>Acceldata is an equal-opportunity employer</strong>\n \n<strong>At Acceldata, </strong>we are committed to providing equal employment opportunities regardless of job history, disability, gender identity, religion, race, color, caste, marital/parental status, veteran status, or any other special status. We stand against the discrimination of employees and individuals and are proud to be an equitable workplace that welcomes individuals from all walks of life if they fit the designated roles and responsibilities.\n \n<strong>#LifeAtAcceldata </strong>is all about working with some of the best minds in the industry and experiencing a culture that values an ‘out-of-the-box’ mindset. If you want to push boundaries, learn continuously, and grow to be the best version of yourself, Acceldata is the place to be!",
+    "content_hash": "8d3d2b8107f41bbb68b82202f3cb9b09"
+  },
+  "0bbc07d0c552": {
+    "id": "0bbc07d0c552",
+    "title": "Data Center Build & Deployment Intern",
+    "title_raw": "Data Center Build & Deployment Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "a75bda20-d28d-443c-987f-53c4478fe940"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/a75bda20-d28d-443c-987f-53c4478fe940/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T18:26:06.003Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>Data Center Integration turns delivered hardware into installed, cabled, power-on racks ready for cluster bring-up.</p><p>We’re looking for a <strong>Data Center Build &amp; Deployment Intern </strong>to join our team during an exciting phase of growth. In this role, you will work inside that machine on live builds: receiving and staging racks, running installation quality checks against our port maps and standards, tracking throughput, and finding the bottleneck that slows the next build down. You will finish the program having shipped a deployment dashboard the team uses and a cycle-time improvement with numbers behind it.</p><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><p>This internship is open to three kinds of candidates. We evaluate all three against the same bar and none is a second-tier track.</p><ol><li><p><strong>Current students</strong></p><ul><li><p>Engineering technology, construction management, industrial or electrical engineering, logistics or supply chain, or IT programs. Hands-on project, club, or job experience (Formula SAE, Habitat builds, trades work) counts heavily.</p></li></ul></li><li><p><strong>Transitioning service members and veterans</strong></p><ul><li><p>Technical, maintenance, construction, electrical, or logistics backgrounds map directly. Examples: Navy EM, ET, and Seabee ratings (CE, UT, BU); Army 12-series engineers, 91-series maintenance, 92-series logistics; USMC 11-series utilities and 04-series logistics; Air Force 3E civil engineering and 2S materiel management. Navy nuclear operators are especially welcome.</p></li></ul></li><li><p><strong>Professionals returning after a career break</strong></p><ul><li><p>Prior work in construction, facilities, field service, logistics, manufacturing, or IT operations. Project or operations managers returning from a break are a strong fit for the throughput and process work.</p></li></ul></li></ol><p></p><ul><li><p>One of: current enrollment in a relevant program; military experience in a technical, maintenance, construction, electrical, or logistics specialty; or 2+ years of prior work in a field listed above.</p></li><li><p>Comfort with physical, on-your-feet work in loud, temperature-variable data halls, including lifting up to 50 lb with or without reasonable accommodation.</p></li><li><p>Working spreadsheet skills (Excel or Google Sheets): you can turn a messy log into a clean weekly count.</p></li><li><p>Reliability and checklist discipline: you do the step as written, and you flag when the step is wrong.</p></li><li><p>Ability to meet colocation site access requirements, including a background check.</p></li><li><p>Able to travel to Data Center sites, between 30 to 50% site time during build windows.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>OSHA 10 or 30, NFPA 70E awareness, or other formal safety training.</p></li><li><p>Electrical, low-voltage, or fiber exposure; CompTIA A+ or Server+.</p></li><li><p>Lean or Six Sigma training; dashboarding in Power BI, Smartsheet, or similar.</p></li><li><p>Forklift or material-handling certification; prior data center or mission-critical work.</p></li></ul><p><strong>Internship Information</strong></p><ul><li><p>Paid Internship</p></li><li><p>May - August (12 weeks)</p></li><li><p>Tuesday - Friday, 8 hours</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "bc4a87d994e6953451130cc5095178ed"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "61b48a049b4f": {
+    "id": "61b48a049b4f",
+    "title": "2027 New Graduate - Thermal Engineer",
+    "title_raw": "2027 New Graduate - Thermal Engineer",
+    "company": {
+      "slug": "radiant-industries",
+      "name": "Radiant Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "radiant-industries",
+      "external_id": "8e8fc9b3-f2b4-40c3-846e-0dcb60feaff4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/radiant-industries/8e8fc9b3-f2b4-40c3-846e-0dcb60feaff4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T21:38:11.976Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 105000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Radiant</strong></h3><p>Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. The company’s first reactor, Kaleidos, is a 1-megawatt, fail-safe microreactor that can be transported anywhere power is needed and run for up to 5 years without refueling. Portable nuclear power with rapid-deploy capability can replace similar-sized diesel generators and provide critical asset support for hospitals, data centers, remote sites, and military bases. Radiant’s unique, practical approach to nuclear development leverages modern software engineering to rapidly deliver safe, factory-built microreactors that use existing, well-qualified materials. Founded in 2020, Radiant is on track to test its first reactor at the Idaho National Laboratory this summer, with initial customer deliveries beginning in 2028.</p><p>Radiant is seeking a highly motivated Thermal Engineer to join the team. </p><p><strong>Responsibilities:</strong></p><ul><li><p>Develop and execute thermal analysis and CFD to evaluate design and performance of Kaleidos systems.</p></li><li><p>Document analysis results to communicate clear and actionable outputs.</p></li><li><p>Expand CFD capabilities, accuracy, and efficiencies via methods and workflow development projects.</p></li><li><p>Own pipeline for producing analysis geometry from mechanical design CAD</p></li><li><p>Develop methods and calculations to support and build confidence in lower-fidelity thermal analysis methods.</p></li></ul><p><strong>Qualifications:</strong>  </p><ul><li><p>BS or MS in Chemical Engineering, Mechanical Engineering, Aerospace Engineering, or related discipline.</p></li><li><p>Graduating in December 2026 or Spring 2027.</p></li><li><p>A high level of independence in solving challenging engineering tasks is preferred.   </p></li><li><p>Ability to seek out resources and proactively ask questions to finish projects through completion effectively, accurately, and timely.   </p></li><li><p>Ability to work in a fast-paced startup environment with a proactive and collaborative attitude.  </p></li><li><p>Genuinely excited for our mission to rapidly deploy nuclear microreactors to remote locations requiring abundant, clean energy. </p></li><li><p>Knowledge of reactor physics will provide useful context but is not necessary.  </p></li><li><p>Prior internship experience helpful but not required.  </p></li></ul><h3><strong>Benefits and Perks</strong></h3><ul><li><p>Stock: Substantial incentive stock plan for all full-time employees.</p></li><li><p>Medical: 100% up to base silver level plan for employee + 50% dependents, offers up to Platinum plans.</p></li><li><p>One Medical: Sponsored memberships for employees and their dependents.</p></li><li><p>Vision: 100% top tier plan coverage + 50% for dependents.</p></li><li><p>Dental: 100% top tier plan coverage, orthodontia extra, 50% for dependents.</p></li><li><p>Voluntary life, accident, hospital, critical illness, commuter and FSA/HSA are offered as employee contributed benefits.</p></li><li><p>8-weeks of paid parental leave for all parents. Additional paid pregnancy leave for CA employees.</p></li><li><p>Daily catered lunch. Free snacks and drinks.</p></li><li><p>Flexible PTO policy. Remote workday allocation.</p></li><li><p>Company and team-bonding events, happy hours and in-person camaraderie.</p></li><li><p>Beautiful El Segundo headquarters close to the Pacific Ocean.</p></li></ul><p></p><p><strong>Total Compensation and Benefits</strong><br />Radiant compensates people for impact and invests in those who continue to raise the bar. Radiant’s new hire compensation package includes base salary, substantial equity grants, and comprehensive health benefits. Total compensation and level are determined through a rigorous evaluation of interview performance, experience, education, and qualifications, and are designed to support continued growth as scope, responsibility, and impact expand at Radiant.<br /><br />The best of today’s advanced reactor builders don’t wait for job postings. They join the winning team. If that’s you, contact us directly for immediate opportunities: recruiting@radiantnuclear.com.<br /><br /><em>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</em></p><p><em>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</em></p>",
+    "content_hash": "63023ce98b7da2fd477d4ddff43b2583"
+  }
+}

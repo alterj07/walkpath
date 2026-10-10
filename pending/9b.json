@@ -1,0 +1,50 @@
+{
+  "9b428a8c004b": {
+    "id": "9b428a8c004b",
+    "title": "2027 New Graduate - Software Engineer",
+    "title_raw": "2027 New Graduate - Software Engineer",
+    "company": {
+      "slug": "radiant-industries",
+      "name": "Radiant Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "radiant-industries",
+      "external_id": "1ec29cec-d18f-417d-adc6-31adda87c687"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T21:17:04.753Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 105000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Radiant</strong></h3><p>Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. The company’s first reactor, Kaleidos, is a 1-megawatt, fail-safe microreactor that can be transported anywhere power is needed and run for up to 5 years without refueling. Portable nuclear power with rapid-deploy capability can replace similar-sized diesel generators and provide critical asset support for hospitals, data centers, remote sites, and military bases. Radiant’s unique, practical approach to nuclear development leverages modern software engineering to rapidly deliver safe, factory-built microreactors that use existing, well-qualified materials. Founded in 2020, Radiant is on track to test its first reactor at the Idaho National Laboratory this summer, with initial customer deliveries beginning in 2028.</p><p>Radiant is seeking a highly motivated Software Engineer to join the team. <br /><em><br /></em><strong>Responsibilities:</strong></p><ul><li><p>Assist in creating tooling to support a variety of simulation software packages.</p></li><li><p>Contribute to internal software products that support simulation and analysis of simulation results.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>BS or MS in Software Engineering, Controls Systems Engineering, or a related discipline.</p></li><li><p>Graduating in December 2026 or Spring 2027.</p></li><li><p>Familiarity with Python, C++, C#, or similar object-oriented programming languages.</p></li><li><p>Basic knowledge of software development practices and version control tools such as Git.</p></li></ul><p><strong>Desired Qualifications:</strong></p><ul><li><p>Strong self-motivation and the ability to collaborate effectively in a team environment.</p></li><li><p>Interest in contributing to simulation tools or working on software testing.</p></li><li><p>Familiarity with distributed software development and common design patterns is a plus.</p></li><li><p>A passion for physics, hardware, or electrical engineering is highly encouraged.</p></li></ul><h3><strong>Benefits and Perks</strong></h3><ul><li><p>Stock: Substantial incentive stock plan for all full-time employees.</p></li><li><p>Medical: 100% up to base silver level plan for employee + 50% dependents, offers up to Platinum plans.</p></li><li><p>One Medical: Sponsored memberships for employees and their dependents.</p></li><li><p>Vision: 100% top tier plan coverage + 50% for dependents.</p></li><li><p>Dental: 100% top tier plan coverage, orthodontia extra, 50% for dependents.</p></li><li><p>Voluntary life, accident, hospital, critical illness, commuter and FSA/HSA are offered as employee contributed benefits.</p></li><li><p>8-weeks of paid parental leave for all parents. Additional paid pregnancy leave for CA employees.</p></li><li><p>Daily catered lunch. Free snacks and drinks.</p></li><li><p>Flexible PTO policy. Remote workday allocation.</p></li><li><p>Company and team-bonding events, happy hours and in-person camaraderie.</p></li><li><p>Beautiful El Segundo headquarters close to the Pacific Ocean.</p></li></ul><p></p><p><strong>Total Compensation and Benefits</strong><br />Radiant compensates people for impact and invests in those who continue to raise the bar. Radiant’s new hire compensation package includes base salary, substantial equity grants, and comprehensive health benefits. Total compensation and level are determined through a rigorous evaluation of interview performance, experience, education, and qualifications, and are designed to support continued growth as scope, responsibility, and impact expand at Radiant.<br /><br />The best of today’s advanced reactor builders don’t wait for job postings. They join the winning team. If that’s you, contact us directly for immediate opportunities: recruiting@radiantnuclear.com.<br /><br /><em>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</em></p><p><em>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</em></p>",
+    "content_hash": "fe0fe808340918a8b615981563ad3866"
+  }
+}

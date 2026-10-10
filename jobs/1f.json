@@ -1,0 +1,47 @@
+{
+  "1fc613f965dd": {
+    "id": "1fc613f965dd",
+    "title": "Visual Design Co-op 2027",
+    "title_raw": "Visual Design Co-op 2027",
+    "company": {
+      "slug": "megazonecloud",
+      "name": "MegazoneCloud",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Rochester, NY",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "megazone",
+      "external_id": "66b2d2e9-1b13-40d0-a4d4-e4599fd418ca"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T16:47:39.563Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.399Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "ux_design",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 19,
+      "max": 21,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>MegazoneCloud is looking for a creative and detail-oriented <strong>Visual Design Co-op</strong> to join our growing design and marketing team. In this role, you will be the visual storyteller who translates complex technological concepts—like cloud architecture, enterprise AI, and modern digital ecosystems—into clean, striking, and modern graphic assets.</p><p>You are a visual thinker with an eye for typography, layout, color theory, and digital media. As a Co-op, you won't just be tweaking templates; you will collaborate directly with our marketing team to design branded assets that resonate.</p><p><strong><br />Key Responsibilities</strong></p><ul><li><p><strong>Brand &amp; Collateral Design:</strong> Create visually compelling graphics for social media campaigns, event banners, customer case studies, web banners, and digital marketing collateral.</p></li><li><p><strong>Presentation &amp; Sales Enablement:</strong> Design polished, modern presentation templates and pitch decks that help sales leaders articulate complex technical solutions to enterprise clients.</p></li><li><p><strong>Asset Creation &amp; Maintenance:</strong> Produce work in industry-appropriate formats, and keep files organized and accessible within the MegazoneCloud resource library.</p></li><li><p><strong>Cross-Functional Collaboration:</strong> Partner with other members of the tech and marketing teams to ensure all content is clear and accurate.</p></li><li><p><strong>Brand Consistency:</strong> Ensure all digital, event, and printed materials maintain a unified brand voice, elevated aesthetic, and professional production standards.</p></li></ul><p></p><p><strong>Qualifications</strong></p><ul><li><p>Currently pursuing a Bachelor’s degree in Graphic Design, Visual Communication Design, Digital Media, Fine Arts, or a related creative discipline.</p></li><li><p>Proficiency with industry-standard design tools (Adobe Creative Cloud: Illustrator, Photoshop, InDesign; Microsoft Powerpoint; Canva).</p></li><li><p>A strong portfolio demonstrating skills in layout, branding, typography, and digital content creation.</p></li><li><p>A basic understanding of digital asset preparation for web, mobile, and print applications.</p></li><li><p>Nice to have: A basic understanding of UI/UX fundamentals or motion graphics (Adobe After Effects and Premier) is a plus.</p></li></ul><p></p><h3><strong>Why You'll Love It Here</strong></h3><ul><li><p><strong>Our Product is Our People:</strong> We live by this. We invest in people who invest in themselves. Your growth is our growth.</p></li><li><p><strong>True Servant Leadership:</strong> Our CTO leads with a \"force multiplier\" philosophy. Management is here to empower you and clear roadblocks, not to micromanage. We won't ask you to do anything we're not willing to do ourselves.</p></li><li><p><strong>Flat Organization, Real Impact:</strong> Your voice and designs will directly shape our technical roadmap and our clients' success. You'll work on the latest tech to solve real problems.</p></li><li><p><strong>A \"Learn-from-it\" Culture:</strong> We're moving fast and building new things. We believe mistakes are learning opportunities, not failures.</p></li></ul><p>We seek diverse talent who are ready to make an immediate impact. We believe that innovation thrives when teams are built with a variety of backgrounds, experiences, and perspectives. If you are excited by this mission, we encourage you to apply, even if your experience doesn't perfectly match every qualification listed.</p><p><strong>Megazone Cloud is an Equal Opportunity Employer and participates in E-Verify to confirm the employment eligibility of all new hires.</strong> </p>",
+    "content_hash": "19f8695e61a02862d02059bab9a21f33"
+  }
+}

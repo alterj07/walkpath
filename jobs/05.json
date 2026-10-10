@@ -1,0 +1,92 @@
+{
+  "0513ba3cb088": {
+    "id": "0513ba3cb088",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "semgrep",
+      "name": "Semgrep",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco Office",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "semgrep",
+      "external_id": "8e64dc7f-e925-4361-86d5-b01ee518c987"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T21:45:15.632Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.067Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 2400,
+      "max": 2400,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Semgrep</strong></h3><p>Semgrep, the leader in code security for builders, empowers invention without friction. Teams catch, flag, and fix real issues before they ship, powered by security that learns as they build. Semgrep secures code as it’s written and provides guardrails that pave the road for developers to move fast and stay secure. Built for builders and trusted by security, Semgrep lives where developers work, delivering fixes without breaking flow, and giving security teams visibility, control, and confidence. Semgrep gets smarter as you build, with AI that learns your context to cut false positives and prioritize reachable vulnerabilities, validated by 95% of security reviewers across 6M+ findings. Semgrep makes zero false positives a reality with AppSec teams triaging 80% fewer false positives across Code and Supply Chain, dramatically shrinking the backlog.</p><p><br />Founded in San Francisco and backed by Menlo Ventures, Felicis Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital, Semgrep is recognized by Gartner in Application Security Testing and is trusted by leading organizations, including Vanta, Lyft, and Dropbox. Learn more at semgrep.dev.</p><p></p><p><strong>About the role</strong></p><p>As a software engineering intern at Semgrep, you’ll help us build a new category of developer-focused security tools to prevent bugs and security vulnerabilities. You will be joining the team behind the widely used Semgrep. You will get to ship features that make it easier for teams to integrate Semgrep into their existing workflows or build improvements that help our services scale and remain reliable.</p><p>Along the way, you will work with a dedicated group of full-stack developers, security researchers, program analysis experts, and infrastructure engineers. You will learn from senior developers who bring experience and wisdom from Google, Facebook, and successful startups. You will work with our clients’ security teams at companies ranging from early-stage startups to social-media giants. You will have opportunities to learn about their individual security philosophies and develop ways to make their lives easier. You’ll attend lunch and learn sessions across the company - learning about everything from advanced type systems to product paradigms. As a member of our engineering team, you will get to speak directly with real customers who are using the features you build – something that makes interning at an early-stage startup so unique! We’re excited to go on this journey with you!</p><p>Perhaps the best description of this internship comes from someone who has been where you will be.</p><ul><li><p>Tanisha Kholiya experience as a 2026 intern</p></li><li><p>Solomon Graf experience as a 2026 intern</p></li></ul><p><strong>You will</strong></p><ul><li><p>Design and ship new features in a full-stack codebase using Python, PostgreSQL, Typescript, and React</p></li><li><p>Work with our users, product team, and design team to address user pain points</p></li><li><p>Query our aggregated metrics and run experiments to help understand and improve core Semgrep workflows</p></li><li><p>Collaborate with your team through code reviews, design discussions, and demos</p></li><li><p>Learn from a peer mentor whose job is to help you succeed, and to help you get what you want out of your internship</p></li><li><p>Present your work to the team at the end of your internship</p></li></ul><p><strong>You are ideal for this role if you</strong></p><ul><li><p>Have taken multiple college courses in computer science or equivalent experience</p></li><li><p>Are interested in making a career out of software or a related field</p></li><li><p>Have experience in a dynamic language like Python, Ruby, Javascript, or PHP</p></li><li><p>Are excited about software security and developer enablement</p></li><li><p>Are able to work in our San Francisco office 5 days/week.</p></li><li><p>Are you able to start on either Tuesday, May 25th, 2027 or Tuesday, June 8th, 2027</p></li></ul><p><strong>Example projects previous interns have worked on:</strong></p><ul><li><p>Re-design and implement a frontend web page to be more intuitive and functional</p></li><li><p>Build a Slack App integration for Semgrep-app with an authentication handshake</p></li><li><p>Build seamless VSCode and IntelliJ Semgrep integrations</p></li><li><p>Implement SSO authentication only onboarding</p></li><li><p>Build a triage workflow using PR comments</p></li></ul><p><strong>What we offer</strong></p><ul><li><p>$2,400 per week for our 11-week full-time internship</p></li><li><p>Close 1:1 mentorship from full-time engineers on the team</p></li><li><p>Regular feedback from your team’s manager</p></li><li><p>The opportunity to work in-person in our San Francisco office</p></li><li><p>An intern cohort of peers</p></li></ul><p></p><h3><strong>What we offer (FTE only)</strong></h3><p>Our goal is to competitively and fairly compensate every Semgrep employee with a system that equally rewards those who are vocal and those who are less comfortable making demands during the final steps of the hiring process. To that end, we generate internal compensation bands that are used when discussing and negotiating salaries. We update these based on market data to make sure they’re above the average for comparable roles.</p><p>We invest in our employees’ well-being and long-term success through a competitive, market-aligned benefits program that meets or exceeds local market standards across all of the regions in which we hire. Benefits offerings vary by location to reflect local requirements and norms. For more detailed, location-specific information, please visit Semgrep Benefits.</p><p></p><h3><strong>Who we are</strong></h3><p>We bring together people from a wide range of backgrounds and disciplines—from physics and philosophy to formal methods research and full-fledged corporations. We’re new parents and new grads, dog lovers and dogfooders. We get together often to bike, bake, and meet up in parks. In our interactions, we believe respect and honesty go hand in hand, and prioritize both.</p><p>Semgrep is an equal-opportunity employer seeking a diverse range of backgrounds. We value who you are — including your cultural heritage, your socioeconomic status, your age, your race, your gender, your sexual orientation, your disabilities. We value what’s vitally important to you — your family, your religion, your politics. We value what you love in this world — your music, your weekend pursuits. We believe in welcoming varied professional backgrounds, educations, and interests. If you’re exceptional in your role, believe in Semgrep’s mission, and treat Semgrep’s values as your own, you belong here.</p><p>Please Note: For US-based roles open to remote work, we are currently able to hire employees in the following states only: Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Georgia, Illinois, Maryland, Massachusetts, Michigan, Missouri, Nebraska, New Jersey, New York, North Carolina, Oregon, Tennessee, Texas, Virginia, Washington, and Wisconsin.</p>",
+    "content_hash": "4b4a9511d53b5d0569513610a2bf6b43"
+  },
+  "05c9719f6ca3": {
+    "id": "05c9719f6ca3",
+    "title": "Software Engineering Intern (HIL) - Spring/Summer 2027",
+    "title_raw": "Software Engineering Intern (HIL) - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "d87ed913-affc-475e-b721-c5b5f11c3c7b"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T15:30:22.789Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nThe Software Engineering \"Hardware in the Loop\" intern will support the setup, integration, maintenance, and testing of real-time simulation environments that connect hardware components with software models. This role will have a strong focus on developing automated tests, maintaining test infrastructure, and ensuring test stands remain reliable and ready to support ongoing flight software development and validation.\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n<h3>Responsibilities:</h3>\nConfigure, maintain, and troubleshoot Hardware-in-the-Loop (HIL) test benches and supporting test infrastructure \nDevelop, implement, and maintain automated test scripts for flight software and vehicle systems \nExpand automated test coverage and support regression testing of new software and system updates \nPerform routine test stand upkeep, including hardware configuration, software updates, calibration, documentation, and issue resolution \nDebug signal, hardware, software, and communication issues across integrated systems \nAssist in validating vehicle, avionics, and flight deck control systems through automated and manual testing \nAnalyze test results, identify failures or unexpected behavior, and support root cause investigation \nDocument test procedures, test results, configurations, and changes to test infrastructure \nCollaborate with Flight Software and cross-functional engineering teams to improve test reliability, coverage, and overall system performance \n\n<h3>Requirements:</h3>\nPursuing a degree in Computer Engineering, Computer Science, Electrical Engineering, or a related technical field \nProficiency in Julia or strong experience with scientific computing/programming languages such as Python, MATLAB, or C++ \nExperience developing scripts, automated tests, or software tools \nExperience working with hardware integrations and embedded computers such as Raspberry Pis, Arduinos, or STM32s \nFamiliarity with debugging hardware/software interfaces, communication protocols, or integrated systems \nStrong understanding of engineering first principles \nDemonstrated ability to work within cross-functional teams \nEnthusiasm for aviation and Hermeus' mission \nExcellent written and verbal communication skills \nGPA of 3.0 or above \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "55cfcaca73ba083cc032eabee5045a98"
+  }
+}

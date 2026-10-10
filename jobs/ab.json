@@ -1,0 +1,95 @@
+{
+  "ab77c6663049": {
+    "id": "ab77c6663049",
+    "title": "Mechanical Engineer Internship, Robotics Hardware",
+    "title_raw": "Mechanical Engineer Internship, Robotics Hardware",
+    "company": {
+      "slug": "field-ai",
+      "name": "Field AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston, MA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "field-ai",
+      "external_id": "5ae428f8-ac13-49b2-a244-fb97d31bfc79"
+    },
+    "apply_url": "https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T00:33:04.676Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:34.273Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 28,
+      "max": 63,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Field AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n \n<strong>Hardware Team: </strong>The Hardware Team at Field AI develops perception and compute payloads that power autonomous robotics systems in complex real world environments. Our work spans the full hardware stack designing and integrating sensing systems (LiDAR, camera, TOF, IMU, GPS), embedded compute (CPUs, GPUs, microcontrollers, Linux, ROS), electrical systems (power distribution, communication), and mechanical components (structures, thermal regulation, ingress protection). The team focuses on both development (research, design, prototyping, testing) and operations (production, testing, QA, debugging). We’re a small, fast-moving team, and we care deeply about improving: 1) core capabilities, 2) system reliability, 3) system scalability. As a growing team we are also building operational systems and procedures from the ground up. \n \n<strong>Mechanical Systems Role:</strong> As a Mechanical Engineer Intern on the Hardware Team at Field AI, you will contribute to the design and implementation of mechanical systems that house and support sensing and compute platforms in real-world environments. From ruggedized enclosures to thermal management to manufacturability, your work will be critical to ensuring our systems operate reliably in the field. Responsibilities may span the full lifecycle from CAD through production to field support. You will collaborate closely with electrical, compute, and systems engineers to build tightly integrated solutions ready for deployment in challenging field environments.  Additionally while your focus will be on mechanical systems you will likely contribute across all hardware domains.\n \n \n<strong>What You Will Get To Do</strong>\n \n\n<strong>Mechanical System Design</strong>\n<ul>\n<li><strong>Structures:</strong> Design and model mechanical structures including external enclosures, internal compute frames, and load-bearing chassis.</li>\n<li><strong>Mounts:</strong> Design and validate robust sensor mounts, payload attachment points, and mechanical interfaces.</li>\n<li><strong>Ingress Protection:</strong> Implement IP-rated solutions with gaskets, seals, membranes, and coatings to meet water/dust ingress standards.</li>\n<li><strong>Thermal Management:</strong> Incorporate thermal mitigation strategies such as fans, heat sinks, conductive paths, and airflow guides.</li>\n<li><strong>Mass &amp; Volume Budgets:</strong> Ensure adherence to payload constraints, including tight volumetric envelopes and weight limitations.</li>\n</ul>\n \n<strong>Mechanical System Implementation</strong>\n<ul>\n<li><strong>CAD &amp; Simulation:</strong> Build detailed SolidWorks CAD assemblies. Run FEA and thermal simulations to validate strength, durability, and heat dissipation.</li>\n<li><strong>Material &amp; Component Selection:</strong> Choose materials and components to meet mass, strength, thermal, and manufacturability constraints. Design for Production: Apply DFM, DFA, DFS principles throughout the design lifecycle.</li>\n<li><strong>System Testing:</strong> Conduct mechanical load testing (shock, vibration), thermal validation, ingress tests, and sensor alignment assessments.</li>\n<li><strong>Prototyping: </strong>Rapidly iterate on prototypes for fit checks, thermal evaluations, and integration trials.</li>\n<li><strong>Documentation &amp; Budgets:</strong> Generate mechanical drawings, GD&amp;T annotations, BOMs, and assembly instructions for fabrication and QA. Manage weight, volume, and thermal budgets.</li>\n</ul>\n \n<strong>Mechanical System Production &amp; Servicing</strong>\n<ul>\n<li><strong>Build:</strong> Work with vendors and contract manufacturers to procure mechanical hardware. Develop QA checks for incoming units. Support payload integration and scaling.</li>\n<li><strong>Debug:</strong> Investigate mechanical failures, deformation, and environmental weaknesses during testing and deployments.</li>\n<li><strong>Monitor:</strong> Develop protocols for monitoring the system mechanical health and loads.</li>\n</ul>\n \n<strong>What You Have</strong>\n\n<ul>\n<li><strong>Education:</strong> Current student pursuing a B.S., M.S., or Ph.D. in Robotics, Mechanical Engineering, Mechatronics, or related field.</li>\n<li><strong>CAD Expertise:</strong> Proficient with SolidWorks or equivalent mechanical CAD platforms.</li>\n<li><strong>Thermal &amp; Structural Analysis:</strong> Familiarity with FEA and thermal modeling tools.</li>\n<li><strong>Field-Ready Design:</strong> Experience designing hardware that survives vibration, shock, thermal cycling, and environmental exposure.</li>\n<li><strong>Manufacturing Knowledge:</strong> Experience designing for CNC, sheet metal, additive manufacturing, and assembly workflows.</li>\n<li><strong>Mechanical Systems Integration:</strong> Experience working across teams to integrate mechanical systems with compute, sensors, and power electronics.</li>\n<li><strong>Lab Skills:</strong> Comfort with mechanical debugging, thermal test setups, vibration tables, and ingress testing.</li>\n<li><strong>Cross Functional Robotic Skills:</strong> Ability to contribute electrical, sensing, and embedded computing work to deliver robust integrated systems.</li>\n</ul>\n \n<strong>What Will Set You Apart</strong>\n\n<ul>\n<li><strong>Scaling:</strong>  Experience taking systems from prototype to large scale production.</li>\n<li><strong>Field Environments:</strong> Experience developing systems for harsh field environments.</li>\n<li><strong>Deployed Robotics:</strong> Experience working on robotics deployed in real world settings such as autonomous vehicles, drones, or ruggedized robots.</li>\n<li><strong>Systems Level Robotics:</strong> Fluency across mechanical, electrical, and software systems.</li>\n<li><strong>Reliability Engineering:</strong> Experience designing to meet IP ratings, MIL-STD, or equivalent ruggedness standards.</li>\n</ul>",
+    "content_hash": "8a462a350d53a4eec86249d4259c8bb2"
+  },
+  "abb85f94bc17": {
+    "id": "abb85f94bc17",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "serval",
+      "name": "Serval",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "serval",
+      "external_id": "d7fb089c-db8a-4877-a5f3-73a09e67f54b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-13T17:02:35.545Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.226Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": {
+      "min": 11000,
+      "max": 11000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are</strong></h3><p>Serval is an AI-native automation platform transforming how enterprises operate. We build intelligent agents that understand real-world workflows and execute them end-to-end — replacing manual processes and rigid legacy systems with adaptive, learning software. Founded in early 2024, Serval is already trusted by companies like Fox, Notion, Perplexity, Vercel, and Brex to automate high-volume, high-friction operational work across their organizations.<br /><br />At the core of Serval is an agentic AI platform that turns natural language into production-grade workflows. Our agents don’t just respond to requests — they reason, take action across systems, and continuously improve with usage. What began with operational use cases has quickly evolved into a horizontal AI automation layer used across IT, HR, Finance, Security, Legal, and Engineering.<br /><br />Our mission is to eliminate repetitive, manual work across the enterprise and give teams leverage through intelligent automation. Long term, we’re building the universal AI operations layer — a system of agents that sits across business functions and runs the workflows that keep modern companies moving.<br /><br />We’re backed by leading investors including Sequoia Capital, Redpoint Ventures, Meritech, First Round, General Catalyst, Elad Gil, and others. </p><p></p><h3><strong>Role Overview</strong></h3><p>As a Software Engineer Intern, Backend at Serval, you’ll work directly on core parts of our platform as we build AI-powered automation for modern IT teams. This is a hands-on internship where you’ll contribute real production code, learn how an early-stage product is built, and see your work shipped to customers.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Work closely with our CTO and founding engineering team to build and extend backend product capabilities.</p></li><li><p>Contribute to backend services that power Serval’s AI-driven automation workflows.</p></li><li><p>Learn how to design, implement, and test scalable systems in a production environment.</p></li><li><p>Help us move quickly toward key product milestones, including shipping and iterating on core platform features.</p></li></ul><p></p><h3><strong>What You'll Need</strong></h3><ul><li><p>Currently pursuing a degree in Computer Science, Engineering, or a related technical field with an expected graduation date between Dec 2026 - 2028</p></li><li><p>Strong fundamentals in computer science (data structures, algorithms, systems).</p></li><li><p>Familiarity with at least one backend programming language (Go, Java, Python, or similar).</p></li><li><p>Clear communication skills and the ability to learn quickly in a fast-moving environment.</p></li><li><p>Excitement about startups, ownership, and building products from the ground up.</p></li></ul><p></p><h3><strong>Nice to Have</strong></h3><ul><li><p>Exposure to modern backend or cloud technologies (APIs, microservices, containers, or cloud platforms).</p></li><li><p>Experience with any part of our stack: Go, gRPC, Kubernetes, React, TypeScript, AWS, or Terraform.</p></li><li><p>Previous internship or project experience at a startup or fast-paced team.</p></li></ul><p></p><h3><strong>What We Offer</strong></h3><ul><li><p><strong>Impact</strong>: Be a key player in shaping the success of our product and company.</p></li><li><p><strong>Growth</strong>: Build a fundamentally new AI product offering with the support of our experienced team and investors. Grow rapidly with the company.</p></li><li><p><strong>Culture</strong>: Join a culture that values innovation, ownership, accountability, and fun.</p></li></ul>",
+    "content_hash": "5559990145547f87c4b35ac78ad6595b"
+  }
+}

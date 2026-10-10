@@ -1,0 +1,47 @@
+{
+  "cd7ab8dda28a": {
+    "id": "cd7ab8dda28a",
+    "title": "Optics R&D Technician Intern",
+    "title_raw": "Optics R&D Technician Intern - 1019",
+    "company": {
+      "slug": "quantinuum",
+      "name": "Quantinuum",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US Albuquerque, NM",
+      "city": "US Albuquerque",
+      "state": "NM",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:quantinuum",
+      "external_id": "6b28b2e2-482a-40ef-9eb7-886dc4a749ef"
+    },
+    "apply_url": "https://jobs.eu.lever.co/quantinuum/6b28b2e2-482a-40ef-9eb7-886dc4a749ef/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T19:35:39.717Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:06.152Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 23,
+      "max": 29,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We are seeking an <strong>Optics R&amp;D Technician Intern</strong> in our <strong>Albuquerque, NM, </strong>location. All applicants for placement in safety-sensitive positions will be required to submit to a pre-employment drug test. </p>\n<h3>Key Responsibilities:</h3>\nWork with a team of engineers, physicists, and technicians to advance trapped-ion quantum computing technologies \nHelp set up an optics and photonics lab in collaboration with other technical and R&amp;D colleagues, including optical, mechanical, electronics, and other technical systems \nParticipate in designing, building, testing and alignment of optical systems, including lasers and imaging systems \nCollaborate with colleagues to provide support on planning, development, maintenance, and management of a new lab facility \nProvide technical expertise and support to colleagues, assisting with the resolution of lab- and equipment-related issues and implementing corrective actions as necessary \nPrepare detailed engineering specifications, standard operating procedures, and other documentation required for the operation, maintenance, and repair of optical, mechanical, and electronics systems \nSupport Procurement and Materials Management in acquiring and tracking technical equipment and infrastructure through phases of building, expanding, and maintaining the lab \nPartner with Environment, Health and Safety (EHS) to ensure adherence to safety protocols \nMonitor and support maintaining key metrics in the laboratory such temperature and humidity, and request help from and work with Facilities as needed \nAbility to lift 25 pounds and work in a lab environment \n\n<h3>YOU MUST HAVE:</h3>\nMust be enrolled in a quantum technician training program prior to internship \nGraduating or completing technical training program on/after 2027 \nDue to Contractual requirements, must be a U.S. Person. defined as, U.S. citizen permanent resident or green card holder, workers granted asylum or refugee status \nDue to national security requirements imposed by the U.S. Government, candidates for this position must not be a People's Republic of China national or Russian national unless the candidate is also a U.S. citizen. \n\n<h3>WE VALUE:</h3>\n2+ years in an optics lab environment preferred \n5+ years technical experience, degree-inclusive preferred \nHands-on skills building and testing optical systems and an understanding of underlying principles of optics, such as lasers, free-space optics, fiber optics, micro-optics, imaging systems, etc. \nExperience building experimental apparatus from scratch \nExperience following work instructions, drawings, and test protocols \nHighly organized and attention to detail on both administrative and technical tasks \nProficient in Excel, Word and Outlook \nSome experience with mechanical design/CAD systems \nStrong collaboration and communication skills \nInterest in getting certificates/licenses for facilities and/or safety practices such as hazardous materials, laser safety officer, safety supervisor \n\nQuantinuum is a leading quantum computing company delivering a full stack platform designed to make quantum computing deployable in real-world environments. With active engagements spanning pharmaceuticals, material science, financial services, government, industrial sectors, and leading academic and research institutions worldwide, we are helping organizations unlock the transformative potential of quantum computing. \n \nOur global team of more than 800 employees includes many of the world's leading scientists, engineers, and researchers, with more than 70% of our technology team holding advanced degrees at the Master's or PhD level. Headquartered in Broomfield, Colorado, Quantinuum operates<strong> </strong>across the United States, United Kingdom, Germany, Japan, and Singapore. \n \nBy joining Quantinuum, you’ll help shape the future of quantum computing, pushing the limits of technology, and making the impossible possible.\n \n<p><strong>What’s in it for you?</strong></p>\n\n<p>We believe our people are our greatest strength and offer a comprehensive rewards package that supports your professional growth, well-being, and long-term success.</p>\n<ul>\n<li>For candidates located outside of this state, this role will include a housing stipend of $500 per check/bi-weekly  </li>\n<li>A competitive market rate and innovative, game-changing work</li>\n<li>Flexible work schedule</li>\n<li>Employee discounts</li>\n</ul>\n\n\n<p><strong>Equal Opportunity Employer</strong></p>\n<p>Quantinuum is proud to be an equal opportunity employer. We are committed to building an inclusive workplace where all employees and applicants are treated with respect and provided equal opportunities regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, ancestry, marital status, or any other characteristic protected by applicable law.</p>\n<p><strong>Know Your Rights:</strong> Workplace discrimination is illegal. For more information about Quantinuum, please visit our website. </p>\n<p>We are committed to making our recruitment process accessible to all. If you require any reasonable adjustments at any stage of the application or interview process, please let us know use the Lets talk contact form. </p>\n<p>Applications will be accepted on an ongoing basis, there is no application deadline for this position.</p>",
+    "content_hash": "6dc70c5184aaba963e8b2d50a88848ed"
+  }
+}

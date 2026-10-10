@@ -1,0 +1,89 @@
+{
+  "3b8d101d5e64": {
+    "id": "3b8d101d5e64",
+    "title": "Data Operations Intern (Summer 2027)",
+    "title_raw": "Data Operations Intern (Summer 2027)",
+    "company": {
+      "slug": "cyvl",
+      "name": "Cyvl",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston, Massachusetts",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Somerville, Massachusetts"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cyvl",
+      "external_id": "f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T21:48:22.961Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.532Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 15,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>ABOUT CYVL</h3><p>The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can't see it.</p><p>Cyvl is the Physical AI company changing that. We build purpose-built sensors, computer vision and AI that turn every drive into current data: what exists, where it is and what condition it's in. 500+ cities and towns use our Infrastructure Intelligence Platform to direct the work and fix problems before they fail. 1 in 30 Americans drive on roads managed with Cyvl data.</p><p>The proof isn't a dashboard. It's a smoother commute, a safer walk to school and public dollars going where they matter most. We're a fast-moving team in Boston building hardware, software and AI for the real world. If you believe technology's highest calling is public good, come build with us.</p><p></p><h3>THE ROLE</h3><p>You'll join the Data Operations team, the group that turns raw street-level capture into the map layers 500+ cities rely on. Every day, sensor data from the field flows through our processing pipelines and comes out as road conditions, sidewalk inventories, sign catalogs, and pavement scores. You'll own pieces of that pipeline: running deliveries end to end, catching data problems before a customer does, and writing the scripts that make the next delivery faster than the last.</p><p></p><h3>WHAT YOU'LL DO</h3><ul><li><p>Process customer deliveries end to end: run geospatial data through our Python pipelines, validate the output, and publish the final layers to the Cyvl platform.</p></li><li><p>Build QC checks that review data automatically.</p></li><li><p>Investigate failed and stalled processing jobs in our AWS pipelines, find the root cause, and document the fix.</p></li><li><p>Automate recurring manual steps into repeatable scripts and runbooks, and measure the time saved.</p></li><li><p>Partner with engineering and customer success to turn field-reported issues into code fixes or process improvements.</p></li></ul><p></p><h3>WHAT YOU BRING</h3><ul><li><p>Currently pursuing a degree in Computer Science, Data Science, or a related field</p></li><li><p>Proficiency in Python; comfortable writing scripts that read, transform, and validate data</p></li><li><p>Comfort working in a terminal and with version control</p></li><li><p>Available full-time for 10-12 weeks in Summer 2027, based in our Somerville office</p></li></ul><p></p><h3>NICE TO HAVE</h3><ul><li><p>GIS experience (QGIS or ArcGIS, and formats like GeoJSON, shapefiles, GeoPackage)</p></li><li><p>Familiarity with cloud infrastructure, especially AWS</p></li><li><p>SQL and experience querying real datasets</p></li><li><p>Exposure to geospatial Python libraries (geopandas, shapely)</p></li><li><p>Interest in civic infrastructure, transportation, or public-sector technology</p></li><li><p>A knack for the business side: you think about how data drives decisions and like problems like \"how do we track this better\" or \"how do we make this visible to the team\"</p></li><li><p>Experience building dashboards or turning data into something a non-technical person can act on</p></li></ul><p></p><h3>WHY CYVL</h3><p><strong>Hard tech. Real streets. Your name on it.</strong></p><ul><li><p><strong>Hard problems in the real world.</strong> You build end-to-end: our own hardware, software and AI, with work that shows up on the street in the real world.</p></li><li><p><strong>Ownership that compounds.</strong> You own outcomes, not tasks. You work directly with customers and across our team, and you'll own more, sooner, than almost anywhere else.</p></li><li><p><strong>Intense, with heart.</strong> We're building a category, so it's not a place to coast. We also take care of each other, have genuine fun together, and believe in what we are doing.</p></li></ul><p></p><h3>WHAT WE ASK</h3><ul><li><p><strong>Cross lanes.</strong> \"Not my job\" doesn't exist here.</p></li><li><p><strong>Own without a playbook.</strong> The plan is still being written, often by you.</p></li><li><p><strong>Try, miss, try again.</strong> We make big bets. Some won't land, and we learn fast.</p></li><li><p><strong>Be in the room.</strong> We're on-site in Somerville about 90% of the time.</p></li></ul><p>We're a startup building a category. If that sounds like the draw, not the risk, we'd love to talk.</p><p></p><h3>OUR VALUES</h3><ul><li><p><strong>Real:</strong> Authentic and transparent. Focused on solving real problems with simple, effective solutions.</p></li><li><p><strong>All Out:</strong> Bold, driven, and committed to delivering results that matter.</p></li><li><p><strong>Accelerating:</strong> Always learning, growing, and moving with intention.</p></li><li><p><strong>Reliable:</strong> We follow through and deliver at a consistently high bar.</p></li><li><p><strong>Empowering:</strong> We lift each other up and help governments build infrastructure they can be proud of.</p></li></ul><p></p><h3>SEE OUR WORK</h3><ul><li><p>How Atlanta cut downtown potholes by 60%</p></li><li><p>How Buffalo turned a campaign promise into a paving plan</p></li><li><p>How to rebuild US infrastructure smarter</p></li></ul><p></p><h3>WANT TO GO THE EXTRA MILE? (OPTIONAL)</h3><p>If you're excited about this role and want to tell us more, email dataopsintern@cyvl.ai with the subject line \"Data Ops Intern, [Your Name]\" and answer any or all of these:</p><ol><li><p>Why Cyvl, and why a startup? What draws you to this kind of work, and to a small team where your work ships right away?</p></li><li><p>What's the coolest thing you've built with AI? A class project, side project, script, or experiment all count. Tell us what it did and what you learned.</p></li><li><p>Tell us about a time you solved a problem by fixing the process instead of just working harder. What was slowing you down? What did you change? What happened?</p></li></ol><p>A few honest paragraphs beat an AI-slop essay. Links to code, notebooks, or demos are welcome.</p><p></p><p><strong>We build for every community, so we hire from all of them.</strong> The best people for this work come from different backgrounds, paths, and places, and many of them don't check every box. If this role excites you, apply anyway. If you need an adjustment to our interview process, tell us and we'll make it work.</p>",
+    "content_hash": "583a9b27a93d7d5a2a7ba0ca97739f18"
+  },
+  "3bdd7f7d4473": {
+    "id": "3bdd7f7d4473",
+    "title": "Product Engineer Intern",
+    "title_raw": "Product Engineer Intern",
+    "company": {
+      "slug": "jobgether",
+      "name": "Jobgether",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "jobgether",
+      "external_id": "8b8e980f-7ca1-47dd-b0d3-3b66c6118522"
+    },
+    "apply_url": "https://jobs.lever.co/jobgether/8b8e980f-7ca1-47dd-b0d3-3b66c6118522/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T09:21:07.497Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:00:08.957Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Product Engineer Intern based in the United States.</strong></p>\n<p>This is a paid, six-week remote internship designed for third- and fourth-year undergraduate students and recent graduates.<br />You’ll contribute directly to the data infrastructure powering a high-impact public-sector technology platform.<br />The role combines software engineering, web research, data ingestion, and hands-on data-quality ownership.<br />You’ll build and maintain scrapers and ingestion pipelines that collect information from government sources across the United States.<br />You’ll use modern developer tooling and AI agents to research unfamiliar systems and accelerate technical implementation.<br />You’ll gain practical experience working with real-world data, debugging unreliable sources, and building resilient software in a fast-moving startup environment.<br />The expected start date is <strong>November 1, 2026</strong>, with the opportunity to make a tangible contribution from day one.</p>\n\n<h3>Accountabilities:</h3>\n<ul>\n<li>\n<p>Build and maintain data scrapers and ingestion pipelines for government data sources across the United States.</p>\n</li>\n<li>\n<p>Research new data sources using internal tooling, AI agents, and technical investigation to determine effective extraction approaches.</p>\n</li>\n<li>\n<p>Develop reliable methods for collecting and structuring data from websites, APIs, and other public sources.</p>\n</li>\n<li>\n<p>Validate incoming data for accuracy, completeness, consistency, and reliability before it reaches production systems.</p>\n</li>\n<li>\n<p>Monitor existing data sources, troubleshoot failures, identify changes in source behavior, and improve scraper resilience.</p>\n</li>\n<li>\n<p>Investigate inconsistent websites, undocumented behaviors, changing formats, and other real-world data collection challenges.</p>\n</li>\n<li>\n<p>Document source behavior, extraction logic, technical decisions, and data-quality checks to ensure systems remain maintainable.</p>\n</li>\n<li>\n<p>Use AI-assisted development tools effectively while carefully validating generated outputs and ensuring technical accuracy.</p>\n</li>\n<li>\n<p>Collaborate on additional technical and operational initiatives as needed, contributing wherever your skills can have the greatest impact.</p>\n</li>\n\n<h3>Requirements:</h3>\n<ul>\n<li>\n<p>Be a third- or fourth-year undergraduate student or a recent graduate with a strong interest in software engineering and data.</p>\n</li>\n<li>\n<p>Experience with <strong>TypeScript</strong>; familiarity with <strong>Python</strong> for data collection, automation, or analysis is valuable.</p>\n</li>\n<li>\n<p>Familiarity with web scraping or browser automation tools such as <strong>BeautifulSoup, Playwright, or Selenium</strong>.</p>\n</li>\n<li>\n<p>Comfortable working with HTML, APIs, structured and unstructured data, and formats such as JSON and CSV.</p>\n</li>\n<li>\n<p>Understanding of software development fundamentals, debugging, version control, and Git-based workflows.</p>\n</li>\n<li>\n<p>Strong attention to detail and a genuine sense of ownership over data quality and technical outcomes.</p>\n</li>\n<li>\n<p>Ability to write clear, maintainable technical documentation.</p>\n</li>\n<li>\n<p>Interest in using AI agents and AI-assisted development tools while critically evaluating and validating their results.</p>\n</li>\n<li>\n<p>Curiosity about public-sector data and persistence when working through inconsistent websites, undocumented systems, and unfamiliar technical environments.</p>\n</li>\n<li>\n<p>Strong learning ability, problem-solving skills, and willingness to investigate how unfamiliar systems work.</p>\n</li>\n<li>\n<p>A collaborative, proactive mindset and the ability to take ownership in a fast-paced remote environment.</p>\n</li>\n<li>\n<p>Prior web-scraping experience is helpful but not required if you demonstrate strong software fundamentals and technical curiosity.</p>\n</li>\n\n<h3>Benefits:</h3>\n<ul>\n<li>\n<p><strong>Paid six-week internship</strong> with an expected start date of November 1, 2026.</p>\n</li>\n<li>\n<p>Fully <strong>remote</strong> work environment.</p>\n</li>\n<li>\n<p>Hands-on experience building production-oriented data scrapers and ingestion pipelines.</p>\n</li>\n<li>\n<p>Exposure to real-world government data sources, APIs, web technologies, and data-quality challenges.</p>\n</li>\n<li>\n<p>Practical experience using AI agents and modern developer tooling to accelerate technical work.</p>\n</li>\n<li>\n<p>Opportunity to learn how high-velocity teams build reliable and trustworthy data products.</p>\n</li>\n<li>\n<p>Direct exposure to software engineering practices involving debugging, documentation, monitoring, resilience, and data validation.</p>\n</li>\n<li>\n<p>Opportunity to develop stronger judgment around data quality, downstream dependencies, and technical tradeoffs.</p>\n</li>\n<li>\n<p>Experience contributing to a mission-driven technology platform operating in highly regulated government environments.</p>\n</li>\n<li>\n<p>Opportunity to work on meaningful technical problems while developing skills that translate directly to future software engineering roles.</p>\n</li>\n\n</ul></ul></ul>\n<strong>How Jobgether works:</strong>\nWe use an <strong>AI-powered matching process</strong> to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\nWe appreciate your interest and wish you the best!\n Why Apply Through Jobgether? \n \n<strong>Data Privacy Notice:</strong> By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n \n \n#LI-CL1",
+    "content_hash": "7a00e804d2ae7b3c0e1e35938519dd6e"
+  }
+}

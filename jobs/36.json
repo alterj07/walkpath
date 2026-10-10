@@ -1,0 +1,127 @@
+{
+  "3690976d0307": {
+    "id": "3690976d0307",
+    "title": "Software Engineering Intern – Winter 2027",
+    "title_raw": "Software Engineering Intern – Winter 2027",
+    "company": {
+      "slug": "replit",
+      "name": "Replit",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Foster City, CA",
+      "city": "Foster City",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "replit",
+      "external_id": "7c3c9d29-cec2-4367-8564-eadaed165aea"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T17:34:51.757Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.795Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.</p><p><strong>About the role:</strong></p><p>Join our engineering team for a 16-week paid internship (JAN - APRIL) where you'll work alongside world-class engineers, designers, and product managers to build the future of software creation. You'll contribute to real features that impact millions of developers worldwide, from our AI-powered development environment to the infrastructure that makes lightning-fast collaboration possible.</p><p>This isn't just about learning—you'll ship meaningful code that helps democratize software creation. Whether you're optimizing our cloud infrastructure, building intuitive developer tools, or enhancing our AI agents, your work will directly empower creators around the globe.</p><p><strong>You will:</strong></p><ul><li><p>Ship real features to millions of developers using Replit's platform</p></li><li><p>Collaborate cross-functionally with engineers, designers, product managers, and AI researchers</p></li><li><p>Build and optimize developer experiences that make coding accessible to everyone</p></li><li><p>Work on cutting-edge AI tools and infrastructure that power the next generation of software creation</p></li><li><p>Learn from the best in an environment where your ideas are heard and often implemented</p></li></ul><p><strong>Required skills and experience:</strong></p><ul><li><p>Currently pursuing a Bachelor's, Master's, or PhD in Computer Science, Computer Engineering, or related technical field</p></li><li><p>Have at least one semester of schooling remaining after the internship completion</p></li><li><p>Proficient in at least one programming language and comfortable with full stack development</p></li><li><p>Passionate about developer tools, AI, or making technology more accessible</p></li><li><p>Thrive in fast-paced environments where you can move quickly and adapt to changing priorities</p></li></ul><p><strong>What we value</strong>:</p><ul><li><p>Problem-solving mindset: Ability to approach complex operational challenges systematically and devise effective solutions</p></li><li><p>Self-directed and autonomous: Capable of working independently while collaborating effectively with cross-functional teams</p></li><li><p>Strong communication skills: Ability to explain complex technical concepts to both technical and non-technical audiences</p></li><li><p>Continuous learning: Passion for staying current with industry best practices and new technologies</p></li><li><p>Focus on automation: Strong belief in automating repetitive tasks and building self-healing systems</p></li></ul><p></p><p><strong>Full-Time Employee Benefits Include:</strong></p><p>💰 Competitive Salary &amp; Equity</p><p>💹 401(k) Program with a 4% match (<em>US Only</em>)</p><p>⚕️ Health, Dental, Vision and Life Insurance</p><p>🩼 Short Term and Long Term Disability</p><p>🚼 Paid Parental, Medical, Caregiver Leave</p><p>🏝 Flexible Time Off (FTO) + Holidays</p><p>🚗 Commuter Benefits  (<em>In-Office &amp; US Only</em>)</p><p>📱 Monthly Wellness Stipend</p><p>🧑‍💻 Autonomous Work Environment</p><p>🖥 In Office Set-Up Reimbursement (<em>In-Office Only</em>)</p><p>🚀 Quarterly Team Gatherings</p><p>☕ In Office Amenities (<em>In-Office Only</em>)</p><p></p><p><strong>Want to learn more about what we are up to?</strong></p><ul><li><p>Self-driving Company</p></li><li><p>Replit Agent at Scale</p></li><li><p>AI Adoption</p></li><li><p>Build Open-Source Apps</p> </li></ul><p><strong>Interviewing + Culture at Replit</strong></p><ul><li><p>Operating Principles</p></li><li><p>Reasons not to work at Replit</p></li></ul><p></p><p>To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.</p>",
+    "content_hash": "4d1bf6fe56b5136f65e954d10fcbee4f"
+  },
+  "36a7db78773d": {
+    "id": "36a7db78773d",
+    "title": "Internship - Front-End UX Intern",
+    "title_raw": "Internship - Front-End UX Intern",
+    "company": {
+      "slug": "dynamic-catholic",
+      "name": "Dynamic Catholic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Erlanger, Kentucky",
+      "city": "Erlanger",
+      "state": "KY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "dynamiccatholic",
+      "external_id": "603f082e-07c8-4b1c-ac09-8963c51229ad"
+    },
+    "apply_url": "https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T18:00:46.332Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:38.591Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Overview</strong>\n\n<p>We are looking for a <strong>Front-End UX Intern</strong> to help bridge the gap between design and development. This role is ideal for a student who is interested in both user experience and hands-on front-end coding. The intern will support the creation of polished, accessible, and reusable user interface work across our digital products.<br /><br /></p>\n<p>This is not a traditional graphic design internship. The right candidate should enjoy translating designs into working interfaces, thinking through user flows, improving UI consistency, and learning how modern product teams connect design, code, and component systems.</p>\n\n \n<strong>Who we are</strong>\nAt Dynamic Catholic our Mission is simple: to re-energize the Catholic Church in America. Catholics are leaving the Church at an alarming rate, and disengagement among those who remain is staggeringly high. This is where you come in. We are looking for driven, talented, and dynamic individuals who will work tirelessly to use their talents to inspire people to rediscover the genius of Catholicism.\n<h3>What You’ll Do</h3>\n\n\n<p>Build and refine front-end UI using HTML, CSS, JavaScript, and modern frameworks when applicable</p>\n \n\n<p>Translate Figma designs, wireframes, or product requirements into responsive user interfaces</p>\n \n\n<p>Help improve consistency across buttons, forms, navigation, layouts, and other UI patterns</p>\n \n\n<p>Support UX improvements by identifying confusing flows, layout issues, accessibility gaps, or usability friction</p>\n \n\n<p>Work with designers and developers to turn visual concepts into reusable, production-ready components</p>\n \n\n<p>Document UI patterns, component usage, and front-end decisions so teams can work more consistently</p>\n \n\n<p>Test interfaces across screen sizes and browsers to ensure a polished user experience</p>\n \n\n<p>Participate in design reviews, product discussions, and front-end implementation planning</p>\n \n\n<p>Learn and apply accessibility, responsive design, and design system best practices</p>\n \n\n\n<h3>What We’re Looking For</h3>\n\n\n<p>Current student studying Human-Computer Interaction, UX Design, Interaction Design, Web Development, Computer Science, Digital Media, or a related field</p>\n \n\n<p>Interest in both UX/product design and front-end development</p>\n \n\n<p>Working knowledge of HTML, CSS, and JavaScript</p>\n \n\n<p>Familiarity with Figma or similar design tools</p>\n \n\n<p>Interest in reusable UI components, design systems, accessibility, and responsive design</p>\n \n\n<p>Ability to think critically about user experience, not just visual appearance</p>\n \n\n<p>Portfolio, class project, or personal project showing implemented web interfaces</p>\n \n\n<p>Clear communicator who is comfortable working with both design and engineering stakeholders</p>\n \n\n\n<h3>What Success Looks Like</h3>By the end of the internship, this person will have contributed to real front-end UI work, helped improve the consistency and usability of our product experience, and built a stronger understanding of how UX, design systems, and engineering come together in a modern product team.\n\n<strong>Location</strong>\nThis role is located in the Greater Cincinnati area. This is why we offer paid housing for our interns!\n \n\n<h3>Sponsorhsip</h3>\nApplicants must not require employer sponsorship for work authorization now or in the future. We are unable to sponsor visas for this position.",
+    "content_hash": "87ab23a231f0beb55166459e9f78175b"
+  },
+  "36ae001a7613": {
+    "id": "36ae001a7613",
+    "title": "Electrical Engineering Intern",
+    "title_raw": "Electrical Engineering Intern",
+    "company": {
+      "slug": "agilent",
+      "name": "Agilent",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US-DE-Wilmington",
+      "city": "Wilmington",
+      "state": "DE",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "agilent/agilent_student_careers",
+      "external_id": "4038526"
+    },
+    "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-12T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:50:49.600Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 22,
+      "max": 24,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><b>Job Description</b></h3><p>The successful candidate will be a member of a highly skilled, Electrical and Software Engineering team working on Agilent's industry leading Gas Chromatograph Mass Spectrometer (GC/MS) instrument.</p><p></p><p>The team's activities focus on improving existing processes and products, on developing manufacturing processes to introduce new products to market quickly, and on improving overall product quality.</p><p></p><p>The internship will contribute in the following areas:</p><ul><li><p>Product Quality Processes</p></li><li><p>Troubleshooting and Repair</p></li></ul><p></p><p><b>Please note: This role is onsite at Agilent in Wilmington, Delaware.</b><br /> </p><p>This is a <b>full-time, 6-month internship position</b>. Candidates must be available to commit to the full six-month duration.</p><h3></h3><h3><b>Qualifications</b></h3><ul><li><p>Be currently enrolled in an electrical, or electrical or electronics engineering program at an accredited University. Computer engineering and/or software engineering a plus.</p></li><li><p>Be available to work <b>40 hours a week</b>.</p></li></ul><p></p><p> <b>The ideal candidate will also display the following skills: </b></p><ul><li><p>Teamwork skills and ability to collaborate.</p></li><li><p>Excellent written and oral communication skills.</p></li><li><p>High initiative and self-motivation.</p></li><li><p>Electrical schematics, components, and PCA fundamentals.</p></li><li><p>Good computer skills, including Excel, programming, design, and technical searches.</p></li><li><p>Desire for a hands-on working environment.</p></li></ul><p></p><p>The intern pay rate for this position is $22.00 - $24.00/hour plus eligibility for paid holidays. Our pay ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. During the hiring process, a recruiter can share more about the specific pay range <br />for a preferred location.</p><p></p><p><b>Additional Details</b></p><p></p>This job has a full time weekly schedule.  Applications for this job will be accepted until at least September 18, 2026 or until the job is no longer posted.<p></p>Agilent Technologies, Inc. is an Equal Employment Opportunity and merit-based employer that values individuals of all backgrounds at all levels. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to sex, pregnancy, race, religion or religious creed, color, gender, gender identity, gender expression, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status, registered domestic partner status, age, sexual orientation, military or veteran status, protected veteran status, or any other basis protected by federal, state, local law, ordinance, or regulation and will not be discriminated against on these bases. Agilent Technologies, Inc., is committed to creating and maintaining an inclusive in the workplace where everyone is welcome, and strives to support candidates with disabilities. If you have a disability and need assistance with any part of the application or interview process or have questions about workplace accessibility, please email job_posting@agilent.com or contact +1-262-754-5030. For more information about equal employment opportunity protections, please visit www.agilent.com/en/accessibility.<p></p><h3><b>Travel Required: </b></h3>No<p></p><h3><b>Shift: </b></h3>Day<p></p><h3><b>Duration: </b></h3>3-6 Months<p></p><h3><b>Job Function: </b></h3>General",
+    "content_hash": "5d7029b04857ae630bb738480fc41b5c"
+  }
+}

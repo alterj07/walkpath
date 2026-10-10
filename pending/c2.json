@@ -1,0 +1,42 @@
+{
+  "c2d049f1941b": {
+    "id": "c2d049f1941b",
+    "title": "Founder Associate Intern",
+    "title_raw": "Founder Associate Intern",
+    "company": {
+      "slug": "clera",
+      "name": "Clera",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "clera",
+      "external_id": "9519167d-5e76-4f15-8798-b7624398001e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/clera/9519167d-5e76-4f15-8798-b7624398001e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T17:27:59.657Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.503Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "yes",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the Role</h3><p>Work closely with a founding team at an AI-enabled recruiting startup to help connect ambitious candidates with career opportunities at venture-backed startups. This role supports the candidate experience and helps improve the workflows behind talent matching.</p><h3>What You'll Do</h3><ul><li><p>Support candidates through the talent-matching process and help connect them with relevant startup opportunities.</p></li><li><p>Manage candidate relationships and contribute to a thoughtful, high-quality candidate experience.</p></li><li><p>Take ownership of operational workflows and identify ways to improve or automate processes.</p></li><li><p>Contribute to recruiting, talent acquisition, and social media initiatives as needed.</p></li></ul><h3>What We're Looking For</h3><ul><li><p>Zero to four years of experience, including at least three months of internship experience and experience in a company setting.</p></li><li><p>A completed bachelor's degree and evidence of strong academic performance, substantial projects, or relevant contributions.</p></li><li><p>Experience in a fast-paced environment such as a startup, consulting, sales, or venture capital.</p></li><li><p>Familiarity with venture-backed startups and hiring practices; recruiting, candidate relations, workflow automation, or social media experience is helpful.</p></li><li><p>Willingness to relocate to San Francisco and commit to a six-day work week for the internship.</p></li></ul><h3>Compensation &amp; Benefits</h3><p>Visa sponsorship is available.</p><h3>Location</h3><p>On-site in San Francisco, California.</p>",
+    "content_hash": "bd5b6fa771b0cdf6042682a506b6db84"
+  }
+}

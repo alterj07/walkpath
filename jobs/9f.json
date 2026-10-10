@@ -1,0 +1,84 @@
+{
+  "9f55cde39a85": {
+    "id": "9f55cde39a85",
+    "title": "Systems Engineering and Integration Intern",
+    "title_raw": "Systems Engineering and Integration Intern",
+    "company": {
+      "slug": "odys-aviation",
+      "name": "Odys Aviation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Long Beach CA",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "odys-aviation",
+      "external_id": "e8a1cc98-f655-45dc-850a-2460f1da6826"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/odys-aviation/e8a1cc98-f655-45dc-850a-2460f1da6826/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-29T21:09:47.718Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.417Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Odys</strong></h3><p>At Odys, we’re mobilizing power, with Hybrid Power Systems developed for aerospace and in-demand everywhere. It’s the kind of mission diversity that demands a fresh way of thinking.</p><p>We began with an early bet on hybrid, when the mobility industry was focused on batteries. We designed, tested, and validated our first 1 MW high-speed generator in 12 months. And then we pushed further, developing systems with greater power density in less time. Today, our Hybrid Power Systems offer outputs ranging from <strong>20 kW</strong> to <strong>4 MW</strong>, with applications in the air or on the ground.</p><p>One of those applications is <strong>Laila</strong>, an unmanned drone designed for critical logistics and defense missions. With its 100 kW-class onboard Hybrid Power System, Laila can support medical cold-chain transport or serve as an aerial platform for counter-UAS measures.</p><p>The market interest has been overwhelming: <strong>Over 30</strong> inbound requests from leading US and global manufacturers, and <strong>14+ DoD</strong> <strong>contracts</strong>.</p><p>Our team comes from deep tech and aerospace, with backgrounds spanning drone and aircraft development, high-volume production, and electrified mobility.</p><p>We operate with urgency and ownership at every level. We validated high-speed generator technology faster than our peers, not because we skipped steps, but because we've been doing this long enough to know which ones matter most.</p><p><strong>Creating the future</strong> of power, in the air and on the ground, is a challenge we’ve been training our entire lives for. If that sounds like you, this is the opportunity you’ve been waiting for.</p> <p><strong>About The Role</strong></p><p>Are you motivated by solving complex engineering challenges and contributing to the development of an advanced aircraft system? If you are energized by both big-picture thinking and hands-on execution, this role offers the opportunity to support the definition, architecture, integration, and test of a novel aircraft.</p><p>As a Systems Engineering and Integration Intern, you will work across disciplines to support system development activities, including requirements definition, hardware and software integration, and verification. You will engage directly with engineering teams to help translate concepts into functional systems and see your contributions validated through tests.</p><p>This role is well suited for individuals who are curious, detail-oriented, and eager to gain experience in a fast-paced engineering environment.</p><p></p><p><strong>What You’ll Do</strong></p><ul><li><p>Participate in defining aircraft use-cases, capabilities, missions and functions</p></li><li><p>Assist with organizing, managing, and maintaining aircraft, system, and mission requirements</p></li><li><p>Use engineering tools to capture and define the system architecture, system boundaries, and interfaces</p></li><li><p>Assist in defining, documenting, and implementing engineering processes for software change management, testing, and version control</p></li><li><p>Participate in aircraft software verification &amp; validation activities</p></li><li><p>Support the integration and testing of a ground control station and software</p></li><li><p>Perform hands-on integration and testing of mission equipment (computers, radios, datalinks, cameras, and sensors)</p></li><li><p>Conduct lab &amp; field tests, data collection and analysis</p></li></ul><p></p><p><strong>What We Are Looking For</strong></p><ul><li><p>Currently enrolled in or recently completed a bachelor’s or advanced degree program in Aerospace Engineering, EE/ME, Computer Science, or related field</p></li><li><p>Coursework in systems engineering is highly desired with basic understanding of engineering development processes</p></li><li><p>Aerospace, Mechanical, Electrical, or Computer Science as a core discipline</p></li><li><p>Interested in systems thinking and able to visualize, articulate, and understand the a system in its entirety, not just individual components</p></li><li><p>Enjoys being hands-on— integrating and testing real hardware &amp; software</p></li><li><p>Able to work independently, take ownership of tasks, and ask good questions when needed</p></li><li><p>Strong curiosity, attention to detail, and desire to make a meaningful impact</p></li></ul><p></p><p><strong>Nice To Have</strong></p><ul><li><p>Participation in organized student project teams (DBF, Formula SAE, Robotics/Mechatronics, AI/Autonomy)</p></li><li><p>Experience with the mechanical, electrical, and/or software integration of components</p></li><li><p>Coding skills (Python, C/C++)</p></li><li><p>Interest in system architecture, requirements, system safety, and engineering processes</p></li></ul>",
+    "content_hash": "7fae90a827a4791f6a3a6f0ae097f464"
+  },
+  "9f5a2e68b3fe": {
+    "id": "9f5a2e68b3fe",
+    "title": "Intern - Software/ML Engineer",
+    "title_raw": "Intern - Software/ML Engineer",
+    "company": {
+      "slug": "human-computer-lab",
+      "name": "Human Computer Lab",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Toronto"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "human-computer-lab",
+      "external_id": "7d13ae27-1f02-4d9b-8d39-e3d9d67df705"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-03T16:31:16.903Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.244Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Human Computer Lab is a research lab building character robots that feel alive and responsive. Our first robot, LeLamp, explores a new category of consumer robotics where everyday objects become interactive and help us reshape our attachment to technology.</p><p></p><p>Our goal is to push the frontier of human-robot interaction by making technology more legible, emotionally intuitive, and human-centered. We are building the foundation for a new generation of robots designed for everyday environments.</p><p></p><p><strong>What to expect</strong></p><p>As an intern, you will be responsible for helping build the software and machine learning systems that power robot perception, intelligence, and behavior. You will work closely with the team to develop and deploy ML models, build real-time software systems, and integrate machine learning with robotic hardware — turning research and simulation into reliable, production-ready robotics software.</p><p></p><p><strong>In this role, you will:</strong></p><ul><li><p>Develop software systems for robotic platforms that power robot perception, intelligence, and behavior</p></li><li><p>Build machine learning models for tasks such as computer vision, audio processing, and interaction understanding</p></li><li><p>Design and implement pipelines for training and deploying machine learning models</p></li><li><p>Integrate ML systems with robotic hardware and embedded systems</p></li><li><p>Improve robot perception, responsiveness, and behavioral intelligence</p></li><li><p>Collaborate with robotics engineers to build integrated robotic systems</p></li></ul><p></p><p><strong>You may be a good fit if you:</strong></p><ul><li><p>Are pursuing a degree in Computer Science, Electrical Engineering, Computer Engineering, or a related field</p></li><li><p>Have strong programming skills in Python and/or C++ as well as an understanding of algorithms and software engineering fundamentals.</p></li><li><p>Have experience with machine learning frameworks</p></li><li><p>Have experience in one or more of the following areas: computer vision, robotics, reinforcement learning, or multimodal AI</p></li><li><p>Have experience building and deploying machine learning systems preferably in Simulations (Issac Sim, MJLab, Mujoco, etc.)</p></li><li><p>Are comfortable jumping into unfamiliar systems and can create order through chaos.</p></li><li><p>Care about users and feel ownership over outcomes, even for systems you don't own.</p></li><li><p>Think holistically about systems and approach complex problems with creative, outside-the-box solutions.</p></li></ul><p></p><p><strong>You will be a strong fit, if you:</strong></p><ul><li><p>Are passionate about building intelligent physical systems.</p></li><li><p>Move quickly and work well in rapid iteration cycles.</p></li><li><p>Take ownership over the systems they design and build.</p></li><li><p>Are curious, resourceful, and motivated to solve difficult problems.</p></li><li><p>Work well in small, collaborative teams.</p></li><li><p>Consider not just what immediately works, but how consumers will engage with robots.</p></li></ul><p></p><p><br />The early team becomes the DNA of the company. We set ourselves and others to a high standard, and we respond with kindness when things get hard but keep everyone accountable. This requires us to be curious, creative, and diverse in our thinking and approach. <br /><br />We’re proud to be an equal opportunity employer and consider all qualified applicants regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Even if you don’t meet every single requirement, we encourage you to apply. Studies show that women and underrepresented groups often hold back unless they meet 100% of the criteria - we don’t want that to be the reason we miss out on great talent.</p>",
+    "content_hash": "2795217458f3c293da9c519a16fb638f"
+  }
+}

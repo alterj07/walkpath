@@ -1,0 +1,101 @@
+{
+  "a572f12a02ac": {
+    "id": "a572f12a02ac",
+    "title": "Data Science/ Data Engineer Intern",
+    "title_raw": "Data Science/ Data Engineer Intern",
+    "company": {
+      "slug": "hadrian",
+      "name": "Hadrian",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "hadrian-automation",
+      "external_id": "f718bcfe-3f5b-4682-a294-697499caf813"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T21:47:29.454Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.392Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 46.15,
+      "max": 50.71,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>Hadrian - Manufacturing the Future</strong></h3><p>Hadrian is building autonomous factories to reindustrialize America. By combining AI, advanced software, robotics, and full-stack manufacturing, we help aerospace and defense companies build rockets, satellites, aircraft, ships, and other mission-critical systems up to 10x faster and at significantly lower cost.</p><p><br />Following our $1.37B Series D at a $7.87B valuation, Hadrian is rapidly expanding our manufacturing footprint, launching new capabilities across welding, casting, forging, electronics, additive manufacturing, and more, while scaling our Factory-as-a-Service platform to transform how critical products are built.</p><p><br />Backed by leading investors including JPMorgan Chase, Valor Equity Partners, Andreessen Horowitz, Founders Fund, 137 Ventures, Lux Capital, T. Rowe Price, and Morgan Stanley, we’re building the future of American manufacturing—and looking for exceptional people to help make it happen.</p><p><br />If you’re ready to take on the most challenging and rewarding work of your career while helping create American manufacturing jobs for generations to come, you’re exactly who we’re looking for.</p><p></p><p><strong>The Role</strong></p><p>Hadrian is looking for a Data Science/ Data Engineer Intern to join the team building the data backbone of our autonomous factory. Every machine, part, and process on our floor generates data, and how well we move, model, and interpret that data determines how fast we can scale. You'll work alongside experienced engineers and analysts on real production data- from the pipelines that move machine telemetry and quality records into our warehouse to the models and analyses that shape how we run the factory. This is a hands-on role where your work will ship, and your contributions will directly influence operational decisions at Hadrian.</p><p></p><p><strong>What You'll Do</strong></p><ul><li><p>Build and maintain data pipelines that move machine, production, quality, and program data from the factory floor into our warehouse</p></li><li><p>Model and structure datasets that engineering, operations, and quality teams rely on for daily decision-making</p></li><li><p>Analyze production data to surface insights on throughput, capacity, cycle time, yield, and machine utilization</p></li><li><p>Develop dashboards, metrics, and reporting that improve visibility into factory performance and program status</p></li><li><p>Prototype statistical or machine learning approaches for problems like anomaly detection, demand forecasting, or process optimization</p></li><li><p>Collaborate with cross-functional teams including operations, program management, and quality to translate open questions into measurable analyses</p></li><li><p>Write clean, well-tested, well-documented code and participate in code reviews</p></li><li><p>Surface data quality issues and contribute to discussions on how we instrument and govern our data</p></li></ul><p></p><p><strong>What We're Looking For</strong></p><ul><li><p>Current university student pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Applied Math, Engineering, or a related field, with an expected graduation date between December 2027 and June 2028</p></li><li><p>Proficiency in Python and SQL</p></li><li><p>Familiarity with data pipelines, ETL/ELT workflows, or cloud data warehouses</p></li><li><p>Working knowledge of statistics and the ability to turn a messy dataset into a defensible conclusion</p></li><li><p>Strong problem-solving skills and the ability to work through ambiguous technical challenges</p></li><li><p>Clear written and verbal communication, including the ability to explain analysis to non-technical partners</p></li><li><p>Strong attention to detail and follow-through</p></li><li><p>Comfortable working in a fast-moving, highly ambiguous environment</p></li><li><p>Willingness to work on-site in Los Angeles, CA</p></li><li><p>Internships are available for our Fall 2026, Spring 2027, and Summer 2027 cohorts. Indicate your preferred term(s) when applying.</p></li></ul><p></p><p><strong>What Will Set You Apart</strong></p><ul><li><p>Prior internship or project experience building production data pipelines or shipping analysis that changed a decision</p></li><li><p>Experience with orchestration or transformation tooling</p></li><li><p>Exposure to time-series, sensor, or telemetry data</p></li><li><p>Interest in manufacturing systems, automation, or industrial software</p></li></ul><p></p><p><strong>What You'll Gain</strong></p><ul><li><p>Hands-on experience building data infrastructure and analysis for a high-growth, mission-driven industrial company</p></li><li><p>Direct involvement with real production data, not sample datasets or side projects</p></li><li><p>Exposure to the full path from raw factory signal to operational decision</p></li><li><p>A front-row seat to how Hadrian is transforming aerospace and defense manufacturing through software, automation, and data</p><p></p></li></ul><p><strong>Compensation</strong></p><p><strong>For this role, the target hourly range is $46.15 - $50.71</strong></p><p>This reflects the lowest to highest hourly rate we reasonably and in good faith believe we would pay for this intern position at the time of this posting. We may ultimately pay more or less than the posted range, and the range is subject to change. An intern's hourly rate within this range will be based on several factors, including, but not limited to relevant education, prior experience, skills, geographic location, and the nature of the internship assignment.</p><p></p><p><strong>Intern Benefits</strong></p><p>Housing support may be available based on business need.</p><p></p><p><strong>ITAR Requirements</strong></p><p>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</p><p></p><h3>Benefits for Full-time Employees</h3><ul><li><p>Medical, dental, vision, and life insurance plans for employees <br />401k </p></li><li><p>Relocation support may be provided for certain situations, based on business need. </p></li><li><p>Flexible vacation policy </p></li><li><p>Equity</p></li></ul> <h3>ITAR Requirements</h3><p>To conform to U.S. Government export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen or national, lawful permanent resident, protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p> <h3>Use of AI in hiring</h3><p>Hadrian uses AI-assisted tools in our recruiting and hiring processes to help our team work more efficiently. This may include tools that help organize and analyze recruiting data, as well as an AI-powered notetaker that can record and transcribe interviews and help coordinate feedback. These tools support our team and are not used to make hiring decisions. All candidate evaluations and hiring decisions are performed by humans. If an interview will be recorded, you will be notified in advance and may opt out at any time with no impact on your candidacy. Candidate data processed through these tools is subject to the same protections described in our Privacy Policy.</p> <h3>Consideration of Criminal History</h3><p>Hadrian will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of all applicable laws. We do not ask about criminal history on our application, and we do not consider criminal history before making a conditional offer of employment.</p> <h3>Hadrian Is An Equal Opportunity Employer</h3><p>Hadrian does not unlawfully discriminate on the basis of race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, marital status, mental status, physical disability or any other legally protected status. When necessary, the Company also makes reasonable accommodations for disabled candidates and employees, including for candidates or employees who are disabled by pregnancy, childbirth, or related medical conditions.</p>",
+    "content_hash": "72a8f1272ec77f1a17738f839c765a34"
+  },
+  "a58e7e0ed8cd": {
+    "id": "a58e7e0ed8cd",
+    "title": "Lab Engineer Intern",
+    "title_raw": "Lab Engineer (Intern)",
+    "company": {
+      "slug": "ans",
+      "name": "ANS",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Alvarado, TX",
+      "city": "Alvarado",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "South Plainfield, NJ",
+        "Oklahoma City, OK"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ans",
+      "external_id": "1f62b017-3f31-4d1a-abe3-4bbae8a3807d"
+    },
+    "apply_url": "https://jobs.lever.co/ans/1f62b017-3f31-4d1a-abe3-4bbae8a3807d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-07-29T00:10:01.721Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:44:06.876Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2025",
+    "salary": {
+      "min": 18,
+      "max": 22,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2025,
+      2026
+    ],
+    "summary": null,
+    "description_html": "The Lab Engineer (Intern) plays a crucial role in advancing ANS's geotechnical engineering initiatives by conducting soil testing within ANS's in-house geotechnical lab. This role primarily encompasses sample preparation, the execution of tests following established standards, and routine workstation maintenance. The intern is expected to play a key role in contributing to the success of our geotechnical projects through attention to detail and adherence to industry-established testing protocols.\n \nWe are looking for a lab intern ideally graduating by Fall 2025 or Spring 2026. This role offers a hands-on experience in a collaborative lab environment. Candidates who express interest in staying in the geotechnical field and are a strong cultural fit may be considered for a full-time offer after graduation. \n<h3>RESPONSIBILITIES</h3>\nSample Preparation: Diligently process and prepare soil and rock samples for testing upon receipt at the laboratory. \nTesting: Perform a variety of geotechnical tests in adherence to established ASTM or AASHTO protocols. \nWorkstation Maintenance: Perform routine maintenance and cleaning procedures including washing reusable laboratory equipment. \nData Recording: Maintain comprehensive documentation of test procedures, observations, and results, prioritizing data accuracy and integrity for subsequent analysis. \nSafety Compliance: Commit to adherence to safety protocols and guidelines, actively fostering a secure work environment and minimizing risks related to laboratory operations. \nMulti-tasking: Proficient in managing multiple tasks simultaneously. \nNon-Testing Duties: Other duties as assigned for day-to-day laboratory operations, including but not limited to packaging and shipping field equipment, ordering and restocking lab supplies, and coordinating the disposal of soils \n\n<h3>GENERAL REQUIREMENTS</h3>\nEducation: Applicants should be pursuing a degree in geology, civil engineering, environmental sciences, materials sciences, or a related field. \nPhysical Fitness: Refer to the detailed physical requirements outlined below. \nIn-Person Position: This is an in-person position that requires candidates to be present at the lab for effective contribution. Remote work is not applicable. \nAttention to Detail: Strong attention to detail is essential to ensuring precision in sample \npreparation and test procedures. \nSafety Awareness: Comprehensive understanding and strict adherence to safety protocols are a must. \nCommunication: Effective communication skills are needed to facilitate collaboration with team members and record or report findings. \nLaboratory Experience: Having prior experience in a laboratory setting, particularly in \nGeotechnical or material testing is advantageous. \n\n<h3>PHYSICAL REQUIREMENTS</h3>\nProlonged periods (6–8 hours) of walking and standing are applicable for this position. \nRegularly lift, move, push, and pull heavy weights (25 to 50 lbs.) throughout the shift. Should be able to handle such tasks independently or with minimal assistance. \nFrequent kneeling and squatting \n\nINTERNSHIP DURATION\nThe internship is initially set for a four-month period, with the possibility of periodic (multiple) extensions based on the candidate’s performance and overall development.\n \nSchedule:\n8 hour shift\nChoose your own hours\nMonday to Friday\nWeekends as needed",
+    "content_hash": "85ff8c5a3ecccc2ee79d0607e07ea9b5"
+  }
+}

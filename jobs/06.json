@@ -1,0 +1,87 @@
+{
+  "0614360077f5": {
+    "id": "0614360077f5",
+    "title": "Software Development Engineer (Seattle) - Internship 2027",
+    "title_raw": "Software Development Engineer (Seattle) - Internship 2027",
+    "company": {
+      "slug": "qumulo",
+      "name": "Qumulo",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Seattle (hybrid)",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "qumulo",
+      "external_id": "43855947-3a85-4d1c-8b8e-e0c0ddcaf183"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T22:32:47.416Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.166Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 100000,
+      "max": 100000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Qumulo is a software-defined cloud data platform. Our core is a distributed storage operating system in C &amp; Rust, holding exabytes in the datacenter, at the edge, and natively in the cloud. Qumulo serves everything from a hospital's medical imaging archive to an animation studio's render farm in an environment where 99% correct doesn’t cut it.</p><p><strong>About the Role:</strong></p><p>Joining us for our Summer 2027 internship program, you'd learn and work across our distributed storage engine and the services that help customers store, manage, and protect their data, under the guidance of experienced senior engineers.</p><p>This includes a fault-tolerant block layer that erasure-codes and distributes data beneath the file system, a transactional file system where aggregates roll up as they change so a query across billions of files answers in real time instead of walking a tree, and that same machinery drives quotas, capacity trends, snapshot policy, multiple access protocols, plus replication and backup - all running in userspace.</p><p>All of which makes Qumulo a distributed operating system problem: scheduling, memory hierarchy, protection, and concurrency. We're AI-forward and specific about what that means. You will learn to use agents to help write code while developing your engineering judgment to ensure every design decision is correct, because nothing ships that isn't right.</p><p><strong>Why intern at Qumulo:</strong></p><p>Qumulo blends the flexibility of a startup with the security of a mature and profitable organization. Here you’ll work closely with a small team of smart, capable engineers who will serve as your mentors. Opinions are expected, disagreement is normal, and you'll get hands-on experience taking projects from ideation to release. We value quality, correctness, and performance. Our architecture, protocols, and patents are public, so you can read how most of this works before you talk to us - and we’re small enough that the work you do during your internship will actually show up in the product.</p><p><strong>As a Software Engineering Intern at Qumulo, you will:</strong></p><ul><li><p>Collaborate with team members on design, code reviews, and pair programming</p></li><li><p>Collaborate with team members and area leads on architecture and design of new/updated features</p></li><li><p>Work directly with a team on core product features; not on a siloed intern project</p></li><li><p>Contribute to feature development and testing using C, Rust and Python</p></li><li><p>Define and implement customer-facing features and internal improvements</p></li><li><p>Help debug and fix test failures and product or service issues</p></li></ul><p><strong>What we're looking for:</strong></p><ul><li><p>Ability to write well-factored and well-tested code</p></li><li><p>Strong grasp of algorithms and data structures, with some experience in distributed systems, database concepts, concurrent programming, or operating systems concepts</p></li><li><p>At least one class, internship or personal project using C, C++, Rust, Java, or Go</p></li><li><p>Willingness to work collaboratively with a team to solve complex problems</p></li><li><p>Ability to reside in Seattle for the duration of your internship</p></li><li><p>Pursuing a BS or BA in Computer Science or Computer Engineering or equivalent experience, available for a full-time internship during Winter, Spring, or Summer 2027</p></li></ul><p>Must be authorized to work in the United States. We are unable to provide visa sponsorship or transfer. This role is hybrid, based at our downtown Seattle HQ, targeting 3 days a week in-office.</p><p>The base pay for this intern role is USD $100,000 annual base salary (prorated to $1,900 per week for the duration of your internship), plus relocation, travel, and local transit support as applicable. </p><h3></h3><p></p><p><strong>About Qumulo:</strong><br />Built for the most demanding enterprise workloads, from AI and HPC simulations to Splunk Observability, genomics and PACS medical imaging, geospatial datasets, media editing and rendering, and video surveillance, Qumulo unlocks the full power of an organization’s information. Our platform unifies file and object storage across data centers, edge, and public clouds, enabling efficient, accelerated computing and extending the reach of data unbound by protocol or transport limitations.</p><p>With more than 1,100 customers and exabytes of data under management, Qumulo powers mission-critical workloads anywhere real-time access to massive file datasets is non-negotiable. Qumulo delivers radical simplicity, hardware freedom, exceptional customer support, and a true hybrid-cloud architecture.<br /><br /><strong>Our Values: </strong><br />At Qumulo, we are building an open and collaborative culture where people can do their best work with customers as our magnetic field. We act as owners, we share by default, we are data driven and experimental and as an inclusive workplace, we encourage and celebrate multiple points of view. As part of our culture we believe diversity drives innovation.<br /><br /><strong>Equal Opportunity Employer:</strong><br />Qumulo is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, national origin, or any other characteristic protected under federal, state, or applicable local law. For more information on Qumulo's Applicant Privacy Policy, please visit: https://qumulo.com/applicant-employee-privacy-notice</p>",
+    "content_hash": "985430167b7895e56909017129cf51ad"
+  },
+  "0649fd12204b": {
+    "id": "0649fd12204b",
+    "title": "Robotics Engineering Co-op",
+    "title_raw": "Robotics Engineering Co-op",
+    "company": {
+      "slug": "aevex-aerospace",
+      "name": "Aevex Aerospace",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Tampa, Florida, United States",
+      "city": "Tampa",
+      "state": "FL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "aevexaerospace",
+      "external_id": "5415815008"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T23:20:41.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:35.420Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Work Arrangement</strong></p>\n<p>This is an onsite position.</p>\n<p><strong>Job Overview</strong></p>\n<p>The AEVEX Navigation and Autonomy Center (NAC) specializes in the development of advanced algorithms for autonomous systems, with expertise spanning navigation, autonomy, controls, sensor fusion and computer vision. We develop innovative solutions that integrate information from vision-based algorithms, inertial measurement units (IMUs), LiDAR, radar, and other sensors to provide accurate real-time state estimation, perception, planning, and control for autonomous platforms operating in complex, GPS-degraded, and GPS-denied environments.</p>\n<p></p>\n<p>We are seeking a highly motivated engineering student to join our team. As a co-op, you will have the opportunity to work on cutting-edge research and development in robotics, autonomous navigation, and sensor fusion. You will contribute to real-world projects, applying your skills in algorithm design, machine learning, and embedded systems to enhance autonomy in challenging conditions.</p>\n<p><strong> </strong></p>\n<p><strong>Essential Functions</strong></p>\n<ul>\n<li>Develop and implement computer vision-based localization, SLAM, or deep learning models for real-time navigation of UAS systems.</li>\n<li>Assist in integrating data from cameras, IMUs, GNSS, and alternative PNT sources for sensor fusion applications.</li>\n<li>Optimize and deploy navigation/autonomy algorithms for embedded systems, robotics platforms, or edge computing hardware.</li>\n<li>Perform simulation and validation of navigation algorithms using Python, C++, or Rust.</li>\n<li>Participate in flight test campaigns to validate software and algorithms on UAS.</li>\n<li>Work closely with senior engineers on research and prototyping efforts.</li>\n<li>Perform other duties as required.</li>\n</ul>\n<p>Standard Essential Functions</p>\n<ul>\n<li>Regular and reliable attendance on a full time basis [or in accordance with posted schedule].</li>\n<li>Responsible for exhibiting professional behavior with both internal and external business associates that reflects positively on the company and is consistent with the company's policies and practices.</li>\n<li>Embodies AEVEX’s cultural values and aligns daily actions with department goals and company culture.</li>\n</ul>\n<p></p>\n<p><strong>Qualifications</strong>            </p>\n<ul>\n<li>Strong programming skills in C/C++, Python, or Rust.</li>\n<li>Experience with ROS/ROS2.</li>\n<li>Demonstrated project or professional experience with one or more of the following:\n<ul>\n<li>Computer vision and deep learning frameworks (OpenCV, PyTorch, TensorFlow).</li>\n<li>Autonomy/planning algorithm development.</li>\n<li>Control systems design/analysis</li>\n<li>Sensor fusion techniques (Kalman filters, particle filters, graph-based SLAM).</li>\n<li>Embedded systems and real-time computing (Jetson, Raspberry Pi, FPGA, or microcontrollers).</li>\n</ul>\n</li>\n<li>Strong analytical, problem-solving, and communication skills.</li>\n<li>Experience deploying software to robotic or hardware systems.</li>\n</ul>\n<p>Education / Certifications</p>\n<ul>\n<li>Current enrollment in an undergraduate or graduate program in Computer Science, Electrical Engineering, Aerospace Engineering, or similar.</li>\n</ul>\n<p>Experience</p>\n<ul>\n<li>No prior experience necessary.</li>\n</ul>\n<p><strong> </strong></p>\n<p><strong>Physical Requirements</strong></p>\n<p>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties the employee is:</p>\n<ul>\n<li>Frequently required to sit, and to reach to use computers and other office equipment</li>\n</ul>\n<p>For the purpose of this summary, occasionally is used to represent up to 1/3 of the time given to the work day, frequently represents 1/3 to 2/3 of the time and constantly represents 2/3 or more of the time.</p>\n<p></p>\n<p><strong>Security Clearance</strong></p>\n<ul>\n<li>Ability to obtain/maintain a Secret DoD clearance, U.S. Citizenship required.</li>\n</ul><p></p>\n<p><strong>About AEVEX </strong></p>\n<p>AEVEX, headquartered in Solana Beach, California, supports the U.S. national security mission and partner nation needs around the world by providing full-spectrum aviation, remote sensing, and analysis solutions. The company's capabilities include custom design and engineering; rapid prototyping; sensor integration and sustainment; aircraft modification and certification; flight test instrumentation and support; mission operations service; advanced intelligence data processing, exploitation, and dissemination solutions; and tailored hardware and software mission-system tools. AEVEX uses agile and customized approaches to rapidly define, develop, and deliver specialized solutions for airborne special mission needs for the U.S. Government, partner nations, and commercial businesses. AEVEX has major offices in California, Florida, North Carolina, Ohio, and Virginia.</p>\n<p></p><p><em>AEVEX provides a full suite of comprehensive benefits, including a 401(k)-retirement plan, comprehensive Medical, Dental, Vision, Disability and Life insurance group coverage with a portion of the premiums paid by the company, professional development funds, and an Employee Assistance Plan (EAP) with counseling, legal help, child and elder care support, among other benefits for qualified employees.</em></p>\n<p></p>\n<p><em><strong>Recruitment Communication Notice:</strong> All official correspondence regarding your application, application status, interviews, or the AEVEX hiring process will come directly from an AEVEX representative using an <strong>@aevex.com</strong> email address or through <strong>Greenhouse</strong>, our applicant tracking system. Please use caution with communications claiming to represent AEVEX from other email domains, and always verify the sender before responding or providing personal information.</em></p>\n<p></p>\n<p><strong>Equal Employment Opportunity:</strong></p>\n<p>AEVEX is an Equal Opportunity employer. We are committed to providing equal employment opportunities to all employees and applicants without regard to race, religious creed, color, sex (including pregnancy, breast feeding and related medical conditions), gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship status, military and veteran status, marital status, age, protected medical condition, genetic information, physical disability, mental disability, or any other protected status in accordance with all applicable federal, state and local laws.</p>",
+    "content_hash": "9e052051df187f50df3372877402d876"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "5c1bb724b54f": {
+    "id": "5c1bb724b54f",
+    "title": "Product Manager Intern",
+    "title_raw": "Product Manager Intern",
+    "company": {
+      "slug": "dedalus-labs",
+      "name": "Dedalus Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "dedalus-labs",
+      "external_id": "ca4245ff-0dee-4f16-80ca-24912d72079c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-15T02:12:26.309Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": {
+      "min": 7800,
+      "max": 8667,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Product Manager Intern @ Dedalus Labs</strong><br /><br /><strong>Mission</strong></h3><p>Dedalus Labs builds persistent computers for AI agents. Our flagship product, Dedalus Machines, gives agents an isolated environment where they can run software, keep files and state, and work over time.</p><p>We’re building the persistent compute layer that powers the next generation of autonomous software. Our platform enables developers to build, deploy, and operate long-running AI agents with persistent compute, cloud sandboxes, and developer infrastructure.</p><p>We’re looking for product managers who enjoy understanding complex technical systems and turning them into products developers love.</p> <h3>About the internship</h3><p>This is a paid, full-time, approximately three-month internship based in San Francisco.</p><p>Applications remain open on a rolling, year-round basis. When we meet an exceptional or unusually high-slope product builder, we can invite them to join the team for a season.</p><p>You’ll work directly alongside Dedalus’s product and engineering teams on real products. You may shadow experienced team members, but you’ll also be expected to understand users, identify important problems, define scope, make thoughtful tradeoffs, coordinate execution, and help ship products from idea to adoption.</p><p>Interns who demonstrate exceptional product judgment, technical fluency, ownership, execution, and mutual fit may be considered for full-time roles.</p> <h3><strong>You might be a fit if you</strong></h3><ul><li><p>Are obsessed with understanding users and how they think.</p></li><li><p>Believe great products begin with asking the right questions.</p></li><li><p>Enjoy talking to users more than making assumptions.</p></li><li><p>Can quickly understand difficult technical concepts.</p></li><li><p>Think good product decisions come from balancing user needs, engineering constraints, and business priorities.</p></li><li><p>Have strong opinions about developer tools, AI products, or where software is headed.</p></li><li><p>Believe simplicity is usually harder than complexity.</p></li><li><p>Care deeply about product quality and the details users notice.</p></li><li><p>Are high agency and fiercely independent.</p></li><li><p>Say what should be built, then help make it happen.</p></li><li><p>Are a competitive teammate with a heart of gold.</p></li><li><p>Are hungry to learn, improve, and reflect deeply on feedback.</p></li><li><p>Go above and beyond in everything you do.</p></li></ul> <h3><strong>What you’ll build</strong></h3><ul><li><p>Product strategy for infrastructure and developer tools.</p></li><li><p>Product specifications and feature requirements.</p></li><li><p>User research and customer discovery.</p></li><li><p>Product launches and feature validation.</p></li><li><p>Internal tooling and operational workflows.</p></li><li><p>Documentation, onboarding, and developer experience improvements.</p></li></ul> <h3><strong>Representative Projects</strong></h3><p>You might find yourself working on problems like:</p><ul><li><p>Interviewing developers to understand how they build and deploy AI agents.</p></li><li><p>Designing onboarding experiences that help developers become productive faster.</p></li><li><p>Working with engineers to define APIs, workflows, and product behavior.</p></li><li><p>Prioritizing product improvements based on customer feedback and usage data.</p></li><li><p>Writing product specifications for new infrastructure capabilities.</p></li><li><p>Defining metrics that measure product adoption, activation, and retention.</p></li><li><p>Launching new platform features from idea to production.</p></li></ul> <h3><strong>What we look for</strong></h3><ul><li><p>Strong product intuition and user empathy.</p></li><li><p>Excellent written and verbal communication.</p></li><li><p>Ability to quickly understand complex technical systems.</p></li><li><p>Strong prioritization and problem-solving skills.</p></li><li><p>Organized, detail-oriented, and highly proactive.</p></li><li><p>Comfortable working with engineers and translating ambiguous ideas into concrete plans.</p></li><li><p>High agency and excellent judgment.</p></li></ul> <h3><strong>Nice-to-have</strong></h3><ul><li><p>Previous startup, product, or founder experience.</p></li><li><p>Experience building or shipping products end-to-end.</p></li><li><p>Familiarity with developer tools, AI products, or cloud infrastructure.</p></li><li><p>Experience conducting user interviews or customer research.</p></li><li><p>Experience with Figma, Linear, Notion, or modern product tooling.</p></li><li><p>Technical background in computer science or engineering.</p></li><li><p>Hackathon, side project, or entrepreneurial experience.</p></li><li><p>Strong analytical skills and experience using product metrics.</p></li></ul> <h3><strong>Taste</strong></h3><p>You know what good looks like.</p><p>You know what to build, what not to build, and what can wait. You care about products that feel intuitive, cohesive, and thoughtfully designed—not because they have more features, but because they solve the right problems.</p> <h3><strong>Tips</strong></h3><p>The first thing we look at is evidence that you’ve built things.</p><p>Show us products you’ve launched, startups you’ve worked on, hackathons you’ve participated in, case studies you’ve written, user research you’ve conducted, or communities you’ve helped grow.</p><p>We care far more about product thinking, initiative, and demonstrated execution than previous PM titles.</p><h3>Compensation</h3><p>Internship pay is $45-$50 per hour. The monthly range shown above is an approximate equivalent of $7,800-$8,667 at 40 hours per week, averaged over 52 weeks per year. Actual pay is based on hours worked.</p><h3>Application requirements</h3><p>Apply for a role you have read and intentionally chosen. The application requires a concrete account of work you completed and a difficult problem you investigated, a separate writing sample, and a short explanation of why this role fits. Use existing work. Concise, specific answers are welcome. We do not accept automated mass submissions.</p><p>Share one piece of your best writing as a separate, required sample. Simple and succinct is welcome. Choose work that shows your thinking and your voice in a professional or similarly thoughtful context: a strong README, design note, blog post, postmortem, proposal, or essay. A serious, self-contained Reddit post is fine. Tweets, Twitter/X threads, and short social posts do not count. Link it or paste a redacted excerpt. Tell us the intended audience, what you wrote, why you chose it, and any coauthors or AI assistance.</p><p>Work from employment, research, coursework, open source, or independent projects is welcome. Redacted private work is fine. Do not share confidential information.</p>",
+    "content_hash": "a59c74f34150a24ae53e216b7f8363c2"
+  }
+}

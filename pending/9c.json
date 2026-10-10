@@ -1,0 +1,89 @@
+{
+  "9c14f0b6a51e": {
+    "id": "9c14f0b6a51e",
+    "title": "Software Engineer (Early Career)",
+    "title_raw": "Software Engineer (Early Career)",
+    "company": {
+      "slug": "lightfield",
+      "name": "Lightfield",
+      "domain": ""
+    },
+    "location": {
+      "raw": "HQ: San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": [
+        "Cambridge, MA"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "lightfield",
+      "external_id": "fc93a467-773d-4805-b342-bf470950732d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-16T00:04:56.496Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:14.231Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 160000,
+      "max": 180000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Lightfield</strong></h3><p>Lightfield is reimagining CRM as a world model of a business. By learning from emails, meetings, and customer conversations, we’re building a living understanding of how a company works—so AI can help teams anticipate what comes next, make better decisions, and take action.</p><p>More than 5,000 companies have used the product since its November launch. We’ve raised more than $70M from Andreessen Horowitz, Coatue, Maverick Ventures, and Greylock to attack the biggest software category in the world. We previously built Tome, which reached more than 25 million users, and our team brings experience from Llama, Instagram, Google, and Salesforce.</p><p></p><h3><strong>About the role</strong></h3><p>We’re looking for a creative, and versatile engineer who is eager to tackle the challenge of building scaled, performant features and systems that deliver exceptionally innovative AI product experiences.</p><p>At Lightfield, engineers take ownership of projects from inception to impact, collaborating across functions and pushing the envelope on what’s possible in applied AI systems development. You’ll work alongside a talented team to deliver industry-leading solutions and contribute to Lightfield product and technical vision</p><p></p><h3><strong>What you'll do</strong></h3><ul><li><p>Collaborate with product leaders to identify customer problems, scope requirements, and implement solutions.</p></li><li><p>Build and maintain full-stack product features and systems, end-to-end, ensuring reliability, scalability, and performance.</p></li><li><p>Develop observability and metrics to enable smooth operation, proactive issue detection, and continuous improvement.</p></li><li><p>Mentor teammates, participate in code reviews, and help shape engineering culture and practices.</p></li><li><p>Contribute to building a world-class engineering team through recruiting, mentorship, and knowledge-sharing.</p><p></p></li></ul><h3><strong>Who you are</strong></h3><ul><li><p>You’re excited about Large Language Models (LLMs) and the opportunity to build systems that support and leverage them.</p></li><li><p>You have the ability to ramp quickly on tech stack that features TypeScript, React, Next.js, Node.js, Apollo GraphQL, and PostgreSQL.</p></li><li><p>Strong fundamentals in software engineering, with a degree in Computer Science or a related field.</p></li><li><p>Thrives in ambiguity, able to independently drive projects and deliver results in a fast-moving environment.</p></li><li><p>Clear communicator, capable of articulating technical decisions to both technical and non-technical stakeholders.</p></li><li><p>Passionate about building products customers love, ensuring our CRM is intuitive, intelligent, and indispensable.</p></li></ul><p></p><h3><strong>Benefits &amp; Perks</strong></h3><ul><li><p>Competitive salary</p></li><li><p>Meaningful early equity</p></li><li><p>Health insurance (medical, dental, vision)</p></li><li><p>3 weeks of PTO</p></li><li><p>11 paid company holidays + we enjoy a winter holiday break</p></li><li><p>3 months of paid family leave</p></li><li><p>Wednesdays work from home</p></li><li><p>Regular team dinners, events, offsites, and retreats</p></li><li><p>401k plan</p></li><li><p>Other perks include: commuter and lunch stipend</p></li></ul>",
+    "content_hash": "471b4c167144a1ea0ade8d0e6b662ba7"
+  },
+  "9cccc6448761": {
+    "id": "9cccc6448761",
+    "title": "Catalog Analyst-Intern",
+    "title_raw": "Catalog Analyst-Intern",
+    "company": {
+      "slug": "editorialist",
+      "name": "Editorialist",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Europe/Italy - Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "editorialist",
+      "external_id": "f52c14a3-3ac9-4f04-afb0-74a1fb8598c6"
+    },
+    "apply_url": "https://jobs.lever.co/editorialist/f52c14a3-3ac9-4f04-afb0-74a1fb8598c6/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2024-07-09T14:54:58.488Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:54.208Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>What’s Editorialist?</b><br />Editorialist melds personal styling, editorial content, and shopping into one seamless digital experience powered by proprietary technology and e-commerce tools. Editorialist.com, our media property, delivers sophisticated content and commerce to aspirational and affluent consumers. Our stories connect readers with bespoke product and service solutions for fashion, accessories, beauty, and wellness needs. The cornerstone of our tech platform—the YX app—blends content, digital services, and e-commerce for our elite clientele, individuals with an average net worth in excess of $550 million. Our co-founder and CEO Rafael Ortiz previously co-founded NexTag, the largest comparison shopping site for products and services, and was responsible for marketing and business development until its sale for $1.2 billion<br /><b>Job synopsis:</b>  We need a Catalog Analyst - Intern to help clean and manually curate our 1 million+ products and help with the feedback pipeline to improve machine learning algorithms.\n<h3>Responsibilities</h3>Manually review predictions of our machine learning models and provide feedback. New Product addition to the catalog. Merging of similar products from different retailers from the catalog. Curating and tagging best-selling products based on current market trends involving style, color, print, pattern, and silhouettes Correct the product descriptors, sub-categories, and subtypes. Maintain categorization of the products. Catalog sanitization of different categories and adding up new attributes for better visibility of the product. \n<h3>Requirements</h3>Bachelor’s degree or current student(preferably related to fashion). High Energy/Startup Mindset Willing to learn. Past exposure to the US Fashion Market is a big plus.",
+    "content_hash": "3197a16ae2a5deef0676063183b20c1d"
+  }
+}

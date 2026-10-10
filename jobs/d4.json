@@ -1,0 +1,42 @@
+{
+  "d4c23d34afc2": {
+    "id": "d4c23d34afc2",
+    "title": "Product Manager Intern",
+    "title_raw": "Product Manager Intern",
+    "company": {
+      "slug": "creatify-lab",
+      "name": "Creatify Lab",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mountain View",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "creatify",
+      "external_id": "4da91083-999a-4bf8-b53d-92a179073af2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-07T01:28:37.959Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.294Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Creatify</strong></p><p>Creatify is building the world’s first end-to-end AI advertising agent—a platform that automates the entire video ad lifecycle, from scripting and avatar-led generation to testing, optimization, and publishing across Meta, TikTok, YouTube, and more.</p><p>We’ve surpassed 3 million users across 18,000+ teams. Leading brands—including Applovin, Alibaba, HubSpot, Binance, NewsBreak, and Zumper—use Creatify to produce personalized, high-performing video ads in minutes.</p><p>We have raised $24M in funding from leading Silicon Valley firms including WndrCo, Kindred Ventures, Millennium New Horizons, NFDG, Comcast Ventures, Creator Ventures, Leadout Capital, Hat Trick Capital, and many more. Check out our latest coverage by Fast Company, TechCrunch, Bloomberg TV, and our recognition as one of IVP Enterprise AI 55 in 2024. </p><p>Based in Mountain View, we are a team of passionate AI researchers, engineers, and advertising veterans. Join us in reinventing the advertising industry with AI.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p>Work side-by-side with engineering to define requirements, prioritize features, and ship AI-powered product improvements on tight timelines.</p></li><li><p>Write clear PRDs, specs, and user stories that help the team build the right thing, fast.</p></li><li><p>Conduct user and market research to inform product decisions—talk to customers, analyze usage data, and study the competitive landscape.</p></li><li><p>Track project progress, remove blockers, and keep cross-functional workstreams organized and on schedule.</p></li><li><p>Contribute to product strategy by surfacing insights on AI model capabilities, marketing workflows, and user pain points.</p></li><li><p>Move fast, stay organized, and operate with the intensity of a founding team member.</p></li></ul><h3><strong>Who You Are</strong></h3><ul><li><p>Recent graduate or current MBA candidate with a strong drive to break into product management at a high-growth startup.</p></li><li><p>Exceptionally organized—you bring structure to chaos and nothing slips through the cracks.</p></li><li><p>Genuinely passionate about AI: you follow model releases, experiment with tools, and have opinions about where the space is headed.</p></li><li><p>Deeply curious about the marketing and advertising space—you understand (or want to understand) how brands create, test, and scale ad creative.</p></li><li><p>Strong communicator who can translate between technical and business audiences with clarity.</p></li><li><p>Comfortable with high intensity and fast pace—you don’t wait to be told what to do.</p></li><li><p>Bonus: ex-consulting experience (MBB or similar)—you know how to structure ambiguous problems and drive to answers quickly.</p></li><li><p>Bonus: technical background or comfort reading code, APIs, and data.</p></li></ul><h3><strong>Why Creatify</strong></h3><ul><li><p>Real ownership from day one—you’ll ship features, not fetch coffee.</p></li><li><p>Learn product management at the intersection of AI and advertising, two of the fastest-moving spaces in tech.</p></li><li><p>Series A momentum with real revenue, real users, and a team that moves at startup speed.</p></li><li><p>A launchpad for your PM career—top performers have a path to a full-time role.</p></li></ul><p><strong>Ready to ship AI products that thousands of marketers use? Apply now.</strong></p><p>We are an equal opportunity employer and highly value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>",
+    "content_hash": "9a943f2e7e0c12e27251b2e4ec3f1de1"
+  }
+}

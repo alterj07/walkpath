@@ -1,0 +1,47 @@
+{
+  "6dd4baa1edb8": {
+    "id": "6dd4baa1edb8",
+    "title": "Rainmaker Fellow, Machine Learning",
+    "title_raw": "Rainmaker Fellow, Machine Learning",
+    "company": {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "make-rain",
+      "external_id": "12553367-54eb-4fb8-8268-d52b3f05d86b"
+    },
+    "apply_url": "https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T13:57:28.744Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:03:22.232Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rainmaker</h3>\n<p>Rainmaker is pioneering a modern cloud-seeding system to increase precipitation, improve water availability, and address severe-weather challenges. We combine atmospheric science, weather-resistant UAS, radar and satellite observations, numerical weather prediction, novel sensing systems, and sustainable seeding technologies to design, operate, and evaluate precipitation-enhancement programs.</p>\n<p>Rainmaker collects unusual atmospheric datasets because we build sensors, operate aircraft, fly into clouds, and deliberately intervene in atmospheric systems. Our long-term advantage depends on turning those observations into better estimates, forecasts, and operational decisions.</p>\n<h3>About the Fellowship</h3>\n<p>The Rainmaker Machine Learning Fellowship is a paid, full-time research appointment for exceptional undergraduate and graduate students, postdoctoral researchers, recent graduates, and other early-career researchers.</p>\n<p>As a fellow, you will join Rainmaker's R&amp;D team and work alongside our researchers on a scoped machine-learning project drawn from Rainmaker's current research priorities and defined in close collaboration with your research lead or mentor. Project matching will consider available data, mentor capacity, team needs, and your background. You will take responsibility for a concrete workstream while contributing to the broader team's research, reviews, and technical decisions.</p>\n<p>You will work with real sensor and operational data, establish credible baselines, build and evaluate models, and leave behind a durable dataset, system, or research artifact that Rainmaker can continue using. Fellows are not expected to arrive with an independent research agenda or define a project in isolation.</p>\n<h3>Examples of the Work</h3><p>Fellowship projects change with Rainmaker's research and operational priorities. Examples of the work our ML team may pursue include:</p>\n\nDeveloping a short-range supercooled liquid water opportunity forecast using public NWP and Rainmaker observations. \nPredicting hail-core growth, motion, splitting, and decay from radar sequences. \nBuilding a bounded multimodal atmospheric-state reconstruction pilot. \nImproving microwave-sounder retrievals using Rainmaker observations. \nModeling another scientific or operational problem selected with Rainmaker's ML and atmospheric-science teams. \n\n<h3>What You'll Do</h3>\nTranslate a scientific or operational question into a measurable ML problem. \nBuild or improve the training and validation dataset needed for the project. \nEstablish simple, reproducible baselines before introducing more complex models. \nTrain, evaluate, and debug models using held-out weather events, regions, or operating conditions. \nQuantify calibration, uncertainty, generalization, failure modes, and sensitivity to missing or biased data. \nWork closely with atmospheric scientists to define useful targets, ground truth, physical constraints, and operational success criteria. \nProduce clear, reusable code and documentation. \nPresent your results to Rainmaker's scientists, engineers, operators, and technical leadership. \nDeliver a final artifact such as a benchmark dataset, model, prototype product, evaluation report, or research paper. \n\n<h3>What We're Looking For</h3>\nCurrent undergraduate, master's, or PhD students; postdoctoral researchers; recent graduates; and other early-career researchers are all eligible. \nStrong Python programming ability and experience with a modern ML framework. \nEvidence that you can independently build, test, and debug technical work. \nStrong quantitative reasoning and an ability to design credible experiments. \nInterest in noisy, sparse, multimodal, spatial, temporal, or physical data. \nAbility to make progress on ambiguous research problems while incorporating mentor feedback. \nClear written and verbal communication. \nAvailability for full-time, on-site work in El Segundo for the agreed appointment. \n\n<h3>Particularly Relevant Backgrounds</h3>\nMachine learning, computer science, applied mathematics, statistics, physics, meteorology, remote sensing, robotics, autonomy, geospatial analysis, or scientific computing. \nForecasting, sequence modeling, computer vision, state estimation, sensor fusion, probabilistic modeling, data assimilation, or uncertainty quantification. \nWeather knowledge is valuable but not required. \n\n<h3>What Success Looks Like</h3><p>By the end of the fellowship, you will have answered a clearly defined technical question and produced a rigorous, reusable result that advances the team's work. Depending on the project, that might be a benchmark dataset, evaluated model, prototype product, forecasting or retrieval improvement, or a well-supported analysis of performance and failure modes.</p>\n<p>Success does not require a positive scientific result. A well-supported finding that the available data cannot answer the question—and a concrete recommendation for what Rainmaker should measure next—can be highly valuable.</p>\n<h3>Fellowship Details</h3>\nPaid, full-time, and on-site in El Segundo. \nThree-to-six-month appointment, with four months as the standard duration. \nRolling applications and flexible start dates based on project and mentor readiness. \nPossible consideration for future full-time roles, without any promise or expectation of conversion. \n\n<h3>Compensation and Benefits</h3><p>$8,000 per month</p>\n<p><strong>Benefits:</strong></p>\n\nFull health coverage (medical, dental, and vision insurance) \nLunch provided when working in-office and a fully stocked kitchenette \nFree EV charging at the HQ",
+    "content_hash": "a21ac7310cccfdb52fcee5f5043b5076"
+  }
+}

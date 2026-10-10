@@ -1,0 +1,86 @@
+{
+  "75cbc1ad4e28": {
+    "id": "75cbc1ad4e28",
+    "title": "Enterprise Technology Intern (Summer 2027)",
+    "title_raw": "Enterprise Technology Intern (Summer 2027)",
+    "company": {
+      "slug": "saronic",
+      "name": "Saronic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "saronic",
+      "external_id": "6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T19:47:25.191Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.760Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.</p><p></p><p><strong>Job Overview</strong></p><p>We are seeking an Enterprise Technology Intern to help deliver critical functionality on Saronic’s SaaS platforms. You will work directly with our team of analysts and developers on configuration, development, integrations, and operational tooling across our application portfolio. You will learn how production business systems work at a rapidly growing defense technology company. This internship will allow you to apply your academic knowledge in a real-world setting and contribute to projects that provide value to our users.</p><p></p><p>This internship is ideal for students pursuing degrees in Computer Science, Management Information Systems, Mathematics, Engineering, Cognitive Science, or a related field and eager to make an impact in the defense technology industry.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Build and configure within enterprise platforms (e.g., Salesforce, Workday, NetSuite, Slack) - fields, flows, permissions, reports, and dashboards</p></li></ul><ul><li><p>Write and test automations, scripts, or Apex/declarative logic to streamline manual processes</p></li></ul><ul><li><p>Support integration work between systems (e.g., NetSuite–Workday, Salesforce data flows) by helping document, test, and validate data and APIs</p></li></ul><ul><li><p>Help maintain operational documentation, including runbooks, technical specifications, RACI matrices, and on-call response materials</p></li></ul><ul><li><p>Assist with system monitoring and uptime health reporting across our SaaS portfolio</p></li></ul><ul><li><p>Support user-acceptance testing and change management for in-flight projects</p></li></ul><ul><li><p>Troubleshoot configuration and access issues alongside the Enterprise Technology team</p><p></p></li></ul><p><strong>Qualifications</strong></p><ul><li><p>Currently pursuing a degree in Computer Science, Management Information Systems, Mathematics, Engineering, Cognitive Science, or a related field</p></li></ul><ul><li><p>Solid programming fundamentals (any language), and comfort reading and writing code</p></li></ul><ul><li><p>Clear written communication and the ability to document your work</p></li></ul><ul><li><p>Ability to work independently and collaboratively in a fast-paced environment</p></li></ul><ul><li><p>Strong analytical and problem-solving skills</p></li><li><p>This role requires full-time in office presence (40 hours/week) based at our headquarters in Austin, TX, from May through August 2027</p></li></ul><p></p><p><strong>Physical Demands</strong></p><ul><li><p>Prolonged periods of sitting at a desk and working on a computer</p></li><li><p>Occasional standing and walking within the office</p></li><li><p>Manual dexterity to operate a computer keyboard, mouse, and other office equipment</p></li><li><p>Visual acuity to read screens, documents, and reports</p></li><li><p>Occasional reaching, bending, or stooping to access file drawers, cabinets, or office supplies</p></li><li><p>Lifting and carrying items up to 20 pounds occasionally (e.g., office supplies, packages)</p></li></ul><p></p><p><em>Saronic CCPA Notice for Candidates and California Employees</em></p><p><em>If this role is based in the United States, it requires access to export-controlled information or items that require “U.S. Person” status. As defined by U.S. law, individuals who are any one of the following are considered to be a “U.S. Person”: (1) U.S. citizens, (2) legal permanent residents (a.k.a. green card holders), and (3) certain protected classes of asylees and refugees, as defined in </em><em>8 U.S.C. 1324b(a)(3)</em><em>.</em><br /><br />Saronic does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. <em>We are also committed to providing reasonable accommodations for qualified individuals with disabilities.</em></p>",
+    "content_hash": "43d3fe49cb10930e7098b618e126058f"
+  },
+  "75ebb3a285fc": {
+    "id": "75ebb3a285fc",
+    "title": "Municipal Engineering Internship",
+    "title_raw": "Municipal Engineering Internship",
+    "company": {
+      "slug": "benesch",
+      "name": "Benesch",
+      "domain": "benesch.com"
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": [
+        "Augusta, GA",
+        "Marquette, MI",
+        "Detroit, MI"
+      ]
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "alfredbeneschco",
+      "external_id": "5227387007"
+    },
+    "apply_url": "https://www.benesch.com/job-openings/5227387007?gh_jid=5227387007",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T20:46:09.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:47.484Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Simply Put, A Great Place to Work</h3>\n<p>Benesch is a growing, multi-disciplined planning, engineering, and professional services firm. We enhance infrastructure and communities across the country – creating spaces and providing connections in ways that make a difference.</p>\n<p>We pride ourselves on being nimble enough to remain responsive to client needs yet large enough to offer exceptional bench strength. As a member of our team, you’ll have an opportunity to draw from those resources when you need them and, likewise, contribute your expertise when you have something to share.</p>\n<p>At Benesch, we are looking for candidates with varied backgrounds and worldviews. We are committed to offering an inclusive work environment where everyone feels valued and respected. Statistics show that women and underrepresented groups are less likely to apply for a position if they don’t meet 100% of the qualifications. If this statement resonates with you, don’t be so hard on yourself—apply for the job!</p>\n<h3>Municipal Engineering Internship  </h3>\n<p>At Benesch, our commitment to innovation and collaboration extends beyond our projects. We believe in nurturing talent from the ground up, making it a core part of our values. Whether you’re seeking your first internship or ready for the next step in your budding career, Benesch is hiring individuals to join our dynamic teams across the country!  </p>\n<p>Work alongside Michigan's dedicated team of Municipal Professionals focused on enhancing local infrastructure. As a Municipal Engineering intern during the summer of 2026, you will work on engineering projects related to municipal clients involving design, field inspections, and other engineering tasks,  </p>\n<h4>Location </h4>\n<p>This internship will be based in our Atlanta, GA, or Augusta, GA, offices and will involve occasional travel to project sites. This allows you to benefit from mentorship by professionals in and outside the office during your internship.  </p>\n<h3>What We Are Looking For </h3>\n<ul>\n<li>Pursuing your bachelor’s or master’s degree in a relevant industry field such as:  </li>\n<li>Civil, Construction, Environmental Engineering, or other related degrees </li>\n<li>Strong verbal and written communication skills, coupled with analytical and problem-solving abilities. </li>\n<li>Ability to manage assignments efficiently and maintain organizational skills. </li>\n<li>Strong interest in infrastructure, water waste/sewer, and hydraulic or related areas  </li>\n<li>Ability to handle job demands, including lifting 25lbs and working in various environmental conditions  </li>\n<li>Valid driver's license and reliable transportation to and from job sites.  </li>\n</ul>\n<h3>Why Benesch</h3>\n<p>It’s simple. We invest in our people, not just our projects.</p>\n<ul>\n<li>Career growth that’s real with leadership development, training, and clear paths forward</li>\n<li>Strong financial future with up to <strong>9% retirement contribution</strong> for benefit-eligible employees</li>\n<li>Flexibility that works with schedules that support your life</li>\n<li>Time to recharge with generous paid time off and parental leave for benefit-eligible employees</li>\n<li>Support beyond work through mentorship, hands-on experience, and opportunities to make an impact from day one</li>\n</ul>\n<p>Whether you’re starting your career or bringing years of experience, you’ll have the support and exposure to grow here.</p>\n<p><strong>Explore our full benefits here:</strong> Click here </p>\n<p></p>\n<h4>Equal Opportunity &amp; Accessibility</h4>\n<p>At Benesch, we believe great work starts with great people and that means creating a workplace where everyone has the opportunity to succeed.</p>\n<p>Benesch is firmly committed to Equal Employment Opportunity (EEO) and prohibits employment discrimination for employees and applicants in all protected groups, including veterans and individuals with disabilities, or other status protected by federal, state, and local laws.</p>\n<p>Benesch is committed to working with and providing reasonable accommodation to applicants with a physical disability or other impairment.</p>\n<p>If you are limited in your ability or are unable to access Benesch's Careers website due to a physical disability or other impairment, you may request a reasonable accommodation by emailing TalentAcquisition@benesch.com. This option is only available to those in need of an accommodation due to a disability or other impairment. Please do not use this as an alternative method for general inquiries or status on applications, as you will not receive a response. Reasonable requests will be responded to as soon as possible on a case-by-case basis.</p>\n<p>If you are based in California, we encourage you to read this important information for California residents linked here.</p>\n<p><strong>Know your Rights: Workplace Discrimination is Illegal </strong></p>\n<p><em>We will be accepting applications on an ongoing basis until a candidate is found.</em></p>\n<h4>External Recruiters and Staffing Agencies</h4>\n<p>Benesch shall have no obligation to compensate any external recruiter or search firm for candidate submissions made without a valid, current, and fully executed agreement. Submission of candidate information does not establish entitlement to a fee.</p>\n<p>All recruiting activity must be coordinated and authorized through the Benesch Talent Acquisition team. Please direct all communications to TalentAcquisition@Benesch.com</p>",
+    "content_hash": "078c2bc9ff3d1776be9dca6d29481fcb"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "2044f4196cb3": {
+    "id": "2044f4196cb3",
+    "title": "Forward Deployed Engineer (New Grad)",
+    "title_raw": "Forward Deployed Engineer (New Grad)",
+    "company": {
+      "slug": "roadrunner",
+      "name": "Roadrunner",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "roadrunner",
+      "external_id": "c82b1987-bb02-4420-8fa2-b79075b04480"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T17:43:23.714Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.235Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About us</strong></h3><p>At Roadrunner, we’re replacing the broken CPQ software that Sales teams have complained about, worked around, and given up on for years. Not improving it - replacing it. We’re building a new agentic stack called PQA - Prompt, Quote, Approve, designed for the enterprise, on a data model built for how pricing actually works today.</p><p>We’re Kleiner Perkins’ first incubation since Glean, led by second-time founders with successful exits, and a team of engineers from Snowflake, Databricks, Citadel, Meta, Robinhood, Brex, and so on. We’re in-person in San Francisco, and we’re just getting started.</p><p></p><h3><strong>What you'll do</strong></h3><ul><li><p><strong>Embed with our customers.</strong> You'll sit with the RevOps and Sales leaders who live inside Roadrunner every day, turn their hardest pricing and approval problems into shipped features, and stay on the hook until they're actually solved - not just handed off to support.</p></li><li><p><strong>Own delivery end-to-end, in production.</strong> From technical discovery through go-live, you're the engineer who scopes it, builds it, and keeps it running.</p></li><li><p><strong>Turn one-off solutions into product.</strong> Every customer-specific integration or workflow you build feeds back into Roadrunner's core platform. The pattern you build for customer #1 is the feature customer #10 gets out of the box.</p></li><li><p><strong>Ship AI agents in the field.</strong> Deploy and tune proactive agents - quoting recommendations, deal modeling, multi-step approval workflows - against real customer data and real deal pressure, then iterate on what actually breaks.</p></li><li><p><strong>Be the fastest feedback loop in the company.</strong> You're often the first to see where the product breaks under real enterprise complexity. You carry that back to the core team the same day, not next sprint.</p></li></ul><p></p><h3><strong>What you'll bring</strong></h3><ul><li><p><strong>Strong engineering fundamentals</strong> - from coursework, internships, or projects. You don't need a track record of shipping to production yet; you need to be able to build fast without cutting the corners that matter.</p></li><li><p><strong>Real curiosity.</strong> You want to know why something broke, not just that it broke - and you'll dig through an unfamiliar codebase or a customer's system until you find the actual answer.</p></li><li><p><strong>Ambition.</strong> You want real ownership fast, not a backlog of tickets, and you're ready to earn it.</p></li><li><p><strong>Comfort with ambiguity</strong> - from a hackathon, a research project, or an internship where nobody handed you a spec.</p></li><li><p><strong>Clear, direct communication</strong> - with engineers and with the non-technical people you'll be sitting across from.</p></li><li><p><strong>Willingness to travel occasionally</strong> to be onsite with customers when it matters.</p></li><li><p><strong>Based in SF or excited to relocate</strong> - we're an in-person team.</p></li></ul><p></p><h3><strong>Bonus points if…</strong></h3><ul><li><p>You've interned somewhere and shipped code that real users touched.</p></li><li><p>You've built something on your own - an app, a tool, a research project - because you wanted it to exist, not because a class required it.</p></li><li><p>You've spent time close to customers or end users, even outside of engineering (support, tutoring, ops), and know what it's like to translate someone's problem into something you build.</p></li><li><p>You've picked up a new language, framework, or domain fast because a project needed it.</p></li><li><p>You have a side project. Tell us what it is and why you built it.</p></li></ul><p></p><h3><strong>What we offer</strong></h3><ul><li><p>Medical, dental, and vision benefits for you and your family.</p></li><li><p>Lunch and dinner, as well as snacks and coffee to keep you energized.</p></li><li><p>Take what you need vacation policy.</p></li></ul><p></p><h3><strong>Equal opportunity</strong></h3><p>We value our differences, and we encourage all to apply — especially those whose identities are traditionally underrepresented in tech organizations. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Roadrunner is an equal opportunity employer.</p>",
+    "content_hash": "388141655ec862c0f6b67b462394410a"
+  },
+  "20b9f3c24e9c": {
+    "id": "20b9f3c24e9c",
+    "title": "Cohort 0",
+    "title_raw": "Cohort 0",
+    "company": {
+      "slug": "replit",
+      "name": "Replit",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Foster City, CA",
+      "city": "Foster City",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "replit",
+      "external_id": "2c147ccb-2557-40f8-aab9-64422cef220c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-05T00:36:06.848Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.795Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.</p><p></p><p><strong>About the Role</strong></p><p>Join Replit's key teams across the company, such as AI Research, Strategic Finance, or the Office of the CEO, for a unique paid internship built for sharp quantitative and creative minds. You will work alongside our top executives, in addition to world-class engineers, designers, and finance team on some of the hardest problems in AI-native software creation and accelerating key areas of our business.</p><p></p><p>We are creating a dedicated track for students with strong mathematical backgrounds because the problems we are solving sit at the intersection of deep math and applied AI, including agent reasoning, systems optimization, and improving how our models learn and perform at scale. Your work will directly shape how millions of users build software.<br /></p><p></p><p><strong>You Will:</strong></p><ul><li><p>Contribute to real engineering problems that push the boundaries of AI-powered software creation</p></li><li><p>Collaborate with engineers, designers, and product managers on infrastructure that powers Replit's platform</p></li><li><p>Prototype novel approaches to problems in AI, systems, or tooling where mathematical rigor is the differentiator</p></li><li><p>Ship work that impacts millions of developers globally, in an environment where your ideas are heard and often implemented</p></li></ul><p></p><p><strong>Required Skills and Experience:</strong></p><ul><li><p>Currently pursuing a Bachelor's, Master's, or PhD in Mathematics, Computer Science, Computer Engineering, Statistics, Physics, or a related quantitative field</p></li><li><p>At least one semester of schooling remaining after the internship</p></li><li><p>Demonstrated excellence in competitive mathematics such as IMO and IOI, quantitative research, or advanced coursework</p></li><li><p>Genuine curiosity about AI, agent systems, company building, or developer tooling</p></li><li><p>Extremely bullish on Replit and the future of AI-native software creation. We would love to see what you have built on the platform<br /></p></li></ul><p></p><p><strong>What We Value:</strong></p><ul><li><p><strong>First-principles thinking:</strong> Ability to break down complex problems from the ground up and reason about them rigorously</p></li><li><p><strong>Mathematical intuition:</strong> Strong grasp of the underlying math behind machine learning, optimization, or systems</p></li><li><p><strong>Self-directed and autonomous:</strong> Capable of working independently while collaborating well with cross-functional teams</p></li><li><p><strong>Strong communication:</strong> Ability to explain complex quantitative concepts to both technical and non-technical audiences</p></li><li><p><strong>Curiosity and speed:</strong> Genuine excitement for hard problems and the drive to iterate quickly</p></li></ul><p></p><p><strong>Full-Time Employee Benefits Include:</strong></p><p>💰 Competitive Salary &amp; Equity</p><p>💹 401(k) Program with a 4% match (<em>US Only</em>)</p><p>⚕️ Health, Dental, Vision and Life Insurance</p><p>🩼 Short Term and Long Term Disability</p><p>🚼 Paid Parental, Medical, Caregiver Leave</p><p>🏝 Flexible Time Off (FTO) + Holidays</p><p>🚗 Commuter Benefits  (<em>In-Office &amp; US Only</em>)</p><p>📱 Monthly Wellness Stipend</p><p>🧑‍💻 Autonomous Work Environment</p><p>🖥 In Office Set-Up Reimbursement (<em>In-Office Only</em>)</p><p>🚀 Quarterly Team Gatherings</p><p>☕ In Office Amenities (<em>In-Office Only</em>)</p><p></p><p><strong>Want to learn more about what we are up to?</strong></p><ul><li><p>Self-driving Company</p></li><li><p>Replit Agent at Scale</p></li><li><p>AI Adoption</p></li><li><p>Build Open-Source Apps</p> </li></ul><p><strong>Interviewing + Culture at Replit</strong></p><ul><li><p>Operating Principles</p></li><li><p>Reasons not to work at Replit</p></li></ul><p></p><p>To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.</p>",
+    "content_hash": "47c39cd8ae1bc3a62ce5d86624268de1"
+  }
+}

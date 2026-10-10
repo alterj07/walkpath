@@ -1,0 +1,82 @@
+{
+  "4285b603d543": {
+    "id": "4285b603d543",
+    "title": "2027 Internship - Embedded Software Engineer",
+    "title_raw": "2027 Internship - Embedded Software Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T23:14:54.222Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />We are seeking a Software Engineering Intern to join our product development teams in Austin, TX. Cirrus Logic develops advanced mixed signal integrated circuits (ICs) that often deploy embedded real-time software, including implementation of signal processing algorithms, to complement analog and digital sub-systems. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. You will join a team of gifted Software Engineers who work alongside teams of analog and digital designers through all stages of product development, from concept to delivery. You will have the opportunity to use your technical skills to build considerable experience within this position, as well as working on ground-breaking projects in an extraordinary environment surrounded by talented engineers. \n<h3>Responsibilities </h3>\n\n<ul>\n<li>\n<p>Assist in the implementation of real-time embedded software for world-class product</p>\n</li>\n<li>\n<p>Improve/Add to the use of AI/ML in the development of real-time embedded software </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Assist in developing AI agents etc. to aid development of real-time embedded software </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Liaise with other cross functional engineers to understand/meet software requirements </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Work with engineering/project mentors/managers to deliver to expectations </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Follow and maintain state of the art software development practices including CI/CD </p>\n</li>\n\n</ul>\n\n<h3>Required Skills and Qualifications </h3>\n\n<ul>\n<li>\n<p>Great programming skills in C and Python; familiarity with other scripting/programming languages a plus </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience with AI/ML commensurate with a pre-undergraduate degree  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Knowledge of modern software development practices </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Familiarity with Git and modern Version Control Systems </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience with processor architectures and efficient real-time implementation </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p><strong>Pursuing BS/like degree in Computer/Data Science, Software Engineering or related field </strong></p>\n</li>\n\n</ul>\n\n<h3>Preferred Skills and Qualifications </h3>\n\n<ul>\n<li>\n<p>Considerable experience in the use of AI/ML in multiple usage contexts </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Extensive experience building agents and working across multiple AI models/engines </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience working in a global multi-site work environment </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience with embedded real-time signal processing software implementation </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Knowledge of Digital Signal Processing including audio/non-audio applications </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience deploying embedded software in a mixed-signal IC/SoC context </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Technical understanding of architecting/implementing embedded software </p>\n</li>\n\n</ul>\n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "04a00125c4a7a491e8847a6dcf4d3458"
+  },
+  "42f54109d4b8": {
+    "id": "42f54109d4b8",
+    "title": "Engineering Intern – Gen AI for FP&A Platform",
+    "title_raw": "Engineering Intern – Gen AI for FP&A Platform",
+    "company": {
+      "slug": "drivetrain",
+      "name": "Drivetrain",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "drivetrain",
+      "external_id": "7266784e-530b-4eb5-a61b-b09557f6e98d"
+    },
+    "apply_url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-06-08T16:32:03.876Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:26.861Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Drivetrain is on a mission to empower businesses to make better decisions. Our financial planning &amp; decision-making platform helps companies scale and achieve their targets predictably. <br />Drivetrain is a remote-first company headquartered in the San Francisco Bay Area. Founded in 2021 by a couple of ex-Googlers, Drivetrain is a fast-growing company on a trajectory for success with backing from leading venture capital firms.<br /><b>Drivetrain provides a great culture for its employees to thrive in and be happy. </b><br /><b>💜 Remote-friendly: </b>Drivetrain brings together the best and the brightest, no matter where they are and provides them a great degree of autonomy. We trust our people.<b>🗣️ Open &amp; transparent:</b>  We know that when our creators have access to all the information they need, their best work will emerge.<b>👏 Idea-friendly:</b>  We provide an environment to explore new ideas, to take risks, to make mistakes, and to learn, so you can succeed. Anyone in the company can come up with great ideas and become a catalyst for positive change. We let the best ideas win.<b>👥 Customer-centric:</b>  We follow a product-led growth strategy, continuously  learning from our customers and collaborating to build the amazing software that Drivetrain is.\nDrivetrain is on a mission to empower businesses to make better decisions. Our financial planning &amp; decision-making platform helps companies scale and achieve their targets predictably. <br />Drivetrain is a remote-first company headquartered in the San Francisco Bay Area. Founded in 2021 by a couple of ex-Googlers, Drivetrain is a fast-growing company on a trajectory for success with backing from leading venture capital firms.<br /><b>Drivetrain provides a great culture for its employees to thrive in and be happy. </b><br /><b>💜 Remote-friendly: </b>Drivetrain brings together the best and the brightest, no matter where they are and provides them a great degree of autonomy. We trust our people.<b>🗣️ Open &amp; transparent:</b>  We know that when our creators have access to all the information they need, their best work will emerge.<b>👏 Idea-friendly:</b>  We provide an environment to explore new ideas, to take risks, to make mistakes, and to learn, so you can succeed. Anyone in the company can come up with great ideas and become a catalyst for positive change. We let the best ideas win.<b>👥 Customer-centric:</b>  We follow a product-led growth strategy, continuously  learning from our customers and collaborating to build the amazing software that Drivetrain is.<br /><b>About the Role</b><br />We are seeking highly motivated Computer Science engineering interns passionate about Generative AI to join our team. You will work on real-world projects involving Retrieval-Augmented Generation (RAG), Agentic AI, and Large Language Models (LLMs) to enhance our FP&amp;A (Financial Planning &amp; Analysis) platform. This is a unique opportunity to gain hands-on experience at the intersection of AI and enterprise automation.<br /><b>Key Responsibilities</b><br />Develop &amp; Experiment: Build and prototype Gen AI solutions using RAG, agentic workflows, and LLMs for FP&amp;A use cases.Collaborate: Work closely with product and engineering teams to integrate AI-driven features into the platform.Optimize: Apply strong computer science fundamentals to design efficient algorithms, data structures, and scalable systems.Document &amp; Present: Clearly document your work, build workflow diagrams, and present results to the team.Showcase: Complete and demonstrate end-to-end projects that highlight your technical and problem-solving skills.<br /><b>Qualifications</b><br />Academic Background: Currently pursuing or recently completed a degree in Computer Science or a related field.Technical Skills: Strong understanding of DSA (Data Structures &amp; Algorithms), system design, and problem-solving.AI/ML Exposure: Familiarity with concepts such as RAG, Agentic AI, and LLMs. Completion of relevant projects is preferred.Practical Experience: Demonstrated ability to build and showcase end-to-end projects in AI/ML or related fields.Communication: Excellent verbal and written communication skills.<br /><b>Preferred</b><br />Project Portfolio: Evidence of completed projects involving Gen AI, RAG, or agentic workflows.Hands-on Skills: Experience with modern AI frameworks, cloud platforms, and API integration.<br /><b>Why </b><b>Drivetrain.ai</b><b>?</b><br />Real-World Impact: Work on cutting-edge Gen AI projects for enterprise automation.Mentorship: Learn from industry experts and collaborate with a passionate team.Flexibility: Remote or hybrid options available to suit your schedule.<br /><b>Apply now and help shape the future of intelligent FP&amp;A!</b><br /><i><b>Candidates with a strong project portfolio and solid computer science fundamentals are encouraged to apply.</b></i>\n<b>Sounds exciting? Apply at </b><b>careers@drivetrain.ai</b><b>. It may just be the next best decision you’ve ever made!</b>",
+    "content_hash": "865ec262532aac09fa83fa6718fbed03"
+  }
+}

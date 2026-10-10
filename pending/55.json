@@ -1,0 +1,87 @@
+{
+  "55543a2e8522": {
+    "id": "55543a2e8522",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, California",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "e0396110-39ea-44bb-9b3e-44621c9874be"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/e0396110-39ea-44bb-9b3e-44621c9874be/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T01:33:20.260Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 28,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>Sick Time: </strong>While interns are not eligible for our full benefits package, sick time is accrued at a rate of 1 hour for every 30 hours worked.\n \n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "e4f8c842be4be362b8e3d1e641f4af4c"
+  },
+  "556a8c012cb1": {
+    "id": "556a8c012cb1",
+    "title": "Mechanical / Thermal Intern",
+    "title_raw": "Mechanical / Thermal Intern",
+    "company": {
+      "slug": "etched",
+      "name": "Etched",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "etched",
+      "external_id": "f05e3218-5ec7-41d1-bc99-bb7014422229"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-07T01:28:30.536Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.146Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Etched</strong></p><p>Etched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on <strong>inference</strong>. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.</p><p></p><p><strong>Job Summary</strong></p><p>Our mechanical/thermal engineering interns will work within the mechanical and thermal engineering organization, with a strong focus on NPI prototyping, manufacturing fixture development, liquid cooling technologies and rack-level system development</p><p>Our Platform Team is building the full-stack system that supports Etched Silicon from PCB to Rack. We are seeking interns to work across all aspects of mechanical and electrical engineering to design the future of high power ASIC systems. We are looking for <strong>Summer '26, Fall '26, Spring '27, and Summer '27 </strong>interns.</p><p></p><p><strong>You may be a good fit if you have</strong></p><ul><li><p>Progress towards a Bachelor’s or Master’s in Mechanical Engineering, Computer Engineering, or related field</p></li><li><p>Experience  building real mechanical systems, boards, or other hands-on projects.</p></li><li><p>Knowledge of board design cycle, high-speed interconnects, power delivery, and system integration.</p></li></ul><p>We encourage you to apply even if you do not believe you meet every qualification.</p><p></p><p><strong>Program details:</strong></p><ul><li><p>12-week paid internship</p></li><li><p>Generous housing support for those relocating</p></li><li><p>Daily lunch and dinner in our office</p></li><li><p>Based at our office in San Jose, CA</p></li><li><p>Direct mentorship from industry leaders and world-class engineers</p></li><li><p>Opportunity to work on one of the most important problems of our time</p></li></ul><p><br />For any questions, contact internships@etched.com</p><p></p><p><strong>How We're Different</strong><br />Etched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.</p> <p>We are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.</p>",
+    "content_hash": "dd9149921daf344a893170c0e72518de"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "711d721aa781": {
+    "id": "711d721aa781",
+    "title": "Research Engineer (New Grad)",
+    "title_raw": "Research Engineer (New Grad)",
+    "company": {
+      "slug": "genmo",
+      "name": "Genmo",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco HQ",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "genmo",
+      "external_id": "9b5477f4-97af-4aaa-b855-910c982ce191"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T23:33:38.719Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.762Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We are Genmo, a research lab developing the world’s most sophisticated video world models to understand, simulate, and interact with the physical world. Our mission is to unlock the right brain of AGI. Join us in advancing physical intelligence and enabling robots to learn and act in a changing world.</p><h3><strong>About the Role</strong></h3><p>We're seeking an exceptional Software Engineer to join our research team in advancing the frontiers of visual generative AI. As a Research Engineer, you'll work alongside experienced researchers to develop and improve generative models while ensuring their safe and effective deployment.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Contribute to the development of novel machine learning techniques for visual generative modeling</p></li><li><p>Implement and experiment with various generative architectures (Diffusion Models, GANs, Transformers)</p></li><li><p>Help optimize model performance and scaling capabilities</p></li><li><p>Assist in ensuring safe and robust model deployment</p></li><li><p>Collaborate with cross-functional teams to integrate research innovations</p></li><li><p>Participate in research discussions and contribute to technical documentation</p><p></p></li></ul><h3><strong>Required Qualifications</strong></h3><ul><li><p>BS or MS in Computer Science, Machine Learning, or related field (recent graduates welcome)</p></li><li><p>2+ years of experience in Machine Learning</p></li><li><p>Strong foundation in machine learning, particularly generative models</p></li><li><p>Solid programming skills in Python and PyTorch/TensorFlow</p></li><li><p>Experience with deep learning frameworks and model training</p></li><li><p>Understanding of fundamental concepts in computer vision and generative AI</p></li><li><p>Project experience (academic or personal) with generative models</p></li><li><p>Clear communication skills and ability to work in a research team</p><p></p></li></ul><h3><strong>Preferred Qualifications</strong></h3><ul><li><p>Research projects or thesis work in generative AI</p></li><li><p>Experience with different types of generative models:</p><ul><li><p>Diffusion Models</p></li><li><p>GANs</p></li><li><p>Transformer architectures</p></li><li><p>Large Language Models</p></li></ul></li><li><p>Familiarity with distributed computing and GPU optimization</p></li><li><p>Contributions to open-source ML projects</p></li><li><p>Academic publications or workshop papers</p></li><li><p>Experience with ML infrastructure and deployment</p></li></ul><p></p><p>This position is <strong>onsite at our San Francisco office</strong> (4–5 days per week).</p><p>We are a <strong>fast-paced startup</strong>, and our team works very hard to build impactful products quickly. We’re looking for equally driven and hardworking individuals who thrive in an environment where learning is constant, challenges are exciting, and collaboration is key. </p><p>Genmo is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law. Genmo, Inc. is an E-Verify company and you may review the Notice of E-Verify Participation and the Right to Work posters in English and Spanish.</p>",
+    "content_hash": "76d095fe12d33f0a90d801d4fdc0bf81"
+  }
+}

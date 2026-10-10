@@ -1,0 +1,47 @@
+{
+  "71df0ee12903": {
+    "id": "71df0ee12903",
+    "title": "Embedded Firmware Engineering Intern",
+    "title_raw": "Embedded Firmware Engineering Intern",
+    "company": {
+      "slug": "reflect-orbital",
+      "name": "Reflect Orbital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reflect-orbital",
+      "external_id": "d5ade048-5555-4a77-b002-d117254b6e6b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T21:57:26.937Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.587Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 27,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.</p><p></p><h3>About the Role</h3><p>Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.</p><p>During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.</p><p>Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.</p><p></p><h3>Responsibilities</h3><ul><li><p>Own the design, development, analysis, manufacturing, and testing of novel spacecraft components.</p></li><li><p>Build complete tools and testing setups, with an emphasis on fully completing and shipping your work.</p></li><li><p>Prototype and iterate rapidly.</p></li></ul><p></p><h3>Ideal Qualifications</h3><ul><li><p>Experience in software development in languages like C, C++ and Python.</p></li><li><p>Strong troubleshooting and debugging skills, including hands-on experience using tools like DMMs, oscilloscopes, logic analyzers and power supplies.</p></li><li><p>Experience implementing device drivers and working with serial digital communication protocols such as SPI, I2C, UART, and Ethernet.</p></li><li><p>You're capable of working highly independently, but you know when to seek guidance.</p></li></ul><p></p><p>Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.</p><p>We are also interested in carving out unique roles for unconventional people that we are excited about working with.</p><p></p><h3><strong>Benefits</strong></h3><p>Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.</p><ul><li><p>Generous paid time off</p></li><li><p>Healthy lunches provided daily</p><p></p></li></ul><h3><strong>Equal Opportunity</strong></h3><p>Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><p></p><p><strong>More about Reflect Orbital:</strong></p><p>Learn more about our team here.</p>",
+    "content_hash": "1f9bf7e2357be134b7f023a7dcad089c"
+  }
+}

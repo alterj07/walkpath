@@ -1,0 +1,42 @@
+{
+  "c558e16c0bda": {
+    "id": "c558e16c0bda",
+    "title": "Supply Chain Tooling Engineer Intern",
+    "title_raw": "Supply Chain Tooling Engineer Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "7fce3b16-c132-453b-a836-a3bcbd21abd2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-13T22:59:38.659Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>Base is building a vertically-integrated residential energy company — hardware, software, and field operations all under one roof. As a Supply Chain Tooling &amp; Optimization Intern, you'll work directly with the teams standing up our internally built TMS, WMS, and MRP and scaling deployments across Texas. This is not a shadowing internship: you'll own real problems at the intersection of manufacturing, logistics, and software, building the tools and the intelligent layers on top of them that help us install batteries faster and more reliably.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p>Build internal tools, dashboards, and trackers that increase visibility across the supply chain.</p></li><li><p>Contribute to our internally built TMS, WMS, and MRP — wiring up data pipelines, integrations, and the models behind them.</p></li><li><p>Analyze operational data from ERP, supplier portals, and shipping systems to surface bottlenecks, blocked orders, and disruptions.</p></li><li><p>Prototype inventory and network optimization — multi-site / multi-warehouse stock optimization, warehouse slotting, and staffing/labor planning.</p></li><li><p>Build first-pass forecasting models for material demand (to feed MRP planning parameters) and for the reliability of supplier commitments — how likely a supplier is to actually hit committed dates and quantities.</p></li><li><p>Ship these <em>inside</em> the tools planners already use, not as notebooks on a shelf — and reach for the simplest method that works.</p></li><li><p>Partner directly with planners, buyers, and ops managers to scope small MVPs, deploy frequently, and iterate on real feedback.<br /></p></li></ul><h3><strong>What You’ll Bring</strong></h3><ul><li><p>Currently pursuing a degree in Computer Science, Industrial/Systems Engineering, Operations Research, Supply Chain, Data Science, or similar.</p></li><li><p>Comfort writing Python and SQL, and a genuine interest in building tools — not just analyzing data.</p></li><li><p>Some exposure to at least one of: optimization / operations research or basic ML / anomaly detection (coursework, projects, or prior internships all count).</p></li><li><p>Familiarity with data analysis and dashboarding; bonus for experience with pipelines, APIs, or ERP systems.</p></li><li><p>Strong written and verbal communication — able to translate between technical and non-technical stakeholders.</p></li><li><p>Builder mindset — enjoys ambiguity, takes ownership, and is excited to make things <em>work better</em>, not just measure them.</p></li><li><p>Experience in a tech-enabled operations environment is a plus— energy, logistics, or manufacturing.</p></li></ul><p></p><h3><strong>About the Team</strong></h3><p>Our Supply Chain team tackles the challenge of sourcing battery cells, assembling high-capacity packs, and forging vendor partnerships to produce and deliver the industry's lowest-cost, highest-quality home battery systems at unprecedented scale.</p><p>By optimizing landed costs through strategic global sourcing, domestic manufacturing ramp-up, and durable supplier relationships, your work directly powers Base Power's mission of advancing human prosperity through energy abundance - delivering reliable whole-home backup and below-market electricity rates to tens of thousands of households.</p><p>These efforts drive uniquely massive impact by fueling one of America's fastest-growing distributed virtual power plants, already exceeding 200 MWh deployed and aggregating flexible storage to bolster the grid against surging demands from AI, electrification, and extreme weather. Exceptional candidates will seize the chance to build the supply foundation for a company raising billions to manufacture in-house and expand nationally, achieving grid-scale resilience at speeds and costs no traditional player can replicate.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "cf93a50a9e3c53d65da6d2a42326648f"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "f4508defe352": {
+    "id": "f4508defe352",
+    "title": "Software Engineering Intern (Winter/Spring)",
+    "title_raw": "Software Engineering Intern (Winter/Spring)",
+    "company": {
+      "slug": "constellation-space",
+      "name": "Constellation Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Seattle",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "constellationspace",
+      "external_id": "b763d4ba-7b77-479b-89a0-f632d9d02f4a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-24T21:19:55.457Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.782Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 6000,
+      "max": 7000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>The Role</strong></h3><p>We are looking for a Software Engineering Intern to work on the ConstellationOS platform. You will own a real project, from design to deployed code, in areas like backend services, simulation, machine learning, or developer tools. Two terms are open: a winter internship starting in November 2026 and a spring internship starting in spring 2027.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Build and ship a scoped feature or tool on the platform.</p></li><li><p>Write tested, reviewed code and document it.</p></li><li><p>Help with data pipelines or simulation environments.</p></li><li><p>Present your work to the team at the end of the term.</p></li></ul><h3><strong>Requirements</strong></h3><ul><li><p>Currently pursuing a B.S. or M.S. in Computer Science, Engineering, or a related field.</p></li><li><p>Strong programming skills in Python, Go, C++, or similar.</p></li><li><p>Coursework or projects in systems, networking, or machine learning is a plus.</p></li><li><p>Able to work on-site in Seattle for the full term (winter: starts November 2026; spring: starts spring 2027).</p></li><li><p>U.S. person required (ITAR).</p></li></ul>",
+    "content_hash": "6c05be5868463ebcbbe64ce1ee4fa2eb"
+  },
+  "f4b04411a34c": {
+    "id": "f4b04411a34c",
+    "title": "ML Research Engineer Intern/Graduate, NZ",
+    "title_raw": "ML Research Engineer Intern/Graduate, NZ",
+    "company": {
+      "slug": "partly",
+      "name": "Partly",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Christchurch",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "partly.com",
+      "external_id": "49cc37df-a604-4c7e-910b-e4e9bcf35e46"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/partly.com/49cc37df-a604-4c7e-910b-e4e9bcf35e46/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-25T22:20:21.851Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.411Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em><strong>Note:</strong> Partly is headquartered in Austin, TX with offices in London, UK, Christchurch, NZ and Auckland, NZ. Wherever you're based, we'll connect you with your nearest office for onboarding, and fly you to join the full team for our quarterly \"Season Openers\" (we cover travel and accommodation). If you're relocating to join us, we can also assist with relocation costs.</em></p><h3><br />🚀 Our Story</h3><p>Partly is building the infrastructure for anyone to repair anything. We believe everything built should be repairable, and we're building frontier AI to put repair knowledge to work, starting with the $2tn automotive market.</p><p>Our model, Interpreter, is the first AI purpose-built to understand repair. Trained on 1M+ car models and 1B+ parts, it reads a repair job the way an estimator does, resolves damage into the exact purchasable part, and shows its reasoning with a confidence score. On real production jobs, an estimator working with Interpreter reaches 98.8% parts-list accuracy, against 92.1% with today's tools. It powers PartlyRepair, used by collision shops, workshops and suppliers to take the admin off the job; PartlyLabs, the agentic infrastructure enterprises use to deploy Interpreter across their own workflows; and a developer API.</p><p>Founded by ex-Rocket Lab engineers, we've raised a $50m Series B led by DST Global (Anthropic, Airbnb, Meta, TikTok, Spotify), with Blackbird Ventures, WNDR, Activant Capital, Icehouse Ventures, Square Peg, Airtree and Ecliptic Venture Capital. Hear it from the team: Why Partly exists and AI at Partly.</p><h3>🖍️ This role</h3><p>As an <strong>Intern ML Research Engineer</strong>, you'll work alongside our Applied ML team to help build and ship machine-learning and algorithmic solutions to real problems in the vehicle and parts domain. You'll be paired with experienced engineers who will mentor you as you take messy, real-world inputs (noisy data, edge cases, shifting constraints) and help turn them into measurable outcomes.</p><p>This is a hands-on internship for someone early in their journey who wants to learn by doing. You'll contribute to genuine product work, including our efforts to build a <strong>foundational model</strong> for the vehicle and parts problem space, and you'll be judged by what you help ship: strong baselines, sound evaluation, and improvements that compound over time. Expect to learn fast, ask good questions, and see your work make it into production.<br /></p><h3>💻 What will you do</h3><p><strong>Contribute to Applied ML solutions.</strong> Work on a scoped piece of a real problem area, from framing through to experimentation and, where ready, production rollout, with guidance from your mentor.</p><p><strong>Help build evaluation that makes progress clear.</strong> Assist in creating gold datasets and metrics that reflect real-world performance, so we can tell what's actually working.</p><p><strong>Learn to blend ML and algorithms pragmatically.</strong> Get hands-on with modelling, ranking, classification, retrieval, and heuristic methods, and start developing judgement on when each is the right tool.</p><p><strong>Build with production in mind.</strong> Learn how latency, scale, failure modes, and reliability shape what we ship, not just how a model performs in a notebook.</p><p><strong>Work across the team.</strong> Partner with product and engineering so your work connects to real outcomes, and pick up how a high-velocity team operates.</p><p><strong>Raise the bar on the basics.</strong> Reproducible experiments, clear notes, and thoughtful questions that keep work easy to build on.</p><p><em>Want to learn more about the problems we're solving and the culture we're building at Partly? Hear directly from our team here:</em> <em>https://shorturl.at/iAFUX</em><br /></p><h3>🥷 Your skills</h3><p><strong>Strong fundamentals.</strong> You're studying or have recently studied computer science, machine learning, mathematics, engineering, or a related field, and you have solid grounding in algorithms and data structures.</p><p><strong>Some practical experience.</strong> Through coursework, personal projects, research, or prior internships, you've built things with ML or code and can talk through what you did and why.</p><p><strong>Curiosity and an evaluation instinct.</strong> You like to understand whether something is actually better, not just whether it runs, and you're keen to learn how to measure that properly.</p><p><strong>Engineering-minded.</strong> You write reasonably clean code, are comfortable picking up new tools, and care about getting things to actually work.</p><p><strong>Clear communicator.</strong> You can explain your thinking, ask for help when you need it, and take feedback well in a collaborative, low-bureaucracy environment.</p><p><strong>Bias for learning.</strong> You want to be stretched, you take ownership of your growth, and you're excited to work on hard, real-world problems rather than tidy textbook ones.</p><p>(Bonus) Exposure to search, ranking, retrieval, graph-based approaches, LLMs, or working with messy real-world data.</p><p></p><p><em>Please note: if you don't have all the skills or experience listed above but believe you could be outstanding in this role, please still consider applying. Many people count themselves out. We'd love the chance to learn more about you and why you're exceptional.</em></p><p></p><h3>🎡 Benefits</h3><ul><li><p><strong>Healthy, Catered Lunches</strong> - Enjoy fresh, healthy lunches every workday in our Auckland, Christchurch, London, and Austin offices. With no meal prep needed, you can eat, connect, and refuel with your team. (And yes, snacks and drinks are always on hand.)</p></li><li><p><strong>Healthy Body, Healthy Mind</strong> - We care about performing at our peak. Every team member gets a $1,500 annual wellness allowance (or local equivalent) on a Partly-branded card. Use it on things such as gym memberships, rock climbing, physical therapy, massage, doctor visits, prescriptions—anything that you or your family need!</p></li><li><p><strong>Family Comes First</strong> - Primary caregivers receive 3 months of fully paid parental leave, plus a flexible return-to-work plan (four days a week at full pay for your first three months back).</p></li><li><p><strong>Getting Here Is On Us</strong> - If you commute to a Partly office or coworking space, choose from a paid 24/7 parking spot or a commuting allowance. One less thing to think about!</p></li><li><p><strong>Workspaces That Inspire</strong> - Our brand-new, architecturally designed offices are built for collaboration and creativity, with great coffee, social spaces, and some of the best cafes just a few steps away.</p></li><li><p><strong>Office-First with Flexibility</strong> - In cities where we have an office (Christchurch, Auckland, London, and Austin), we default to working from the office every day. This lets us move faster, make better decisions, and build strong relationships. We also operate with a high-trust environment, so you can manage your time around your life and flex your schedule to do your best work.</p></li><li><p><strong>We Celebrate Together</strong> - From weekly happy hours and monthly lunches to quarterly season openers and an annual global offsite, we make time to connect, celebrate, and have fun as one team.</p></li></ul>",
+    "content_hash": "0709a09fde69a9bbcf610741bd19c5c4"
+  }
+}

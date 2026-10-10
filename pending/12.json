@@ -1,0 +1,127 @@
+{
+  "121be11dbef5": {
+    "id": "121be11dbef5",
+    "title": "2027 Internship Product Intern",
+    "title_raw": "2027 Internship Product Intern",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "e199e72a-0361-40dc-8fd3-e02e534af85a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T15:36:01.783Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>Bedrock's Product team decides what our autonomous machines should learn to do next. We also make sure the people who work alongside them get real value from them: operators, site managers and the construction companies we partner with. Our problems rarely arrive as specs. Which task or machine type is worth taking on next? How do you turn \"digs like an expert\" into a number you can measure? What does a partner need to see before trusting a 40-ton machine on their site?</p><p></p><p>As our Product intern, you'll get a problem like that, not a task list, and own it for the summer. You'll frame it, work out the answer, build what's needed, and bring the team a recommendation they can act on. You'll work the way our team does: with AI tools in hand, going from question to working prototype in days, not weeks.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Own an open product problem end to end: frame it, find the data and the people who know, decide what to build, and ship it before the summer ends</p></li><li><p>Turn fleet data from real jobsites into decisions: how well our machines perform, where they struggle, and what that means for what we build next</p></li><li><p>Prototype with AI coding tools and agents: internal tools, data pipelines, automated workflows, and working demos that make an idea concrete instead of slides about it</p></li><li><p>Spend time at our field sites with operators and site teams, and turn what you see into requirements engineers can build against</p></li><li><p>Work across autonomy, evaluation, operations and commercial teams to pressure-test ideas and unblock yourself</p></li><li><p>Write up your findings and present a clear recommendation to leadership: what you found, what you built, and what we should do next</p></li></ul><h3><strong>What We're Looking For</strong></h3><h3><strong>Required</strong></h3><ul><li><p>Currently pursuing a BS or MS in computer science, engineering, math, economics or another technical or quantitative field, or bringing equivalent experience building things</p></li><li><p>A track record of agency: you've taken on a problem nobody assigned you (a project, a tool, a company, a research question) and carried it to a real result</p></li><li><p>AI-native: you use tools like Claude Code, Cursor or Codex every day to build, analyze and write, and you know how to check their output and when not to trust it</p></li><li><p>Hands-on with data: Python or SQL, plus comfort reading code and following a technical discussion with engineers</p></li><li><p>Clear, concise writing: you can turn a messy problem into a one-page recommendation someone can act on</p></li><li><p>Willingness to spend time at our field sites, in PPE, around heavy equipment</p></li></ul><h3><strong>Preferred</strong></h3><ul><li><p>Something you built that real people use: an app, an internal tool, an open-source project, a startup</p></li><li><p>Prior product, engineering or founding-team experience at a startup</p></li><li><p>Experience with robotics, autonomy, ML or data-heavy products</p></li><li><p>Interest in construction or other physical-world industries; no prior experience needed</p></li></ul><p></p><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "55c5128ffb64969faba8223bab872b96"
+  },
+  "128e89824b6a": {
+    "id": "128e89824b6a",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Tacoma, Washington",
+      "city": "Tacoma",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "168cd6f1-04c3-403e-a737-bb33eceeaf46"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/168cd6f1-04c3-403e-a737-bb33eceeaf46/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T21:12:15.736Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 24,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>Sick Time: </strong>While interns are not eligible for our full benefits package, sick time is accrued at a rate of 1 hour for every 30 hours worked.\n \n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "abcb6a1d12b6bd711a54115bfa2749c1"
+  },
+  "12b4dd098cf1": {
+    "id": "12b4dd098cf1",
+    "title": "Software Engineer (New Grad)",
+    "title_raw": "Software Engineer (New Grad)",
+    "company": {
+      "slug": "dream-games",
+      "name": "Dream Games",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Istanbul",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "dreamgames",
+      "external_id": "0714caf0-4077-44f3-a1d4-8985b9baf1bc"
+    },
+    "apply_url": "https://jobs.lever.co/dreamgames/0714caf0-4077-44f3-a1d4-8985b9baf1bc/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2022-03-14T19:05:03.646Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:23.337Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "We are looking for a passionate new grad to join our team as a Software Engineer. This is an exciting opportunity to contribute to all areas of game development, including programming graphics, game logic, and user interface using Unity. It is not required to have prior game development experience since we believe a competent software engineer can develop great things in any field. You will work effectively as part of a multi-disciplinary team of engineers, artists, and game designers to create games that will be played by millions of people all around the world.\n \nAt Dream Games, all team members have a genuine chance to contribute to the final product and have an impact on the company. If you want to be a team member of a fast-growing company, you might be the person we are looking for!\n<h3>Responsibilities</h3>\nDesigning, implementing, and testing game features \nDelivering well-structured code and participating in code-review sessions \nCreating flexible code that can be easily updated as the product evolves \nContributing to the improvement of user experience in the games \n\n<h3>Requirements</h3>\nFresh graduate from the field of Computer Science, Computer Engineering, or Software Engineering \nKnowledge of Object-Oriented Programming \nInterest in Unity and C# \nPassion and interest in games \nAppreciation and understanding of teamwork \n\n<h3>Compensation &amp; Benefits</h3>\nMonthly net salary is 300.000 TL \nHealth, dental, and vision insurance with %100 coverage \nRelocation support as needed \n\n \nProtecting your privacy and the security of your data is a top priority for Dream Games. We collect and process your personal data as confidential as part of the recruitment process. Please read our Statement of Personal Data Protection Law and Consent Letter to know more details.",
+    "content_hash": "298d1743c42a5524776cb8d43d8f264c"
+  }
+}

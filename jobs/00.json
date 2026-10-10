@@ -1,0 +1,181 @@
+{
+  "00591f030775": {
+    "id": "00591f030775",
+    "title": "Software Engineer - Intern",
+    "title_raw": "Software Engineer - Intern",
+    "company": {
+      "slug": "kastle",
+      "name": "Kastle",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "kastle",
+      "external_id": "6f32db51-de45-472f-a9c8-d9419d3634ee"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-07T01:31:31.243Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.321Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Kastle</strong></h3><p></p><p>Kastle is building the AI employee for consumer lending. We work with some of America's largest banks and mortgage lenders, helping them scale their contact center and compliance operations using autonomous AI Agents that process payments, originate loans, and help customers get a world class experience during the biggest financial decisions of their lives. <strong>We've processed over $1 billion in transactions</strong> and are backed by Y Combinator and Commerce Ventures. If you are interested in building AI that is applied in the real world where precision, reliability, and performance matter and redefine access to credit across the world, apply below.</p><p></p><h3><strong>About the Role</strong></h3><p>We're looking for a Software Engineer Intern who is excited to build products that are used by millions of users every month. As an intern, you won't spend your summer fixing minor bugs or working on isolated projects—you'll work alongside experienced engineers to design, build, and ship production software and AI Agents that is deployed at some of the world’s largest banks.</p><p>You'll join a small, fast-moving team where you'll have real ownership, receive frequent feedback, and learn how software is built from idea to deployment.</p><p>If you're curious, enjoy solving difficult problems, and want to grow as an engineer by building meaningful products, we'd love to meet you.</p><h3><strong>What You'll Do</strong></h3><ul><li><p>Ship agent capabilities that run in production at national banks and servicers</p></li><li><p>Contribute to evals and QA harnesses that catch failure modes and makes reliable AI scale in production</p></li><li><p>Work with the latest voice and language models — latency, interruption handling, grounding, tool use — and integrate them into enterprise environments</p></li><li><p>Sit in on real customer calls and learn directly from executives and how AI gets deployed in the real world</p></li><li><p>Contribute to technical documentation and internal tooling.</p></li></ul><p></p><h3><strong>What We're Looking For</strong></h3><ul><li><p>Currently pursuing or recently completed a Bachelor's / Master's / Bootcamp degree in Computer Science, Software Engineering, or a related field.</p></li><li><p>Strong programming fundamentals in at least one language such as Python, Java, Go, JavaScript, TypeScript, or C++.</p></li><li><p>Experience building personal projects, coursework, hackathon projects, or previous internships.</p></li><li><p>Familiarity with web development, APIs, databases, or cloud platforms is a plus.</p></li><li><p>Strong problem-solving skills and attention to detail.</p></li><li><p>Comfortable working in a collaborative, fast-paced environment.</p></li><li><p>Eager to learn, ask questions, and continuously improve.</p></li></ul><h3><strong>Bonus Points</strong></h3><ul><li><p>Experience building agents that operate in realtime settings</p></li><li><p>Interest in consumer lending, banking, or financial services</p></li></ul><h3><strong>What You'll Gain</strong></h3><ul><li><p>A rare opportunity to contribute to a company that will redefine an entire industry</p></li><li><p>Hands-on experience building software used by real customers.</p></li><li><p>Mentorship from experienced engineers.</p></li><li><p>Exposure to the full software development lifecycle—from planning to production.</p></li><li><p>Opportunities to own meaningful projects and present your work.</p></li><li><p>A collaborative team environment focused on learning, growth, and impact.</p></li></ul>",
+    "content_hash": "b3bee253bb8a573578775399d3b5c2ee"
+  },
+  "005ae9660f94": {
+    "id": "005ae9660f94",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "title_raw": "Software Engineer Intern (Winter 2027)",
+    "company": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York, New York"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "notion",
+      "external_id": "e66c6658-9e65-4c58-8db2-844628b6e8f8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T19:05:18.297Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.087Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 57,
+      "max": 57,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3>Who We Are</h3><p>Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p></p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><p></p><p><strong>This internship will take place from January 25 - April 16 and you will need to be able to work out of our NY or SF office during this time.</strong></p><p></p><h3>What You'll Achieve:</h3><ul><li><p>Write clean, secure, tested, and documented code.</p></li><li><p>Design &amp; enhance the Notion product with new capabilities with an AI first mindset</p></li><li><p>Develop, fix and debug software for across our full stack: web services, databases, applications, tools while leveraging modern frameworks and tooling.</p></li></ul><p></p><h3>Qualifications:</h3><ul><li><p>Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must graduate before <strong>December 2027.</strong></p></li><li><p>This internship will take place from <strong>January 25 - April 16</strong> and you will need to be able to work out of our NY or SF office during this time.</p></li><li><p>Previous internship experience.</p></li><li><p>Working towards a proficiency of one or more programming languages such as Typescript, Node.js, or Python.</p></li><li><p>You find large challenges exciting and enjoy discovering problems as much as solving them.</p></li><li><p>You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment.</p></li></ul><p></p><h3>Skills You’ll Need To Bring:</h3><ul><li><p><strong>Thoughtful problem-solving:</strong> For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.</p></li><li><p><strong>Put users first:</strong> You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.</p></li><li><p><strong>Not ideological about technology:</strong> To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go.</p></li><li><p><strong>Empathetic communication:</strong> You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.</p></li><li><p><strong>Team player:</strong> For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</p></li><li><p><strong>AI enthusiast:</strong> You have built or prototyped features with AI technologies (LLMs, Embeddings, ML) and are interested in learning more</p></li></ul><p></p><h3>Nice to Haves:</h3><ul><li><p>You have expertise with specific technologies that are part of our stack, including Typescript, React, Python.</p></li><li><p>You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.</p></li><li><p>You have interests outside of technology, such as in art, history, or social sciences.</p><p></p></li></ul><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated hourly range for this role is $57/hr for Bachelors and $61/hr for Master’s.<br /></p><p>#LI-Onsite</p><p></p><h3>A Note on AI</h3><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><p></p><h3>Equal Opportunity &amp; Accommodations</h3><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p></p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p>",
+    "content_hash": "2edeb540658c5a894ba69328faa378cc"
+  },
+  "00e74570f405": {
+    "id": "00e74570f405",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "title_raw": "Software Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "quadrillion-labs",
+      "name": "Quadrillion Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "quadrillion-labs",
+      "external_id": "a4acc44c-31ce-41a0-ab44-2500487b4d05"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T03:24:43.068Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.010Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 4000,
+      "max": 6000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About us</strong></p><p>Quadrillion is a startup building Qualia, an agentic research platform (think Jupyter or VS Code, but with AI agents that do the actual research). Our users are ML researchers, quants, and data scientists who use Qualia to run an entire research project from a single prompt. </p><p>We're a 12-person team in NYC, backed by $18.3M from Conviction, Audacious, Bloomberg Beta, ex/ante, and Wes McKinney (creator of pandas). We have one of the strongest NYC AI teams, with backgrounds from HRT, Google Research, Citadel, and Jane Street.</p><p><strong>The role</strong></p><p>Your role will be the same as any Quadrillion full-time engineer's: shipping real product changes, fixing customer bugs, and building new features. </p><p>We're hiring interns for a couple of our groups:</p><ul><li><p><strong>Agent Engineering </strong>builds the core infrastructure that our agents run on: orchestrating agent loops, building the sandboxed environments where agents run experiments against real data, designing the APIs and tooling researchers touch, and scaling the infrastructure that keeps it fast and reliable.</p></li><li><p><strong>Product</strong> builds an incredibly strong UI for agents to run in and for humans to interact with, both as a Mac/Windows app and on the cloud.</p></li></ul><p><strong>What you'll do</strong></p><ul><li><p>Build effective systems for agent orchestration. You'll engineer the core system that drives Qualia, improving its ability to reason over long horizons, run parallel experiments, and manage its knowledge.</p></li><li><p>Scale environments for agent experiments and training. Help us build the sandboxed compute where agents run complex, high-performance experiments, and scale it to tens of thousands of concurrent deployments.</p></li><li><p>Expand what agents can do and where they run. Build and deploy the tools and integrations that connect Qualia to customers' data sources and external systems.</p></li></ul><p><strong>Required qualifications</strong></p><ul><li><p>Strong full-stack or backend engineering experience, especially with Python</p></li><li><p>Comfort working in unfamiliar codebases</p></li><li><p>Ability to move quickly in a zero-to-one environment</p></li></ul><p><strong>Who we're hiring</strong></p><p>We're hiring a strong intern with significant engineering chops in either Python or React. We prefer sophomores and juniors but are open to frosh. You must be a current undergraduate at a US or Canadian university.</p><p><strong>About this role</strong></p><p>We work in-person 5 days a week out of our office in Midtown Manhattan. We cover generous benefits for employees, including medical, dental, and vision insurance, lunch and dinner covered, and other varied stipends.</p><p>We pride ourselves on a company culture that values a diversity of thoughts and opinions.</p><p></p><p><strong>About Quadrillion</strong></p><p>Quadrillion Labs builds Qualia, an agentic research intelligence platform that does real computational research — running experiments, analyzing data, and surfacing insight for the people who do this work at the highest level.</p><p>We're a team out of Stanford NLP, HRT, Citadel, Jane Street, Google Research, and Harvard Med, building for an audience that looks a lot like us. We've raised ~$18M from Conviction, Audacious, Bloomberg Beta, ex/ante, and angels including Wes McKinney, the creator of pandas. We're ~10 people in NYC, scaling to ~15 in the coming months.</p><p>We think this is the Industrial Revolution moment for research, and we're building the team to define what comes next.</p><p></p><p><strong>Equal Employment Opportunity</strong></p><p>Quadrillion Labs is an equal opportunity employer. We make hiring and employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by federal, state, or local law. We are committed to building a team where talented people can do their best work.</p><p>If you need a reasonable accommodation during the application or interview process, let us know at careers@quadrillion.io.</p>",
+    "content_hash": "33864ee061e71bc8362f583f121dbaf4"
+  },
+  "00e75dbb7c62": {
+    "id": "00e75dbb7c62",
+    "title": "Blockchain Security Expert Intern - AI Track",
+    "title_raw": "Blockchain Security Expert Intern - AI Track",
+    "company": {
+      "slug": "certik",
+      "name": "CertiK",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, New York / Remote",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "certik",
+      "external_id": "1f446b66-1fae-4c31-9352-cde86e254754"
+    },
+    "apply_url": "https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-03-13T18:09:55.037Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:48:32.870Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 6000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>About the Company</b>Founded in 2018 by professors of Yale University and Columbia University, CertiK is a pioneer in blockchain security, utilizing best-in-class AI technology to secure and monitor blockchain protocols and smart contracts. CertiK’s mission is to secure the cyber world. Starting with blockchain, CertiK applies cutting-edge innovations from academia into enterprise, enabling mission-critical applications to be built with security and correctness. CertiK is one of the fastest growing and most trusted companies in blockchain security and has become a true market leader. Our clients include leading projects such as Aave, Polygon, Binance Smart Chain, Yearn, and Chiliz. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance.<br /><b>About the Position</b>The primary focus of this role is to pioneer the development of an intelligent AI agent powered by large language models (LLMs) to enhance our security audit tools in the blockchain space. As a Blockchain Security Expert intern, you will work closely with our blockchain security team to bridge cutting-edge academic research with practical applications. Your efforts will be dedicated to designing, fine-tuning, and integrating LLM-driven AI agents that automatically analyze smart contracts and identify potential vulnerabilities. In this role, you'll be immersed in research and experimentation, exploring new methods to improve threat detection and risk assessment within our security audit platform, thereby directly contributing to more secure blockchain infrastructures.<br />\n<h3>Responsibilities</h3>Collaborate with our blockchain security team to design and implement a large language model (LLM)-based AI agent for security audit tools. Experiment with novel AI techniques to enhance threat detection and risk assessment in blockchain environments. Assist in transforming cutting-edge research on AI agents into practical, scalable security auditing solutions. Continuously research emerging trends in LLMs, AI agent architectures, and cybersecurity, and proactively propose improvements. \n<h3>Requirements</h3>Currently pursuing or recently completed a PhD in Artificial Intelligence, Computer Science, or a related field, with a strong emphasis on machine learning, natural language processing, and/or cybersecurity. Deep understanding of LLM architectures (e.g., transformers) and hands-on experience in training or fine-tuning such models. Proficiency in Python and experience with deep learning frameworks (e.g., PyTorch or TensorFlow). Basic familiarity with blockchain technology and smart contract development is a plus. Excellent analytical skills, problem-solving capabilities, and the ability to thrive in a fast-paced, innovative startup environment. Strong written and verbal communication skills in English. \n<h3>Bonus Points</h3>Prior research or project experience in developing AI agents or automated security analysis tools. Exposure to security audit methodologies and vulnerability assessment, particularly in blockchain or smart contract environments. Familiarity with blockchain programming languages (e.g., Solidity) and platforms (e.g., Ethereum). Publications or contributions to leading conferences/journals in AI, NLP, or cybersecurity. Demonstrated ability to translate research insights into effective, production-ready tools. \nTarget monthly salary for this role performed is $6,000 - $8,000 if based in the US. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates.<br />CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company.",
+    "content_hash": "c44b4346042c1a0d71a2ff3eca7c114e"
+  }
+}

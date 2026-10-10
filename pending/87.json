@@ -1,0 +1,42 @@
+{
+  "87f37a720d47": {
+    "id": "87f37a720d47",
+    "title": "Research Intern",
+    "title_raw": "Research Intern",
+    "company": {
+      "slug": "neocognition",
+      "name": "NeoCognition",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "neocognition",
+      "external_id": "f6b58e72-94eb-4090-a84e-d96197ffeb76"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-01T18:56:04.706Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.489Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the Role</h3><p>As a <strong>Research Intern</strong> at <strong>NeoCognition</strong>, you'll explore novel ideas and work on longer-term research bets that push the boundaries of <strong>LLM agents</strong>. This internship is designed for those who want to dive deep into open research problems — from reasoning and planning to multi-agent coordination and evaluation.</p><p>You'll have the freedom to pursue high-risk, high-reward directions that may not be tied to immediate product needs, but could shape the future of agentic AI systems. Your work will culminate in <strong>research prototypes</strong> and, ideally, <strong>publications</strong> that contribute to the broader AI research community.</p><p>You'll collaborate closely with our research scientists and engineers, receiving mentorship and feedback as you design experiments, build prototypes, and analyze results.</p><p></p><h3>Responsibilities</h3><ul><li><p>Explore novel research directions in areas such as <strong>LLM reasoning, planning, tool use, multi-agent systems,</strong> or <strong>evaluation methodologies</strong>.</p></li><li><p>Design and execute <strong>exploratory experiments</strong> to test new hypotheses and push the boundaries of what agentic systems can do.</p></li><li><p>Build <strong>research prototypes</strong> that demonstrate new capabilities or insights, even if they are not immediately production-ready.</p></li><li><p>Collaborate with the research team to <strong>document findings, analyze results, and iterate on ideas</strong>.</p></li><li><p>Work toward <strong>publishing research outcomes</strong> in top-tier AI venues (NeurIPS, ICLR, ICML, ACL, etc.) or contributing to open-source efforts.</p></li><li><p>Participate in team discussions, paper readings, and brainstorming sessions to shape the research roadmap.</p></li></ul><p></p><h3>Qualifications</h3><p></p><h3><strong>Required:</strong></h3><ul><li><p>Currently pursuing or recently completed a <strong>PhD, Master's, or advanced undergraduate degree</strong> in machine learning, computer science, or a related field.</p></li><li><p>Strong foundation in <strong>machine learning</strong> and <strong>natural language processing</strong>, with demonstrated interest in <strong>large language models</strong> or <strong>agentic AI systems</strong>.</p></li><li><p>Proficiency in <strong>Python</strong> and familiarity with modern ML frameworks (e.g., PyTorch, JAX, or TensorFlow).</p></li><li><p>Ability to <strong>design, implement, and analyze research experiments</strong> independently and collaboratively.</p></li><li><p>Strong written and verbal communication skills, with a passion for sharing ideas and learning from others.</p></li></ul><h3><strong>Nice to have:</strong></h3><ul><li><p>Prior research experience or publications in <strong>AI, NLP, or related areas</strong>.</p></li><li><p>Experience with <strong>open-weight models</strong>, <strong>fine-tuning</strong>, or <strong>reinforcement learning</strong>.</p></li><li><p>Familiarity with <strong>agent frameworks, tool-use systems,</strong> or <strong>evaluation benchmarks</strong>.</p></li><li><p>Interest in <strong>long-term research bets</strong> and comfort with ambiguity and exploration.</p></li></ul>",
+    "content_hash": "f72e13099d8f0d07571ad76778bcd868"
+  }
+}

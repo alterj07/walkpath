@@ -1,0 +1,47 @@
+{
+  "0ad80664c7dc": {
+    "id": "0ad80664c7dc",
+    "title": "Apprenticeship: Roofing Repair Technician",
+    "title_raw": "Apprenticeship: Roofing Repair Technician",
+    "company": {
+      "slug": "bone-dry-roofing",
+      "name": "Bone Dry Roofing",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Indianapolis, Indiana",
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "bonedry",
+      "external_id": "e90b91ba-a9c0-4370-854f-78e7b5e59f87"
+    },
+    "apply_url": "https://jobs.lever.co/bonedry/e90b91ba-a9c0-4370-854f-78e7b5e59f87/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-17T16:46:56.962Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:47:03.485Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 17.5,
+      "max": 17.5,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Job Overview </h3>We are hiring this Fall. Come learn in a blend of classroom work, job shadowing, and independent work. \n \nAs an <strong>Apprentice Roofing Repair Technician</strong>, you will learn about:\n\nSafety  \nRoof Replacement  \nRoof Repairs \nVentilation \nInsulation \n\nAs a trusted leader in residential and commercial roofing, Bone Dry Roofing takes pride in delivering high-quality craftsmanship, exceptional customer service, and a team-first culture that sets us apart in the industry. In 2023, Bone Dry Roofing was named Roofing Contractor of the year and made the list of the Best Places to Work in Indiana by the Indiana Chambers of Commerce in 2024. We're not a franchise; we're a family-owned and operated business with 19 locations and 550+ employees. \n<h3>Duties and Responsibilities</h3>\n\nYour primary responsibility is to represent Bone Dry Roofing, Inc with the highest degree of professionalism, punctuality, and integrity while providing our customers with respect, honesty, and the highest level of customer service. \nComplete online trainings and modules as assigned \nParticipate in job shadowings  \nParticipate in station trainings onsite \nPerform trainings learned through stations and job shadowing \nOther duties and responsibilities as assigned \n\n\n<h3>Qualifications</h3>\n\nValid driver's license \nHigh School diploma \nPass a background check and Pre-employment Drug Screen \nMust be able to lift 50 lbs. \nMust be able to climb a ladder safely and work at elevated heights on roofs and inspect attics \n\n\n<h3>Compensation &amp; Benefits</h3>\n\nStart at $17.50/hour with incremental raises until graduation \nMedical, vision, and dental insurance available \nCompany paid life insurance \nCompany paid short term disability \n401(k) plan  \nPTO, Vacation, and Holidays paid \nCompany Truck, Fuel and Phone provided for work \n\n\n\n<p><em>By applying for this job, you agree that we can text you (message and data rates may apply).  </em><em>I consent to receive SMS/text messages regarding my job application with Bone Dry Roofing. These messages may include updates on my application status, interview invitations/reminders, other information directly related to this job application and job opportunities. Message frequency will vary. Message and data rates may apply. (You will have the option to Opt In/Reply Help for help or STOP to Opt Out).</em></p>\n<p>Privacy Policy</p>\n<p>Terms of Service</p>\n\n \n           \nBone Dry Roofing is an Equal Opportunity/Affirmative Action employer. It is our policy not to discriminate against any Associate or Applicant. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, pregnancy, childbirth or related medical conditions, national origin, sex, age, disability or handicap, genetic information, citizenship status, service member status, or any other characteristic protected by federal, state or local law. This policy of nondiscrimination in employment includes but is not limited to recruitment, hiring, placement, promotion, transfer, employment advertising or solicitations, compensation, layoff, or termination of employment. If you require assistance in the application process you are welcome to contact recruiting@bonedry.com, and a representative will be in touch.",
+    "content_hash": "365dca7becc1b6eb6e87885240b5d906"
+  }
+}

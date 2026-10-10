@@ -1,0 +1,47 @@
+{
+  "ec2626728ddb": {
+    "id": "ec2626728ddb",
+    "title": "Garage Door Technician Apprentice, Houston TX",
+    "title_raw": "Garage Door Technician Apprentice, Houston TX",
+    "company": {
+      "slug": "garage-door-doctor",
+      "name": "Garage Door Doctor",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Houston, TX",
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "garage-door-doctor",
+      "external_id": "e2ed95bd-55f9-48e3-861a-663043eff785"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/garage-door-doctor/e2ed95bd-55f9-48e3-861a-663043eff785/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T18:03:20.718Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.640Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>➡️Garage Door Doctor is an affiliate company of A1 Garage Door in Phoenix, Arizona. In Houston, TX we operate under the brand name Garage Door Doctor.</strong></p><p>This is hands-on mechanical work, hot garages and all, not a sales job with some lifting. You'll diagnose the problem, talk to the homeowner like the pro they trust, then fix it yourself.</p><p>We want someone who puts people first: down-to-earth, dependable, easy to talk to, plus a strong work ethic and the grit to do physical work daily. We'll teach you to sell.</p><p></p><h3>The Job</h3><p><strong>Physical work, every day:</strong> springs, cables, rollers, openers, motors. You repair and install it all. Lifting 75+ lbs., bending, kneeling, climbing ladders, working in 100°F garages and freezing ones. Hands-on from first job to last.</p><p><strong>Selling isn't optional, it's the job:</strong> no sale means no repair, no repair means no paycheck. This is commission-based, so every dollar you make starts with a homeowner trusting you enough to say yes. We'll teach you how to earn that yes. You bring the desire to close.</p><p></p><h3>What You Get</h3><ul><li><p>💰 Uncapped earnings, first-year techs typically hit $60K–$90K+</p></li><li><p>🚐 Company vehicle + gas card 🧰 all tools provided</p></li><li><p>🏥 Medical, dental, vision, 401k 🏖 PTO + weekly pay</p></li><li><p>🎓 6-week paid training (2 weeks local, 4 weeks Phoenix Academy, travel covered) + a one thousand dollar graduation bonus</p></li><li><p>📈 Real career path</p></li></ul><h3>Who Thrives Here</h3><ul><li><p>Likes working with hands, solving mechanical problems, no garage door experience needed</p></li><li><p>Puts people first: trustworthy, helpful, easy to talk to, no sales title required</p></li><li><p>Shows up prepared and does the work right, every time, raising the standard, not cutting corners</p></li><li><p>Follows through on what they commit to and earns trust through the finish line</p></li><li><p>Doesn't mind getting dirty, sweaty, or cold</p></li><li><p>Wants to build toward six figures over time, not a quick bump</p></li></ul><h3>Requirements</h3><ul><li><p>21+, valid license, 3+ years driving record</p></li><li><p>Can lift 75 lbs., bend, climb, kneel, work in extreme temps, regularly</p></li><li><p>Some hands-on mechanical experience or comfort with tools (home services, auto shops, hospitality, DIY projects, etc.)</p></li><li><p>Willingness to undergo a criminal background check, drug test (THC excluded) and driving record</p></li><li><p>Basic tech comfort (apps, tablets); reading/math for measurements and payments</p></li><li><p><strong>No sales experience required</strong>, we teach that</p></li></ul><h3>Before You Apply</h3><p>👉🏻<strong>This location operates with expanded service hours to support increased capacity and customer demand. Team members may be scheduled for shifts from 6AM to 4PM, 8:30AM-6:30PM or 11AM to 9PM, with assignments based on performance and seniority. The facility is open seven days a week, requiring flexibility in scheduling, including weekends.</strong></p><p></p><p><em>At A1, we put people first, raise the standard, and deliver on our promise, from the first call to every handshake. That starts with who we hire.</em></p><p></p><p>#INDGDD</p>",
+    "content_hash": "a34ae26e0c9575a84b73b89254f9673d"
+  }
+}

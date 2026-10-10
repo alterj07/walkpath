@@ -1,0 +1,215 @@
+{
+  "8b1e0f0c814f": {
+    "id": "8b1e0f0c814f",
+    "title": "Ad Monetization Engineering Internship",
+    "title_raw": "Ad Monetization Engineering Internship",
+    "company": {
+      "slug": "fanatee",
+      "name": "Fanatee",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid, SP",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fanatee",
+      "external_id": "63b25c3b-4755-45c8-abc9-c4d09672be01"
+    },
+    "apply_url": "https://jobs.lever.co/fanatee/63b25c3b-4755-45c8-abc9-c4d09672be01/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-22T14:01:19.687Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:19.854Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "We build mobile games played by hundreds of millions of people, and almost all of those players see ads. How those ads get priced, placed, integrated into the game, and balanced against the player experience is worth real money, and that's the problem you'll help us with.\nAs our Ad Monetization Engineering Intern, you'll work close to the revenue and close to the code. You'll get hands-on experience with our ad integrations and mediation stack, support the team in building operational automations, and learn how ads are served from the app's point of view. You'll work on real-world projects with guidance from the team, seeing the direct impact of your contributions.\n \n<strong>Main Responsibilities</strong>\n- Learn and assist with ad integrations: Get hands-on with how ads are integrated into our games, supporting the team with SDKs, mediation, and placements.\n- Help build operational automations: Assist in creating reporting scripts, basic alerts, and data pipeline tasks to streamline daily operations.\n- Explore serving logic: Support the team in reviewing app-side ad logic and contribute ideas or prototypes for optimization.\n- Analyze performance metrics: Learn to monitor monetization performance (eCPM, fill rate, show rate, ARPDAU) and turn data into useful insights with guidance from senior engineers.\n- Support A/B testing: Help run, monitor, and analyze A/B tests to validate new ideas.\n- Collaborate cross-functionally: Work alongside product, engineering, user acquisition, and data teams to understand how technical work supports business goal\n \n<strong>Requirements</strong>\n\n\n- Currently pursuing a Bachelor's in Engineering, Computer Science, or a related technical field.\n- Solid programming fundamentals. You can read unfamiliar code and write scripts that hold up; Python and SQL are the day-to-day here.\n- Genuinely comfortable with data. You can take a messy dataset and pull a real insight out of it.\n- Clear written and verbal communication in English. with an ability to explain technical ideas clearly. \n- Real curiosity about AI and a drive to use it in your daily work.\n- Analytical, detail-oriented, and reliable. You follow a number (or a bug) until it makes sense.\n \n <strong>Nice to have</strong>\n- Exposure to mobile development (iOS, Android, Unity) or ad SDK / mediation integrations.\n- Experience building automations, data pipelines, or internal tools.\n- Familiarity with BI/dashboard tools (Looker, Power BI, Tableau, etc.).\n- A natural interest in mobile games and how free-to-play titles generate revenue.\n \n\n\n\n<strong>What We Offer</strong>\n- Paid internship with competitive pay and flexible benefits.\n- Hybrid setup, casual environment and dress code.\n- Real ownership. Your work ships, and you'll watch it move the numbers.\n- A team that likes to mentor, and a kitchen stocked with snacks, fruit, and drink\n \n\nIf you want to share this ride with us and join a lightweight, fun and focused environment that breathes innovation and game culture, apply now!\n \n<strong>ABOUT FANATEE</strong><br />Fanatee is a mobile gaming startup founded in 2013 with one goal: let people play our games anytime, anywhere. We care a lot about quality, plan our creative work carefully, and turn good ideas into real businesses. Our games have passed 300M downloads worldwide. We get to do what we love most: work with talented, passionate people and give them room to chase big goals. If that sounds like your kind of place, lightweight, fun, focused, and built on game culture, apply.",
+    "content_hash": "dc670c8b8d615a46c75b9e1b0eb2a8ac"
+  },
+  "8b246defbdba": {
+    "id": "8b246defbdba",
+    "title": "Electromagnetics Engineering Intern (Spring)",
+    "title_raw": "Electromagnetics Engineering Intern (Spring)",
+    "company": {
+      "slug": "h3x-technologies",
+      "name": "H3X Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Louisville, Colorado",
+      "city": "Louisville",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "h3x-technologies",
+      "external_id": "930b8250-4c6d-4df0-a326-892fd594759a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/h3x-technologies/930b8250-4c6d-4df0-a326-892fd594759a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-18T19:03:24.005Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.372Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 23,
+      "max": 37,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About H3X Technologies</strong></p><p>H3X is building America's advanced electric motor company, powering next-generation platforms in aerospace, defense, and marine. Our integrated motor drives deliver 12+ kW/kg, roughly 3x the power density of competing solutions. We're now scaling to megawatt-class systems, with customers working on everything from supersonic aircraft to turbine power generation for AI datacenters.</p><p>Our team brings together engineers and operators from aerospace, defense, and motorsports, with deep expertise in electric machines, power electronics, material science, and advanced manufacturing. We're a small, fast-moving team doing hard engineering that matters, and we're looking for people who want to do the best work of their careers alongside us.</p><p></p><p><strong>About the role</strong></p><p>Our team at H3X is hiring an intern to work alongside our design engineering team on real hardware programs. This is a hands-on role: you will contribute directly to electromagnetic design, analysis, and the tooling that supports our characterization and optimization workflows. You will see your work flow from simulation through to physical test data. We are looking for a full time Spring Intern, but also have availability for Summer 2027 and extended Co-Op positions.</p><p></p><p><strong>What you will do:</strong></p><ul><li><p>Build and run finite element models to predict motor performance, including torque, losses, efficiency mapping, and thermal behavior</p></li><li><p>Perform electrical machine sizing and preliminary design trades to evaluate topology and geometry candidates against performance and packaging targets</p></li><li><p>Develop and maintain Python-based analysis and post-processing tooling for simulation exports and bench test data</p></li><li><p>Support multi-physics optimization studies spanning electromagnetic, thermal, and structural domains</p></li><li><p>Correlate simulation results against dynamometer and instrumentation data, and help close the loop between model and measurement</p></li><li><p>Document methods and results clearly so that the team can build on your work</p><p></p></li></ul><p><strong>What we are looking for:</strong></p><ul><li><p>Currently pursuing a BS, MS, or PhD in Electrical Engineering, Mechanical Engineering, or a related field</p></li><li><p>Coursework or project experience in electric machines and electromagnetics</p></li><li><p>Experience with FEA for electromagnetic analysis (JMAG strongly preferred; Ansys Maxwell, MotorCAD, or similar is acceptable)</p></li><li><p>Working knowledge of electrical machine sizing fundamentals, magnetic and electric loading, winding design, and the relationships between geometry and performance</p></li><li><p>Proficiency in Python for data analysis and automation</p></li><li><p>Exposure to multi-physics or design optimization methods (parametric sweeps, Pareto trade studies, coupled EM-thermal-structural analysis, multi-variable optimization algorithms)</p></li></ul><p></p><p><strong>Nice to have experience:</strong></p><ul><li><p>Familiarity with permanent magnet synchronous machines and traction-class motor design</p></li><li><p>Hands-on lab or test experience (dynamometer testing, power measurement, instrumentation)</p></li><li><p>Understanding of power electronics and three-phase systems</p></li><li><p>Familiarity with CAD tools (Solidworks preferred)</p></li><li><p>Familiarity with drawing creation &amp; tolerancing</p></li></ul><p></p><p><strong>Compensation &amp; Benefits</strong></p><ul><li><p>Salary/Hourly Compensation Range: $23 - $37/hr based on school level &amp; experience</p></li><li><p>Flexible hours (deliverable-based goals)</p></li><li><p>Relocation package</p></li><li><p>Monthly company events</p></li><li><p>Friday Team Lunches</p><p></p></li></ul><p><strong>Why H3X</strong></p><p>Joining H3X means working on hard, meaningful problems with a skunkworks-style team that's laser-focused on building exceptional products. We're deeply vertically integrated and have a very tight design-build-test loop, which lets us move from concept to hardware at unmatched speed. We've gone from idea to shipping product in less than two months.</p><p>We're a small, highly skilled team where everyone carries real responsibility and shares an extreme ownership mentality. We stay focused on the critical path, keep bureaucracy to a minimum, and structure everything around delivering results. You'll learn and grow faster here than you would anywhere else.</p><p>You'll work alongside world-class engineers and builders who are pioneering electric motor technology at scale on some of the coolest programs in the industry, from supersonic aircraft to power generation for AI datacenters. If you want your contributions to be visible and your work to directly shape American reindustrialization, you'll feel at home here.</p><p></p><p><strong>Our Values</strong></p><p><strong>Be Relentless</strong> Never give up, persevere until the job is done. Run toward problems, not away from them. Grit is key.</p><p><strong>Gain insight through humility</strong> Approach every challenge with a learner’s mindset. Stay open to feedback, listen to others, and deepen your understanding through self-awareness. Put your ego aside and seek the truth in every discussion, especially when leading others.</p><p><strong>Distill &amp; Simplify</strong> Eliminate unjustified complexity and simplify wherever possible, whether in requirements, design, or execution. Use first principles thinking to distill every problem to its essence. Less is more.</p><p><strong>Find your flow</strong> Engage fully and work with intention. Find the rhythm and deep focus that lets you do your best work. Discover your Ikigai - where your strengths, passions, and purpose meet and drive your personal fulfillment and team success. That is when the magic happens.</p><p><strong>SEND (Solve, Evolve, Nail It, Deliver)</strong> Devise the best solution with the information at hand, test it, learn from it, and iterate quickly until you nail it. Nothing works perfectly the first time, but you should never hit the same issue twice. Stay laser-focused on solving customer problems and delivering solutions that create real value.</p><p></p><p><strong>Equal Opportunity Employer</strong></p><p>H3X is an equal opportunity-affirmative action employer and considers all qualified applicants for employment based on business needs, job requirements and individual qualifications, without regard to race, color, religion, sex, age, disability, sexual orientation, gender identity or expression, marital status, past or present military service or any other status protected by the laws or regulations in the locations where we operate.</p>",
+    "content_hash": "ddf20acc9a8a32f094a62fd96c8b397b"
+  },
+  "8b43fa2b0ddd": {
+    "id": "8b43fa2b0ddd",
+    "title": "Coastal Engineering Intern (Summer 2027)",
+    "title_raw": "Coastal Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "foth",
+      "name": "Foth",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Jacksonville, Florida",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "foth",
+      "external_id": "41c0a056-9cce-4125-83cb-9c30e9e3783f"
+    },
+    "apply_url": "https://jobs.lever.co/foth/41c0a056-9cce-4125-83cb-9c30e9e3783f/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T19:11:27.105Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:55:20.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p>\n<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p><br />\n<p>Shape the coast, shape your future, join us for a hands-on coastal engineering internship! Spend <strong>Summer 2027</strong> in <strong>Jacksonville, FL</strong>, working at the intersection of land and sea. As a <strong>Coastal Engineering Intern</strong>, you’ll collaborate with seasoned engineers to safeguard shorelines and enhance waterfront infrastructure. This is your opportunity to apply classroom knowledge to projects that protect communities, preserve ecosystems, and support navigation along our nation’s waterways.</p>\n\n<h3>Primary Responsibilities: </h3>\nWork directly with team members on various project deliverables in the coastal engineering field \nManage beach profile data and conduct beach volume change analyses \nPerform industry-standard coastal engineering analyses \nContribute to construction plans and technical specifications \nObserve construction operations and evaluate site conditions \nAssist with data management and report preparation \nAssemble data and documentation to support state and federal permit applications \n\n<h3>Required Qualifications: </h3>\nPursuing a Bachelor's in Civil Engineering, Bachelor’s in Coastal Engineering or Master’s in Coastal Engineering \nEnrolled in or completed at least one coastal engineering course \nGPA of 3.0 or greater \n\nAll Foth Companies are equal opportunity employers, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law. Qualified women, minorities, persons with disabilities, and veterans are encouraged to apply. All locations are tobacco-free.  Subject to applicable state law, all applicants who have received a written offer of employment and a copy of Foth’s Drug and Alcohol-Free Workplace Program Policy, will be required to undergo testing for commonly abused controlled substances. Applicants must complete the required drug testing within two business days of offer acceptance.  Foth will pay for all drug testing, which will be conducted by a licensed independent medical laboratory that follows testing requirements in accordance with applicable state law.\n \n<strong>Colorado Residents:</strong> In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n \n<strong>Notice to Third Party Recruiters/Agencies:</strong> Foth does not accept unsolicited resumes from third party recruiting firms. Absent a signed recruiting agreement coordinated through Foth, Foth reserves the right to pursue and hire candidates without financial obligation to third party recruiters or agencies.",
+    "content_hash": "b159c9b6eb0206296e478e6dda599563"
+  },
+  "8b7726edc4a6": {
+    "id": "8b7726edc4a6",
+    "title": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
+    "title_raw": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
+    "company": {
+      "slug": "skydio",
+      "name": "Skydio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Mateo, California, United States",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "skydio",
+      "external_id": "d75d4adf-760c-46b6-bb98-3497650a8924"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-05T00:25:45.828Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.686Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 47,
+      "max": 47,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders, soldiers in battlefield scenarios, and beyond.</p><p><strong>About the role:</strong></p><p>We are seeking interns or Co-ops for our Hardware Test &amp; Reliability Team!</p><p>Autonomous systems are a new breed of product that bring together electronics hardware and real-time AI software. The complexity of the systems combined with the fact they can move freely in the real world, makes the development and reliability testing strategy a key element of delivering a great product.</p><p>We are seeking a driven and cross-functional engineering intern to help the development and execution of test plans and testing infrastructure to enable rapid design iteration and robust product validation for state-of-the-art autonomous flying machines servicing a broad range of consumer and commercial use cases.</p><p></p><p><strong>How you’ll make an impact:</strong></p><ul><li><p>Own the design and implementation of hardware and software systems to execute comprehensive performance and reliability validation for products performing in a wide array of use cases</p></li><li><p>Analyze data, calculate statistics, and carefully document results to explain trends and inform impactful design improvements</p></li><li><p>Perform failure analysis to identify root cause and help develop process/design mitigations to resolve system issues, collaborating with mechanical, electrical, software, manufacturing, and quality engineering teams</p></li><li><p>Participate in design reviews and provide key design for reliability inputs to mitigate risks at every stage of the product development lifecycle</p></li></ul><p></p><p><strong>What makes you a good fit:</strong></p><ul><li><p>A sense of how to test, how not to test, and how to find vulnerabilities in processes and design</p></li><li><p>A systematic approach to problem solving, and a knack for rapidly identifying issues within electro-mechanical systems; strong desire to drive failure analyses to true root cause</p></li><li><p>Enthusiastic tendencies toward diving in and applying first principles to engineer creative solutions to complex problems</p></li><li><p>Experience with Python or other programming languages for test automation, data analysis and visualization</p></li><li><p>Strong desire to learn and contribute across multiple domains within a dynamic and growing organization</p></li><li><p>Excellent project management, written &amp; verbal communication and cross-functional teamwork skills</p></li><li><p>Familiarity with testing equipment and basic knowledge of stress, environmental, and accelerated life testing methods to assess product durability and reliability</p></li></ul><p><strong>Compensation:</strong> The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $58/hr for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience.</p><p>*Compensation for certain positions may vary based on the position's location.<br /><br />#LI-ZD1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/</p>",
+    "content_hash": "c7fd493f1a3e59e3ac8206b37d5676b4"
+  },
+  "8bac4a470c7e": {
+    "id": "8bac4a470c7e",
+    "title": "Test & Reliability Engineering Intern",
+    "title_raw": "Test & Reliability Engineering Intern",
+    "company": {
+      "slug": "gecko-robotics",
+      "name": "Gecko Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gecko-robotics",
+      "external_id": "07b4bc1b-500f-493c-ab28-383b543a3e85"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T15:22:39.833Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.675Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>What We Do </strong></h3><p>Gecko Robotics is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.</p><h3><strong>Role at a Glance</strong></h3><p>Gecko Robotics is seeking a <strong>Test &amp; Reliability Engineer Intern</strong> to join Field Infra’s Test &amp; Reliability (T&amp;R) team in Pittsburgh for<strong> Summer 2027</strong>. This is a full-time, onsite internship, Monday through Friday.</p><p>You will contribute to a defined engineering project focused on making our robotic systems more dependable by building software tools, automating tests, and analyzing system data and logs. Working alongside experienced engineers, you will develop practical tools, execute tests, and generate evidence that improves how Gecko validates and learns from its robotic systems.</p><p><strong>What you will do</strong></p><ul><li><p>Own a scoped engineering project that improves a test, regression, reliability-analysis, or test-data workflow.</p></li><li><p>Help plan, execute, and document software and integrated robotic-system tests under the guidance of experienced engineers.</p></li><li><p>Analyze test results, clearly document findings and open questions, and recommend improvements to test coverage and repeatability.</p></li><li><p>Develop or improve tooling, automation, scripts, or documentation that makes testing more efficient and reliable.</p></li><li><p>Collaborate with Test &amp; Reliability  engineers and partner teams to understand how field observations and engineering requirements inform validation.</p></li><li><p>Present your project, results, and recommended next steps at the end of the internship.</p> </li></ul><p><strong>Technologies We Use </strong></p><p>Depending on the assigned project, you may work with Python, Linux, Git, hardware and software test equipment, data-analysis tools, and robotic-system logs. The specific tools and technologies will depend on the assigned project.</p><p><strong>About You</strong></p><p>You are a curious, hands-on engineering student who enjoys understanding how complex systems behave in the real world. You are comfortable learning across software and hardware boundaries, approaching problems methodically, and communicating what you observed and what you do not yet know.</p><p><strong>Required Skills </strong></p><ul><li><p>Currently pursuing a bachelor’s or master’s degree in engineering, computer science, robotics, or a related technical discipline, with an expected graduation date between December 2027 and May 2028.</p></li><li><p>Ability to work onsite in Pittsburgh, Monday through Friday, for the full Summer 2027 internship.</p></li><li><p>Foundational programming experience in Python or another general-purpose programming language.</p></li><li><p>Experience writing, testing, or debugging software through coursework, projects, research, competition teams, or a prior internship.</p></li><li><p>Interest in software testing, reliability, robotics, embedded systems, or complex physical systems.</p></li><li><p>Strong written and verbal communication skills, including the ability to structure technical problems, document work clearly, communicate findings, and learn from feedback.</p></li></ul><p><strong>Preferred Skills </strong></p><ul><li><p>Previous hands-on experience with robotics, embedded systems, electronics, mechanical systems, or other complex physical systems through an internship, research position, engineering lab, competition team, or substantial project.</p></li><li><p>Experience using Python to automate test workflows or analyze system data, logs, or failures.</p></li><li><p>Familiarity with Linux, Git, and structured testing or debugging practices.</p></li><li><p>Experience designing experiments, debugging system behavior, or building tools for others.</p></li><li><p>Coursework or projects in software testing, controls, mechatronics, reliability engineering, systems engineering, or a related field.</p></li></ul><h3><strong>Who We Are</strong></h3><p>At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral parental leave, full medical, dental, and vision insurance, mental health, ongoing professional development, family planning assistance, and flexible paid time off. </p><p>Gecko values collaboration, innovation, and partnership, and we believe we do our best work when we're together in person. We’re an office-first culture but understand that sometimes you may need to work from home. Many people are in the office five days a week, others need a bit more flexibility. Ultimately, we care about the outcomes we achieve - and creating a culture of autonomy and trust that enables that impact.</p><p>Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer.  We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today’s infrastructure and give form to tomorrow’s. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal, state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we’d love to hear from you.</p>",
+    "content_hash": "723dd7d49ef49a28861fe822ab680b4b"
+  }
+}

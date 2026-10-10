@@ -1,0 +1,47 @@
+{
+  "be6040775bb2": {
+    "id": "be6040775bb2",
+    "title": "Software Engineer – General (new grad / early career)",
+    "title_raw": "Software Engineer – General (new grad / early career)",
+    "company": {
+      "slug": "northwood-space",
+      "name": "Northwood Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Torrance, CA",
+      "city": "Torrance",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "northwoodspace",
+      "external_id": "b960b661-e1cc-40d0-bde3-290cd1b58ede"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-13T18:12:21.669Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.041Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 120000,
+      "max": 140000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Northwood:</strong></p><p>Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.</p><p></p><p><strong>Job Level:</strong> </p><p>The level of this position will be determined based on the qualifications and experience of the successful candidate. We are open to considering candidates of varying experience levels, from mid-career to principal engineers.</p><p><br /><strong>Role:</strong></p><p>As a Software Engineer at Northwood, you will be pivotal in designing, implementing, and optimizing the global service that delivers connectivity to our customers. You will have ownership over key areas - ranging from control of our antenna systems to the customer APIs that enable booking time on our network. An ideal candidate is someone who likes to work across areas of responsibility and can dive deep into high priority challenges.</p><p>Northwood is a full-stack company, with software development spanning everything from manufacturing to global data transfer. We seek versatile candidates who want to contribute across multiple areas while having a solid foundation in<strong> one or two core areas of focus</strong>. Key areas of focus include—but are not limited to—the following (new team members will have the opportunity to work across these areas, they aren’t expected to own everything listed):</p><ul><li><p><strong>Edge systems (ground station)</strong></p><ul><li><p>Design and implement control systems for our ground station hardware, you will write software that interacts with everything from embedded systems to RF modems</p></li></ul></li><li><p><strong>High bandwidth data movement</strong></p><ul><li><p>Architect and optimize data pipelines for efficient movement of data between ground stations and various end environments</p></li><li><p>Ensure low-latency and high-throughput data distribution across different platforms, with an end goal of building Northwood’s Software Defined Wide-Area-Network (SD-WAN) capabilities</p></li></ul></li></ul><ul><li><p><strong>Cloud orchestration &amp; distributed systems design</strong></p><ul><li><p>Lead the design and architecture of distributed systems which orchestrates our global ground network across both cloud and on-premises environments</p></li><li><p>Stack design &amp; inter-service communication: Develop the entire stack design, focusing on inter-service communication protocols to ensure seamless integration and operation</p></li></ul></li></ul><ul><li><p><strong>API, database &amp; front end development</strong></p><ul><li><p>Design and build robust APIs for customer and internal interactions</p></li><li><p>Develop intuitive front-end interfaces using modern web technologies</p></li><li><p>Build a scalable data backend - integrating into ETL pipelines to help make data more actionable</p></li></ul></li><li><p><strong>Monitoring &amp; alerting systems</strong></p><ul><li><p>Create comprehensive monitoring and alerting solutions for software and infrastructure</p></li><li><p>Implement tools to ensure continuous uptime and rapid issue resolution</p></li></ul></li><li><p><strong>Global telemetry capabilities </strong></p><ul><li><p>Transform our telemetry data into actionable insights, enabling predictive diagnostics to address issues before they arise; keep our customers informed about relevant operations in real time</p></li></ul></li><li><p><strong>Infrastructure, security &amp; pipelines</strong></p><ul><li><p>A global network requires global deployments, and Northwood is committed to building a secure, reliable, and stable pipeline. This infrastructure empowers our developers to deploy changes continuously—without the risk of disrupting the system or relying on 'testing in prod.'</p></li></ul></li></ul><ul><li><p><strong>Production line software &amp; testing</strong></p><ul><li><p>Develop software for production line bring-up and testing</p></li><li><p>Automate testing procedures to ensure hardware and software reliability</p></li><li><p>Working alongside mechanical/RF/EE/FPGA and SW engineers to ensure system correctness, performance, and reliability before leaving our manufacturing line</p></li></ul></li></ul><ul><li><p><strong>Simulation &amp; orchestration software</strong></p><ul><li><p>Create simulations that model satellite and network design</p></li><li><p>Create simulation tools for testing and validating system performance </p></li><li><p>Design and implement software that orchestrates our global antenna network and data plane </p></li></ul></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>0-2 years of professional software development experience (this doesn’t have to be from a full-time role—there are many ways to gain valuable experience, and we’d love to hear about yours - tell us about internships, projects out of the classroom, or any personal projects)</p></li><li><p>Completed bachelor’s degree in Computer Science, Computer Engineering, Math or other related major (soft-requirement, tell us why you didn't pursue a degree, and what you've done in it's place)</p></li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><p>While we don’t expect you to have every skill listed below, we do expect you to take ownership of one or more areas and drive decisions and implementations where your strengths lie.</p><ul><li><p><strong>Programming Languages (General):</strong></p><ul><li><p><strong>Proficiency in one or more of the following:</strong></p><ul><li><p><strong>Rust, Golang, Haskell, C/C++</strong></p></li><li><p><strong>Open to other languages</strong> that are suitable for distributed systems and/or high-performance computing and interested in strong opinions on the right language for various applications</p></li></ul></li></ul></li><li><p>Strong problem-solving abilities</p></li><li><p>Excellent communication and collaboration skills</p></li><li><p>Ability to work in a fast-paced, dynamic environment</p></li></ul><p></p><p><strong>Additional Information:</strong></p><p>If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.</p><p></p><p><em>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</em></p><p></p><p>Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "e9e0c4d080741e9b85712d8e98f10e02"
+  }
+}

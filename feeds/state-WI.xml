@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in WI</title>
+  <id>https://walkpath.vercel.app/feeds/state-WI.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-WI.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:623f98c7f9e0</id>
+    <title>Sourcing Data Management Intern @ Accuray</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/623f98c7f9e0"/>
+    <updated>2026-10-02T00:00:00.000Z</updated>
+    <published>2026-10-02T00:00:00.000Z</published>
+    <author><name>Accuray</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">Give hope. Give health. Make your mark in the fight against cancer.At Accuray, we make a direct and powerful impact on the lives of cancer patients every day — helping them live longer, better lives. But our commitment to innovation offers a truly unique opportunity: the chance to change the fight…</summary>
+    <content type="text">Accuray · Madison, WI
+
+Give hope. Give health. Make your mark in the fight against cancer.At Accuray, we make a direct and powerful impact on the lives of cancer patients every day — helping them live longer, better lives. But our commitment to innovation offers a truly unique opportunity: the chance to change the fight…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:63cbb00785e1</id>
+    <title>Mechanical Packaging Systems Engineering Intern (Summer 2027) @ Foth</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/63cbb00785e1"/>
+    <updated>2026-09-02T02:08:06.617Z</updated>
+    <published>2026-09-02T02:08:06.617Z</published>
+    <author><name>Foth</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…</summary>
+    <content type="text">Foth · Green Bay, WI
+
+Season: Summer 2027
+
+Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:8f768296a3bc</id>
+    <title>Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027) @ Foth</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/8f768296a3bc"/>
+    <updated>2026-09-02T02:05:04.540Z</updated>
+    <published>2026-09-02T02:05:04.540Z</published>
+    <author><name>Foth</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…</summary>
+    <content type="text">Foth · Green Bay, WI
+
+Season: Fall 2027
+
+Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:d207314a2f8d</id>
+    <title>Electrical Engineering Co-op (Summer/Fall 2027) @ Foth</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/d207314a2f8d"/>
+    <updated>2026-09-01T19:15:01.617Z</updated>
+    <published>2026-09-01T19:15:01.617Z</published>
+    <author><name>Foth</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…</summary>
+    <content type="text">Foth · Green Bay, WI
+
+Season: Fall 2027
+
+Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to solving our clients’ toughest science and engineering challenges. Consistently ranked by Engineering News Record in the…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+{
+  "a0e629f80bf4": {
+    "id": "a0e629f80bf4",
+    "title": "Watershed Analyst Intern",
+    "title_raw": "Watershed Analyst Intern",
+    "company": {
+      "slug": "craftwater",
+      "name": "Craftwater",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "craftwater",
+      "external_id": "062d378e-3b50-49fe-a442-d657f1b310b8"
+    },
+    "apply_url": "https://jobs.lever.co/craftwater/062d378e-3b50-49fe-a442-d657f1b310b8/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2024-07-25T23:11:24.735Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:50:21.669Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 27,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "We're looking for Watershed Analyst Interns for 2027.\n \n<strong>What it’s like to work with us:</strong>\nCraftwater is different. We empower and expect staff to create usable, actionable information through collaborative and innovative approaches that reflect their passion to impart much-needed environmental changes through engineering and science. We offer a flex work environment that combines remote and in-office time. California casual is our dress code of choice, unless we are headed to a client meeting or presentation. We take ourselves lightly, and our work seriously and cultivate a culture based around the desire to do things differently and better in every job we take on. Each of us has our own quirks, and we think we’re pretty hilarious. We genuinely like each other, and make time for “play,” and teambuilding, and try to push each other to find the next best approach to delivering the most well-founded and useful information to our clients in new and exciting ways. We are doing new big things and having an incredible time doing it.\n<strong>​</strong>\n<strong>Who we hire:</strong>\nDo you want to make a meaningful impact?  Come join Craftwater and be on the cutting edge of resource planning and design including policy setting, water management, green infrastructure, scientific research, public education and outreach, environmental justice/equity, and more. You must be hard working, dynamic, an out-of-the-box thinker, and fun! \n<h3>Qualifications</h3>\nBachelor’s degree in progress (Junior level or above) in environmental/civil engineering, or a related field \nMinimum GPA of 3.5 \nProven leadership and involvement in extra curriculars \nStudy of, and work on, interesting and innovative scholastic projects \n\nIf these attributes resonate with you, feel free to apply to one of our open positions.",
+    "content_hash": "f036ec055f5a791f857e5b6aae8335b2"
+  }
+}

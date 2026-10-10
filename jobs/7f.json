@@ -1,0 +1,87 @@
+{
+  "7f19e7b79712": {
+    "id": "7f19e7b79712",
+    "title": "Inference Engineering, Co-op",
+    "title_raw": "Inference Engineering, Co-op",
+    "company": {
+      "slug": "inferact",
+      "name": "Inferact",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "inferact",
+      "external_id": "2b6032f9-12a5-4083-b5e6-4bec5376cbaa"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T18:40:23.398Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.637Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Overview</strong></p><p>Inferact's mission is to grow vLLM as the world's AI inference engine and accelerate AI progress by making inference cheaper and faster. Founded by the creators and core maintainers of vLLM, we sit at the intersection of models and hardware, a position that took years to build.</p><p></p><p><strong>About the Role</strong></p><p>We're looking for exceptional University of Waterloo co-op students who want to work on the systems that determine how fast, efficiently, and reliably frontier AI models run on frontier workloads at scale. This is not a sandboxed internship project. We will match your strengths and interests to a real engineering problem across the vLLM stack, from model execution and low-level accelerator code to distributed serving and the cloud platform that makes it all usable. </p><p>You'll work alongside the creators and core maintainers of vLLM on work intended to ship into open source, production systems, or the tooling that supports both. You will have a primary technical track, meaningful ownership, and mentorship from a small, senior team, with opportunities to collaborate across models, compilers, accelerators, networking, and distributed systems. The goal is to let exceptional students learn at the frontier while making contributions used by developers and AI teams around the world. </p> <p><strong>Potential Focus Areas</strong></p><p>Your co-op will have a primary home in one of the following tracks, with opportunities to contribute across others: </p><ul><li><p><strong>Inference Runtime:</strong> Bring new model architectures and inference techniques to life in vLLM. Implement ideas from research papers; support mixture-of-experts, multimodal, diffusion, and agentic workloads; and improve scheduling, continuous batching, KV-cache memory management, prefix caching, and hybrid model serving. </p></li><li><p><strong>Performance &amp; Scale:</strong> Build the distributed serving data plane that lets vLLM run across many GPUs and nodes. Work on tensor, expert, or context parallelism; prefill/decode separation and KV-cache transport; fault tolerance and multi-tenancy; and high-performance communication using NCCL, DeepEP, NVSHMEM, RDMA, or InfiniBand.</p></li><li><p><strong>Kernel Engineering:</strong> Raise the hardware performance ceiling by writing and optimizing attention, GEMM, sampling, KV-cache, fused, and quantization kernels. Use CUDA, Triton, TileLang, CUTLASS/CUTE, or related tools; reason about memory hierarchy, occupancy, and tensor cores; and prove speedups through profiling, correctness tests, and reproducible benchmarks.</p></li><li><p><strong>AMD GPU Performance:</strong> Help make vLLM first-class on AMD accelerators. Work across ROCm, HIP, Triton, CK, AITER, kernels, runtime paths, quantization, compiler integration, and performance-regression infrastructure while learning how AMD-specific execution, memory, and toolchain constraints shape inference.</p></li><li><p><strong>TPU Performance:</strong> Help make vLLM fast and correct on Google TPUs. Build backend, runtime, and compiler integrations with JAX, XLA, Pallas, MLIR, and related tooling; inspect compiler artifacts; work on lowering, fusion, and code generation; and benchmark production-relevant serving across correctness, latency, and throughput.</p></li><li><p><strong>Cloud Orchestration:</strong> Build the operational platform that makes large-scale inference deployable and reliable. Work on Kubernetes and custom operators, topology-aware GPU scheduling, zero-downtime vLLM rollouts, token-aware routing, observability, infrastructure-as-code, automated recovery, and bring-your-own-cloud or multi-cloud fleet management.</p></li></ul><p>You are not expected to arrive with experience in every track. We care most about unusual depth or learning velocity in one area, strong fundamentals, and evidence that you can turn a difficult problem into working, measurable software.</p> <p><strong>Skills and Qualifications</strong></p><p>Minimum qualifications:</p><ul><li><p>Currently pursuing a bachelor's, master's, or PhD degree in computer science, engineering, mathematics, or a related technical field, and eligible for a University of Waterloo co-op work term. </p></li><li><p>Strong programming ability in Python, C++, Rust, Go, or another systems-oriented language.</p></li><li><p>Strong computer science fundamentals and the ability to learn from research papers, technical documentation, and complex systems code. </p></li><li><p>Evidence that you have built and debugged nontrivial software through coursework, research, a prior internship, open-source work, or an ambitious side project.</p></li><li><p>A builder mindset: you define what success means, measure results, validate correctness, communicate clearly, and keep iterating until the system works.</p></li></ul><p>Preferred qualifications:</p><ul><li><p>Depth in at least one relevant area such as ML or inference systems, distributed systems, GPU or accelerator programming, compilers, high-performance computing, operating systems, networking, Kubernetes, or cloud infrastructure.</p></li><li><p>Hands-on experience with one or more relevant technologies such as PyTorch, vLLM, SGLang, TensorRT-LLM, CUDA, Triton, TileLang, ROCm/HIP, JAX/XLA, Pallas, Kubernetes, Helm, Terraform, Ray, or SLURM.</p></li><li><p>Experience profiling or benchmarking software, validating numerical or systems correctness, or building tests that protect against performance regressions.</p></li><li><p>Experience with systems beyond a single local process or device, including multi-GPU, multi-node, research-cluster, high-throughput, or production-like workloads.</p></li></ul><p>Bonus points if you have:</p><ul><li><p>Contributed to open-source ML, systems, compiler, or infrastructure projects, especially vLLM or adjacent projects. </p></li><li><p>Built a research system, benchmark suite, compiler or kernel project, distributed service, or infrastructure tool that demonstrates unusual technical depth and initiative. </p></li><li><p>Worked across more than one layer of the stack and enjoy moving between algorithms, runtimes, systems, and hardware rather than staying inside a single abstraction.</p></li><li><p>Created a technical artifact such as a paper, design document, blog post, demo, or talk that clearly explains what you built and what you learned.</p></li></ul><p></p><p><strong>Meet Inferact at Waterloo</strong></p><p>Interested in learning more about Inferact, vLLM, and the engineering problems you could work on during your co-op? Join us for our <strong>University of Waterloo Employer Information Session</strong> to meet the team, learn more about Inferact, and hear about the Inference Engineering Co-op opportunity.</p><ul><li><p><strong>Venue:</strong> Tatham Centre, Room 2218</p></li><li><p><strong>Date:</strong> Monday, October 5, 2026</p></li><li><p><strong>Time:</strong> 5:00 PM – 7:00 PM ET</p></li></ul><p></p><p><strong>Logistics</strong></p><ul><li><p><strong>Location: </strong>San Francisco, California. This co-op is in-office only at Inferact's San Francisco office and is intended for the University of Waterloo co-op program.</p></li><li><p><strong>Work term: </strong>Co-op / internship. Exact dates will align with the applicable Waterloo work term.</p></li><li><p><strong>Compensation:</strong> Competitive compensation based on the applicable co-op market and candidate background, plus a housing stipend for the duration of the co-op term.</p></li></ul>",
+    "content_hash": "a29e27185fca20d65a1d96519a873685"
+  },
+  "7fd4ab61b548": {
+    "id": "7fd4ab61b548",
+    "title": "Mission Operations Engineering Intern",
+    "title_raw": "Mission Operations Engineering Intern",
+    "company": {
+      "slug": "reflect-orbital",
+      "name": "Reflect Orbital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reflect-orbital",
+      "external_id": "7ec00657-344f-4a53-b1b2-b6623a8b95bc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T23:56:07.882Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.587Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 27,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.</p><p></p><h3>About the Role</h3><p>Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.</p><p>During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.</p><p>Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.</p><p></p><h3>Responsibilities</h3><ul><li><p>Own the design, development, analysis, manufacturing, and testing of novel spacecraft components</p></li><li><p>Build complete tools and testing setups, with an emphasis on fully completing and shipping your work</p></li><li><p>Prototype and iterate rapidly</p></li></ul><p></p><h3>Minimum Qualifications</h3><ul><li><p>You are able to work full-time onsite</p></li><li><p>You are enrolled in a Bachelor's or Master’s degree program from an accredited college or university in aerospace engineering, software engineering, electrical engineering or related engineering field</p></li><li><p>You're capable of incredibly scrappy solutions, but also have experience building &amp; shipping complex and high quality solutions when the problem requires it</p></li><li><p>You're both capable of working highly independently, but you know when to seek guidance</p></li></ul><p></p><h3>Preferred Qualifications</h3><ul><li><p>Understanding of spacecraft systems and subsystem interactions</p></li><li><p>Understanding of orbital mechanics fundamentals</p></li><li><p>Programming and scripting skills (Python preferred)</p></li><li><p>Experience using data analysis to troubleshoot or characterize complex systems</p></li><li><p>Familiarity with mission control software, RF systems, or ground station operations is a plus (e.g. university CubeSat operations or amateur radio)</p></li><li><p>Sound judgment and composure in real-time, high-pressure environments</p></li><li><p>Clear written and verbal communication skills</p></li><li><p>Application of technical skills outside of the classroom (e.g. extracurricular projects, volunteering, personal projects, laboratory research, or prior internship/work experience)</p></li></ul><p>Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.</p><p>We are also interested in carving out unique roles for unconventional people that we are excited about working with.</p><p></p><h3><strong>Benefits</strong></h3><p>Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.</p><ul><li><p>Generous paid time off</p></li><li><p>Healthy lunches provided daily</p><p></p></li></ul><h3><strong>Equal Opportunity</strong></h3><p>Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><p></p><p><strong>More about Reflect Orbital:</strong></p><p>Learn more about our team here.</p>",
+    "content_hash": "b3fa7ba3d6263c89e219662536165c02"
+  }
+}

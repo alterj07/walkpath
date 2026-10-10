@@ -1,0 +1,219 @@
+{
+  "af06a7a2fd06": {
+    "id": "af06a7a2fd06",
+    "title": "Commercial Analytics & Sales Operations Intern",
+    "title_raw": "Commercial Analytics & Sales Operations Intern",
+    "company": {
+      "slug": "agilent",
+      "name": "Agilent",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Spain-Barcelona",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "agilent/agilent_student_careers",
+      "external_id": "4040012"
+    },
+    "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Spain-Barcelona/Commercial-Analytics---Sales-Operations-Intern_4040012",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:50:49.600Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><b>Job Description</b></h3><h3></h3><p>Agilent inspires and supports discoveries that advance the quality of life. We provide life science, diagnostic and applied market laboratories worldwide with instruments, services, consumables, applications and expertise. Agilent enables customers to gain the answers and insights they seek - so they can do what they do best: improve the world around us. Information about Agilent is available at www.agilent.com.</p><br /><p>As a <b>Sales Operations &amp; Commercial Analytics Intern</b> supporting the Agilent sales team in Spain, you will bridge the gap between raw data and strategic commercial execution. In this role, you will leverage CRM tools, advanced analytics, and AI-driven automation to deliver actionable insights, optimize forecasting, and streamline reporting for sales leadership.</p><br /><p><b>Key responsibilities</b></p><ul><li>Maintain high-quality CRM data and support Salesforce-related sales processes.</li></ul><ul><li>Support Sales managers with forecasting, pipeline analysis, opportunity tracking and business reviews.</li></ul><ul><li>Create and maintain dashboards, KPI scorecards and standardized reporting packs.</li></ul><ul><li>Use AI-enabled tools to automate recurring analysis and improve the speed and consistency of reporting.</li></ul><ul><li>Turn sales and operational data into clear insights, priorities and recommended actions.</li></ul><ul><li>Assist account managers to promote local marketing events, supporting the organization whenever need it.</li></ul><ul><li>Contribute to ad-hoc analysis and process improvements for the Spain sales team.</li></ul><br /><h3></h3><h3><b>Qualifications</b></h3><br /><p><b>Position Summary</b></p><p><b>Location:</b> Barcelona, Spain (Must be based in Spain)</p><p><b>Start Date:</b> November 2026</p><p><b>Duration:</b> 12 months</p><p><b>Full-time position</b></p><br /><p><b>Requirements &amp; Eligibility</b></p><br /><ul><li><b>Student Status (Mandatory): </b>You must be currently enrolled in an official study program (University Degree, Master’s, or equivalent) and maintain active student status throughout the entire 12-month duration of the internship.</li><li><b>Ineligibility:</b> Graduates or candidates completing their studies before the end of the internship period cannot be considered.</li><li><b>Residency:</b> Must be legally based in Spain for the full duration of the program.</li></ul><br /><ul><li> Bachelor’s or Master’s degree in <b>Business Administration, Data Science or a related field,</b> ideally in the final 1–2 years of study.</li><li><b>Fluent English</b>, written and spoken.</li><li>Strong Excel skills and an analytical, business-minded approach.</li><li>Interest in AI-assisted analysis, automation and data-driven decision making.</li><li>Proactive, organized and detail-oriented, with the ability to collaborate in an international environment.</li><li>Knowledge of Power BI and/or Salesforce is an advantage.</li></ul><br /><p><b>What you will gain:</b></p><br /><ul><li>Practical experience in commercial analytics, sales operations and CRM processes.</li><li>Hands-on exposure to Power BI, Salesforce and AI-enabled business tools.</li><li>Mentoring, learning opportunities and collaboration with local and European teams.</li></ul><br /><p><b>We offer:</b></p><ul><li>An opportunity for you to grow within a world-class company to develop your skills.</li><li>An independent job among good colleagues, in a growth orientated conglomerate. You will become part of a caring and fast paced environment, built on integrity, information, and trust.</li><li>Be part of a company where we value quality in the solutions we deliver to our customers, with our employees and in relation to the processes we work with.</li><li>A dedication to work/life balance.</li></ul><p></p><p><b>Additional Details</b></p><p></p>This job has a full time weekly schedule.<p></p>Agilent Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.<p></p><h3><b>Travel Required: </b></h3>No<p></p><h3><b>Shift: </b></h3>Day<p></p><h3><b>Duration: </b></h3>9-12 Months<p></p><h3><b>Job Function: </b></h3>General",
+    "content_hash": "8bfc7b7ea2e2776c9d0f74de58401323"
+  },
+  "af482acba10a": {
+    "id": "af482acba10a",
+    "title": "2027 Software Engineering Summer Internship",
+    "title_raw": "2027 Software Engineering Summer Internship",
+    "company": {
+      "slug": "advanced-space",
+      "name": "Advanced Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Westminster, CO",
+      "city": "Westminster",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "advancedspace",
+      "external_id": "4324855009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T20:37:48.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:34.737Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 26,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Advanced Space | 2027 Summer Internship | Onsite </p>\n<p><strong>We’re going to the Moon. Think you’ve got what it takes? </strong></p>\n<p></p>\n<p><strong>About the Role</strong> </p>\n<p>At Advanced Space, we're enabling humanity's return to the Moon and building the technologies that will take us to Mars and beyond. We're looking for a <strong>2027 Software Engineering Summer Intern</strong> to join our software engineering team and gain hands-on experience developing software solutions that support real space missions.</p>\n<p>As a Software Engineering Intern, you'll work alongside experienced technical staff who will provide mentorship and guidance throughout your internship. You'll contribute to projects involving spacecraft software, engineering tools, testing infrastructure, and software applications that support mission development and operations.</p>\n<p>This internship is ideal for students who are passionate about software development, aerospace technology, and solving complex technical challenges. You'll have the opportunity to apply your programming skills while learning how software enables the future of space exploration.</p>\n<p></p>\n<p><strong>About Advanced Space</strong> </p>\n<p>Advanced Space exists to enable the sustainable exploration, development, and settlement of space through innovative software, mission services, and technology solutions. As the owner and operator of NASA's CAPSTONE™ mission and the Prime Contractor for AFRL's Oracle mission, we're helping shape the future of cislunar exploration while supporting commercial, civil, and national security customers. </p>\n<p>Our team combines deep technical expertise with an entrepreneurial mindset. We move quickly, collaborate across disciplines, and empower every engineer to make meaningful contributions. If you're passionate about solving challenging problems and seeing your work fly in space, you'll fit right in. </p>\n<p></p>\n<p><strong>What You'll Actually Do</strong> </p>\n<p><strong>Support software development projects.</strong></p>\n<p>Work alongside software engineers on summer projects focused on developing and improving software systems that support aerospace missions.</p>\n<p><strong>Build software solutions for space applications.</strong></p>\n<p>Contribute to projects such as:</p>\n<ul>\n<li>Onboard spacecraft software</li>\n<li>Machine learning applications</li>\n<li>3D visualization tools</li>\n<li>Testing infrastructure</li>\n<li>Flight software development tools</li>\n</ul>\n<p><strong>Apply programming skills to real engineering challenges.</strong></p>\n<p>Use modern programming languages and software development practices to design, test, and improve software solutions.</p>\n<p><strong>Collaborate across engineering teams.</strong></p>\n<p>Work with multidisciplinary teams to solve technical challenges and support mission-focused projects.</p>\n<p><strong>Share your work and findings.</strong></p>\n<p>Present project results through technical reports, presentations, and discussions with members of the software engineering team.</p>\n<p></p>\n<p><strong>Who Thrives Here</strong> </p>\n<ul>\n<li>You are currently pursuing a degree in <strong>Computer Science, Computer Engineering, Aerospace Engineering, or a similar discipline</strong>.</li>\n<li>You have programming experience in <strong>Python, C++, or similar languages</strong>.</li>\n<li>You enjoy solving technical problems and working on complex engineering projects.</li>\n<li>You can collaborate effectively on cross-disciplinary teams.</li>\n<li>You have familiarity with Bash and Linux-based operating systems.</li>\n<li>You understand basic software development processes and workflows.</li>\n<li>You are curious, eager to learn, and excited about applying software to aerospace challenges.</li>\n</ul>\n<p></p>\n<p><strong>Bonus Points if You Have Experience With</strong></p>\n<ul>\n<li>Machine learning concepts or coursework</li>\n<li>Operating systems</li>\n<li>Algorithms and data structures</li>\n<li>Computer architecture</li>\n<li>Embedded software development</li>\n<li>Flight software concepts</li>\n<li>Software testing and automation</li>\n<li>3D visualization or graphics tools</li>\n<li>Additional programming languages or development environments</li>\n</ul>\n<p></p>\n<p><strong>Success is Measured By</strong> </p>\n<ul>\n<li>Successfully contributing to meaningful mission design and astrodynamics projects.</li>\n<li>Applying engineering knowledge to solve real-world spaceflight challenges.</li>\n<li>Developing technical skills through mentorship and hands-on experience.</li>\n<li>Communicating technical findings clearly through presentations and documentation.</li>\n<li>Building a stronger foundation for a future career in spacecraft mission design and navigation.</li>\n</ul>\n<p></p>\n<p><strong>Why Join Advanced Space</strong> </p>\n<ul>\n<li>Gain hands-on experience supporting real missions to the Moon and beyond.</li>\n<li>Work alongside engineers solving some of the most challenging problems in space exploration.</li>\n<li>Apply classroom knowledge to real aerospace projects.</li>\n<li>Receive mentorship and guidance from experienced technical staff.</li>\n<li>Be part of a team that's passionate about delivering innovation to orbit—and beyond.</li>\n</ul>\n<p></p>\n<p><strong>Compensation &amp; Benefits</strong> </p>\n<ul>\n<li>Competitive internship compensation: <strong>$26–$35/hour</strong></li>\n<li>Housing stipend</li>\n<li>Mentorship and guidance from technical staff</li>\n<li>Opportunities to contribute to research projects directly tied to active space missions</li>\n<li>Collaborative work environment at our Westminster, Colorado headquarters</li>\n</ul>\n<p></p>\n<p><strong>Advanced Space is an Equal Opportunity Employer.</strong> We celebrate diversity and are committed to creating an inclusive workplace for all employees. Employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. </p>",
+    "content_hash": "c055366b3da4691f21079b4f83da8646"
+  },
+  "af5c9e7f6a5a": {
+    "id": "af5c9e7f6a5a",
+    "title": "Software Engineer Internship, Frontend",
+    "title_raw": "Software Engineer Internship, Frontend",
+    "company": {
+      "slug": "ramp",
+      "name": "Ramp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY (HQ)",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ramp",
+      "external_id": "a13ae586-f4cb-4385-8822-c42b9b54ed74"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T00:40:15.975Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.286Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 12500,
+      "max": 12500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Ramp</strong></h3><p>Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p>The problems are high-stakes, data-dense, and unforgiving.</p><p>We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.</p><p>The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.</p><p>If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.</p><p></p><p>Explore our Engineering Blog &amp; Emerging Talent Blog to learn more about how we build at Ramp and what it’s like to start your career here.</p><p></p><h3><strong>About the Role</strong></h3><p>Ramp is, at its core, an engineering company. We’re looking for frontend and full-stack engineering interns who are excited to build intuitive, high-quality products that solve complex problems for our customers.</p><p>Our ideal candidate has strong JavaScript fundamentals, an eye for great user experiences, and enjoys turning customer needs into thoughtful engineering solutions. Our frontend stack includes TypeScript, React, Vite, and Ryu, our in-house design system.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p>Build performant, beautiful, and intuitive interfaces for businesses with complex needs</p></li><li><p>Own meaningful projects and ship products alongside cross-functional teams</p></li><li><p>Work closely with product, design, and business teams to turn customer feedback into product improvements</p></li><li><p>Contribute to the tools, systems, and engineering practices that help Ramp scale</p></li></ul><p></p><h3><strong>What You’ll Need</strong></h3><ul><li><p>Currently pursuing a B.S. or higher in Computer Science or a related technical field, graduating December 2027 or later</p></li><li><p>Strong JavaScript fundamentals and attention to visual and product details</p></li><li><p>Experience with one or more programming languages</p></li><li><p>Track record of shipping high-quality products, features, or side projects</p></li><li><p>Ability to turn product and business ideas into engineering solutions</p></li><li><p>Desire to learn quickly, take ownership, and work in a fast-paced environment</p></li></ul><p></p><h3><strong>Nice to Haves</strong></h3><ul><li><p>Experience with React</p></li><li><p>Familiarity with or interest in TypeScript and modern frontend development</p></li><li><p>Interest in fintech, AI, or building products at scale</p></li></ul><p></p><h3><strong>Compensation</strong></h3><p>The monthly rate for this internship is $12,500 + a housing stipend.</p><p></p><h3><strong>Ramp Benefits</strong></h3><ul><li><p>Apple MacBook</p></li><li><p>Catered lunches and dinners in our NYC office Monday through Friday</p></li><li><p>$10/week for Coffee with a Colleague</p></li></ul><p></p><h3><strong>Benefits available to all full-time Ramp employees (Global)</strong></h3><ul><li><p>Flexible PTO</p></li><li><p>Centralized home-office equipment ordering</p></li><li><p>Health and wellness stipend</p></li><li><p>Budget for intra-office travel</p></li><li><p>Weekly coffee stipend</p></li></ul><p></p><h3><strong>United States</strong></h3><ul><li><p>100% medical, dental &amp; vision insurance coverage for you, with partial coverage for dependents</p></li><li><p>One Medical annual membership</p></li><li><p>401(k), including employer match on contributions made while employed by Ramp</p></li><li><p>Fertility HRA (up to $10,000 per year)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay</p></li><li><p>Pet insurance</p></li><li><p>In-office perks: lunch, snacks, drinks, and more</p></li><li><p>Relocation expense coverage to NYC or SF (if needed)</p><p></p></li></ul><h3><strong>Canada</strong></h3><ul><li><p>Group medical, dental, and vision coverage through Sun Life</p></li><li><p>Life, AD&amp;D, and disability coverage</p></li><li><p>Fertility drug coverage (up to $4,000 lifetime)</p></li><li><p>Group Retirement Plan with employer match (RRSP + DPSP)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay</p></li><li><p>Employee Assistance Program and virtual care through Lumino Health</p></li></ul><p></p><h3><strong>United Kingdom</strong></h3><ul><li><p>Private medical insurance through Freedom Elite</p></li><li><p>Virtual GP and at-home care via eMed x Livi</p></li><li><p>Workplace pension through Penfold, with salary sacrifice option</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay</p></li></ul><p></p><h3><strong>Referral Instructions</strong></h3><p>If you are being referred for the role, please contact that person to apply on your behalf.</p> <h3><strong>Other notices</strong></h3><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p> <p><em>Beware of recruiting scams: Ramp will only contact you through official @</em><em>Ramp.com</em><em> email addresses and will never ask for payment or sensitive personal information during the hiring process.</em></p> <p>Ramp Applicant Privacy Notice</p>",
+    "content_hash": "3ed59d5395e9bb24859b5be11cfdf890"
+  },
+  "afa06474a79e": {
+    "id": "afa06474a79e",
+    "title": "Intern, Quality Assurance",
+    "title_raw": "Intern, Quality Assurance",
+    "company": {
+      "slug": "airasia",
+      "name": "Airasia",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Wisma Capital A",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "airasia/careers",
+      "external_id": "JR0035214"
+    },
+    "apply_url": "https://airasia.wd3.myworkdayjobs.com/Careers/job/Wisma-Capital-A/Intern--Quality-Assurance_JR0035214",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:53:05.484Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><br />Job Description</p><p><b><br />Job Description</b></p><p><b>SUMMARY:</b></p><p>Intern, Quality Assurance, Santan Food Services Sdn Bhd, focusing on Halal certifications and Quality Assurance matters for Santan catering, cafeterias and inflight meals</p><br /><p><b>WHAT YOU’LL CHAMPION:</b></p><ul><li>Halal Certification Application for Red Q Cafeteria </li><li>Observe and provide reports to the importance of food safety in the supply chain, including regulations and best practices</li><li>Gain knowledge of corrective actions and compliance strategies for audit findings</li><li>Observe and provide recommendations (where necessary/when requested by the superior)on  the food safety protocols and procedures on the supply chain</li><li>Involve in food tasting for Santan RTE meals (Santan X ZUS RTE / Santan X 5 Senses/  Santan X Mesra Petronas/ KLIA2 Retail and give feedback)</li><li>Monitor and analyze the food safety and quality compliance of RTE Meals</li><li>Review and record the quality performance of RTE Meals</li><li>Analyse and interpret inflight meal performance captured in the monthly NPS</li><li>Assist in reviewing supplier’s product specification according to Santan latest template and complying with the latest MOH/FSQ requirement</li><li>Assist in reviewing labeling for inflight and RTE meals complying with the latest MOH/FSQ requirement </li></ul><br /><p><b>WHO YOU ARE:</b></p><ul><li>Posses at least Bachelor’s degree in Food Science/ Food Biotechnology/ Food Technology/ Halal Industry Management</li><li>Able to work collaboratively within the organization</li><li>Good communication skills and etiquette</li><li>Knowledge of Halal, HACCP, GMP, and food safety regulations</li><li>Strong attention to detail and problem-solving skills</li><li>Excellent analytical and problem-solving capabilities</li><li>Good personality, positive mindset and independent</li><li>Having strong interest in Food &amp; Beverages industry</li><li>Willing to travel and possess own transport</li></ul>",
+    "content_hash": "7fabfddac86fcee42f19439108c85852"
+  },
+  "afb450a6d96a": {
+    "id": "afb450a6d96a",
+    "title": "Electrical Engineering Intern - Summer 2027",
+    "title_raw": "Electrical Engineering Intern - Summer 2027",
+    "company": {
+      "slug": "antares-nuclear",
+      "name": "Antares Nuclear",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "antares",
+      "external_id": "3061297c-a666-47be-a58a-b62881bf183d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/antares/3061297c-a666-47be-a58a-b62881bf183d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T04:08:11.304Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.687Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 34,
+      "max": 34,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Us</strong></p><p>At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in space.</p><p></p><p>The Antares team hails from SpaceX, the White House, the Pentagon, the Department of Energy, MIT, Rigetti Computing, General Atomics, Relativity Space, Ursa Major, and National Laboratories like Idaho, Oak Ridge, Los Alamos, and Savannah River. Antares has raised over $600M in venture capital from top-tier investors and has hundreds of million-dollars on contract with the military services, NASA, and the Department of Energy.</p><p></p><h3><strong>About the Summer Internship Program</strong></h3><p></p><p>Internships at Antares are anything but ordinary. You'll work alongside our team as we design, build, and test fission microreactors built to deliver reliable energy for critical missions on Earth, in space, and underwater.</p><p></p><p>Our interns contribute to real work from day one. Depending on your role, you may touch hardware, write and test software, support manufacturing and operations, or help build the systems that allow Antares to move quickly as we scale. You'll work alongside engineers, operators, and other experts solving challenging problems—and you'll leave your internship with hands-on experience that's difficult to find anywhere else.</p><p></p><p>We work hard, move quickly, and take pride in what we're building. If you're excited to learn by doing and want to contribute to the next generation of nuclear energy, we'd love to have you join us next summer.</p><p></p><p>We will be running two separate cohorts to accommodate students on both semester and quarter schedules:</p><p><strong>Cohort #1</strong></p><p>Monday, May 17 – Friday, August 13</p><p><strong>Cohort #2</strong></p><p>Monday, June 14 – Friday, September 10</p><p></p><p>All internship roles are based at our Torrance headquarters and require interns to work onsite five days per week. We will not be considering candidates for remote or hybrid arrangements. Interns will receive a relocation and housing stipend as part of their offer package.</p><p></p><p><strong>About the Team</strong></p><p>Antares is developing compact nuclear reactors to deliver reliable power in the world’s most demanding environments. We’re looking for an Electrical Engineering Intern to support the design and testing of the electrical systems that make those reactors work.</p><p></p><p>You will begin with focused starter projects before taking ownership of a longer-term project culminating in a technical deliverable and presentation. Interns are integrated into the engineering team and evaluated with expectations similar to those of a first-year junior engineer. The bar for success is high: you will be expected to use your mentor and available resources effectively, execute independently, communicate clearly, and identify additional issues and opportunities for improvement.</p><p></p><p><strong>Roles and Responsibilities:</strong></p><ul><li><p>Redesign printed circuit board assemblies (PCBAs) for new reactor systems</p></li><li><p>Develop schematics, select components, and support PCB layout and design reviews</p></li><li><p>Design electrical harnesses, including wiring diagrams, connector selection, pinouts, and routing</p></li><li><p>Build and test prototype boards, harnesses, and electrical assemblies</p></li><li><p>Develop and execute hardware-in-the-loop (HITL) tests</p></li><li><p>Support the buildout of system-level test infrastructure for hardware qualification.</p></li><li><p>Troubleshoot electrical hardware and identify root causes of failures</p></li><li><p>Analyze test data and recommend design improvements</p></li><li><p>Create clear design, test, and configuration documentation</p></li><li><p>Work closely with electrical, mechanical, controls, and test engineers to integrate designs into larger systems</p></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>Currently pursuing a bachelor’s or master’s degree in electrical engineering, computer engineering, or a related field</p></li><li><p>6+ months experience of technical engineering skills outside of the university setting classroom (eg: laboratory, research, extracurricular project teams, volunteering, personal projects or prior internship/work experience)</p></li></ul><p></p><p><strong>Preferred Skills &amp; Experience:</strong></p><ul><li><p>Familiarity with circuit design, schematics, and PCB development</p></li><li><p>Experience building, testing, or debugging electrical hardware through coursework, a student team, research, or personal projects</p></li><li><p>Understanding of common electrical test equipment, such as oscilloscopes, multimeters, power supplies, and logic analyzers</p></li><li><p>Ability to read electrical drawings, datasheets, and technical documentation</p></li><li><p>Strong problem-solving skills and a willingness to work directly with hardware</p></li><li><p>Clear written and verbal communication</p></li><li><p>Experience with Altium Designer or another PCB design tool</p></li><li><p>Experience designing cable harnesses or selecting connectors</p></li><li><p>Familiarity with embedded systems, microcontrollers, or common communication protocols</p></li><li><p>Experience with hardware-in-the-loop testing or automated test systems</p></li><li><p>Familiarity with Python, MATLAB, LabVIEW, or similar test and analysis tools</p></li><li><p>Experience working on a Formula SAE, rocketry, robotics, CubeSat, or other hands-on engineering team</p></li></ul><p></p><p><strong>Location</strong></p><ul><li><p>We are located in Torrance, CA in a 322,000 square foot, brand new facility featuring large open spaces for team collaboration, R&amp;D, and production, as well as easy access to the 405, 105, and 110 freeways. Our facility is in the heart of Los Angeles' vibrant emerging tech ecosystem alongside many other high growth startups and enterprises.</p></li></ul><p></p><p><strong>Culture</strong></p><p>At Antares, we like to specifically tie each role to our founding document’s set of values–here are the top five cultural values we think you should believe at your core to be successful:</p><ul><li><p><em>Think in Systems</em> - Energy and Defense are complex ecosystems with numerous stakeholders with competing priorities, conflicting policies, perverse incentives, and emergent and path-dependent properties. First principles thinking alone is insufficient. Think probabilistically and then take action. “If you want to be certain, then you are apt to be obsolete.” Over-optimizing the components often degrades the system</p></li><li><p><em>Obsess over the End User</em> - The customer and end user are often not the same. We will never build globally competitive commercial products if we lose sight of our end users and their entire interaction with the product life cycle</p></li><li><p><em>Be Unconstrained by Convention</em> - Our only limits are the laws of physics. Many, even experts, will say what we are working on is impossible. They said the same about SpaceX reusing rockets. Generationally impactful companies, by definition, must accomplish the seemingly impossible. If it were easy, it would have already been done. Never shy away from a solution because it has never been tried before, and never choose to do something because that's “how it's always been done”</p></li><li><p><em>Go Where the Work I</em>s - Never miss a chance to meet a customer, user, or stakeholder face to face, even if that means hopping on a plane. If you can’t make it, find a teammate who can channel your intentions and go in your place. Deep work can be done from anywhere, but we believe teams are built in person, and aim to maximize our time together</p></li><li><p><em>Operate in the Grey</em> - Embrace nuance in pursuit of truth. Question every fundamental assumption</p><p></p></li></ul><p><strong>Equal Opportunity</strong></p><p>Antares is an Equal Opportunity Employer. Employment decisions are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "ee28075f0f418c4c647d95bd4c271345"
+  }
+}

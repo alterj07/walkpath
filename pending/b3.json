@@ -1,0 +1,129 @@
+{
+  "b35f931249f4": {
+    "id": "b35f931249f4",
+    "title": "Software Engineer, Early Career (AI)",
+    "title_raw": "Software Engineer, Early Career (AI)",
+    "company": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "notion",
+      "external_id": "85947779-6b87-466a-98bc-30a640448c28"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-06T18:37:42.434Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.087Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 130000,
+      "max": 150000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Who We Are</h3><p>Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p></p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><p></p><p><strong>This is NOT a new grad role! This role is for candidates with 0-2 YOE and can start full time right away.</strong></p><p></p><h3>About the Role</h3><p></p><p>As an engineer at Notion, you’ll help shape core user experiences and accelerate how people discover value in Notion. You'll tackle meaningful challenges with increasing autonomy, crafting code that millions of users will experience. You'll take ownership of projects that matter, make critical technical decisions, and contribute your unique perspective to our product vision. Working alongside passionate experts across design, product, and data, you'll help shape the future of how people work.</p><p></p><p>We're looking for an Early Career AI Engineer to join as a strategic partner in shaping Notion's AI vision. You'll work on cutting-edge AI-powered features, leveraging LLMs, embeddings, and other AI technologies to make Notion more intelligent and capable.</p><p></p><p>This role may be aligned to one of multiple AI-focused teams at Notion. Depending on team match and business needs, you could work on:</p><p></p><ul><li><p><strong>AI product engineering:</strong> building model-powered features end-to-end (UX, APIs, retrieval, orchestration, quality, and reliability)</p></li><li><p><strong>Model &amp; systems engineering:</strong> improving model integration and performance (latency, cost, safety, robustness) and building the infrastructure that supports model serving and experimentation</p></li><li><p><strong>Evaluation &amp; quality (evals):</strong> creating evaluation frameworks and automated/ human-in-the-loop testing to measure and improve model and product quality</p><p></p></li></ul><h3>What You’ll Achieve</h3><ul><li><p>Partner with your team to prototype and ship an AI-powered product improvement</p></li><li><p>Own a scoped productionization project: integrate a new model/technique into an existing workflow, add monitoring + guardrails, or improve latency/cost/reliability.</p></li><li><p>Contribute to evals and iteration loops: build or extend an evaluation set, run experiments, analyze results, and translate learnings into product or system changes.</p></li></ul><p></p><h3><strong>Skills You'll Need to Bring</strong></h3><ul><li><p>You have less than two years of engineering experience. You have solid fundamentals in data structures, algorithms, and distributed systems, with a customer-minded, pragmatic approach to solving problems.</p></li><li><p><strong>Expertise building and prototyping:</strong> You’re excited to build and iterate quickly, and you’ve started exploring AI/ML through coursework, projects, internships, or hackathons. You’re comfortable learning how different parts of a product fit together (UI, APIs, data), have some familiarity with relational databases like Postgres or MySQL, and can take an idea from prototype to a working feature with guidance.</p></li><li><p><strong>Thoughtful problem-solving:</strong> You approach problems holistically, starting with a clear and accurate understanding of the context. You think about the implications of what you're building and how it will impact real people's lives. You can navigate ambiguity successfully, decompose complex problems into clean solutions, while also balancing the business impact of what you’re building.</p></li><li><p><strong>Impact-driven approach to technology:</strong> You see technologies as tools to achieve user impact rather than ends in themselves. You care more about building successful systems that solve real problems than about using specific tech stacks or following trends. You stay current with the latest tools like Cursor, Claude Code, and other AI-assisted development environments, you're pragmatic about choosing the right tool for the job, focusing on what delivers the most value to users and the business.</p></li><li><p><strong>Proactive communication and high agency:</strong> You own your work, communicating clearly about progress and blockers. You don't wait for instructions for every step but rather show initiative in identifying what needs to be done and driving projects forward. You ask questions when needed while independently finding solutions to problems.</p></li></ul><p></p><h3>Nice to Haves</h3><ul><li><p>You have experience with any part of our technology stack: React, TypeScript, Node.js, Postgres, and Elasticsearch.</p></li><li><p>You care about the interaction between technology and society, the ways in which they inform each other, and our responsibility as technologists to be conscious of that relationship.</p></li><li><p>You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.</p></li></ul><p></p><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco and New York, the estimated base salary range for this role is $130,000-$150,000.</p><p>By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.</p><p>#LI-Onsite</p> <p></p><h3>A Note on AI</h3><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><p></p><h3>Equal Opportunity &amp; Accommodations</h3><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p></p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p>",
+    "content_hash": "f232b2400a85009ee626ea7dba5a5470"
+  },
+  "b38429de9017": {
+    "id": "b38429de9017",
+    "title": "Trainee AI/ML Engineer",
+    "title_raw": "Trainee AI/ML Engineer",
+    "company": {
+      "slug": "obrio",
+      "name": "OBRIO",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote – Ukraine",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "obrio",
+      "external_id": "a6575c53-9cb0-4501-b3b2-072e4c878dfc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/obrio/a6575c53-9cb0-4501-b3b2-072e4c878dfc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-19T10:20:55.494Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.344Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Привіт!</p><p>Ми <strong>OBRIO</strong> — команда, яка завжди хоче більшого: від себе, від життя, від роботи. Якщо тобі теж замало «достатньо добре» — ти вже розумієш, про що ми. Тут сильні люди притягують сильних — і разом ми розвиваємо компанію, що будує продукт № 1 у ніші spiritual wellness — Nebula.</p><p>Зараз ми шукаємо <strong>Trainee</strong> <strong>AI Engineer</strong> до Tech команди. На цій позиції ти працюватимеш під менторством наших досвідчених AI Engineer'ів, які допоможуть швидше зануритися в проєкти, ділитимуться експертизою та підтримуватимуть у професійному розвитку.</p><p><strong>Які виклики тебе чекають?</strong></p><ul><li><p>Побудувати внутрішні AI-рішення з нуля .</p></li></ul><ul><li><p>Перетворювати бізнес-запити команд у ефективні LLM-архітектури (RAG, embeddings, vector search).</p></li><li><p>Закласти фундамент AI-інфраструктури, яка зростатиме разом із бізнесом.</p></li></ul><p><strong>Твій вплив ми бачимо в:</strong></p><ul><li><p>Скороченні часу команд на рутинні задачі завдяки AI-автоматизації процесів.</p></li><li><p>Формуванні AI як реального бізнес-інструменту, а не експерименту.</p></li><li><p>Створенні довгострокової цінності — AI-систем, які напряму впливають на ефективність компанії.</p></li><li><p>Підвищенні швидкості прийняття рішень через кращий доступ до даних і знань.</p></li></ul><p><strong>Що сприяє твоєму успіху у цій ролі?</strong></p><ul><li><p>Ти реалізовував RAG, embedding-процеси або налаштовував векторні БД</p></li><li><p>Ти розбираєшся в LLM, prompt engineering і контекстному менеджменті</p></li><li><p>Володієш Python та/або JavaScript</p></li><li><p>Маєш досвід із LangChain, PydanticAI, LlamaIndex або схожими фреймворками</p></li><li><p>Працював з N8N, Diffy чи іншими automation/оркестраційними платформами</p></li><li><p>Володієш знаннями класичних ML-алгоритмів (Regression, Tree-based, Clustering)</p></li><li><p>Розумієш основи MLOps, CI/CD, контейнеризації</p></li><li><p>Впевнено читаєш технічну документацію, API, працюєш із логами та observability.</p> </li></ul><p><strong>Що ти отримаєш в OBRIO?</strong></p><ul><li><p>Свободу у форматі роботи — можливість працювати з офісу в Києві, Львові, Варшаві або remote, з підтримкою надкомфортних умов у трьох містах.</p></li><li><p>Сильне середовище для зростання — 75% команди формують Middle та Senior спеціалісти, тож ти швидко зростаєш через складні задачі та сильних колег.</p></li><li><p>Підтримку фізичного та ментального ресурсу — участь в OBRIO Wellness Club або покриття індивідуальних занять спортом та Spiritual Allowance для твого балансу (дивись, як це працює в нас).</p></li><li><p>AI Workation — до 5 робочих днів на квартал, які ти можеш повністю присвятити створенню масштабованих AI-інструментів.</p></li><li><p>Час на відновлення — 20 оплачуваних днів відпустки, необмежені лікарняні та можливість sabbatical leave. Щоб досягати якнайкращих результатів потрібно якнайкраще почуватись.</p></li><li><p>Причетність до соціально важливих ініціатив — участь у благодійних проєктах, волонтерстві та підтримці мобілізованих колег і їхніх сімей. Один з наших проєктів OBRIO Innovation Space x КПІ нещодавно номінований на DOU Awards.</p></li><li><p>Інвестиції у твій професійний розвиток — окремий бюджет на навчання, менторство та участь у топових українських і міжнародних конференціях (IT Arena, DOU Days, Web Summit, TikTok &amp; Meta Summits).</p></li><li><p>Круті колаборації — об’єднуємось з українськими брендами (СЕНС, Matcher, Syndicat, KURAZH) і даруємо стильний OBRIO-мерч не лише з нагоди святкових дат.</p></li></ul><p>Ми — OBRIO, продуктова IT-компанія з екосистеми Genesis, яка створює Nebula — найбільший spirituality бренд із 70M+ користувачів. З вісьмох ентузіастів ми виросли у команду з 300+ професіоналів, які створюють рішення, що впливають на життя людей у всьому світі.</p><ul><li><p>OBRIO — Lovemark brand з найвищим eNPS за версією Forbes.</p></li><li><p>За 7+ років наш продукт Nebula виріс з ідеї у платформу і став частиною життя мільйонів користувачів у понад 60 країнах.</p></li><li><p>На платформі працюють 1500+ експертів. Ми створили складну операційну модель і щодня обробляємо тисячі запитів від користувачів по всьому світу.</p></li></ul><p><strong>Амбіція OBRIO — стати першим українським юнікорном у ніші spirituality.</strong></p><p><strong>Як виглядає наш наймаючий процес: </strong>Інтро-кол з TA Specialist ➡️ Тестове завдання ➡️ Технічне інтерв’ю з СТО ➡️ Job Offer</p><p><strong>Do Big. Be Great.</strong></p>",
+    "content_hash": "7106ec41eddb349b59fb54e1141530cd"
+  },
+  "b3bbf49ccd86": {
+    "id": "b3bbf49ccd86",
+    "title": "Technologist Trainee",
+    "title_raw": "Technologist Trainee",
+    "company": {
+      "slug": "akumincorp",
+      "name": "Akumincorp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Wellington, FL",
+      "city": "Wellington",
+      "state": "FL",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": [
+        "Lake Worth, FL"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "akumincorp/akumincareers",
+      "external_id": "2026-8411"
+    },
+    "apply_url": "https://akumincorp.wd5.myworkdayjobs.com/akumincareers/job/Wellington-FL/Technologist-Trainee_2026-8411",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:54:19.567Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Akumin is a leading provider of outpatient radiology and oncology services, partnering with top hospitals and health systems nationwide to deliver advanced diagnostic imaging and exceptional patient care close to home. With a national footprint, cutting-edge technology, and a strong commitment to innovation and patient-centered care, our teams play a vital role in improving outcomes for millions of patients each year.  </p><br /><p>We are currently hiring for a CT Technologist Trainee at our Wellington &amp; Lake Worth facilities. This will be a full time position. </p><br /><p>The<b> Technologist Trainee</b> learns the safety, customer service skills, documentation and operation of Radiology through on-the job training under the direction of a registered technologist.</p><p><b> </b></p><p><b>Specific duties include, but are not limited to:</b></p><ul><li>Conducts pre-screening of all personnel before entering the magnet room to ensure their safety.</li><li>Scans and documents patients under the direction of a registered technologist to meet all customer (if applicable) and Akumin requirements.</li><li>Completes necessary documentation for patient files to ensure all customer, Akumin policy and Joint Commission requirements are met.</li><li>Other job duties as needed.</li></ul><br /><p><b>Position Requirements:</b></p><ul><li>High School Diploma or equivalent experience.</li><li>Successful completion of a Radiology School.</li><li>Certificate from College or Technical School. </li><li>Certified by ARRT, ARMRIT, NMTCB or ARDMS.</li><li>Continuing education of the structure component to the Radiology exam.</li><li>State issued Radiologic Technologist License, if applicable. </li><li>CPR certification.</li><li>Valid state driver’s license, if applicable.</li><li>Ability to work at several locations.</li><li>Strong customer service skills.  </li><li>Organizational and multi-tasking skills.  </li><li>5% Travel may be required.</li><li>The COVID-19 vaccination is/may be a condition of employment. </li><li>All candidates who accept an offer for employment will be required to successfully complete a pre-employment background check and drug screen as a condition of employment.</li></ul><br /><p><b>Preferred: </b></p><ul><li>Associate's Degree.</li><li>Certificate from College or Technical School. </li><li>Completion of a Radiology Program.</li><li>Successfully demonstrate proficiency running advanced Radiology studies independently</li><li>Technical proficiency using diagnostic imaging equipment</li><li>Possession of venipuncture certification, or ability to secure within 3 months, if required by customer/contract</li></ul><br /><p>At Akumin, we invest in the well-being of our employees, so you can bring your best self to work each day. You can expect to see the following benefits: </p><ul><li>Competitive compensation </li></ul><ul><li>Flexible scheduling </li></ul><ul><li>Cross training opportunities </li></ul><ul><li>Medical, dental, and vision insurance </li></ul><ul><li>HSA accounts with employer contributions </li></ul><ul><li>401(k) eligibility with employer match </li></ul><ul><li>Paid holidays </li></ul><ul><li>Defined PTO and sick time programs </li></ul><p>Eligibility for benefits will vary based on role type and hours worked. </p><br /><p>Akumin Operating Corp. and its divisions are an equal opportunity employer, and we believe in strength through diversity. All qualified applicants will receive consideration for employment without regard to, among other things, age, race, religion, color, national origin, sex, sexual orientation, gender identity &amp; expression, status as a protected veteran, or disability.</p><p></p><p>Akumin Operating Corp. and its divisions are an equal opportunity employer and we believe in strength through diversity. All qualified applicants will receive consideration for employment without regard to, among other things, age, race, religion, color, national origin, sex, sexual orientation, gender identity &amp; expression, status as a protected veteran, or disability.</p>",
+    "content_hash": "4ac5fc2dce4f3f0363fd820171c3cc5f"
+  }
+}

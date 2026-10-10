@@ -1,0 +1,167 @@
+{
+  "e540fc33e7fa": {
+    "id": "e540fc33e7fa",
+    "title": "Machine Learning Intern",
+    "title_raw": "Machine Learning Intern",
+    "company": {
+      "slug": "droyd-robotics",
+      "name": "Droyd Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "droyd",
+      "external_id": "fd533fd8-65a7-41eb-bdf0-e75f02e739e9"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2024-06-06T08:35:16.360Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:08.342Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the team</h3><p>Droyd builds autonomous robotic systems that automate repetitive manual work in real environments. Our robots operate under tight compute, latency, and reliability constraints, so learning systems must work cleanly on real hardware.</p><p>Our AI team builds the models and inference systems that let robotic arms see, reason, and act. This work runs on deployed robots, not demos.</p><h3>About the role</h3><p>As a Machine Learning Intern at Droyd, you’ll work directly on the learning and inference systems that power our robotic arms. You’ll train models, run experiments, and help push research into production.</p><p>You’ll work closely with AI researchers, software engineers, and hardware teams, and contribute to systems that ship to real robots.</p><p>This role is based in San Francisco, CA. We’re an in-person company. We build faster that way.</p><h3>In this role, you’ll</h3><ul><li><p>Work across the ML stack, from training to inference</p></li><li><p>Train and evaluate models that run on low-payload robotic systems</p></li><li><p>Run experiments, analyze results, and document findings</p></li><li><p>Learn how model design, data quality, and hardware constraints affect real-world performance</p></li><li><p>Support deployment and testing of models on robotic hardware</p></li></ul><h3>We’re looking for candidates who</h3><ul><li><p>Are current juniors or seniors (or equivalent) studying computer science, machine learning, AI, or a related field</p></li><li><p>Have coursework or hands-on experience training ML models using frameworks like PyTorch or JAX</p></li><li><p>Are willing to balance school and work in a fast-moving environment</p></li><li><p>Are curious about robotics and interested in how learning systems behave in the real world</p></li><li><p>Take ownership, ask good questions, and can carry projects forward with guidance</p></li></ul><h3>About Droyd</h3><p>Droyd builds autonomous robotic systems to automate manual work for enterprises. We design the hardware, collect our own data, and train models that operate under real-world constraints.</p><p>If we do this right, robots become dependable tools people rely on every day.</p><p>Join us and help build systems that ship.</p>",
+    "content_hash": "6450a2e2d1b9c5f6656e453a313e3a65"
+  },
+  "e551388decc2": {
+    "id": "e551388decc2",
+    "title": "Product Designer, Internship",
+    "title_raw": "Product Designer, Internship",
+    "company": {
+      "slug": "rilla",
+      "name": "Rilla",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rilla",
+      "external_id": "c15fc0ad-6da3-4bab-9c64-f8288453b2ae"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-20T23:15:23.830Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.139Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": null,
+    "salary": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>A Foundational Company</strong></h3><p>Rilla is on a mission to index the offline world.<br /><br />Today, we’ve built the leading sales coaching software for organizations doing sales offline. We have over 1000 customers, including The Home Depot, KKR, Neighborly, and PulteGroup, using our product to enable AI sales coaching across their organization.<br /><br />We are backed by Google Ventures, Bessemer Ventures, Crew Capital, and Broom Ventures, along with others.<br /><br />We’re an in office team in NYC with builders who operate like high speed reinforcement learners. We obsess over our customers, move at a high velocity, are not afraid of failure, and look to maximize our real-world impact.<br /><br />If you want to build the products and systems for how billions of conversations in the real world are captured and indexed, Rilla is the place to do it.<br /></p><h3><strong>The Role</strong></h3><p>At Rilla, you’ll be at the forefront of bringing AI to the physical world. You will evolve our core product while spearheading new verticals across desktop and mobile platforms. You’ll tackle ambiguous, greenfield challenges as we expand into new workflows, users, and markets, working alongside customers from day one to uncover real-world problems.</p><p>There are no PMs here: you and your engineering peers will lead projects from discovery all the way through feature design and implementation. You’ll onboard customers to early prototypes, gather feedback, and iterate rapidly to build what truly matters.</p><p>As one of three designers, you’ll play a pivotal role in defining Rilla’s design culture and shaping how our teams collaborate. We’re looking for designers who are obsessive about quality, shipping speed, and impact. Designers who aspire to be founders or leaders in working with AI, especially for industries that are underserved. If you’re eager to learn, grow, and make a difference with the best peers in the industry, Rilla is the place for you.<br /></p><h3><strong>What We Value</strong></h3><ul><li><p>An<strong> infinite learner</strong>. Someone who is relentless in their curiosity.</p></li><li><p>A <strong>customer obsessive</strong>. Someone who deeply care about delighting customers and solving real pains, not vanity metrics.</p></li><li><p>A <strong>winning attitude</strong>. You thrive with extreme accountability, learning as a team, and both giving and receiving rapid feedback.</p></li><li><p><strong>Extreme empathy.</strong> Our customers are not tech companies. They live and work in the real world. Empathy is critical to arriving at correct solutions.</p></li><li><p><strong>Unafraid of failure.</strong> You take risks. You see failure as an opportunity to learn, grow, and be better the next time. In a weird way, you trick your brain into being excited when you fail, because it means you got a new opportunity to learn more.<br /></p></li></ul><h3><strong>What We Require</strong></h3><ul><li><p>Demonstrate deep drive and genuine passion for your craft. This internship role will have a strong focus on <strong>designing and shipping beautiful UI</strong>.</p></li><li><p>Embrace a customer-centric approach, eager to engage directly with users to ensure our solutions truly address their needs.</p></li><li><p>Champion the quality and craftsmanship of every experience — prioritizing thoughtful design, intuitive interactions, and making learning and using our product both easy and delightful.</p></li><li><p>Be energized by the opportunity to join an early stage team, helping to shape the product culture as one of the first designers at a high-growth startup.</p></li><li><p>Thrive in a fast-paced environment where you ship product insanely fast so you can learn from customers.</p></li><li><p><em>Nice to have:</em><strong> </strong>Experience with production-level coding in HTML, CSS, JavaScript, or front-end frameworks like React and Tailwind, and a willingness to continue learning.<br /></p></li></ul><h3><strong>Don’t Work Here</strong></h3><p>Please don't join if you're not excited about:</p><ol><li><p>Building an AI product for an industry untouched by modern software</p></li><li><p>Constantly talking to and visiting customers in the field</p></li><li><p>Working ~60 hrs/week in person with some of the most ambitious people in NYC</p></li><li><p>Attempting to build a generational company, and the intensity required to do so</p></li><li><p>Pushing the boundaries in the overall visual and interactive experience of what traditional B2B SaaS software means. We approach our product with the mindset of a premium consumer platform, expecting the same level of craft, delight, and innovation in every aspect of design.<br /><br /></p></li></ol><h3><strong>Benefits</strong></h3><ul><li><p>Breakfast, lunch, dinner and snacks at the office</p></li><li><p>Commuter benefits</p></li><li><p>Relocation assistance</p></li><li><p>Take what you need paid time off, not accrual based</p></li><li><p>$1,500 a month rent stipend + assistance in finding housing for the internship</p></li><li><p>Tech equipment</p></li><li><p>Unlimited token budget</p></li></ul>",
+    "content_hash": "28d92f9a332d3f7f347f9b2788f83f15"
+  },
+  "e5636be0d2e5": {
+    "id": "e5636be0d2e5",
+    "title": "Forward Deployed Engineer Intern (Summer 2027)",
+    "title_raw": "Forward Deployed Engineer Intern (Summer 2027)",
+    "company": {
+      "slug": "saronic",
+      "name": "Saronic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "saronic",
+      "external_id": "cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T19:46:26.327Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.760Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.</p><p></p><p><strong>Job Overview</strong></p><p>We are seeking a motivated and talented Forward Deployed Engineer Intern to work on real-world problems that contribute directly to the development of our autonomous surface vessels. You will gain hands-on experience in software development, testing, and integration, and work alongside experienced engineers to tackle complex challenges in autonomy, sensor fusion, and real-time processing. This role blends software development, field deployment, and problem-solving to ensure our technology delivers real mission impact.</p> <p>This internship is ideal for students pursuing computer science, software engineering, electrical and computer engineering, or a related field, and eager to make an impact on the front line of maritime autonomy. All interns will be supported and mentored by experienced Forward Deployed Engineers.</p><p></p><p><strong>Responsibilities </strong></p><ul><li><p>Design, implement, and test software components for autonomous systems, including navigation algorithms, sensor integration, and communication protocols</p></li><li><p>Collaborate with the team to develop and optimize algorithms for real-time decision-making, path planning, and object detection</p></li><li><p>Assist in the development of testing frameworks and participate in hardware-in-the-loop (HIL) testing to validate software performance in simulated and real-world environments</p></li><li><p>Troubleshoot and resolve software, hardware, and networking issues that arise during deployments</p></li><li><p>Contribute to the creation of technical documentation, including design specifications, user manuals, and test plans</p></li><li><p>Work closely with cross-functional teams, including mechanical, electrical, and systems engineers, to ensure seamless integration of software with hardware components</p></li></ul><p></p><p><strong>Qualifications</strong></p><ul><li><p>Currently enrolled in a Bachelor's or Master's program in Computer Science, Software Engineering, Electrical and Computer Engineering, or a related field</p></li><li><p>Programming skills in Python, C++, Typescript, Javascript, or Rust</p></li><li><p>Basic understanding of robotics principles, autonomous systems, and sensor technologies</p></li><li><p>Strong analytical and problem-solving skills</p></li><li><p>Ability to work independently and collaboratively in a fast-paced environment</p></li><li><p>Willingness to travel, spending time in the field testing and improving ASV systems in real-world maritime settings</p></li><li><p>This role requires full-time in office presence (40 hours/week) based at our headquarters in Austin, TX, from May through August 2027</p><p></p></li></ul><p><strong>Physical Demands</strong></p><ul><li><p>Prolonged periods of sitting at a desk and working on a computer</p></li><li><p>Occasional standing and walking within the office</p></li><li><p>Manual dexterity to operate a computer keyboard, mouse, and other office equipment</p></li><li><p>Visual acuity to read screens, documents, and reports</p></li><li><p>Occasional reaching, bending, or stooping to access file drawers, cabinets, or office supplies</p></li><li><p>Lifting and carrying items up to 20 pounds occasionally (e.g., office supplies, packages)</p></li></ul><p></p><p><em>Saronic CCPA Notice for Candidates and California Employees</em></p><p><em>If this role is based in the United States, it requires access to export-controlled information or items that require “U.S. Person” status. As defined by U.S. law, individuals who are any one of the following are considered to be a “U.S. Person”: (1) U.S. citizens, (2) legal permanent residents (a.k.a. green card holders), and (3) certain protected classes of asylees and refugees, as defined in </em><em>8 U.S.C. 1324b(a)(3)</em><em>.</em><br /><br />Saronic does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. <em>We are also committed to providing reasonable accommodations for qualified individuals with disabilities.</em></p>",
+    "content_hash": "072040e7c4f21476ed53562c42f2f48f"
+  },
+  "e58765d9c057": {
+    "id": "e58765d9c057",
+    "title": "Étudiant(e) Co-op, Ingénierie de projets, Hiver 2027***Project Engineering Co-op Student, Winter 2027",
+    "title_raw": "Étudiant(e) Co-op, Ingénierie de projets, Hiver 2027***Project Engineering Co-op Student, Winter 2027",
+    "company": {
+      "slug": "ipex",
+      "name": "IPEX",
+      "domain": ""
+    },
+    "location": {
+      "raw": "CA - IDS - Office",
+      "city": "IDS",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aliaxis/ipex",
+      "external_id": "R-58661"
+    },
+    "apply_url": "https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---IDS---Office/tudiant-e--Co-op--Ingnierie-de-projets--Hiver-2027---Project-Engineering-Co-op-Student--Winter-2027_R-58661",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:56:26.633Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>IPEX est l’un des principaux fournisseurs de systèmes intégrés de tuyauteries thermoplastiques en Amérique du Nord. Nous avons pour mission de bâtir un avenir meilleur en connectant les gens avec l’eau et l’énergie.</p><p>Nous avons présentement une opportunité en tant qu’ingénieur de projets, stagiaire (Co-op) pour l’hiver 2027 (Janvier-Avril). Ce rôle est basé à notre bureau de Montréal et relève de l’Ingénieur de projet.</p><p>Ne manquez pas l’opportunité de joindre une grande famille de professionnels centrée sur les gens, leaders à l’esprit agile, entrepreneurs dans l’âme qui aiment défier le statu quo.</p><br /><p><b>Description du post</b>e</p><p>En tant que membre du groupe général d’ingénierie de projet, le/la stagiaire en ingénierie de projet sera responsable de soutenir les projets dans les diverses étapes, notamment la conception de modèles 2D et 3D.</p><br /><p><b>Activités principale</b>s</p><ul><li>Contribuer à la réalisation de plusieurs projets, et ce à différentes phases, notamment aux étapes de CAO;</li><li>Travailler en étroite collaboration avec les ingénieurs de projet;</li><li>Communiquer avec nos fournisseurs et usines de production;</li><li>Effectuer des relevés de dimensions et observations en usine;</li><li>Faire la mise à jour de plans de disposition des usines;</li><li>Faire des dessins de pièces, faire du design et conception de sous-systèmes mécaniques;</li><li>Écrire des devis de spécifications;</li><li>Rechercher des composants de systèmes mécaniques;</li><li>Obtenir des soumissions de fournisseurs;</li><li>Passer les commandes et assurer les suivis de livraison;</li><li>Faire la supervision d'installations de systèmes mécaniques.</li></ul><br /><p><b>Connaissances et compétences nécessaires</b></p><ul><li>Avoir complété 2 ou 3 ans d'un programme de baccalauréat en génie mécanique ou un programme connexe;</li><li>Connaissance pratique d'Autocad ou/et Inventor;</li><li>Connaissance de la mise en page de dessins techniques;</li><li>Permis de conduire valide et accès à un véhicule (pour visiter les sites de production)</li><li>Très bonne connaissance de la langue anglaise (parlé et écrit).</li></ul><br /><p>IPEX fait tout son possible pour répondre aux besoins d’accommodement des personnes handicapées durant tout le processus d’entrevue et, sur demande, collaborera avec les candidats qualifiés pour leur offrir des mesures d’accommodement convenables de façon à prendre en compte leurs besoins en matière d’accessibilité découlant de leur handicap. Les candidats participant à toutes les étapes du processus de sélection en vue d’un emploi à IPEX peuvent demander des mesures d’accommodement. Pour faire une</p><p>demande, veuillez communiquer avec les RH à HR@ipexna.com</p>",
+    "content_hash": "47734dade1ab9dbee5f0998a4d49f2ac"
+  }
+}

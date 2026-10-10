@@ -1,0 +1,44 @@
+{
+  "6631370b8f24": {
+    "id": "6631370b8f24",
+    "title": "Program Manager, Student Collective (FTC, 12 months)",
+    "title_raw": "Program Manager, Student Collective (FTC, 12 months)",
+    "company": {
+      "slug": "greenlight-workforce-solutions-inc",
+      "name": "GreenLight Workforce Solutions Inc",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": [
+        "New York"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "greenlight-workforce-solutions",
+      "external_id": "1f8983e1-15f6-4bc7-9ff0-4388267ec115"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/greenlight-workforce-solutions/1f8983e1-15f6-4bc7-9ff0-4388267ec115/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T18:06:37.622Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.244Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About OpenAI</strong></h3><p>OpenAI’s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. We build models and products that help people learn, create, and solve problems safely and responsibly.</p><p></p><h3><strong>About the team</strong></h3><p>The Community team builds direct relationships with people using OpenAI’s technology, brings their insights to product and research teams, and shares useful examples so others can learn from them.</p><p>The Student Community team is building OpenAI Student Collective, a global program that equips students with community, resources, and support to help their peers build AI capability, confidence, and opportunity. Students are often among the first to discover new ways to learn, build, create, and organize with AI. Our job is to find those examples, support the students behind them, and help their stories travel.</p><p></p><h3><strong>About the Role</strong></h3><p>We’re looking for a proactive, detail-oriented program manager to run Student Collective’s daily operations and improve how the team works as it grows. You’ll manage student communications, program records and activity logistics, while identifying opportunities to improve our tools, workflows and team coordination.</p><p>Program leads set priorities and make program decisions. You’ll own day-to-day workflows, propose improvements and put agreed changes into practice, using sound judgment to escalate risks or exceptions early.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p><strong>Own program tools, task tracking and data.</strong> Evolve how the team uses Airtable, Slack, Google Workspace and project-management tools to track tasks, owners and deadlines, spot gaps and keep work moving. Keep student details, agreement status, access and participation records accurate; test AI-assisted workflows, automations and simple sites to reduce manual work.</p></li><li><p><strong>Manage onboarding and access follow-up.</strong> Track outstanding agreements and access issues, prepare Slack and subscription requests for authorized colleagues, and verify completion. Support offboarding when needed.</p></li><li><p><strong>Manage student communications.</strong> Respond to program questions, track follow-ups through resolution and escalate exceptions to program leads with clear context.</p></li><li><p><strong>Coordinate program scheduling.</strong> Arrange interviews, student check-ins and meetings across time zones; manage invitations, rescheduling and follow-ups.</p></li><li><p><strong>Support procurement and payments.</strong> Prepare Zip requests, collect supplier details and track invoice and payment status. Work with Procurement and IT to resolve issues for agency and internal partners.</p></li><li><p><strong>Support student projects and events.</strong> Track project and event requests, coordinate approved purchases and shipping, and follow up on receipts, returns, check-ins and recaps.</p></li><li><p><strong>Coordinate Product Lab logistics.</strong> Maintain participant lists and check-in records, schedule sessions, follow up on missing responses and flag access or eligibility issues.</p></li><li><p><strong>Improve team communications and reporting.</strong> Establish a clear rhythm for meetings and updates so the right people can see progress, decisions, blockers and where support is needed. Track follow-through, propose and implement workflow improvements with program leads, and maintain current instructions and templates.</p><p></p></li></ul><h3><strong>What We’re Looking For</strong></h3><ul><li><p>Strong attention to detail, accurate recordkeeping, and reliable follow-through.</p></li><li><p>Hands-on comfort using AI tools to build and improve workflows, create automations and simple sites, and test whether they save time or improve accuracy.</p></li><li><p>Familiarity with procurement workflows, supplier coordination and payment tracking, and a willingness to learn the team’s Zip process.</p></li><li><p>Clear, proactive communication with students and cross-functional partners, including concise updates, meeting follow-through and early flags when support is needed.</p></li><li><p>Confidence identifying process gaps, proposing practical improvements and carrying agreed changes through to implementation.</p></li><li><p>Ability to prioritize tasks, manage competing deadlines, and advance work independently, with sound judgment about when to seek guidance.</p></li><li><p>Proficiency with Google Workspace, including Calendar, Gmail, Docs, and Sheets, as well as Slack and Airtable.</p><p></p></li></ul><p><strong>Preferred experience</strong></p><ul><li><p>Experience supporting students or communities, coordinating suppliers, or maintaining operational databases</p></li></ul>",
+    "content_hash": "2b4f3f44542191fab3de47ce0bccfcb7"
+  }
+}

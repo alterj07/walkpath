@@ -1,0 +1,42 @@
+{
+  "517be548f9ac": {
+    "id": "517be548f9ac",
+    "title": "Production Quality Engineer Intern",
+    "title_raw": "Production Quality Engineer Intern",
+    "company": {
+      "slug": "harmattan-ai",
+      "name": "Harmattan AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Orly",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "harmattan-ai",
+      "external_id": "a1524840-c76f-431a-9506-2f0c33d4ed4e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/harmattan-ai/a1524840-c76f-431a-9506-2f0c33d4ed4e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T14:37:51.974Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.477Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Us</strong></h3><p>Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.</p><p>Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.</p><p></p><h3><strong>About the Role</strong></h3><p>We are opening a 6 months internship starting January 2027 to join our Quality team.</p><p>The Quality Engineering Intern will be supporting our Quality team on our production plant in Wissous, in order to provide valuable analytics that will enable the team to improve the harmonization of our tracking systems and traceability.</p> <h3><strong>Responsibilities</strong></h3><ul><li><p><strong>FPY definition and baseline</strong> for each product</p></li><li><p><strong>Perform Quality analyses</strong>: taxonomy + Pareto + 5M root cause</p></li><li><p><strong>Update the daily quality dashboard</strong></p></li><li><p><strong>Lead problem-solving workshops</strong> with the production and methods departments</p></li><li><p>Create and update<strong> outgoing inspection and customer delivery files</strong></p></li><li><p><strong>NCR follow-up</strong></p></li></ul> <h3><strong>Candidate Requirements</strong></h3><ul><li><p><strong>Academic background:</strong> Final-year engineering student (generalist, mechanical, industrial, quality) who has already spent 4–6 months on a real production floor and liked it. We are excited to work with someone who wants quality, not quality as a fallback from design !</p></li><li><p><strong>Experience and knowledge:</strong> 5M / 5-Why / NCR handling. Capacity to build complex Excel dashboards in autonomy. ERP exposure (Odoo is a plus), metrology and drawing reading basics. Knowledge of electronics/electromechanical assembly is a plus.</p></li><li><p><strong>Languages:</strong> Fluent in French, professional English is appreciated.</p></li><li><p>Excellent communication skills, organizational sense, autonomy, and ability to work in a multicultural environment.</p></li></ul><p></p><p>We look forward to hearing how you can help shape the future of autonomous defense systems at Harmattan AI.</p>",
+    "content_hash": "f2149e9cf7f8f3b2713db618e7ede3b0"
+  }
+}

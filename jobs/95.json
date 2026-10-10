@@ -1,0 +1,82 @@
+{
+  "953c300d7236": {
+    "id": "953c300d7236",
+    "title": "Developer Intern",
+    "title_raw": "Developer Intern",
+    "company": {
+      "slug": "alston-and-bird-law-firm",
+      "name": "Alston & Bird Law Firm",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alston/ExternalCareer",
+      "external_id": "JR100986"
+    },
+    "apply_url": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T03:00:23.739Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>THE FIRM</b></p><p></p><p>As a leading international law firm, we are dedicated to excellence through impactful communication, collaboration, and community involvement. Our company culture has earned us one of the \"100 Best Companies to Work For\" for 27 consecutive years. This honor, along with many others, highlights our commitment to innovation and professional development. At Alston &amp; Bird LLP, our foundation is made of trust, reliability, and compassion.</p><p></p><p><b>JOB DESCRIPTION</b></p><p></p><p>Alston &amp; Bird’s Information Technology team is seeking a <b>Developer Intern</b> to join our office. This internship provides hands-on experience supporting software development initiatives and technology solutions that serve the firm’s attorneys and business professionals.</p><br /><p>Duties, among others, include assisting with application development, testing, troubleshooting technical issues, documenting processes, and supporting system enhancements. The Developer Intern will collaborate with developers, business analysts, and end users while gaining exposure to the full software development lifecycle.</p><br /><p>This is a collaborative position requiring strong analytical, problem-solving, and communication skills. The ideal candidate is a motivated self-starter pursuing a degree in Computer Science, Information Systems, Software Engineering, or a related field, with a passion for technology and software development.</p><br /><p><b>ESSENTIAL DUTIES</b></p><br /><ul><li>Assist in the design, development, and testing of mobile and web applications for use across all areas of the firm. </li><li>Support data science initiatives by cleaning, analyzing, and visualizing data to uncover insights. </li><li>Collaborate on the configuration and deployment of AI tools like Microsoft Copilot Studio and Azure OpenAI. </li><li>Documentation, technical write-ups, and internal training materials. </li><li>Attend team meetings and brainstorming sessions to share ideas and learn from senior staff.</li><li>Collaborate with firm users and clients to assess business needs and recommend/design modern digital solutions.</li><li>Become familiar with all firm applications and solutions that can be used in a solution design to meet requirements, including but not limited to SharePoint Online, Power Apps, Power Automate, and Power BI.</li><li>Leverage AI tools (e.g., Microsoft Copilot, Azure AI services) to enhance solution capabilities and user experience.</li><li>Integrate applications and data across platforms using APIs, connectors, and cloud services.</li><li>Attend meetings with users, stakeholders, and colleagues to align goals and progress.</li><li>Perform additional duties as requested.</li></ul><br /><p><b>SKILLS NEEDED TO BE SUCESSFUL</b></p><br /><ul><li>Currently pursuing a degree in Computer Science, Data Science, Software Engineering, or a related field. </li><li>Basic understanding of machine learning concepts and mobile app development. </li><li>Exposure to Microsoft 365 tools and interest in generative AI platforms like Copilot. </li><li>Strong analytical thinking, attention to detail, and willingness to learn. </li><li>Excellent communication and collaboration skills.</li><li>Experience with programming languages such as JavaScript, TypeScript, C#, or Python.</li><li>Understanding of networking, server management, and cloud storage (e.g., Azure, OneDrive).</li><li>Ability to work independently and manage multiple priorities.</li><li>Strong attention to detail and ability to work under pressure in a fast-paced environment.<br /> </li></ul><p></p><p><b>EQUAL OPPORTUNITY EMPLOYER</b></p><p></p><p>Alston &amp; Bird LLP is an Equal Opportunity Employer does not discriminate on the bases of any status protected under federal, state, or local law. Applicants will be considered regardless of their sex, race, age, religion, color, national origin, ancestry, physical disability, mental disability, medical condition (associated with cancer, a history of cancer, or genetic characteristics), HIV/AIDS status, genetic information, marital status, sexual orientation, gender, gender identity, gender expression, military and veteran status, or other protected category under the law on the basis of race, color, religion, sex, age, sexual orientation, gender identity and/or expression, national origin, veteran status or disability in relation to our recruiting, hiring, and promoting practices.</p><p></p><p>The statements contained in this position description are not necessarily all-inclusive, additional duties and responsibilities may be assigned, and requirements may vary from time to time.</p><p></p><p>Professional business references and a background screening will be required for all final applicants selected for a position.</p><p></p><p>If you need assistance or an accommodation due to a disability you may contact donavan.mclean@alston.com.</p><p></p><p>Alston &amp; Bird is not currently accepting resumes from agencies for this position. If you are a recruiter, search firm, or employment agency, you will not be compensated in any way for your referral of a candidate even if Alston &amp; Bird hires the candidate. </p>",
+    "content_hash": "a1361bfb5a2e2b80d1b5058ae2a67d2e"
+  },
+  "95c50d0373ca": {
+    "id": "95c50d0373ca",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "5353ea33-57d4-46fa-9a96-e392a3f841bc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T16:00:11.257Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>At Base, we're building BaseOS: the operating system that runs the modern power company. It's the firmware on batteries in more than 15,000 homes nationally, the algorithms that balance power in real-time energy markets, the internal tools that deploy and operate a fleet installing roughly 150 batteries a day, and the product members use to see and control their energy.</p><p>As a software engineering intern, you'll ship real code that runs in production on systems that keep power flowing to real homes. You'll work on problems that touch the whole company: balancing electrons in milliseconds, scaling operations into new markets, and automating things most utilities still do by hand.</p><p>This is one of the few places where every line of code has real consequences, in homes, on the grid, and in how Base grows.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p><strong>Build production systems.</strong> Design, build, and deploy production-grade software across the stack, from embedded firmware to backend infrastructure to member-facing products.</p></li><li><p><strong>Ship under real constraints.</strong> Write code that runs under real-world conditions, where failures have physical consequences. Reliability isn't an afterthought, it's the job.</p></li><li><p><strong>Scale Base's operations.</strong> Contribute to the internal tools that let us expand into new markets, handle paperwork and deployment complexity, and orchestrate field operations at scale.</p></li><li><p><strong>Work across domains.</strong> Partner with hardware, deployment, and operations teams to solve problems that span software and the physical world.</p></li></ul><p></p><h3><strong>What You'll Bring</strong></h3><ul><li><p>A strong foundation in software engineering fundamentals: data structures, algorithms, systems design.</p></li><li><p>Demonstrated ability to build and ship working software, through side projects, coursework, or prior internships.</p></li><li><p>A clear, concise communicator who works well in a fast-paced, collaborative environment.</p></li><li><p>A builder's mindset: curious, self-directed, drawn to problems that actually matter.</p></li></ul><p></p><h3><strong>Areas You Can Work In</strong></h3><p><em>(Please indicate your area(s) of interest when applying)</em></p><ul><li><p><strong>Member software.</strong> Everything close to the member: top-of-funnel marketing and growth, onboarding, and the support members get once they've signed up for Base, including bill pay, live telemetry, grid status, and the systems that keep answering correctly through retries, outages, and partial failures.</p></li><li><p><strong>Factory software.</strong> The platform that tracks everything moving in and out of Base's factory: parts, vendors, procurement, receiving, and inventory, plus the tools that connect what happens on the floor to what shows up in our financial systems. A core part of the job is replacing spreadsheets and manual reconciliation with Base-owned systems of record.</p></li><li><p><strong>Deployments / fleet software.</strong> The last-mile engine that gets batteries from warehouse to home: evaluating install sites, automating paperwork and scheduling, and dispatching the right local crews. This team also builds the field-based tools installers and electricians use on-site, backed by a shared work-order and task-automation platform other product surfaces build on.</p></li><li><p><strong>Base Power Platform.</strong> The B2B team building the APIs and services utility partners use to see and control their own Base battery fleets: fleet state, dispatch, and scheduling data served through typed, multi-tenant APIs, with dispatch commands that can't be duplicated or lost.</p></li><li><p><strong>Distributed compute.</strong> Base's newest bet: turning the residential power network into a distributed compute fleet. This small founding team is running early pilots and building the control plane (node enrollment, sessions, routing) that will let thousands of homes serve compute workloads reliably.</p></li><li><p><strong>Product Engineering. </strong>Product-focused, full-stack engineering role. This role leans slightly heavier on front-end skillsets and React/Typescript development. Product Engineers are used across all of the teams listed above. </p></li></ul><p></p><h3><strong>Why Base?</strong></h3><p>Interns at Base work in the same codebase as full-time engineers, no toy projects. You'll learn from a team that's built and scaled complex systems across energy, aerospace, and hardware. Your code will go live on batteries running in real homes today, help us take the model into new markets beyond Texas and Illinois, and shape how the grid actually works.</p><p><strong>This isn't a typical internship. It's a chance to help rebuild the most important system in America. Come build with us.</strong><br /><br /><strong>About the Team</strong></p><p>America's power grid is failing. Electricity costs have risen even as generation gets cheaper, and blackouts are getting more common. We're building the software that fixes it. Our team owns the entire stack: firmware that controls batteries in thousands of homes, trading algorithms that buy and sell power in real-time markets, distributed commanding systems that orchestrate a growing fleet as a single grid asset, factory software for our Austin manufacturing line, and the product experience that makes it all invisible to homeowners. If you want to write code that physically moves electrons, ships hardware, and reshapes critical infrastructure, this is the job.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "20f49ccf4a2bef14449c56fa5f56dc56"
+  }
+}

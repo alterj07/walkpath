@@ -1,0 +1,42 @@
+{
+  "37728e9ca364": {
+    "id": "37728e9ca364",
+    "title": "2027 Internship Simulation Engineer, Neural Rendering",
+    "title_raw": "2027 Internship Simulation Engineer, Neural Rendering",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "77759050-75f5-45ed-a3a8-35b665daaadc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-28T21:59:12.987Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>Before an autonomous excavator digs its first trench on a new site, it's already dug thousands in simulation. The Simulation team builds the virtual environments our autonomy stack trains and tests against — and the closer sim looks and behaves like the real world, the faster we move. Neural rendering is the next step: replacing hand-authored assets and approximations with learned representations that capture the visual complexity of real jobsites — dust, lighting, deformable terrain, heavy equipment in motion. As our Simulation intern, you'll push neural rendering techniques into our sim pipeline and measure whether they actually close the visual gap that matters for downstream autonomy performance.</p><h3><strong>What You'll Do</strong></h3><ul><li><p>Research, implement, and benchmark neural rendering methods (NeRF, 3D Gaussian splatting, or related techniques) for generating realistic construction-site imagery within our simulation stack</p></li><li><p>Train models on real-world site data captured by our fleet and evaluate visual fidelity, temporal consistency, and render speed</p></li><li><p>Integrate neural rendering outputs into the simulation pipeline so perception and planning teams can train and test against them</p></li><li><p>Build evaluation metrics and tooling that quantify how well rendered scenes match real fleet data — and whether that improvement transfers to autonomy performance</p></li><li><p>Identify and address failure modes: dynamic objects, deformable terrain, dust, harsh lighting, and other construction-specific challenges</p></li><li><p>Document findings, limitations, and a recommendation on where neural rendering should (and shouldn't) replace traditional sim assets</p></li></ul><h3><strong>What We're Looking For</strong></h3><h3><strong>Required</strong></h3><ul><li><p>Currently pursuing a BS, MS, or PhD in computer science, computer graphics, robotics, or a related field — or bringing equivalent research or industry experience</p></li><li><p>Strong Python and hands-on experience with PyTorch (or equivalent)</p></li><li><p>Solid understanding of 3D graphics fundamentals: rendering pipelines, scene representations, camera models, and coordinate systems</p></li><li><p>Familiarity with neural scene representations (NeRF, Gaussian splatting, neural radiance fields, or related methods)</p></li><li><p>Comfort with real-world data — construction sites are messy, dusty, and nothing like an indoor dataset</p></li></ul><h3><strong>Preferred</strong></h3><ul><li><p>Published work or substantial project experience in neural rendering, novel view synthesis, or differentiable rendering</p></li><li><p>Experience with simulation engines (Unreal, Unity, NVIDIA Isaac Sim, or similar)</p></li><li><p>Background in autonomous vehicle simulation or synthetic data generation</p></li><li><p>Familiarity with C++ and GPU programming (CUDA, OpenGL, Vulkan)</p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "fe285ff0c143f948d00875862fb08ed4"
+  }
+}

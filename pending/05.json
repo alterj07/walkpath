@@ -1,0 +1,47 @@
+{
+  "05d5de73b8eb": {
+    "id": "05d5de73b8eb",
+    "title": "Women's Design Internship",
+    "title_raw": "Women's Design Internship",
+    "company": {
+      "slug": "buck-mason",
+      "name": "Buck Mason",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "buckmason",
+      "external_id": "9d94696b-3900-45f9-b33e-f7851a75fd71"
+    },
+    "apply_url": "https://jobs.lever.co/buckmason/9d94696b-3900-45f9-b33e-f7851a75fd71/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2022-07-06T15:38:54.989Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:47:33.767Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Buck Mason is seeking aspiring womenswear designers who are eager to gain true industry work experience. If you are a design student and are passionate about iconic and vintage inspired womenswear, we would love for you to apply.\n<h3>Day to Day:</h3>Partner’s with women’s design team. Assist with organization of entire design process- from maintaining design boards to maintain fabric libraries. Assist with tech packs and sketches in illustrator. Participate in fabric and color selection. Conduct market research where applicable for the brand. Attend fittings for all categories and take notes. Follow up with cross functional teams where needed. Assist with styling for campaign + influencer seeding. \n<h3>Qualifications:</h3>Must be working towards a bachelor’s degree as a current Womenswear Design Student at a fashion design school. Knowledge of Adobe Suite. Knowledge of vintage military and workwear apparel. \n<h3>You Are:</h3>Highly creative and passionate about vintage + clothes clothes made for women. Eager to learn and gain true industry work experience. A self starter who takes initiative to solve problems. Hard working individual who is receptive to feedback and adaptable in a fast-paced environment. \n<h3>Takeaways:</h3>You’ll build relations by closely collaborating with design team, production, and other cross functional departments. You’ll have hands on experience with a fast-growing organization \nBuck Mason designs updated, modern American classics for daily wear. Founded in 2013 by Sasha Koehn and Erik Allen Ford, who were neighbors in Venice, California. Initially, they set up shop in a 350 square foot garage off Abbot Kinney Boulevard. Sasha built the website and Erik created the brand’s first collection of jeans and tees. Obsessed with quality, they worked closely with a local family factory to create small batch production runs, crafting each piece using old school manufacturing techniques combined with modern technology.",
+    "content_hash": "28cd6e2c98ca659bb1da6a0da3d4139c"
+  }
+}

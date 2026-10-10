@@ -1,0 +1,129 @@
+{
+  "24cb7f15d81d": {
+    "id": "24cb7f15d81d",
+    "title": "Forward Deployed Engineer Intern (Mountain View)",
+    "title_raw": "Forward Deployed Engineer Intern (Mountain View)",
+    "company": {
+      "slug": "kognitos",
+      "name": "Kognitos",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mountain View",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "kognitos",
+      "external_id": "a4bc3ebf-b619-4c1b-9c9e-784d16c8b148"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-28T18:59:00.455Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.633Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Forward Deployed Engineer Intern</strong></p><p>Kognitos   |   Mountain View, CA (On-site)   |   Paid Internship   |   Start: ASAP</p> <p><strong>About Kognitos</strong></p><p>Kognitos is building the future of business automation. Our platform lets companies automate complex back-office processes using plain English instead of code, powered by large language models and our own neurosymbolic reasoning engine. We work directly with enterprise customers to take the busywork out of finance, operations, and supply chain — and we move fast.</p><p><strong>About the Role</strong></p><p>As a Forward Deployed Engineer (FDE) Intern, you'll sit at the intersection of our customers and our product. You'll work alongside the FDE team to design, build, and deploy automations for real customers solving real problems. This is a customer-facing role: you'll be in the room (and on the calls) with enterprise stakeholders, so we care most about maturity, judgment, and the ability to build trust. The technical craft — our platform, our tooling, the way we deploy — we will train you on. You'll be based on-site in our Mountain View office.</p><p><strong>Who We're Looking For</strong></p><p>We're specifically hiring Master's students who are ready to operate like professionals from day one. The ideal candidate brings:</p><ul><li><p><strong>Maturity and professionalism</strong> — you carry yourself well with customers and senior stakeholders, communicate clearly, and follow through.</p></li><li><p><strong>Strong customer-facing skills</strong> — you listen well, ask the right questions, and can explain technical ideas to non-technical audiences with confidence and warmth.</p></li><li><p><strong>Sound judgment and ownership</strong> — you can navigate ambiguity, prioritize, and take responsibility for outcomes.</p></li><li><p>A genuine curiosity about AI, automation, and how businesses actually run.</p></li></ul><p>We can teach the rest. You do not need deep prior experience with our stack — solid fundamentals and the willingness to learn quickly matter far more than a specific tech checklist.</p><p><strong>What You'll Do</strong></p><ul><li><p>Work directly with customers to understand their processes, gather requirements, and troubleshoot issues.</p></li><li><p>Build and deploy automations on the Kognitos platform, translating business needs into working solutions.</p></li><li><p>Partner with product and engineering to surface customer feedback and help improve the platform.</p></li><li><p>Prototype quickly, test with real data, and iterate based on what customers need.</p></li></ul><p><strong>Baseline Qualifications</strong></p><ul><li><p>Currently pursuing a Master's degree in Computer Science, Engineering, or a related technical field.</p></li><li><p>Solid programming fundamentals (comfortable with Python, or able to pick it up quickly).</p></li><li><p>Excellent written and verbal communication.</p></li><li><p>Eagerness to be in front of customers and to learn on the job.</p></li></ul><p><strong>Logistics</strong></p><ul><li><p><strong>Location: Mountain View, CA</strong> — on-site.</p></li><li><p>Type: Paid internship.</p></li><li><p>Start date: As soon as possible.</p></li></ul><p><em>Kognitos is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</em></p><h3><strong><br />Final note</strong></h3><p>You do not need to match all of the listed expectations to apply for this position. We are committed to building a team with a variety of backgrounds, experiences, and skills.</p><p></p><h3><strong>Equal opportunities provider</strong></h3><p>Kognitos is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.</p>",
+    "content_hash": "caca3ec70dbeaeecbaaa4821390b4857"
+  },
+  "24e1feba2724": {
+    "id": "24e1feba2724",
+    "title": "Ground Software Engineering Intern",
+    "title_raw": "Ground Software Engineering Intern",
+    "company": {
+      "slug": "reflect-orbital",
+      "name": "Reflect Orbital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reflect-orbital",
+      "external_id": "c394615d-26c6-4435-ad84-3ca3269c2952"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-24T19:17:59.115Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.587Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 27,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.</p><p></p><h3>About the Role</h3><p>Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.</p><p>During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.</p><p>Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.</p><p></p><h3>Responsibilities</h3><ul><li><p>Own the design, development, analysis, manufacturing, and testing of novel spacecraft components</p></li><li><p>Build complete tools and testing setups, with an emphasis on fully completing and shipping your work</p></li><li><p>Prototype and iterate rapidly</p></li></ul><p></p><h3>Minimum Qualifications</h3><ul><li><p>You are able to work full-time onsite</p></li><li><p>You are enrolled in a Bachelor's or Master’s degree program from an accredited college or university in aerospace engineering, software engineering, electrical engineering or related engineering field</p></li><li><p>You're capable of incredibly scrappy solutions, but also have experience building &amp; shipping complex and high quality solutions when the problem requires it</p></li><li><p>You're both capable of working highly independently, but you know when to seek guidance</p></li></ul><p></p><h3>Preferred Qualifications</h3><ul><li><p>Experience in software development in languages like Python and C++</p></li><li><p>Experience building services, APIs, or full-stack applications, including work with databases (relational or time-series)</p></li><li><p>Familiarity with Linux environments and command-line tools</p></li><li><p>Familiarity with cloud platforms (e.g. AWS) and container orchestration (e.g. Kubernetes)</p></li><li><p>Understanding of networking fundamentals (protocols, routing, secure connectivity)</p></li><li><p>Familiarity with RF fundamentals, such as link budgets, antenna basics, or modulation and coding schemes</p></li><li><p>Exposure to ground station operations or satellite communication systems (e.g. amateur radio, SDRs, university ground stations, or CubeSat teams)</p></li><li><p>Application of technical skills outside of the classroom (e.g. extracurricular projects, volunteering, personal projects, laboratory research, or prior internship/work experience)</p></li></ul><p>Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.</p><p>We are also interested in carving out unique roles for unconventional people that we are excited about working with.</p><p></p><h3><strong>Benefits</strong></h3><p>Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.</p><ul><li><p>Generous paid time off</p></li><li><p>Healthy lunches provided daily</p><p></p></li></ul><h3><strong>Equal Opportunity</strong></h3><p>Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><p></p><p><strong>More about Reflect Orbital:</strong></p><p>Learn more about our team here.</p>",
+    "content_hash": "f0b424faf48078a8069adefd381928f5"
+  },
+  "24e97e9bc18d": {
+    "id": "24e97e9bc18d",
+    "title": "2027 Internship - Embedded Firmware Engineer",
+    "title_raw": "2027 Internship - Embedded Firmware Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Phoenix, Arizona",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Austin, Texas"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "0af920c1-6ecb-447f-9b22-3eda6b8d4ed8"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T23:16:46.587Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />Cirrus Logic Chandler Arizona is seeking an intern candidate for one of our embedded firmware teams.  This position is focused on developing bare-metal embedded firmware for ARM Cortex-M processors and automating the build and test process for such firmware.  Work hands-on with an experienced team of embedded developers in one Cirrus Logic’s growing development sites. This opportunity is available for the summer semester only. It is available only to students currently enrolled in a MS or PhD program in Electrical Engineering maintaining a GPA of 3.5 or above, and who will be returning to school for at least one semester following completion of his/her internship. Candidate must be available for full-time employment during the internship. \n<h3>Responsibilities</h3>\nDevelop embedded firmware solutions for ARM Cortex-M solutions.  \nUse Python to automate the processing of building, loading, and testing the embedded solution. \n\n \n<h3>Required Skills &amp; Qualifications</h3>\nPursuing a B.S. or M.S. in Computer Science, Electrical Engineering or a related field. \nEmbedded firmware development experience or course work.  \nPython 3x programming experience \nExperience developing bare-metal firmware for ARM Cortex-M processors or RISCV processors.  \nExperience with Git  \nFamiliarity with CI systems like GitHub Actions and Jenkins.  \nExperience using Python to automate software build and test processes.  \n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "18772b01b1f48864d8fa99fce0516905"
+  }
+}

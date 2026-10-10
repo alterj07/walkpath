@@ -1,0 +1,169 @@
+{
+  "5a8d9cf360f9": {
+    "id": "5a8d9cf360f9",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "title_raw": "Software Engineering Intern (Summer 2026)",
+    "company": {
+      "slug": "zettabyte",
+      "name": "Zettabyte",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "zettabyte-space",
+      "external_id": "ec96b63a-e11c-4589-ab25-4f1779fb8759"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-21T05:02:38.373Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:27.446Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Software Engineering Intern</h3><p></p><p>At <strong>Zettabyte</strong>, we're on a mission to make AI compute <strong>ubiquitous, seamless, and limitless</strong>. We're building a cloud where AI just works—anywhere, anytime. <strong>\"AI Power. Everywhere.\"</strong> Be part of the team designing the infrastructure for the AI-first world.</p><p></p><h3>Why This Role Exists</h3><p>We're looking for a <strong>Software Engineering Intern</strong> to help us build the systems powering our GPU cloud platform. You'll contribute to real production code across cloud-native infrastructure, platform tooling, and backend services—working alongside a senior engineering team that moves fast and ships impactful work.</p><p>This is a unique opportunity for someone who's excited to work on AI infrastructure at scale in a high-growth startup. You'll own meaningful work from day one—not just tickets.</p><p></p><h3>What You'll Do</h3><ul><li><p>Build and maintain cloud-native services and tooling supporting our GPU cloud platform</p></li><li><p>Work with Kubernetes to help manage, schedule, and optimize GPU workloads across clusters</p></li><li><p>Design and implement APIs, automation scripts, and internal tooling to improve platform reliability and developer experience</p></li><li><p>Contribute to infrastructure-as-code, CI/CD pipelines, and deployment automation</p></li><li><p>Write clean, well-documented code with testing and participate in code reviews</p></li><li><p>Collaborate cross-functionally with infrastructure, product, and research teams to ship real features</p></li><li><p>Leverage AI-assisted coding tools (GitHub Copilot, Cursor IDE, ChatGPT, etc.) to move fast and write quality code</p><p></p></li></ul><h3>You'll Thrive Here If You</h3><ul><li><p>Are currently pursuing a B.S. or M.S. in Computer Science, Engineering, Mathematics, or a related field</p></li><li><p>Have strong programming skills in Go (Golang), Python, C/C++, or similar</p></li><li><p>Demonstrate strong math and CS fundamentals — algorithms, data structures, discrete math, or systems</p></li><li><p>Have hands-on experience with Kubernetes, Docker, or cloud-native technologies</p></li><li><p>Are familiar with cloud platforms (GCP, AWS, or Azure) and how infrastructure fits together</p></li><li><p>Have worked with Git/GitHub and are comfortable in Linux/Unix environments</p></li><li><p>Can communicate complex technical ideas clearly, in writing and in code</p></li><li><p>Are curious, self-directed, and excited about working in an early-stage environment where your contributions matter</p></li><li><p>Have experience with competitive programming, research, or independent technical projects</p></li></ul><p></p><h3>Bonus If You Have</h3><ul><li><p>Experience with GPU infrastructure, NVIDIA tooling, or AI/ML workload orchestration</p></li><li><p>Familiarity with CNI plugins, network policy, or multi-tenant Kubernetes environments</p></li><li><p>Exposure to observability stacks (Prometheus, Grafana, alerting pipelines)</p></li><li><p>Background in distributed systems or storage (NFS, object storage, high-speed networking)</p></li><li><p>Contributions to open source cloud-native projects</p></li></ul><p></p><h3>Compensation &amp; Perks</h3><ul><li><p>Competitive internship stipend commensurate with experience</p></li><li><p>Hands-on exposure to cutting-edge GPU cloud infrastructure and AI systems</p></li><li><p>Mentorship from senior engineers with deep expertise in AI infrastructure</p></li><li><p>Opportunity to convert to a full-time role for exceptional interns</p></li></ul><p></p><h3>Logistics &amp; Compensation</h3><ul><li><p>Hybrid — 3 days in office (Palo Alto), 2 days WFH</p></li><li><p>Applicants must be authorized to work in the United States without visa sponsorship</p><p></p></li></ul>",
+    "content_hash": "19b045217300e10a21f0f9f96a04542a"
+  },
+  "5ab0e0c186cd": {
+    "id": "5ab0e0c186cd",
+    "title": "IT Applications Intern - 984",
+    "title_raw": "IT Applications Intern - 984",
+    "company": {
+      "slug": "quantinuum",
+      "name": "Quantinuum",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US Broomfield, CO",
+      "city": "US Broomfield",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:quantinuum",
+      "external_id": "aa305a45-955d-42df-9e11-a4babb28041b"
+    },
+    "apply_url": "https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T21:43:11.830Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:06.152Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": {
+      "min": 24,
+      "max": 29,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>We are seeking an <strong>IT Applications Intern</strong> in our <strong>Broomfield, CO</strong> location.  The IT Applications Intern will be a part of the IT Applications team and will play a hands-on role in supporting, deploying, licensing, configuring, administering, automating, auditing, tracking, and troubleshooting the SaaS and desktop applications that run our business process, accounting and finance, DevOps, engineering and control systems.</p>\n<p>As an IT Applications Intern, you will work to ensure stakeholders understand and have access to our systems and services whenever and wherever they need them around the globe.</p>\n<p>A successful IT Applications Intern will have experience collaborating with stakeholders. They will have a curiosity and drive to find their own solutions to technical challenges using internal and external knowledge repositories. They will have experience doing system administration, automation, and troubleshooting.</p>\n\n<h3>Key Responsibilities:</h3>\n\nSupport enterprise application provisioning, licensing, deploymens, migration, and server system support. This work includes configuring, supporting, and troubleshooting on-premises applications (Windows and Linux server OS environments) and SaaS products. \nConfigure 3rd-party integrations (e.g., Box, DocuSign, Smartsheet, or similar), connecting disparate applications and data mappings. \nEnable and Integrate Azure AD SSO. \nMonitor system performance (e.g., Datadog or similar) to safeguard data or configurations to ensure business continuity in the event of system failures or disasters. \nEnsure IT and security controls are consistently implemented and aligned with industry regulations, policies, standards, and best practices. \nContribute to the maintenance of an Approved Application database, and help to maintain approvals, exceptions, and alerts \nAnalyze usage trends and forecast future resource requirements to ensure applications scale to meet growing demands including cost optimization and resource rationalization strategies. \nInteract with software vendors to report issues, request assistance, and stay informed about product updates and future developments. \nCollaborate and engage with stakeholders and IT staff to provide exceptional customer support, system updates, status updates, etc. \nCreate and maintain up-to-date documentation, including drawings, configurations, and recovery plans. \n\n\n<h3>YOU MUST HAVE:</h3>\n\nCurrent enrollment in a bachelor’s degree program working towards a relevant IT field of study. \nDemonstrated student or extracurricular work experience administering systems and applications \nDue to Contractual requirements, applicants for employment for this position must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Quantinuum. (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status) \nDue to national security requirements imposed by the U.S. Government, candidates for this position must not be a People's Republic of China national or Russian national unless the candidate is also a U.S. citizen. \n\n\nQuantinuum is a leading quantum computing company delivering a full stack platform designed to make quantum computing deployable in real-world environments. With active engagements spanning pharmaceuticals, material science, financial services, government, industrial sectors, and leading academic and research institutions worldwide, we are helping organizations unlock the transformative potential of quantum computing. \n \nOur global team of more than 800 employees includes many of the world's leading scientists, engineers, and researchers, with more than 70% of our technology team holding advanced degrees at the Master's or PhD level. Headquartered in Broomfield, Colorado, Quantinuum operates<strong> </strong>across the United States, United Kingdom, Germany, Japan, and Singapore. \n \nBy joining Quantinuum, you’ll help shape the future of quantum computing, pushing the limits of technology, and making the impossible possible.\n \n<p><strong>What’s in it for you?</strong></p>\n\n<p>We believe our people are our greatest strength and offer a comprehensive rewards package that supports your professional growth, well-being, and long-term success.</p>\n<ul>\n<li>For candidates located outside of this state, this role will include a housing stipend of $500 per check/bi-weekly  </li>\n<li>A competitive market rate and innovative, game-changing work</li>\n<li>Flexible work schedule</li>\n<li>Employee discounts</li>\n</ul>\n\n\n<p><strong>Equal Opportunity Employer</strong></p>\n<p>Quantinuum is proud to be an equal opportunity employer. We are committed to building an inclusive workplace where all employees and applicants are treated with respect and provided equal opportunities regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, ancestry, marital status, or any other characteristic protected by applicable law.</p>\n<p><strong>Know Your Rights:</strong> Workplace discrimination is illegal. For more information about Quantinuum, please visit our website. </p>\n<p>We are committed to making our recruitment process accessible to all. If you require any reasonable adjustments at any stage of the application or interview process, please let us know use the Lets talk contact form. </p>\n<p>Applications will be accepted on an ongoing basis, there is no application deadline for this position.</p>",
+    "content_hash": "6634c4d1b22c85b43c5d9e0a16c332e2"
+  },
+  "5ab5af9ea57c": {
+    "id": "5ab5af9ea57c",
+    "title": "IT Specialist Intern",
+    "title_raw": "IT Specialist Intern",
+    "company": {
+      "slug": "lumilens",
+      "name": "Lumilens",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "lumilens",
+      "external_id": "885efe23-c892-486e-8bb4-52070169b7a4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/lumilens/885efe23-c892-486e-8bb4-52070169b7a4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T00:17:29.216Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:14.772Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>ABOUT LUMILENS</p><p>At Lumilens we are building the critical photonics infrastructure that powers tomorrow’s AI supercomputing. From chip-to-chip optical interconnects to scalable photonic engines, Lumilens is unlocking a new era of computing faster, cooler, and massively more efficient.</p><p>We’re a well-funded startup backed by Mayfield and led by industry’s veterans who’ve built and scaled some of the most transformative technologies in the industry. This isn’t incremental innovation, it’s a ground-floor opportunity to rethink the optical layer from the silicon up. You’ll work alongside a team of world-class engineers solving some of the hardest challenges in optics, systems, and scale. Every line of code, every design decision, every breakthrough you help deliver will shape the infrastructure of tomorrow.</p><p>If you're looking for mission, momentum, and the chance to make an outsized impact jump on the rocket ship. We’re just getting started.</p><p>POSITION OVERVIEW</p><p>We’re looking for a motivated IT Specialist Intern to serve as a first point of contact for end-user technical support across Lumilens. In this role, you’ll focus on day-to-day Helpdesk T1 and T2 support, including ticket triage, device troubleshooting, onboarding and offboarding support, and hardware asset management. You’ll also have the opportunity to collaborate with and learn from full-time IT team members on broader endpoint management, identity access, SaaS administration, and security initiatives.</p><p>What You'll Do:</p><ul><li><p>Serve as a first point of contact for T1 and T2 Helpdesk support, triaging and resolving end-user tickets across macOS, Windows, and Linux environments.</p></li><li><p>Assist with device imaging, configuration, and deployment for new hire onboarding using MDM platforms such as Jamf, and Intune.</p></li><li><p>Support user onboarding and offboarding processes, including account provisioning and deprovisioning in identity platforms such as Microsoft Entra.</p></li><li><p>Troubleshoot L1 and L2 connectivity issues including Wi-Fi, VPN, and basic VLAN-related problems, escalating to full-time IT team members as needed.</p></li><li><p>Assist with hardware asset management, including inventory tracking, asset tagging, and lifecycle documentation.</p></li><li><p>Support conference room AV equipment maintenance, including troubleshooting displays, video conferencing systems, and audio hardware.</p></li><li><p>Create and maintain Helpdesk documentation, runbooks, and knowledge base articles to support team efficiency and knowledge sharing.</p></li><li><p>Collaborate with full-time IT team members on projects spanning endpoint management, identity and access management, SaaS administration, and security.</p></li></ul><p>Key Qualifications:</p><ul><li><p>Currently pursuing or recently completed a degree in Computer Science, Information Technology, Information Systems, or a related field.</p></li><li><p>Foundational understanding of operating systems including macOS, Windows, or Linux; coursework or personal experience counts.</p></li><li><p>Basic understanding of networking concepts such as TCP/IP, DNS, and DHCP.</p></li><li><p>Strong communication and interpersonal skills, with the ability to support a diverse, non-technical user base with patience and empathy.</p></li><li><p>Eagerness to learn, take initiative on Helpdesk tasks, and collaborate effectively with full-time IT team members.</p></li></ul><p>Preferred Skills:</p><ul><li><p>Prior Helpdesk, IT support, or customer-facing technical support experience through an internship, part-time role, volunteer experience, or similar hands-on environment.</p></li><li><p>Familiarity with an MDM platform such as Jamf, Intune, or Kandji.</p></li><li><p>Experience with Google Workspace, Slack, or Zoom administration.</p></li><li><p>Basic scripting knowledge in Python, Bash, or PowerShell for automating routine IT tasks.</p></li><li><p>Familiarity with identity and access management concepts such as SSO, MFA, and user lifecycle management.</p></li><li><p>Experience in a regulated environment or awareness of data privacy best practices, including HIPAA or PII handling.</p></li></ul><p>Why Join Us?</p><ul><li><p>Competitive salary commensurate with experience</p></li><li><p>Comprehensive benefits package including health insurance</p></li><li><p>Professional development opportunities and certification support</p></li><li><p>Access to cutting-edge technology and cloud platforms</p></li><li><p>Collaborative work environment with cross-functional teams</p></li><li><p>Innovate with a Silicon Valley headquartered team, change the world</p></li><li><p>Lumilens is an equal opportunity employer. All qualified applicants will receive consideration without regard to race, color, religion, gender, identity, orientation, veteran status, disability, or any other legally protected status.</p></li></ul>",
+    "content_hash": "7febc20d64889f3b5d1b387b4d61b07d"
+  },
+  "5af5dce0c46f": {
+    "id": "5af5dce0c46f",
+    "title": "Analytics Business Operations Intern",
+    "title_raw": "Analytics Business Operations Intern",
+    "company": {
+      "slug": "agilent-technologies",
+      "name": "Agilent Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Spain-Barcelona",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": [
+        "Spain-Remote Location-Barcelona"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "agilent/Agilent_Student_Careers",
+      "external_id": "4040010"
+    },
+    "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Spain-Barcelona/Analytics-Business-Operations-Intern_4040010",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:51:03.691Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><b>Job Description</b></h3><br /><p>Agilent inspires and supports discoveries that advance the quality of life. We provide life science, diagnostic and applied market laboratories worldwide with instruments, services, consumables, applications and expertise. Agilent enables customers to gain the answers and insights they seek, so they can do what they do best: improve the world around us. Information about Agilent is available at www.agilent.com.</p><br /><p><b>Step into the future of data and AI as our Analytics &amp; Data Governance Inter</b>n. In this Internal business-facing role, you’ll help our teams work smarter by bridging the gap between technical tools and everyday users. You will support projects, manage communications, and organize SharePoint content to be accessible, AI-powered knowledge resources. If you enjoy translating complex processes into clear guidance and empowering users to maximize analytics, AI agents, and Microsoft Copilot, this is the perfect opportunity to make an impact.</p><br /><p><b>Key responsibilitie</b>s</p><br /><ul><li><b>Content Creation:</b> Develop and maintain user-friendly SharePoint pages, FAQs, and process guides to simplify analytics tools for business users.</li><li><b>Analytics Communications</b>: Prepare updates, organize announcements, and manage communication calendars to ensure clear, timely delivery of information.</li><li><b>Knowledge Managemen</b>t: Keep analytics resources accurate, well-structured, and easy to navigate so they align with current updates and support needs.</li><li><b>End-User Suppor</b>t: Empower users by addressing common questions, routing technical escalations, identifying knowledge gaps, and reviewing analytics dashboards and support materials to ensure optimal usability, working links, and clear terminology.</li><li><b>AI Integration:</b> Organize and optimize content to power AI-enabled knowledge initiatives, including searchbots, Microsoft Copilot, and automated support processes.</li><li><b>Project Coordination:</b> Support daily operations by preparing meeting materials, tracking action items, updating project statuses, and keeping deliverables organized.</li></ul><br /><h3></h3><h3><b>Qualifications</b></h3><br /><p><b>Position Summary</b></p><br /><p><b>Location</b>: Hybrid/Remote (Must be based in Spain)</p><p><b>Start Date:</b> November 2026</p><p><b>Duration:</b> 12 months preferable</p><p><b>Requirements &amp; Eligibility</b></p><br /><ul><li><b>Student Status (Mandatory)</b>: You must be currently enrolled in an official study program (University Degree, Master’s, or equivalent) and maintain active student status throughout the entire 12-month duration of the internship.</li><li><b>Ineligibility:</b> Graduates or candidates completing their studies before the end of the internship period cannot be considered.</li><li><b>Residency: </b>Must be legally based in Spain for the full duration of the program.</li></ul><p></p><p><b>Education:</b> Pursuing or recently graduated with a degree in Business, Communications, Information Systems, Analytics, or a related field.</p><p><b>Language</b>: Advanced English proficiency required to effectively facilitate meetings, draft communications, and engage stakeholders.</p><p><b>Communication:</b> Strong writing and organizational skills to successfully translate complex, technical information into clear, practical guidance.</p><p><b>Project Management:</b> A basic understanding of project management concepts, such as tracking milestones and action items, is a plus.</p><p><b>Technical &amp; Analytics Tools:</b> Comfortable using Microsoft 365 (SharePoint, Teams) to organize content and streamline processes. Familiarity with BI tools (Power BI, Qlik) is a bonus, but advanced data analysis is not required, as this role does not involve technical development.</p><p><b>AI Interest:</b> Eager to learn how AI agents and Microsoft Copilot can enhance knowledge management and content creation.</p><p><b>Work Style:</b> Proactive and collaborative team player who is also highly comfortable working independently.</p><br /><p>•\t<b>Please submit your CV in English</b></p><br /><p>If you feel motivated and ready to participate in the challenge, we are looking forward to your application. Please, complete the application process online.</p><p></p><p><b>Additional Details</b></p><p></p>This job has a full time weekly schedule. It includes the option to work remotely.<p></p>Agilent Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.<p></p><h3><b>Travel Required: </b></h3>No<p></p><h3><b>Shift: </b></h3>Day<p></p><h3><b>Duration: </b></h3>9-12 Months<p></p><h3><b>Job Function: </b></h3>General",
+    "content_hash": "91a0b54d4df81e925161f5146e2f789e"
+  }
+}

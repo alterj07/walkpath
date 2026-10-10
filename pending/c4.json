@@ -1,0 +1,58 @@
+{
+  "c4fd3c4d1846": {
+    "id": "c4fd3c4d1846",
+    "title": "Apprentice Business Analyst",
+    "title_raw": "Apprentice Business Analyst",
+    "company": {
+      "slug": "gratia",
+      "name": "Gratia",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Global",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": [
+        "Brazil",
+        "Remote",
+        "Chile",
+        "Philippines",
+        "Colombia",
+        "Mexico",
+        "Portugal",
+        "Morocco",
+        "Argentina",
+        "Spain"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gratia",
+      "external_id": "1a766925-a553-42a7-936e-924bfbbaaa53"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gratia/1a766925-a553-42a7-936e-924bfbbaaa53/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-28T10:10:25.778Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.197Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 8,
+      "max": 10,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Gratia, we believe potential is globally distributed, but opportunity is not. Our mission is to turn great talent's potential into fulfilling global careers through professional development and tech-enabled platforms. We bridge the gap between ambitious companies and hands-on experts who deliver real results instead of just theoretical plans.</p><p>Gratia is a remote-first, apprenticeship-based platform where opportunity is defined by what you can do and deliver. Our clients include global names like USA Today Co., Endeavor, and New York Life. We maintain an 88.2 Net Promoter Score because we focus on rigorous execution, not just high-level advice.</p><p></p><h3><strong>The role</strong></h3><p>Our operations team processes claims, manages data reporting, and resolves escalations in a fast-paced environment. This role is designed for someone early in their career who wants to learn business analysis and operations from the ground up by doing the actual work.</p><p>This is a hands-on-keyboard execution role. You will spend your day reviewing documents, updating data, and talking to stakeholders, not building high-level strategy decks.</p><p></p><h3><strong>What You’ll Be Doing</strong></h3><ul><li><p>Process documentation, claims, and data reports strictly following standard operating procedures.</p></li><li><p>Identify and flag anomalies, missing information, or process breaks to senior team members before they become bigger issues.</p></li><li><p>Communicate directly with customers and internal stakeholders to resolve escalations and answer questions clearly.</p></li><li><p>Maintain and update tracking spreadsheets or internal systems to ensure accurate daily reporting.</p></li><li><p>Manage conflicting priorities and deadlines, communicating trade-offs to your team when urgent requests arrive.</p><p></p></li></ul><h3><strong>What We’re Looking For</strong></h3><ul><li><p>BS degree or equivalent practical experience.</p></li><li><p>Up to 2 years of experience in an operations, administration, data entry, or call center.</p></li><li><p>High attention to detail and the discipline to follow multi-step processes accurately without cutting corners.</p></li><li><p>Strong problem-solving instincts with a clear understanding of when to investigate an issue and when to escalate it.</p></li><li><p>Excellent written and spoken English skills, with the ability to communicate empathetically during customer or stakeholder escalations.</p></li><li><p>A flexible schedule that allows for a consistent daily overlap with US business hours.</p></li><li><p>Fluency in Spanish is ideal</p><p></p></li></ul><h3><strong>Why Gratia is Your Next Step</strong></h3><ul><li><p><strong>Flexible Freelance Model:</strong> This is a long-term contract/freelance role designed for independent professionals who want the freedom of private practice without the isolation of working alone.</p></li><li><p><strong>Experience-Based Rates:</strong> Compensation is tailored to your expertise.</p></li><li><p><strong>Portfolio Growth:</strong> Elevate your profile by working directly with leaders at innovative global organizations like Gannett and Portrait Analytics.</p></li><li><p><strong>A Clear Path Forward:</strong> We believe in moving from \"doing\" to \"leading.\" You’ll have a defined trajectory to gain specialized expertise and leadership skills.</p></li></ul>",
+    "content_hash": "eab626a02edcaeac1f6bac5e7c05f33a"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "cf07b293984d": {
+    "id": "cf07b293984d",
+    "title": "Intern - NRad & Nuclear/Systems Engineer - Summer 2027",
+    "title_raw": "Intern - NRad & Nuclear/Systems Engineer - Summer 2027",
+    "company": {
+      "slug": "commonwealth-fusion-systems",
+      "name": "Commonwealth Fusion Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Devens, MA",
+      "city": "Devens",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "cfsenergy",
+      "external_id": "a05832ae-41df-4e2d-ab86-dd3e2c4877d4"
+    },
+    "apply_url": "https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T18:33:20.890Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:48:34.624Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 38,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>About Commonwealth Fusion Systems: </strong>\n \nCommonwealth Fusion Systems is on a mission to deliver the urgent transition to fusion energy.\n \nCombining decades of research, top talent, and new technologies, we’re designing and building commercially viable fusion power plants. And we're working with policymakers, suppliers, and many others to build the energy industry of the future.\n \nWe’re in the best position to make it happen. Since 2018, we’ve raised $4 billion of capital, making us the largest and leading fusion company in the world.\n \nNow we’re looking for more thinkers, doers, builders, and makers to join us. People who’ll bring new perspectives, solve tough problems, and thrive as part of a team. \n \nIf that’s you and this role fits, we want to hear from you.\n<strong>About Commonwealth Fusion Systems: </strong>\n \nCommonwealth Fusion Systems is on a mission to deliver the urgent transition to fusion energy.\n \nCombining decades of research, top talent, and new technologies, we’re designing and building commercially viable fusion power plants. And we're working with policymakers, suppliers, and many others to build the energy industry of the future.\n \nWe’re in the best position to make it happen. Since 2018, we’ve raised $4 billion of capital, making us the largest and leading fusion company in the world.\n \nNow we’re looking for more thinkers, doers, builders, and makers to join us. People who’ll bring new perspectives, solve tough problems, and thrive as part of a team. \n \nIf that’s you and this role fits, we want to hear from you.<br /><strong>Join the power movement as a NRad or Nuclear/Systems Engineering Intern</strong>\n \nWe are looking for talented NRad and Nuclear/Systems Engineering Interns to join our team! CFS interns are highly valued within the organization and placed into meaningful and challenging roles.\n<h3>Program Details:</h3>\n<strong>13-18 week internship</strong> \n40-50 hours per week with set hourly salary based on year in school \nOpportunities on site in Devens, MA. If an intern is going to be on site, you will be responsible for your own transportation and housing \nSpecific project assignments and required technical skillset will vary based on the team’s existing need. \nOpportunities available for currently enrolled college students in all levels of schooling from bachelor’s degree to PhD \nInterns must be authorized to work in the United States for any employer \n\n<h3>What you'll do:</h3><strong>The NRad intern</strong>\n<ul>\n<li>Collaborate with engineers on the Nuclear Engineering team to do neutronics calculations (heating, activation, flux, dose, etc) to support the design and operation of SPARC, the scoping of ARC, and any other nuclear engineering needed</li>\n<li>Work on projects such as, but not be limited to: Neutronics analyses such as energy deposition in delicate materials or shielding sensitivity studies for diagnostic design</li>\n<li>Contribute to the computational development of method and workflows needed to support and optimize different types of neutronics analyses</li>\n\n \n \n \n<strong>The Nuclear/Systems Engineering Intern </strong>\n<ul>\n<li>Support the interface of Nuclear Engineering and Systems Engineering working  collaboratively with both teams on neutronics analyses and their application to the development of system design</li>\n<li>Work on projects such as, but not limited to: participating in Hazard Identification reviews and evaluation of accident scenarios, development and verification of radiation related system requirements, and margin budget development, tracking, and support.</li>\n</ul></ul>\n<h3>What we’re looking for:</h3><ul>\n<li>Pursuing an engineering degree with focus in the fields Nuclear Engineering or Mechanical Engineering</li>\n<li>Neutron Transport or Neutronics or a Reactor Theory course completed by the start of internship</li>\n<li>Experienced in MCNP or OpenMC</li>\n<li>Experience in Mechanical Design through courses, previous internships, or class projects</li>\n<li>Strong communication skills and a willingness to learn </li>\n<li>Must work well in a team</li>\n<li>Must be highly self-motivated and driven to execute quickly with excellent troubleshooting/problem-solving skills</li>\n<li>Prior hands-on experience or internships working in a commercial/research fission plant environment or the naval nuclear power program</li>\n<li>Optional: experienced in CAD and/or Python/ C++</li>\n</ul>\n<h3>Must-have Requirements:</h3>\nWillingness to travel or work required nights/weekends/on-call occasionally \nPerform activities such as typing, standing, or sitting for extended periods of time \nDedication to safety to mitigate industrial hazards that may include heat, cold, noise, fumes, strong magnets, lead (Pb), high voltage, and cryogenics \n\n#LI-Onsite<br />At CFS, we excel in fast-paced environments, driven by our values of integrity, execution, impact, and self-critique. As we grow, we’re eager to bring on mission-driven folks who offer diverse perspectives and fresh ways to tackle challenges.\n \nWe value diversity deeply and are proud to be an equal opportunity employer by choice. We consider all qualified applicants equally, regardless of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law.\n \n<strong>This role requires compliance with U.S. laws concerning the export of controlled or protected technologies or information (collectively, “Export Control Laws\"). Any offer of employment will be contingent on the need for compliance with such Export Control Laws.</strong>",
+    "content_hash": "b023712fe3a5561ee00073f398ae5010"
+  },
+  "cf40177bbc3c": {
+    "id": "cf40177bbc3c",
+    "title": "Software Engineering Intern, Backend",
+    "title_raw": "Software Engineering Intern, Backend",
+    "company": {
+      "slug": "ramp",
+      "name": "Ramp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY (HQ)",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ramp",
+      "external_id": "acf6b28d-767f-483f-8ff2-114620cd7e04"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-09T01:01:29.953Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.286Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 12500,
+      "max": 12500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Ramp</strong></h3><p>Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p>The problems are high-stakes, data-dense, and unforgiving.</p><p>We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.</p><p>The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.</p><p>If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.</p><p></p><p>Explore our Engineering Blog &amp; Emerging Talent Blog to learn more about how we build at Ramp and what it’s like to start your career here.</p><p></p><h3><strong>About the Role</strong></h3><p>Ramp is, at its core, an engineering company. We’re looking for backend engineering interns (12 or 16-week co-ops) excited to solve challenging technical problems and ship products used by real customers.</p><p>You’ll work alongside experienced engineers and own meaningful projects from inception to production. We value strong technical fundamentals, high ownership, and people who learn quickly, whether or not they’re familiar with our stack.</p><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p>Build performant, reliable, and scalable systems powering Ramp’s products</p></li></ul><ul><li><p>Own meaningful projects from design through launch</p></li><li><p>Solve problems across areas like payments, risk and fraud, financial infrastructure, data, and AI</p></li><li><p>Work closely with product and business teams to understand customer needs and improve our products</p></li><li><p>Contribute to engineering tools and systems that help Ramp scale</p></li></ul><p></p><h3><strong>What You’ll Need</strong></h3><ul><li><p>Currently pursuing a B.S. or higher in Computer Science or a related technical field, graduating December 2027 or later</p></li><li><p>Strong computer science and programming fundamentals</p></li><li><p>Track record of building and shipping high-quality products, features, or projects</p></li><li><p>Ability to turn ambiguous product and business problems into engineering solutions</p></li><li><p>Desire to learn quickly, take ownership, and work in a fast-paced environment</p></li></ul><p></p><h3><strong>Nice to Haves</strong></h3><ul><li><p>Experience with or interest in Python and backend development</p></li><li><p>Familiarity with or desire to learn our stack, including Flask, PostgreSQL, Temporal, Elixir, and AWS</p></li><li><p>Interest in fintech, AI, or building products at scale</p></li></ul><p></p><h3><strong>Compensation</strong></h3><p>The monthly rate for this internship is $12,500 + a housing stipend.</p><p></p><h3><strong>Ramp Benefits</strong></h3><ul><li><p>Apple MacBook</p></li><li><p>Catered lunches and dinners in our NYC office Monday through Friday</p></li></ul> <p></p><h3><strong>Benefits available to all full-time Ramp employees (Global)</strong></h3><ul><li><p>Flexible PTO</p></li><li><p>Centralized home-office equipment ordering</p></li><li><p>Health and wellness stipend</p></li><li><p>Budget for intra-office travel</p></li><li><p>Weekly coffee stipend</p></li></ul><p></p><h3><strong>United States</strong></h3><ul><li><p>100% medical, dental &amp; vision insurance coverage for you, with partial coverage for dependents</p></li><li><p>One Medical annual membership</p></li><li><p>401(k), including employer match on contributions made while employed by Ramp</p></li><li><p>Fertility HRA (up to $10,000 per year)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay</p></li><li><p>Pet insurance</p></li><li><p>In-office perks: lunch, snacks, drinks, and more</p></li><li><p>Relocation expense coverage to NYC or SF (if needed)</p><p></p></li></ul><h3><strong>Canada</strong></h3><ul><li><p>Group medical, dental, and vision coverage through Sun Life</p></li><li><p>Life, AD&amp;D, and disability coverage</p></li><li><p>Fertility drug coverage (up to $4,000 lifetime)</p></li><li><p>Group Retirement Plan with employer match (RRSP + DPSP)</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay</p></li><li><p>Employee Assistance Program and virtual care through Lumino Health</p></li></ul><p></p><h3><strong>United Kingdom</strong></h3><ul><li><p>Private medical insurance through Freedom Elite</p></li><li><p>Virtual GP and at-home care via eMed x Livi</p></li><li><p>Workplace pension through Penfold, with salary sacrifice option</p></li><li><p>Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay</p></li></ul><p></p><h3><strong>Referral Instructions</strong></h3><p>If you are being referred for the role, please contact that person to apply on your behalf.</p> <h3><strong>Other notices</strong></h3><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p> <p><em>Beware of recruiting scams: Ramp will only contact you through official @</em><em>Ramp.com</em><em> email addresses and will never ask for payment or sensitive personal information during the hiring process.</em></p> <p>Ramp Applicant Privacy Notice</p>",
+    "content_hash": "c7692731b2d6491e4260b3dfe17390b8"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "08df06247f78": {
+    "id": "08df06247f78",
+    "title": "Robotics Customer Success Intern",
+    "title_raw": "Robotics Customer Success Intern",
+    "company": {
+      "slug": "matic",
+      "name": "Matic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Menlo Park, CA",
+      "city": "Menlo Park",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "maticrobots",
+      "external_id": "a0d77cc5-555f-46d8-89b1-e1df201a77dc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/maticrobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T02:30:04.276Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.198Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Company Overview</h3><p>Each year, 2.5 trillion hours are spent on household chores. At Matic, we’re on a mission to recapture that lost time, and we’re doing it by revolutionizing home robotics.</p><p>Our first product, also called Matic, is a Wall-E-esque floor cleaning robot. We've built what amounts to \"full self-driving in the home” with real-time 3D mapping, adaptive path-tracking, and a precise semantic understanding of the home. Our breakthroughs in spatial AI allow Matic to work reliably in real homes, using only RGB cameras and neural networks running on-device.</p><p></p><h3>Privacy First</h3><p>What happens in the home, stays in the home. Our robots are private by design, with all data processing performed by the robot itself, not in the cloud.</p><p></p><h3>Our Approach</h3><p>Before the iPhone, consumers adopted several distinct devices; cell phones, PDAs, and portable music players each served a particular need. We believe in a similar progression for home robotics, starting with single-purpose robots and building iteratively toward more complex capabilities over time.</p><p></p><h3>Our Culture</h3><p>Matic is a tight-knit and collaborative team, singularly focused on building products our customers will cherish. We're ultra-hardworking people committed to solving tough problems that save precious time and energy.</p><p></p><h3><strong>About the role</strong></h3><p>Matic is building the next generation of consumer home robotics. Small team, high ownership, moving fast. We're looking for a Robotics Customer Success Intern to own ticket resolution end-to-end.<br /><br />This is a hands-on role. You'll be in the weeds with customers every day: running onboarding, answering tickets, and closely collaborating with Engineering, Product, and Marketing teams. You'll help build the systems, playbooks, and infrastructure that let us deliver a deeply personal experience to every single customer as we grow from ten thousand to a hundred thousand and beyond.<br /><br />We believe that the best customer service is no customer service, a product so intuitive and reliable that customers never need to reach out. The second-best is just-in-time, self-service help that anticipates questions before they're asked. You'll build both: proactive systems that eliminate friction, and a white-glove experience for the moments that matter most.<br /><br /><br /><strong>What you’ll do:</strong><br /><br /><strong>Deliver a Three-Michelin-Star Customer Experience</strong></p><ul><li><p>Own tickets end-to-end. First response to resolution. No missed replies, no open threads, no customer left hanging. </p></li><li><p>Diagnose bugs, walk customers through fixes, and coordinate repairs or replacements when needed.</p></li><li><p>Escalate the hard ones to Engineering, Product, or Ops, and drive them to closure.</p></li><li><p>Analyze customer issue data obsessively. Spot patterns across tickets. Surface recurring issues, root causes, and product gaps to the team so the same problem doesn't hit a second customer.</p></li><li><p>Develop deep product knowledge across hardware, software, algorithms, and the Matic app. Know the product inside and out: every component, every edge case, every workaround.</p></li><li><p>Develop and deploy AI tools such as skills and agents to improve response times and support quality, and build a feedback loop that results in continuous improvement of customer success processes</p></li></ul><p></p><p><strong>What we look for:</strong></p><ul><li><p>Deep customer empathy paired with a bias toward action. You care about the customer, and you move fast to resolve the issue.</p></li><li><p>Technical curiosity. You don't need to be an engineer, but you need to understand how a complex hardware + software + AI product works well enough to troubleshoot, explain, and advocate intelligently.</p></li><li><p>Bachelor's degree completed or in progress. Technical or analytical background preferred.</p></li><li><p>This role can be a path to full-time for the right candidate, based on performance and team needs.</p></li></ul><p></p><p><strong>What we value:</strong></p><ul><li><p>Customer obsession. Every interaction, every email, every call, every unboxing, should feel like the customer is the most important person in the world. Because to us, they are.</p></li><li><p>Details, details, details. The difference between good and exceptional lives in the details. You catch what others miss and you care about things other people think don't matter.</p></li><li><p>Ownership and follow-through. You don't wait to be told. You see the gap, you fill the gap, and you make sure it stays filled. No ball gets dropped.</p></li><li><p>Analytical rigor. You back up intuition with data. You measure what matters, you know what good looks like, and you hold yourself and your team to it.</p></li></ul><p><br /><strong>We'd love to hear from you if...</strong></p><ul><li><p>You're the kind of person who reads every customer review, the good ones and the bad ones, because you genuinely care about how people experience a product.</p></li><li><p>You love the challenge of diagnosing complex, cross-functional problems, the ones that span hardware, software, logistics, and human psychology.</p></li><li><p>You get fired up about consumer robotics and the idea of putting an extraordinary product into people's homes.</p></li><li><p>You're excited to do your life's work.</p></li></ul><p></p><h3><strong>Requirements</strong></h3><ul><li><p>Weekend availability. We support our customers seven days a week, so the team rotates weekend coverage. You won't work every weekend, but you'll take your turn.</p></li></ul> <h3><strong>Compensation:</strong></h3><p>Base: $25- $35/hour.<br /><br />Actual Compensation will depend on skills, experience, and qualifications. </p>",
+    "content_hash": "c75faf20f4405fe6380179ebb04ceab7"
+  },
+  "08fa6f48b97d": {
+    "id": "08fa6f48b97d",
+    "title": "Information Security Intern",
+    "title_raw": "Information Security Intern",
+    "company": {
+      "slug": "ibotta",
+      "name": "ibotta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid - Denver",
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ibotta",
+      "external_id": "bc7c532d-931a-40fb-8c6c-b6939dd98582"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T16:51:36.769Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.426Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 26.92,
+      "max": 26.92,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ibotta is seeking an <strong>Information Security</strong> <strong>Intern</strong> to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our <strong>2027 Summer Internship</strong>, you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your career. We are looking for candidates who are eager to learn, excited to work on real-world business challenges, and want to be part of a mission-driven company. This will be a full-time, 12 week, internship during the summer of 2027. </p> <p>This position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.</p> <p><strong>What you will be doing:</strong> </p> <ul><li><p>Building out automation using for our security processes across various domains, including but not limited to:</p><ul><li><p>Vulnerability Management</p></li><li><p>Detection Engineering</p></li><li><p>Cloud Identity Management</p></li><li><p>SOC2 and SOX ITGC compliance</p></li></ul></li><li><p>Learning our existing security tooling to identify process efficiencies</p></li><li><p>Act as Level 1 alert triage where you will learn how to analyze security alerts and perform investigations</p></li><li><p>Embrace and uphold Ibotta’s Core Values: <em>Integrity, Boldness, Ownership, Teamwork, Transparency &amp; A good idea can come from anywhere</em></p></li></ul><p></p><p><strong>What we are looking for:</strong>  </p> <ul><li><p>Juniors working towards a bachelor’s degree with a focus in <strong>Cybersecurity, Computer Science, Business Information Systems, Risk Management</strong> or related field</p></li><li><p>Proven ability to think creatively and implement ideas from start to finish</p></li><li><p>Good written and verbal communication skills</p></li><li><p>Hunger to learn and collaborate with your teammates</p></li><li><p>Familiarity with AI tools (Claude, etc)</p></li><li><p>Interest in technology and innovation associated with a fast-paced industry</p></li><li><p>Familiarity with information security principles</p></li><li><p>Functional understanding and experience with cloud-based computing solutions (Github, AWS) </p></li><li><p>Familiarity with at least one programming language (Python, etc)</p></li></ul> <p><strong>About Ibotta (“I bought a…”)</strong></p> <p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine. </p><p></p><p>To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.</p><p></p><p><strong>Additional Details:</strong></p><ul><li><p>This position is located in Denver, CO and includes competitive pay and housing assistance for eligible students. <strong>Denver office perks include paid parking, snacks, and occasional meals.</strong></p></li><li><p>The hourly compensation for this role is: <strong>$26.92</strong> per hour worked. This compensation range is specific to the United States labor market.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul><p></p><p><strong>Recruiting Agency Notice</strong><br />Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p>",
+    "content_hash": "c650da896e646aaac2fbc1b8692b2d91"
+  }
+}

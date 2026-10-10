@@ -1,0 +1,42 @@
+{
+  "f540c4f6c595": {
+    "id": "f540c4f6c595",
+    "title": "Intern, Power Electronics Controls Engineer (Spring 2027)",
+    "title_raw": "Intern, Power Electronics Controls Engineer (Spring 2027)",
+    "company": {
+      "slug": "heron-power",
+      "name": "Heron Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Scotts Valley",
+      "city": "Scotts Valley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heron-power",
+      "external_id": "225d25cd-4b1a-4025-92bf-0624f2261862"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T18:02:10.122Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.803Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>What to Expect</strong></h3><p>Heron Power is a startup company building cutting-edge power electronics for the 21st-century grid. We aim to debottleneck the growth of electricity generation and consumption with scalable, innovative, and less costly hardware solutions, accelerating the electrification of everything.</p><p>Our first goal is to build better converters (inverters &amp; rectifiers) to connect large-scale renewables, storage, and loads to the grid. Heron’s leadership team is made up of seasoned veterans who have designed and shipped gigawatts of power conversion products over the past decade.</p><p>We understand that no one individual knows everything. We will all learn <em>a lot</em> together and from each other. We strive to build a collaborative, enriching environment conducive to personal, technical, and career growth. You can expect to work in a dynamic and collaborative environment, driven by first principles engineering, solving difficult problems.</p><p></p><h3><strong>Job Overview</strong></h3><p>As an Intern, Power Electronics Controls Engineer, you will be responsible for dynamic modeling, controller design, implementation, and validation for power converters. Additionally, you will be responsible for system analysis and integration.</p><p></p><h3><strong>How You Will Contribute</strong></h3><ul><li><p><em>Evaluate system-level requirements and translate to dynamic performance and controls specs</em></p></li><li><p><em>Analyze and model candidate converter topologies and architectures, and work with the hardware team to evaluate engineering trade-offs</em></p></li><li><p><em>Outline and design controller architecture to achieve design and dynamic objectives</em></p></li><li><p><em>Capture controller design in Matlab/Simulink</em></p></li><li><p><em>Perform small-signal modeling aimed at tuning and stabilizing controller responses</em></p></li><li><p><em>Review electrical schematics and suggest changes to ensure signal acquisition and the plant are well-designed to handle transients and edge-cases</em></p></li><li><p><em>Translate algorithms from Simulink into embedded code (in C language)</em></p></li><li><p><em>Create and utilize hardware-in-the-loop (HiL) setups for validation</em></p></li><li><p><em>Work with hardware team to perform prototype bring-up and validation</em></p></li><li><p><em>Create and execute dynamic stress-test plans</em></p></li><li><p><em>Design and support special behaviors required for thermal, reliability, and compliance tests</em></p></li><li><p><em>Design and support special behaviors required for end-of-line testing for volume production</em></p></li><li><p><em>Review and analyze fleet data, and devise performance improvement and failure mitigation strategies</em></p></li><li><p><em>As a startup, we expect individuals to engage and overlap with teams with adjacent skill-sets. Expect to overlap both with circuit-design engineers and firmware engineers as needed.</em></p></li></ul><p></p><h3><strong>What You Will Bring</strong></h3><p>We have a short list of must-have requirements. We prioritize a strong grip on first principles, hands-on skills, and a sense of initiative. Domain-specific knowledge and experience will help determine the career level for each hire.</p><p></p><h3><strong>Must-Have Requirements</strong></h3><ul><li><p><em>Currently pursuing a Bachelor’s, Master’s, or PhD in Electrical Engineering (or a related field).</em></p></li><li><p><em>Strong electrical engineering fundamentals</em></p></li><li><p><em>Familiarity with simple power conversion topologies</em></p></li><li><p><em>Understanding of dynamic models and control systems</em></p></li><li><p><em>Ability to write and troubleshoot C-code</em></p></li><li><p><em>Hands-on circuit troubleshooting experience</em></p></li></ul><p></p><h3><strong>Nice-to-Haves</strong></h3><ul><li><p><em>Experience with design and controls of grid-tied inverter systems</em></p></li><li><p><em>Familiarity with modular architectures and/or multi-level topologies</em></p></li><li><p><em>Familiarity with grid-code requirements such as IEEE1547, IEEE2800, UL1741, or equivalent</em></p></li><li><p><em>Embedded coding and troubleshooting experience</em></p></li><li><p><em>Experience in high-volume production and support</em></p></li><li><p><em>Familiarity with power system modeling, operation, and common protection techniques</em></p></li><li><p><em>Experience with PV conversion systems including maximum power point tracking (MPPT) and arc-fault detection</em></p></li></ul><p>If you are passionate about technology and enjoy working in a fast-paced environment, we would love to hear from you. Join us in accelerating the electrification of everything at Heron Power.</p>",
+    "content_hash": "7b2c8b3eaedb966ed7408c54fa55df97"
+  }
+}

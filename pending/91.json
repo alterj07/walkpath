@@ -1,0 +1,42 @@
+{
+  "918c1c10e9ba": {
+    "id": "918c1c10e9ba",
+    "title": "EagleSTAR, Trainee FE Developer, JR820",
+    "title_raw": "EagleSTAR, Trainee FE Developer, JR820",
+    "company": {
+      "slug": "eleks",
+      "name": "Eleks",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote (Ukraine)",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eleks",
+      "external_id": "3640629b-ee2d-49b4-92c5-8f33e0df2521"
+    },
+    "apply_url": "https://jobs.lever.co/eleks/3640629b-ee2d-49b4-92c5-8f33e0df2521/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T08:38:24.550Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:53:06.042Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "ELEKS Software Engineering and Development Office is looking for a Trainee Angular Developer in Lviv, Ternopil, Ivano-Frankivsk, or Kyiv.\n \nABOUT PROJECT\nOur client is a large financial services company, based in the USA. This company helps financial institutions worldwide grow assets efficiently with its innovative portfolio management suite of data management, investment accounting, and performance measurement solutions.\n\n<h3>REQUIREMENTS</h3>\n\nBasic knowledge of Angular development. Finished courses or little commercial experience. \nUpper-intermediate level of English \nStrong desire to learn and develop new knowledge and skills \nGreat soft skills \n\n\n<h3>RESPONSIBILITIES</h3>\n\nDesign, develop, and maintain software in line with technical requirements \nDetect defects, and perform analysis, verification, and debugging of software; correctly interpret bug reports \nApply the best software development practices and coding standards \nAgree on task deadlines with the Technical Leader or Project Manager \nTrack changes and compare source code in the version control system",
+    "content_hash": "acea34658ca558330f2c7d4a08c3260f"
+  }
+}

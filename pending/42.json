@@ -1,0 +1,92 @@
+{
+  "42c5679c671b": {
+    "id": "42c5679c671b",
+    "title": "2027 Early Career Flight Test Engineer",
+    "title_raw": "2027 Early Career Flight Test Engineer",
+    "company": {
+      "slug": "anduril",
+      "name": "Anduril",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Costa Mesa, California, United States",
+      "city": "Costa Mesa",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "andurilindustries",
+      "external_id": "5246225007"
+    },
+    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T18:42:01.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:04.974Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 86000,
+      "max": 114000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.</p><p>The Test and Evaluation team at Anduril plays a crucial role in our mission, ensuring that every product meets the highest standards of performance and reliability. Our team conducts full system level development testing, new production acceptance testing, software qualification testing and much more. This position is looking for a highly motivated Flight Test Engineer with emphasis in software interface and diagnostics. If you are interested in an extremely innovative and fast paced environment, where your work directly makes an impact and difference in the products that are fielded, this is an excellent opportunity for you.<br /><br /><strong>WHAT YOU'LL DO</strong></p>\n<ul>\n<li>Work on T&amp;E test programs from start to finish and support existing test programs</li>\n<li>Coordinate, plan, and execute test events for mission autonomy capabilities utilizing surrogate vehicles</li>\n<li>Design and implement test plans that challenge and verify the capabilities of autonomous systems in a variety of simulated mission profiles.</li>\n<li>Analyze data from tests to validate system performance and identify areas for improvement</li>\n<li>Work collaboratively with cross-functional teams, including software engineers, hardware engineers, and product managers, to define test requirements and ensure alignment with system capabilities and mission objectives.</li>\n<li>Drive end-to-end test management by shaping program requirements, designing comprehensive test plans, leading execution efforts, analyzing complex data, and delivering clear, concise reports to cross-functional and program teams.</li>\n<li>Coordinate with private and government partners to test and evaluate systems and software and ensure test objectives are met</li>\n<li>Communicate effectively with government leaders, cross-functional teams, and internal company leadership</li>\n</ul>\n<p><strong>REQUIRED QUALIFICATIONS</strong></p>\n<ul>\n<li>Must be pursuing or have recently completed a bachelor’s or master’s degree in engineering, computer science, robotics, or a related technical field.</li>\n<li>Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program.</li>\n<li>Able to start full time in 2027.</li>\n</ul>\n<p><strong>PREFERRED QUALIFICATIONS</strong></p>\n<ul>\n<li>Demonstrated ability in developing and executing test plans for complex systems within aggressive timelines.</li>\n<li>Proven experience coordinating and executing complex test events</li>\n<li>Experience developing metrics and performance dashboards</li>\n<li>Proven track record of working collaboratively with multidisciplinary teams to achieve project milestones and deliverables.</li>\n<li>Excellent communication skills, capable of effectively articulating technical challenges and solutions to a diverse audience.</li>\n<li>Ability to engage and communicate with military and government customers</li>\n<li>Willingness to work flexible hours and travel to various testing locations as required.</li>\n<li>Direct experience in the development, testing, and deployment of autonomy systems in a defense or aerospace context.</li>\n<li>Familiarity with FAA, FCC, and other relevant regulations</li>\n<li>Hands-on experience with simulation environments and tools used for testing autonomous systems.</li>\n<li>Familiarity with software development practices and experience with programming languages used in autonomy and robotics (e.g., Python, C++, ROS).</li>\n<li>Knowledge of current industry and military standards related to unmanned aerial systems and their operation within national airspace.</li>\n</ul>\n<p></p>US Salary Range$86,000—$114,000 USD<p>The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: </p>\n<p></p>\n<h3><strong>Benefits</strong></h3>\n<p>At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. <em>For more information, Explore Our Benefits.</em></p>\n<p></p>\n\n<h3><strong>Protecting Yourself from Recruitment Scams</strong></h3>\n<p>Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.</p>\n\n\n<p>To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind:</p>\n<ul>\n<li>\n<p><strong>No Financial Requests: </strong>Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.</p>\n</li>\n<li><strong>Please always verify communications:</strong>\n<ul>\n<li>Direct from Anduril: If you receive an email from one of our recruiters, it will <em>only</em> come from an @anduril.com address.</li>\n<li>Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com. </li>\n</ul>\n</li>\n<li>\n<p><strong>Exercise Caution with Unsolicited Outreach:</strong> If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.</p>\n</li>\n<li>\n<p><strong>What to Do If You Suspect Fraud:</strong> Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to contact@anduril.com. Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.</p>\n</li>\n</ul>\n\n<h3> </h3>\n<h3><strong>Data Privacy</strong></h3>\n<p>To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/. </p>\n<p></p>\n<p>By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.</p>",
+    "content_hash": "38efca04c2d2abe9b4a72bd754f060fd"
+  },
+  "42d32993539d": {
+    "id": "42d32993539d",
+    "title": "Software Engineer, Real-Time Systems (Early Career)",
+    "title_raw": "Software Engineer, Real-Time Systems (Early Career)",
+    "company": {
+      "slug": "swarm-aero",
+      "name": "Swarm Aero",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "swarmaero",
+      "external_id": "7d3783c5-f98c-4def-8c33-6de907aab30e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-28T17:16:11.111Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.107Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 170000,
+      "max": 220000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.</p><p>The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.</p><p></p><p>Legion's Command &amp; Control platform lets a single operator plan, direct, and execute missions across a networked swarm of heterogeneous aircraft, in real time, over intermittent comms, at a scale nobody else in the industry is attempting. That means distributed state under unreliable networks, dense telemetry moving fast enough to strain anything you've built before, and interfaces for a problem space that barely has prior art. You'll work across the stack, wherever the hard problem is that week.</p><p><strong>WHAT YOU'LL DO</strong></p><ul><li><p>Build and ship features in the C2 system that directs swarms of heterogeneous aircraft</p></li><li><p>Work on systems that hold state and stay responsive when comms degrade or drop entirely</p></li><li><p>Move between the interface layer and the services behind it, following the problem rather than a job description</p></li><li><p>Prototype new ways to represent and control vehicle telemetry, sensor data, and scheduling</p></li><li><p>Take features end to end, from a rough problem statement through design, implementation, and deployment</p></li><li><p>Ship early and often, backed by strong CI/CD, QA, and DevSecOps</p></li></ul><p><strong>WHAT WE'RE LOOKING FOR</strong></p><ul><li><p>Degree in Computer Science, a related technical field, or equivalent self-taught depth</p></li><li><p>Real strength in fundamentals: data structures, algorithms, concurrency, networking, systems</p></li><li><p>Evidence you've built something hard because you wanted to. A renderer, an emulator, a game, a compiler, a multiplayer server, a robotics project, a serious open source contribution. We care more about what you've built than where you worked</p></li><li><p>Comfort writing code at more than one layer of the stack, and no strong attachment to staying at one</p></li><li><p>Willingness to work on problems where the right answer isn't known yet, and to be wrong in public on the way to finding it</p></li></ul><p><strong>WHAT SETS YOU APART</strong></p><ul><li><p>Competitive programming background (ICPC, IOI, Codeforces, USACO, Putnam)</p></li><li><p>Game development, game jams, engine work, or simulation</p></li><li><p>Performance-sensitive work: profiling, frame budgets, memory pressure, running on constrained hardware</p></li><li><p>Real-time or distributed systems experience: multiplayer netcode, streaming, pub/sub, robotics middleware</p></li><li><p>Graphics: WebGL, OpenGL, Vulkan, shaders</p></li><li><p>Working fluency in Go, C++, or Rust</p></li><li><p>Familiarity with video streaming protocols or geospatial applications</p></li></ul><p><strong>WHY THIS ROLE</strong></p><p>You'll be one of the earliest engineers shaping how humans command autonomous systems at scale, work that's currently being defined in real time, by a small team, with your fingerprints on the architecture. If you want to build the future of human-swarm interaction rather than maintain someone else's, this is that seat.</p><p></p><p><strong>ITAR requirement</strong></p><p>To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.</p><p>Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability.<br /><br /><strong>What We Offer</strong></p><ul><li><p>Meaningful equity in a high-growth defense technology company</p></li><li><p>Competitive base salary commensurate with experience</p></li><li><p>Medical, dental, vision, and 401k</p></li><li><p>PTO and paid sick leave</p></li><li><p>Monthly wellness stipend</p></li><li><p>Daily catered lunch (office)</p></li><li><p>Paid parental leave</p></li><li><p>Direct impact on a critical national security mission</p></li><li><p>A world-class team of engineers and operators solving genuinely hard problems</p></li></ul>",
+    "content_hash": "5ab45a35083c7e43befa72dea33ef3b8"
+  }
+}

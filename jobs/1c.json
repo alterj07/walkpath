@@ -1,0 +1,179 @@
+{
+  "1c8d4f5afd3b": {
+    "id": "1c8d4f5afd3b",
+    "title": "Intern, Hardware Test Engineering (Spring/Summer 2027)",
+    "title_raw": "Intern, Hardware Test Engineering (Spring/Summer 2027)",
+    "company": {
+      "slug": "heron-power",
+      "name": "Heron Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Scotts Valley",
+      "city": "Scotts Valley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heron-power",
+      "external_id": "7c3f30a6-f806-4bf5-a94c-cb4dece20cb2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-11T20:18:55.064Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.803Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>What to Expect</h3><p>Heron Power is a startup company building cutting-edge power electronics for the 21st-century grid. We aim to de-bottleneck the growth of electricity generation and consumption with scalable, innovative, and less costly hardware solutions, accelerating the electrification of everything.</p><p>Our first goal is to build better converters (inverters &amp; rectifiers) to connect large-scale renewables, storage, and loads to the grid. Heron’s leadership team is made up of seasoned veterans who have designed and shipped gigawatts of power conversion products over the past decade.</p><p>We understand that no one individual knows everything. We will all learn a lot together and from each other. We strive to build a collaborative, enriching environment conducive to personal, technical, and career growth. You can expect to work in a dynamic environment, driven by first principles engineering, solving difficult problems—with a strong bias toward hands-on execution and learning by doing.</p><p></p><h3>Job Overview</h3><p>You will build and operate the test infrastructure we use to validate grid-tied converters. This role owns a meaningful slice of the development loop: test bench design and build, test execution, data analysis, failure isolation, and verified fixes. You will uncover real design and process failures by running physical tests and building automated equipment and data workflows. We prioritize a strong foundation in first principles, practical skill, and a bias toward getting things done. We care as much about how you work as what you already know.</p><p></p><h3>How You Will Contribute</h3><p><strong>Test Bench Architecture &amp; Build</strong></p><ul><li><p>Design and build electrical reliability test benches for power electronics hardware—inverters, DC/DC converters, bi-directional power stages.</p></li></ul><ul><li><p>Specify, procure, and integrate lab equipment: programmable power supplies, electronic loads, DAQ systems, sensors, protection hardware, interlocks, and cabling.</p></li></ul><ul><li><p>Own the bench system design: grounding, measurement integrity, EMI-aware instrumentation, protection strategy, safe operating procedures, and maintainability.</p></li></ul><p><strong>Software &amp; Test Automation</strong></p><ul><li><p>Contribute to our software test infrastructure for system integration and reliability testing — test architecture, hardware abstraction layers, and result reporting pipelines.</p></li></ul><ul><li><p>Write software tests that interact directly with hardware and firmware over CAN, UART, Modbus, TCP/IP — debugging signal integrity, protocol failures, and firmware edge cases.</p></li></ul><ul><li><p>Write concurrent, fault-tolerant software for our next-generation manufacturing test platform: Firmware Flashing, FCT, EOL stations running autonomously on the factory floor.</p></li></ul><ul><li><p>Build AI agents that manage test execution across facilities — initiating runs, monitoring anomalies, implementing test script and firmware changes in response to failures, and routing issues to humans</p></li></ul><p><strong>Test Execution &amp; Reliability Campaigns</strong></p><ul><li><p>Translate test goals and suspected failure mechanisms into test plans, stress profiles, instrumentation plans, and pass/fail criteria.</p></li></ul><ul><li><p>Execute reliability campaigns—burn-in, power cycling, thermal stress, and abuse tests—and evolve them as we learn where the real failure cliffs are.</p></li></ul><ul><li><p>Drive fast debug loops during excursions: isolate, instrument deeper, reproduce, and verify that corrective actions eliminate the failure.</p><p></p></li></ul><h3>What You Will Bring</h3><p>We prioritize a strong foundation in first principles, practical skill, an inquisitive mindset, and a proactive attitude. We care as much—or more—about how you work as what you already know.</p><p></p><h3><strong>Must-Have Requirements</strong></h3><ul><li><p><em>Pursuing a BS or MS in Electrical Engineering, Mechatronics, or a related field.</em></p></li></ul><ul><li><p><em>Hands-on experience designing, building, or operating electrical test setups for complex hardware—power electronics strongly preferred.</em></p></li></ul><ul><li><p><em>Comfort with bench power equipment and measurement methods: scopes, DMMs, power analyzers, electronic loads, DAQ, and sensors.</em></p></li></ul><ul><li><p><em>Ability to design safe test systems for high-power hardware: interlocks, protection, grounding, and safe operating procedures.</em></p></li></ul><ul><li><p><em>Strong debugging instincts and ability to drive root-cause closure with engineering partners.</em></p></li></ul><ul><li><p><em>Programming experience in Python—including instrument control or data automation.</em></p></li></ul><h3><strong>Nice-to-Haves</strong></h3><ul><li><p><em>Experience with accelerated or environmental stress testing (HALT/HASS, thermal/humidity cycling, power cycling).</em></p></li></ul><ul><li><p><em>Familiarity with failure mechanisms in power electronics and structured root cause/corrective action loops.</em></p></li></ul><ul><li><p><em>Experience designing repeatable test cells with drawings and instructions to turn scrappy setups into production-quality ones.</em></p></li></ul><p>If you are passionate about technology and enjoy working in a fast-paced environment, we would love to hear from you. Join us in accelerating the electrification of everything at Heron Power.</p>",
+    "content_hash": "f40cb8f530d161a49e31d73d0696fe9e"
+  },
+  "1cc90eb2307a": {
+    "id": "1cc90eb2307a",
+    "title": "Quantitative Research Intern, Summer 2027",
+    "title_raw": "Quantitative Research Intern, Summer 2027",
+    "company": {
+      "slug": "akuna-capital",
+      "name": "Akuna Capital",
+      "domain": "akunacapital.com"
+    },
+    "location": {
+      "raw": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "akunacapital",
+      "external_id": "8036614"
+    },
+    "apply_url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-13T18:28:45.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:45.419Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 145000,
+      "max": 145000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><strong>About Akuna:</strong></p>\n<p>Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. </p>\n<p>Our Founding Partners<em> </em>first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. </p>\n<p><strong>What you’ll do as a Quantitative Research Intern at Akuna:</strong></p>\n<p>Akuna’s Quant team is looking to add Quant Research Interns to a team of mathematicians, statisticians and technologists for our 10-week Akunacademy internship program in our Chicago office. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets.</p>\n<p>We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will:</p>\n<ul>\n<li>Develop trading strategies using statistical and machine learning algorithms.</li>\n<li>Design and implement optimization algorithms for portfolio construction.</li>\n<li>Develop quantitative models describing market behavior.</li>\n<li>Advance existing initiatives and explore opportunities for new research topics.</li>\n</ul>\n<p><strong>Qualities that make great candidates:</strong></p>\n<ul>\n<li>Pursuing a bachelor’s, masters or PhD in Statistics, Computer Science, Engineering, Mathematics (or a related subject)</li>\n<li>Expertise in statistics and machine learning</li>\n<li>Experience building mathematical models for complex real-world problems</li>\n<li>Intermediate programming skills in Python </li>\n<li>The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role</li>\n<li>Financial experience is not a requirement</li>\n<li>Must graduate by August 2028</li>\n<li>GPA of 3.5 or above</li>\n<li>Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using CPT, OPT or STEM</li>\n</ul>\n<p>**Resumes must be submitted in PDF format. </p>\n<p><strong>In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us!</strong></p>\n<p><strong>Please note:</strong> By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. </p>\n<p><em>In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. </em><em>The minimum base salary herein was determined in good faith by Akuna Capital LLC.</em></p>",
+    "content_hash": "ec96451cae6a35fe1998391dc646980a"
+  },
+  "1ccde7c305ac": {
+    "id": "1ccde7c305ac",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "perchwell",
+      "name": "Perchwell",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York Office",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "perchwell",
+      "external_id": "194eec78-26db-4d8e-850f-a99ea2733e9f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T13:38:37.600Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 12000,
+      "max": 12000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are</strong></h3><p>Perchwell is the modern real estate listings platform built for agents to search smarter, collaborate better, and close deals faster. We are building the future of residential real estateʼs critical listings infrastructure: a platform where market  research and client collaboration converge. Our modern architecture enables continuous innovation at a pace legacy systems cannot match, with AI-powered features and mobile-first capabilities designed for how agents actually work. As consumer expectations and technology evolve, Perchwell remains focused on our core vision:  empowering real estate professionals with the most intelligent, data-driven, and connected platform in the industry.</p><p>Backed by leading venture capital firms including Lux Capital and Founders Fund, along with strategic partnerships with some of the country's top Multiple Listing Services (MLSs), Perchwell represents the first major new platform to enter the listings technology market in decades. This unique combination of institutional investment and deep industry alignment provides both the resources and market validation needed to transform the multi-trillion dollar residential real estate industry.</p><p></p><h3><strong>What We’re Looking For</strong></h3><ul><li><p><strong>Rising seniors</strong> enrolled in a CS or STEM degree program who are looking to intern at a fast paced, SaaS company this summer.</p></li><li><p><strong>Passionate problem solvers</strong> who thrive in fast moving environments.</p></li><li><p><strong>Strong communicators and team players</strong> who can work cross functionally.</p></li><li><p><strong>Eager learners</strong> who want to gain real world engineering experience.</p></li></ul><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p><strong>Build and Ship:</strong> Work in a fast paced startup environment to build high quality SaaS products that real estate professionals rely on.</p></li><li><p><strong>Own a Project:</strong> Take ownership of a summer project, making key product, architecture, and implementation decisions.</p></li><li><p><strong>Collaborate and Learn:</strong> Partner with engineers, product managers, and designers to bring ideas to life.</p></li><li><p><strong>Deliver Impact:</strong> Work on scalable solutions from broadly defined problems and see your work in production.</p></li></ul><p></p><h3><strong>Why This Internship? </strong></h3><ul><li><p><strong>Dedicated Mentor:</strong> You’ll work 1:1 with an experienced engineer who will provide mentorship and support your growth.</p></li><li><p><strong>Real Ownership:</strong> Over 10 weeks, early June to mid August, you will choose and lead your own project, making key decisions along the way.</p></li><li><p><strong>Fully In Person Experience:</strong> This is a full time, in office internship based at our beautiful New York City HQ in Soho. You’ll work on site five days a week and collaborate closely with our team, gaining hands-on experience in a fast paced, learning oriented environment.</p></li><li><p><strong>Showcase Your Work:</strong> At the end of the summer, present your project to our executive and engineering teams.</p></li><li><p><strong>Work on Real Features:</strong> Beyond your project, you’ll contribute to real features and bug fixes with a structured software development lifecycle.</p></li><li><p><strong>NYC Perks and Fun:</strong> From team dinners to museum trips, immerse yourself in the greatest city in the world while working with an awesome team</p></li></ul><p></p><h3><strong>Required for the Role</strong></h3><ul><li><p>Passion for web applications, from the data layer to the front end</p></li><li><p>Working familiarity with RDBMS storage systems and SQL</p></li><li><p>Experience with a web application framework such as Ruby on Rails, TypeScript, and React</p></li><li><p>Strong communication and problem solving abilities</p></li><li><p>Excitement to learn, grow, and build</p></li></ul><p></p><h3><strong>Bonus Points for the Following</strong></h3><ul><li><p>Ruby on Rails experience</p></li><li><p>React experience</p></li><li><p>Demonstrated leadership skills developed during your college experience</p></li></ul><h3></h3><p></p><h3><strong>Internship Information</strong></h3><p><strong>Internship Dates: </strong>June 7 - August 13, 2027</p><p><strong>Application Deadline:</strong> Applications for this internship close on October 18, 2026, at 11 PM ET. Be sure to apply by the deadline to be considered! We will be reviewing all applications, so please take the time to submit a thoughtful application.</p><p><strong>Offers: </strong>Internship offers will be extended by November 25, 2026.</p><p></p><h3><strong>Salary Information</strong></h3><p>$12,000 for 10 weeks (minus applicable taxes and withholdings)</p><p>Excited to launch your career in engineering? Apply now and build something meaningful with us in Summer 2027!<br /><br /><em>Note: Benefits package listed below is for reference only for those who later join Perchwell full-time.</em></p><p></p><h3><strong>Strong Benefits Package</strong></h3><ul><li><p>Flexible PTO, plus 10 paid company holidays</p></li><li><p>401K with a company match</p></li><li><p>Medical, dental, and vision plans</p></li><li><p>HSA and FSA options</p></li><li><p>Commuter benefits</p></li><li><p>Parental leave</p></li><li><p>Company-wide onsite or offsite each year</p></li><li><p>Beautiful office in Soho, Manhattan with a stocked kitchen, catered breakfast and lunch once per week, happy hours and meet-ups</p></li></ul> <p><em>Note: At this time, we are only considering candidates who are authorized to work in the U.S.</em></p>",
+    "content_hash": "e3796fb7510a12e970c2040367e25423"
+  },
+  "1cd397d6e4b8": {
+    "id": "1cd397d6e4b8",
+    "title": "Electrical Engineering Intern, High Frequency Power Electronics - Winter",
+    "title_raw": "Electrical Engineering Intern, High Frequency Power Electronics - Winter",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco Office",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "2036f0f1-a4cd-4d23-92d1-b3334e17f749"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/2036f0f1-a4cd-4d23-92d1-b3334e17f749/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T03:08:38.506Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 108000,
+      "max": 126000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p><p></p><p><strong>About the Role</strong></p><p>We are looking for an enthusiastic RF power engineering intern who can rapidly develop compact RF systems from gathering requirements to the production stage. The internship begins in January, with the option for preferably a 4 to 8-month commitment. You will get to own entire RF power systems while working closely with other engineers to enable small and fast semiconductor plasma systems. You will be exposed to many diverse problems and will need to move through design cycles quickly. </p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months. <strong>Because of this, a portfolio is required to apply</strong>: show us the things you’ve actually built! If you’ve shipped a medium-to-high complexity system through a personal project or previous internship, you’d be a good fit here.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Contribute to the design of complete RF power systems from architecture to schematic to layout</p></li><li><p>Ensure accurate RF power diagnostics and metrology</p></li><li><p>Collaborate with engineers and scientists to gather system requirements</p></li><li><p>Help define of firmware requirements</p></li><li><p>Source components and lead manufacturing effort</p></li></ul><p></p><p><strong>Required Experience</strong></p><ul><li><p>Experience building of RF systems</p></li><li><p>RF resonant power amplifier design in the 100s of Watts range</p></li><li><p>RF power measurement sensor design</p></li><li><p>Hands on prototyping and testing</p></li><li><p>Cable harness design, documentation, and fabrication</p></li></ul><p></p><p><strong>Nice-to-have</strong></p><ul><li><p>Advanced degree in power electronics or related field</p></li><li><p>Plasma systems experience</p></li><li><p>Systems engineering and integration</p></li></ul><p></p><p><strong>Working at fab2</strong><br />We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation practices. Hardware Interns are paid an hourly rate equivalent to an annualized range of $108,000-126,000, depending on experience and education level. Actual earnings will vary depending on internship length and hours worked.</p><p><br /><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p></li></ul><p></p><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p><br /><strong>Export Control Analysis: </strong>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p> <p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "0fcb8007b82f5e120dfe57258df30e0e"
+  }
+}

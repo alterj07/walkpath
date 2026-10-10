@@ -1,0 +1,87 @@
+{
+  "0965c6011e8d": {
+    "id": "0965c6011e8d",
+    "title": "Engineering Intern",
+    "title_raw": "Engineering Intern",
+    "company": {
+      "slug": "aeci",
+      "name": "Aeci",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Springfield, Missouri",
+      "city": "Springfield",
+      "state": "MO",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aeci/aeci",
+      "external_id": "REQ-1783"
+    },
+    "apply_url": "https://aeci.wd1.myworkdayjobs.com/AECI/job/Springfield-Missouri/Engineering-Intern_REQ-1783",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:48:41.933Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>At Associated Electric Cooperative, we're committed to providing reliable energy to the communities we serve with passion and precision. We're a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!</b></p><p></p><p><b>From technical to operational to professional disciplines, our team brings a wide variety of skills, talents, and expertise to the table. We believe in both dedicating ourselves to excellence and investing in your growth.</b></p><p></p><p>The power industry is fascinating, complex, and constantly evolving. We’re looking for smart, driven engineering students who are ready to apply what they’re learning in the classroom to real-world projects that support the reliability of the electric system.</p><p></p><p>Paid engineering internships are available at our Headquarters facility in Springfield, Missouri, with opportunities in a variety of engineering departments throughout the <b>2026–2027 school year</b>. Internships may be available during the fall, spring, and summer based on business needs and student availability. Normal working days are Monday through Friday.</p><p>Students may also be eligible to receive course credit for their internship. Check with your school’s career center for additional information.</p><p></p><p><b>Qualified applicants must:</b></p><ul><li><p>Be currently enrolled at the time of the internship in engineering, engineering management, construction management, or a related technical field.</p></li><li><p>Have successfully completed at least two years of coursework toward a bachelor’s degree.</p></li></ul><p></p><p><b>As an engineering intern, you may have the opportunity to:</b></p><ul><li><p>Analyze electrical system data and assist with transmission, distribution, or other engineering studies.</p></li><li><p>Support relay, protection, coordination, load flow, system modeling, and other technical analysis projects.</p></li><li><p>Assist with testing, data collection, technical documentation, drawings, and reviewing reports for accuracy.</p></li><li><p>Work alongside engineers to investigate system events, trends, reliability concerns, or potential compliance issues.</p></li><li><p>Support plant and system improvement projects involving equipment, maintenance, controls, PLC systems, or new installations.</p></li><li><p>Help develop and maintain engineering tools, databases, scripts, procedures, and reports.</p></li><li><p>Assist with project specifications, construction or contractor information, and engineering recommendations.</p></li></ul><p></p><p><b>What Associated provides:</b></p><ul><li>We are committed to rewarding talent with top pay. Your efforts will be recognized with a total compensation package that reflects your experience and contributions.</li><li>Plan for your future with confidence! We offer a robust 401(k) program with a generous employer match to help you build the financial future you deserve.</li><li>We know how important work-life integration is. Recharge with PTO and enjoy paid holidays, ensuring you have time to unwind and pursue your passions outside of work.</li><li>Your health matters to us! Stay covered beginning on your first day of employment with our premier healthcare plan that includes medical, dental, and vision coverage for you and your family.</li></ul><p></p><p><b>At Associated Electric Cooperative, all of our 700+ employees across MO/AR/OK territory play a crucial role in powering our mission! Whether you're an experienced professional or just starting your career, you'll find endless opportunities for career development here. Join us in an environment where your contribution is valued, and your career can thrive as we work together to keep the lights on!</b></p><p></p><p><b>Ready to Energize your career? Visit our website at </b><b>www.aeci.org/careers</b><b> to learn more about Associated and apply for a position.  </b></p><p></p><p>Equal Opportunity Statement:</p><p></p><p>AECI is fully committed to the concept and practice of equal opportunity in all aspects of employment. Please reference the contact information below if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment. </p><p></p><p>An equal opportunity employer and provider/disability/veteran.</p>",
+    "content_hash": "a04910f8814f3f1006ab6994a53ccad6"
+  },
+  "0993dba8e9db": {
+    "id": "0993dba8e9db",
+    "title": "Wholesale Analytics Intern",
+    "title_raw": "Wholesale Analytics Intern",
+    "company": {
+      "slug": "arc-teryx-equipment",
+      "name": "Arc'teryx Equipment",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Portland, Oregon",
+      "city": "Portland",
+      "state": "OR",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "arcteryx.com",
+      "external_id": "59e99784-0e0c-4e07-a5df-9b2043074002"
+    },
+    "apply_url": "https://jobs.lever.co/arcteryx.com/59e99784-0e0c-4e07-a5df-9b2043074002/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T14:57:11.634Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:44:47.469Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 21.49,
+      "max": 26.49,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Department: </strong> NAM - Wholesale </p>\n\n<p><strong>Reports to</strong><strong>:</strong>  National Account Manager - USA </p>\n\n\n<p><strong>Location: </strong> Portland, Oregon </p>\n\n\n<p><strong>Work Arrangement:</strong> Flexible, between in-office and home </p>\n\n\n<p><strong>Pay Range</strong><strong>:</strong> $21.49 - $26.49/hourly; pay is dependent on year of study and related experience  </p>\n\n\n<p><strong>Duration:</strong> Eight (8) months, January 4, 2027 – August 13, 2027 </p>\n\n\n<p><strong>Hours Per Week:</strong> Full-Time (40 hours per week, Monday to Friday) </p>\n\n<p></p>\n<p><strong>Your Co-Op Opportunity at ARC’TERYX: </strong><br /> <br />As the Wholesale Analytics Intern, you support the US Wholesale Key Accounts team in turning sales, inventory, and account data into timely actions that improve in-season performance. You monitor sell-through and available-to-sell (ATS) inventory, connect the two data sets, and identify products, sizes, colors, or accounts where incremental orders may be possible. You help manage the weekly ATS order process from opportunity identification through follow-up, while maintaining accurate reports, forms, and shared data. You will use Power BI, SPS Commerce, Excel, and internal systems, and learn how sales, planning, operations, and wholesale partners work together. You are encouraged to question inefficient processes, improve how the team organizes information, and communicate recommendations clearly.  </p>\n\n\n<p>This role is ideally based out of Portland, Oregon, and is eligible for a hybrid work schedule. </p>\n\n\n<p></p>\n\n\n<p><strong>Meet Your Future Team: </strong></p>\n\n\n<p>The US Wholesale Key Accounts team is accountable for delivering sales through all local channels. We meet the guest where they are shopping, and ensure Arc’teryx is represented in an authentic, consistent way. As the retail landscape changes, we will work together to evolve our approach with creativity and teamwork. </p>\n\n\n\n<h3>If you were Wholesale Analytics Intern now, here are some of the core activities you would be doing: </h3>\n\n<ul>\n<li>\n<p>Analyzing sales and inventory performance to identify trends, risks, and opportunities across wholesale accounts </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Supporting in-season sales opportunities by reviewing ATS inventory, recommending additional orders, and assisting with the weekly order process </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Creating and maintaining business reporting using tools such as Excel, Power BI, and SPS Commerce to help the Sales team make informed decisions </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Improving team processes and data organization by supporting account documentation, maintaining accurate information, and identifying more efficient ways of working </p>\n</li>\n\n</ul>\n\n<h3>Here are some of the things you will learn by the end of your Co-Op placement: </h3>You will learn how to interpret retail sell-through, inventory, and order data within a wholesale commercial environment, and how to translate analysis into an actionable sales recommendation. You will strengthen your skills in Power BI, Excel, SPS Commerce, data quality, process documentation, and business communication. You will also gain exposure to cross-functional decision making, account management, demand and inventory considerations, and the full path from insight to order execution. \n<h3>Are you our next Wholesale Analytics Intern? </h3>\n\n\n<p></p>\n\n\n<ul>\n<li>\n<p>You are currently enrolled in a post-secondary institution, preferably in Business, Statistics, Data Analytics, Finance, Economics, Supply Chain, Information Systems, or a related discipline </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You are comfortable working with numbers and spreadsheets and are interested in finding the business story behind the data </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You have advanced Microsoft Excel skills, including organizing data, using formulas, and reviewing large data sets. Experience with pivot tables or lookups is a requirement  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You are curious about Power BI and data visualization. Previous experience is helpful but not required if you are eager to learn </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You bring strong attention to detail and understand that accurate product, inventory, and order data is essential to good decisions </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You can manage recurring weekly responsibilities while progressing longer-term projects and meeting deadlines </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You communicate clearly in writing and conversation and are willing to ask questions when information is incomplete or unclear </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You can work independently once trained, while collaborating effectively with Sales and cross-functional partners </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You look for practical ways to simplify work, improve organization, and create processes that others can follow </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You have experience using Microsoft Excel, Power BI, SPS Commerce, Microsoft PowerPoint, Teams/SharePoint, and applicable ERP or order-management systems. </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Experience with retail, wholesale, inventory, SPS Commerce, ERP systems, or data reporting is considered an asset </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You are proactive in identifying the root cause of issues and developing solutions </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You remain highly flexible and adaptable when faced with ambiguity </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You effectively balance autonomy and collaboration </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You inspire breakthrough thinking and continuous improvement </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>You seek the best (sometimes not the easiest) solutions, with an unwavering commitment to do what is right </p>\n</li>\n\n</ul>\n\n\n\n<ul>\n<li>\n<p>Your passion for your work is paralleled by your passion for getting outside and living it. </p>\n</li>\n\n</ul>\n\n\nApplications for this position will be accepted until Oct 12 at 9:00am PT.<br /><strong>Equal Opportunity</strong>\n \nArc’teryx is committed to actively creating and fostering a culture of inclusivity where voices are heard, people are seen, and values are respected. We care about the uniqueness of our applicants, employees, and guests, and we do so in a safe space fueled by curiosity and acceptance. \n \nCreating an inclusive workplace is connected to our core value Do Right while also having the added benefit of helping make our business better. We believe inclusion helps us to create a healthier, happier workplace, drive creativity and innovation, and reflect the communities where we operate.  \n \nAll applicants, employees, and guests can expect equality of opportunity and fair treatment in alignment with our values.\n \n<strong>Leave it Better</strong>\nWe believe that the mountains transform us, that how we adventure matters, and that there’s always a better way. \nJoin us in creating positive change in ourselves, our communities, and the world. \n \n<em>Live it</em>. Get out there - the mountains make us better \n<em>Disruptive evolution</em>. In pursuit of better. Always. \n<em>Commit</em>. We set bold objectives and see them through.",
+    "content_hash": "0c379c5e586c44babaaf8599a6bdd8ac"
+  }
+}

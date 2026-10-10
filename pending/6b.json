@@ -1,0 +1,177 @@
+{
+  "6b167f99411a": {
+    "id": "6b167f99411a",
+    "title": "Software Engineer, New Grad",
+    "title_raw": "Software Engineer, New Grad",
+    "company": {
+      "slug": "pylon",
+      "name": "Pylon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "pylon-labs",
+      "external_id": "38814ce7-217b-40f2-9ba5-8a7733a5691d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-09T17:05:00.199Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.969Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 150000,
+      "max": 180000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Pylon — the agentic support platform purpose-built for B2B.</h3><p>Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters.<br /><br />Unlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself.</p><p>We're backed by a16z, BCV, General Catalyst, and Y Combinator. More than 1,500 companies including Linear, Cognition (makers of Devin), Modal Labs, and Incident.io run their support and customer success workflows on Pylon. We're also featured on the Enterprise Tech 30 List.</p><p></p><h3>What You'll Do</h3><ul><li><p>Build features so our customers in post-Sales roles (Customer Support &amp; Customer Success) run their operations more efficiently by leveraging AI</p></li><li><p>Build prototypes, work independently, iterate quickly, and ship fast</p></li><li><p>Have high autonomy, own things end to end, and project manage your own work</p></li><li><p>Work with PMs, designers, and other engineers in a highly collaborative, non-waterfall way</p></li><li><p>Collaborate with a strong technical team of senior engineers from places like Samsara, Affinity, Airbnb, and Meta</p></li></ul><p></p><h3>What We’re Looking For</h3><ul><li><p>You are pursuing a bachelor’s or master’s degree in computer science, engineering, or another related field and can start full-time in Summer 2027.</p></li><li><p>You have relevant internship experience or side projects building product features and a demonstration of strong full-stack fundamentals</p></li><li><p>You have a growth mindset, want to constantly improve, and want to receive feedback.</p></li><li><p>You're in SF or you're willing to relocate, you love working in-person, and you're serious about joining us to build a culture we'll all love</p></li><li><p><strong>(Bonus)</strong> You have interned at high-growth startups and can navigate ambiguous environments.</p></li><li><p><strong>(Bonus)</strong> You highly leverage AI for software development and can juggle multiple workstreams at the same time.</p></li><li><p><strong>(Bonus)</strong> You have experience with our tech stack (React, Golang, GraphQL, and AWS).</p></li></ul><p></p><h3><strong>Our Perks</strong></h3><p>🚆 Commuter benefits</p><p>🌱 Parental leave</p><p>🏝️ 14 company holidays + unlimited PTO</p><p>🗺️ Annual offsite</p><p>🍽 Lunch, dinner, and snacks at the office</p><p>🏋️ Fitness stipend</p><h3><strong><br />More about Pylon</strong></h3><p><strong>Funding:</strong> Series B led by a16z and BCV ($51M total raised)</p><p><strong>Founders:</strong> Advith Chelikani, Robert Eng, and Marty Kausas</p><p><strong>Team:</strong> Currently 100+ and growing!<br /><br /><strong>Additional Job details</strong></p><p>The base salary range for this position is $150k - $180k annually.</p><p>Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Pylon. This role is eligible for stock options, as well as a comprehensive benefits package.</p>",
+    "content_hash": "92fc177147336b41ad2743b8fc3a2432"
+  },
+  "6b8fbf666380": {
+    "id": "6b8fbf666380",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Seattle, Washington",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "ed1a97c9-266a-436f-ab69-24bc3fbcd6fa"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/ed1a97c9-266a-436f-ab69-24bc3fbcd6fa/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T21:10:03.782Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 24,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>Sick Time: </strong>While interns are not eligible for our full benefits package, sick time is accrued at a rate of 1 hour for every 30 hours worked.\n \n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "d1bcfb8e2eccd66f38f939bf74d46a11"
+  },
+  "6b9272952de8": {
+    "id": "6b9272952de8",
+    "title": "Engineering Apprentice I",
+    "title_raw": "Engineering Apprentice I",
+    "company": {
+      "slug": "crest-industries",
+      "name": "Crest Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "crestoperations",
+      "external_id": "c3f7b352-bbe5-4bab-8180-94e1ea8320e3"
+    },
+    "apply_url": "https://jobs.lever.co/crestoperations/c3f7b352-bbe5-4bab-8180-94e1ea8320e3/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-26T21:09:15.901Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:50:28.671Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Come join our collaborative and innovative team at DIS-TRAN Packaged Substations!<br />DIS-TRAN Packaged Substations has been an industry leader in the design and supply of high-voltage, open-air substations, and switchyards since 1965. Over a half-century of building meaningful relationships with our customers and vendors boils down to one thing: people. We take pride in our collaborative approach where everything we do is designed to deliver the project the right way, your way. Though we have grown over the years, and now offer new innovations like our Factory-BuiltSubstations, our age-old commitment will never change: to take care of you like family.\nCome join our collaborative and innovative team at DIS-TRAN Packaged Substations!<br />DIS-TRAN Packaged Substations has been an industry leader in the design and supply of high-voltage, open-air substations, and switchyards since 1965. Over a half-century of building meaningful relationships with our customers and vendors boils down to one thing: people. We take pride in our collaborative approach where everything we do is designed to deliver the project the right way, your way. Though we have grown over the years, and now offer new innovations like our Factory-BuiltSubstations, our age-old commitment will never change: to take care of you like family.<br />\n<p></p>\n<p>The Engineering Apprentice I shall be a member of a project engineering team responsible for completing assigned tasks within the allotted schedule and cost constraints. The Engineering Apprentice shall report directly to the Manager of the Engineering Department who is responsible for managing the engineering and design schedules and supervising team members. The Engineering Apprentice shall be fully capable and willing to perform all tasks assigned by the Management of the Engineering Department. </p>\n<p>The Engineering Apprentice shall be the single person on the Engineering and Design Team who is responsible and accountable for all aspects related to the structural and physical substation design of the project.  The engineer is expected to be knowlegable in all aspects of substation design, including structural steel, foundations, rigid and flexible bus design, substation layout, electrical clearance and safety requirements, and equipment functions and their purpose.  The engineer assigned to perform the structural calculations on a project is expected to follow his/her project throughout the design process, supporting the design team and providing technical advice.  The engineer shall provide guidance, direction, instruction, and leadership to the design team pertaining to technical issues.   The main objectives for the Engineering Apprentice shall be 0 Errors, 0 Missed Commitments, and efficient production.</p>\n\n \n<h3>CORE COMPETENCIES:</h3>\nCustomer Focus \nDecision Quality \nBusiness Insight \nDrives Results \nCollaborates \nCommunicates Effectively \nCourage \nInstills Trust \nManages Ambiguity  \n\n \n<h3>ESSENTIAL DUTIES AND RESPONSIBILITIES: </h3>\n<ul>\n<li>The Engineering Apprentice shall be capable of applying engineering principles, judgment, and knowledge to develop innovative and cost saving solutions for all DIS-TRAN projects.</li>\n\n</ul>\n<ul>\n<li>The Engineering Apprentice shall be responsible for producing accurate and organized structural calculations, for customer review, sizing all structural elements for structures to be fabricated as well as providing reactions for foundation design.  </li>\n<li>The Engineering Apprentice shall be fully knowledgeable of DIS-TRAN design standards including all applicable building codes and standards relating to physical and structural substation design.</li>\n<li>The Engineering Apprentice shall produce efficient steel designs that meet all requirements of building codes, customer specifications, and equipment operational requirements.  The engineer is expected to and be responsible for ensuring that all reasonable efforts are made to keep steel designs within the quoted steel cost.</li>\n<li>The Engineering Apprentice shall work hand-in-hand with Structural Design Coordinators to efficiently create accurate structural models to feed the design process.  The engineer is responsible for thoroughly checking all structural models before calculations are submitted for a project.</li>\n<li>The Engineering Apprentice shall have adequate Inventor knowledge to be able to create simple structural models and all drawings that go in the structural calculation books.</li>\n<li>The Engineering Apprentice shall have a thorough knowledge of all electrical clearance requirements, and assure they are met.</li>\n<li>The Engineering Apprentice shall have a thorough knowledge of the function and operation of all substation equipment.  Applying this knowledge is critical to producing adequate structure designs.</li>\n<li>The Engineering Apprentice shall have a working knowledge of all engineering software used by DIS-TRAN.</li>\n<li>The Engineering Apprentice shall be capable of reviewing/checking the bus design and structural layout for all projects.</li>\n<li>The Engineering Apprentice shall be able to produce foundation designs and foundation construction drawings.</li>\n<li>The Engineering Apprentice shall be responsible for following the project throughout the design process, support the design team on technical matters, and ensure that their design intent is maintained.</li>\n<li>The Engineering Apprentice shall be responsible for helping, including working with project management, to resolve or remove any impediments to the successful completion of the project.</li>\n<li>The Engineering Apprentice shall be responsible for knowing and understanding the specifications and/or customer requests – communicating any items that may be easily missed to the design team.  It is expected that the engineer remains in touch with the design team on a periodic basis while the work is ongoing.</li>\n<li>The Engineering Apprentice shall proactively schedule any team meetings that may be necessary due to multitudes of customer changes, piecemealed information, a sense of team confusion, conflicting specifications, progress getting off track, etc.  Also, the engineer shall help make any decisions necessary to keep all parts/aspects of the project moving forward.</li>\n<li>The Engineering Apprentice shall schedule any necessary check points for drawing and/or drawing package review to ensure the highest quality possible (ex. scheduling a checking session {possibly over lunch} to review the entire drawings package for an EPC job to ensure all changes or modifications along the way were incorporated).</li>\n\n \n </ul>\n<h3>EDUCATION AND EXPERIENCE:</h3>\n<ul>\n<li>Must have a degree in Civil Engineering or a related field from an accredited university or equivalent experience.</li>\n<li>PE preferred.</li>\n<li>Strong background in Microsoft Word, Excel, and PowerPoint required.</li>\n<li>Excellent communication, organization, and writing skills are a must.</li>\n\n</ul>\nReferral Level: Professional\nEligible for Enhanced Referral\nNot eligible for External Referral\nMore information regarding The Crest Industries Family of Companies’ Internal and External Referral Programs can be found here: https://www.crestoperations.com/recruit-new<br />DIS-TRAN Packaged Substations is proud to be ISO-9001:2015 and ISN Certified.<br /><br />DIS-TRAN Packaged Substations is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information.<br />DIS-TRAN Packaged Substations is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request information regarding reasonable accommodation, contact your Human Resource Business Partner.<br />Equal Opportunity Employer/Protected Veterans/Individuals with DisabilitiesThe contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)<br />Part of the CREST INDUSTRIES family of companies.",
+    "content_hash": "9a8510609424edcc19dd065180fb9511"
+  },
+  "6bf22911b763": {
+    "id": "6bf22911b763",
+    "title": "Apprentice / Express Technician - Audi Stuart!",
+    "title_raw": "Apprentice / Express Technician - Audi Stuart!",
+    "company": {
+      "slug": "murgado-automotive-group",
+      "name": "Murgado Automotive Group",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Stuart, FL",
+      "city": "Stuart",
+      "state": "FL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "murgadoautomotive",
+      "external_id": "02aad680-5d20-4a27-8f4b-f4e6d26fdf6e"
+    },
+    "apply_url": "https://jobs.lever.co/murgadoautomotive/02aad680-5d20-4a27-8f4b-f4e6d26fdf6e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T18:12:02.067Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:05:43.260Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 18,
+      "max": 18,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Apprentice / Express Technician – Audi Stuart</strong><br /><em>Stuart, FL | Full-time | Entry-level with clear career path</em></p>\n<p></p>\n<p><strong>Why this role is different</strong></p>\n<p></p>\n<p>Ready to build a real career working on one of the world’s most advanced luxury brands—without needing years of experience to get started?</p>\n<p></p>\n<p>At <strong>Audi Stuart</strong> (part of Murgado Automotive Group), we invest in people who are hungry to learn. You’ll train alongside experienced technicians in a modern, air-conditioned shop equipped with factory special tools, iPads, and the latest diagnostic equipment. This isn’t just a job—it’s a structured path from Express Technician to skilled Audi Technician with real earning potential and long-term growth.</p>\n<p></p>\n<p><strong>What you’ll get (the real benefits)</strong></p>\n<p></p>\n<ul>\n<li>Competitive pay with clear advancement opportunities as you gain skills and certifications (starting at $18 per hour)</li>\n<li>Full benefits package: medical, dental, and vision insurance</li>\n<li>401(k) with company match</li>\n<li>Paid time off + holidays</li>\n<li>Employee discounts on vehicles, parts, and service</li>\n<li>Paid factory training and support for ASE / Audi certifications</li>\n<li>Mentorship from Master Technicians and a team that actually helps you grow</li>\n<li>Clean, professional work environment in the Treasure Coast</li>\n</ul>\n<p></p>\n<p>Many of our top technicians started exactly where you are now.</p>\n<p></p>\n<p><strong>What you’ll do</strong></p>\n<p></p>\n<p>You’ll start by mastering the fundamentals of express and maintenance service while learning the systems that make Audi vehicles special:</p>\n<p></p>\n<ul>\n<li>Perform oil services, tire rotations, multi-point inspections, fluid checks, and other preventive maintenance</li>\n<li>Assist senior technicians with diagnostics and repairs</li>\n<li>Use specialized tools and equipment while following Audi quality and safety standards</li>\n<li>Keep your work area organized and professional</li>\n<li>Communicate clearly with the service team so customers get accurate, timely information</li>\n<li>Continuously build your skills through on-the-job coaching and formal training</li>\n</ul>\n<p></p>\n<p>As you progress, you’ll take on more complex work and increase your earning potential.</p>\n<p></p>\n<p><strong>Who thrives here</strong></p>\n<p></p>\n<p>We’re looking for motivated people who:</p>\n<p></p>\n<ul>\n<li>Have a high school diploma or equivalent</li>\n<li>Hold a valid driver’s license with a clean driving record</li>\n<li>Bring basic mechanical aptitude or a genuine passion for cars (experience is a plus, not required)</li>\n<li>Are reliable, detail-oriented, and eager to learn</li>\n<li>Work well on a team and communicate professionally</li>\n<li>Want a career—not just a paycheck—and are willing to put in the effort to grow</li>\n</ul>\n<p></p>\n<p>Military veterans and recent graduates are encouraged to apply.</p>\n<p></p>\n<p><strong>Ready to start building your future?</strong></p>\n<p></p>\n<p>Join a dealership that treats technicians like professionals and gives them the tools, training, and support to succeed.</p>\n<p></p>\n<p><strong>Apply today</strong> and take the first step toward becoming an Audi Technician at Audi Stuart.</p>\n\n\n<p><strong>Apprentice / Express Technician – Audi Stuart</strong><br /><em>Stuart, FL | Full-time | Entry-level with clear career path</em></p>\n<p></p>\n<p><strong>Why this role is different</strong></p>\n<p></p>\n<p>Ready to build a real career working on one of the world’s most advanced luxury brands—without needing years of experience to get started?</p>\n<p></p>\n<p>At <strong>Audi Stuart</strong> (part of Murgado Automotive Group), we invest in people who are hungry to learn. You’ll train alongside experienced technicians in a modern, air-conditioned shop equipped with factory special tools, iPads, and the latest diagnostic equipment. This isn’t just a job—it’s a structured path from Express Technician to skilled Audi Technician with real earning potential and long-term growth.</p>\n<p></p>\n<p><strong>What you’ll get (the real benefits)</strong></p>\n<p></p>\n<ul>\n<li>Competitive pay with clear advancement opportunities as you gain skills and certifications (starting at $18 per hour)</li>\n<li>Full benefits package: medical, dental, and vision insurance</li>\n<li>401(k) with company match</li>\n<li>Paid time off + holidays</li>\n<li>Employee discounts on vehicles, parts, and service</li>\n<li>Paid factory training and support for ASE / Audi certifications</li>\n<li>Mentorship from Master Technicians and a team that actually helps you grow</li>\n<li>Clean, professional work environment in the Treasure Coast</li>\n</ul>\n<p></p>\n<p>Many of our top technicians started exactly where you are now.</p>\n<p></p>\n<p><strong>What you’ll do</strong></p>\n<p></p>\n<p>You’ll start by mastering the fundamentals of express and maintenance service while learning the systems that make Audi vehicles special:</p>\n<p></p>\n<ul>\n<li>Perform oil services, tire rotations, multi-point inspections, fluid checks, and other preventive maintenance</li>\n<li>Assist senior technicians with diagnostics and repairs</li>\n<li>Use specialized tools and equipment while following Audi quality and safety standards</li>\n<li>Keep your work area organized and professional</li>\n<li>Communicate clearly with the service team so customers get accurate, timely information</li>\n<li>Continuously build your skills through on-the-job coaching and formal training</li>\n</ul>\n<p></p>\n<p>As you progress, you’ll take on more complex work and increase your earning potential.</p>\n<p></p>\n<p><strong>Who thrives here</strong></p>\n<p></p>\n<p>We’re looking for motivated people who:</p>\n<p></p>\n<ul>\n<li>Have a high school diploma or equivalent</li>\n<li>Hold a valid driver’s license with a clean driving record</li>\n<li>Bring basic mechanical aptitude or a genuine passion for cars (experience is a plus, not required)</li>\n<li>Are reliable, detail-oriented, and eager to learn</li>\n<li>Work well on a team and communicate professionally</li>\n<li>Want a career—not just a paycheck—and are willing to put in the effort to grow</li>\n</ul>\n<p></p>\n<p>Military veterans and recent graduates are encouraged to apply.</p>\n<p></p>\n<p><strong>Ready to start building your future?</strong></p>\n<p></p>\n<p>Join a dealership that treats technicians like professionals and gives them the tools, training, and support to succeed.</p>\n<p></p>\n<p><strong>Apply today</strong> and take the first step toward becoming an Audi Technician at Audi Stuart.</p>\n\n<em>Murgado Automotive Group is an equal opportunity employer. Murgado Automotive Group does not discriminate in employment on account of race/ethnicity, color, religion, national origin, gender, sexual orientation/transgender status, age disability, martial/parental status, citizenship status, military status, political affiliation and/or beliefs, pregnancy, order of protection status or other non-merit status.</em>\n \n<em>We are an employer who participates in the E-verify program with the Department of Homeland and Security.</em>",
+    "content_hash": "300b2ae41ba0a1d15fb6fa762a99184b"
+  }
+}

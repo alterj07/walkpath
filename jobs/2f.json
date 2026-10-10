@@ -1,0 +1,87 @@
+{
+  "2f0e5be06056": {
+    "id": "2f0e5be06056",
+    "title": "Research Scientist Intern, AI Molecular Design",
+    "title_raw": "Research Scientist Intern, AI Molecular Design",
+    "company": {
+      "slug": "genbio-ai",
+      "name": "GenBio AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto, CA",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "genbio",
+      "external_id": "7d0b5764-48ce-4d06-93d2-431742d35604"
+    },
+    "apply_url": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T15:54:03.521Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:55:55.804Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "GenBio AI is an AI for Science company on a mission to make biology fully computable. We are building AIDO (AI-Driven Digital Organism) to simulate living systems, decode biology holistically, and accelerate medical and scientific research. Our first step toward that mission is <strong>AIDO Cell</strong>, the first virtual cell world model that holistically simulates cell biology from molecules up to whole-cell behavior. It enables researchers to run experiments virtually, predicting how cells respond to genetic changes, drugs and other interventions before going into the lab. It is supported by <strong>AIDO Foundry</strong>, an AI-builds-AI engineering framework for automating virtual cell development, and <strong>AIDO Lab</strong>, an interface to digitally run experiments and observe the results. Together they form the foundation for a new paradigm in AI-driven drug discovery, bioengineering, and fundamental biomedical research.\n<h3>Qualifications:</h3>\n\n\n<p>M.S. or Ph.D. student (or evidence of equivalent level of expertise) in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field.</p>\n \nAvailable for a 6-month, in-person internship in Palo Alto, CA, and authorized to work in the U.S. for the duration of the internship. \n\n<p>Skilled in developing, implementing, and debugging deep learning methods/models in popular frameworks, such as JAX, TensorFlow, or PyTorch, with an interest in generative models, graph neural networks, or large-scale deep learning applications.</p>\n \n\n<p>Strong theoretical foundation (e.g., statistics, optimization, graph theory, linear algebra).</p>\n \n\n<p>Passion for interdisciplinary research (emphasizing the intersection of AI and Biology), and willingness to acquire necessary domain knowledge.</p>\n \n\n<p>Motivated and self-driven with the ability to operate with partial descriptions of high-level objectives (as is typical in a start-up environment).</p>\n \n\n<p>Familiarity with software engineering best practices (version control, documentation, etc).</p>\n \n\n\n<h3>Nice to Have:</h3>\n\n\n<p>3 year PhD student and above.</p>\n \n\n<p>Proven track record in research and innovation demonstrated through contributions in top-tier AI/ML (e.g., NeurIPS, ICML, CVPR, ECCV, ICCV, ICLR) and/or core biology (e.g., Nature, Science, or Cell) journals and conferences.</p>\n \n\n<p>Intern experience in industry (e.g., OpenAI, FAIR, Deepmind, Google Research).</p>\n \n\n<p>Hands-on experience working at the intersection of AI and Biology, particularly protein structure prediction, protein sequence/structure modeling, or molecular design.</p>\n \n\n<p>Experience with biological structure prediction algorithms or models such as AlphaFold2/3 or RoseTTAFold.</p>\n \n\n<p>Experience in generative modeling for biological structures and sequences, including diffusion models, flow matching, or related approaches.</p>\n \n\n<p>Experience in large-scale distributed training and inference.</p>\n \n\n<p>Open-source contributions, especially if used by others.</p>\n \n\n\n\nJoin us as we embark on this journey to redefine the future of biology and medicine.\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. GenBio AI participates in the U.S. Department of Homeland Security’s E-Verify program to confirm the employment eligibility of all newly hired employees. For more information on E-Verify, please visit www.e-verify.gov.",
+    "content_hash": "46244c4ae407f1d6333a3693040eb282"
+  },
+  "2f344391326d": {
+    "id": "2f344391326d",
+    "title": "Intern - Lab/TAC Network Engineer",
+    "title_raw": "Intern - Lab/TAC  Network Engineer",
+    "company": {
+      "slug": "extreme-networks",
+      "name": "Extreme Networks",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Raleigh, North Carolina, United States",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "extremenetworks",
+      "external_id": "c3017f47-8150-44ae-8522-71fd28657e25"
+    },
+    "apply_url": "https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-07T12:28:26.981Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:13.896Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions. They rely on our top-rated services and support to accelerate their digital transformation efforts and deliver unprecedented progress. With double-digit growth year over year, no provider is better positioned to deliver scalable outcomes than Extreme.<br />Inclusion is one of our core values and in our DNA. We are committed to fostering an inclusive workplace that embraces our differences and creates an atmosphere where all our employees thrive because of their differences, not in spite of them.<br />Become part of Something big with Extreme!  As a global networking leader, learn why there’s no better time to join the Extreme team.\nOver 50,000 customers globally trust our end-to-end, cloud-driven networking solutions. They rely on our top-rated services and support to accelerate their digital transformation efforts and deliver unprecedented progress. With double-digit growth year over year, no provider is better positioned to deliver scalable outcomes than Extreme.<br />Inclusion is one of our core values and in our DNA. We are committed to fostering an inclusive workplace that embraces our differences and creates an atmosphere where all our employees thrive because of their differences, not in spite of them.<br />Become part of Something big with Extreme!  As a global networking leader, learn why there’s no better time to join the Extreme team.<br />\nThe Lab Network Engineer Intern will learn routing and switching protocols using Extreme Networks multi-layer Ethernet switches. The LNE will learn how to design, implement, and troubleshoot networks working in the Services Lab Operations team. Candidates should have Windows and Linux experience, basic networking knowledge, excellent communication skills, and a passion to learn technology.\n<strong> </strong>\nThe Lab Network Engineer will work in the Services Lab Operations team in Morrisville, North Carolina. They will interface directly with the lab manager on a regular basis to:\n \n·         Learn Extreme Networks products, routing &amp; switching protocols, and lab operations\n·         Setup networking equipment for Technical Support Engineers (TSEs) to use for customer support\n·         Partner with TSEs to help replicate customers’ network issues (software, hardware, configuration)\n·         Assist with lab operations (racking, cabling, troubleshooting, managing equipment, etc.)\n·         Prepare to become a Technical Support Engineer, Network Engineer, or a related position\n<em> </em>\nSuccess for this position is based on the following:\n \n·         Demonstrating technical aptitude, critical thinking, and communication skills to solve problems\n·         Passing certifications &amp; internal training on products &amp; network protocols\n·         Adhering to Service Level Agreements (SLAs) for lab setups and replications\n·         Accurately documenting work activities in a clear and concise manner\n·         Improving lab operations and processes on an ongoing basis\n·         Training various lab users on systems and processes\n<em> </em>\n<strong>Candidate Requirements: </strong>\n \nRequired Knowledge, Skills and Abilities\n·         Passion and aptitude for learning technology and solving problems\n·         Strong written and verbal communication skills\n·         Basic networking knowledge including Ethernet, TCP/IP, OSI model, routing and switching\n·         Experience in a service-oriented position\n·         Can work independently with minimal guidance as well as collaboratively with other team members\n·         Excellent organization and time management skills\n \nPreferred Skills\n·      Experience working with routers and switches in a lab environment or technical support position\n·      Knowledge of servers and virtualization (VMware, Linux, Microsoft)\n·      Knowledge of scripting language(s)\n \n \nBackground Experiences\n<strong> </strong>\n·     Pursuing a Bachelor’s degree in a computer or networking related field\n·     Customer service experience, preferably in technical support\n·     Setting up and managing home networks (wired and wireless)\n·     Pursuing industry standard certifications\n \n \n \n\n \n\n<p>Compensation: This role has a market-competitive salary with an anticipated base compensation range of  18-22hr USD. The posted range reflects the amount Extreme Networks reasonably and in good faith expects to pay for this role upon hire. This range is set using objective, gender-neutral criteria based on skills, experience, responsibility, and working conditions.  Actual compensation offered will depend on the selected candidate's experience, qualifications, skills, and work location. </p>\n<p>Benefits and Total Rewards:</p>\n<p>Extreme Networks offers a comprehensive benefits package. Specific benefits vary by country and may include:</p>\n<p>•    Medical, dental, and vision insurance</p>\n<p>•    Flexible work schedules and work-from-home opportunities where role permits</p>\n<p>•    Paid time off, including open time off in eligible markets and statutory leave in all markets</p>\n<p>•    Paid holidays in accordance with local practice</p>\n<p>•    Retirement savings programs, including 401(k) matching in the United States</p>\n<p>•    Employee Stock Purchase Program, where eligible</p>\n<p>•    Adoption assistance and fertility treatment support, where eligible</p>\n<p>•    Flexible spending accounts, where eligible</p>\n<p>•    Employee assistance program</p>\n<p>•    Tuition reimbursement, where eligible</p>\n<p>•    Life and disability insurance</p>\n<p></p>\n<p>Benefits eligibility is based on country of employment, role, and employment status. Complete benefits details will be provided during the interview process and in the formal offer of employment.</p>\n<p>Equal Employment Opportunity</p>\n<p>Extreme Networks, Inc. is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. We are committed to taking affirmative action to employ and advance in employment qualified protected veterans, including disabled veterans, recently separated veterans, active-duty wartime or campaign badge veterans, and Armed Forces service medal veterans.</p>\n<p>Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (for example, stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks. We encourage people from underrepresented groups to apply.</p>\n<p>Fair chance and background checks</p>\n<p>Extreme Networks will consider qualified applicants with criminal histories in a manner consistent with the California Fair Chance Act, Los Angeles Fair Chance Initiative for Hiring Ordinance, Los Angeles County Fair Chance Ordinance for Employers, Philadelphia Fair Criminal Record Screening Standards Ordinance, Illinois Human Rights Act, Cook County Human Rights Ordinance, Seattle Fair Chance Employment Ordinance, and the San Francisco Fair Chance Ordinance. An applicant's conviction history will not be considered until after a conditional offer of employment has been made. Following any individualized assessment, applicants will be provided with the opportunity to respond before any adverse action is taken.</p>\n<p>Extreme Networks does not seek salary history information from applicants and will not rely on salary history in determining whether to offer employment or in setting compensation.</p>\n<p>Reasonable accommodation</p>\n<p>Extreme Networks is committed to providing reasonable accommodations to qualified applicants with disabilities throughout the application, interview, and hiring process. If you require a reasonable accommodation to participate in the application or interview process, please contact [insert contact email and phone]. All requests will be handled confidentially.</p>\n<p>Use of artificial intelligence in hiring</p>\n<p>Extreme Networks may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are made by humans. Applicants have the right to request human review of any automated decision affecting their candidacy and to request information about how their personal data is processed. To exercise these rights, please contact [insert contact email].</p>\n<p>Data privacy</p>\n<p>Personal data provided during the application process will be processed in accordance with Extreme Networks' Candidate Privacy Notice, which is available at https://www.extremenetworks.com/about-extreme-networks/company/legal/privacy-and-cookies-policy. For applicants in the European Economic Area, United Kingdom, and other jurisdictions with comparable data protection laws, the Candidate Privacy Notice describes your rights regarding your personal data.</p>\n<p>About Extreme Networks</p>\n<p>Extreme Networks, Inc. (NASDAQ: EXTR) creates effortless networking experiences that enable people and organizations to advance. We push the boundaries of technology by leveraging machine learning, artificial intelligence, analytics, and automation.</p>\n<p>Learn more at www.extremenetworks.com, or follow us on LinkedIn, X, and Facebook.</p>\n\n\n \n\nExtreme Networks, Inc. (EXTR) creates effortless networking experiences that enable all of us to advance. We push the boundaries of technology leveraging the powers of machine learning, artificial intelligence, analytics, and automation. Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services and support to accelerate their digital transformation efforts and deliver progress like never before. For more information, visit Extreme's website or follow us on Twitter, LinkedIn, and Facebook.<br /><i>We encourage people from underrepresented groups to apply. Come Advance with us! In keeping with our values, no employee or applicant will face discrimination/harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. Above and beyond discrimination/harassment based on “protected categories,” Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (e.g., stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks.</i>",
+    "content_hash": "14bbde4c604c68cfca78f1edc56591e8"
+  }
+}

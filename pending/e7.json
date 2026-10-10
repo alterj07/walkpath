@@ -1,0 +1,42 @@
+{
+  "e704a51f8a37": {
+    "id": "e704a51f8a37",
+    "title": "Internship (No intern program at this time)",
+    "title_raw": "Internship (No intern program at this time)",
+    "company": {
+      "slug": "ansatz-capital",
+      "name": "Ansatz Capital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ansatzcapital",
+      "external_id": "555c0f1a-ec57-49ff-a7df-944da3ee69e7"
+    },
+    "apply_url": "https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-09-24T14:07:58.832Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:44:07.841Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>Ansatz Capital does not have an internship program at this time. If you would like, you may submit a resume and we will keep your profile on file. Applicants should not expect a response. </b><br />Ansatz Capital is a quantitative trading software firm based in downtown Manhattan. Our highly technical team believes in treating markets as an intellectual discipline—something that can be studied, refined, and innovated upon.<br />We believe in the value in gathering a talented group of people together and letting them work together intelligently. By avoiding the bureaucracy inherent in larger firms, our group achieves more and more quickly than other industry leaders. Supported by world class technology, our team generates and implements unparalleled research ideas. Collaboration has been key to our success, and culture is a key driver of the collaboration.",
+    "content_hash": "24033837588fb1ac9d4d7a1505c6dd38"
+  }
+}

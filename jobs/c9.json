@@ -1,0 +1,181 @@
+{
+  "c911275e7785": {
+    "id": "c911275e7785",
+    "title": "Full-Stack Software Engineer (Product) - Intern",
+    "title_raw": "Full-Stack Software Engineer (Product) - Intern - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "f291394a-f3c5-4f46-9b87-77aea3d487ef"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-16T00:17:14.429Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Netic's Full-Stack Software Engineers working on the product team build the features that put AI in the hands of real businesses. This role combines technical excellence with customer empathy, crafting products that make complex AI feel simple, and deliver immediate value to essential service industries.</p> <p>We need to hire multiple engineers for 12-week internships on our core software product team  that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better.</p> <p><strong>What You'll Do:</strong></p><ul><li><p><strong>Build agentic products:</strong> Design, code, and ship full-stack features for Netic's AI platform.</p></li><li><p><strong>Co‑create with customers:</strong> Work closely with our customers to understand workflows, gather feedback, and turn pain points into features that stick.</p></li><li><p><strong>Own end‑to‑end delivery:</strong> Drive projects from spec to production, handling data models, APIs, front‑end polish, and post‑launch iteration.</p></li><li><p><strong>Ensure quality:</strong> Build, test, and monitor features in production to ensure reliability and performance.</p></li></ul> <p><strong>What You'll Bring:</strong></p><ul><li><p><strong>Proven product builder:</strong> Ability to deliver user‑facing software at scale; you’ve carried features through multiple release cycles.</p></li><li><p><strong>Full‑stack fluency:</strong> Comfortable with React, TypeScript, Python; experience with databases and cloud infrastructure.</p></li><li><p><strong>AI experience (nice‑to‑have):</strong> Hands‑on with LLM APIs, embeddings, or RAG patterns—or hunger to learn fast.</p></li><li><p><strong>Customer empathy:</strong> Track record of translating stakeholder goals into crisp technical specs and delightful products.</p></li><li><p><strong>Founder‑level ownership:</strong> You run toward ambiguity, write clean code quickly, and see failures as data for the next sprint.</p></li><li><p><strong>Excellent communicator:</strong> Able to explain architectural trade‑offs to engineering, and business outcomes to executives.</p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "2fdd508909292f0eceb9625f50b4710c"
+  },
+  "c94421915c01": {
+    "id": "c94421915c01",
+    "title": "Electromechanical Design Engineering Intern (January - August 2027)",
+    "title_raw": "Electromechanical Design Engineering Intern (January - August 2027)",
+    "company": {
+      "slug": "rivian-and-volkswagen-group-technologies",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Irvine, California",
+      "city": "Irvine",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Palo Alto, California"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rivianvw.tech",
+      "external_id": "be70e02f-46d3-488e-b3c2-8dadc3bb34b8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T17:36:25.312Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 45,
+      "max": 51,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world.</p><p></p><p>The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we’ll map a new way forward. Working together, we’ll create a future that’s more connected, more intelligent, more sustainable for everyone.</p><p></p><p>This is a general application used to fill multiple internship openings across our Electrical Hardware teams. If selected, you will be matched to a specific team based on your background and interests during the interview process.</p><ul><li><p>Electrical Design Engineering Intern</p></li><li><p>Electrical Engineering Design Intern</p></li><li><p>Electrical Functional Safety Engineering Intern</p></li><li><p>Embedded Software Engineering Intern</p></li><li><p>Mechanical Design Engineering Intern</p></li><li><p>Product Launch Engineering Intern</p></li><li><p>Reliability Engineering Intern</p></li><li><p>Software Engineering Intern - Vehicle Lab</p></li><li><p>Supplier Excellence Engineering Intern</p></li><li><p>Test Automation Systems Engineering Intern</p></li></ul><p></p><h3>Role Summary</h3><p>Every Electronic Control Unit goes through a full lifecycle of design, validation, manufacturing readiness, and release. As an Electromechanical Design Engineering intern, you will be involved in one part of that lifecycle, which may include circuit design, mechanical packaging, hardware validation and test, reliability and functional safety analysis, or supplier and manufacturing readiness work.</p><p>Specific project areas vary by team and may include:</p><ul><li><p>Designing and developing analog, digital, or mixed signal circuits, including schematic capture and component selection</p></li><li><p>Supporting mechanical packaging design or structural and thermal simulation for ECU enclosures</p></li><li><p>Building or running hardware validation tests and test automation systems</p></li><li><p>Contributing to hardware functional safety analyses such as FMEA or FMEDA</p></li><li><p>Supporting supplier quality, product launch, or manufacturing readiness activities for ECU programs</p></li></ul><h3>Responsibilities</h3><ul><li><p>Support proof of concept, design, or validation work for an assigned hardware project</p></li><li><p>Debug and troubleshoot hardware issues at the board or system level</p></li><li><p>Document component release information and maintain accurate design records</p></li><li><p>Collaborate with cross functional engineering and design teams to understand requirements</p></li><li><p>Communicate progress and findings to your team throughout the internship</p></li></ul><h3>Qualifications</h3><p>Minimum:</p><ul><li><p>Currently enrolled in a Bachelor's or Master's program at an accredited US university</p></li><li><p>Proficient in electrical engineering fundamentals</p></li></ul><p>Preferred:</p><ul><li><p>Actively pursuing a degree in Electrical Engineering, Mechanical Engineering, Hardware Engineering, or a closely related field, with intent to return to school after the internship</p></li><li><p>Understanding of electronics, packaging, and hardware design</p></li><li><p>Familiarity with communication protocols such as CAN, Ethernet, USB, I2C, or SPI</p></li><li><p>Coursework or project experience with PCB design tools, CAD tools, or simulation software</p></li><li><p>Familiarity with product lifecycle management and component release processes</p></li></ul><h3><strong>Total Rewards</strong></h3><p>We build the exceptional — and we believe the people doing that work should be rewarded accordingly. In addition to a competitive base salary, full-time positions may be is eligible to participate in our annual company performance bonus program. </p><p></p><p>Payments are discretionary and not guaranteed; actual amounts depend on company results and the terms of the plan in effect, and require active employment at the time of payout. This role is also eligible for equity in the form of Restricted Stock Units (RSUs), subject to board approval and the terms of our equity incentive plans, including applicable vesting requirements. </p><p></p><p>In addition to our compensation programs, we invest in our people with a comprehensive benefits package designed to support the health, wellbeing, and financial future for full-time employees — including health coverage, retirement savings, time off, and family planning programs. Offerings vary by country. <strong>Learn more about our global benefit programs</strong><strong>.</strong></p><p></p><p>External candidates can apply for this role through the Rivian and Volkswagen Group Technologies careers site (<strong>https://rivianvw.tech/#careers</strong>). If you are a current employee, please apply through our <strong>internal job board</strong><em><strong>.</strong></em></p><p></p><h3>Equal Opportunity</h3><p>Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.</p><p></p><p>Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.</p><p></p><h3>Candidate Data Privacy</h3><p>Rivian and Volkswagen Group Technologies” may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) record keeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law. </p><p></p><p>Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies’ service providers, including providers of background checks, staffing services, and cloud services. </p><p></p><p>Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. </p><p></p><p>If you provide a mobile telephone number as part of your application or during the recruitment process, Rivian and Volkswagen Group Technologies may use that number to contact you via SMS text message for recruitment-related purposes, including scheduling, logistics, and status updates. Message and data rates may apply. You may opt out of SMS communications at any time by replying STOP to any text message you receive from us. Consent to receive SMS messages is not a condition of applying for or being considered for employment.</p><p>Please see our <strong>Candidate Data Privacy Notice (English)</strong><strong>  </strong>and <strong>Candidate Data Privacy Notice (Serbian)</strong> for more information.</p><p>--</p><p><em>Please note this job posting represents an open, active vacancy. Additionally, we are not currently accepting applications from third party application services.</em></p>",
+    "content_hash": "ed1ef560c66330d0ff7fb786838a50d8"
+  },
+  "c9c8549d8f35": {
+    "id": "c9c8549d8f35",
+    "title": "Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027)",
+    "title_raw": "Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027)",
+    "company": {
+      "slug": "rivian-and-volkswagen-group-technologies",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Champaign, Illinois",
+      "city": "Champaign",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rivianvw.tech",
+      "external_id": "f421a524-72da-4dd6-a549-bbee9e98622e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T19:13:58.742Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 35,
+      "max": 40,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world.</p><p></p><p>The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we’ll map a new way forward. Working together, we’ll create a future that’s more connected, more intelligent, more sustainable for everyone.</p><p></p><p>Candidates should be available from January 11, 2027 to August 13, 2027.</p><p></p><h3>Role Summary</h3><p>As a Software Engineering Intern, you will support the Infotainment Platform Enablement team focused on next-generation infotainment platforms. The team enables early hardware bring-up develops manufacturing validation software, and builds system-level workload emulation and diagnostics frameworks to de-risk high compute automotive platforms well ahead of production. This role offers hands-on exposure to embedded systems, hardware-software integration, vehicle workload emulation, and large-scale diagnostics telemetry systems running on cutting-edge compute platforms.</p><p></p><h3>Responsibilities</h3><ul><li><p>Contribute to the design and implementation of a Software Application Framework for infotainment and validation systems</p></li><li><p>Support hardware bring-up and validation of Electrical Control Units (ECUs)</p></li><li><p>Develop test utilities and manufacturing software in C/C++ and Python</p></li><li><p>Assist in emulating vehicle workloads to validate system behavior and power/performance characteristics</p></li><li><p>Debug hardware and software integration issues across subsystems (camera, display, audio, connectivity, sensors)</p></li><li><p>Collect, analyze, and visualize diagnostics telemetry data to support root cause analysis</p></li><li><p>Collaborate with cross-functional teams to gather requirements and deliver scalable solutions</p></li></ul><h3>Qualifications</h3><p>Minimum Qualifications:</p><ul><li><p>Currently enrolled in a full-time degree program in Computer Science, Computer Engineering, or a related field at the University of Illinois Urbana-Champaign</p></li><li><p>Strong programming skills in C/C++ and/or Python</p></li><li><p>Understanding of embedded systems fundamentals</p></li><li><p>Must be located in Champaign, IL and able to work out of our office in the Research Park.</p></li></ul><p>Preferred Qualifications:</p><ul><li><p>Exposure to embedded platform architecture (GPU, PCIe, camera pipelines, high-speed interfaces)</p></li><li><p>Prior experience with high-compute platforms such as NVIDIA, Qualcomm, or equivalent SoCs</p></li><li><p>Coursework or internship experience involving:</p><ul><li><p>Camera / Display / Audio subsystems</p></li><li><p>WiFi / Bluetooth / networking interfaces</p></li><li><p>Linux-based embedded systems</p></li></ul></li><li><p>Experience with telemetry, data processing, or analytics tools (e.g., Databricks or equivalent data platforms) is a plus</p></li></ul><p></p><h3><strong>Total Rewards</strong></h3><p>We build the exceptional — and we believe the people doing that work should be rewarded accordingly. In addition to a competitive base salary, full-time positions may be is eligible to participate in our annual company performance bonus program. </p><p></p><p>Payments are discretionary and not guaranteed; actual amounts depend on company results and the terms of the plan in effect, and require active employment at the time of payout. This role is also eligible for equity in the form of Restricted Stock Units (RSUs), subject to board approval and the terms of our equity incentive plans, including applicable vesting requirements. </p><p></p><p>In addition to our compensation programs, we invest in our people with a comprehensive benefits package designed to support the health, wellbeing, and financial future for full-time employees — including health coverage, retirement savings, time off, and family planning programs. Offerings vary by country. <strong>Learn more about our global benefit programs</strong><strong>.</strong></p><p></p><p>External candidates can apply for this role through the Rivian and Volkswagen Group Technologies careers site (<strong>https://rivianvw.tech/#careers</strong>). If you are a current employee, please apply through our <strong>internal job board</strong><em><strong>.</strong></em></p><p></p><h3>Equal Opportunity</h3><p>Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.</p><p></p><p>Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.</p><p></p><h3>Candidate Data Privacy</h3><p>Rivian and Volkswagen Group Technologies” may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) record keeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law. </p><p></p><p>Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies’ service providers, including providers of background checks, staffing services, and cloud services. </p><p></p><p>Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. </p><p></p><p>If you provide a mobile telephone number as part of your application or during the recruitment process, Rivian and Volkswagen Group Technologies may use that number to contact you via SMS text message for recruitment-related purposes, including scheduling, logistics, and status updates. Message and data rates may apply. You may opt out of SMS communications at any time by replying STOP to any text message you receive from us. Consent to receive SMS messages is not a condition of applying for or being considered for employment.</p><p>Please see our <strong>Candidate Data Privacy Notice (English)</strong><strong>  </strong>and <strong>Candidate Data Privacy Notice (Serbian)</strong> for more information.</p><p>--</p><p><em>Please note this job posting represents an open, active vacancy. Additionally, we are not currently accepting applications from third party application services.</em></p>",
+    "content_hash": "a3255329d18b3e9209448bcff3c84f82"
+  },
+  "c9ed3f4558ee": {
+    "id": "c9ed3f4558ee",
+    "title": "Fab Software Engineering Intern - Summer",
+    "title_raw": "Fab Software Engineering Intern - Summer",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "36ab33ab-82e7-4cc4-8137-f451fd6036a0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-05T16:55:05.163Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p><p></p><p><strong>About the Role</strong></p><p>We are seeking Software Engineering Interns to work on the Fab team for the summer term. The internship begins in May or June, with a preferred commitment of 4 to 8 months. You will build full-stack applications, tools, and infrastructure for a software-defined semiconductor fab.</p><p></p><p>This is a deeply broad, multi-domain, hands-on role. You’ll work on control of semiconductor fabrication equipment, and data analysis of semiconductor process development. The software you build will help engineers develop and operate the fab. If you’re excited by building complex features from scratch, and learning new domains quickly, this is a great place to grow.</p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months. <strong>Because of this, a portfolio (can be your GitHub) is required to apply</strong>: show us the things you’ve actually built!  For us, a good portfolio includes evidence of software engineering excellence and curiosity.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Develop frontend + backend, data driven applications to run the fab</p></li><li><p>Build software for sequencing and controlling fab operations</p></li></ul><p></p><p><strong>Required Experience</strong></p><ul><li><p>Pursuing a BS in Computer Science, Computer Engineering, or demonstrated exceptional skill in software engineering</p></li><li><p>Strong programming skills in Rust and Go or Typescript plus a strong desire to learn</p></li><li><p>Solid understanding of systems fundamentals: memory, performance, concurrency</p></li><li><p>Experience building non-trivial software projects from scratch (personal, academic, or professional)</p></li><li><p>Interest in one or more of the following areas: databases, visualization, data processing pipelines</p></li></ul><p></p><p><strong>Nice-to-have</strong></p><ul><li><p>Experience with interactive software such as Figma, Blender, CAD tools, KiCad, or scientific computing environments</p></li><li><p>Familiarity with schema evolution, database migrations, or serialization formats like Protobuf</p></li><li><p>Understanding of collaborative or distributed systems (e.g., CRDTs, OT, WebSockets)</p></li><li><p>Appreciation for texts such as <em>Structure and Interpretation of Computer Programs</em> and <em>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</em></p></li><li><p>Exposure to advanced 2D/3D visualization, simulation, or novel user interfaces</p></li></ul><p></p><p><strong>Working at fab2</strong></p><p>We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p></p><p><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p></li></ul><p></p><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p></p><p><strong>Export Control Analysis:</strong> This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p><p></p><p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "304079824ddbf0f4b16f9ca69f212bef"
+  }
+}

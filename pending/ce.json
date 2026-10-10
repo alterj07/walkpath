@@ -1,0 +1,134 @@
+{
+  "ce13f33105d9": {
+    "id": "ce13f33105d9",
+    "title": "Cogent AI Fellowship",
+    "title_raw": "Cogent AI Fellowship",
+    "company": {
+      "slug": "cogent-security",
+      "name": "Cogent Security",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cogent-security",
+      "external_id": "96b36c74-096a-4ec6-a71e-84a43385cc4f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cogent-security/96b36c74-096a-4ec6-a71e-84a43385cc4f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-05T01:01:53.562Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.161Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 300000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Cogent</h3><p>Cogent is an Applied AI Lab building the next generation of AI agents for cybersecurity. AI has fundamentally changed how attacks happen, allowing malicious actors to operate at unprecedented speed and scale. Cogent’s \"AI Taskforce\" assesses petabytes of enterprise data to remediate these issues before critical breaches occur.</p> <p>To stay at the cutting edge, we blend frontier research with real-world execution. Alongside our core product work, Cogent Research serves as our applied AI lab, providing the research horsepower needed to make truly agentic security workflows a reality.</p> <p>Since coming out of stealth, Cogent has experienced rapid growth. We partner with Fortune 500 companies to secure some of the most complex production environments in the world.</p> <p>We’re backed by Greylock and we’ve built a team with the best minds in applied AI. Our team is comprised of people from:</p><ul><li><p>Top universities like Stanford, Berkeley, Penn, Duke, Carnegie Mellon, Waterloo</p></li><li><p>Preeminent research labs like Deepmind and SAIL</p></li><li><p>Unicorn, high-growth companies like Scale AI, Databricks, Stripe, Tesla, Coinbase</p></li><li><p>World class cybersecurity experts from Wiz, Abnormal AI, Zscaler</p></li></ul> <h3>About the Role</h3><p>Cogent Research is investing equally in two core research areas. The first is <strong>agentic security</strong>: as AI agents are deployed in production, real-world incidents have shown that prompt-level guardrails are insufficient. Agent behavior requires guarantees that are non-bypassable, AI-synthesized, and human-auditable. The second is <strong>auto-remediation</strong>: resolving security findings at machine speed in real customer environments.<br /></p><p>Each area is a first-class research objective, and the two are deeply connected. Auto-remediation can only operate safely at the required level of autonomy when agentic security guarantees are in place. Across both areas, we combine AI with formal methods: tool calls governed by runtime-enforced policies, and code fixes that ship with machine-checkable certificates of correctness.<br /></p><p>The <strong>Cogent AI Fellowship</strong> is an early-career research-engineering track for recently graduated, or soon-to-graduate, PhDs who want to move research from paper to production. Fellows choose a problem they are excited to pursue, prototype quickly alongside our research and engineering teams, and ship production systems. We look for people who are comfortable with ambiguity and willing to change direction when the evidence calls for it.</p>  <h3>What You’ll Do</h3><ul><li><p>Define and pursue a research direction at the intersection of AI and formal methods, such as autoformalizing intent into machine-checkable specifications, certificate-producing code generation, AI-assisted proof in Lean, runtime verification of agent tool calls, or natural-language-to-policy synthesis.</p></li><li><p>Take ideas end-to-end: from prototype to systems running against real customer workloads.</p></li><li><p>Partner with applied AI, agent, and platform engineers to translate research advances into production capabilities.</p></li><li><p>Work with design partners and security leaders to ground the work in the workflows security engineers actually run.</p></li><li><p>Build evaluation harnesses and benchmarks that capture what “verified-correct” or “policy-compliant” means in messy, real-world security environments.</p></li><li><p>Iterate quickly, update your approach when results indicate a better path, and share what you learn internally and at venues that advance the field.</p></li></ul> <h3>About You</h3><ul><li><p>Research experience in one or more of the following areas: formal methods, program analysis, programming languages, agentic AI for code reasoning, or runtime verification.</p></li><li><p>A strong publication record in top conferences or journals, or comparable open-source or artifact contributions.</p></li><li><p>A recently completed PhD in Computer Science, or a closely related field, or a defense expected soon.</p></li><li><p>Strong engineering ability, including fluency in a major programming language and the judgment to mature a prototype into a production-ready system.</p></li><li><p>An independent, self-starting mindset; comfort operating in ambiguous settings; and genuine excitement for Cogent’s mission.</p></li></ul><p></p><h3><strong>Bonus Points</strong></h3><ul><li><p>Experience with vulnerability detection/remediation or secure-by-construction systems.</p></li></ul> <h3>For California Based Applicants</h3><p>The standard base salary range for this position is $100,000 - $300,000 annually. Compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.</p><p>We are committed to building an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.</p>",
+    "content_hash": "02b189819b46ba64ae2254b5e6ee316f"
+  },
+  "ce355a883e58": {
+    "id": "ce355a883e58",
+    "title": "Service Delivery Analyst Intern",
+    "title_raw": "Service Delivery Analyst Intern",
+    "company": {
+      "slug": "allied-solutions",
+      "name": "Allied Solutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Carmel, IN",
+      "city": "Carmel",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliedsolutions/Allied_External",
+      "external_id": "R-011085"
+    },
+    "apply_url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Service-Delivery-Analyst-Intern_R-011085",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:59:51.987Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.      <br /> <br />Interested applicants must be available during the 12-week program (May 17th – Aug. 6th, 2027). This is a full-time internship (40-hours per week) based at our headquarters in Carmel, IN.    <br /><br />The Service Delivery Analyst Intern will support technical implementation activities, operational readiness, and cross-functional coordination across Enterprise Technology Group teams. This role will assist with tracking tasks, documenting requirements, communicating status updates, and helping resolve implementation or post-implementation issues.  <br /><br />The intern will gain hands-on experience partnering with business and technical stakeholders to translate business needs into actionable requirements, support process improvements, and ensure implementation work progresses effectively.<p></p><p><b>Job Duties and Responsibilities</b> </p><ul><li><p>Assist with coordinating implementation activities across technical and business teams. </p></li></ul><ul><li><p>Track project tasks, milestones, action items, and deliverables to support timely completion. </p></li></ul><ul><li><p>Help document business requirements, process updates, meeting notes, and implementation details. </p></li></ul><ul><li><p>Support communication of project status, risks, blockers, and next steps to internal stakeholders. </p></li></ul><ul><li><p>Participate in issue tracking and follow-up efforts to help drive resolution across teams. </p></li></ul><ul><li><p>Assist with operational readiness activities, including documentation review, knowledge transfer, and transition support. </p></li></ul><ul><li><p>Support process improvement efforts by identifying recurring issues, workflow gaps, or opportunities to improve execution. </p></li></ul><p></p><p><b>Qualifications (Education, Experience, Certifications &amp; KSA)</b> </p><ul><li><p>Currently enrolled in an undergraduate program as a rising Junior or Senior, pursuing a degree in Information Systems, Informatics, Data Analytics, or related field </p></li></ul><ul><li><p>Strong organizational and time management skills. </p></li></ul><ul><li><p>Excellent analytical and problem-solving abilities </p></li></ul><ul><li><p>Strong verbal and written communication skills </p></li></ul><p></p><p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job. </p><p></p><p>#LI-SJ1</p><p>#LI-Onsite</p><p></p><p>We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.<br /><br />All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p><p></p><p>To view our privacy statement click here</p><p></p><p>To view our terms and conditions click here</p>",
+    "content_hash": "4546a95a4f32b6c99bb81cbc81479f88"
+  },
+  "cec6aa1e32a3": {
+    "id": "cec6aa1e32a3",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Sacramento, California",
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Roseville, California"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "8bf0ea7b-3ffb-41c7-bd73-ae1d492b803f"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/8bf0ea7b-3ffb-41c7-bd73-ae1d492b803f/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T21:15:24.890Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 26,
+      "max": 31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>Sick Time: </strong>While interns are not eligible for our full benefits package, sick time is accrued at a rate of 1 hour for every 30 hours worked.\n \n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "7481f18ffbff33e660094c4ac6d91903"
+  }
+}

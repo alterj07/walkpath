@@ -1,0 +1,82 @@
+{
+  "01034beccd16": {
+    "id": "01034beccd16",
+    "title": "Research Fellowship - Open Endedness",
+    "title_raw": "Research Fellowship - Open Endedness",
+    "company": {
+      "slug": "vmax-ai-corp",
+      "name": "Vmax AI Corp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "SF",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "vmax",
+      "external_id": "c4e1e51b-65c5-41f0-9bed-c90bc452859b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/vmax/c4e1e51b-65c5-41f0-9bed-c90bc452859b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-11-05T20:31:18.089Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.506Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About </strong><em><strong>Vmax</strong></em></h3><p><em>Vmax</em> is an applied research lab developing AI capable of open-ended learning. We are building systems to exceed humans in all capacities by optimising beyond the local maxima of learning from human expertise.</p><h3>About the role</h3><p>A core focus of ours is agents that can learn to find their own objectives in the world. We are looking for researchers to design and build new ways of using RL where the formulation of rewards and tasks need to be discovered, rather than given. </p><p>This 3 to 6 month fellowship is for PhD students or equivalent early-career researchers who want to work on LLMs that can learn in open-ended settings. You will own a focused research project, work closely with Vmax technical staff, and contribute to research publications.</p><h3>Responsibilities</h3><ul><li><p>Develop RL methods for agents that can discover useful objectives, tasks and curricula without relying entirely on human-specified rewards.</p></li><li><p>Design systems for open-ended learning, including unsupervised/automated environment design, asymmetric self-play, and intrinsic motivation.</p></li><li><p>Build training loops where agents learn from interaction, exploration, novelty, competence progress, self-generated challenges, or other nonstandard reward signals.</p></li><li><p>Investigate how agents can avoid collapse into trivial, degenerate, or easily exploitable objectives.</p></li><li><p>Own and develop a research agenda within Vmax, from identifying promising directions to executing experiments and communicating results.</p></li></ul><h3>Role Requirements</h3><ul><li><p>Currently enrolled in a PhD program in machine learning, computer science, artificial intelligence, computational neuroscience, mathematics, or a related technical field. Exceptional candidates with equivalent research experience may also be considered.</p></li><li><p>Track record of research excellence or strong research promise, demonstrated through publications, preprints, open-source work, technical projects, competitions, or publicly available artifacts.</p></li><li><p>Working understanding of reinforcement learning.</p></li><li><p>Familiarity with unsupervised/automated environment design, asymmetric self-play, and/or intrinsic motivation.</p></li><li><p>Strong programming ability in Python and experience with at least one major ML framework such as PyTorch or JAX.</p></li><li><p>Clear written and verbal communication of technical ideas.</p></li></ul><h3>Nice to have</h3><ul><li><p>Experience with LLM post-training methods </p></li><li><p>Experience with scalable ML experimentation, distributed training, experiment tracking, or reproducible research infrastructure.</p></li><li><p>Demonstrated taste for identifying non-obvious research directions and converting them into tractable experiments.</p></li></ul><h3><strong>Role specific location policy</strong></h3><ul><li><p>This role is based in our San Francisco office; for exceptional candidates we are willing to consider a hybrid arrangement</p></li></ul>",
+    "content_hash": "64a5f099259200af1fc7e7e7c3192f60"
+  },
+  "01c73e0c33a1": {
+    "id": "01c73e0c33a1",
+    "title": "Level Design Internship",
+    "title_raw": "Level Design Internship",
+    "company": {
+      "slug": "larian-studios",
+      "name": "Larian Studios",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Gent",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "larian",
+      "external_id": "27fc755d-40b6-43b9-b58a-3ca3ebb01fc7"
+    },
+    "apply_url": "https://jobs.lever.co/larian/27fc755d-40b6-43b9-b58a-3ca3ebb01fc7/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-11-19T16:37:41.636Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:01:35.897Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "With multiple awards to our name, Larian Studios has proven that we’re dedicated to delivering high-quality role-playing games As we move on to new projects, the studio that brought you Baldur’s Gate 3 &amp; Divinity: Original Sin 2 is looking for a Level Design Intern to join the team and help us in crafting the high calibre games our fans have come to expect.\n<h3>Responsibilities</h3>\nUnderstand the role the area plays in the composition of the game experience based on the narrative and design/creative directors briefing; \nBe aware of the narrative flow of the game and what part that area plays in the story \nBe ready to throw away everything you made and start from scratch with a new perspective obtained through previous iterations; \nMake rough level designs based on the given briefings and situations and iterate with scripters and combat designers to bring the level to an art ready production phase \nPolish existing level design and functionality to reach a state of the art level of quality.  \nMake sure the level is always playable and ready to go, specially during the art pass phase where level and environment artists start decorating; \n\n<h3>Requirements</h3>\nAbility to work well as part of a team; \nAn extremely positive can do attitude; \nAbility to give and receive feedback \nAbility to experience the game as a gamer; \nPreferably an RPG Gamer with a passion for CRPGs \nThis is a full-time, on-site role, requiring your presence in the office to support collaboration \nA portfolio of previous relevant work attached to your application \n\n<h3>What we offer</h3>\nAn international team of over 600 employees spread across 7 studios around the world, each of which have their own unique qualities, and maintain a small-studio feel \nAn open, collaborative environment where ideas are welcome and encouraged \nA managerial team consisting of highly experienced game developers at the top of their fields \nSharing hobbies and passions with like-minded colleagues \nInclusive environment with many activities organized by the studios or the employees \nCommitment to making the best game possible for the fans, including listening to community feedback",
+    "content_hash": "462e47ae81379947725b3741dc7e934a"
+  }
+}

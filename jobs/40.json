@@ -1,0 +1,92 @@
+{
+  "4016a12a8eae": {
+    "id": "4016a12a8eae",
+    "title": "Product Design Intern",
+    "title_raw": "Product Design Intern",
+    "company": {
+      "slug": "ibotta",
+      "name": "ibotta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid - Denver",
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ibotta",
+      "external_id": "18bc055e-8958-4a09-9d5d-59894e6b9747"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/18bc055e-8958-4a09-9d5d-59894e6b9747/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T21:04:51.354Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.426Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "ux_design",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 33.85,
+      "max": 33.85,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ibotta is seeking a <strong>Product Design Intern</strong> to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our <strong>2027 Summer Internship</strong>, you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your career. We are looking for candidates who are eager to learn, excited to work on real-world business challenges, and want to be part of a mission-driven company.</p><p></p><p>This will be a full-time, 12 week, internship during the summer of 2027. This is a hybrid position located in Denver, Colorado and requires 3 days in-office per week. Required in-office hybrid days are Tuesday, Wednesday, and Thursday. Candidates must live in the United States.</p><p></p><p><strong>What you will be doing:</strong></p><ul><li><p>Design and submit your own designs and solutions for Ibotta roadmap items</p></li><li><p>Participate fully in team design critiques</p></li><li><p>Collaborate and interface with Product, Engineering, Marketing, UX Research, and more to deliver on Ibotta business objectives</p></li><li><p>Embrace and uphold Ibotta’s Core Values: <em>Integrity, Boldness, Ownership, Teamwork, Transparency &amp; A good idea can come from anywhere</em></p></li></ul><p></p><p><strong>What we are looking for:</strong></p><ul><li><p>Juniors working towards a bachelor’s degree with a focus in human-computer interaction, UX design, or related field</p></li><li><p>Proven ability to think creatively and implement ideas from start to finish</p></li><li><p>Good written and verbal communication skills</p></li><li><p>Hunger to learn and collaborate with your teammates</p></li><li><p>Experience with user interface design software such as Figma, Adobe DX, or Sketch (we work in Figma)</p></li><li><p>Strong understanding of visual and interaction design concepts and best practices</p></li><li><p>Familiarity with UX research fundamentals</p></li></ul><p></p><p><strong>About Us:</strong></p><p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $1.8 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.</p><p></p><p>To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com</p><p></p><p> <strong>Additional Details:</strong></p><ul><li><p>This position is located in Denver, CO and includes competitive pay and housing assistance for eligible students. <strong>Denver office perks include paid parking, snacks, and occasional meals.</strong></p></li><li><p>The hourly compensation for this role is: <strong>$33.85</strong> per hour worked. This compensation range is specific to the United States labor market.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul><p></p><p><strong>Recruiting Agency Notice</strong></p><p>Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p>",
+    "content_hash": "5f5f2f1ec055bcac4ed91518a2ce68ce"
+  },
+  "40da8e6a3edd": {
+    "id": "40da8e6a3edd",
+    "title": "Software Engineer Intern (AI-Native) — Fall 2026",
+    "title_raw": "Software Engineer Intern (AI-Native) — Fall 2026",
+    "company": {
+      "slug": "kognitos",
+      "name": "Kognitos",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose - HQ",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "kognitos",
+      "external_id": "a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-26T20:24:56.771Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.633Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 3000,
+      "max": 4000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Software Engineer Intern (AI-Native) — Fall 2026</strong></p><p>We’re looking for engineers who don’t just use AI tools — you build with them.</p><p>At Kognitos, you’ll work on real product problems using tools like Claude Code, Cursor, and other AI-assisted workflows. You’ll ship fast, learn faster, and operate in a highly iterative environment alongside experienced engineers.</p><p>This is not a “watch and learn” internship — you’ll be writing production code, contributing to core systems, and helping shape how we build.</p><p><strong>What You’ll Do</strong></p><ul><li><p>Build and ship features end-to-end with the engineering team</p></li><li><p>Use AI-native tooling (Claude, Cursor, etc.) to accelerate development workflows</p></li><li><p>Write clean, maintainable, and well-documented code</p></li><li><p>Participate in code reviews and technical discussions</p></li><li><p>Debug issues and improve system performance</p></li><li><p>Contribute to projects across AI, automation, and data systems</p></li><li><p>Move quickly, test ideas, and iterate in a fast-paced environment</p></li></ul><p><strong>What We’re Looking For</strong></p><ul><li><p>Currently pursuing a degree in Computer Science or a related field (or equivalent experience)</p></li><li><p>Strong fundamentals in programming (Python, JavaScript, or similar)</p></li><li><p>Comfortable building with modern dev tools and workflows</p></li><li><p>Familiar with Git and collaborative development</p></li><li><p>Solid understanding of core CS concepts (data structures, algorithms, systems basics)</p></li><li><p>Strong problem-solving ability and curiosity</p></li><li><p>Clear communicator and team-oriented</p></li></ul><p><strong>Bonus Points</strong></p><ul><li><p>Experience using AI coding tools (Claude Code, Cursor, Copilot, etc.)</p></li><li><p>Built projects using LLMs, APIs, or automation workflows</p></li><li><p>Familiarity with modern web stacks (React, Node, etc.)</p></li><li><p>Exposure to cloud platforms (AWS, GCP, Azure)</p></li><li><p>Prior internship, startup, or side project experience</p></li></ul><h3><strong><br />Final note</strong></h3><p>You do not need to match all of the listed expectations to apply for this position. We are committed to building a team with a variety of backgrounds, experiences, and skills.</p><p></p><h3><strong>Equal opportunities provider</strong></h3><p>Kognitos is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.</p>",
+    "content_hash": "f98353385e595ee635eb1cb8256a29e6"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "7e49e78bb165": {
+    "id": "7e49e78bb165",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "title_raw": "Software Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "ctgt",
+      "name": "CTGT",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ctgt",
+      "external_id": "f657c2f5-125e-42b6-a68a-646bbea3d155"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-26T22:03:28.491Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.414Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 8000,
+      "max": 12000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About CTGT &amp; The Mission</strong></h3><p>Despite massive investment in commercial AI, organizations often find that demonstrated value is elusive, primarily due to the non-deterministic risk inherent to generative models. CTGT is the deterministic governance layer that enables the most important global institutions to deploy AI workflows with confidence.</p><p>Born out of Stanford University research, we provide the control plane that makes it possible. A lightweight, model-agnostic system that enforces policy, prevents drift, and produces auditable decisions in real time. When benchmarked on HaluEval, the CTGT Policy Engine (paired with GPT-120B OSS) outperformed frontier models (Gemini 3 Pro Preview, Claude 4.5 Opus and 4.5 Sonnet) at drastically lower compute cost.</p><p>While we sit on the edge of AI research, CTGT brings frontier intelligence into real-world environments. We apply cutting-edge theory directly in production to make large language models more reliable, controllable, and performant in practice.</p><p>Our mission is to bring models to the level of performance and accountability required by the Fortune 500. By bridging the gap between LLM capabilities and domain-specific requirements, we unlock the true potential of generative AI to solve the most pressing problems in our world today.</p><p></p><h3><strong>The Role</strong></h3><p>This is not a side project internship. You will own a meaningful piece of work end to end, ship it to a real system, and see it used. You will sit close to the engineers building the Policy Engine and the platform around it, and you will be expected to form opinions, ask hard questions, and take problems further than they were handed to you.</p><p>We are looking for someone whose strength is the fundamentals: someone who writes clean code, reasons carefully about correctness, and wants to understand the whole system rather than just the piece in front of them.</p><h3></h3><h3><strong>What You Will Do</strong></h3><ul><li><p>Build and ship features across the stack, from backend services to product surfaces</p></li><li><p>Write code that holds up under real load, with the correctness and clarity our systems require</p></li><li><p>Work closely with senior engineers and take ownership of a project from design through delivery</p></li><li><p>Dig into ambiguous problems and bring back a clear answer</p></li></ul><p></p><h3><strong>Who You Are</strong></h3><ul><li><p>Pursuing a Bachelor's degree in Computer Science or a related technical field</p></li><li><p>Strong programming fundamentals and fluency in at least one general purpose language (Python and JavaScript are central to our stack)</p></li><li><p>Comfortable with Git and basic cloud workflows (AWS or GCP)</p></li><li><p>Able to explain technical ideas clearly to people with different backgrounds</p></li><li><p>Curious, self-directed, and able to make progress without constant scaffolding</p></li></ul><p></p><h3><strong>Logistics</strong></h3><ul><li><p>Full-time, in person in San Francisco</p></li><li><p>10 to 12 weeks between May/June and August/September 2027</p></li><li><p>We sponsor US visas</p></li></ul><p></p><h3><strong>What We Offer</strong></h3><ul><li><p><strong>World-Class Backing</strong>: You will join a venture-backed company with institutional investors including Google's Gradient Ventures, General Catalyst, and Y Combinator.</p></li><li><p><strong>Real Impact:</strong> You will work directly on the core systems that determine how models perform in the wild. Your work ships into real, high-stakes environments where governance, auditability, and performance are non-negotiable.</p></li><li><p><strong>Autonomy &amp; Trust:</strong> We operate with a high degree of trust. You are expected to form strong technical opinions and execute on them.</p></li></ul>",
+    "content_hash": "da62f7c51885ee220e90e8ebc78d3bf4"
+  },
+  "7ea834da8f33": {
+    "id": "7ea834da8f33",
+    "title": "Electrical Engineering Intern, 2027",
+    "title_raw": "Electrical Engineering Intern, 2027",
+    "company": {
+      "slug": "allen-control-systems",
+      "name": "Allen Control Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "allen-control-systems",
+      "external_id": "cc1618f1-e4b8-4dcb-88fd-9771da972220"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T21:37:27.131Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:56.798Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Overview</strong><em><br />ACS (Allen Control Systems) is a defense technology company building precision robotic systems for the United States and its allies. Founded by two former U.S. Navy electrical engineers with deep experience in robotics and software, ACS brings together AI, computer vision, precision motion, and advanced hardware to solve complex defense challenges across land, air, and maritime environments.</em></p><p><em>Our flagship product, Bullfrog, is an autonomous precision weapon system that transforms existing weapons into highly accurate counter-drone systems — giving warfighters a scalable, cost-effective response to one of the fastest-growing threats on the modern battlefield. Bullfrog is deployed with U.S. forces, and ACS works with organizations throughout the U.S. military and national security community.</em></p><p><em>Following a $200 million Series B at a $2.2 billion valuation, ACS is rapidly expanding manufacturing, accelerating Bullfrog deployments, and developing the next generation of autonomous battlefield systems. This is an opportunity to join a proven, fast-moving team and help scale technology with direct, real-world impact on national security.</em></p><p><em>ACS is headquartered in Austin, Texas, with additional operations in Alexandria, Virginia; Mountain View, California; and Huntsville, Alabama. For more information, visit </em><em>allencontrolsystems.com</em><em>.</em></p><h3></h3><p>Our interns aren't fetching coffee or shadowing — they're working alongside the same engineers building the systems we ship. This is early-career work with real stakes.</p><p><strong>Location: </strong>Austin, TX (on-site)</p><p><strong>Duration: </strong>Summer 2027 (~10-12 wks)</p><p><strong>Pay: </strong>Paid internship</p><p><strong>Team: </strong>Small, hands-on, direct impact</p><p></p><p><strong>What You Could Work On:</strong></p><ul><li><p>Electrical systems that power and connect sensors, computers, and actuators on an autonomous weapon system</p></li><li><p>Circuit design, wire harness and interconnect work, and embedded hardware bring-up</p></li><li><p>Power distribution and signal integrity for a system that has to work reliably in the field, not just on a bench</p></li><li><p>Hands-on lab work: oscilloscopes, multimeters, and debugging real hardware, not just simulations</p></li></ul><p>(We're keeping this general on purpose — exact projects depend on where things stand next summer, but this is the flavor of work you'd be doing.)</p><p></p><p><strong>What We're Looking For:</strong></p><ul><li><p>Currently pursuing a degree in Electrical Engineering or a related field</p></li><li><p>Coursework or project experience in circuit design, embedded systems, or hardware integration</p></li><li><p>Comfortable in a lab environment with real test equipment</p></li><li><p>Excited to see your work physically integrated into hardware that actually ships</p></li></ul><p></p><p><strong>Why ACS:</strong></p><ul><li><p>Direct impact: your work ships on hardware being fielded to protect real people — not stuck in a slide deck.</p></li><li><p>Real ownership: no red tape. You'll work directly with the engineers building Bullfrog, from day one.</p></li><li><p>Small team, big scope: at a startup this size, interns take on real problems, not busywork.</p></li><li><p>Mentorship from engineers who've designed and fielded real defense systems.</p></li></ul><p></p><p><em>Allen Control Systems is an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment. Allen Control Systems prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p>",
+    "content_hash": "0bf5e7203b270d2f2d4a16a7061e6ade"
+  },
+  "7eb6a2058ff1": {
+    "id": "7eb6a2058ff1",
+    "title": "Systems Engineer Intern",
+    "title_raw": "Systems Engineer Intern",
+    "company": {
+      "slug": "dedalus-labs",
+      "name": "Dedalus Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "dedalus-labs",
+      "external_id": "6037de96-d9c7-418f-ad23-56bb327225a6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-02T00:32:06.045Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 7800,
+      "max": 8667,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the role</h3><p>Dedalus Labs builds persistent computers for AI agents. Our flagship product, Dedalus Machines, gives agents an isolated environment where they can run software, keep files and state, and work over time.</p><p>We're looking for someone who keeps asking what happens underneath an API, a process, or a virtual machine, then reads and experiments until they can explain it. You'll work on runtime, storage, networking, or virtualization problems with engineers who care about correctness and performance.</p><h3>About the internship</h3><p>This is a paid, full-time, approximately three-month internship in San Francisco. Applications are open throughout the year, with start dates agreed individually. You'll work alongside Dedalus engineers on a scoped project the team can use, with direct feedback on your implementation and decisions.</p><p>We want evidence that you can learn something difficult, finish a working version, and improve it when the first approach fails. You do not need prior production ownership. You should already have a project you understand well enough to explain its hardest bug, its limits, and your personal contribution.</p><h3>What you might own</h3><ul><li><p>A reproducible investigation into a slow startup, restore, or I/O path. Establish a baseline, isolate the bottleneck, and measure a focused change.</p></li><li><p>A runtime or storage improvement with tests for cancellation, resource cleanup, or recovery after a process stops.</p></li><li><p>A failure-injection test that exposes an incorrect ordering or lifecycle assumption and verifies the repair.</p></li><li><p>A scoped implementation from a systems paper or specification, with a comparison that explains where the idea helps and where it does not.</p></li></ul><p>The project will have an agreed scope and completion criteria. Finishing includes code, tests, an explanation of the decisions, and a handoff another engineer can use.</p><h3>What we look for</h3><p>You can build and debug software in Rust, Go, C, C++, or a similar language. Rust is preferred but not required. You have a working understanding of memory, concurrency, data structures, and the operating-system behavior your project depends on.</p><p>Relevant work might be a small storage engine, networking tool, runtime, compiler, operating-system component, or performance investigation. Coursework, research, employment, open source, and independent projects all count. Explain what you personally implemented and what you learned beyond the initial instructions.</p><p>When you get stuck, you narrow the problem, read the relevant source or documentation, and try an experiment that can teach you something. You ask for help with the evidence you've collected and explain what you need to understand next. You act on feedback and keep ownership of the result.</p><p>You use AI coding tools where they help. You must be able to explain the resulting code, test its behavior, and correct it when it is wrong. We care about your judgment and understanding throughout the work.</p><h3>This internship may be a poor fit if</h3><ul><li><p>You want a tutorial with every implementation step supplied.</p></li><li><p>You cannot explain or debug the code in the project you submit.</p></li><li><p>You lose interest after the first successful run, before checking failure cases or documenting what remains incomplete.</p></li></ul><h3>Logistics</h3><p>Paid, full-time, and in person in San Francisco for approximately three months. Applications are accepted year-round. Interns who demonstrate strong technical ability, judgment, ownership, and mutual fit may be considered for full-time roles. Conversion is not guaranteed.</p><h3>Show us your work</h3><p>Use your application to show us one thing you built and one difficult problem you investigated. They can come from the same project. Choose work you already have. We are not asking you to build a new project for this application.</p><ul><li><p><strong>Work:</strong> Show the code, demo, design, or result. Explain what you personally owned, what you reused, and one decision that made the result better or simpler.</p></li><li><p><strong>Investigation:</strong> Describe the symptom, your first explanation, the evidence that changed your thinking, and how you established the result. Include the workload or users involved and any important limitations.</p></li><li><p><strong>Writing:</strong> Share one piece of your best writing as a separate, required sample. Simple and succinct is welcome. Choose work that shows your thinking and your voice in a professional or similarly thoughtful context: a strong README, design note, blog post, postmortem, proposal, or essay. A serious, self-contained Reddit post is fine. Tweets, Twitter/X threads, and short social posts do not count. Link it or paste a redacted excerpt. Tell us the intended audience, what you wrote, why you chose it, and any coauthors or AI assistance.</p></li></ul><p>Work from employment, open source, research, coursework, or independent projects is welcome. Public source code is optional. A redacted excerpt or a concrete account of private work is fine. Keep confidential information out of your application.</p><p>Tell us which problem in this role you want to own and why. If your strongest evidence is easy to miss on a resume, point us to it. An existing demo or short screen recording is welcome, and video is optional.</p><h3>Compensation</h3><p>Internship pay is $45-$50 per hour. The monthly range shown above is an approximate equivalent of $7,800-$8,667 at 40 hours per week, averaged over 52 weeks per year. Actual pay is based on hours worked.</p>",
+    "content_hash": "967dfe4fefff8e2277168f880c21b136"
+  },
+  "7ed23cea69b5": {
+    "id": "7ed23cea69b5",
+    "title": "Infrastructure Software Engineering Intern - Summer",
+    "title_raw": "Infrastructure Software Engineering Intern - Summer",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "53f3fe23-9d2d-4eef-bd28-968d011f86c7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-05T16:54:39.312Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p><p></p><p><strong>About the Role</strong></p><p>We are seeking a Infrastructure and Site Reliability Intern for the summer term. The internship begins in May or June, with a preferred commitment of 4 to 8 months. You will design, build, deploy, and manage the on-prem backend infrastructure that powers our small, fast semiconductor fab.</p><p></p><p>This is a broad role encompassing all aspects of backend infrastructure and services.</p><p></p><p>Our philosophy towards infra is minimal, understandable, on-site, and close to the hardware. You won’t find much docker, cloud services, or kubernetes. Instead, there is a lot of bare-metal linux, systemd, and single file binaries. You’ll see a lot of rust and go and occasionally some python.</p><p></p><p>What matters most is that you’ve already built real things, you love getting close to the metal, and show strong signs of engineering excellence. If you’re excited by performance engineering, building complex features from scratch, and learning new domains quickly, this is a great place for you.</p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months. <strong>Because of this, a portfolio (can be your GitHub) is required to apply</strong>: show us the things you’ve actually built!  For us, a good portfolio includes evidence of software engineering excellence and curiosity.</p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Build and evolve our infrastructure-as-code tooling to manage complex, multi-environment deployments</p></li><li><p>Help manage and maintain our fleet of on-premises servers, ensuring high availability and optimal resource utilization</p></li><li><p>Monitor and maintain system performance and health across diverse production workloads</p></li><li><p>Design, implement, and refine alerting systems to catch issues before they impact users</p></li><li><p>Build automation to reduce toil and improve operational efficiency</p></li><li><p>Implement secure secret management</p></li><li><p>Debug production issues across the stack</p></li><li><p>Work closely with engineering teams to understand their infrastructure needs and deliver robust, scalable solutions</p></li></ul><p></p><p><strong>Required Experience</strong></p><ul><li><p>Pursuing a BS in Computer Science, Computer Engineering, or demonstrated exceptional skill in software engineering</p></li><li><p>Strong programming skills in Rust, Go, or other systems-oriented languages</p></li><li><p>Solid understanding of Linux systems, networking fundamentals, and distributed systems concepts</p></li><li><p>Experience building or maintaining non-trivial infrastructure, automation, or tooling projects (personal, academic, or professional)</p></li><li><p>Interest in one or more of the following areas: systems reliability, observability, infrastructure automation, performance optimization</p></li></ul><p></p><p><strong>Nice-to-have</strong></p><ul><li><p>Experience with configuration management or fleet management at scale</p></li><li><p>Background in monitoring and observability tools (Prometheus, Grafana, ELK stack, Datadog)</p></li><li><p>Familiarity with performance profiling and capacity planning</p></li><li><p>Experience with database administration, backup strategies, or disaster recovery</p></li><li><p>Exposure to secret management systems (Vault, SOPS) or PKI</p></li></ul><p></p><p><strong>Working at fab2</strong></p><p>We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p></p><p><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p></li></ul><p></p><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p></p><p><strong>Export Control Analysis:</strong> This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p><p></p><p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "80fae8e1ce2cc46b9ccb217d9cbdf1a5"
+  }
+}

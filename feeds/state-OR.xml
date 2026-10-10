@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in OR</title>
+  <id>https://walkpath.vercel.app/feeds/state-OR.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-OR.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:0993dba8e9db</id>
+    <title>Wholesale Analytics Intern @ Arc&apos;teryx Equipment</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/0993dba8e9db"/>
+    <updated>2026-09-22T14:57:11.634Z</updated>
+    <published>2026-09-22T14:57:11.634Z</published>
+    <author><name>Arc&apos;teryx Equipment</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">Department: NAM - Wholesale Reports to: National Account Manager - USA Location: Portland, Oregon Work Arrangement: Flexible, between in-office and home Pay Range: $21.49 - $26.49/hourly; pay is dependent on year of study and related experience Duration: Eight (8) months, January 4, 2027 – August…</summary>
+    <content type="text">Arc&apos;teryx Equipment · Portland, OR
+
+Department: NAM - Wholesale Reports to: National Account Manager - USA Location: Portland, Oregon Work Arrangement: Flexible, between in-office and home Pay Range: $21.49 - $26.49/hourly; pay is dependent on year of study and related experience Duration: Eight (8) months, January 4, 2027 – August…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+{
+  "d74e82cb1453": {
+    "id": "d74e82cb1453",
+    "title": "Spring 2027 Internship (Engineering)",
+    "title_raw": "Spring 2027 Internship (Engineering)",
+    "company": {
+      "slug": "the-exploration-company",
+      "name": "The Exploration Company",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Houston, Texas",
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "the-exploration-company",
+      "external_id": "3f4e976b-0d0c-4440-a943-6b4b0b2f6ddf"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/the-exploration-company/3f4e976b-0d0c-4440-a943-6b4b0b2f6ddf/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-03T18:16:10.623Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.874Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Here at The Exploration Company, we are building spacecrafts for humanity.</p><p></p><h3>Spring 2027 Engineering Internship:</h3><p>As an intern for The Exploration Company (TEC), you will be at the forefront of our crewed vehicle development. You will be instrumental in enabling our mission by designing, developing, testing, and improving engineering systems and technology.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Collaborate with engineers to design, develop, test, and improve products, systems, or processes.</p></li><li><p>Contribute to real-world engineering projects and deliverables under the guidance of a mentor.</p></li><li><p>Apply engineering principles and coursework to solve technical problems.</p></li><li><p>Develop, test, debug, and document technical solutions, tools, or prototypes.</p></li><li><p>Analyze data, identify trends, and provide recommendations to support engineering decisions.</p></li><li><p>Participate in design reviews, team meetings, and technical discussions.</p></li><li><p>Create and maintain technical documentation, reports, and project updates.</p></li><li><p>Support testing, validation, and quality assurance activities.</p></li></ul><p></p><p><strong>Basic requirements:</strong></p><ul><li><p>Pursuing a bachelor's, master's, or doctoral degree in Engineering or a related technical field.</p></li></ul><ul><li><p>Three months or more of relevant engineering experience through prior internships, co-op programs, or industry projects.</p></li><li><p>Due to federal regulations (e.g., ITAR/EAR), applicants must be U.S. citizens or lawful permanent residents (e.g., current Green Card holders)</p></li></ul><p></p><p><strong>Preferred skills and experience:</strong></p><ul><li><p>Cumulative GPA of 3.5 or above</p></li><li><p>Six months or more of relevant engineering experience through prior internships, co-op programs, or industry projects.</p></li><li><p>Experience working collaboratively in a team environment.</p></li><li><p>Demonstrated hands-on experience through academic projects, student organizations, internships, research, personal projects, or technical hobbies.</p></li><li><p>Strong problem-solving, analytical, and communication skills.</p></li><li><p>Ability to work independently, take initiative, and manage multiple priorities in a fast-paced environment.</p></li><li><p>Passion for learning new technologies and applying engineering principles to real-world challenges.</p></li></ul><ul><li><p>Experience working collaboratively in a team environment.</p></li><li><p>Proficiency with relevant engineering tools, programming languages, or technical platforms related to the role.</p></li></ul><p></p><p><strong>Additional Requirements:</strong></p><ul><li><p>Able to work full-time (40 hours per week) for a minimum of 12 weeks beginning January 2027</p></li><li><p>Able to provide your own relocation and housing</p></li></ul><p></p><p><em><strong>Note: Housing and relocation are not provided</strong></em></p><p><em><strong>Location: Houston, TX</strong></em></p><p></p><p><strong>Why you should join us!</strong></p><p>What makes us special here at The Exploration Company and why we think you will enjoy working here is:  </p><ul><li><p>We’re Agile - we make decisions fast whilst keeping our goals and systems in mind </p></li><li><p>We’re Open and Collaborative - we are transparent about risks and obstacles, so that we can cooperate to overcome them  </p></li><li><p>We have a lot of Fun - we refuel our energy knowing we are democratising space. It’s a wonderful and rare opportunity, are YOU up for the challenge?  </p></li></ul><p>We'd love to hear from you if you wish to be a part of our journey. Please submit your CV now for immediate consideration and we will be in touch shortly. <br /> <br /><em>The Exploration Company is an equal opportunity employer and values diversity. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Relocation assistance is provided for those willing to relocate including visa sponsorship where applicable.  </em><br /><br /><em><br />All offers are contingent upon the successful completion of a background check, which will be subject to the country, role, and project you applied for. By submitting your application, you acknowledge and agree that any offer of employment may be conditional upon successful condition of this check. The Exploration Company partners with Zinc Work Limited located in the UK (Zinc), a third-party provider, to ensure this process as efficient and transparent as possible. <br /><br />If applicable, you will receive an email from Zinc upon acceptance of your offer with a link to a secure portal where you can provide the required information to Zinc. </em><br /></p>",
+    "content_hash": "605d326d297093435c5dbfed0ba6231b"
+  },
+  "d77c51d11b32": {
+    "id": "d77c51d11b32",
+    "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
+    "title_raw": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
+    "company": {
+      "slug": "csc-generation",
+      "name": "CSC Generation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Houston, TX",
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "cscgeneration-2",
+      "external_id": "3a04b45f-a2eb-438a-a8ac-b07324223813"
+    },
+    "apply_url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T21:13:13.576Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:50:41.710Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>CSC Generation is the AI-native holding company re-engineering omnichannel retail. We acquire iconic brands and transform them with Genesis, our operating platform combining a Data Fabric, Automation Engine, proprietary tools, and shared services to modernize operations, elevate customer experience, and expand margins. With $1B+ in revenue across 13 brands, our portfolio includes Sur La Table, Backcountry, One Kings Lane, and others that serve as real-world innovation labs.</p>\n<p></p>\n<p><strong>Reports to:</strong> [Reports to: TBD]</p>\n<p><strong>Location:</strong> Houston, TX (Hybrid)</p>\n<h3>About the Role</h3><p>CSC Generation's portfolio runs on a mix of legacy systems spanning .NET, Python, JavaScript, and Java. These applications are critical to daily operations, and they need someone dedicated to keeping them healthy while steadily modernizing how they are built, tested, deployed, and monitored.</p>\n<p>As <strong>Software Engineer - Legacy Applications &amp; Modernization</strong>, you will own the maintenance and incremental improvement of these systems — building CI/CD pipelines, increasing test coverage, containerizing applications, and adding observability so the team can catch problems before customers do. Within your first six months, you will have shipped pipeline and testing improvements that measurably reduce production incidents.</p>\n<p>This is a lean team. You will own a lot, move fast, and make decisions with full end-to-end responsibility.</p>\n<h3>What You'll Do</h3>\nMaintain, debug, and enhance legacy applications written in .NET Framework, Python, JavaScript, and Java \nAnalyze and resolve production issues with minimal downtime \nDesign and implement CI/CD pipelines using AWS services, Docker, and Ansible \nContainerize legacy applications and orchestrate deployments \nAutomate infrastructure provisioning and configuration management with Ansible \nWrite and optimize SQL queries, administer relational database systems, and implement safe database migrations and schema updates \nDevelop and integrate automated unit and integration tests, increasing test coverage and establishing test automation frameworks \nImplement logging, metrics, and tracing across legacy applications and configure monitoring and alerting systems to detect issues proactively \n\n<h3>Required Qualifications</h3>\nBachelor's degree in Computer Science, Software Engineering, or related field (or currently enrolled in a 4-year program pursuing the equivalent, or equivalent professional experience) \nDemonstrated experience with at least 2 of the following: .NET Framework, Python, JavaScript, Java \nUnderstanding of legacy application patterns and technical debt \nHands-on experience with AWS services (EC2, RDS, S3, CloudFormation, CodePipeline, etc.) \nProficiency with Docker containerization \nExperience with Ansible for infrastructure automation \nStrong SQL query writing and optimization skills \nExperience administering and troubleshooting relational database systems (SQL Server, Oracle, PostgreSQL, MySQL, etc.) \nExperience writing unit tests and integration tests using frameworks such as xUnit, NUnit, JUnit, pytest, or Jest \nStrong troubleshooting and problem-solving abilities \nExcellent communication and documentation skills \nVersion control experience with Git or similar \n\n<h3>Preferred Qualifications</h3>\nExperience working across multiple legacy technology stacks simultaneously \nKnowledge of monitoring and observability tools (Prometheus, Grafana, ELK Stack, CloudWatch, Datadog, etc.) \nExperience with infrastructure-as-code principles \nBackground in application modernization or refactoring projects \nFamiliarity with agile development practices \nAWS certifications or other cloud platform certifications \n\n<h3>Why Join</h3><p>The people who do best here are builders. They take ownership, move fast, and want to see the direct impact of their work.</p>\n\n<strong>Meaningful Work from Day One:</strong> You will work on systems that power real brands and real revenue — your fixes and improvements have immediate, visible impact. \n<strong>Training &amp; Development:</strong> Gain hands-on experience across multiple technology stacks, cloud infrastructure, and modern DevOps practices with direct mentorship from your manager and team. \n<strong>Trusted from Day One:</strong> You will own applications end-to-end — from debugging production issues to shipping pipeline improvements — with real responsibility, not busywork. \n<strong>Competitive Benefits:</strong> Paid time off policies, 401(k) match, medical/dental/vision and a variety of supplemental policies, and employee discounts across our portfolio of brands. \n\n<h3>Interview Process</h3><ol>\n<li><strong>Recruiter Screen</strong> - A 30-minute conversation with our recruiting team to align on the role, your background, and what you are looking for.</li>\n<li><strong>Hiring Manager Interview</strong> - Conversation focused on your experience with legacy systems, DevOps practices, and approach to modernization.</li>\n<li><strong>Technical / Case Discussion</strong> - A technical conversation covering debugging, CI/CD design, SQL, and testing strategies relevant to the role.</li>\n<li><strong>In-Person Interview</strong> - We'd like to meet you at our Houston office. Details and logistics will be arranged with your recruiter.</li>\n<li><strong>Reference Checks</strong> - Conducted in parallel with the final stages where possible.</li>\n<li><strong>Offer</strong> - We move quickly for the right candidate.</li>\n</ol>\n<p><em>Interview process is subject to change. Any updates will be communicated promptly and clearly.</em></p>\n<h3>Please Note</h3>\nPart of our interview process is a <strong>mandatory in-person interview</strong> with someone on our team prior to an offer.  Candidates that are unwilling or unable to meet for an in-person interview will be removed from consideration immediately.    \nDue to a high volume of fraudulent applications, <strong>you must share a valid LinkedIn profile URL in </strong><strong>the application questions below to be considered</strong>. If you do not have a LinkedIn profile, you must provide a credible reason in that field and supply alternative evidence of your professional background to verify your identity. \n\n<p>US:</p>\n<p>CSC Generation is an equal opportunity employer. All qualified applicants will receive consideration without regard to any characteristic protected by law. If you need an accommodation during the application process, contact hrbenefits@cscshared.com.</p>\n<p>Employment is contingent on a background check, including verification of prior employment dates.</p>\n<p>It is unlawful in Massachusetts to require or administer a lie-detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.</p>",
+    "content_hash": "45024b77dc3e276ed64f0b755bd76dac"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "ad5038bf9f65": {
+    "id": "ad5038bf9f65",
+    "title": "AI Research Internship",
+    "title_raw": "AI Research Internship",
+    "company": {
+      "slug": "kitware",
+      "name": "Kitware",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Clifton Park, New York",
+      "city": "Clifton Park",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Carrboro, North Carolina",
+        "Minneapolis, MN"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "kitware",
+      "external_id": "ff25a349-a362-45d2-b1e4-2487c1df4f75"
+    },
+    "apply_url": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T18:35:02.020Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:00:56.548Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Team Description:</strong>\nKitware is a leader in cutting-edge research and algorithm development for artificial intelligence (AI), including automated image, video, text, and multimodal analysis. Our solutions embracing AI add measurable value to government agencies, commercial organizations, and academic institutions worldwide. We have developed a deep understanding in extracting useful, actionable information from multiple data sources like images, video, metadata, audio, and text, and we recognize the need for robust, affordable solutions. We seek to advance AI, computer vision, and other related fields through research and development and collaborative projects that can contribute to our open source software platforms, such as XAITK, NRTK, and ALIGN. \n \n<strong>About the Projects: </strong>\nThe AI Research interns will be able to explore their own ideas to address challenging real-world AI problems. They will be encouraged to publish the results of their work in academic papers submitted to premier conferences. We consider the work that we do on our government contracts as one of the ways that we give back to the community. We partner with premier government R&amp;D agencies such as DARPA, IARPA, AFRL, NVESD, NOAA, and other branches of the US Government on a range of efforts, including prime contracts, SBIRs, and STTRs. In addition, we provide commercial services to companies ranging from startups to Fortune 500 companies. Kitware employs an open source business model to foster extended, collaborative communities and to provide effective, flexible, and high-quality technical solutions.\n<h3>In This Position You Will: </h3>\n\n\n<p>Be part of Kitware's overall mission of positive social impact through work in areas such as environmental monitoring, national and global security, ethical and responsible AI, open science, scientific computing, and medical computing. </p>\n \n\n<p>Develop robust solutions in the various areas of AI, including Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), Vision Language Models (VLMs), Foundation Models, etc.</p>\n \n\n<p>Develop algorithms to solve interesting, challenging technical problems: object detection, classification, and tracking; video/image understanding and search; 3D reconstruction from aerial imagery; reasoning and alignment in decision-making; threat detection and decision alignment in cybersecurity; and many more.</p>\n \n\n\n<h3>Required Qualifications: </h3>\n\n\n<p>Ph.D. students in Computer Science or a related AI field.</p>\n \n\n<p>Knowledge and experience in computer vision, foundation models, LLMs, machine learning, audio processing, or related areas.</p>\n \n\n<p>Proficiency in Python, PyTorch, Tensorflow, or other related tools. </p>\n \n\n<p>Candidates should include a list of publications as part of their resume/CV.</p>\n \n\n<p>Due to contractual requirements, only U.S. citizens will be considered for this position.</p>\n \n\n<p>This is an on-site position with the expectation of 5 days/week in office.</p>\n \n\n\n<h3>Preferred Qualifications: </h3>\n\n\n<p>Experience with multiple large multimodal AI models, including image, text, and speech modalities.</p>\n \n\n<p>Publication history and desire to publish in premier academic conferences like CVPR, ICCV, ACL, EMNLP, AAAI, ICML, NeurIPS, etc.</p>\n \n\n<p>Experience and interest in contributing to open source software community projects.</p>\n \n\n\n<strong>Company Description:</strong>\nKitware is a research and development software solutions provider with a mission to advance science, make a positive impact, and share our results all within a collaborative, employee-focused work environment that is friendly, fair, and flexible. Our work is improving healthcare outcomes, increasing national security, and advancing our national computing infrastructure. Our customers and collaborators include top universities from around the world, government organizations, national research labs, medical device manufacturers, car manufacturers, financial institutions, and many others.  \n \nKitware is proud to be 100% employee-owned.  \n \n<strong>Additional Information:</strong>\nOur team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. \n \nKitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law. \n \nAny unsolicited resume sent to Kitware, including to Kitware's mailing addresses, fax machines or email addresses, whether directly to Kitware employees or to Kitware's applicant tracking system, will be considered Kitware property.  Kitware will not pay a fee for any placement resulting from the receipt of an unsolicited resume, and will consider any candidate submitted by a recruitment agency without a fully executed contract with Kitware to have been referred free of any charges or fees.\n \nIf you need assistance with applying or interviewing for a role due to a disability or special need, please reach out directly to our HR team at hr@kitware.com at any time during the hiring process.",
+    "content_hash": "54154d921067d9c8ed40b2221f8347d1"
+  },
+  "ad6865df00e1": {
+    "id": "ad6865df00e1",
+    "title": "Junior Software Engineer - Internship",
+    "title_raw": "Junior Software Engineer - Internship",
+    "company": {
+      "slug": "aechelon-technology",
+      "name": "Aechelon Technology",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Overland Park, KS",
+      "city": "Overland Park",
+      "state": "KS",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "aechelontechnology",
+      "external_id": "4831334008"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-08-01T21:51:59.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:35.230Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Aechelon Technology, a Shield AI company, is a leading producer of 3D simulator content, including Geospecific visual/sensor databases and realistic 3D models. We seek people who share our passion for real-time computer graphics and commitment to our mission of helping make our Nation’s pilots safer. We will give you a chance to work with some of the most talented people in the graphics industry. </strong>\n <p>We are currently seeking students who have attained Sophomore or Junior Status in Computer Science or Computer Engineering programs to join our Summer Internship program. In addition to technical acumen, we highly value leadership skills as we believe innovation thrives when developers take initiative to make great software.</p>\n<p>This position will be a member of our core 3D Graphics Software Engineering team, which develops pC-Nova, Aechelon Technology’s industry-leading visual simulation application, based in our Overland Park, Kansas office. This role will be paired with a Mentor who will assist in developing new technologies to improve Aechelon’s products. This role will have the opportunity to contribute to Aechelon’s shipping products and therefore make a lasting impact on our Company and our end users.</p>\n\n<p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:</strong></p>\n<ul>\n<li>Collaborate with core 3D Graphics Software Engineering team to develop and enhance pC-Nova, Aechelon Technology’s flagship visual simulation application</li>\n<li>Work closely with dedicated Mentor to design and implement new technologies aimed at improving Aechelon’s product offerings</li>\n<li>Contribute directly to production-level software, with the opportunity to make a meaningful and lasting impact on both company products and end-user experience</li>\n</ul>\n<p></p>\n<p><strong>REQUIRED QUALIFICATIONS:</strong></p>\n<ul>\n<li>Passion for developing fast code and solid software engineering principles</li>\n<li>In-depth knowledge of and experience programming in C or C++ languages</li>\n<li>Two years progress towards B.S. in Computer Science or Computer Engineering</li>\n<li>Strong analytical and problem-solving skills</li>\n<li>Ability to work with export-controlled technology</li>\n</ul>\n<p><strong>DESIRED COMPETENCIES:</strong></p>\n<ul>\n<li>Experience with developing 3D applications with Open GL or Direct3D</li>\n<li>Experience with rendering engines such as Unreal, Unity or Babylon.js</li>\n<li>Experience with multi-processing real time systems</li>\n<li>Experience with GPGPU development using CUDA, OpenCL, or OpenGL Compute</li>\n<li>Experience with machine-learning technology such as Convolutional Neural Networks</li>\n<li>Experience with defect tracking systems such as Jira or Bugzilla</li>\n<li>Experience with Configuration Management (CM) systems such as Perforce</li>\n<li>Proficiency with scripting languages: bash, Javascript, Python, etc.</li>\n</ul>\n\n<p>We seek people who share our company's values of extraordinary commitment to technology, customers and the pursuit of excellence. We will give you a chance to work with some of the most talented people in the simulation and training industry.</p><p>This position description is not intended to be a complete listing of activities, duties or responsibilities that are required of the employee holding this position. Duties, responsibilities and activities may be changed or others may be assigned at any time by the Company with notice to the employee. </p>\n<p>Shield AI is an equal opportunity employer. We are committed to providing access and opportunities to individuals with disabilities. If you are an applicant who is unable to fully utilize/access our application process because of a disability, Aechelon Technology will provide a reasonable accommodation. Please send an email to dl-aechelon_hr-team@shield.ai to request that accommodation, and please be sure to include a detailed description of your requested accommodation, your name and preferred method of contact.</p>",
+    "content_hash": "58f6ca429bf43bf7f66b49810db7aeb9"
+  }
+}

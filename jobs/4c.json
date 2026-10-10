@@ -1,0 +1,224 @@
+{
+  "4c5d1dec8d0a": {
+    "id": "4c5d1dec8d0a",
+    "title": "Developer Community Engagement Intern",
+    "title_raw": "Developer Community Engagement Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "34dd183d-4423-40e3-bb6d-790b5dafc731"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T16:40:25.413Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>We’re looking for a <strong>Developer Community Engagement Intern</strong> to join our team during an exciting phase of growth. In this role, you’ll help run the Wavelabs community and events as the program grows. You'll manage our developer Discord, support developer meetups and hackathons, coordinate event vendors and keep our developer content calendar on track.</p><p>You'll report to the Head of Developer Ecosystem, and work with marketing, creative and technical teams, plus partners.</p><p><strong>What You’ll Do</strong></p><p><strong>Discord community management</strong></p><ul><li><p>Welcome and onboard new members, and keep channels organized and active</p></li><li><p>Answer first-line questions and route technical questions to the right engineers</p></li><li><p>Moderate conversations in line with community guidelines</p></li><li><p>Help run community activities such as polls, challenges and AMAs</p></li><li><p>Compile weekly community metrics (new members, active users, response times) for the Head of Developer Ecosystem</p></li></ul><p><strong>Content calendar and program support</strong></p><ul><li><p>Keep the developer content calendar up to date across the newsletter, blogs, social posts, webinars and event promotion</p></li><li><p>Draft social posts, event recaps and newsletter sections for review</p></li><li><p>Update project trackers and prepare weekly status updates for the Head of Developer Ecosystem</p></li><li><p>Assist with logistics for partner co-marketing deliverables</p></li></ul><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><ul><li><p>Currently enrolled in, or recently graduated from, a bachelor's or master's program in marketing, communications, computer science, business or a related field</p></li><li><p>Active in online communities such as Discord, GitHub or Reddit, with a feel for how developers talk and what they value</p></li><li><p>Clear, friendly and concise writing</p></li><li><p>Highly organized, able to juggle several events and deadlines at once</p></li><li><p>Comfortable with Google Workspace or Notion, Canva and the major social platforms</p></li><li><p>Genuine interest in AI, cloud computing or developer tools</p></li><li><p>Proactive and eager to learn, comfortable taking direction and following up with vendors and teammates</p></li></ul><p><strong>Internship Information</strong></p><ul><li><p>Paid Internship</p></li><li><p>May - August (12 weeks)</p></li><li><p>Tuesday - Friday, 8 hours</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "9075fa8e80e9bb439dfaf44fd47d1ccc"
+  },
+  "4c834b013628": {
+    "id": "4c834b013628",
+    "title": "Device Engineer Internship / Co-op, Fall 2026",
+    "title_raw": "Device Engineer Internship / Co-op, Fall 2026",
+    "company": {
+      "slug": "panther-life-sciences",
+      "name": "Panther Life Sciences",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "panther-life-sciences",
+      "external_id": "8f024440-c3d5-4fc7-9891-92f5170b6675"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/panther-life-sciences/8f024440-c3d5-4fc7-9891-92f5170b6675/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T19:45:02.246Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.261Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 20,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Panther: Better Health Is Skin Deep</strong></h3><p>Panther is unlocking the tremendous biological power of our skin, delivering efficacious, shelf-stable treatments directly to customers. Panther's precisely engineered smart microarray patches (SmartPatches) address a wide range of needs in Skin Health (cosmetics, medical aesthetics) and are designed to treat conditions in Systemic Health (infectious diseases, allergies, cancer, autoimmune diseases, metabolic disorders). Billions of people around the world lack access to effective treatment, and we will change this.</p><p>SmartPatches enable effective, tech-enabled customer experiences, and our AI platform provides valuable insights for improved patient outcomes and the development of even better treatments. SmartPatches are affordable to manufacture and distribute, and easy to apply, resulting in greater access and market expansion. Panther is developing clinically validated products, the first of which launches in 2027.</p><h3><strong>The Opportunity:</strong></h3><p><strong>This is a fall internship based in Pittsburgh, running from October through December, with the potential to extend beyond the initial internship period.</strong></p><p>This internship is a hands-on opportunity to work directly on the development of Panther’s SmartPatch technology. You’ll make and test SmartPatches, evaluate how they perform in skin models, investigate failures, design controlled experiments, analyze data, and build custom testing tools in 3D CAD.</p><p>What makes this internship especially valuable is the breadth of experience you’ll gain across device development, materials, formulation, testing, and manufacturing. Rather than working on one small piece of a project, you’ll see how an early-stage medical technology is developed, tested, improved, and prepared for scale.</p><p>You’ll leave with practical experience in experimental design, device characterization, failure analysis, statistical analysis, CAD, technical documentation, and hands-on product development. This foundation is highly relevant for future careers in medical devices, biotech, pharmaceutical development, biomedical engineering, R&amp;D, product development, and manufacturing engineering.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li><p>Conduct microneedle characterization studies using pre-clinical skin models, including donor skin</p></li><li><p>Perform failure mode analysis and material testing to inform critical design decisions, including stability, force, and optical testing</p></li><li><p>Fabricate dissolvable microneedle arrays for testing and characterization, applying working knowledge of Panther's formulation and manufacturing processes</p></li><li><p>Design and prototype custom test fixtures in 3D CAD to enable controlled, repeatable device characterization</p></li><li><p>Design experiments (DOE) to isolate test variables, and perform statistical analysis to support design decisions</p></li></ul><ul><li><p>Document work thoroughly and write technical reports summarizing findings and conclusions</p></li></ul><h3><strong>Qualifications</strong></h3><ul><li><p>Currently pursuing or obtained a degree in Materials Science, Biomedical Engineering, Bioengineering, Chemical Engineering, or a related technical field</p></li><li><p>Hands-on laboratory experience building, preparing, testing, or characterizing materials or devices, ideally involving biomaterials, polymers, medical devices, or drug delivery</p></li><li><p>Experience with mechanical or material testing, such as force, strength, stability, failure, penetration, or other material properties</p></li><li><p>Experience using test results to troubleshoot problems and improve a material, process, or device design</p></li><li><p>Experience with CAD, prototyping, experimental design, DOE, statistics, and/or analyzing test data to support engineering decisions</p></li></ul><p></p><h3><strong>What We offer</strong></h3><ul><li><p>Exposure to breakthrough health technology and insight into how next-generation drug delivery systems move from concept to product.</p></li><li><p>Real impact from day one. Work on projects that directly contribute to Panther’s microneedle array platform and product development.</p></li><li><p>Hands-on experience participating in the design, development, and testing of real technologies alongside senior engineers and scientists.</p></li><li><p>Meaningful ownership of discrete projects with clear outcomes and the opportunity to present your work to the team.</p></li><li><p>Startup-level responsibility within a small, fast-moving team where your ideas and contributions genuinely matter.</p></li><li><p>Work alongside a small group of thoughtful, curious people who care a lot about the mission. We collaborate closely, help each other out and work together.</p></li></ul><p><strong>Equal Opportunity Employer</strong></p><p>Panther Life Sciences is an equal opportunity employer committed to building a diverse and inclusive workplace. We welcome applicants from all backgrounds and do not discriminate based on race, color, religion, gender, gender identity or expression, sexual orientation, pregnancy, marital or partnership status, age, national origin, citizenship, veteran or military status, disability, medical condition, genetic information, caregiver status, or any other characteristic protected by law.</p>",
+    "content_hash": "5fca84ffe2ba742147c677b674ce1eb6"
+  },
+  "4cabe065ccc5": {
+    "id": "4cabe065ccc5",
+    "title": "Propulsion Engineering Intern - Spring/Summer/Fall 2027",
+    "title_raw": "Propulsion Engineering Intern - Spring/Summer/Fall 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "943f51e4-5b26-432c-ae85-de5f43cadb86"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-23T23:21:38.983Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nAs a Propulsion Engineering Intern, you will support the design, development, and testing of propulsion components and systems. You will work closely with engineers, manufacturing teams, and vendors to help bring propulsion hardware from concept through testing.\n\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\nFall: Around 16 weeks (September - December)\n\n\n<h3>Responsibilities:</h3>\nSupport the design and development of propulsion components and systems from conceptual design through detailed mechanical design \nCreate and release engineering drawings and collaborate with manufacturing teams and external vendors to produce hardware \nAssist in defining, configuring, and setting up propulsion test rigs \nSupport the execution and documentation of propulsion hardware testing and development activities \n\n<h3>Requirements:</h3>\nPractical experience designing, building, and testing vehicles through internships, studies or projects. \nMust be currently enrolled in a STEM program at an accredited college or university (undergraduate student in your third or fourth year of study, or enrolled in a Master's or Ph.D. program). \nStrong interest in propulsion systems, design, and testing. \nStrong understanding of engineering first principles. \nDemonstrated ability to work within cross-functional teams. \nEnthusiasm for aviation and Hermeus's mission. \nExcellent written and verbal communication skills. \nGPA of 3.0 or above. \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "7fab4198a71c23f3c1f0cd9077013915"
+  },
+  "4cc74e487616": {
+    "id": "4cc74e487616",
+    "title": "Data Analytics Engineering Intern",
+    "title_raw": "Data Analytics Engineering Intern",
+    "company": {
+      "slug": "perchwell",
+      "name": "Perchwell",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York Office",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "perchwell",
+      "external_id": "9d34fc9d-e235-44fc-bdf9-42e75223839a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T13:46:12.867Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 12000,
+      "max": 12000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Who We Are</strong></h3><p>Perchwell is the modern real estate listings platform built for agents to search smarter, collaborate better, and close deals faster. We are building the future of residential real estateʼs critical listings infrastructure: a platform where market  research and client collaboration converge. Our modern architecture enables continuous innovation at a pace legacy systems cannot match, with AI-powered features and mobile-first capabilities designed for how agents actually work. As consumer expectations and technology evolve, Perchwell remains focused on our core vision:  empowering real estate professionals with the most intelligent, data-driven, and connected platform in the industry.</p><p>Backed by leading venture capital firms including Lux Capital and Founders Fund, along with strategic partnerships with some of the country's top Multiple Listing Services (MLSs), Perchwell represents the first major new platform to enter the listings technology market in decades. This unique combination of institutional investment and deep industry alignment provides both the resources and market validation needed to transform the multi-trillion dollar residential real estate industry.</p><p></p><h3><strong>About this Role</strong></h3><p>Perchwell is expanding rapidly across the US, and every new MLS client brings a data source we haven't worked with before. Our Data Analytics Engineering team owns what happens next: understanding what is actually in that data, transforming it into our warehouse, and building the intelligence layer that sits on top of it. This summer, you'll work on that alongside our analytics engineers and data engineers, supporting both the MLS customers we serve today and the ones we're onboarding next.</p><p></p><h3><strong>What We’re Looking For</strong></h3><ul><li><p><strong>Rising seniors</strong> enrolled in a CS, data science, statistics, or other STEM degree program who are looking to intern at a fast paced SaaS company this summer.</p></li><li><p><strong>Passionate problem solvers</strong> who thrive in fast moving environments.</p></li><li><p><strong>Strong communicators and team players</strong> who can work cross functionally.</p></li><li><p><strong>Careful thinkers</strong> who chase down a number that looks wrong instead of passing it along.</p></li><li><p><strong>Eager learners</strong> who want to gain real world analytics engineering experience.</p></li></ul><p></p><h3><strong>What You’ll Do</strong></h3><ul><li><p><strong>Understand New Data:</strong> Profile the data we are ingesting for new clients and partner with members of the broader engineering org to identify the most effective patterns for onboarding them into our standard reporting product.</p></li><li><p><strong>Build and Ship:</strong> Extend the dbt models that transform raw MLS data into our warehouse, adding the tests and documentation the rest of the team depends on.</p></li><li><p><strong>Build Intelligence:</strong> Strengthen the layer that sits on top of the warehouse, including metric definitions, semantic models, and the dashboards internal teams and customers rely on.</p></li><li><p><strong>Own a Project:</strong> Take ownership of a summer project, making key modeling, tooling, and implementation decisions. Profiling and mapping a new non MLS data source is one strong candidate.</p></li><li><p><strong>Collaborate and Learn:</strong> Partner with analytics engineers, data engineers, product managers, and customer facing teams to turn open questions into answers people can act on.</p></li><li><p><strong>Deliver Impact:</strong> Work on scalable solutions from broadly defined problems and see your work in production.</p></li></ul><p></p><h3><strong>Why This Internship? </strong></h3><ul><li><p><strong>Dedicated Mentor:</strong> You'll work 1:1 with an experienced analytics engineer who will provide mentorship and support your growth.</p></li><li><p><strong>Real Ownership:</strong> Over 10 weeks, early June to mid August, you will choose and lead your own project, making key decisions along the way.</p></li><li><p><strong>Fully In Person Experience:</strong> This is a full time, in-office internship based at our beautiful New York City HQ in Soho. You'll work on site five days a week and collaborate closely with our team, gaining hands-on experience in a fast paced, learning oriented environment.</p></li><li><p><strong>Showcase Your Work:</strong> At the end of the summer, present your project to our executive and data teams.</p></li><li><p><strong>Work on Real Data:</strong> Beyond your project, you'll contribute to models, tests, and dashboards running in production against live customer data.</p></li><li><p><strong>NYC Perks and Fun:</strong> From team dinners to museum trips, immerse yourself in the greatest city in the world while working with an awesome team.</p></li></ul><p></p><h3><strong>Required for the Role</strong></h3><ul><li><p>Working familiarity with RDBMS storage systems and SQL, including joins, aggregations, and CTEs. You don't need window functions yet, but you should want to learn them.</p></li><li><p>Curiosity about where data comes from and what it represents, not just how to query it.</p></li><li><p>Attention to detail and an instinct for when something doesn't add up.</p></li><li><p>Strong communication and problem solving abilities.</p></li><li><p>Excitement to learn, grow, and build.</p></li></ul><p></p><h3><strong>Bonus Points for the Following</strong></h3><ul><li><p>Coursework, projects, or prior internship experience with a cloud data warehouse such as Redshift, Snowflake, or BigQuery.</p></li><li><p>Exposure to dbt or another transformation framework.</p></li><li><p>An understanding of Python for working with data, such as pandas in coursework or personal projects.</p></li><li><p>Familiarity with Git and version controlled workflows.</p></li><li><p>Experience with a BI tool such as Looker, Tableau, Mode, or Metabase.</p></li><li><p>Any project, academic or personal, where you took messy source data and made it usable.</p></li><li><p>Demonstrated leadership skills developed during your college experience.</p></li></ul><h3></h3><p></p><h3><strong>Internship Information</strong></h3><p><strong>Internship Dates: </strong>June 7 - August 13, 2027</p><p><strong>Application Deadline:</strong> Applications for this internship close on October 18, 2026, at 11 PM ET. Be sure to apply by the deadline to be considered! We will be reviewing all applications, so please take the time to submit a thoughtful application.</p><p><strong>Offers: </strong>Internship offers will be extended by November 25, 2026.</p><p></p><h3><strong>Salary Information</strong></h3><p>$12,000 for 10 weeks (minus applicable taxes and withholdings)</p><p>Excited to launch your career with a tech startup in NYC? Apply now and build something meaningful with us in Summer 2027!</p><p></p><p><em>Note: Benefits package listed below is for reference only for those who later join Perchwell full-time.</em></p><p></p><h3><strong>Strong Benefits Package</strong></h3><ul><li><p>Flexible PTO, plus 10 paid company holidays</p></li><li><p>401K with a company match</p></li><li><p>Medical, dental, and vision plans</p></li><li><p>HSA and FSA options</p></li><li><p>Commuter benefits</p></li><li><p>Parental leave</p></li><li><p>Company-wide onsite or offsite each year</p></li><li><p>Beautiful office in Soho, Manhattan with a stocked kitchen, catered breakfast and lunch once per week, happy hours and meet-ups</p></li></ul> <p><em>Note: At this time, we are only considering candidates who are authorized to work in the U.S.</em></p>",
+    "content_hash": "cd6630f825753ff956ab96d75c991d75"
+  },
+  "4cf85556b6df": {
+    "id": "4cf85556b6df",
+    "title": "Mission Systems Engineering Intern - Spring/Summer 2027",
+    "title_raw": "Mission Systems Engineering Intern - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Los Angeles, CA"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "9229aa88-f54d-4ecd-85ee-b31f53b4207d"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-03T16:35:01.429Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br /><h3><strong>About the Team:  </strong></h3>\n\n<p>The Mission Systems Engineering Team develops and integrates the hardware and software that enable Hermeus aircraft to execute missions.</p>\n<p>As a Mission Systems Engineering Intern, you will work across avionics, software, communications, and system integration to help build, test, and troubleshoot mission capabilities. This role is ideal for someone with a strong mix of hands-on hardware experience and software development skills.</p>\n\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n<h3>Responsibilities:</h3>\nSupport integration and testing of mission hardware, software, sensors, radios, processors, and avionics systems. \nDevelop and test software for command and control, telemetry, and subsystem interfaces. \nPerform hardware/software bring-up, debugging, and troubleshooting in lab, HIL, ground-test, and aircraft environments. \nSupport system interfaces, networking, communication protocols, and integration requirements. \nCollaborate with software, avionics, autonomy, communications, and flight-test teams. \nDocument test results, technical findings, and system configurations. \n\n<h3>Required Qualifications:</h3>\nCurrently pursuing a degree in Computer Engineering, Electrical Engineering, Computer Science, Aerospace Engineering, Software Engineering, or a related field. \nHands-on experience with both software development and hardware integration through internships, coursework, research, projects, or competition teams. \nFamiliarity with networking TCP/UDP, Ethernet \nProgramming experience in C++, Python, or a similar language. \nExperience working with embedded systems, electronics, avionics, sensors, networking, or other hardware-connected systems. \nStrong debugging and problem-solving skills across hardware and software interfaces. \nDemonstrated ability to work effectively on multidisciplinary technical teams. \nGPA of 3.0 or above \n\n<h3>Preferred Skills and Experience: </h3>\nFamiliarity with communication protocols such as CAN, RS-422, or ARINC. \nExperience with electrical schematics, wiring, electronics bring-up, or test equipment. \nExposure to HIL/SIL, robotics, UAVs, aerospace, defense, Formula SAE, rocketry, or similar hands-on projects. \n\n#LI-Onsite<br />\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "e1ba27c25cc246e2864980bf6faadcb8"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "bcb305510afe": {
+    "id": "bcb305510afe",
+    "title": "AI Engineer (Early Career)",
+    "title_raw": "AI Engineer (Early Career)",
+    "company": {
+      "slug": "creatify",
+      "name": "Creatify",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco Bay Area",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "embedding-vc",
+      "external_id": "5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-26T01:36:21.991Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:08.911Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Lingopal</strong></p><p>Lingopal builds real-time AI language technology, with a live translation product used in production today. We're now building our next product — an AI agent platform  aimed at enterprises with heavy customer-support needs (hospitality, airlines, travel) and fast-scaling AI-agent companies. </p><p><strong>About the Role</strong></p><p>We're looking for an early-career AI Engineer — a fresh grad or someone with limited professional experience but an unmistakable passion for building. You'll work alongside our founding team and Tech Lead on our new AI agent product, ship real features quickly, and be encouraged to form and voice your own opinions about where the product should go.</p><p><strong>What You'll Do</strong></p><p>- Build and ship product features across the stack on our new AI agent product.</p><p>- Prototype fast, learn from pilot customers, and iterate.</p><p>- Bring your own point of view on product direction — we want engineers who think like owners, not ticket-takers.</p><p>- Work hands-on with LLMs, agents, and voice AI, and use modern AI coding tools daily.</p><p><strong>What We're Looking For</strong></p><p>- Fresh grad or early-career engineer with limited professional experience.</p><p>- A passionate builder — a portfolio of projects, side-projects, hackathons, or open source that shows you love to make things.</p><p>- Solid engineering fundamentals and eagerness to learn fast.</p><p>- Own opinions on product and a strong sense of ownership.</p><p>- Comfortable with ambiguity and a fast, low-process environment.</p>",
+    "content_hash": "73b09fd87967badfc70b2de65a57dd6b"
+  }
+}

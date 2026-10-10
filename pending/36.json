@@ -1,0 +1,89 @@
+{
+  "360d61138db5": {
+    "id": "360d61138db5",
+    "title": "Software Engineer Working Student (m/f/d)",
+    "title_raw": "Software Engineer Working Student (m/f/d)",
+    "company": {
+      "slug": "codesphere",
+      "name": "Codesphere",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Karlsruhe",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": [
+        "Munich"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "codesphere",
+      "external_id": "982ada68-c85b-4b56-b344-52e656210260"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/codesphere/982ada68-c85b-4b56-b344-52e656210260/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-14T15:19:31.174Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.998Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Codesphere</h3><p>Codesphere is a <em>Virtual Cloud Provider</em> from Germany building the future of sovereign cloud infrastructure. Our platform gives enterprises and governments full sovereignty without giving up modern cloud capability – a vision recently validated by a series of multi-million European government tenders.</p><p>Since our founding in Karlsruhe in 2020, we’ve expanded into an international team of 60+ experts. Based in Karlsruhe and Munich and backed by top-tier investors, we are chasing a bold vision.</p><p><strong>We’re scaling fast and would love for you to join us and grow alongside us 🚀</strong></p><p></p><p><strong>What you'll do</strong></p><ul><li><p>Contribute to real features across our platform - from understanding the problem through implementation and testing - with guidance from the team.</p></li><li><p>Take part in code reviews and technical design discussions, learning how we keep quality high.</p></li><li><p>Work alongside experienced engineers on our collaborative developer cloud, across areas like Public API, IAM &amp; Permissions, Secrets Management, CI integrations, Web IDE, deployment technology, monitoring, and managed services.</p></li><li><p>Grow your skills through hands-on work, pairing, and regular feedback.</p></li></ul><p><strong>What makes you a great fit</strong></p><ul><li><p>Passionate about technology and solid Computer Science fundamentals.</p></li><li><p>Currently enrolled in a Computer Science or related degree program.</p></li><li><p>Some hands-on experience through coursework, personal projects, internships, or open source - ideally touching web or distributed systems.</p></li><li><p>Working knowledge of TypeScript and/or Go.</p></li><li><p>Basic understanding of SQL databases and an interest in APIs, microservices, and distributed systems.</p></li><li><p>Professional proficiency in English.</p></li><li><p>Strong communication skills, openness to feedback, and a structured approach to problem-solving.</p></li><li><p>Located in Munich or Karlsruhe</p></li></ul><p><strong>What sets you apart</strong></p><ul><li><p>Exposure to cloud infrastructure, ideally cloud-native.</p></li><li><p>Familiarity with React and/or Kubernetes.</p></li></ul><p></p><h3>What's in it for you</h3><ul><li><p>Steep learning curve – <em>fast-moving environment, real ownership, and a front-row seat to scaling a company</em></p></li><li><p>Study-first flexibility – <em>easily adjust your working hours around lectures and exam periods, combined with our hybrid work setup</em></p></li><li><p>Long-term perspective – <em>we focus on lasting relationships and aim to bring you on board permanently after graduation</em></p></li><li><p>Gym access – <em>stay active on site (Karlsruhe office only)</em></p></li><li><p>Employee events – <em>from team offsites to regular get-togethers</em></p></li><li><p>Great public transport links – <em>both offices are within walking distance of tram and metro stops</em></p></li></ul>",
+    "content_hash": "42c211942090d127c2bd0f9a898501cc"
+  },
+  "36f378d2b6f8": {
+    "id": "36f378d2b6f8",
+    "title": "Software Engineer, New Grad",
+    "title_raw": "Software Engineer, New Grad (2027)",
+    "company": {
+      "slug": "harvey",
+      "name": "Harvey",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "harvey",
+      "external_id": "4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T19:13:48.998Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.558Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": {
+      "min": 165000,
+      "max": 181500,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Why Harvey</strong></h3><p>At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.</p><p>This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.</p><p>Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.</p><p>At Harvey, the future of professional services is being written today — and we’re just getting started.</p><p></p><h3><strong>Role Overview</strong></h3><p>The Software Engineer, New Grad joins Harvey's Engineering team, working alongside experienced engineers to build the AI-powered systems that serve the world's leading law firms and enterprises. The team's mission is to deliver secure, intuitive, and high-performance application-layer experiences that turn frontier AI capabilities into real customer value. This role offers an accelerated path to ownership, contributing production code to features spanning retrieval, document intelligence, and workflow automation from day one. It is an opportunity to develop rapidly at the intersection of AI and professional services, with direct exposure to how engineers shape a category-defining product.</p><p>We're currently hiring new grads to start in 2027 across multiple teams and roles, including Frontend, Backend, Full-Stack, Infrastructure, and Applied AI roles. Your interests &amp; experience will be factored into our team matching process, where you’ll have the opportunity to learn about teams across Harvey including Agents, Applied AI, Assistant, Enterprise, Infrastructure, Mobile, Vault and many others.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Design, implement, and ship production-level code across the stack while maintaining high quality, reliability, and security standards. You'll use AI-assisted development tools daily, and you’ll own the quality of everything you ship—AI-generated or not.</p></li><li><p>Collaborate with cross-functional teams including AI Research, Legal Engineering, Product, and Design to translate problem statements into compelling product experiences.</p></li><li><p>Collaborate with your team through code reviews, technical design discussions, and engineering best-practice development alongside senior and staff engineers.</p></li><li><p>Experiment with and evaluate cutting-edge LLMs and AI systems, contributing to how Harvey's platform evolves.</p></li><li><p>Depending on your team, you could work on retrieval over large document collections, interfaces for collaborating with AI systems, multi-region compute infrastructure, enterprise agents, or secure systems for sensitive client data.</p></li></ul><p></p><h3><strong>What You Have</strong></h3><ul><li><p>Bachelor's or Master’s degree in Computer Science, Software Engineering, or a related technical field, graduated either in Winter 2026 - Spring 2027.</p></li><li><p>Able to work from our New York or San Francisco office starting in January 2027 and beyond, based on your graduation schedule. Relocation support is available.</p></li><li><p>Previous internship experience is required.</p></li><li><p><strong>Technical foundation.</strong> Strong proficiency in one or more languages (Python, TypeScript/JavaScript, Java, Go, or similar) and solid general computer science knowledge.</p></li><li><p><strong>Decisiveness.</strong> You have a bias toward action. You've built something start to finish in coursework, a personal project, or a past internship, and you know the difference between a decision you should make yourself and one worth getting feedback on. You'd rather move and correct course than stall.</p></li><li><p><strong>Simplicity.</strong> You can explain a complex technical idea in plain language, whether or not the person you're explaining it to is an engineer. You look for the simplest solution that works, and you know when added complexity is worth it.</p></li><li><p><strong>Job's Not Finished.</strong> You aren't satisfied when something merely works. You proactively seek out feedback, act on it, and keep pushing after the assignment is technically complete. Past internship experience at an early-stage startup is a plus.</p></li><li><p><strong>AI Forward.</strong> Comfortable using AI-assisted development tools such as Claude Code, Codex, Cursor, and curious about building LLMs into your own coding workflow.</p></li></ul><p></p><h3><strong>Compensation</strong></h3><p>$165,000-$181,500</p><p></p><h3><strong>Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices </strong><strong>here</strong><strong>.</strong></h3><p>#LI-LW1</p><p></p><p><em>Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p><p>We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai</p>",
+    "content_hash": "544fbb7fcee98f7c29749feb08090f68"
+  }
+}

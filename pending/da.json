@@ -1,0 +1,42 @@
+{
+  "dafc338cd566": {
+    "id": "dafc338cd566",
+    "title": "AI- First Mobile Engineering Working Student",
+    "title_raw": "AI- First Mobile Engineering Working Student",
+    "company": {
+      "slug": "gen-digital",
+      "name": "Gen Digital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "CZE - Brno",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gen-digital",
+      "external_id": "132242dd-3784-4b7a-b81a-646033be1842"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gen-digital/132242dd-3784-4b7a-b81a-646033be1842/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T19:42:05.929Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.686Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>AI- First Mobile Engineering Working Student</strong></p>",
+    "content_hash": "f66a8c5345439df709f5cf296792757d"
+  }
+}

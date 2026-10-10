@@ -1,0 +1,169 @@
+{
+  "9d3ce4add7a2": {
+    "id": "9d3ce4add7a2",
+    "title": "Robotics Engineering Intern",
+    "title_raw": "Robotics Engineering Intern",
+    "company": {
+      "slug": "bracket-bot",
+      "name": "Bracket Bot",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bracket-bot",
+      "external_id": "aecb5cb3-a96b-4ba8-863d-a1ad45414086"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T18:31:14.640Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:02.039Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Robotics Engineering Intern</strong><br />San Francisco · Onsite · Internship</p><p><strong>About Bracket Bot</strong></p><p>We believe planet earth can thrive and be alive. Robots should manufacture goods, clean roadways, tidy our rooms, build more homes, cook healthy food, and lower the cost of living. We aren’t quite there yet, robots are too expensive, too difficult to program, fragile, and unfriendly. Bracket Bot is changing that.</p><p>We believe that robots are currently in the ENIAC era and we are bringing them to the Macbook era. We believe in high performance engineering teams where everyone you work with is what you imagined Bell Labs employees to be like. Intelligent, scrappy, dedicated, kind.</p><p>At Bracket Bot, we have a few objectives. We are working to make the ideal role model of a company, one where everyone is at the top of their field, inventing new ways to solve the problems we face across mechanical, electrical, software, and machine learning. What does a company that creates entirely new ways that teams work together look like? A company that invents new materials for lighter weight actuators and structures? A company that creates and publishes new inverse kinematics algorithms for robots? A company that is thinking radically differently, and executing on another level.</p><p>In every field there are small teams who did something their peers had decided was impossible. The 10-second barrier in sprinting, or the eight engineers who left Motorola and made the 6502 for 10x lower cost than other chips at the time making the personal computer possible. SpaceX has landed the same rocket 36 times. Bracket Bot believes actuated, alive machines can be glorious, affordable, easy to use, and ubiquitous, and we are pulling that future forward.</p><p>Our products are a mirror of what we think about the world, on engineering &amp; research, and what we think <em>should</em> be introduced into the world. In history, there are simply products that <em>should</em> exist, and only once created, are obvious in hindsight. Bracket Bot’s mission is to introduce as many of these products into the world as possible. We believe there are hundreds of these in the space of robotics. Across physical robot hardware, software and operating system; the infrastructure and distributed systems they connect to; the AI inference they run, both local and cloud, and so much more.</p><p>Our first product, Bracket Bot 1, exemplifies what a small team of highly talented people can do. At Bracket Bot, we genuinely believe 100x engineers exist, and a room full of them can create things that dozens of other companies have failed to do. We’ve brought to market a robot that is 10x lower cost than any other robot in its category, while out performing them on manipulation, autonomous navigation, speech interaction, and developer UX.</p><p>We’re backed by Fifty Years (Scott Phoenix), BoxGroup, SV Angel, Betaworks, Pace Capital, angels including Nat Friedman, Logan Kilpatrick (Google AI), Guillermo Rauch (Vercel) and others from Tesla AI, Physical Intelligence, and Markforged.</p><p><strong>About the role</strong></p><p>Robotics brings mechanical systems, electronics, software, and machine learning together. The fastest way to learn is to build, test, and debug the whole system.</p><p>We’re hiring a Robotics Engineering Intern to contribute to hands-on engineering projects with the Bracket Bot team. You’ll help build and improve robots, investigate failures, and take scoped projects from an idea to a tested result.</p><p>Your work will draw on your strengths while giving you exposure to the other disciplines that make a robot work.</p><p><strong>What you’ll do</strong></p><ul><li><p>Build, integrate, and test robot hardware or software with the engineering team.</p></li><li><p>Help reproduce failures, collect useful measurements, and debug system behavior.</p></li><li><p>Develop prototypes, tools, or tests that support robot development.</p></li><li><p>Document results and communicate what worked, what failed, and what to try next.</p></li><li><p>Own a scoped engineering project through implementation and verification.</p></li></ul><p><strong>What we’re looking for</strong></p><ul><li><p>Hands-on engineering projects that show curiosity and follow-through.</p></li><li><p>A foundation in mechanical, electrical, software, or robotics engineering.</p></li><li><p>Willingness to build, measure, debug, and learn unfamiliar systems.</p></li><li><p>Clear communication and the ability to ask useful questions.</p></li><li><p>Care for the quality of your work and enthusiasm for physical robots.</p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Personal, university, lab, or competition robotics projects.</p></li><li><p>Experience with CAD, electronics, programming, or practical fabrication.</p></li><li><p>Experience building test tools or documenting technical projects.</p></li></ul><p><strong>Important notes</strong></p><ul><li><p>This is a hands-on internship based onsite in San Francisco.</p></li><li><p>We value evidence of things you’ve built and problems you’ve worked through.</p></li><li><p>You’ll collaborate closely with engineers on real robot development.</p></li></ul><p>Bracket Bot is an equal opportunity employer. We’re building a diverse team and welcome applicants from all backgrounds.</p>",
+    "content_hash": "0dcc2d6bd185fdc6ec49de2db5928745"
+  },
+  "9d442d3600ad": {
+    "id": "9d442d3600ad",
+    "title": "Software Engineer Interns",
+    "title_raw": "Software Engineer - 2027 Interns",
+    "company": {
+      "slug": "ellipsis-labs",
+      "name": "Ellipsis Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ellipsislabs",
+      "external_id": "02136b22-35b1-4b3d-8bef-567c3380a849"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-26T19:40:01.700Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:08.865Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 10000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ellipsis Labs is a profitable, venture-backed New York-based startup building sustainable and efficient DeFi protocols on high-throughput decentralized infrastructure. Our long-term goal is to build a better financial system. </p><p>Our flagship product, Phoenix Perpetuals, brings professional-grade perpetual futures to Solana. Building on our experience developing efficient markets, Ellipsis Labs also operates SolFi, a proprietary automated market maker that provides efficient liquidity for key trading pairs. Our foundational product, Phoenix Legacy, is a limit order book on the Solana blockchain that established our expertise in operating high-performance markets. Combined, these products have facilitated over $285B in trading volume across Solana markets.</p><p>Ellipsis Labs is seeking software engineering summer interns to join our team in 2027. As an early-stage startup, we appreciate bright generalists who can iterate and ship quickly. In this role, you will:</p><ul><li><p>Build real product features and/or platform components across the stack, front end, back end, infra, or on-chain, based on your skills and interest</p></li><li><p>Own scoped projects end-to-end: problem definition → design → implementation → testing → deployment → monitoring</p></li><li><p>Collaborate with design and engineering to deliver fast, reliable, and secure experiences</p></li><li><p>Instrument and improve performance, reliability, and observability; write clear tests and documentation</p></li></ul><h3>Qualifications</h3><p><strong>Required</strong></p><ul><li><p>Hands-on experience building software (courses, personal projects, research, or internships) in one or more languages such as TypeScript/JavaScript, Python, Rust, Java, C/C++; you write clear, tested code</p></li><li><p>Solid CS fundamentals (data structures, algorithms, systems thinking) and familiarity with Git and basic debugging</p></li><li><p>Ability to make informed trade-offs with business context; high agency and a team-first mindset</p></li><li><p>Curiosity about DeFi/crypto (prior domain experience not required)</p></li></ul><p><strong>Preferred</strong></p><ul><li><p>Experience in one or more areas: full-stack web (React/Javascript), backend APIs/services, infrastructure/DevOps (Docker, CI/CD, cloud), or on-chain/low-level systems</p></li><li><p>Familiarity with blockchain technology (Solana a plus)</p></li><li><p>Interest or experience in fintech/trading</p></li><li><p>Rust or TypeScript proficiency</p></li></ul>",
+    "content_hash": "c02b18f838e965faf73d48726db8f385"
+  },
+  "9d88519c5350": {
+    "id": "9d88519c5350",
+    "title": "Product Manager Intern (m/f/d)",
+    "title_raw": "Product Manager Intern (m/f/d)",
+    "company": {
+      "slug": "sereact",
+      "name": "Sereact",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Stuttgart Schockenriedstr. 17",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "sereact",
+      "external_id": "7549093b-0918-4136-ac47-81063ded166d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T17:23:31.315Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.222Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Product Manager Intern (m/f/d) - </strong><em><strong>Boston (US) / Stuttgart (DE)<br /></strong></em></h3><h3><strong>Who We Are:</strong></h3><p>We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across warehouses and fulfillment operations worldwide. Our products represent the frontier of what intelligent, dexterous automation can do — and we are only getting started.</p><h3><strong>Overview:</strong></h3><p>We are seeking a Product Manager Intern to support the product management team across the product lifecycle — from concept and roadmap development to field deployment across 50+ production sites. This is a high-learning, cross-functional role at the intersection of AI, robotics hardware, and industrial operations. Working alongside experienced product leaders, you will help bridge communication between our AI/R&amp;D team, software &amp; hardware engineering, solutions architects, and customers — assisting in translating real-world operational complexity into scalable product requirements.</p><h3><strong>Your Responsibilities:</strong></h3><p><strong>Product Strategy &amp; Roadmap Support</strong></p><ul><li><p>Assist in maintaining and updating the product roadmap across hardware, software, AI, and field reliability</p></li><li><p>Support priority alignment — monthly to annual — in accordance with commercial goals and technical constraints</p></li></ul><p><strong>AI &amp; Technical Ownership</strong></p><ul><li><p>Collaborate with the R&amp;D team to help refine training data strategies, model evaluation criteria, and deployment thresholds</p></li><li><p>Help collect and analyze field failure data to feed back into Cortex training models</p></li></ul><p><strong>Customer &amp; Field Collaboration</strong></p><ul><li><p>Spend time at production sites; turn operator observations and edge cases into structured requirements</p></li><li><p>Assist in drafting capability specs, performance SLAs, and integration requirements for customer-facing delivery</p></li></ul><p><strong>Cross-functional Execution</strong></p><ul><li><p>Support backlog management; help prioritize items by impact, frequency, &amp; strategic fit</p></li><li><p>Coordinate with engineering leads to track task completion, identify dependencies, and maintain momentum</p></li><li><p>Track KPIs: uptime, pick success rate, intervention rate, time-to-value</p></li><li><p>Assist in creating product collateral and supporting material for commercial and pre-sales technical discussions</p></li></ul><h3><strong><br />Education &amp; Experience</strong></h3><p><strong>Education &amp; Experience</strong></p><ul><li><p>Currently pursuing or recently completed a degree in Engineering, Computer Science, Robotics, or a related field</p></li><li><p>Strong interest in robotics and AI</p></li><li><p>Ability to learn quickly and contribute to complex technical projects</p></li></ul><p><strong>Technical Skills</strong></p><ul><li><p>Familiarity with robot software stacks (ROS2, Zenoh, motion planning, control, perception pipelines)</p></li><li><p>Can engage credibly with AI/ML teams on model evaluation and deployment criteria</p></li><li><p>Understands hardware-software co-design tradeoffs and their downstream software impact</p></li></ul><p><strong>Product Skills</strong></p><ul><li><p>Helps gather field feedback and engineering constraints to support clear requirement drafting</p></li><li><p>Assists in writing and updating PRDs and technical briefs for engineering teams</p></li><li><p>Basic awareness of EU Machinery Regulation, ISO 10218/15066, and AI Act obligations</p></li><li><p>Supports commercial enablement by creating product collateral and documentation</p></li></ul><p><strong>Soft Skills</strong></p><ul><li><p>Proactive and eager to learn; takes initiative to support project progress</p></li><li><p>Strong communicator capable of collaborating with cross-functional teams and external stakeholders</p></li><li><p>Identifies potential risks early and works with senior team members to explore solutions</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Warehouse automation, AMR, or logistics tech background</p></li><li><p>Startup experience where scope was undefined</p></li><li><p>WMS integration or fleet management exposure</p></li></ul><h3><strong>What We Offer:</strong></h3><ul><li><p>Wellpass (gym membership)</p></li><li><p>Free meals at the workplace</p></li><li><p>Flexible working hours and the option to work from home when needed</p></li><li><p>A defining role shaping one of the most technically ambitious robotics products</p></li><li><p>Competitive compensation and excellent career development opportunities</p></li></ul>",
+    "content_hash": "f3abc38d2246069c9f72ca649cc27443"
+  },
+  "9da37dceccdd": {
+    "id": "9da37dceccdd",
+    "title": "Software Engineer, Backend Intern",
+    "title_raw": "Software Engineer, Backend Intern",
+    "company": {
+      "slug": "prophet-security",
+      "name": "Prophet Security",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Palo Alto (In office)",
+      "city": "Palo Alto",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "prophet-security",
+      "external_id": "6319cd03-3d5f-47b9-815b-0f8b0d184612"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-25T21:40:50.947Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.765Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3>Software Engineering Intern — Summer 2027</h3><p></p><h3>About Us</h3><p>At Prophet Security, we’re not just building a platform that automates complex security tasks—we’re building a company where every team member directly impacts customer success. You’ll work closely with our customers, understand their needs, and see firsthand how your contributions make a difference.</p><p>Prophet Security’s founding team brings more than 30 years of cybersecurity experience from leading companies, including Abnormal Security, Expel, Mandiant, McAfee, Oracle, Red Canary, Red Hat, Riverbed, and Symantec. We are focused on disrupting the $400 billion security labor market by building the future of automated security operations.</p><p>We’re seeking graduating seniors for our Summer 2027 Software Engineering Internship. If you’re excited to build impactful products, learn from an experienced team, and gain hands-on experience at a fast-growing startup, we encourage you to apply.</p><h3>What Our Platform Does</h3><p>Our platform analyzes security alerts, develops and executes investigation plans, and produces detailed findings and actionable recommendations. Security analysts review these investigations and provide context and feedback, which are continuously incorporated into future automation.</p><h3>The Impact You’ll Have</h3><p>As a Software Engineering Intern, you’ll contribute to the backend systems that power Prophet’s platform. Working alongside experienced engineers and experts in product, machine learning, and cybersecurity, you’ll help build services that ingest, process, and reason over large volumes of security data.</p><p>Example projects may include:</p><ul><li><p><strong>Integrations at scale:</strong> Contributing to extensible frameworks for integrations with third-party security systems, including SIEMs, EDR/XDR platforms, identity providers, and cloud and SaaS logs.</p></li><li><p><strong>Proof-of-Value pipelines:</strong> Building reliable backend components that support fast customer onboarding and compelling proof-of-value experiences, from data ingestion to actionable insights.</p></li><li><p><strong>Security data platforms:</strong> Helping design storage, indexing, and access patterns for highly dimensional, time-oriented security data used in real-time analysis and historical investigations.</p></li><li><p><strong>AI-powered security workflows:</strong> Developing and evaluating agents and automation that help security teams investigate threats more quickly and effectively.</p></li></ul><p>You’ll write production code, participate in technical design, receive mentorship from experienced engineers, and take meaningful ownership of a project from development through deployment.</p><p><strong>Our technology stack:</strong> AI-powered agents, data synthesis and correlation, security-tool integrations, Python, Go, React, and TypeScript.</p><h3>Qualifications</h3><ul><li><p>Currently pursuing a bachelor’s or master’s degree in Computer Science, Engineering, or a related technical field, with an expected graduation date in 2027.</p></li><li><p>Experience with one or more relevant programming languages, such as Python or Go, through coursework, research, internships, or personal projects.</p></li><li><p>Understanding of fundamental software engineering concepts, including data structures, algorithms, testing, and system design.</p></li><li><p>Strong problem-solving skills and attention to detail.</p></li><li><p>Clear written and verbal communication skills.</p></li><li><p>Ability to collaborate effectively and learn in a fast-moving environment.</p></li><li><p>Passion for building high-quality products and solving customer problems.</p></li></ul><p>Experience with backend services, distributed systems, cloud infrastructure, cybersecurity, or machine learning is helpful but not required.</p><h3>Our Culture</h3><p>Our employees are our greatest asset. We provide a fun and inspiring environment in which to learn, create, and collaborate.</p><ul><li><p><strong>Customer Centricity:</strong> We place customers at the center of our decisions and strive to exceed their expectations.</p></li><li><p><strong>Practicality over Perfection:</strong> We favor effective solutions, thoughtful tradeoffs, and agile decision-making.</p></li><li><p><strong>Strive for Excellence:</strong> We hold ourselves to high standards and continuously improve.</p></li><li><p><strong>Transparent Communication:</strong> We encourage open, honest dialogue and build trust through collaboration.</p></li><li><p><strong>Unwavering Resilience:</strong> We persist through challenges and remain focused on achieving our goals.</p></li><li><p><strong>Have Fun:</strong> We balance hard work with creativity, enjoyment, and a positive team environment.</p></li></ul><h3>Equal Opportunity</h3><p>Prophet Security is proud to be an equal opportunity employer. We value a diverse, global talent pool and the collaboration that results from an inclusive team. All applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, or any other legally protected characteristic.</p><p>Our hiring decisions are based exclusively on merit, qualifications, and business needs.</p>",
+    "content_hash": "6e46dca57bf651de884f99b73c92f3a8"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "a9045c75ce19": {
+    "id": "a9045c75ce19",
+    "title": "Software Engineering Intern, 2027",
+    "title_raw": "Software Engineering Intern, 2027",
+    "company": {
+      "slug": "allen-control-systems",
+      "name": "Allen Control Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "allen-control-systems",
+      "external_id": "ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T21:15:51.942Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:56.798Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Overview</strong><em><br />ACS (Allen Control Systems) is a defense technology company building precision robotic systems for the United States and its allies. Founded by two former U.S. Navy electrical engineers with deep experience in robotics and software, ACS brings together AI, computer vision, precision motion, and advanced hardware to solve complex defense challenges across land, air, and maritime environments.</em></p><p><em>Our flagship product, Bullfrog, is an autonomous precision weapon system that transforms existing weapons into highly accurate counter-drone systems — giving warfighters a scalable, cost-effective response to one of the fastest-growing threats on the modern battlefield. Bullfrog is deployed with U.S. forces, and ACS works with organizations throughout the U.S. military and national security community.</em></p><p><em>Following a $200 million Series B at a $2.2 billion valuation, ACS is rapidly expanding manufacturing, accelerating Bullfrog deployments, and developing the next generation of autonomous battlefield systems. This is an opportunity to join a proven, fast-moving team and help scale technology with direct, real-world impact on national security.</em></p><p><em>ACS is headquartered in Austin, Texas, with additional operations in Alexandria, Virginia; Mountain View, California; and Huntsville, Alabama. For more information, visit </em><em>allencontrolsystems.com</em><em>.</em></p><h3></h3><p><strong>Software Engineer Intern - Summer 2026</strong></p><p>Our interns aren't fetching coffee or shadowing — they're working alongside the same engineers building the systems we ship. This is early-career work with real stakes.</p><p><strong>Location: </strong>Austin, TX (on-site)</p><p><strong>Duration: </strong>Summer 2027 (~10-12 wks)</p><p><strong>Pay: </strong>Paid internship</p><p><strong>What You Could Work On:</strong></p><ul><li><p>Software that connects sensors, computer vision models, and control systems into a working autonomous weapon system</p></li><li><p>Real-time systems where latency and reliability actually matter — not just a nice-to-have</p></li><li><p>Tools and interfaces engineers and operators use every day, from embedded Linux applications to internal tooling</p></li><li><p>Full-stack or backend projects supporting engineering, manufacturing, or field operations</p></li></ul><p><strong>What We're Looking For:</strong></p><ul><li><p>Currently pursuing a degree in Computer Science, Software Engineering, or a related field</p></li><li><p>Coursework or project experience in one or more of C++, Python, Kotlin, or Java</p></li><li><p>Curiosity about real-time, embedded, or systems-level software — you don't need to be an expert yet</p></li><li><p>A builder's mindset: you'd rather ship something and iterate than wait for a perfect spec</p></li></ul><p><strong>Why ACS:</strong></p><ul><li><p>Direct impact: your work ships on hardware being fielded to protect real people — not stuck in a slide deck.</p></li><li><p>Real ownership: no red tape. You'll work directly with the engineers building Bullfrog, from day one.</p></li><li><p>Small team, big scope: at a startup this size, interns take on real problems, not busywork.</p></li><li><p>Mentorship from engineers who've designed and fielded real defense systems.</p></li></ul><p></p><p><em>Allen Control Systems is an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment. Allen Control Systems prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p>",
+    "content_hash": "9679e1105ed33b24ebcc55014a1cb03b"
+  },
+  "a9c179c1f1b5": {
+    "id": "a9c179c1f1b5",
+    "title": "Mechanical/Test Engineering Intern",
+    "title_raw": "Mechanical/Test Engineering Intern",
+    "company": {
+      "slug": "terranova",
+      "name": "Terranova",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Berkeley",
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "terranova",
+      "external_id": "7ba048ea-818d-46b5-8ff8-3ce58d39bcc6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-26T02:52:54.037Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.783Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Description</strong></p><p>Backed by leading climate and American dynamism investors, Terranova builds intelligent robotic systems to terraform the Earth itself - lifting land, restoring wetlands, and protecting critical infrastructure from floods and sea-level rise.</p><p>Our mission is to preserve the built environment, create new habitats, and usher in an era of abundance. Our work supports climate resilience, disaster recovery, and defense across the United States and beyond.</p><p>We’re assembling a world-class team that wants to work on something real, physical, and civilization-scale. If you want your work to reshape the world (literally), this is the place to do it.</p><p></p><p><strong>What to to Expect</strong></p><p>As a mechanical engineering intern for <strong>Spring 2027 </strong>at Terranova, you will own the mechanical design of large-scale industrial systems while maintaining a systems-level overview across mechanical, electrical, and controls disciplines. You thrive in a startup environment - owning problems end-to-end, moving fast, and building machines that survive the real world.</p><p>You’ll lead projects from concept through field deployment: designing, analyzing, fabricating, and testing large-scale robotic systems that operate in the most demanding environments on Earth. Expect to be hands-on, spend long hours in the factory and in the field working alongside technicians and operators.</p><p></p><p><strong>Key Responsibilities</strong></p><ul><li><p>Act as an extreme owner for mechanical and electromechanical aspects of Terranova's field deployed industrial systems</p></li><li><p>Perform first-principles engineering, FEA, hand calculations to optimize designs for real-world operation environments</p></li><li><p>Prototype builds, execute test campaigns, and push hardware to its limits to ensure field reliability</p></li><li><p>Collaborate closely with electrical, controls, and field deployment teams to deliver integrated, battle-tested systems</p></li><li><p>Drive failure analysis, testing, and iterative improvement based on real-world data</p></li></ul><p></p><p><strong>Preferred Skills and Experience</strong></p><ul><li><p>Real world experience in mechanical or electromechanical hardware design and analysis (plus for experience in machinery, robotics, or heavy industrial equipment )</p></li><li><p>Strong CAD proficiency (OnShape, SolidWorks, Fusion 360, or NX)</p></li><li><p>Hands-on fabrication and prototyping skills - you enjoy working in the shop - have a history of working on hobby projects</p></li><li><p>Deep mechanical intuition and ability to design from first principles</p></li><li><p>Comfortable with the pace and intensity of early-stage startup life, including long days, 6-day workweeks, and extended field hours</p></li><li><p>Working towards a bachelor’s degree or higher in Mechanical Engineering or related field</p></li><li><p>U.S. permanent residency required</p></li></ul><p></p><p><strong>Nice to Have Skills</strong></p><ul><li><p>Experience in high voltage AC power (480V, 120+ kW) conversion systems and lithium batteries</p></li><li><p>Experience with pumps and fluidics</p></li><li><p>Experience in electromechanical controls, hydraulics, or field-deployed systems</p></li><li><p>Familiarity with C++, Python, or similar for controls or simulation</p></li><li><p>Experience with compliance, HAZOP, or FMEA tools for machine safety</p></li><li><p>PCB and embedded systems design skills are a huge bonus</p></li></ul><p></p><p><strong>Compensation and Timeline</strong></p><ul><li><p>$25-35/hr + relocation + company perks</p></li><li><p>Spring Internship from January-May depending on your school schedule</p></li></ul>",
+    "content_hash": "114141f1746dd6aaa12e63c8241cee81"
+  }
+}

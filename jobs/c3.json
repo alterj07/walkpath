@@ -1,0 +1,47 @@
+{
+  "c3ee2b11729b": {
+    "id": "c3ee2b11729b",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "juicebox",
+      "name": "Juicebox",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "juicebox",
+      "external_id": "1af7ec98-9c2e-4101-868e-58e6f35cd23a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T20:28:37.144Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.172Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 60,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Juicebox</strong></p><p>Juicebox is on a mission to help teams <strong>win the talent war</strong>.</p><p>In the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.</p><p>Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside <strong>5,000+</strong> customers from early-stage startups to Fortune 500 companies.</p><p>We are on the path to $100M in ARR <strong>with 20%+ monthly growth</strong>, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.</p><p>Juicebox has raised over <strong>$116M</strong> in funding from lead investors including Sequoia Capital, DST Global, and NFDG. Read more about our $80M Series B here. Additional investors in Juicebox include Y Combinator, Coatue, Bond, Lux, Verified Capital, and Committed Capital.</p><p></p><p><strong>About the Internship</strong></p><p>This is a 12-week, in-person internship based in our San Francisco office.</p><p></p><p>As a Software Engineering Intern, you’ll own a meaningful project that contributes directly to Juicebox’s product or engineering infrastructure. You won’t be working on a hypothetical intern assignment: you’ll build alongside our engineers, ship real work, and see how customers use what you create.</p><p></p><p>Depending on your interests and the needs of the team, you might work on questions like:</p><ul><li><p>How can we improve the quality and ranking of our search results?</p></li><li><p>What new filters or data sources could make our search engine more powerful?</p></li><li><p>How can we use LLMs to make recruiters dramatically more effective?</p></li><li><p>How can we improve our internal tools, developer experience, or testing infrastructure?</p></li><li><p>How can we delight a new user in their first few minutes with Juicebox?</p></li></ul><p></p><p>Recent engineering projects have included fine-tuning models to extract insights from profiles, building feedback loops to improve search queries, and shipping new product experiences from end to end.</p><p></p><p>Our stack includes Next.js, React, Node.js, OpenSearch, AWS SQS, Spark, and a variety of inference providers and LLMs. You don’t need experience with every part of our stack, but you should be excited to learn quickly by building.</p><p></p><p><strong>What You’ll Experience</strong></p><p>You’ll have both a manager and a mentor throughout the summer:</p><ul><li><p>Your <strong>manager</strong> will help scope your project, give you regular feedback, and support your performance and growth.</p></li><li><p>Your <strong>mentor</strong> will be an additional resource for technical guidance, navigating Juicebox, and making the most of your internship.</p></li></ul><p></p><p>You’ll also participate in a small intern cohort with programming such as:</p><ul><li><p>Practical sessions on getting the most from 1:1s and giving and receiving feedback</p></li><li><p>Conversations with Juicebox leaders, founders, and investors</p></li><li><p>Cohort outings and a dinner with our executive team</p></li><li><p>An end-of-summer demo where you’ll share what you built</p></li></ul><p></p><p><strong>About You</strong></p><ul><li><p>You are currently pursuing a degree in computer science, engineering, or a related technical field—or have developed equivalent skills through your own experience.</p></li><li><p>You’ve built something from scratch, whether through a class, personal project, research, internship, startup, or open-source contribution.</p></li><li><p>You enjoy solving ambiguous problems and learning by building.</p></li><li><p>You take ownership, ask thoughtful questions, and are comfortable seeking feedback.</p></li><li><p>You care about the people using what you build—not just whether the code works.</p></li><li><p>You have experience programming in at least one language and a solid understanding of core computer science concepts.</p></li><li><p>You can work from our San Francisco office for the full 12-week internship.</p></li></ul><p>You do not need to have used our exact stack before. We care more about your curiosity, technical foundation, pace of learning, and the quality of what you’ve built.</p><p></p><p><strong>Compensation &amp; Perks</strong></p><ul><li><p><strong>$60 per hour</strong></p></li><li><p><strong>Housing or relocation stipend</strong></p></li><li><p>Daily meals in our San Francisco office</p></li><li><p>Intern events, leadership conversations, and professional-development sessions</p></li><li><p>Meaningful ownership and the opportunity to ship work used by real customers</p></li></ul><p></p><p><strong>Dates</strong></p><p>Our Summer 2027 cohort will have two 12-week groups, one will run from <strong>May 24, 2027 through August 13, 2027, </strong>the other will run from <strong>June 14 through September 3, 2027</strong>.</p><p></p><p>Your start date depends on university calendars. Please share your availability when applying.</p><p><strong>Perks &amp; Benefits for Full Time Employees</strong></p><ul><li><p><strong>Top-of-market compensation</strong> with meaningful equity, because everyone should share in our success.</p></li><li><p><strong>Comprehensive healthcare </strong>with 100% employer-paid medical coverage for employees (PPO Platinum plan with $0 deductible). 90% employer contribution for dependents. Dental &amp; Vision: 90% employer covered; 85% for dependents.</p></li><li><p><strong>$2,000 annual wellness stipend</strong> to support your physical, mental, and financial well-being.</p></li><li><p><strong>Daily meals provided: </strong>breakfast catering, lunch order via DoorDash corporate, and for those who like to work late, dinner if staying after 7pm</p></li><li><p><strong>$300/month commuting stipend</strong> to help cover the cost of getting to and from the office.</p></li></ul>",
+    "content_hash": "dfd3fea7cf9a3bae7703f99d1e06ece7"
+  }
+}

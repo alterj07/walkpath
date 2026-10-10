@@ -1,0 +1,47 @@
+{
+  "2789eb95a1da": {
+    "id": "2789eb95a1da",
+    "title": "Full Stack Engineer - Early Career",
+    "title_raw": "Full Stack Engineer - Early Career",
+    "company": {
+      "slug": "glide",
+      "name": "Glide",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "glide",
+      "external_id": "5ece3064-6884-43c2-923c-066d6187b25d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-02-02T17:31:55.013Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.882Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>👋 Welcome to Glide!</strong></h3><p></p><p><strong>At Glide we’re reimagining the banking experience for the modern world</strong>. Our embedded fintech platform empowers legacy financial institutions, like community banks and credit unions, to pioneer novel digital experiences for their customers.</p><p></p><p>You’ll be joining an all-star team with engineering, product, and growth experience from Stripe, Google, and Amazon. We’re looking for a talented early career Fullstack Engineer to help us build our platform. <strong>We’re bringing a new perspective to the decades-old financial world</strong>, and we’re hoping you can help us do that!</p><p></p><p><strong>Why You’ll Love This Role (Especially if you’re a new grad):</strong></p><ul><li><p>A unique opportunity to work side-by-side with Glide’s founders and senior engineers,  learning directly from industry veterans.</p></li><li><p>Gain hands-on, end-to-end experience across the full stack: from architecture design to deployment.</p></li><li><p>Be part of a small, fast-moving startup, where your code has immediate impact.</p></li><li><p>Get mentorship and exposure to real-world engineering best practices, product development, and startup culture.</p></li></ul><p></p><h3><strong>Your Responsibilities:</strong></h3><ul><li><p>Move seamlessly between frontend and backend to build a well-tested, secure frontend for our core web product.</p></li><li><p>Create trustworthy, safe user experiences by building interfaces that are simple, reliable, and performant using tools like <strong>Typescript, React,</strong> <strong>Node.js</strong> and <strong>NextJS</strong>.</p></li><li><p>Design a scalable architecture that can serve hundreds of thousands of end users.</p></li><li><p>Bring designs to life through beautifully-crafted code.</p></li><li><p>Articulate a long-term technical direction and vision for maintaining and scaling our web product suite.</p></li><li><p>Lead frontend and backend infrastructure &amp; tooling for an ambitious product roadmap.</p><p></p></li></ul><h3><strong>Need-to-Haves:</strong></h3><ul><li><p>Experience with <strong>Javascript </strong>and tools like <strong>Typescript, React, Node.js </strong>and<strong> NextJS</strong>.</p></li><li><p>Experience with <strong>modern, responsive HTML &amp; CSS</strong>.</p></li><li><p>Experience using data fetching libraries like React Query/Tanstack or tRPC to synchronize client and server data.</p></li><li><p><strong>Excellent understanding of software engineering best practices</strong> (architecture, test-driven development, component libraries).</p></li><li><p><strong>Excellent understanding of security</strong> in software engineering and of how to build secure, unassailable systems.</p></li><li><p>Experience with automated testing frameworks.</p></li><li><p>Experience with CI/CD, Version Control, and DevOps tools like Amazon Web Services, <strong>Git</strong> and Docker.</p></li><li><p>Experience working in agile development teams.</p><p></p></li></ul><h3><strong>Nice-to-Haves:</strong></h3><ul><li><p>0-3 years of full-time software engineering experience.</p></li><li><p>Thrives in a fast-paced environment and seeks to learn from and collaborate with a team of all-star senior engineers.</p></li><li><p>A desire to own a product end-to-end, from conception to design to technical specification to implementation to delivery.</p></li><li><p>A collaborative, entrepreneurial spirit.</p><p></p></li></ul><h3><strong>Perks and Benefits:</strong></h3><h3></h3><h3><strong>💸 Competitive Compensation:</strong></h3><p>You’ll receive a competitive salary and a generous equity package for joining us at Glide.</p><p></p><h3><strong>❤️ Wellbeing Credits (for US employees)</strong></h3><p>Besides stellar health, dental, and vision insurance, we offer a generous health and wellness stipend, so you can stay healthy and active.</p><p></p><h3><strong>🥗 Lunch on us (for US employees)</strong></h3><p>We love food. Every member of the Glide team gets free lunch, every day. No one goes hungry around here :)</p><p></p><h3><strong>💻 Best Tools</strong></h3><p>We want you to be happy at work. You'll get a full equipment upgrade - from a top-of-the-line computer to your preference on keyboard, mouse, and accessories.</p>",
+    "content_hash": "24324e3f8d9194378a600877a23bac76"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "d00e02836e3f": {
+    "id": "d00e02836e3f",
+    "title": "Engineering Intern",
+    "title_raw": "Engineering Intern",
+    "company": {
+      "slug": "roam",
+      "name": "Roam",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tryroam",
+      "external_id": "59b76a77-44e5-424b-a3d5-71edf091869c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-09-07T03:39:58.403Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:25.617Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 150,
+      "max": 150,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Roam<br /></strong><br /><strong>Roam</strong> is an Applied AI lab building World Models for highly retentive 3D environments. We're lifting models from the 2D plane of pixels into the full dimensionality of interactive worlds. Our work spans everything required to perceive, reason about, and create in 3D, with applications across simulation, design, and play.</p><p>Our first focus is gaming: 3D environment generation and understanding for interactive entertainment, technology that enables millions of people to explore, create, and share highly engaging worlds together.</p><p></p><p><strong>Similar</strong> to how TikTok turned everyone into a creator through easy-to-use tools, we will let everyone turn their ideas into games without needing any technical skills.</p><p>Since founding earlier this year, we have:</p><ul><li><p>Locked in 1,000+ gaming &amp; livestream creators (100 K–10 M followers each) who will launch Roam games to an aggregate reach of 250 M+ fans.</p></li><li><p>Assembled a 12 person applied AI team spanning ByteDance Seed, Nous Research, OpenCSG, NASA (multi-agent workflows, world simulation), second-time technical founders, engineers that shipped 100+ games for Voodoo and Supersonic and built mobile apps from 0–2M DAUs.</p></li><li><p>Raised an unannounced round from investors behind Google Deepmind, Bytedance, Anduril, Together AI and Polymarket, founders &amp; large content creators.</p></li><li><p>Acquired a consumer product studio with 11.5M+ downloads.</p></li></ul><p></p><p><strong>About the Role:</strong></p><p>You’ll work at the intersection of applied AI and large-scale systems, focusing on world generation pipelines, data-efficient training methods, and inference-time optimization for real-time generation. Your work will enable everyone make, play and monetize highly engaging games &amp; 3D environments. This will include:</p><ul><li><p>Architect and implement game generation pipelines powered by LLMs and advanced agentic chains</p></li><li><p>Optimize game iteration cycles, model accuracy, and generation speed across mobile and cloud stacks</p></li><li><p>Scale the product</p></li><li><p>Build feedback loops that learn from player &amp; self-play actions to auto-test and improve games in real time</p></li><li><p>Deliver context-aware creation via multi-turn dialogue and fine-grained parameter control</p></li></ul><p><br /><strong>We’re looking for engineers who have:</strong></p><ol><li><p>Built &amp; scaled products with agents: Orchestrated multi-agent tool-calling with memory and planning, shipped to real users with live evals, tracing/observability.</p></li><li><p>Ran LLM post-training: Curated clean preference data, automated data pipelines, and built eval harnesses.</p></li><li><p>Built fast growing products: solo or with a friend launched products that grew to 1000s of users. Owned onboarding and growth loops and drove retention.</p></li><li><p>Worked on GPU optimization &amp; CUDA kernels: and similar.<br /></p></li></ol><p><strong>Responsibilities:</strong></p><ul><li><p>Architect and implement game generation pipelines powered by LLMs and advanced agentic chains</p></li><li><p>Optimize game iteration cycles, model accuracy, and generation speed across mobile and cloud stacks</p></li><li><p>Scale the product</p></li><li><p>Build feedback loops that learn from player &amp; self-play actions to auto-test and improve games in real time</p></li><li><p>Deliver context-aware creation via multi-turn dialogue and fine-grained parameter control<br /></p></li></ul><p><strong>Strong candidates may also have:</strong></p><ul><li><p>Significant experience in software engineering and applied AI </p></li><li><p>1+ year full time experience at a hypergrowth startup<br /></p><p></p></li></ul><p><strong>Compensation: </strong></p><ul><li><p>$150 an hour. Successful candidates might be offered a Full Time offer.</p></li><li><p>Free housing, food, and transportation.</p></li></ul><p></p><p><strong>Growth Opportunity</strong></p><p>You’ll join a mission-driven team working at the frontier of AI world generation. We're HQ'd in SF and currently work all week around. In this role, you’ll have the opportunity to:</p><ul><li><p>Own large parts of Roam’s core generation and simulation stack spanning from multimodal data pipelines to agent orchestration and engagement modeling.</p></li><li><p>Define new benchmarks for fun, retention, and interactive intelligence in 3D worlds using behavioral data across thousands of environments.</p></li><li><p>Ship alongside a team that has already built products for 13M+ users, with 1000+ large creators ready to deploy our technology.</p></li></ul><p></p><p>If you're excited to move fast, build at the edge of what's possible, and help define how AI inhabits 3D worlds, let's talk.</p>",
+    "content_hash": "ae22f12ed226cb7aaf9bf6e9b77dae69"
+  },
+  "d0bda4b38303": {
+    "id": "d0bda4b38303",
+    "title": "Manufacturing Digital Data Intern - Summer 2027",
+    "title_raw": "Manufacturing Digital Data Intern - Summer 2027 - Decherd, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Decherd, Tennessee - United States of America",
+      "city": "Decherd",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214881"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Decherd, TN<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Data Science, Artificial Intelligence, Machine Learning, Cloud Computing, Computer Science, Information Systems, or related field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Manufacturing Digital Data Intern to join our team in Decherd, TN. As an Operations Data Intern, you will work alongside experienced professionals to analyze operational data, develop reports and dashboards, and help identify opportunities to improve manufacturing performance. This internship provides hands-on exposure to SQL, AI, cloud technologies, software development, and data analytics while supporting initiatives that drive operational excellence within a world-class manufacturing environment.</p><br /><p><b>A Day in the Life:</b></p><ul><li>Develop and enhance dashboards and reporting tools to support manufacturing operations and decision-making.</li><li>Analyze operational data to identify trends, improvement opportunities, and actionable insights.</li><li>Support software development initiatives that improve manufacturing processes and data accessibility.</li><li>Leverage AI tools and technologies to drive continuous improvement projects and operational efficiencies.</li><li>Collaborate with cross-functional teams to gather requirements, validate findings, and implement data-driven solutions.</li></ul><br /><p><b>Who We’re Looking For:</b></p><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Data Science, Artificial Intelligence, Machine Learning, Cloud Computing, Computer Science, Information Systems, or a related field.</li><li>Students entering their Junior or Senior year at the start of the upcoming academic term.</li><li>Familiarity with SQL and database concepts.</li><li>Interest in big data, cloud technologies, and AI-driven solutions.</li><li>Strong analytical and problem-solving skills.</li><li>Experience with data visualization, reporting tools, or dashboard development is preferred.</li><li>Strong written and verbal communication skills.</li><li>Self-motivated with a willingness to learn new technologies and contribute to continuous improvement initiatives.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Decherd, TN.</li></ul><br /><p><b>What You’ll Look Forward to at Nissan:</b></p><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Decherd Tennessee United States of America",
+    "content_hash": "07d2efaa6529a146f1b071b613d5d3ee"
+  },
+  "d0d49f33ea82": {
+    "id": "d0d49f33ea82",
+    "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
+    "title_raw": "Software Engineering Intern - Connected Systems (January - August 2027)",
+    "company": {
+      "slug": "rivian-and-volkswagen-group-technologies",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Irvine, California",
+      "city": "Irvine",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Palo Alto, California"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rivianvw.tech",
+      "external_id": "13eeb795-a5dd-4b5a-9b98-808e5ec357c2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T21:48:09.217Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.225Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3><p>Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world.</p><p></p><p>The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we’ll map a new way forward. Working together, we’ll create a future that’s more connected, more intelligent, more sustainable for everyone.</p><p></p><p>Candidates should be available for a full-time commitment from January 11, 2027 to August 13, 2027.</p><p></p><p>This is a general application used to fill multiple internship openings across our Connected Systems teams. If selected, you will be matched to a specific team based on your background and interests during the interview process.</p><ul><li><p>Connectivity Software Engineering Intern</p></li><li><p>Embedded Software Engineering Intern - Vehicle Access</p></li><li><p>Software Engineering Intern - Embedded Systems</p></li><li><p>Software Engineering Intern - Parallax Cloud Platform</p></li><li><p>Software Engineering Intern - Software Integration</p></li><li><p>Software Engineering Intern - Vehicle Connectivity</p></li></ul><p></p><h3>Role Summary</h3><p>At RV Tech, we develop next-gen vehicle features that include remote commands from mobile apps, OTA software updates, real time vehicle telemetry, and fleet management tools. All of which rely on cloud, connectivity, and integration software working together at scale. As a Connected Systems intern, you will work on the backend services, integration layers, or connectivity infrastructure that keep vehicles talking to the cloud reliably. This may involve high throughput data pipelines, distributed cloud services, or the software that validates features work end to end across the vehicle.</p><p>Specific project areas vary by team and may include:</p><ul><li><p>Building and testing backend services that process vehicle telemetry and remote commands at fleet scale</p></li><li><p>Developing event driven, distributed systems using tools such as Kafka, Kinesis, or Redis</p></li><li><p>Contributing to cross domain systems integration and validation work, ensuring vehicle features function correctly end to end</p></li><li><p>Supporting connectivity infrastructure, including the messaging and communication layers linking vehicle, mobile app, and cloud</p></li><li><p>Working with cloud native infrastructure on AWS (EKS, Lambda, DynamoDB, IoT Core)</p></li></ul><h3>Responsibilities</h3><ul><li><p>Design, develop, and test software components within an existing distributed or connectivity system</p></li><li><p>Write clean, maintainable code in Python, Go, C++, or Java depending on the team</p></li><li><p>Participate in code reviews, design discussions, and debugging sessions with your team</p></li><li><p>Contribute to test automation and validation for integration or connectivity features</p></li><li><p>Document your work and present progress to your team throughout the internship</p></li></ul><h3>Qualifications</h3><p>Minimum:</p><ul><li><p>Currently enrolled in a Bachelor's or Master's program at an accredited US university</p></li><li><p>Proficient in at least one of Python, Go, C++, or Java</p></li></ul><p>Preferred:</p><ul><li><p>Actively pursuing a degree in Computer Science, Computer Engineering, Electrical Engineering, or a closely related field, with intent to return to school after the internship</p></li><li><p>Exposure to distributed systems, event driven architecture, or cloud platforms, AWS preferred</p></li><li><p>Familiarity with vehicle communication protocols such as CAN or MQTT, or IoT concepts</p></li><li><p>Coursework or project experience with backend development, systems integration, or test automation</p></li></ul><h3><strong>Total Rewards</strong></h3><p>We build the exceptional — and we believe the people doing that work should be rewarded accordingly. In addition to a competitive base salary, full-time positions may be is eligible to participate in our annual company performance bonus program. </p><p></p><p>Payments are discretionary and not guaranteed; actual amounts depend on company results and the terms of the plan in effect, and require active employment at the time of payout. This role is also eligible for equity in the form of Restricted Stock Units (RSUs), subject to board approval and the terms of our equity incentive plans, including applicable vesting requirements. </p><p></p><p>In addition to our compensation programs, we invest in our people with a comprehensive benefits package designed to support the health, wellbeing, and financial future for full-time employees — including health coverage, retirement savings, time off, and family planning programs. Offerings vary by country. <strong>Learn more about our global benefit programs</strong><strong>.</strong></p><p></p><p>External candidates can apply for this role through the Rivian and Volkswagen Group Technologies careers site (<strong>https://rivianvw.tech/#careers</strong>). If you are a current employee, please apply through our <strong>internal job board</strong><em><strong>.</strong></em></p><p></p><h3>Equal Opportunity</h3><p>Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.</p><p></p><p>Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.</p><p></p><h3>Candidate Data Privacy</h3><p>Rivian and Volkswagen Group Technologies” may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) record keeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law. </p><p></p><p>Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies’ service providers, including providers of background checks, staffing services, and cloud services. </p><p></p><p>Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. </p><p></p><p>If you provide a mobile telephone number as part of your application or during the recruitment process, Rivian and Volkswagen Group Technologies may use that number to contact you via SMS text message for recruitment-related purposes, including scheduling, logistics, and status updates. Message and data rates may apply. You may opt out of SMS communications at any time by replying STOP to any text message you receive from us. Consent to receive SMS messages is not a condition of applying for or being considered for employment.</p><p>Please see our <strong>Candidate Data Privacy Notice (English)</strong><strong>  </strong>and <strong>Candidate Data Privacy Notice (Serbian)</strong> for more information.</p><p>--</p><p><em>Please note this job posting represents an open, active vacancy. Additionally, we are not currently accepting applications from third party application services.</em></p>",
+    "content_hash": "c8aa5632204533effd68d233f938a349"
+  }
+}

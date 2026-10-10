@@ -1,0 +1,89 @@
+{
+  "8f1d982de3a5": {
+    "id": "8f1d982de3a5",
+    "title": "Automation Software Engineering Intern - Winter",
+    "title_raw": "Automation Software Engineering Intern - Winter",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "f38b33e7-149e-45b2-b03f-fb8c1b437765"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-28T00:07:37.038Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p><p></p><p><strong>About the Role</strong></p><p>We’re hiring an Automation Software Engineering Intern for the winter term. The internship begins in January, with a preferred commitment of 4 to 8 months. You’ll be working on an integrated engineering team building semiconductor fabrication equipment, so you’ll be exposed to some very interesting engineering problems. Our size allows interns to take on a ton of ownership and mission-critical work.</p><p></p><p>We give our interns significant autonomy on interdisciplinary projects. You’ll work on initiatives that scale and accelerate our semiconductor fabrication process and tackle challenging problems that improve our robots’ efficiency. You’re a strong fit if you’re familiar with motor controllers, path planning, and trajectory control.</p><p></p><p>Our philosophy is to get things built and tested in days or weeks, not months.<strong> Because of this, a portfolio (can be your GitHub) is required to apply</strong>: show us the things you’ve actually built!  For us, a good portfolio includes evidence of software engineering excellence and curiosity. </p><p></p><p><strong>Responsibilities</strong></p><ul><li><p>Develop real-time applications in Linux and Rust for controlling semiconductor fabrication equipment</p></li><li><p>Design algorithms and simulations for robotic control systems</p></li></ul><p></p><p><strong>Required Experience</strong></p><ul><li><p>Pursuing a Bachelor’s Degree or higher in Computer Science, Electrical Engineering, Computer Engineering, or similar field</p></li><li><p>Proficiency in Python/C/C++</p></li><li><p>Demonstrated experience in robotics software</p></li></ul><p></p><p><strong>Nice-to-have</strong></p><ul><li><p>Familiarity with feedback control systems</p></li><li><p>Experience developing computer vision applications</p></li><li><p>Proficiency in Rust</p></li></ul><p></p><p><strong>Working at fab2</strong></p><p>We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p></p><p><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p><p></p></li></ul><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p></p><p><strong>Export Control Analysis:</strong> This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p><p></p><p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "7e58285a1af421b5d4f0845e5220610b"
+  },
+  "8f768296a3bc": {
+    "id": "8f768296a3bc",
+    "title": "Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)",
+    "title_raw": "Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)",
+    "company": {
+      "slug": "foth",
+      "name": "Foth",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Green Bay, Wisconsin",
+      "city": "Green Bay",
+      "state": "WI",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "foth",
+      "external_id": "78374fff-0ecd-4505-9f9d-bbfb0686c51e"
+    },
+    "apply_url": "https://jobs.lever.co/foth/78374fff-0ecd-4505-9f9d-bbfb0686c51e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T02:05:04.540Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:55:20.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p>\n<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p><br />\n<p>Interested in helping bring innovative packaging solutions to life? At Foth, our co-op program immerses you in real-world engineering projects from day one. As a <strong>Mechanical Engineering Co-op</strong> on our <strong>Packaging Systems Team</strong>, you'll apply your classroom knowledge while supporting the design, analysis, and implementation of custom packaging systems for a variety of industrial clients. Based in <strong>Green Bay, WI</strong>, you'll work alongside experienced engineers on projects involving material handling equipment, packaging machinery, automation systems, and production line improvements. Spanning <strong>Summer and Fall 2027</strong>, this opportunity provides hands-on experience, including opportunities to visit client sites, gaining firsthand insight into how packaging systems are installed, integrated, and optimized in real-world manufacturing environments.</p>\n\n<h3>Primary Responsibilities:</h3>\nSupport the design, evaluation, and improvement of packaging systems and production lines \nAssist with packaging line assessments and development of engineering recommendations \nContribute to engineering deliverables such as equipment specifications, layouts, and testing plans \nPerform engineering analysis and calculations to support project design and execution. \nParticipate in equipment testing, commissioning, and startup activities \nGain hands-on experience through site visits and travel to client and vendor facilities \n\n<h3>Required Qualifications:</h3>\n\nPursuing a Bachelor's Degree in Mechanical Engineering, Industrial Engineering, or Mechanical Engineering Technology from an ABET-accredited program \nPrevious experience with and/or coursework involving basic level AutoCAD Mechanical 2D functions \nGPA of 3.0 or greater \n\n\nAll Foth Companies are equal opportunity employers, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law. Qualified women, minorities, persons with disabilities, and veterans are encouraged to apply. All locations are tobacco-free.  Subject to applicable state law, all applicants who have received a written offer of employment and a copy of Foth’s Drug and Alcohol-Free Workplace Program Policy, will be required to undergo testing for commonly abused controlled substances. Applicants must complete the required drug testing within two business days of offer acceptance.  Foth will pay for all drug testing, which will be conducted by a licensed independent medical laboratory that follows testing requirements in accordance with applicable state law.\n \n<strong>Colorado Residents:</strong> In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n \n<strong>Notice to Third Party Recruiters/Agencies:</strong> Foth does not accept unsolicited resumes from third party recruiting firms. Absent a signed recruiting agreement coordinated through Foth, Foth reserves the right to pursue and hire candidates without financial obligation to third party recruiters or agencies.",
+    "content_hash": "6e7a46018697f500842c5eb8aa66b9c1"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "ac07455cca29": {
+    "id": "ac07455cca29",
+    "title": "2027 New Graduate - Tooling Engineer",
+    "title_raw": "2027 New Graduate - Tooling Engineer",
+    "company": {
+      "slug": "radiant-industries",
+      "name": "Radiant Industries",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "radiant-industries",
+      "external_id": "63dd2f25-8650-4ce9-a88b-ec1fc224ba1c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/radiant-industries/63dd2f25-8650-4ce9-a88b-ec1fc224ba1c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T21:32:25.436Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 105000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Radiant</strong></h3><p>Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. The company’s first reactor, Kaleidos, is a 1-megawatt, fail-safe microreactor that can be transported anywhere power is needed and run for up to 5 years without refueling. Portable nuclear power with rapid-deploy capability can replace similar-sized diesel generators and provide critical asset support for hospitals, data centers, remote sites, and military bases. Radiant’s unique, practical approach to nuclear development leverages modern software engineering to rapidly deliver safe, factory-built microreactors that use existing, well-qualified materials. Founded in 2020, Radiant is on track to test its first reactor at the Idaho National Laboratory this summer, with initial customer deliveries beginning in 2028.</p><p>Radiant is seeking a highly motivated Tooling Engineer to join the team. </p><p><strong>Responsibilities:</strong></p><ul><li><p>Partner with design and manufacturing engineers to develop innovative production tooling for fabricating and assembling complex mechanisms and structures.</p></li><li><p>Design, analyze, and fabricate tooling that enables semi-remote operations for fueling/defueling of the reactor.</p></li><li><p>Identify and develop appropriate suppliers for tooling components, fabrication.</p></li></ul><p><strong>Qualifications:</strong>  </p><ul><li><p>BS or MS in Mechanical Engineering, Manufacturing Engineering, Aerospace Engineering, or related discipline.</p></li><li><p>Graduating in December 2026 or Spring 2027.</p></li><li><p>Understanding of both “hand calc” analytical methods and higher fidelity finite element-based analysis methods.</p></li><li><p>Self-motivated with strong organizational, written, and oral communication skills.</p></li><li><p>Experience with custom machine design; electromechanical systems, motors, actuators, linear rails, bearings, lifting/rigging, etc.</p></li><li><p>Strong problem-solving skills and attention to detail.</p></li><li><p>Demonstrated ability to work collaboratively with design and operations teams.</p></li></ul><h3><strong>Benefits and Perks</strong></h3><ul><li><p>Stock: Substantial incentive stock plan for all full-time employees.</p></li><li><p>Medical: 100% up to base silver level plan for employee + 50% dependents, offers up to Platinum plans.</p></li><li><p>One Medical: Sponsored memberships for employees and their dependents.</p></li><li><p>Vision: 100% top tier plan coverage + 50% for dependents.</p></li><li><p>Dental: 100% top tier plan coverage, orthodontia extra, 50% for dependents.</p></li><li><p>Voluntary life, accident, hospital, critical illness, commuter and FSA/HSA are offered as employee contributed benefits.</p></li><li><p>8-weeks of paid parental leave for all parents. Additional paid pregnancy leave for CA employees.</p></li><li><p>Daily catered lunch. Free snacks and drinks.</p></li><li><p>Flexible PTO policy. Remote workday allocation.</p></li><li><p>Company and team-bonding events, happy hours and in-person camaraderie.</p></li><li><p>Beautiful El Segundo headquarters close to the Pacific Ocean.</p></li></ul><p></p><p><strong>Total Compensation and Benefits</strong><br />Radiant compensates people for impact and invests in those who continue to raise the bar. Radiant’s new hire compensation package includes base salary, substantial equity grants, and comprehensive health benefits. Total compensation and level are determined through a rigorous evaluation of interview performance, experience, education, and qualifications, and are designed to support continued growth as scope, responsibility, and impact expand at Radiant.<br /><br />The best of today’s advanced reactor builders don’t wait for job postings. They join the winning team. If that’s you, contact us directly for immediate opportunities: recruiting@radiantnuclear.com.<br /><br /><em>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</em></p><p><em>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</em></p>",
+    "content_hash": "135b5d84ca65d512887bbfa2079e11fc"
+  },
+  "ac42e5a61c64": {
+    "id": "ac42e5a61c64",
+    "title": "Trainee/Junior QA Engineer",
+    "title_raw": "Trainee/Junior QA Engineer",
+    "company": {
+      "slug": "ajax-systems",
+      "name": "Ajax Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Kyiv",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "ajax",
+      "external_id": "6749a5fc-16df-4881-9c55-14d8ca68d386"
+    },
+    "apply_url": "https://jobs.lever.co/ajax/6749a5fc-16df-4881-9c55-14d8ca68d386/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-23T12:52:03.368Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:43:05.877Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Ajax Systems</strong> — міжнародна технологічна компанія і найбільший у Європі виробник охоронних систем.</p>\n<p>Ми шукаємо нового гравця до Video Devices підрозділу на позицію <strong>Trainee/Junior QA Engineer</strong>.</p>\n<p>Video Devices підрозділ реалізує повний цикл створення відеопродуктів Ajax — від концепту до запуску в серійне виробництво. Ми об'єднуємо експертизу в механіці, Hardware, Image Quality, оптиці, Embedded-системах та нетворкінгу. Наша мета — створення технологічно складних та конкуретних пристроїв, що поєднують стабільність зв'язку, високу якість зображення та масштабованість виробництва.</p>\n<h3>Необхідні знання та навички:</h3>\n\nТехнічна освіта або навчання за напрямами електроніки, радіотехніки, embedded-систем, комп’ютерної інженерії чи суміжних спеціальностей. \nБазове розуміння життєвого циклу розробки та тестування пристроїв. \nРозуміння основ теорії тестування (види тестування, тестова документація, життєвий цикл дефекту). \nБазові знання апаратних інтерфейсів UART, SPI, I2C, GPIO. \nБазове розуміння електроніки (сигнали, прості електричні схеми, RC-ланцюги). \nЗнання основ роботи з Linux-консоллю або бажання швидко її опанувати. \nАнглійська на рівні читання технічної документації. \nУважність до деталей, аналітичне мислення та бажання розбиратися у роботі пристроїв. \nГотовність навчатися та працювати з новими інструментами тестування. \n\n\n<h3>Буде плюсом:</h3>\n\nПрактичний досвід із навчальних, особистих або pet-проєктів. \nДосвід роботи з Arduino, Raspberry Pi, ESP32 або іншими embedded-платформами. \nБазові навички роботи з осцилографом чи логічним аналізатором. \nРозуміння процесу розробки embedded-пристроїв. \nЗнання основ Python, Bash або іншої мови програмування. \nІнтерес до video / streaming / encoding систем. \n\n\n<h3>Завдання:</h3>\n\nВиконання функціонального тестування embedded / hardware-пристроїв під керівництвом досвідчених інженерів. \nПеревірка роботи пристроїв відповідно до тестових сценаріїв. \nАналіз логів та базова робота з Linux-консоллю. \nУчасть у перевірці роботи апаратних інтерфейсів (UART, SPI, I2C, GPIO). \nДопомога у локалізації дефектів та їх документуванні. \nСтворення та актуалізація тестової документації (тест-кейси, чек-листи, сценарії). \nПроведення дослідницького тестування під час розробки нових функцій. \nТісна співпраця з QA, Hardware та Embedded Engineers. \n\n\n<h3>Пропонуємо:</h3>\n\nНавчання та менторську підтримку від досвідченої команди. \nМожливість розвиватися у напрямку тестування embedded та hardware-пристроїв. \nРоботу над продуктом світового рівня, який використовується у понад 180 країнах. \nМожливість пропонувати та реалізовувати власні ідеї. \nКонкурентну заробітну плату. \nМедичне страхування. \nКорпоративні заняття з англійської мови. \nМожливість взяти участь у внутрішньому проєкті бета-тестування систем безпеки Ajax. \nЗнижки від компаній-партнерів. \nЗнижки на продукти компанії. \n\n\n\n\n\n\n\n\n<p><strong>Ajax Systems</strong> — це українська історія успіху, яка виросла в глобальний продукт. Пристроям Ajax довіряють понад 4,5 мільйона кінцевих користувачів і 330 тисяч PRO-користувачів у більш ніж 180 країнах. Компанія пропонує комплексні рішення для захисту житлових і комерційних об'єктів різного масштабу. Сьогодні портфоліо Ajax налічує понад 280 пристроїв для захисту від вторгнення, відеоспостереження, пожежної безпеки та автоматизації.</p>",
+    "content_hash": "6b5fbbf96f6589d2b37ce69872b104cb"
+  }
+}

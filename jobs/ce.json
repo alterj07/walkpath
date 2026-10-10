@@ -1,0 +1,94 @@
+{
+  "ce71d3314330": {
+    "id": "ce71d3314330",
+    "title": "Quant Developer / Quant Research Intern - 2026/2027",
+    "title_raw": "Quant Developer / Quant Research Intern - 2026/2027",
+    "company": {
+      "slug": "anthelion-capital",
+      "name": "Anthelion Capital",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "anthelioncap",
+      "external_id": "5e2ea37b-2369-474e-b717-c24c60976e96"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-23T19:51:59.097Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.697Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": "Summer 2026",
+    "salary": {
+      "min": 1800,
+      "max": 2000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Anthelion</strong></h3><p>Anthelion Capital is an investment and data science platform. We augment our fundamental investment core with data science to make investments across the capital structure. We are building a proprietary platform that runs the full investment lifecycle, from underwriting to portfolio management.</p><p></p><h3><strong>What you'll do.</strong></h3><p>As an intern, you'll work directly with our quant team on a real piece of that platform.</p><p>Build the systems a systematic investment platform runs on — from the inside.</p><p>No prior finance, credit, or trading experience is required — we hire for quantitative and engineering ability and teach the domain.</p><p><strong>What you might work on (matched to your strengths):</strong></p><p>· Market or reference data ingestion with point-in-time correctness (no lookahead, as-of-date correct).</p><p>· Building and validating a candidate factor or risk model on the emerging platform, with an emphasis on robustness and out-of-sample validity.</p><p>· A piece of the research-to-production path — the tooling that promotes a signal to production by configuration rather than a rewrite.</p><p>· A component of the backtesting / simulation engine, the feature/signal store, or the portfolio optimizer.</p><p></p><h3><strong>We're looking for:</strong></h3><p>· Currently pursuing an undergrad, master's, or PhD in CS, math, statistics, physics, or a related quantitative field.</p><p>· Strong programming ability in Python (C++, Rust, or another language is a plus).</p><p>· Solid fundamentals in statistics and/or ML, and the instinct to be suspicious of results that look too good.</p><p>· Evidence of building things and going deep — research, open source, competitive programming (ICPC/Codeforces), Kaggle, olympiads, or substantial personal projects.</p><p>· Nice to have: exposure to markets/investing, data engineering, orchestration tools (Dagster/Prefect), or cloud (Azure).</p><p><strong>Logistics: </strong>12-week onsite internship — Fall 2026 (September–November); Winter 2026 (December–February); or Summer 2027 (June–August). Open to students graduating December 2026 through Summer 2028; PhD candidates with later graduation dates are also considered.</p><h3><br /><strong>Additional Details:</strong></h3><p><strong>Compensation: </strong>$1800 - $2000 per week depending on level of coursework. Strong interns are our primary source of full-time offers.</p><p><strong>Location: </strong>Onsite, Midtown, New York City</p><p><strong>Other: </strong>Must have US work authorization or ability to use OPT during the time of your internship.</p>",
+    "content_hash": "5fbc39b5dcf8df494b889faa44956f64"
+  },
+  "cee7c59e0fd6": {
+    "id": "cee7c59e0fd6",
+    "title": "Loads & Dynamics Engineering Intern - Summer 2027",
+    "title_raw": "Loads & Dynamics Engineering Intern - Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "29c10a11-aa02-4d64-83d0-00001cbd3ac0"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T20:04:52.257Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nAs a Loads and Dynamics Engineering Intern you will support the development of our supersonic aircraft programs. This individual will work closely with the aerodynamics and structures teams to develop and refine external loads, create dynamic simulations, validate analysis through testing and flight, and evaluate flutter behaviors to support aircraft development.\n \n \nSummer: around 12 weeks (May - August)\n<h3>Responsibilities:</h3>\nSolve structural static and dynamic problems through hand calculations, finite element analysis, or test data  \nExternal loads definition from flight maneuvers, gust, takeoff and landing for use in structural design and analysis   \nGeneration of vehicle finite element model to assess static and dynamic load cases   \nCharacterization of aeroelastic effects such as flutter   \nDefinition of random vibration environments from buffet and engine dynamics   \n\n<h3>Minimum Requirements:</h3>\nPractical experience through internships, studies or projects. \nMust be currently enrolled in a STEM program at an accredited college or university (undergraduate student in your third or fourth year of study, or enrolled in a Master's or Ph.D. program). \nStrong understanding of engineering first principles. \nDemonstrated ability to work within cross-functional teams. \nEnthusiasm for aviation and Hermeus's mission. \nExcellent written and verbal communication skills. \nGPA of 3.0 or above. \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "da66c101de0ae7f21edec11196b07298"
+  }
+}

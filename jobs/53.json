@@ -1,0 +1,175 @@
+{
+  "530e3c4abdaf": {
+    "id": "530e3c4abdaf",
+    "title": "Software Engineer, Intern",
+    "title_raw": "Software Engineer, Intern",
+    "company": {
+      "slug": "pylon",
+      "name": "Pylon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "pylon-labs",
+      "external_id": "fcea8b52-81f1-4b0c-b575-d7b180faec4d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-10T22:49:44.530Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.969Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2028",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3>Pylon — the agentic support platform purpose-built for B2B.</h3><p>Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters.<br /><br />Unlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself.</p><p>We're backed by a16z, BCV, General Catalyst, and Y Combinator. More than 1,500 companies including Linear, Cognition (makers of Devin), Modal Labs, and Incident.io run their support and customer success workflows on Pylon. We're also featured on the Enterprise Tech 30 List.</p><p></p><h3>What You'll Do</h3><ul><li><p>Build features so our customers in post-Sales roles (Customer Support &amp; Customer Success) run their operations more efficiently by leveraging AI</p></li><li><p>Build prototypes, work independently, iterate quickly, and ship fast</p></li><li><p>Have high autonomy, own things end to end, and project manage your own work</p></li><li><p>Work with PMs, designers, and other engineers in a highly collaborative, non-waterfall way</p></li><li><p>Collaborate with a strong technical team of senior engineers from places like Samsara, Affinity, Airbnb, and Meta</p></li></ul><h3></h3><h3>What We’re Looking For</h3><ul><li><p>You are pursuing a bachelor’s or master’s degree in computer science, engineering, or another related field and are graduating between December 2026 and Summer 2028.</p></li><li><p>You have a growth mindset, want to constantly improve, and want to receive feedback</p></li><li><p>You're in SF or you're willing to relocate (the internship will take place in Summer 2027)</p></li><li><p><strong>(Bonus)</strong> You have relevant internship experience or side projects building product features and a demonstration of strong full-stack fundamentals</p></li><li><p><strong>(Bonus)</strong> You have interned at high-growth startups and can navigate ambiguous environments.</p></li><li><p><strong>(Bonus)</strong> You highly leverage AI for software development and can juggle multiple workstreams at the same time.</p></li><li><p><strong>(Bonus)</strong> You have experience with our tech stack (React, Golang, GraphQL, and AWS).</p></li></ul><p></p><h3><strong>Our Perks</strong></h3><p>🚆 Commuter benefits</p><p>🌱 Parental leave</p><p>🏝️ 14 company holidays + unlimited PTO</p><p>🗺️ Annual offsite</p><p>🍽 Lunch, dinner, and snacks at the office</p><p>🏋️ Fitness stipend</p><h3><strong><br />More about Pylon</strong></h3><p><strong>Funding:</strong> Series B led by a16z and BCV ($51M total raised)</p><p><strong>Founders:</strong> Advith Chelikani, Robert Eng, and Marty Kausas</p><p><strong>Team:</strong> Currently 100+ and growing!</p>",
+    "content_hash": "a05820baf7710c9b7abe7949c68c4d2f"
+  },
+  "531b42c0ea2b": {
+    "id": "531b42c0ea2b",
+    "title": "Internship - Software Developer - Commerce Cloud",
+    "title_raw": "Internship - Software Developer - Commerce Cloud",
+    "company": {
+      "slug": "dynamic-catholic",
+      "name": "Dynamic Catholic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Erlanger, Kentucky",
+      "city": "Erlanger",
+      "state": "KY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "dynamiccatholic",
+      "external_id": "e94fa581-892c-4958-9515-0221f862ce57"
+    },
+    "apply_url": "https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T20:55:13.080Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:52:38.591Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<strong>Overview</strong>\nCalling all aspiring Script Wizards and Code Monkeys! Dynamic Catholic is looking for an intern to spend the Summer working with our team of technical gurus, specifically within our salesforce commerce cloud platform. How often do you come across an opportunity to massively increase your skill set in this industry while learning from like-minded mentors? Keep reading if you’d love serving a powerful Catholic Mission while adding the following to your resume: troubleshooting promotion implementations, assessing data issues and utilizing DB fixes to resolve them, and performing code reviews.\n \n<strong>Who we are</strong>\n \nAt Dynamic Catholic our Mission is simple: to re-energize the Catholic Church in America. Catholics are leaving the Church at an alarming rate, and disengagement among those who remain is staggeringly high. This is where you come in. We are looking for driven, talented, and dynamic individuals who will work tirelessly to use their talents to inspire people to rediscover the genius of Catholicism.\n \n \n<h3>What You’ll Leave With</h3>\nA wide range of professional development skills, including architectural design, release \nmanagement, and best practice implementation. \nAn introduction to core E-Commerce concepts. \nExperience working alongside professional developers. \nThe ability to work with internal stakeholders to solve their real-world problems. \nFriends and professional contacts to leverage throughout your career! \n\n<h3>What You Already Have</h3>\nJavaScript, HTML, and CSS knowledge. \nBasic understanding of full stack development principles. \nExcellent relationship-building skills and ability to effectively communicate with stakeholders. \nAbility to gather requirements and propose technical solutions. \nA proactive attitude to platform enhancements and a desire to implement best practice \nsolutions. \nEnthusiasm towards continued personal/professional development. \n\n<strong>Location</strong>\nThis position is located in the Greater Cincinnati area. Candidates must be local for consideration.",
+    "content_hash": "e515deb8e109e53c047461fdb13b3189"
+  },
+  "5377c14f5ea9": {
+    "id": "5377c14f5ea9",
+    "title": "Multiphysics Software Intern - Summer 2027",
+    "title_raw": "Multiphysics Software Intern - Summer 2027",
+    "company": {
+      "slug": "antares-nuclear",
+      "name": "Antares Nuclear",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "antares",
+      "external_id": "922a527d-9826-446d-9aba-ffc611995830"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T06:40:51.660Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.687Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 36,
+      "max": 36,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Us</strong></p><p>At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in space.</p><p></p><p>The Antares team hails from SpaceX, the White House, the Pentagon, the Department of Energy, MIT, Rigetti Computing, General Atomics, Relativity Space, Ursa Major, and National Laboratories like Idaho, Oak Ridge, Los Alamos, and Savannah River. Antares has raised over $600M in venture capital from top-tier investors and has hundreds of million-dollars on contract with the military services, NASA, and the Department of Energy.</p><p></p><p><strong>About the Summer Internship Program</strong></p><p>Internships at Antares are anything but ordinary. You'll work alongside our team as we design, build, and test fission microreactors built to deliver reliable energy for critical missions on Earth, in space, and underwater.</p><p>Our interns contribute to real work from day one. Depending on your role, you may touch hardware, write and test software, support manufacturing and operations, or help build the systems that allow Antares to move quickly as we scale. You'll work alongside engineers, operators, and other experts solving challenging problems—and you'll leave your internship with hands-on experience that's difficult to find anywhere else.</p><p>We work hard, move quickly, and take pride in what we're building. If you're excited to learn by doing and want to contribute to the next generation of nuclear energy, we'd love to have you join us next summer.</p><p></p><p>We will be running two separate cohorts to accommodate students on both semester and quarter schedules:</p><p><strong>Cohort #1</strong></p><p>Monday, May 17 – Friday, August 13</p><p><strong>Cohort #2</strong></p><p>Monday, June 14 – Friday, September 10</p><p></p><p>All internship roles are based at our Torrance headquarters and require interns to work onsite five days per week. We will not be considering candidates for remote or hybrid arrangements.</p><p>Interns will receive a relocation and housing stipend as part of their offer package.</p><p></p><p><strong>About the Role</strong></p><p>As a Software Intern, you will work on the infrastructure and tooling that enables Antares teams to deploy, monitor, and operate internal applications and compute workloads. You will own substantive projects spanning cloud deployment tooling, systems automation, observability, data project infrastructure, and cluster operations.</p><p>You will work across both cloud and on-premises infrastructure, improving how applications and data projects are deployed and monitored while helping make internal compute resources more reliable, recoverable, and efficient. This role is well suited for someone who enjoys building practical tools, automating manual processes, and improving the systems other technical teams rely on.</p><p></p><p><strong>Roles and Responsibilities:</strong></p><ul><li><p>Improve cloud deployment tooling for shared internal applications</p></li></ul><ul><li><p>Automate integrations between internal and external systems</p></li></ul><ul><li><p>Create Grafana dashboards and alerts to improve visibility into internal systems</p></li></ul><ul><li><p>Build standardized templates for Python data projects that improve deployment, monitoring, and dependency management</p></li></ul><ul><li><p>Document quality processes so they can be consistently used by non-software developers</p></li></ul><ul><li><p>Migrate cluster infrastructure to the latest versions of Rocky Linux and Warewulf</p></li></ul><ul><li><p>Build storage tooling to improve recovery and performance</p></li></ul><ul><li><p>Analyze and optimize cloud costs for internal job pipelines</p></li></ul><ul><li><p>Create dashboards that provide visibility into cluster usage</p></li></ul><ul><li><p>Build tooling to help teams better understand and optimize their use of shared compute resources</p></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>Enrolled in at least a bachelor’s degree program, and going into your Junior or Senior year of studies</p></li></ul><ul><li><p>Must have prior internship experience, or significant (&gt;1yr) project team, laboratory, or research experience</p></li></ul><p></p><p><strong>Preferred Skills &amp; Experience:</strong></p><ul><li><p>GPA of 3.5 or above</p></li></ul><ul><li><p>Experience in a University club or organization, leadership role preferred</p></li></ul><ul><li><p>Strong interpersonal and technical communication skills (examples: leading a student project team, presenting research at conferences, etc.)</p></li></ul><ul><li><p>Strong analytical and problem-solving skills with attention to detail</p></li></ul><ul><li><p>Ability to work cross-departmentally with different groups and teams</p></li></ul><ul><li><p>Ability to work effectively in a dynamic environment with changing needs and requirements</p></li></ul><ul><li><p>Ability to work independently and in a team, take initiative, and communicate effectively</p></li></ul><p></p><p><strong>Location</strong></p><ul><li><p>We are located in Torrance, CA in a 322,000 square foot, brand new facility featuring large open spaces for team collaboration, R&amp;D, and production, as well as easy access to the 405, 105, and 110 freeways. Our facility is in the heart of Los Angeles' vibrant emerging tech ecosystem alongside many other high growth startups and enterprises.</p></li></ul><p></p><p><strong>Culture</strong></p><p>At Antares, we like to specifically tie each role to our founding document’s set of values–here are the top five cultural values we think you should believe at your core to be successful:</p><ul><li><p><em>Think in Systems</em> - Energy and Defense are complex ecosystems with numerous stakeholders with competing priorities, conflicting policies, perverse incentives, and emergent and path-dependent properties. First principles thinking alone is insufficient. Think probabilistically and then take action. “If you want to be certain, then you are apt to be obsolete.” Over-optimizing the components often degrades the system</p></li><li><p><em>Obsess over the End User</em> - The customer and end user are often not the same. We will never build globally competitive commercial products if we lose sight of our end users and their entire interaction with the product life cycle</p></li><li><p><em>Be Unconstrained by Convention</em> - Our only limits are the laws of physics. Many, even experts, will say what we are working on is impossible. They said the same about SpaceX reusing rockets. Generationally impactful companies, by definition, must accomplish the seemingly impossible. If it were easy, it would have already been done. Never shy away from a solution because it has never been tried before, and never choose to do something because that's “how it's always been done”</p></li><li><p><em>Go Where the Work I</em>s - Never miss a chance to meet a customer, user, or stakeholder face to face, even if that means hopping on a plane. If you can’t make it, find a teammate who can channel your intentions and go in your place. Deep work can be done from anywhere, but we believe teams are built in person, and aim to maximize our time together</p></li><li><p><em>Operate in the Grey</em> - Embrace nuance in pursuit of truth. Question every fundamental assumption</p><p></p></li></ul><p><strong>Equal Opportunity</strong></p><p>Antares is an Equal Opportunity Employer. Employment decisions are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "e5d2f5b76510e061894e7e377b515b0b"
+  },
+  "53bbdf4919b4": {
+    "id": "53bbdf4919b4",
+    "title": "Propulsion Component Engineering Intern - Spring 2027",
+    "title_raw": "Propulsion Component Engineering Intern - Spring 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "2cbb75f7-a040-47b2-a442-d9cc1faedb11"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-31T20:56:58.717Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br />\n<h3>About The Role: </h3>\n\nAs a Propulsion Component Engineering Intern, you will support the development of flight-critical mechanical and fluid system components, including valves, actuators, and integrated propulsion hardware. You will contribute to hardware development from clean-sheet design through build, test, qualification, and production, working closely with propulsion and vehicle teams. Your work will directly support systems operating in high-pressure, high-temperature, and dynamic flight environments.\n \nSpring: Around 16 weeks (January - April)\n<h3>Responsibilities:</h3>\nSupport the development of propulsion components (e.g., valves, actuation systems, and fluid control hardware) from concept through flight-ready delivery \nContribute to designs for extreme environments, including high pressure, temperature, and transient operating conditions \nSupport engineering trade studies across performance, manufacturability, reliability, and testability \nAssist with clean-sheet design, analysis, and integration of propulsion components \nSupport hardware through rapid build–test–iterate cycles \nParticipate in troubleshooting and root cause analysis during development and test \nWork with propulsion and vehicle system owners to define requirements, interfaces, and integration strategies \nAssist with system-level sizing, architecture, and design trades \nSupport development testing, qualification, and acceptance of flight hardware \nContribute to the transition from prototype to repeatable, production-ready designs \nAssist in defining operational limits and evaluating reliability and safety across all phases of use \nApply engineering judgment and first principles to support risk-informed design decisions \nPrioritize work effectively in a fast-paced, evolving development environment \n\n<h3>Requirements:</h3>\nPractical experience designing, building, and testing hardware or vehicles through internships, coursework, research, or hands-on projects \nMust be currently enrolled in a STEM program at an accredited college or university (undergraduate student in your third or fourth year of study, or enrolled in a Master's or Ph.D. program) \nStrong interest in propulsion systems, mechanical systems, and hardware development \nStrong understanding of engineering first principles, including fluids, thermodynamics, mechanics, and materials \nDemonstrated ability to work within cross-functional teams \nEnthusiasm for aviation and Hermeus's mission \nExcellent written and verbal communication skills \nGPA of 3.0 or above \n\n \n \n<h3>Preferred Skills and Qualifications:</h3>\n\nExperience with propulsion systems, high-pressure fluid systems, or aerospace mechanisms through internships, coursework, research, or projects \nExperience designing or building components such as valves, actuators, or fluid control hardware \nFamiliarity with high-temperature materials, sealing strategies, and common mechanical failure modes \nFamiliarity with GD&amp;T, tolerance stack-up, and precision assemblies \nHands-on experience supporting hardware testing, assembly, integration, or troubleshooting \nExperience with CAD tools (NX preferred) and analysis tools (ANSYS or similar) \nExperience participating in rapid hardware development environments, including engineering competition teams, research programs, or internships \nScripting experience (Python, MATLAB, or similar) for analysis or automation \n\n\n<h3>Additional Requirements:</h3>\n\nWillingness to work hands-on in build, integration, and test environments \nAbility to support extended hours during critical test campaigns \nWillingness to travel to support hardware builds and flight tests \nMust be eligible to access export-controlled information \n\n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "9a9966ea876a9763a9ba6d2a67906b5a"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "b82f54a0ceb7": {
+    "id": "b82f54a0ceb7",
+    "title": "Systems Engineering Intern, 2027",
+    "title_raw": "Systems Engineering Intern, 2027",
+    "company": {
+      "slug": "allen-control-systems",
+      "name": "Allen Control Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "allen-control-systems",
+      "external_id": "9945f76d-6d03-45f0-b431-fc69d31f5476"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T22:35:51.342Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:56.798Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Overview</strong><em><br />ACS (Allen Control Systems) is a defense technology company building precision robotic systems for the United States and its allies. Founded by two former U.S. Navy electrical engineers with deep experience in robotics and software, ACS brings together AI, computer vision, precision motion, and advanced hardware to solve complex defense challenges across land, air, and maritime environments.</em></p><p><em>Our flagship product, Bullfrog, is an autonomous precision weapon system that transforms existing weapons into highly accurate counter-drone systems — giving warfighters a scalable, cost-effective response to one of the fastest-growing threats on the modern battlefield. Bullfrog is deployed with U.S. forces, and ACS works with organizations throughout the U.S. military and national security community.</em></p><p><em>Following a $200 million Series B at a $2.2 billion valuation, ACS is rapidly expanding manufacturing, accelerating Bullfrog deployments, and developing the next generation of autonomous battlefield systems. This is an opportunity to join a proven, fast-moving team and help scale technology with direct, real-world impact on national security.</em></p><p><em>ACS is headquartered in Austin, Texas, with additional operations in Alexandria, Virginia; Mountain View, California; and Huntsville, Alabama. For more information, visit </em><em>allencontrolsystems.com</em><em>.</em></p><h3></h3><p>Our interns aren't fetching coffee or shadowing — they're working alongside the same engineers building the systems we ship. This is early-career work with real stakes.</p><p><strong>Location: </strong>Austin, TX (on-site)</p><p><strong>Duration: </strong>Summer 2027 (~10-12 wks)</p><p><strong>Pay: </strong>Paid internship</p><p><strong>Team: </strong>Small, hands-on, direct impact</p><p></p><p><strong>What You Could Work On:</strong></p><ul><li><p>Turning high-level mission requirements for Bullfrog into clear, testable specs — and helping define how we'll prove they're actually met</p></li><li><p>Systems integration across mechanical, electrical, software, and controls — tracing how a requirement in one subsystem shows up as a constraint in another</p></li><li><p>Verification planning and test support — helping design test approaches and reviewing results to see whether a requirement was genuinely satisfied</p></li><li><p>Engineering analysis: modeling, simulation, or margin/budget analysis that grounds a requirement or trade-off in real numbers instead of a guess</p></li></ul><p>(We're keeping this general on purpose — exact projects depend on where things stand next summer, but this is the flavor of work you'd be doing.)</p><p></p><p><strong>What We're Looking For:</strong></p><ul><li><p>Currently pursuing a degree in Systems Engineering, Aerospace Engineering, Mechanical Engineering, Electrical Engineering, or a related field</p></li><li><p>Coursework or project experience in requirements definition, verification planning, or systems integration (senior design projects count)</p></li><li><p>Comfortable with engineering analysis — modeling, simulation, or data analysis to back up a technical decision</p></li><li><p>A structured thinker who's curious about how interfaces and assumptions between subsystems can create downstream problems</p></li></ul><p></p><p><strong>Why ACS:</strong></p><ul><li><p>Direct impact: your work ships on hardware being fielded to protect real people — not stuck in a slide deck.</p></li><li><p>Real ownership: no red tape. You'll work directly with the engineers building Bullfrog, from day one.</p></li><li><p>Small team, big scope: at a startup this size, interns take on real problems, not busywork.</p></li><li><p>Mentorship from engineers who've designed and fielded real defense systems.</p></li></ul><p></p><p><em>Allen Control Systems is an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment. Allen Control Systems prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p>",
+    "content_hash": "944672a07dca6e87350a2c7eac29ec0d"
+  },
+  "b88c1f20187f": {
+    "id": "b88c1f20187f",
+    "title": "2027 Internship - Validation Engineer",
+    "title_raw": "2027 Internship - Validation Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "89813bb2-94fb-42f6-aec2-03154cfde027"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T23:04:02.589Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />Cirrus Logic’s Mixed-Signal Validation Engineering team is seeking highly motivated interns to support the validation efforts of industry-leading mixed-signal products.  This internship offers a hands-on opportunity to work on high-performance mixed-signal analog converters, Class D digital power amplifiers, and digital interface products, supporting both pre-silicon verification and post-silicon validation efforts.\n \nValidation roles at Cirrus Logic span a wide range of disciplines—from bench-level characterization to automated production testing, and from pre-silicon modeling to post-silicon debug. Interns gain exposure to the full lifecycle of product development and validation, working with cutting-edge audio and data acquisition technologies in a collaborative, innovation-driven environment.\n \nAs an intern, you’ll collaborate with cross-functional teams—including design, applications, and manufacturing test engineers—to ensure our products meet the highest standards of performance, reliability, and manufacturability. \n<p>We recruit interns year-round for Spring, Summer, and Fall 2027 opportunities. Each internship lasts 12–16 weeks and follows a full-time schedule.</p>\n<p><em>This role does not offer visa sponsorship.</em></p>\n\n<h3>Responsibilities</h3>\nAssist engineers in the development and production of mixed-signal and analog semiconductor ICs. \nPerform electrical bench testing and automated test equipment (ATE) analysis. \nDesign and build test hardware for validation and characterization. \nCollect, analyze, and summarize performance and yield data. \nSupport New Product Introduction (NPI) activities including matrix lot reviews, GRR, CPK analysis, and test program release. \nContribute to yield enhancement and cost reduction initiatives for ramping products. \nInterface with cross-functional teams to manage production ramp deliverables and timelines. \n\n<h3>Required Skills and Qualifications</h3>\nPursuing a BS in Electrical Engineering or a related field. \nExperience with mixed-signal product engineering and IC testing. \nProficiency with lab equipment (oscilloscopes, multimeters, waveform generators, power supplies). \nStrong verbal and written communication skills. \nDemonstrated problem-solving mindset and willingness to iterate on solutions. \nKnowledge of yield analysis and statistical techniques (e.g., ANOVA, Regression, GRR). \nFamiliarity with data analysis tools such as Spotfire, JMP, Excel, and PDF. \nUnderstanding of high-volume production ramps and test hardware debugging. \n\n<h3>Preferred Skills and Qualifications</h3>\nExperience with Teradyne UFlex, Excerra, or Catalyst test systems. \nKnowledge of Linux/Unix shell scripting. \nFamiliarity with IC or board-level test and failure analysis methodologies. \n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "ffa1ddff12324a8482587f3786aedff1"
+  }
+}

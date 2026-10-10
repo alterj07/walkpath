@@ -1,0 +1,47 @@
+{
+  "5bcd50b598e2": {
+    "id": "5bcd50b598e2",
+    "title": "Flight Test Intern - Summer 2027",
+    "title_raw": "Flight Test Intern - Summer 2027",
+    "company": {
+      "slug": "skydio",
+      "name": "Skydio",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Mateo, California, United States",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "skydio",
+      "external_id": "3eb06d6e-b6f0-4814-a80a-f1c43075873b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T19:01:54.953Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.686Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 41,
+      "max": 41,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders, soldiers in battlefield scenarios, and beyond.</p><p><strong>About the role:</strong></p><p>Skydio is looking for an enthusiastic Flight Test Intern to help validate and advance the next generation of Skydio products. As a leader in developing cutting-edge aerial platforms and the software that powers them, Skydio offers an exciting environment for hands-on work with all our products. In this role, you will collaborate closely with various teams across the organization, providing support across multiple projects on the flight test team. This is a unique opportunity to play an essential role in shaping Skydio’s innovative products.</p><p><strong>How you’ll make an impact:</strong></p><ul><li><p>Conduct smoke and regression tests to ensure system reliability and confidence</p></li><li><p>Perform daily testing on the master branch to maintain software quality</p></li><li><p>Enhance the end-to-end Skydio Dock experience by working closely with engineers to identify and resolve key issues</p></li><li><p>Support the validation of new software features for customer-facing applications</p></li><li><p>Identify and communicate product limitations early in the development cycle to improve performance and market fit</p></li><li><p>Verify software updates to maintain a stable and reliable flying platform</p></li><li><p>Collect flight data to support competitive benchmarking efforts</p></li><li><p>Execute wireless testing on all new software and hardware platforms</p></li></ul><p><br /><strong>What makes you a good fit:</strong></p><ul><li><p>Software/hardware testing background</p></li><li><p>Part 107 Certification</p></li><li><p>Consider yourself a jack of all trades</p></li><li><p>Solid debugging of hardware and software systems</p></li><li><p>Enjoy working on multiple projects at the same time</p></li><li><p>Practical experience with UAS</p></li><li><p>Understanding of UAS subsystems and their real world performance</p></li><li><p>Basic mechanical and electrical system integration knowledge</p></li><li><p>Experience operating Linux based systems</p></li><li><p>Demonstrated passion for things that fly (bonus points for sUAS Pilot's license)</p></li><li><p> Thorough communication and documentation skills</p></li><li><p>Interest in spending time outdoors</p></li><li><p> Experience testing web based applications</p></li><li><p> Wireless testing experience preferred</p></li></ul><p><strong>Compensation: </strong>The hourly rate for this position is $41/hr for Undergrad and $47/hr for Graduate students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience.</p><p>*Compensation for certain positions may vary based on the position's location.<br /><br />#LI-ZD1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/</p>",
+    "content_hash": "68452e5f5eebb11675002f932f14328b"
+  }
+}

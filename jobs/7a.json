@@ -1,0 +1,89 @@
+{
+  "7a502c543526": {
+    "id": "7a502c543526",
+    "title": "Business Operations Intern, Commercial Ops & Analytics",
+    "title_raw": "Business Operations Intern, Commercial Ops & Analytics",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "0545cb76-f49c-4390-a1c5-2b7adb5e927a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/0545cb76-f49c-4390-a1c5-2b7adb5e927a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T17:28:45.684Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>We are seeking an intern to join Base’s Business Operations team that focuses on commercial partnerships. During your internship you’ll be tasked with important problems for the business and expected to deliver just like any other full-time member of the team.</p> <p>In this role, you’ll help launch new growth-oriented partnerships, support existing partner operations, and improve financial and operational processes across the business. That means driving volume growth, unit economics, and quality outcomes while ensuring our partner stays motivated to win alongside us. At Base, partnerships aren’t siloed – you’ll collaborate closely with Deployments, Growth, Software, and Hardware to deliver results that matter.</p> <h3><strong>What You’ll Do</strong></h3><ul><li><p>Our Business Operations team is lean and has a broad scope; there are many specific opportunities awaiting you if you have a thoughtful and effective approach.</p></li><li><p>Support our relationships and overall offering to existing business partners.</p></li><li><p>Build analytical tools to understand our operational and financial performance, uncover opportunities for efficiency or growth, and provide visibility to the Base team on critical information.</p></li><li><p>Automate operational processes to more efficiently support our members and deployments growth.</p></li><li><p>Launch and scale new partnership programs from 0 to 1.</p></li></ul> <h3><strong>What You'll Bring</strong></h3><ul><li><p>Comfort working with modern tools and tech stack (e.g., Python, SQL, dashboards, CRMs) and rolling up your sleeves when needed.</p></li><li><p>Analytical and data-driven mindset to decision-making and sound business judgment to determine project performance and financial viability.</p></li><li><p>Excellent written and verbal communication skills.</p></li><li><p>Proficiency in Powerpoint/Slides and Excel.</p></li><li><p>Proficiency in one or more programming languages is a plus.</p></li><li><p>Bias toward action and simplification - constantly pushing toward alignment, clarity, and execution on tight timelines.</p></li><li><p>Comfortable with ambiguity and effective prioritization in a fast paced entrepreneurial environment.</p></li></ul> <h3><strong>About the Team</strong></h3><p>The Base business operations team is responsible for some of the company's highest-leverage outcomes: financing our growth, commercial partnerships, acquisitions and integrations, new market and product entries, and the programs that span too many teams to have a natural owner. It is a set of small teams of generalists who work directly with Base's founders, pick up the problem that matters most, build the structure and analysis it needs, and hand back something that runs itself.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "76e13ab7e8eac3e887864d81eb9b2aae"
+  },
+  "7af12645ebd6": {
+    "id": "7af12645ebd6",
+    "title": "Software Engineering Intern - SWE/ML (Summer 2027)",
+    "title_raw": "Software Engineering Intern - SWE/ML (Summer 2027)",
+    "company": {
+      "slug": "cyvl",
+      "name": "Cyvl",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston, Massachusetts",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Somerville, Massachusetts"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cyvl",
+      "external_id": "8bfc4116-b0bb-47f8-bca1-7069a37db328"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T16:14:44.979Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.532Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 20,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>ABOUT CYVL</h3><p>The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can't see it.</p><p>Cyvl is the Physical AI company changing that. We build purpose-built sensors, computer vision and AI that turn every drive into current data: what exists, where it is and what condition it's in. 500+ cities and towns use our Infrastructure Intelligence Platform to direct the work and fix problems before they fail. 1 in 30 Americans drive on roads managed with Cyvl data.</p><p>The proof isn't a dashboard. It's a smoother commute, a safer walk to school and public dollars going where they matter most. We're a fast-moving team in Boston building hardware, software and AI for the real world. If you believe technology's highest calling is public good, come build with us.</p><p></p><h3>THE ROLE</h3><p>As a Software Engineering Intern at Cyvl, you won't be stuck on side projects. You'll work directly on the systems that power our platform: user interfaces, backend services and APIs, and machine learning models. Your work ships to production, so you'll see your impact live in front of customers. You'll learn how to build scalable, production-grade software in a fast-moving startup, alongside engineers who invest in your growth.</p><p></p><h3>WHAT YOU'LL DO</h3><ul><li><p>Build real product features that ship to customers, across frontend and backend.</p></li><li><p>Write well-tested code for APIs and services using Python and Supabase, and get hands-on with cloud tools and DevOps workflows.</p></li><li><p>Collaborate with engineers, designers, and product managers on features that help governments build infrastructure faster.</p></li><li><p>Develop real fluency with AI coding agents on a large production codebase: how to direct them, review their output, and know when to work by hand.</p></li><li><p>Grow fast through regular pairing, thorough code reviews, and direct feedback on your work.</p></li></ul><p></p><h3>WHAT YOU BRING</h3><ul><li><p>Currently pursuing a degree in Computer Science, Software Engineering, or a related field</p></li><li><p>Strong programming skills in Python</p></li><li><p>Basic understanding of databases and SQL (Postgres experience a plus)</p></li><li><p>Comfort working with AI coding agents (Claude Code, Cursor, etc.) as part of a normal development workflow</p></li><li><p>Excitement to learn new technologies and apply them quickly</p></li><li><p>Strong communication skills and the ability to work in a collaborative environment</p></li><li><p>Able to work in person at our Somerville, MA office</p></li></ul><p></p><h3>NICE TO HAVE</h3><ul><li><p>Side projects, class projects, or hackathons that showcase full-stack development</p></li><li><p>Familiarity with React, Supabase, Docker/Kubernetes, or cloud platforms (AWS, GCP, etc.)</p></li><li><p>Hands-on computer vision experience: image classification, object detection, or segmentation (PyTorch, YOLO, Roboflow, or similar)</p></li><li><p>Experience with messy real-world data (cleaning, labeling, or evaluating model output), not just training on a clean benchmark</p></li><li><p>Interest in geospatial data, 3D mapping technologies, or infrastructure</p></li></ul><p></p><h3>WHY CYVL</h3><p><strong>Hard tech. Real streets. Your name on it.</strong></p><ul><li><p><strong>Hard problems in the real world.</strong> You build end-to-end: our own hardware, software and AI, with work that shows up on the street in the real world.</p></li><li><p><strong>Ownership that compounds.</strong> You own outcomes, not tasks. You work directly with customers and across our team, and you'll own more, sooner, than almost anywhere else.</p></li><li><p><strong>Intense, with heart.</strong> We're building a category, so it's not a place to coast. We also take care of each other, have genuine fun together, and believe in what we are doing.</p></li></ul><p></p><h3>WHAT WE ASK</h3><ul><li><p><strong>Cross lanes.</strong> \"Not my job\" doesn't exist here.</p></li><li><p><strong>Own without a playbook.</strong> The plan is still being written, often by you.</p></li><li><p><strong>Try, miss, try again.</strong> We make big bets. Some won't land, and we learn fast.</p></li><li><p><strong>Be in the room.</strong> We're on-site in Somerville about 90% of the time.</p></li></ul><p>We're a startup building a category. If that sounds like the draw, not the risk, we'd love to talk.</p><p></p><h3>OUR VALUES</h3><ul><li><p><strong>Real:</strong> Authentic and transparent. Focused on solving real problems with simple, effective solutions.</p></li><li><p><strong>All Out:</strong> Bold, driven, and committed to delivering results that matter.</p></li><li><p><strong>Accelerating:</strong> Always learning, growing, and moving with intention.</p></li><li><p><strong>Reliable:</strong> We follow through and deliver at a consistently high bar.</p></li><li><p><strong>Empowering:</strong> We lift each other up and help governments build infrastructure they can be proud of.</p></li></ul><p></p><h3>SEE OUR WORK</h3><ul><li><p>How Atlanta cut downtown potholes by 60%</p></li><li><p>How Buffalo turned a campaign promise into a paving plan</p></li><li><p>How to rebuild US infrastructure smarter</p></li></ul><p></p><p><strong>We build for every community, so we hire from all of them.</strong> The best people for this work come from different backgrounds, paths, and places, and many of them don't check every box. If this role excites you, apply anyway. If you need an adjustment to our interview process, tell us and we'll make it work.</p>",
+    "content_hash": "1fc8693acc8fbcd7caaa920ce5f4ea08"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "49097d6493b5": {
+    "id": "49097d6493b5",
+    "title": "2027 Internship Test Operations Engineer",
+    "title_raw": "2027 Internship Test Operations Engineer",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Lockhart, TX",
+      "city": "Lockhart",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "66deac22-a655-413e-8f46-3d956860619a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T22:19:32.291Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>Nothing ships at Bedrock until it's been proven on real iron, on a real site, in real dirt. Test Operations runs the field program that turns engineering intent into evidence. We plan the tests, run them safely on autonomous excavators, and bring back data the whole company trusts. Proto-Town is our largest test site: more than 30 acres in Central Texas where several autonomous excavators and haul trucks run real mass-excavation work every day. As our Proto-Town Test Ops intern, you'll help run that daily testing, measure how well our autonomy performs, and find the failures before a customer does. You'll work in the field with our operators and Field Test Specialists, and directly with the autonomy engineers whose software you're testing.</p><h3><strong>What You'll Do</strong></h3><ul><li><p>Help write Gen 3 test plans with hardware, controls, and autonomy engineers: what we're proving, how we'll measure it, and what pass looks like</p></li><li><p>Run structured field tests on autonomous and manually operated excavators, both in-cab and from the field, following our safety procedures</p></li><li><p>Own data quality for your campaigns: instrumentation and logging checks, then a review of recorded runs (e.g., in Foxglove) to confirm you captured what you meant to</p></li><li><p>Triage issues in the field: reproduce them, narrow down the cause, and write tickets engineering can act on the same day</p></li><li><p>Build Python tooling that automates test setup, data processing, and daily reporting</p></li><li><p>Turn what you learn into better test procedures, so the next Gen 3 machine goes through validation faster than the last one</p></li><li><p>Present your campaign results and recommendations to the engineering teams</p></li></ul><h3><strong>What We're Looking For</strong></h3><h3><strong>Required</strong></h3><ul><li><p>Currently pursuing a BS or MS in mechanical, electrical, aerospace, robotics, or a related engineering field, or equivalent hands-on experience</p></li><li><p>Hands-on experience with test hardware, instrumentation, or data acquisition through coursework, projects, competition teams, or a prior internship</p></li><li><p>Working proficiency in Python for data processing, scripting, and automation</p></li><li><p>Basic electrical competence: multimeters, connectors, harnessing, reading a schematic</p></li><li><p>Willingness to work outdoors full-time at our field site, in PPE, on and around heavy equipment</p></li><li><p>Strong documentation habits and clear communication, because field results are only useful if others can trust and follow them</p></li></ul><h3><strong>Preferred</strong></h3><ul><li><p>Exposure to heavy equipment, off-highway machinery, hydraulics, or automotive and vehicle test</p></li><li><p>Experience with structured test planning or verification and validation (V&amp;V) methods</p></li><li><p>Familiarity with Git, Linux command line, or ROS-style robotics tooling</p></li><li><p>Experience analyzing and visualizing large time-series datasets</p></li><li><p>Shop or field experience where you were responsible for safety and process (Formula SAE, Baja, robotics teams, etc.)</p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "0982aede0cb9f15134b8689f6a4b98e4"
+  },
+  "497e853428de": {
+    "id": "497e853428de",
+    "title": "Mechatronics Intern",
+    "title_raw": "Mechatronics Intern",
+    "company": {
+      "slug": "physical-intelligence",
+      "name": "Physical Intelligence",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "physicalintelligence",
+      "external_id": "0bcf909e-b38b-4276-91a1-e55c4c56a33a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T02:56:29.604Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.910Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Fundamentally, a builder. Someone who loves to make robots real. We want someone who’s as comfortable debugging a CAN bus issue as they are machining a bracket — an individual who thinks in systems, and who gets excited by tight integration between mechanical, electrical, and embedded design. You’ll join the core Hardware Engineering team at Physical Intelligence who is supporting the robots that power PI’s data collection and model training operations.</p><p><strong>The Team</strong></p><p>The core Hardware Engineering team designs and builds the robotic arms, mobile platforms, and end-effectors that underpin PI’s data collection and model training operations. They work across mechanical, electrical, embedded, and software disciplines to iterate quickly on prototypes, bring up new subsystems, and keep the fleet performant in real-world environments.</p><p><strong>In This Role You Will</strong></p><ul><li><p><strong>Subsystem Design &amp; Test: </strong>Design, build, and test key subsystems for various robotic arms and mobile platforms — including actuation, sensing, enclosures, and power systems.</p></li><li><p><strong>Hands-On Prototyping: </strong>Work hands-on with prototypes in our hardware lab, including bring-up, assembly, calibration, and reliability testing of arms, lifts, mobile bases, and end-effectors.</p></li><li><p><strong>Cross-Disciplinary Integration: </strong>Integrate cross-disciplinary inputs from mechanical, electrical, and software teams to root-cause mission-critical issues and drive high-level system performance.</p></li><li><p><strong>Data-Driven Iteration: </strong>Analyze data from deployments to inform design iteration and reliability improvements.</p></li><li><p><strong>Full-Stack Subsystem Ownership: </strong>Own the full stack of a subsystem from CAD to PCB to bench testing.</p></li></ul><p><strong>What We Hope You’ll Bring</strong></p><ul><li><p>Completed 3A Mechanical or Mechatronics Engineering. Students below 3A with exceptional projects, GitHubs, portfolios, and work experience will also be considered.</p></li><li><p>Strong mechanical and electromechanical design fundamentals (dynamic loading, FEA, DFM).</p></li><li><p>Familiarity with embedded and mechatronic systems (CAN, BLDC control, motor controllers).</p></li><li><p>Proficiency in CAD (NX, OnShape, SolidWorks) and rapid prototyping tools (3D printing — SLA and FDM — laser cutting).</p></li><li><p>Basic electrical design and debug (schematics, soldering, test equipment).</p></li><li><p>Data-driven debugging and test planning (Python, MATLAB, or similar).</p></li></ul><p><strong>Bonus Points</strong></p><ul><li><p>Exposure to manufacturing or assembly environments.</p></li><li><p>Prior experience in robotics, autonomous systems, or hardware startups.</p></li></ul><p>The duration of this internship is January-May 2027.</p><p></p><p><em>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</em></p>",
+    "content_hash": "7751fbaab74ddd6cceaca3940236c086"
+  },
+  "49852baaf5ae": {
+    "id": "49852baaf5ae",
+    "title": "Quantitative Trading Intern - Winter Quarter 2027",
+    "title_raw": "Quantitative Trading Intern - Winter Quarter 2027",
+    "company": {
+      "slug": "belvedere-trading",
+      "name": "Belvedere Trading",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Chicago, Illinois",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "belvederetrading",
+      "external_id": "8f06f221-8777-4a4d-b035-40882db5f4a0"
+    },
+    "apply_url": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T17:21:37.024Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:46:12.493Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": "Spring 2028",
+    "salary": {
+      "min": 140000,
+      "max": 140000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry.\nBelvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry.<br />\n\n<p>At Belvedere Trading, Quantitative Trading Interns are some of the industry’s highly motivated most quantitative problem solvers. They have a love for financial markets and enjoy working in teams to learn about various trading concepts. Our Quantitative Trading Interns participate in a hands-on rotation between Belvedere’s trading desks and collaborate with Developers and Strategists in research to improve our trading systems. Quantitative Trading Interns are at the forefront of technology immersion as they learn best practices in software development and focus on projects related to trading logic development, electronic trading strategies, and quantitative research. If you love technology and financial markets, then this position might be for you.  </p>\n\n\n<p>Don’t know a lot about trading? No sweat. Learn as much as you can in the meantime (check out our Recommended Reading webpage for some resources to get you started) but know our Belvedere Trading University (BTU) program will teach you everything you need to know once you join the team. </p>\n\n\n<h3>What our Quantitative Trading Interns do</h3>\n\n<ul>\n<li>\n<p>Daily trading activities – Assist with analyzing daily trades and recapping significant trends  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Rotations – Rotate between product groups to gain a broad understanding and knowledge of the market and Belvedere’s trading strategies  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Desk strategy – Engage in daily collaborative strategy adjustments with your team to adapt to market dynamics  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Research – Participate in quantitative research and the application of quantitative strategies while learning concepts behind our core market making operations  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Data Analysis – Analyze extensive datasets to extract insights that bolster our trading strategies  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Training – Benefit from our industry-leading BTU program, complemented by ongoing practical training within our trading operations, covering a spectrum from foundational knowledge to advanced proprietary concepts. </p>\n</li>\n\n</ul>\n\n<h3>Key qualities in great candidates </h3>\n<ul>\n<li>\n<p>Communication – We need people who can speak confidently and concisely, especially when the stakes are high </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Analytical – We’re looking for quantitative thinkers and master problem-solvers with strong data analysis skills </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Team Player – Trading and development are not isolated activities at Belvedere, so great candidates will have demonstrated success in working in team-based environments </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Curious – We'll teach you everything you need to know, but we love working with people who ask questions and are eager to get involved  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Core development skills – You will need some training or a demonstrated ability to learn programming languages such as C++, C#, and Python </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>AI Fluency – Effectively use AI tools to improve efficiency and effectiveness while maintaining independent judgement</p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Knowledge of the financial markets and trading industry is a plus but not a prerequisite  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Regular attendance is an essential function of this position  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Ability to live in Chicago and attend the internship fully in person during the winter quarter of 2027 (January - March) </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Graduation date of December 2027/Spring 2028</p>\n</li>\n\n</ul>\n<strong>Note for Applicants: Our program will run through January 4</strong><strong>th</strong><strong>- March 12</strong><strong>th</strong><strong>. This offer is exclusively for the Winter Internship program and cannot be transferred or deferred to any Summer Internship opportunity Belvedere Trading may have.</strong><br /><strong>Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.</strong>\n<strong>We encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. </strong>\n<strong>We welcome your application.</strong>\n \n<strong>Core Values </strong>\nThe secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day.\n \n<strong>Compliance</strong>\nFor our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications.\n \n<strong>Our Stance </strong>\nBelvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. \n \nPlease note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. \n \n<strong>Work Schedule: </strong>Regular and reliable attendance during business hours with the ability to be on-site prior to the start of business on occasion \n<strong>Physical: </strong>Ability to remain at a desk and concentrate for long periods of time\n<strong>Amount of Travel Required: </strong>None \n<strong>Sponsorship: </strong>Yes",
+    "content_hash": "2598ec526fdab36e597c297f8f4a075e"
+  },
+  "4998f584d083": {
+    "id": "4998f584d083",
+    "title": "Product Manager Intern",
+    "title_raw": "Product Manager Intern",
+    "company": {
+      "slug": "rundoo",
+      "name": "Rundoo",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Redwood City",
+      "city": "Redwood City",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rundoo",
+      "external_id": "b7d71a5a-4a88-4e97-a6db-e0446eefb389"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T23:58:03.401Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.429Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 2461,
+      "max": 2461,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rundoo ℹ️</h3><p>Our mission is to empower independent supply stores with best-in-class technology. Think of your local hardware store or mom-and-pop nursery—these are our clients. From paint to lumber to flooring, over 200,000 such stores across the country sell over $1T of building materials annually using outdated, on-premises systems. We’re aiming to help them modernize so that they can continue to thrive.</p><p>Backed by leading investors including Battery, Bessemer and CRV, we've raised $48M across four rounds and are growing quickly: We're live in over 500 stores across the USA, Canada, and the Caribbean, and integrated with over 20 industry partners. Our team is made up of builders, sellers, and industry veterans with a shared goal: to bring modern technology to an overlooked industry.</p><h3><strong>What you'll do as a Product Manager Intern at Rundoo 🗒️</strong></h3><p>We're hiring for the <strong>Summer 2027 term</strong>. This isn't shadowing or busywork: you'll help scope which new industries Rundoo enters next. </p><ul><li><p><strong>Market Research:</strong> Help define and size the ICP for a new vertical (lumber, flooring, plumbing, auto, and more).</p></li><li><p><strong>Field Research:</strong> Talk to store owners and operators directly - in person where possible - to understand what actually matters to them.</p></li><li><p><strong>Roadmap Support:</strong> Translate messy field research into a clear, sequenced set of feature ideas, working directly with our engineering team.</p></li><li><p><strong>GTM Research:</strong> Help identify the channels, partners, and events that matter for reaching a new industry.</p></li><li><p><strong>Pilot Outreach:</strong> Support cold outreach to prospective pilot customers in your assigned vertical.</p></li><li><p><strong>Cross-functional Collaboration:</strong> Work closely with our CEO, engineering, and GTM teams to keep research grounded in what's buildable and sellable.</p></li></ul><p></p><h3><strong>Requirements ☑️</strong></h3><ul><li><p><strong>Communicative:</strong> You can synthesize messy field research into something clear and defensible.</p></li><li><p><strong>Resilient:</strong> You're comfortable with rejection — a lot of prospects will say no.</p></li><li><p><strong>Curious:</strong> You're genuinely interested in overlooked, traditional industries.</p></li><li><p><strong>Collaborative:</strong> You work well across functions, especially with engineering and product.</p></li></ul><p></p><h3>Interview Process 🎤</h3><ul><li><p><strong>Intro Call (20 min)</strong> <strong>– Remote: </strong></p><ul><li><p>Meet Amanda, our founding recruiter, to learn more about each other</p></li></ul></li><li><p><strong>Case &amp; Culture Round (20 min) - Remote:</strong></p><ul><li><p>An overview of the take home with Nick, our CEO</p></li></ul></li><li><p><strong>Take Home (1 week)</strong></p></li><li><p><strong>Final Call (15 min) - Remote: </strong></p><ul><li><p>Conversation with Nick</p></li></ul></li></ul> <h3>About the team 👥</h3><p>This is a brand-new role at Rundoo, so you'll be one of our first product hires. Your closest collaborators:</p><ul><li><p><strong>Nick</strong><strong> </strong>(CEO): studied math &amp; computer science at Stanford; worked as a trader at Bridgewater &amp; Citadel and as a PM at Google &amp; Enigma; sets the industry priorities and the product bar 🍫</p></li><li><p><strong>Andrew</strong><strong> </strong>(CTO): studied computer science &amp; humanities at Stanford, worked as a software engineer at Apple and head of engineering at Anova; danced with the SF ballet (where he met his wife)! 🩰; you'll plan roadmaps with him and his team!</p></li><li><p><strong>Your peer full-time PMs</strong></p></li><li><p><strong>Your peer PM interns</strong></p></li><li><p><strong>The GTM team</strong>: assuming you launch successfully, you’ll work with Matt and Vidhan to start selling into this new industry.</p></li></ul><p></p><h3><strong>Transportation and Housing</strong> 🏠</h3><p>Our office is about an 8-minute walk from Caltrain, with plenty of housing nearby - and Rundoo will cover the flight from Canada to the U.S.</p><p></p><h3>Compensation 💵</h3><p>We compensate our Dooers in the top 75th percentile benchmarked against similar sized companies.</p><p><strong>Salary: $2,461/week USD</strong> (yes, we pay weekly) - annual equivalent is $122,000 USD</p><p></p><h3>Benefits 🏋️</h3><ul><li><p>Full medical, dental, and vision coverage (100% of premiums for you, 50% for dependents)</p></li><li><p>Life Insurance</p></li><li><p>401k with Betterment</p></li><li><p>Unlimited PTO with 10 company paid holidays</p></li><li><p>In-office gym</p></li><li><p>Daily team lunches</p></li><li><p>Learning materials and audiobook subscriptions</p><p></p></li></ul><h3>About our founders 🌲</h3><ol><li><p>Andrew (CTO): studied computer science &amp; humanities at Stanford, worked as a software engineer at Apple and head of engineering at Anova; danced with the SF ballet (where he met his wife)! 🩰</p></li><li><p>Nick (CEO): studied math &amp; computer science at Stanford; worked as a trader at Bridgewater &amp; Citadel and as a PM at Google &amp; Enigma; distantly related to the founder of the Hershey company 🍫</p></li></ol><h3>How we've fundraised 💰</h3><p>We've raised $48m across four rounds:</p><ol><li><p>A $2m pre-seed led by Kent Bennett at Bessemer with participation from Plug &amp; Play, Quiet Capital, and Sequoia.</p></li><li><p>A $5m seed led by Caitlin Bolnick Rellas at CRV.</p></li><li><p>An $11m series A led again by Bessemer and CRV.</p></li><li><p>A $30m series B led by Battery.</p></li></ol>",
+    "content_hash": "b84309c210b7e5a647532bedc2f384bc"
+  }
+}

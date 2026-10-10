@@ -1,0 +1,49 @@
+{
+  "dd41beb39976": {
+    "id": "dd41beb39976",
+    "title": "Electrical Engineering Internship (Summer 2027)",
+    "title_raw": "Electrical Engineering Internship (Summer 2027)",
+    "company": {
+      "slug": "amca",
+      "name": "AMCA",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amca",
+      "external_id": "4396690009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4396690009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-04T21:15:05.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:59.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<p>There was a time when all of America believed that the future of the physical world could be radically different. The engineers of the mid-1900s put a man on the moon in eight years, designed and built planes and submarines from scratch in under three, and conceived of building things we wouldn’t even be able to dream up today.</p>\n<p>Today, the last of the engineers who imagined and built these systems are retiring. As they go, we lose not only the engineering knowledge gained from their decades of imagination and trial-and-error, but also the spirit that made that imagination possible.</p>\n<p>Amca is working day-in and day-out to restore America’s ability to engineer anything that our critical systems depend on, and reinvigorate the cycle of creation that allows imagination to shape physical reality. We rapidly develop and manufacture new critical components and subsystems required to build and sustain the planes, military vehicles, and core infrastructure America needs. By restoring the capability of our antiquated supply chains, we increase the country’s capacity to imagine and realize new systems, and make a physical world that looks very different from today.</p><h3><strong>Overview</strong></h3>\n<p>The Electrical Design Engineering Intern works alongside our electrical team to take aerospace hardware from concept toward flight qualification. You will own a scoped electrical design project for the summer, with a dedicated mentor and direct access to the build and test engineers who will bring your work to life.</p>\n<p>This is not a shadowing program. Interns at Amca design, build, and debug real hardware. You should expect your schematics and boards to be reviewed with the same rigor as a full-time engineer's, and to have something on the bench before you leave.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Design electronics from concept to functional prototype, including hardware selection, PCB design, and system-level integration</li>\n<li>Contribute to the design and prototyping of new electrical hardware</li>\n<ul>\n<li>Support electrical design for flight hardware, including schematic capture, electrical analysis, component selection, and PCBA layout</li>\n<li>Build up early hardware, then iterate quickly based on results</li>\n<li>Run bench testing and basic functional and development tests on the hardware you build</li>\n<li>Debug failures down to root cause and carry the fix back into the design</li>\n</ul>\n<li>Troubleshoot issues that span the system, using lab equipment such as oscilloscopes and digital multimeters</li>\n<li>Select components with attention to de-rating, tolerance, and availability, and defend those choices in design review</li>\n<li>Work closely with other electrical, mechanical, software,, and test engineers to deliver fully functional products</li>\n<li>Work with test engineering to help define and execute functional and environmental and EMI test plans</li>\n<li>Incorporate manufacturability and testability feedback from build engineers into your systems</li>\n<li>Help evaluate existing Amca designs for opportunities to improve reliability and reduce cost</li>\n<li>Work in a fast-paced environment supporting new developments, active deployments, and customer-operated hardware</li>\n<li>Concurrently manage involvement in multiple projects at various stages</li>\n<li>Present your project and results to the engineering team at the end of the internship</li>\n</ul>\n<h3><strong>Basic Qualifications</strong></h3>\n<ul>\n<li>Currently enrolled in a Bachelor's, Master's, or PhD program in electrical engineering, computer engineering, engineering physics, or a related field</li>\n<li>Returning to school in Fall 2027, or graduating in Spring 2027 and interested in a full-time role. Must be returning to school at the end of the internship to continue academic studies for at least one quarter or semester</li>\n<li>Ability to commit to a full-time, in-person 10-week internship in one of our offices in Summer 2027</li>\n<li>Completed coursework in circuits, electronics, or signals, and a working understanding of first principles across power, filtering, and logic</li>\n<li>Hands-on electrical design experience through coursework, a student project team, personal projects, or a prior internship</li>\n<li>Familiarity with test equipment such as oscilloscopes, multimeters, logic analyzers, debuggers, and current probes, and test automation</li>\n</ul>\n<h3><strong>Preferred Skills and Experience</strong></h3>\n<ul>\n<li>Experience with Altium Designer or equivalent electronic design automation tools</li>\n<li>Experience with circuit simulation, component selection, and de-rating</li>\n<li>Experience on a student project team building electronics for physical hardware, such as rocketry, Formula SAE, CubeSat, or robotics</li>\n<li>Familiarity with DO-160, MIL-STD-810 or other qualification and certification frameworks</li>\n<li>Exceptionally curious and a fast learner, able to contribute across diverse part categories and manufacturing processes</li>\n<li>Demonstrated ability to use engineering first principles to challenge and simplify requirements</li>\n<li>Hands-on and practical, comfortable building, testing, and troubleshooting in real-world environments</li>\n<li>Thrives with ownership and takes initiative without waiting to be directed</li>\n</ul>\n<h3><strong>Additional Requirements</strong></h3>\n<ul>\n<li>This internship is on-site in El Segundo, California.</li>\n<li>Occasional travel to vendors or other Amca sites may be required</li>\n</ul>Hourly Pay Range$30—$50 USD<p><em>This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a US person as: any individual who is granted U.S. citizenship; or. any individual who is granted U.S. permanent residence (\"Green Card\" holder); or. any individual who is granted status as a \"protected person\" under 8 U.S.C 1324b(a)(3).</em></p>\n<p><em>The Advanced Manufacturing Company of America prohibits discrimination or harassment based on the following categories: race, color, religion, religious creed (including religious dress and grooming practices), national origin, ancestry, citizenship, physical or mental disability, medical condition (including cancer and genetic characteristics), genetic information, marital status, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender, gender identity, gender expression, age (40 years and over), sexual orientation, veteran and/or military status, protected medical leaves (requesting or approved for leave under the Family and Medical Leave Act or the California Family Rights Act), domestic violence victim status, political affiliation, and any other status protected by state or federal law.</em></p>",
+    "content_hash": "f36ee8b7c63a1ae15e7f7dea82d4831c"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "d8527570744a": {
+    "id": "d8527570744a",
+    "title": "2027 Systems Engineering Summer Internship",
+    "title_raw": "2027 Systems Engineering Summer Internship",
+    "company": {
+      "slug": "advanced-space",
+      "name": "Advanced Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Westminster, CO",
+      "city": "Westminster",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "advancedspace",
+      "external_id": "4376394009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4376394009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T20:45:13.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:34.737Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 26,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Advanced Space | 2027 Summer Internship | Onsite </p>\n<p><strong>We’re going to the Moon. Think you’ve got what it takes? </strong></p>\n<p></p>\n<p><strong>About the Role</strong> </p>\n<p>At Advanced Space, we're enabling humanity's return to the Moon and building the technologies that will take us to Mars and beyond. We're looking for a <strong>2027 Systems Engineering Summer Intern</strong> to join our Systems Engineering team and gain hands-on experience supporting the development and execution of complex space missions.</p>\n<p>As a Systems Engineering Intern, you'll work alongside experienced technical staff who will provide mentorship and guidance throughout your internship. You'll contribute to projects involving system requirements, mission and system architecture, interface definition, engineering trade studies, system-level analysis, and integration, verification, and validation activities.</p>\n<p>This internship is ideal for students interested in systems engineering, spacecraft and mission development, engineering analysis, system architecture, and multidisciplinary technical problem-solving. You'll have the opportunity to apply your classroom knowledge while gaining experience supporting real-world space missions.</p>\n<p></p>\n<p><strong>About Advanced Space</strong> </p>\n<p>Advanced Space exists to enable the sustainable exploration, development, and settlement of space through innovative software, mission services, and technology solutions. As the owner and operator of NASA's CAPSTONE™ mission and the Prime Contractor for AFRL's Oracle mission, we're helping shape the future of cislunar exploration while supporting commercial, civil, and national security customers. </p>\n<p>Our team combines deep technical expertise with an entrepreneurial mindset. We move quickly, collaborate across disciplines, and empower every engineer to make meaningful contributions. If you're passionate about solving challenging problems and seeing your work fly in space, you'll fit right in. </p>\n<p></p>\n<p><strong>What You'll Actually Do</strong> </p>\n<p><strong>Support systems engineering initiatives.</strong></p>\n<p>Work alongside technical staff on summer projects focused on spacecraft and mission systems development, system architecture, requirements, analysis, and integration.</p>\n<p><strong>Gain hands-on experience with systems engineering practices.</strong></p>\n<p>Support projects involving:</p>\n<ul>\n<li>Developing and managing system requirements</li>\n<li>Supporting mission and system architecture studies</li>\n<li>Assisting with interface definition and coordination across subsystems</li>\n<li>Performing engineering trade studies and system-level analyses</li>\n<li>Supporting integration, verification, and validation activities</li>\n<li>Contributing to systems engineering processes throughout the mission lifecycle</li>\n<li>Preparing technical documentation and materials for reviews and presentations</li>\n</ul>\n<p><strong>Apply engineering concepts to real space missions.</strong></p>\n<p>Gain exposure to:</p>\n<ul>\n<li>Systems engineering and system decomposition</li>\n<li>Requirements development and management</li>\n<li>Spacecraft and mission system architecture</li>\n<li>Interface definition and control</li>\n<li>Engineering trade studies</li>\n<li>Modeling and simulation</li>\n<li>Integration, verification, and validation</li>\n<li>Technical reviews and systems documentation</li>\n</ul>\n<p><strong>Share your work and findings.</strong></p>\n<p>Present project results through technical reports, presentations, documentation, and discussions with members of the Systems Engineering team.</p>\n<p></p>\n<p><strong>Who Thrives Here</strong> </p>\n<ul>\n<li>You are currently pursuing a degree in <strong>Systems Engineering, Aerospace Engineering, Mechanical Engineering, Electrical Engineering, Computer Engineering, Computer Science, or another related technical discipline</strong>.</li>\n<li>You have a foundational understanding of <strong>systems engineering concepts</strong>, including requirements, interfaces, system decomposition, and system lifecycle processes.</li>\n<li>You have familiarity with <strong>spacecraft and/or mission systems</strong> through coursework, laboratory work, research, or project experience.</li>\n<li>You have completed coursework relevant to <strong>engineering design, flight dynamics, control systems, mechanics, electronics, embedded systems, software engineering, programming, modeling and simulation, orbital mechanics, systems engineering, or senior design/capstone projects</strong>.</li>\n<li>You are interested in applying classroom concepts to <strong>real-world space mission development and operations</strong>.</li>\n<li>You have strong problem-solving skills and attention to detail.</li>\n<li>You have strong written and verbal communication skills.</li>\n<li>You work effectively in a collaborative, multidisciplinary environment.</li>\n<li>You are curious, collaborative, and excited to learn from experienced aerospace engineers.</li>\n</ul>\n<p></p>\n<p><strong>Bonus Points if You Have Experience With</strong></p>\n<ul>\n<li>Requirements management tools or processes</li>\n<li>Systems architecture development</li>\n<li>Interface definition and control</li>\n<li>Engineering trade studies</li>\n<li>Modeling and simulation</li>\n<li>Integration, verification, and validation</li>\n<li>Spacecraft or mission systems</li>\n<li>Embedded systems or flight software</li>\n<li>Control systems or flight dynamics</li>\n<li>Orbital mechanics and astrodynamics</li>\n<li>Technical reviews and systems documentation</li>\n<li>Python, MATLAB, or other engineering analysis tools</li>\n<li>Previous aerospace research, internship, or senior design/capstone experience</li>\n</ul>\n<p></p>\n<p><strong>Success is Measured By</strong> </p>\n<ul>\n<li>Successfully contributing to meaningful systems engineering and space mission projects.</li>\n<li>Applying engineering knowledge to support real-world spacecraft and mission development.</li>\n<li>Developing technical skills through mentorship and hands-on experience.</li>\n<li>Supporting effective requirements, architecture, analysis, and integration activities.</li>\n<li>Communicating technical findings clearly through presentations and documentation.</li>\n<li>Building a stronger foundation for a future career in systems engineering and space mission development.</li>\n</ul>\n<p></p>\n<p> <strong>Why Join Advanced Space</strong> </p>\n<ul>\n<li>Gain hands-on experience supporting real missions to the Moon and beyond.</li>\n<li>Work alongside engineers solving some of the most challenging problems in space exploration.</li>\n<li>Apply classroom knowledge to real aerospace projects.</li>\n<li>Receive mentorship and guidance from experienced technical staff.</li>\n<li>Be part of a team that's passionate about delivering innovation to orbit—and beyond.</li>\n</ul>\n<p></p>\n<p><strong>Compensation &amp; Benefits</strong> </p>\n<ul>\n<li>Competitive internship compensation: <strong>$26–$35/hour</strong></li>\n<li>Housing stipend</li>\n<li>Mentorship and guidance from technical staff</li>\n<li>Opportunities to contribute to research projects directly tied to active space missions</li>\n<li>Collaborative work environment at our Westminster, Colorado headquarters</li>\n</ul>\n<p></p>\n<p><strong>Eligibility Requirements</strong></p>\n<ul>\n<li>Applicants must be a U.S. person (U.S. citizen, permanent resident/green card holder, or protected individual).</li>\n<li>Must be able to work in-person at our Westminster, CO office.</li>\n<li>Applications will be evaluated and interviewed on a rolling basis. Final deadline: <strong>Monday, November 2, 2026 at 11:59 pm MT.</strong></li>\n</ul>\n<p></p>\n<p><strong>Advanced Space is an Equal Opportunity Employer.</strong> We celebrate diversity and are committed to creating an inclusive workplace for all employees. Employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. </p>",
+    "content_hash": "4bae0f4daa689dae5411845bd41d0003"
+  }
+}

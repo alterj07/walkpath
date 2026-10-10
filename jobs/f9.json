@@ -1,0 +1,129 @@
+{
+  "f95de08253c2": {
+    "id": "f95de08253c2",
+    "title": "Chip Simulation Software Intern",
+    "title_raw": "Chip Simulation Software Intern",
+    "company": {
+      "slug": "etched",
+      "name": "Etched",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "etched",
+      "external_id": "27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-19T22:27:54.640Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.146Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Etched</strong></p><p>Etched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on <strong>inference</strong>. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.</p><p></p><p><strong>The roles</strong></p><p>Our chip simulation and tooling role will co-design, develop, and test simulations of our custom hardware and tools that engineers use to analyze those systems. You will be working at the cutting edge of hardware innovation, closely coordinating with both software and hardware teams across their whole development path. We are looking for <strong>Fall '26, Spring '27, and Summer '27 </strong>interns.</p><p></p><p><strong>You may be a good fit if you have</strong></p><ul><li><p>Progress towards a Bachelor’s, Master’s, or PhD degree in Computer Science, Engineering, or a related technical field.</p></li><li><p>Proficiency in C/C++ or Rust</p></li><li><p>Strong fundamentals in data structures and algorithms</p></li><li><p>Strong understanding of low-level software engineering</p></li><li><p>Strong understanding of hardware/software co-design</p></li><li><p>Excellent communication and collaboration skills</p></li></ul><p></p><p><strong>Strong candidates may also have (Nice to have qualifications)</strong></p><ul><li><p>Experience with Linux internals, kernel development, or driver debugging</p></li><li><p>Experience with hardware diagnostics or interpreting hardware logs</p></li><li><p>Exposure to server virtualization or CI/CD pipelines</p></li><li><p>Experience with Rust or embedded development</p></li></ul><p>We encourage you to apply even if you do not believe you meet every qualification.</p><p></p><p><strong>Program details</strong></p><ul><li><p>12-week paid internship</p></li><li><p>Generous housing support for those relocating</p></li><li><p>Daily lunch and dinner in our office</p></li><li><p>Based at our office in San Jose, CA</p></li><li><p>Direct mentorship from industry leaders and world-class engineers</p></li><li><p>Opportunity to work on one of the most important problems of our time</p></li></ul><p><br />For any questions, contact internships@etched.com</p><p></p><p><strong>How we’re different</strong></p><p>Etched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.</p> <p>We are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.</p>",
+    "content_hash": "9f4c7901b4c8dbdebf8a9b10be11655c"
+  },
+  "f9a558138c0f": {
+    "id": "f9a558138c0f",
+    "title": "Product Engineer Intern",
+    "title_raw": "Product Engineer Intern",
+    "company": {
+      "slug": "govsignals",
+      "name": "GovSignals",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "govsignals",
+      "external_id": "e894290c-3263-424e-b7a4-8dcc32ca8ca9"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T19:44:34.867Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.091Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>GovSignals is next-gen acquisition for the Department of War.</strong></h3> <p>It can take the government longer to buy a capability than an adversary takes to field one, and we exist to close that gap.</p> <p>We're the only startup managing government contract data with AI in both FedRAMP High and DoW Impact Level 5 environments. Our platform monitors 5,000+ live government data sources, 100,000+ federal and state agencies, and 2,000,000+ government contracts in real time. Our customers in government include offices like DIU and SOCOM, and our customers in industry range from small contractors to Fortune 500 primes with billions in annual awards.</p><p></p><h3><strong>Product Engineer Intern</strong></h3><p>Remote • Paid 6-Week Internship • Expected Start: November 1, 2026</p><p></p><h3></h3><h3><strong>ABOUT THE ROLE</strong></h3><p>GovSignals is looking for third- and fourth-year undergraduate students and recent graduates to help expand the public data sources that power our platform. This role combines software development, web research, and hands-on ownership of data quality.</p><p></p><h3><strong>WHAT YOU’LL DO</strong></h3><ul><li><p>Build and maintain data scrapers and ingestion pipelines for government data sources across the United States</p></li><li><p>Use internal tooling and AI agents to research sources, develop extraction approaches, and accelerate implementation</p></li><li><p>Validate data for accuracy, completeness, consistency, and reliability before it reaches the platform</p></li><li><p>Monitor existing sources, investigate failures or source changes, and improve scraper resilience</p></li><li><p>Document source behavior, extraction logic, and data-quality checks so systems are maintainable</p></li><li><p>Support other technical and operational work across the company as needed</p></li></ul><p></p><h3><strong>SKILLS &amp; EXPERIENCE</strong></h3><ul><li><p>Experience with TypeScript; Python is also valuable for data collection and analysis</p></li><li><p>Familiarity with web scraping or browser automation using tools such as BeautifulSoup, Playwright, or Selenium</p></li><li><p>Comfortable working with HTML, APIs, structured and unstructured data, and common formats such as JSON and CSV</p></li><li><p>Strong attention to detail and an ownership mindset for data quality</p></li><li><p>Familiarity with Git, debugging, and writing clear technical documentation</p></li><li><p>Interest in using AI agents effectively while validating their output carefully</p></li><li><p>Curiosity about public-sector data and the persistence to work through inconsistent websites and source formats</p></li></ul><p><strong>You don't need to check every box.</strong> We're looking for someone who is technically curious, learns quickly, and enjoys figuring out how things work. Experience with web scraping is helpful, but strong software fundamentals and a willingness to dig into unfamiliar systems are equally valuable.</p><p></p><h3><strong>WHAT YOU’LL LEARN</strong></h3><p>You’ll see how a high-velocity startup builds trustworthy data products: defining reliable processes, anticipating downstream effects, and making careful tradeoffs that protect data quality.</p>",
+    "content_hash": "fdbee8d4de64d56c3181b5ac78c6a037"
+  },
+  "f9e8ed1ee036": {
+    "id": "f9e8ed1ee036",
+    "title": "Platform Engineer Intern, Summer 2027",
+    "title_raw": "Platform Engineer Intern, Summer 2027",
+    "company": {
+      "slug": "akuna-capital",
+      "name": "Akuna Capital",
+      "domain": "akunacapital.com"
+    },
+    "location": {
+      "raw": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "akunacapital",
+      "external_id": "8018856"
+    },
+    "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-13T18:21:52.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:45.419Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 145000,
+      "max": 145000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><strong>About Akuna:</strong> </p>\n<p>Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market maker, meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies, and mathematical models.  </p>\n<p>Our Founding Partners<em> </em>first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. </p>\n<p><strong>What you’ll do as a Platform Engineer Intern at Akuna:</strong>  </p>\n<p>We are seeking Platform Engineer Interns to join our innovative and growing technology team for our 10-week Akunacademy internship program. You will work within the Platform Engineering Team, gaining expertise through building highly automated operations while monitoring and managing the operational capabilities of systems at Akuna. Each intern takes full ownership of their project, and at the end of the program, has the opportunity to present their work and accomplishments. In this role, you will:  </p>\n<ul>\n<li>Support and design the ongoing growth, design, and expansion of our Platform offerings to meet the needs of our internal stakeholders with scalable, reliable, and highly available systems </li>\n</ul>\n<ul>\n<li>Work with our steam aligned and partner platform teams to develop our hybrid cloud platform </li>\n</ul>\n<ul>\n<li>Produce clean, well-tested, and documented code with a clear design to support production infrastructure and systems  </li>\n</ul>\n<ul>\n<li>Challenge the status quo and help push our organization forward, as we grow beyond the limits of our current tech stack  </li>\n</ul>\n<p> <strong>Requirements for this role:</strong> </p>\n<ul>\n<li>Pursuing a bachelor’s, master’s, or Ph.D. in a technical field (computer science/engineering, math, physics, or equivalent) </li>\n</ul>\n<ul>\n<li>Graduating by August 2028</li>\n</ul>\n<ul>\n<li>Major GPA of 3.5 or above </li>\n</ul>\n<ul>\n<li>Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM </li>\n</ul>\n<p>Previous experience in finance or trading is <strong>not</strong> required. Many of our engineers joined Akuna with little-to-no prior knowledge of the markets, and we pride ourselves on our ability to onboard those new to the industry. Training and continuous education are provided for all engineers to ensure they can build the requisite technical and non-technical skillset for success. </p>\n<p> <strong>Qualities that make great candidates:</strong>  </p>\n<ul>\n<li>Experience with Infrastructure as Code (IaC), Kubernetes, and AWS Cloud  </li>\n</ul>\n<ul>\n<li>Experience with cloud computing, networking, data engineering and security </li>\n</ul>\n<ul>\n<li>Ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems, is an essential function of the role </li>\n</ul>\n<p> In addition to the above technical skills, Akuna values diversity of experience and perspective. We believe that engineers with varied backgrounds and interests allow us to approach problems from unique angles and to uncover innovative, optimal solutions. We want everyone to feel empowered to apply; we welcome your application, and we strongly encourage you to take the first steps in joining us in the future! </p>\n<p><strong>**Resumes must be submitted in PDF format.</strong> </p>\n<p>By applying to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. </p>\n<p>We are an AI-friendly company and encourage employees to leverage AI in their daily work. However, AI assistance is not permitted during interviews or assessments. Our interview process is designed to evaluate your individual skills and judgment, <strong>and the use of AI tools will result in disqualification from the hiring process.</strong></p>\n<p><em>In accordance with the Illinois Equal Pay Act, the minimum annualized base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.</em> </p>",
+    "content_hash": "5e312748e1e482064858b0c8a848e566"
+  }
+}

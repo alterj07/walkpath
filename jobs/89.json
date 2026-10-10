@@ -1,0 +1,47 @@
+{
+  "893c91577ec9": {
+    "id": "893c91577ec9",
+    "title": "Software Engineer Intern, Dealer",
+    "title_raw": "Software Engineer Intern, Dealer",
+    "company": {
+      "slug": "talos",
+      "name": "Talos",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "talos-trading",
+      "external_id": "91fd5274-3b6b-43cf-b366-9f6dc2ae5977"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T16:25:15.171Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.370Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 50,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Institutional Fabric for the Digital Asset Market</h3><p>Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem.  </p><p>Our mission at Talos is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle.</p><p>At Talos, you'll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe that every member of our team adds invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust and integrity, collaboration, and mutual growth. Together, we are ambitiously building something extraordinary. Your unique talents and insights will play a crucial role in our shared success.</p><p>We are a tight-knit but decentralized team of highly-experienced engineers and businesspeople. We have a hybrid-friendly work environment, with physical hubs in New York, London, Singapore, Sweden and Cyprus.</p><p></p><h3><strong>Software Engineer Intern, Dealer</strong></h3><p>Talos is seeking a Software Engineering Intern to join our Dealer team for the Summer 2027. This intern will work on a critical project related to our high-performance trading systems, contributing to tools that support trading decision-making and performance evaluation. Success in this role will involve designing and building components that enhance our algorithmic capabilities while adding new features to existing infrastructure.</p><p>This is a 12-week internship running from June 1, 2027  to August 27, 2027</p><p><strong>About Dealer:</strong> The Dealer platform provides trading, liquidity management, risk controls, and post-trade infrastructure that enables broker-dealers to service institutional clients across multiple venues. This includes order routing, market data aggregation, credit and risk management, position management, and settlement workflows.</p><p>Want to learn more about Talos’s engineering culture? Check out Sonic, our first open-source project which allows Talos to achieve microsecond network stack latency in Go: https://github.com/talostrading/sonic</p><p></p><h3>Responsibilities </h3><ul><li><p>Collaborate with the Trading team to define project scope, requirements, and milestones</p></li><li><p>Prepare design documentation and actively participate in architectural discussions with team members</p></li><li><p>Build features in Go to enhance Talos's Order Management System (OMS), which is responsible for making all trading related decisions for orders submitted into Talos to ensure best execution</p></li><li><p>Add analytics and metrics to measure impact of your changes while incorporating feedback and iterating based on team input</p></li><li><p>Demonstrate project progress through regular demos</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p>Class of 2028 pursuing a degree in Computer Science or related field</p></li><li><p>Proficiency in at least one compiled language (e.g., Go, C++, Java)</p></li><li><p>At least one previous internship involving working on backend systems in a production environment, preferably in a user-facing context</p></li><li><p>Knowledge of relational databases (e.g Postgres)</p></li><li><p>Past experience with trading systems is a plus</p></li><li><p>Detail-oriented, self driven, analytical, and enthusiastic about working on impactful projects</p></li><li><p>Strong communication skills, with an ability to convey technical concepts clearly</p></li><li><p>Ability to work autonomously as well as a part of a collaborative team environment</p></li><li><p>Energetic, creative, and a self-starter who can manage tasks autonomously</p></li><li><p>Local to NYC HQ</p></li></ul><p></p><h3><strong>Learn More About Talos</strong></h3><p>Check out these videos and links to learn more about Talos and our culture!</p><ul><li><p>Spotlight Article: Talos Snapshot by DRW</p></li><li><p>Podcast: 2023 episode with co-founders Anton &amp; Ethan</p></li><li><p>Website: Explore Talos: Products, Investors, Team &amp; More</p></li><li><p>Case Studies: Real world examples of client solutions</p></li><li><p>Awards: Talos Wins Hedgeweek Global Digital Assets Award 2024</p></li><li><p>Culture: Award-winning, Forbes-listed, low-attrition team</p></li></ul><p>Andreessen Horowitz re: Talos: \"The company best suited to drive institutional adoption is one that understands traditional capital markets deeply and is forward-thinking enough to fully grasp the promise of crypto. Talos is that company.\"</p><p></p><h3><strong>Benefits</strong></h3><p>You will also enjoy a comprehensive array of competitive benefits, regardless of your location, within our warm, welcoming, and ambitious company culture. Some of our benefits include:</p><ul><li><p>A lunch credit of $25 USD towards lunches for days in-office</p></li><li><p>Evening socials with the entire office and fellow interns</p></li><li><p>Other in-office perks: Catered lunches on Tuesdays, snacks, and drinks</p></li></ul><p></p><p>Also, check out other open positions listed on our website. Questions? Please contact earlycareers@talos.com.</p><p></p><p>© Talos Trading, careers@talos.com</p><p>Talos is proud to be an Equal Opportunity employer.  We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.  Talos is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process.  If you need any assistance or accommodations due to a disability, please let us know at careers@talos.com.<br /><br />To protect the interests of all parties, Talos Trading, LLC and its affiliates (“Talos”)<strong> strongly discourage submission of unsolicited resumes from any source other than directly from a candidate</strong>.</p><p>Talos will NOT pay fees, commissions or compensation of any kind (“Fees”) for any placement or hire resulting from the receipt of an unsolicited resume. Talos will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees and Talos reserves the right to contact, interview, and hire the candidate directly.</p><p>Agencies, search firms, recruitment firms and similar organizations (“Agencies”) must obtain advance written approval from Talos’s internal recruiting team to submit resumes, AND must sign a valid fully executed placement agreement with Talos in order to be eligible to receive any Fees from Talos. Talos will not pay a Fee to any Agency that does not have such agreement in place.  By submitting a resume without a signed agreement, you acknowledge and accept these terms.</p><p></p><p>© Talos Trading, careers@talos.com<br /><br />By submitting your application and pursuing job candidacy, you consent to the processing of your personal information in connection with our Applicant &amp; Employee Privacy Notice. </p>",
+    "content_hash": "07e696ac1baa9d54d04514953b0b0a72"
+  }
+}

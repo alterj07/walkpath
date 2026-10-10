@@ -1,0 +1,47 @@
+{
+  "7d7eae5d976b": {
+    "id": "7d7eae5d976b",
+    "title": "Electrical Engineering Intern",
+    "title_raw": "Electrical Engineering Intern",
+    "company": {
+      "slug": "layup-parts",
+      "name": "Layup Parts",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Huntington Beach, CA",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "layup",
+      "external_id": "0d8b26c2-f4f9-4dc1-b987-1e496fd616aa"
+    },
+    "apply_url": "https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-24T15:56:27.138Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:01:42.552Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 25,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Layup Parts, we're developing the technology that will build the future. </p>\n<p>We're a manufacturing technology company replacing months of lead time with days, using proprietary software, automation, and advanced manufacturing systems built for speed. Our customers are inventing what's next, in aerospace, defense, robotics, and beyond. To keep up with them, manufacturing has to change. That's what we're building. </p>\n<p>We design, machine, laminate, and build at industry-leading speeds.  Now we’re looking for a highly motivated Electrical Engineering Interns to join our team as members of our growing engineering division that is building out our automated factory. </p>\n<p>Rolling Applications Open Year-Round: Whether you're looking for a Fall, Winter, Spring, or Summer internship, we’re accepting applications on a rolling basis. Join us for the season that fits your schedule and make a real impact on our fast-moving team.  </p>\n<h3>Why You’ll Love This Internship: </h3>\nWork on factory machinery and industrial equipment. \nHelp design, retrofit and commission robots and other automated systems. \nLearn by doing in a startup environment that values your input.  \nCollaborate with production, manufacturing and engineering team members to solve tough problems.  \nBuild technology that’s changing how composites parts get made for aerospace and defense clients.  \n\n<h3>What you will do: </h3>\nHelp build out our automated factory. \nGet the chance to learn electrical systems engineer, control design and robotics. \nCollaborate with the software engineering team and mechanical design team. \n\n<h3>Required: </h3>\n<strong>Being awesome! Be the kind of person you want to work with!</strong>  \nBe a strong engineer of exceptional ability, driven by engineering fundamentals.  \nAbility to quickly understand and navigate complex systems.  \n\n<h3>Preferred: </h3>\nElectrical systems design experience. \nRobotic systems experience. \nExperience regarding manufacturing or part design (especially composites).  \nGood understanding of the mechanical and manufacturing world.  \n\n<strong>Equal Opportunity</strong> \nLayup is an equal-opportunity employer. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the CA Fair Chance Initiative for Hiring Ordinance. \n \n<strong>ITAR Requirements</strong> \nTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. \n \n#LI-KC",
+    "content_hash": "9234bfb1088db40acd9e3d3120120ae6"
+  }
+}

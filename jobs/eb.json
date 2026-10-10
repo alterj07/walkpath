@@ -1,0 +1,174 @@
+{
+  "eb4b7141d27b": {
+    "id": "eb4b7141d27b",
+    "title": "Robot Software Engineer Internship",
+    "title_raw": "Robot Software Engineer Internship",
+    "company": {
+      "slug": "rhoda-ai",
+      "name": "Rhoda AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mountain View",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rhoda-ai",
+      "external_id": "9a57c8ff-dd2b-4547-a46a-44658a699ba5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T02:13:38.748Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:21.094Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 40,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Rhoda AI, we’re building the next generation of generalist intelligent robots. We own the full robotics stack from high-performance hardware and robot systems to the infrastructure and state-of-the-art foundation world models that control our robots. Our robots are designed to be generalists capable of operating in complex, real-world environments and handling long-tail edge cases, made possible by our cutting edge research and end-to-end system design. We've raised over $450M and are investing aggressively in model research, infrastructure, hardware development, and manufacturing scale-up to make generalist robotics a reality.</p><h3>About the Role</h3><p>As a Robot Software Engineer Intern, you'll work on the software foundation that keeps our robots running. You'll own real projects on the software platform stack: ranging from on-robot software, networking and communication infrastructure, data collection pipelines, telemetry, teleoperation, inference infra, developer tooling etc., and see your impact run on physical robots by the end of your internship. You'll sit with the engineers who build our robots and ship code that the team depends on every day.</p><h3>What You'll Do</h3><ul><li><p>Contribute to the networking and communication infrastructure connecting onboard robot systems to each other, to the cloud, and to teleoperation and monitoring systems</p></li><li><p>Help build data collection pipelines that capture sensor, telemetry, and behavioral data from the robot and upload it reliably to cloud storage for model training</p></li><li><p>Work on telemetry and observability systems that give the team real-time visibility into robot health and field performance</p></li><li><p>Build internal tooling that accelerates robot software development: deployment pipelines, logging, debugging tools, and field testing utilities</p></li><li><p>Support bring-up and field testing on live hardware, debugging issues across the onboard software stack</p></li><li><p>Collaborate with ML, perception, and control engineers to keep onboard systems reliable and training data high quality</p></li><li><p>Automate internal workflows to improve execution efficiency of the Rhoda teams</p></li></ul><h3>What We're Looking For</h3><ul><li><p>Currently pursuing an undergraduate or graduate degree in Computer Science, Robotics, Electrical Engineering, or a related field — or a recent graduate</p></li><li><p>Solid computer science foundation: data structures, algorithms, operating systems, and networking</p></li><li><p>Genuine passion for working on robots — coursework, research, personal projects, competition teams, or internships all count</p></li><li><p>Strong programming skills in C++, Python, Golang, or Rust</p></li><li><p>Curiosity and comfort working with physical hardware in a fast-moving, ambiguous environment</p></li><li><p>Ability to debug across layers, from driver-level issues up to application behavior</p></li><li><p>Open to learn new things and grow from knowing nothing to an expert on arbitrary technical topics</p></li></ul><h3>Nice to Have (But Not Required)</h3><ul><li><p>Experience with bringing up &amp; manipulating robots</p></li><li><p>Familiarity with networking, IPC, or communication protocols (e.g. gRPC, DDS, QUIC, WebSockets)</p></li><li><p>Exposure to cloud storage and data pipelines (AWS, GCP, S3, GCS)</p></li><li><p>Experience with perception pipelines, control systems, or learned models running on real-time robot stacks</p></li><li><p>Prior work on prototype or pre-production hardware</p></li></ul><h3>Why This Role</h3><ul><li><p>Your work is the connective tissue of the robot — the networking, data, and tooling infrastructure that determines how fast the team can develop and improve our humanoids in the field</p></li><li><p>Work across the full onboard stack alongside perception, control, and ML engineers &amp; researchers on a platform pushing the frontier of humanoid robotics</p></li><li><p>Real ownership on a small team, with your code running on real robots — not a side project on the shelf</p></li></ul>",
+    "content_hash": "a3a9711c718da365ca21fe120c39de29"
+  },
+  "eb67b086da19": {
+    "id": "eb67b086da19",
+    "title": "Engineering Intern — Summer/Fall 2026",
+    "title_raw": "Engineering Intern — Summer/Fall 2026",
+    "company": {
+      "slug": "revise-robotics",
+      "name": "Revise Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "reviserobotics",
+      "external_id": "7b0426d4-cf8c-4fdf-98a8-5a0360706633"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-23T15:31:10.844Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.999Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 8000,
+      "max": 12000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Revise Robotics · Dumbo, Brooklyn · In-person · Paid</strong></p><p>We're automating laptop refurbishment end-to-end: a robot arm picks up a used laptop, opens it, turns it on, wipes it to NIST standards, diagnoses what's broken, fixes what it can, and prepares it for its next owner. </p><p><strong>What we're actually looking for</strong></p><p>Someone who has done something genuinely unusual and is good at it. </p><p>Some examples of what \"unusual\" might look like — not a checklist, just calibration:</p><ul><li><p>You've built a robot that does something weird and it actually works.</p></li><li><p>You've reverse-engineered firmware, written custom HID devices, or have opinions about USB-C alt modes.</p></li><li><p>You've trained a vision model on a dataset you collected yourself because nothing existed.</p></li><li><p>You've shipped a hardware project where the mechanical, electrical, and software all had to work together and you did all three.</p></li><li><p>You have deep knowledge of something adjacent we'd never think to ask about — dry ice cleaning, capacitive sensing, industrial machine vision, BIOS internals, low-FPS visual servoing, battery safety.</p></li><li><p>You've done something on your own time that a reasonable person would describe as \"weird\" or \"obsessive.\"</p></li></ul><p>If none of those describe you but you think you'd be particularly well-suited to work on our problem, please tell us why. We'd rather hire someone with one deep, weird strength than someone well-rounded.</p><p><strong>What you'll do here</strong></p><p>Work on whatever part of the pipeline your background makes you particularly formidable at. Recent intern-scale problems have included: vision under adversarial lighting, end-effector design for laptop manipulation, autonomous BIOS navigation, and reward shaping for cable insertion. We'll match the project to you, not the other way around.</p><p><strong>Logistics and compensation</strong></p><p>In-person at our Dumbo office. 10–12 weeks, flexible start. You'll work directly with Antonio (CTO) and Rupesh (CEO), alongside the core team.</p>",
+    "content_hash": "fc58c65bb77ce0a7fea33d9d9905de44"
+  },
+  "eb8439dba619": {
+    "id": "eb8439dba619",
+    "title": "Network Intern",
+    "title_raw": "Network Intern",
+    "company": {
+      "slug": "aeci",
+      "name": "Aeci",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Springfield, Missouri",
+      "city": "Springfield",
+      "state": "MO",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aeci/aeci",
+      "external_id": "REQ-1667"
+    },
+    "apply_url": "https://aeci.wd1.myworkdayjobs.com/AECI/job/Springfield-Missouri/Network-Intern_REQ-1667",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:48:41.933Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>At Associated Electric Cooperative, we're committed to providing reliable energy to the communities we serve with passion and precision. We're a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!</b></p><p></p><p><b>From technical to operational to professional disciplines, our team brings a wide variety of skills, talents, and expertise to the table. We believe in both dedicating ourselves to excellence and investing in your growth.</b></p><p></p><p>A Network internship position is available at our Headquarters facility in Springfield, Missouri. This is a paid internship that offers part-time employment in the fall and spring with the opportunity to continue on a full-time basis during the summer. Normal working days are Monday through Friday. Join our innovative team for the opportunity to gain invaluable hands-on experience in your field of study.</p><br /><p><b>What We’re Looking For: </b></p><ul><li>Students currently enrolled in two- or four-year degree program in a computer related field and be enrolled in school at the time of this internship. </li><li>Possess a basic understanding of network design and computer skills. </li><li>A proactive attitude and passion for continuous learning. </li><li>Strong collaboration skills and a willingness to contribute to the success of a team.</li></ul><br /><p><b>What You’ll Be Doing: </b></p><ul><li>Assist with the support of the Local Area and Wide Area computer networks.</li><li>Data cabling.</li><li>Network documentation.</li><li>Hardware related projects. </li></ul><br /><p><b>Why choose AECI?</b></p><ul><li><b>Growth Opportunities</b>: Mentorship, training, and real-world experience.</li><li><b>Culture:</b> Inclusive, innovative, and dynamic work environment. </li><li><b>Networking:</b> Connect with industry leaders and peers.</li></ul><br /><p><b>How to apply:</b></p><ul><li><b>Visit Our Careers Page: </b>Go to www.aeci.org/careers.</li><li><b>Create Your Profile:</b> Complete your profile on the career website.</li><li><b>Select the Network Intern Link</b></li><li><b>Upload Documents:</b> Upload your resume and your most recent transcript (an unofficial copy is sufficient).</li><li><b>Submit Your Application.</b></li></ul><p></p><p><b>At Associated Electric Cooperative, all of our 700+ employees across MO/AR/OK territory play a crucial role in powering our mission! Whether you're an experienced professional or just starting your career, you'll find endless opportunities for career development here. Join us in an environment where your contribution is valued, and your career can thrive as we work together to keep the lights on!</b></p><p></p><p><b>Ready to Energize your career? Visit our website at </b><b>www.aeci.org/careers</b><b> to learn more about Associated and apply for a position.  </b></p><p></p><p>Equal Opportunity Statement:</p><p></p><p>AECI is fully committed to the concept and practice of equal opportunity in all aspects of employment. Please reference the contact information below if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment. </p><p></p><p>An equal opportunity employer and provider/disability/veteran.</p>",
+    "content_hash": "8ba0134b7fa8bd2b3d158d13df75f914"
+  },
+  "ebf3e0af711f": {
+    "id": "ebf3e0af711f",
+    "title": "Research Scientist Intern",
+    "title_raw": "Research Scientist Intern",
+    "company": {
+      "slug": "pluralis-research",
+      "name": "Pluralis Research",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "remote",
+      "others": [
+        "Australia"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "pluralis-research",
+      "external_id": "c8f78978-a693-4863-bcc0-66af5c3fd0be"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-31T22:13:20.811Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Pluralis Research works on Protocol Learning: training and serving large models in a fully decentralized way on small consumer-grade devices connected via the internet. Despite being dismissed as infeasible, we have made significant advances on this problem, most recently Agora, a permissionless run that pretrained an 8B model from scratch on consumer GPUs spread over the internet, with no single participant ever holding the full weights (tech report). While many of the core research problems have been solved, Protocol Learning unlocks a series of new challenges. For the mission in full, read A Third Path: Protocol Learning.</p><p>This setting breaks nearly every assumption of datacenter training and inference: communication-efficient training across different parallelism axes, fault tolerance as nodes join and drop mid-run, heterogeneous compute and networks, and robustness to malicious participants. Our published methods include Subspace Networks, Factored Gossip DiLoCo, AsyncMesh, and Sentinel.</p><p>As a Research Scientist Intern you join us for a 6-month, fixed-term research internship during your PhD, focused on publishing. You work on the problems that stay open as we push from the 8B run toward frontier scale, with access to significant compute and focused mentorship from senior scientists. These are foundational papers up for grabs.</p><h3>Key Responsibilities</h3><ul><li><p><strong>Publish in Tier-1 venues</strong>: Conduct novel research in Protocol Learning with the explicit goal of publishing in tier-1 ML conferences (NeurIPS, ICML, ICLR).</p></li><li><p><strong>Own a real problem</strong>: Pick a question that blocks Protocol Learning at scale and answer it — the internship is scoped so a foundational paper is a realistic outcome, not a stretch goal.</p></li></ul><h3>What We're Looking For</h3><ul><li><p><strong>Publication track record (required)</strong>: Current PhD candidate with at least one publication in top-tier ML venues (NeurIPS, ICML, ICLR).</p></li><li><p><strong>Research focus</strong>: You work in a core technical area relevant to frontier models.</p></li><li><p><strong>Technical depth</strong>: Strong theoretical understanding of deep learning and distributed systems principles.</p></li><li><p><strong>Implementation skills</strong>: Proficiency in PyTorch and experience with large-scale training infrastructure.</p></li><li><p><strong>Mission alignment</strong>: You believe Protocol Learning is the viable third path for collective, trustless, and sovereign AI.</p></li></ul><h3>FYI's</h3><ul><li><p>This is a 6-month, fixed-term research internship. We only hire in Australia and the US, and visa sponsorship is limited to these countries.</p></li><li><p>We work remotely across the world, with the main teams in Australia and North America. You'll need to be comfortable working across timezones.</p></li><li><p>Applicants must have professional-level English proficiency (written and spoken).</p></li><li><p>Recruiters: we aren't looking for agency support at this time. We'll reach out if we need help.</p></li></ul><p><em>We are backed by </em><em>Union Square Ventures</em><em> and other tier-1 investors, and we are a world-class, deeply technical team of ML researchers. Pluralis is unapologetically ideological. We believe AI, and the world, end up on a better path if we succeed in implementing the protocol for intelligence. If this resonates, please apply.</em></p>",
+    "content_hash": "3616692a5e1c7af04564c88cda9ed7a5"
+  }
+}

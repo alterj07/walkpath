@@ -1,0 +1,92 @@
+{
+  "720bf50c2df3": {
+    "id": "720bf50c2df3",
+    "title": "Supply Chain Engineering Intern (Summer 2027)",
+    "title_raw": "Supply Chain Engineering Intern (Summer 2027)",
+    "company": {
+      "slug": "amca",
+      "name": "AMCA",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amca",
+      "external_id": "4425344009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4425344009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T01:28:30.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:59.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>There was a time when all of America believed that the future of the physical world could be radically different. The engineers of the mid-1900s put a man on the moon in eight years, designed and built planes and submarines from scratch in under three, and conceived of building things we wouldn’t even be able to dream up today.</p>\n<p>Today, the last of the engineers who imagined and built these systems are retiring. As they go, we lose not only the engineering knowledge gained from their decades of imagination and trial-and-error, but also the spirit that made that imagination possible.</p>\n<p>Amca is working day-in and day-out to restore America’s ability to engineer anything that our critical systems depend on, and reinvigorate the cycle of creation that allows imagination to shape physical reality. We rapidly develop and manufacture new critical components and subsystems required to build and sustain the planes, military vehicles, and core infrastructure America needs. By restoring the capability of our antiquated supply chains, we increase the country’s capacity to imagine and realize new systems, and make a physical world that looks very different from today.</p><h3><strong>Overview:</strong></h3>\n<p>The Supply Chain Engineering Intern works alongside our supply chain engineers on two parts of the job: making sure the hardware Amca sources externally is reliable, and delivering build-to-print customer contracts on schedule. You will own a scoped project, such as a supplier improvement effort, a defect investigation, or a piece of a build-to-print program, and see it through with support from the engineers closest to the hardware.</p>\n<p>At Amca, ownership sits with the engineer closest to the hardware, because the person who understands a product is best positioned to execute on it. Interns get real responsibility and are expected to contribute to actual programs and suppliers. </p>\n<p>We are looking for engineers with strong understanding of manufacturing and quality methods, a bias toward action, the ability to hold suppliers to requirements, and the judgment to make and keep commitments to customers.</p>\n<h3><strong>Responsibilities:</strong></h3>\n<h3><strong>Product Ownership — Build-to-Print</strong></h3>\n<ul>\n<li>Support build-to-print programs by breaking down customer technical data packages and contracts into requirements matrices (drawing notes, specifications, quality clauses, test, inspection, marking, packaging, and delivery)</li>\n<li>Help build and track program schedules covering long-lead procurement, tooling, first article, qualification, and delivery, and flag risks to the schedule early and specifically</li>\n</ul>\n<h3><strong>Nonconformance and Defect Resolution</strong></h3>\n<ul>\n<li>Help resolve supplier-caused defects, including containment, disposition, return to vendor, and closure</li>\n<li>Support material review and nonconformance processes with quality, engineering, and production</li>\n<li>Assist with supplier corrective and preventive action requests and verify that fixes are effective, not just that the form is closed</li>\n<li>Support failure investigations and root cause analysis on dimensional, material, and process escapes</li>\n</ul>\n<h3><strong>Source Qualification and Supplier Development</strong></h3>\n<ul>\n<li>Support supplier evaluation and onboarding, including capability assessments and quality system reviews, and visit suppliers onsite where appropriate</li>\n<li>Assist with first article inspection (AS9102) and production readiness for new and transitioning parts</li>\n</ul>\n<h3><strong>Analysis, Risk, and Cross-Functional Work</strong></h3>\n<ul>\n<li>Analyze supplier quality and delivery data to find systemic gaps and turn them into targeted supplier projects</li>\n<li>Help identify supply chain risk such as single-source exposure, capacity constraints, long-lead items, and obsolescence</li>\n<li>Work with design, test, and build engineers to understand design intent and translate it into clear supplier requirements</li>\n<li>Help develop the standards and documentation that make supplier quality and program execution repeatable as Amca scales</li>\n</ul>\n<h3><strong>Basic Qualifications</strong></h3>\n<ul>\n<li>Currently enrolled in a Bachelor's or Master's program in an engineering or STEM discipline</li>\n<li>Demonstrated ability to read engineering drawings, with working knowledge of GD&amp;T from coursework, a project team, or prior experience</li>\n<li>Hands-on exposure to manufacturing, quality, process, or supply chain engineering through coursework, a student project team, personal projects, or a prior internship</li>\n<li>Experience owning a project with a hard deadline, such as a project team deliverable, where you kept a schedule and worked with people who did not report to you</li>\n<li>Comfortable communicating directly with suppliers and teammates on technical, quality, and schedule topics</li>\n</ul>\n<h3><strong>Preferred Skills and Experience</strong></h3>\n<ul>\n<li>Prior internship or project experience in quality, manufacturing, process, program, or supply chain engineering, ideally in aerospace, defense, or another regulated hardware industry</li>\n<li>Product owner, technical program management, or new product introduction (NPI) experience in a hardware environment</li>\n<li>Technical familiarity with one or more commodities, such as machined parts, avionics and PCBAs, or injection molding</li>\n<li>Familiarity with AS9100 or a comparable quality management system, and with supplier quality processes such as first article inspection and supplier approval</li>\n<li>Experience managing schedules in a formal tool and reporting status to a team or leadership</li>\n</ul>\n<h3><strong>Additional Requirements</strong></h3>\n<ul>\n<li>This position is based in El Segundo, CA and is onsite five days a week. Remote work is not considered.</li>\n<li>Ability to travel up to 25% to supplier facilities, Amca factories, and customer sites</li>\n<li>Willing to work extended hours as needed to support production and resolve critical issues</li>\n<li>Valid driver's license</li>\n</ul>Hourly Pay Range$30—$50 USD<p><em>This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a US person as: any individual who is granted U.S. citizenship; or. any individual who is granted U.S. permanent residence (\"Green Card\" holder); or. any individual who is granted status as a \"protected person\" under 8 U.S.C 1324b(a)(3).</em></p>\n<p><em>The Advanced Manufacturing Company of America prohibits discrimination or harassment based on the following categories: race, color, religion, religious creed (including religious dress and grooming practices), national origin, ancestry, citizenship, physical or mental disability, medical condition (including cancer and genetic characteristics), genetic information, marital status, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender, gender identity, gender expression, age (40 years and over), sexual orientation, veteran and/or military status, protected medical leaves (requesting or approved for leave under the Family and Medical Leave Act or the California Family Rights Act), domestic violence victim status, political affiliation, and any other status protected by state or federal law.</em></p>",
+    "content_hash": "1ca867d9b15e18e45037b8da4f9aee46"
+  },
+  "72804f3d041b": {
+    "id": "72804f3d041b",
+    "title": "Rainmaker Fellow, Satellite Remote Sensing",
+    "title_raw": "Rainmaker Fellow, Satellite Remote Sensing",
+    "company": {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "make-rain",
+      "external_id": "c6d0d59b-3995-4c66-b29f-05c0d678280e"
+    },
+    "apply_url": "https://jobs.lever.co/make-rain/c6d0d59b-3995-4c66-b29f-05c0d678280e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-24T13:59:14.276Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:03:22.232Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 8000,
+      "max": 8000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Rainmaker</h3>\n<p>Rainmaker is pioneering a modern cloud-seeding system to increase precipitation, improve water availability, and address severe-weather challenges. We combine atmospheric science, weather-resistant UAS, radar and satellite observations, numerical weather prediction, novel sensing systems, and sustainable seeding technologies to design, operate, and evaluate precipitation-enhancement programs.</p>\n<p>Satellite observations provide the coverage Rainmaker needs to understand clouds across large regions, while our radar, aircraft, UAS, and in-situ sensors provide unusually valuable observations for validation and improvement.</p>\n<h3>About the Fellowship</h3>\n<p>The Rainmaker Satellite Remote Sensing Fellowship is a paid, full-time research appointment for exceptional undergraduate and graduate students, postdoctoral researchers, recent graduates, and other early-career researchers.</p>\n<p>You will join Rainmaker's satellite remote-sensing group and work alongside our researchers on a scoped project drawn from the team's current research priorities and defined in close collaboration with your research lead or mentor. Project matching will consider available data, mentor capacity, team needs, and your background. You will take responsibility for a concrete computational workstream while contributing to ongoing retrieval, validation, automation, and operational-support work across the team.</p>\n<h3>Examples of the Work</h3><p>Fellowship projects change with Rainmaker's research and operational priorities. Examples of the work our satellite remote-sensing team may pursue include:</p>\n\nBenchmarking and improving microwave-sounder retrievals using Rainmaker in-cloud measurements, radar, geostationary imagery, and model fields. \nFusing intermittent polar-orbiting observations with frequent geostationary imagery to track cloud properties between overpasses. \nAutomating an existing manual satellite-analysis workflow used by Rainmaker scientists or operators. \nValidating cloud-phase, cloud-top, precipitation, moisture, temperature, or related satellite products against Rainmaker observations. \nDeveloping a bounded retrieval or satellite data product for research or operational use. \n\n<h3>What You'll Do</h3>\nAcquire, process, collocate, and quality-control microwave, polar-orbiting, and geostationary satellite observations. \nReproduce an existing retrieval or operational baseline before testing improvements. \nValidate satellite products against radar, NWP, soundings, surface observations, and Rainmaker aircraft, UAS, or in-situ measurements. \nQuantify detection skill, bias, uncertainty, spatial representativeness, latency, coverage, and failure modes by meteorological regime. \nImplement physically motivated, statistical, or ML retrieval improvements when justified by the project and data. \nBuild documented, reproducible workflows that other Rainmaker scientists can run and extend. \nPresent findings to satellite scientists, radar scientists, meteorologists, operators, and technical leadership. \nDeliver a final artifact such as a collocation dataset, retrieval benchmark, automated data product, error analysis, fusion prototype, or research paper. \n\n<h3>What We're Looking For</h3>\nCurrent undergraduate, master's, or PhD students; postdoctoral researchers; recent graduates; and other early-career researchers are all eligible. \nStrong quantitative and programming ability, preferably in Python. \nExperience with atmospheric remote sensing, satellite meteorology, physics, applied mathematics, electrical engineering, computer science, or a related field. \nInterest in microwave sounders, polar-orbiting observations, geostationary imagery, retrieval methods, or scientific data products. \nAbility to implement a scientific method, establish a baseline, and validate the result carefully. \nComfort working with large, imperfect, multidimensional observational datasets. \nHigh agency and the ability to take responsibility for a bounded workstream while collaborating with experienced researchers. \nClear written and verbal communication. \nAvailability for full-time, on-site work in El Segundo for the agreed appointment. \n\n<h3>What Success Looks Like</h3>\n<p>By the end of the fellowship, you will have answered a clearly defined scientific or operational question and delivered a trusted computational result the satellite remote-sensing team can continue using. Depending on the project, that might be a quality-controlled validation dataset, retrieval benchmark or improvement, error analysis, fusion prototype, automated data product, or operational workflow.</p>\n<p>Success does not require a positive result. A rigorous conclusion about what the available observations can and cannot support can be as valuable as an improved retrieval.</p>\n\n<h3>Fellowship Details</h3>\nPaid, full-time, and on-site in El Segundo. \nThree-to-six-month appointment, with four months as the standard duration. \nRolling applications and project-specific start dates. \nAttached directly to Rainmaker's satellite-science group with a named mentor. \nConsideration for future full-time roles \nPublication may be supported when it does not compromise Rainmaker intellectual property or operational know-how. \n\n<h3>Compensation and Benefits</h3><p>$8,000 per month</p>\n<p><strong>Benefits:</strong></p>\n\nFull health coverage (medical, dental, and vision insurance) \nLunch provided when working in-office and a fully stocked kitchenette \nFree EV charging at the HQ",
+    "content_hash": "40991a83daa9f5a0b1334ec1e419afc5"
+  }
+}

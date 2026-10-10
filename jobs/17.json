@@ -1,0 +1,302 @@
+{
+  "1741d72f7a40": {
+    "id": "1741d72f7a40",
+    "title": "Co-op -- Applied AI",
+    "title_raw": "Co-op -- Applied AI",
+    "company": {
+      "slug": "plot-technologies",
+      "name": "Plot Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "plot",
+      "external_id": "5f8cfeaa-c368-480f-aaa5-de52452a63d0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T13:58:19.577Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:19.184Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Why Plot</strong></h3><p>Plot is building the next generation of social intelligence — an AI-native platform that helps some of the world's most influential brands understand culture, find emerging trends, and activate their communities at scale. We're a <strong>high-growth, venture-backed startup</strong> supported by the co-founders of <strong>Reddit</strong> and <strong>Plaid</strong>, with customers like <strong>Tory Burch, Lululemon, La Roche-Posay</strong>, and other household names.</p><p>We operate at the frontier of <strong>applied AI and agentic systems</strong>, ingesting and reasoning over millions of short-form videos to uncover consumer insights no one else can see. Our work impacts real product decisions, global marketing campaigns, and how brands engage their fans.</p><p>You'll join a small experienced team where engineers ship product — not tickets. You'll work hand-in-hand with our product designer from day one, shaping features before specs exist and turning rough ideas into shipped experiences. You'll work directly with founders, hop on customer calls, and own company-defining features end-to-end. If you want real responsibility, fast learning loops, and the ability to shape both product and company, Plot is the place. It's also a perfect fit if you aspire to build your own startup one day — we operate with a deep founder's mindset.</p> <h3><strong>What You'll Work On</strong></h3><ul><li><p>Build <strong>agentic, reasoning-driven systems</strong> on top of cutting-edge LLMs to power consumer intelligence, marketing automation, and influencer activation.</p></li><li><p><strong>Collaborate deeply with product design</strong> to prototype, iterate, and ship AI features from 0→1. You'll be in Figma reviews, whiteboarding sessions, and user interviews — not just implementing handed-down specs.</p></li><li><p>Design &amp; execute <strong>LLM/ML evaluation frameworks</strong> — from offline benchmarks to live A/B tests — to measure quality, reliability, and business impact.</p></li><li><p>Own full-stack AI product features: prompt design, orchestration, tooling, monitoring, and the UX that brings it all together.</p></li><li><p>Collaborate closely with founders, design, marketing, and customers to ensure our AI deliver real customer value</p></li><li><p>Stay at the front of the curve: research, prototype, and integrate emerging methods in agentic reasoning, context engineering, and LLM-driven automation.</p></li><li><p>Note: This role is <strong>not</strong> focused on training foundation models — it's about building high-leverage systems <em>on top</em> of them (think \"Claude-Code over Claude-Model\").</p></li></ul> <h3><strong>What We're Looking For</strong></h3><ul><li><p><strong>Proven track record shipping customer-facing products.</strong> You've built features users love and can move quickly across the entire stack — frontend, backend, infrastructure.</p></li><li><p><strong>Deep, hands-on familiarity with LLMs</strong> — evaluation, prompt engineering, tool use, context management, and agentic workflows. You stay current with the latest advances in AI and are excited to experiment with new techniques and apply them to real product problems.</p></li><li><p><strong>Strong product sense and design instinct.</strong> You have opinions about what makes AI experiences great — and what makes them terrible. You're comfortable working with designers in the earliest stages, before the UX is settled, to collaboratively shape what the product should be. You can wear multiple hats: engineer, product thinker, and user advocate.</p></li><li><p><strong>High ownership mindset.</strong> You like talking to users, debugging real data, reading logs, and doing the unglamorous work required to build great AI products.</p></li><li><p>Curiosity, grit, and a drive to build things that feel like magic. No degree requirements.</p></li></ul>",
+    "content_hash": "c2140b6638a58516f7666849a8fe28eb"
+  },
+  "174a79088336": {
+    "id": "174a79088336",
+    "title": "2027 Internship - Design Verification Engineer",
+    "title_raw": "2027 Internship - Design Verification Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Chandler, Arizona",
+        "Greensboro, North Carolina"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "c71a6365-31c7-4ba1-bdc4-9f2df1fc483e"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T22:48:38.081Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />We are seeking highly motivated interns to join our Mixed-Signal Verification Engineering team to support the functional verification of industry-leading mixed-signal products. This internship offers a unique opportunity to work closely with digital and analog designers, applications engineers, and manufacturing test teams to ensure robust product performance through both pre-silicon verification and post-silicon validation.\n\n<p>We recruit interns year-round for Spring, Summer, and Fall 2027 opportunities. Each internship lasts 12–16 weeks and follows a full-time schedule.</p>\n\n<h3>Responsibilities </h3>\nAssist in verification planning and strategy development. \nSupport testbench creation, maintenance, and enhancement. \nContribute to failure analysis, debug, and resolution efforts. \nHelp with coverage analysis and population to ensure thorough verification of mixed-signal products. \nWork on digital/mixed-signal modeling, directed and constraint-random test generation, and verification flow development. \n\n<h3>Required Skills and Qualifications </h3>\nCurrently<strong> pursuing a MS or PhD </strong>in Electrical Engineering or a related field. \nStrong background in Hardware Description Languages (HDLs) such as Verilog or VHDL. \nFamiliarity with Hardware Verification Languages (HVLs) like SystemVerilog/UVM, Vera, or e. \nSolid understanding of digital design fundamentals and verification methodologies. \n\n#LI-Hybrid<br />\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "e05e7520f67460b577c4312fc3673ab3"
+  },
+  "1759860c86d8": {
+    "id": "1759860c86d8",
+    "title": "2027 Embedded Systems / Software Engineering Undergrad Intern",
+    "title_raw": "2027 Embedded Systems / Software Engineering Undergrad Intern",
+    "company": {
+      "slug": "the-aerospace-corporation",
+      "name": "The Aerospace Corporation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Chantilly, VA",
+      "city": "Chantilly",
+      "state": "VA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "El Segundo, CA"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aero/external",
+      "external_id": "R016804"
+    },
+    "apply_url": "https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:49:11.884Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.</p><p></p><p>Aerospace Corporation is hiring an Embedded Systems / Software Engineering Undergraduate Interns for the Software Implementation and Integration Department within the Information Systems and Cyber Division (ISCD). Position will be full-time and 100% onsite at our office in El Segundo, CA or Chantilly, VA.</p><br /><p><b>Job Summary</b></p><p>Information Systems and Cyber Division (ISCD) staff couple the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers. </p><br /><p><b>What You’ll Be Doing </b></p><ul><li>Participates in the software design &amp; implementation of a simulated space system.</li><li>Develops prototype software in Python, Java &amp; C to operate on the simulated space element and the simulated ground element.</li><li>Participates with an interdisciplinary team in ongoing research or technical programs with academic collaboration partners.</li><li>Applies standard techniques and procedures to carry out a series of prescribed scientific and/or engineering tasks.</li><li>Training and mentorship will be provided.</li></ul><br /><p><b>What Corporate Skills You Will Bring</b></p><ul><li>Strong written and oral communication skills</li><li>Must work well in a team environment.</li><li>Must possess strong organizational, time management and project management skills.</li><li>Demonstrate flexibility and ability to adapt to changing organizational need.</li><li>Interpersonal skills to coordinate efforts and work with other internal and external organizations.</li><li>Demonstrate behavior that is consistent with the company’s values of Dedication to Mission Success, Technical Excellence, Commitment to Our People, Objectivity and Integrity, and Innovation</li></ul><br /><p><b>What You Need to Be Successful</b></p><p><i>Minimum Requirements:</i>  </p><ul><li>Currently enrolled full-time at an accredited college/university degree program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related technical field(s)</li><li>Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full- time after completion of the internship.</li><li>Experience with Microsoft Office applications (Word, PowerPoint and Excel)</li><li>Experience programming in Python, C/C++, or JAVA</li><li>Ability to work with common cloud computing services such as Amazon Web Services or Microsoft Azure.</li><li>This position requires the ability to obtain and maintain a U.S. Government security clearance. U.S. citizenship is required to obtain a security clearance.</li><li>Transcripts required.</li></ul><br /><p><b>How You Can Stand Out</b></p><p><i>It would be impressive if you have one or more of these:</i></p><ul><li>GPA 3.5 or higher</li><li>Active TS/SCI</li><li>Prior participation in agile software development.</li></ul><p>Temporary housing assistance is not available.   </p><p></p><p>We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business.  The grade-based pay range for this job is listed below.  Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.</p><p></p><p>(Min - Max)</p>$25.00 - $30.00<p></p>Pay Basis: Hourly<p></p><p><b>Leadership Competencies</b></p><p>Our leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:</p><ul><li>Operate Strategically</li><li>Lead Change   </li><li>Engage with Impact   </li><li>Foster Innovation   </li><li>Deliver Results  </li></ul><p></p><p><b>Ways We Reward Our Employees </b></p><p>During your interview process, our team will provide details of our industry-leading benefits.</p><p>Benefits vary and are applicable based on Job Type.  <i>A few highlights include:</i></p><ul><li><p>Comprehensive health care and wellness plans</p></li><li><p>Paid holidays, sick time, and vacation</p></li><li><p>Standard and alternate work schedules, including telework options</p></li><li><p>401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire</p></li><li><p>Flexible spending accounts</p></li><li><p>Variable pay program for exceptional contributions</p></li><li><p>Relocation assistance</p></li><li><p>Professional growth and development programs to help advance your career</p></li><li><p>Education assistance programs</p></li><li><p>An inclusive work environment built on teamwork, flexibility, and respect</p></li></ul><p></p><p>We are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.</p><p></p><p><b>Equal Opportunity Commitment</b></p><p>The Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.</p>",
+    "content_hash": "bd2bd4da287f702f3302d47ad657dc21"
+  },
+  "175f06e93cbe": {
+    "id": "175f06e93cbe",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "afterquery",
+      "name": "AfterQuery",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "afterquery",
+      "external_id": "83ca470d-b1f7-41d6-935f-c1f2b8243e4b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/afterquery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-11-17T19:08:16.029Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:55.845Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 10000,
+      "max": 10000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About AfterQuery</strong></h3><p>AfterQuery is an applied research lab curating data solutions for foundation model development. We serve every frontier AI lab with the mission of delivering the best data to power the best models. In doing so, we can make expertise that once took a lifetime to build available to anyone who needs it. </p><p>Our customers are the ones building the foundation models themselves and our work sits directly in the loop of how those systems improve. This is a rare opportunity to join a company at a defining moment in AI. Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation. We're based in San Francisco and backed by leading investors including Altos Ventures, BoxGroup, and Y Combinator and angels from Google DeepMind, OpenAI, Anthropic, Meta Superintelligence Labs, and Microsoft AI.</p><p></p><h3>Why Apply</h3><p><strong>Massive Opportunity:</strong> Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation, and we're not slowing down.</p><p><strong>Founding Impact:</strong> You will own and architect core infrastructure systems that power our platform from the ground up.</p><p><strong>Equity &amp; Growth:</strong> Competitive salary and meaningful equity. As we scale, you’ll have the opportunity to shape the engineering organization and lead major technical initiatives.</p><p><strong>Strong Team:</strong> Our founding team has experience from Citadel Securities, Meta, Google, Silver Lake, and Morgan Stanley — work alongside world-class engineers and researchers.</p><p></p><h3><strong>Overview</strong></h3><p>Working with our core engineering team, you’ll be critical in creating data infrastructure that will be shaping the future development of frontier models. You will get a lot of responsibility, owning entire projects end-to-end – meaning you can see your impact instantly.</p><h3></h3><h3>Responsibilities</h3><ul><li><p>Build and scale complex data capturing workflows across web (Next.js) and desktop (Python)</p></li><li><p>Architect and optimize data pipelines that experience high throughput, with heavy loads</p></li><li><p>Collaborate with the founding team to define product strategy and ship features fast.</p></li><li><p>Set engineering best practices and lay the groundwork for future team growth.</p></li></ul><p></p><h3>Required Qualifications</h3><ul><li><p>Able to take a <strong>gap semester off</strong> and join our team in person in San Francisco</p></li><li><p>Proficiency in JavaScript (Next.js) and Python, with demonstrated experience building full-stack web applications</p></li><li><p>Experience with serverless architecture and cloud functions for implementing heavy data processing (GCP/AWS)</p></li><li><p>Storage, caching &amp; search: Hands‑on with Redis (caching), Elasticsearch (indexing), and message queues (Kafka/RabbitMQ) to build scalable, low‑latency pipelines.</p></li><li><p>Any background in AI research, LLM evaluation, or human‑in‑the‑loop systems</p></li></ul><p></p><h3><strong>Preferred Qualifications</strong></h3><ul><li><p>Experience getting your ideas into production (founder experience preferred)</p></li></ul><h3>Company Benefits (For Eligible Employees):</h3><ul><li><p>Health Insurance: Medical, Vision, Dental</p></li><li><p>401(k) with Employer Match</p></li><li><p>Daily Meals: Daily UberEats Stipend</p></li><li><p>Monthly Wellness Stipend</p></li></ul><p>We are an equal opportunity employer committed to providing a workplace free from discrimination and harassment. Employment decisions are made without regard to legally protected characteristics under applicable federal, state, or local law. </p><p>We comply with applicable pay transparency requirements and provide compensation ranges based on the position, qualifications, experience, and other relevant factors. Reasonable accommodations are available to qualified individuals with disabilities and for sincerely held religious beliefs, as required by law. This job description is intended to describe the general nature and level of work performed and is not an exhaustive list of all duties, responsibilities, qualifications, or working conditions associated with the position. We reserve the right to modify this job description as business needs change.</p>",
+    "content_hash": "9fd5e014e816edfd4d131d732f78e46c"
+  },
+  "17685fcabed8": {
+    "id": "17685fcabed8",
+    "title": "Robotics Planning & Controls Engineer Intern",
+    "title_raw": "Robotics Planning & Controls Engineer Intern",
+    "company": {
+      "slug": "gritt-robotics-inc",
+      "name": "GRITT ROBOTICS INC",
+      "domain": ""
+    },
+    "location": {
+      "raw": "South San Francisco",
+      "city": "South San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gritt",
+      "external_id": "df9254b5-e323-411a-a36f-57bd24a3de56"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T17:25:57.349Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.302Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em>Gritt</em><em> is an intelligent system that combines robotics and AI to build the infrastructure that pulls society forward. Gritt deploys via simple attachments to common equipment found on construction sites and autonomously performs labor-intensive tasks, verification, and planning. Gritt systems are already building critical infrastructure in the harshest outdoor environments, starting with large-scale solar. The </em><em>founding team</em><em> includes experts in robotics and AI from Carnegie Mellon, Stanford, and MIT. Gritt is backed by Obvious Ventures, Union Square Ventures, First Round Capital, Climactic, Congruent Ventures, and other leading firms.</em></p><p></p><p><strong>Role: Robotics Planning &amp; Controls Intern</strong></p><p><strong>Location: SF Bay Area (in-person)</strong><br /><br /><strong>About Internships at Gritt</strong><br />Our internships are scoped projects: you own a defined deliverable end-to-end, work with a dedicated mentor, and demo your work to the whole team. Many interns receive return or full-time offers. This will be an internship for one of two durations: 3 months, or 6 months. <br /><br />We offer competitive salaries, and the opportunity to work on a mission with tremendous climate impact.<br /><br /><strong>What you'll get to work on</strong></p><ul><li><p>Develop motion planning or control algorithms and take them to hardware.</p></li><li><p>Benchmark against baselines; tune for robustness in real-world conditions.</p></li><li><p>Integrate with perception and learning components in the full stack.</p></li></ul><h3><br /><strong>What we look for</strong></h3><ul><li><p>Pursuing MS/PhD in Robotics, ME, EE, or related field (strong BS welcome).</p></li><li><p>Solid foundations in dynamics, optimization, and control theory; strong C++ or Python.</p></li><li><p>Hands-on evidence: robot hardware experience, competition teams, or research projects.</p></li><li><p>Should be comfortable taking ownership of tasks with light supervision.</p></li><li><p>Must have excellent problem-solving skills.</p></li><li><p>Legally authorized to do an internship in the United States for either 3 months or 6 months.</p></li></ul><h3><br /><strong>Nice to have</strong></h3><ul><li><p>Experience with MPC, whole-body control, sampling/optimization-based planners or similar.</p></li></ul><p></p><p>An example project could be could be anything from safe-stop and human-avoidance behaviors around live crews, to manipulation from a moving base on rough terrain. </p>",
+    "content_hash": "e411e836a1455d136d517400d1197d18"
+  },
+  "179a671b74b7": {
+    "id": "179a671b74b7",
+    "title": "Product Engineering Intern - Summer 2027",
+    "title_raw": "Product Engineering Intern - Summer 2027",
+    "company": {
+      "slug": "immuta",
+      "name": "Immuta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "College Park, MD",
+      "city": "College Park",
+      "state": "MD",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "immuta",
+      "external_id": "bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4"
+    },
+    "apply_url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T19:16:29.655Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:58:54.169Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 30,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Immuta is the Data Authorization Company, helping the world’s largest organizations control who, and what, can access their data.</p>\n<p>The way enterprises access data is fundamentally changing. Organizations are racing to put data to work across analytics and AI, while AI copilots and agents are emerging as an entirely new class of data consumer. Traditional approaches built around tickets, static permissions, and manual approvals were not designed for this speed, scale, or complexity.</p>\n<p>Immuta provides the authorization layer for modern data and AI. Our platform enables organizations to provision governed access to data by policy, by request, and dynamically for AI agents, so people and AI can access the data they need while enterprises maintain security, compliance, and control.</p>\n<p>For Chief Data Officers, that means making enterprise data dramatically easier to access and use without giving up governance. For AI leaders, it means giving AI agents secure, governed access to enterprise data so they can move from experimentation into production.</p>\n<p>Founded in 2015, Immuta is trusted by Fortune 500 companies and government agencies worldwide.</p>\n<ul>\n<li>\n<p>Our technology ecosystem includes Snowflake, Databricks, AWS, Microsoft Azure, Google Cloud, Okta, ServiceNow, Teradata, Alation, Atlan, and Starburst — connecting Immuta to the data, cloud, identity, and enterprise platforms powering modern data and AI environments.</p>\n</li>\n<li>\n<p>Immuta has been recognized by Forbes as a top American startup employer, by Inc. Magazine and Built In as one of the best workplaces, and by Fast Company as one of the world’s most innovative companies.</p>\n</li>\n<li>\n<p>Immuta has raised $263 million from investors including NightDragon, Snowflake, Databricks, ServiceNow, Citi Ventures, Dell Technologies Capital, DFJ Growth, IAG, Intel Capital, March Capital, Okta Ventures, StepStone, Ten Eleven Ventures, and Wipro Ventures.</p>\n</li>\n<li>\n<p>We operate as a hybrid workplace with offices in Boston, MA; Columbus, OH; and College Park, MD.</p>\n</li>\n</ul>\n<p>Immuta is the Data Authorization Company, helping the world’s largest organizations control who, and what, can access their data.</p>\n<p>The way enterprises access data is fundamentally changing. Organizations are racing to put data to work across analytics and AI, while AI copilots and agents are emerging as an entirely new class of data consumer. Traditional approaches built around tickets, static permissions, and manual approvals were not designed for this speed, scale, or complexity.</p>\n<p>Immuta provides the authorization layer for modern data and AI. Our platform enables organizations to provision governed access to data by policy, by request, and dynamically for AI agents, so people and AI can access the data they need while enterprises maintain security, compliance, and control.</p>\n<p>For Chief Data Officers, that means making enterprise data dramatically easier to access and use without giving up governance. For AI leaders, it means giving AI agents secure, governed access to enterprise data so they can move from experimentation into production.</p>\n<p>Founded in 2015, Immuta is trusted by Fortune 500 companies and government agencies worldwide.</p>\n<ul>\n<li>\n<p>Our technology ecosystem includes Snowflake, Databricks, AWS, Microsoft Azure, Google Cloud, Okta, ServiceNow, Teradata, Alation, Atlan, and Starburst — connecting Immuta to the data, cloud, identity, and enterprise platforms powering modern data and AI environments.</p>\n</li>\n<li>\n<p>Immuta has been recognized by Forbes as a top American startup employer, by Inc. Magazine and Built In as one of the best workplaces, and by Fast Company as one of the world’s most innovative companies.</p>\n</li>\n<li>\n<p>Immuta has raised $263 million from investors including NightDragon, Snowflake, Databricks, ServiceNow, Citi Ventures, Dell Technologies Capital, DFJ Growth, IAG, Intel Capital, March Capital, Okta Ventures, StepStone, Ten Eleven Ventures, and Wipro Ventures.</p>\n</li>\n<li>\n<p>We operate as a hybrid workplace with offices in Boston, MA; Columbus, OH; and College Park, MD.</p>\n</li>\n</ul><br />\n<h3><strong>ABOUT THE TEAM</strong></h3>\n<p>The Product Engineering team builds and improves Immuta’s product, a platform that helps organizations use and govern access to data. The team works across software, data, and cloud technologies to turn product ideas and customer needs into reliable capabilities.</p>\n<p>As a Product Engineering Intern, you’ll work alongside software engineers and other teammates to build, test, and improve the product. You’ll see how an idea becomes working software, how teams make technical decisions, and what it takes to ship and support code in production.</p>\n<br /><br />\n<h3>YOUR INTERNSHIP</h3><p>At Immuta, interns are treated like members of the team. You’ll join the team’s regular workflow, contribute to real work, and take on responsibilities that reflect your skills and the team’s priorities.</p>\n<p>The exact projects will depend on what the team is working on next summer, but you can expect to:</p>\n\nJoin the Product Engineering team as an engineer, rather than working on a separate intern-only project. \nContribute to real product work that may be released to production. \nApply concepts from your coursework to practical software engineering problems. \nWork with teammates to understand problems, explore solutions, build software, and improve existing product capabilities. \nDevelop your skills through the team’s normal engineering workflow, including coding, testing, debugging, documentation, and collaboration. \nTake ownership of well-scoped work, communicate your progress, and ask questions when you need context or support. \nLearn how engineers build and maintain software that supports real customer needs. \n\n<h3>TOOLS &amp; TECHNOLOGIES</h3><p>Depending on your role, you may work with:</p>\n\nTypeScript \nNode.js \nAngular \nPostgreSQL \nDocker \nAPIs, data platforms, and software services \nAI-enabled tools and workflows used by your team \n\n<p>You do not need to know every tool listed above. We’re looking for a strong foundation, curiosity, and the ability to learn.</p>\n<h3>WHAT WE’RE LOOKING FOR</h3>\nA strong foundation in computer science or computer engineering, including experience with at least one programming language. \nCuriosity, initiative, and willingness to learn. \nStrong problem-solving, communication, and collaboration skills. \nExperience beyond coursework, such as an internship, hackathon, side project, or other extracurricular experience, is a plus. \n\n<strong>Benefits</strong>\n \nAt Immuta, our goal is to help bridge the gap between personal and professional growth, so that our team members can be well and thrive personally and professionally. After all, great professional success stories rarely happen without great personal success stories! Our generous benefits package given to all full time employees includes:\n \n- 100% employer paid Healthcare (Medical, Dental, Vision) premiums for you and your dependents (including Domestic Partners)\n- Stock Options\n- Paid parental leave (Both Maternity and Paternity)\n- Unlimited Paid time off (U.S. based positions)\n- Learning and Development Resources\n \nImmuta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, marital status, age, disability (including disability due to pregnancy) or genetics, protected veteran status, or any other characteristic protected by law. Immuta complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment.\n \nNOTICE TO THIRD PARTY RECRUITERS: Immuta does not accept candidates from third party recruiters. All candidates submitted through are considered to be submissions by the candidate and no submission will obligate Immuta to pay any third party for the referral or hiring of a candidate.",
+    "content_hash": "f7c8f5d70927b29064513d6203e87a10"
+  },
+  "17a7de872a34": {
+    "id": "17a7de872a34",
+    "title": "ML & Cloud Infrastructure Engineer Intern",
+    "title_raw": "ML & Cloud Infrastructure Engineer Intern",
+    "company": {
+      "slug": "gritt-robotics-inc",
+      "name": "GRITT ROBOTICS INC",
+      "domain": ""
+    },
+    "location": {
+      "raw": "South San Francisco",
+      "city": "South San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gritt",
+      "external_id": "46af6e69-40fc-4e53-940e-a99757137523"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-21T00:14:25.677Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.302Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em>Gritt</em><em> is an intelligent system that combines robotics and AI to build the infrastructure that pulls society forward. Gritt deploys via simple attachments to common equipment found on construction sites and autonomously performs labor-intensive tasks, verification, and planning. Gritt systems are already building critical infrastructure in the harshest outdoor environments, starting with large-scale solar. The </em><em>founding team</em><em> includes experts in robotics and AI from Carnegie Mellon, Stanford, and MIT. Gritt is backed by Obvious Ventures, Union Square Ventures, First Round Capital, Climactic, Congruent Ventures, and other leading firms.</em></p><p></p><p><strong>Role: ML &amp; Cloud Infrastructure Engineer Intern</strong></p><p><strong>Location: SF Bay Area (in-person)</strong><br /><br /><strong>About Internships at Gritt</strong><br />Our internships are scoped projects: you own a defined deliverable end-to-end, work with a dedicated mentor, and demo your work to the whole team. Many interns receive return or full-time offers. This will be an internship for one of two durations: 3 months, or 6 months. <br /><br />We offer competitive salaries, and the opportunity to work on a mission with tremendous climate impact.<br /><br /><br /><strong>What you'll get to work on</strong></p><ul><li><p>Build and operate training, data, or evaluation infrastructure used daily by the wider SW team.</p></li><li><p>Work with GPU clusters, orchestration, and data pipelines at scale.</p></li><li><p>Instrument, monitor, and harden the pipeline you ship.</p></li><li><p>Test your work on real robots at the office.</p></li><li><p>Opportunity to publish (for PhD interns).</p></li><li><p>Attend Tier-1 industry conferences.</p></li></ul><p></p><p><em>An example project could be anything from an auto-curation pipeline that mines fleet logs for rare events (gusts, occlusions, near-misses) to feed training, to a regression harness that replays field scenarios against each new model release.</em></p><h3><br /><strong>What we look for</strong></h3><ul><li><p>Pursuing BS/MS/PhD in CS or related field.</p></li><li><p>Strong Python; familiarity with cloud services (AWS/GCP), containers, and CI/CD.</p></li><li><p>Evidence of building infrastructure or data systems.</p></li><li><p>Should be comfortable taking ownership of tasks with light supervision.</p></li><li><p>Must have excellent problem-solving skills.</p></li><li><p>Legally authorized to do an internship in the United States for either 3 months or 6 months.</p></li></ul><h3><br /><strong>Nice to have</strong></h3><ul><li><p>Kubernetes, Ray, Spark, Terraform, observability stacks, or ML experiment tooling.</p></li></ul>",
+    "content_hash": "91d3f03063c867a078941fc424ed82f1"
+  }
+}

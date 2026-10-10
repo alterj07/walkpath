@@ -1,0 +1,49 @@
+{
+  "960b7704b91f": {
+    "id": "960b7704b91f",
+    "title": "Postdoctoral Fellow, MARA & Robotics",
+    "title_raw": "Postdoctoral Fellow, MARA & Robotics",
+    "company": {
+      "slug": "basis-research-institute",
+      "name": "Basis Research Institute",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York Office",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Princeton, NJ"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "basis-research",
+      "external_id": "b89352a1-d05e-49da-b7bf-e49e6f1e21e2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/basis-research/b89352a1-d05e-49da-b7bf-e49e6f1e21e2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T15:53:57.547Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.503Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Immediate",
+    "salary": {
+      "min": 100000,
+      "max": 100000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the Fellowship</h3><p>This Basis Postdoctoral Fellowship is a collaborative initiative between the Basis Research Institute and the Princeton Robot Planning and Learning group, led by Tom Silver. As a fellow, you will be a key contributor and leader of robotics efforts within our ambitious MARA (Modeling, Abstraction, and Reasoning Agent) project, which aims to develop foundational AI technologies that enable systems to actively discover abstract models of the world and reason with them to achieve goals.</p><p></p><h3>About Basis</h3><p>Basis is a nonprofit applied AI research organization with two mutually reinforcing goals.</p><p>The first is to <strong>understand and build intelligence.</strong> This means to establish the mathematical principles of what it means to reason, to learn, to make decisions, to understand, and to explain; and to construct software that implements these principles.</p><p>The second is to <strong>advance society’s ability to solve intractable problems</strong>. This means expanding the scale, complexity, and breadth of problems that we can solve today, and even more importantly, accelerating our ability to solve problems in the future.</p><p>To achieve these goals, we’re building both a new technological foundation that draws inspiration from how humans reason, and a new kind of collaborative organization that puts human values first.</p><p></p><h3>About Tom Silver's Group</h3><p>Tom Silver is an assistant professor in Princeton University's Department of Electrical and Computer Engineering and a core faculty member in robotics. He directs the Princeton Robot Planning and Learning (PRPL) group, whose mission is to develop generalist robots that plan and learn to help people.</p><p>Prior to joining Princeton, Tom was a postdoctoral researcher with Tapo Bhattacharjee at Cornell from 2024 to 2025. He received his PhD in 2024 from MIT EECS, where he was advised by Leslie Kaelbling and Josh Tenenbaum, and his B.A. from Harvard with highest honors in computer science and mathematics in 2016. He has also spent time at Google Robotics and the Robotics and AI Institute, formerly Boston Dynamics AI. His work has been supported by an NSF Graduate Research Fellowship and an MIT Presidential Fellowship, and has been recognized with an RSS Best Paper Award in 2025 and an IROS Best Paper Finalist Award in 2021.</p><p></p><h3>Research Focus</h3><p>Our research aims to develop new foundations and technologies for modeling, abstraction, and reasoning in embodied AI systems, extending the goals of MARA into real-world settings through the use of robotic platforms. The central objective is to build systems that actively discover abstract, compositional models of the world and use them to plan and act in dynamic environments, grounding high-level reasoning in perception and physical interaction.</p><p>By learning through embodied experience, via interaction, experimentation, and feedback, these systems will unify model discovery with action. Achieving this vision will require advances in knowledge representation, abstraction, reasoning, and active learning, as well as new approaches for connecting high-level models to low-level sensorimotor control. The project ultimately asks what it means to model the world when intelligence is situated in a physical agent.</p><p>Fellows will have the opportunity to contribute to this ambitious project, working closely with a team of researchers at Basis and Princeton University. The research environment is both structured and adaptable, providing multiple avenues for scholarly contribution. As a fellow, your expertise can shape various aspects of the project, allowing for a balance of focused research, academic exploration, and software development.</p><p></p><h3>Who we’re looking for</h3><ul><li><p>Researchers holding a PhD in robotics, computer science, artificial intelligence, machine learning, cognitive science, or related fields.</p></li><li><p>Strong background in areas such as program synthesis, reinforcement learning, robotics, automated planning, probabilistic programming, machine learning, AI reasoning systems, or cognitive modeling.</p></li><li><p>Experience with real robots is preferred but not required.</p></li><li><p>Interest in foundational AI research and its applications to modeling, abstraction, and reasoning.</p></li><li><p>Individuals with a demonstrated track record in scientific research, evidenced through publications, technical reports, or impactful software projects.</p></li></ul><p></p><h3>Core Responsibilities</h3><ul><li><p>Conduct independent and collaborative research focused on the RoboMARA project.</p></li><li><p>Develop new methods and algorithms for modeling, abstraction, and reasoning in physically embodied AI systems.</p></li><li><p>Disseminate research findings through academic publications and presentations at leading conferences.</p></li><li><p>Actively engage in knowledge transfer within Basis and Princeton University, converting research into actionable insights and algorithms.</p></li><li><p>Provide mentorship to junior team members and contribute to the scientific discourse through seminars, workshops, and collaborative projects.</p></li></ul><p></p><h3>Role Details</h3><ul><li><p><strong>In-person Policy:</strong> We are in the office four days a week. Be prepared to attend multi-day Basis-wide in-person events.</p></li><li><p><strong>Location:</strong> New York City (Primary) and Princeton, NJ. This position involves time at both Basis in NYC and Princeton University.</p></li><li><p><strong>Collaboration sites:</strong> Basis (NYC) and Princeton (Silver Lab); we are flexible about how time is partitioned across these locations based on project needs.</p></li><li><p><strong>Salary:</strong> Competitive with leading postdoctoral fellowships.</p></li><li><p><strong>Start date:</strong> Immediate start possible.</p></li></ul><p></p><p><strong>Not sure you meet every detail?</strong> Whether it's qualifications, work pattern, or location, exceptional candidates who don't check every box above are still encouraged to apply.</p><p></p><p><em><strong>Non-Discrimination Notice</strong></em><br /><em>Basis Research Institute provides equal employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or genetics and prohibits discrimination based on all protected characteristics.</em></p><p><em><strong>Privacy Notice</strong></em></p><p><em>By submitting your application, you grant Basis permission to use your materials for both hiring evaluation and recruitment-related research and development purposes. Your information may be processed in different countries, including the US. You retain copyright while providing Basis a license to use these materials for the stated purposes.</em></p><p><em>Read our full Global Data Privacy Notice </em><em>here</em><em>.</em></p>",
+    "content_hash": "34738e39a67be963ab1291896e7bf0f3"
+  }
+}

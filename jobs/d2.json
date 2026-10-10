@@ -1,0 +1,127 @@
+{
+  "d207314a2f8d": {
+    "id": "d207314a2f8d",
+    "title": "Electrical Engineering Co-op (Summer/Fall 2027)",
+    "title_raw": "Electrical Engineering Co-op (Summer/Fall 2027)",
+    "company": {
+      "slug": "foth",
+      "name": "Foth",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Green Bay, Wisconsin",
+      "city": "Green Bay",
+      "state": "WI",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "foth",
+      "external_id": "e59ed4a4-4dd7-4cb2-91a3-c528e5752985"
+    },
+    "apply_url": "https://jobs.lever.co/foth/e59ed4a4-4dd7-4cb2-91a3-c528e5752985/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T19:15:01.617Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:55:20.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Fall 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p>\n<p><strong>Foth</strong> is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success. Our 750 members across 33 locations are dedicated to <strong>solving our clients’ toughest science and engineering challenges</strong>. Consistently ranked by Engineering News Record in the top 150 firms, we offer a values-based, collaborative, and flexible work environment with professional growth opportunities. If you thrive working alongside a smart and caring team, <strong>Foth</strong> may be the place for you.<br /><br />Join our team and experience the<strong> Foth</strong> difference that contributes to our impressive <strong>92+% member retention rate</strong>! Learn more at foth.com/careers. </p><br />Looking for an opportunity to do more than just observe? At Foth, our co-op program gives you real-world experience on real client projects. As an <strong>Electrical Engineering Co-op</strong>, you’ll apply your classroom knowledge to practical challenges while working alongside experienced engineers. Based in <strong>Green Bay, WI</strong>, this role offers hands-on involvement in designing and troubleshooting systems, as well as exposure to advanced engineering processes. Spanning <strong>Summer - Fall 2027</strong>, the position may also include travel to client sites—providing a unique perspective on how engineering solutions come to life in the field.\n<h3>Primary Responsibilities:</h3>\nApply electrical engineering fundamentals while performing design tasks under the supervision of a lead engineer \nDevelop detailed electrical design drawings using AutoCAD and AutoCAD Electrical software packages \nProgram PLC’s and HMI hardware \nAssist with validation of the software and drawing databases \n\n<h3>Required Qualifications: </h3>\nPursuing a Bachelor's Degree in Electrical Engineering from an ABET-accredited program  \nGPA of 3.0 or greater  \nPrevious experience with and/or coursework in AutoCAD \nPrevious experience with and/or coursework involving theory and/or programming of industrial PLCs \n\nAll Foth Companies are equal opportunity employers, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law. Qualified women, minorities, persons with disabilities, and veterans are encouraged to apply. All locations are tobacco-free.  Subject to applicable state law, all applicants who have received a written offer of employment and a copy of Foth’s Drug and Alcohol-Free Workplace Program Policy, will be required to undergo testing for commonly abused controlled substances. Applicants must complete the required drug testing within two business days of offer acceptance.  Foth will pay for all drug testing, which will be conducted by a licensed independent medical laboratory that follows testing requirements in accordance with applicable state law.\n \n<strong>Colorado Residents:</strong> In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n \n<strong>Notice to Third Party Recruiters/Agencies:</strong> Foth does not accept unsolicited resumes from third party recruiting firms. Absent a signed recruiting agreement coordinated through Foth, Foth reserves the right to pursue and hire candidates without financial obligation to third party recruiters or agencies.",
+    "content_hash": "6cc86c56444d94504fa3faf9cf2673df"
+  },
+  "d2f6c464dabb": {
+    "id": "d2f6c464dabb",
+    "title": "Robotics Software Intern, Manipulation & Simulation",
+    "title_raw": "Robotics Software Intern, Manipulation & Simulation",
+    "company": {
+      "slug": "valstad",
+      "name": "Valstad",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "valstad",
+      "external_id": "8478558b-c5b5-43d2-b9c0-eae7a1fb30d8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-31T17:59:17.668Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.078Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 34,
+      "max": 42,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Valstad</h3><p>Valstad is building the machine that builds the ships.</p><p>We combine industrial robotics, welding, sensing, and AI to turn 3D models into real high-mix ship structure. Our mission is to rapidly expand America's maritime output by 100x.</p><p>Our team works directly with large industrial robots and real manufacturing equipment at our Austin facility. The systems we build will ultimately be deployed across shipyards and industrial facilities throughout the country.</p><h3>About Valstad</h3><p>Valstad is rebuilding how ships are made.</p><p>American shipbuilding is constrained by slow, labor-intensive production methods and a shortage of skilled manufacturing capacity. We are developing robotic production systems that can turn engineering data directly into finished steel structures, dramatically reducing the time and manual programming required to build ships.</p><p>Our first platform combines industrial robots, automated material handling, welding, sensing and AI-driven manufacturing software to produce large ship panels and structural assemblies. Instead of programming each new part by hand, our goal is for the system to understand the CAD model, determine how the structure should be assembled and welded, and generate the robotic plan required to build it.</p><p>Achieving that requires solving difficult robotics problems involving kinematics, coordinate frames, motion planning, simulation, calibration, collision checking, sensor integration and execution on real industrial hardware.</p><p>The software you build will be tested against full-scale industrial robots in our Austin facility, not only in simulation.<br /></p><h3>The Internship</h3><p>Valstad is seeking a Robotics Software Intern to work on manipulation, motion-planning, simulation or robot-verification software.</p><p>You will own a defined technical project that improves the reliability, performance or diagnosability of Valstad’s robotic manufacturing systems. Depending on your background and our current priorities, you may work on planning algorithms, simulation infrastructure, coordinate-frame visualization, calibration analysis, robot-log replay or automated path verification.</p><p>This is not a shadowing program or a collection of disconnected research tasks. You will be expected to implement, test and document a working capability that can become part of Valstad’s robotics platform.</p><p>You will work closely with a robotics engineer and will receive structured mentorship, code review and access to real robotic systems.<br /></p><h3>Potential Projects</h3><p>Your primary project will be selected based on your experience and Valstad’s highest-priority technical needs. Possible projects include:</p><ul><li><p>Building a motion-planning regression-test suite using representative manufacturing scenarios</p></li><li><p>Developing tools for visualizing coordinate frames, transforms, robot poses and calibration results</p></li><li><p>Generating reachability maps for robots mounted on linear rails</p></li><li><p>Testing inverse-kinematics continuity along long Cartesian paths</p></li><li><p>Detecting singularities, wrist flips, joint-limit conditions and trajectory discontinuities</p></li><li><p>Creating automated collision-checking and path-validation scenarios</p></li><li><p>Building a robot-log replay system for reproducing hardware failures in simulation</p></li><li><p>Comparing commanded, simulated and physically executed robot trajectories</p></li><li><p>Developing cycle-time prediction and trajectory-analysis tools</p></li><li><p>Evaluating planning algorithms for constrained welding or scanning paths</p></li><li><p>Building tools for calibration-data analysis and error visualization</p></li><li><p>Supporting integration of a laser scanner, camera, force sensor or other non-safety-critical device</p></li><li><p>Developing simulation models for robots, fixtures, tools and workpieces</p></li><li><p>Improving visualization of robot work envelopes, collision geometry and external axes</p></li><li><p>Creating automated pre-execution checks for generated robot programs<br /></p></li></ul><h3>What You Will Do</h3><ul><li><p>Design and implement a scoped robotics-software project.</p></li><li><p>Work with rust, Python or both.</p></li><li><p>Use simulation and recorded data to test your work.</p></li><li><p>Work with rigid-body transformations, robot kinematics and 3D geometry where relevant.</p></li><li><p>Build automated tests for nominal and failure scenarios.</p></li><li><p>Participate in robotics architecture discussions and code reviews.</p></li><li><p>Analyze logs and robot behavior to diagnose planning or execution issues.</p></li><li><p>Validate your work using real robotic hardware when appropriate and under supervision.</p></li><li><p>Document assumptions, algorithms, interfaces and limitations.</p></li><li><p>Present your results and demonstrate the completed capability to the Valstad team.<br /></p></li></ul><h3>Required Qualifications</h3><ul><li><p>Currently pursuing a bachelor’s, master’s or doctoral degree in robotics, computer science, mechanical engineering, electrical engineering, aerospace engineering or a related field.</p></li><li><p>Strong programming fundamentals.</p></li><li><p>Experience with Python, rust or both.</p></li><li><p>Coursework or practical experience in linear algebra, three-dimensional geometry, kinematics, dynamics, controls or motion planning.</p></li><li><p>Experience completing a meaningful robotics, software or research project.</p></li><li><p>Ability to reason about technical systems and debug unexpected behavior.</p></li><li><p>Ability to work independently within a defined project scope.</p></li><li><p>Strong written and verbal communication skills.</p></li><li><p>Interest in robotic manipulation and real-world industrial systems.</p></li><li><p>Availability to work full-time and on-site in Austin for the duration of the internship.</p></li></ul><h3>Strongly Preferred</h3><ul><li><p>Strong rust experience.</p></li><li><p>Experience with ROS or ROS 2.</p></li><li><p>Experience with MoveIt, Tesseract, OMPL, Drake, MuJoCo, Isaac Sim, Gazebo or another robotics framework.</p></li><li><p>Experience with forward and inverse kinematics.</p></li><li><p>Experience with homogeneous transformations, quaternions and coordinate-frame conventions.</p></li><li><p>Experience with collision detection or motion planning.</p></li><li><p>Experience working with robotic manipulators.</p></li><li><p>Experience with Eigen, NumPy or similar numerical libraries.</p></li><li><p>Experience developing simulation or verification tools.</p></li><li><p>Experience with industrial robot arms, linear rails or external axes.</p></li><li><p>Experience with robot calibration, hand-eye calibration or sensor localization.</p></li><li><p>Experience working with cameras, laser scanners, force-torque sensors or other robotics hardware.</p></li><li><p>Participation in a robotics laboratory, student robotics team, Formula SAE, combat robotics or relevant open-source project.<br /></p></li></ul><h3>What We Look For</h3><p>We value evidence that you can apply robotics concepts to systems that behave imperfectly outside the laboratory.</p><p>Strong candidates often have:</p><ul><li><p>A manipulator or hardware project they can explain in depth</p></li><li><p>Research involving real robot experiments</p></li><li><p>Open-source robotics contributions</p></li><li><p>Experience debugging coordinate-frame or calibration problems</p></li><li><p>Simulation work connected to physical validation</p></li><li><p>A clear understanding of the difference between an algorithm working once and a system operating reliably</p></li></ul><p>You do not need industrial-robot or shipbuilding experience. We care more about robotics fundamentals, software quality and an interest in making algorithms work on physical machines.</p><h3><br />Safety and Production Boundaries</h3><p>Interns may work with industrial robots under the supervision of qualified Valstad personnel.</p><p>Interns will not independently:</p><ul><li><p>Modify safety systems</p></li><li><p>Authorize production releases</p></li><li><p>Commission energized equipment without supervision</p></li><li><p>Make uncontrolled changes to production robot or PLC programs</p></li><li><p>Bypass interlocks, protective devices or established review procedures</p></li></ul><p>Production-facing changes will be reviewed and approved by full-time engineers.<br /></p><h3>What Success Looks Like</h3><p>By the end of the internship, you will have delivered a working robotics-software capability that improves planning, simulation, verification or hardware debugging.</p><p>Your project will have:</p><ul><li><p>A clearly defined technical objective</p></li><li><p>A tested implementation</p></li><li><p>Representative nominal and failure scenarios</p></li><li><p>Documentation of assumptions and limitations</p></li><li><p>Integration with Valstad’s software or simulation environment where appropriate</p></li><li><p>A final demonstration using real robot data or physical hardware</p></li></ul><p>The strongest interns may be considered for future internships or full-time positions.<br /></p><h3>Compensation and Benefits</h3><p>The anticipated pay range for this internship is <strong>$34 to $42 per hour</strong>, depending on experience and technical depth.</p><p>The internship also includes:</p><ul><li><p>A dedicated robotics mentor</p></li><li><p>Access to industrial robotic systems</p></li><li><p>Ownership of a substantive technical project</p></li><li><p>Regular technical feedback and code review</p></li><li><p>Potential relocation or temporary-housing assistance where appropriate</p></li><li><p>Consideration for future internship or full-time opportunities</p></li></ul><p>Valstad is an equal-opportunity employer. We evaluate candidates based on their ability, experience and potential to contribute to the company’s mission.</p>",
+    "content_hash": "697e952d7aafd3d4b91232950f122d5e"
+  },
+  "d2fd603b2877": {
+    "id": "d2fd603b2877",
+    "title": "Deployments Engineering Intern",
+    "title_raw": "Deployments Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "0f7fefdb-7218-40c6-893f-859b08fb3935"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T14:21:54.588Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>The Deployments Engineering team is responsible for the technical systems and standards that make Base installs safe, repeatable, and scalable—covering installation design, electrical and mechanical specifications, field diagnostics, and equipment performance. We solve the difficult, high-impact problems that determine whether a system goes into the ground correctly the first time. Joining this team means getting hands-on exposure to how hardware engineering translates into real homes, at scale.</p><p></p><h3>What You'll Do</h3><ul><li><p>Support the review and refinement of installation designs and technical specifications used by field crews.</p></li><li><p>Assist with troubleshooting technical issues that arise during deployment, from electrical faults to mechanical fit issues.</p></li><li><p>Help build and maintain documentation, checklists, and technical standards used across install crews.</p></li><li><p>Analyze field data to identify recurring issues and propose engineering or process improvements.</p></li><li><p>Support commissioning and quality-check processes to ensure systems meet performance and safety standards.</p></li><li><p>Coordinate with operations and field teams to translate engineering requirements into practical, on-the-ground execution.</p></li><li><p>Contribute to tooling or documentation that helps the engineering team scale its support across new markets.</p></li></ul><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "27a1d8420d0843d7ed2526f635e3711a"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "0d341c37a1c5": {
+    "id": "0d341c37a1c5",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer (Intern)",
+    "company": {
+      "slug": "strada",
+      "name": "Strada",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "stradahq",
+      "external_id": "d277be89-9d67-48cd-9e67-3b17bbab709e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T19:55:32.716Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:23.764Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 7500,
+      "max": 7500,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Strada</strong></p><p>Strada is building the operating layer for AI-driven insurance.</p><p>Our platform deploys expert AI agents across calls, texts, emails, and chat - running core front-office workflows from policy servicing to claims intake. With a singular focus on insurance, Strada offers domain expertise and product depth that generic AI platforms can't match.</p><p>Backed by Y Combinator and top-tier investors, Strada already automates more than 1M customer interactions for leading insurers, MGAs, and brokers representing $20B+ in annual premiums. Adoption is accelerating across the industry.</p><p>Insurance is one of the largest and most complex industries in the world, and modern AI has the potential to fundamentally reshape how it operates. Strada is replacing fragmented workflows with AI-native infrastructure that runs real operations at scale - at the intersection of AI, infrastructure, and highly regulated real-world systems.</p><p>We're a small, high-ownership team based in San Francisco, already embedded in production systems at sophisticated insurance organizations. If you want to move fast, solve hard problems, and shape the future of a massive industry, let's meet.</p> <p><strong>Why Insurance?</strong></p><p>Insurance quietly powers the global economy - it helps businesses stay open, families recover from disasters, and entire industries manage risk. But the way insurance operates hasn't changed in decades. Many frontline workflows still rely on phone calls and legacy systems.</p><p>We're building AI that plugs into those workflows and makes them radically faster, smarter, and more efficient. It's a $300B+ market ripe for innovation.</p> <p><strong>The Role</strong></p><p>We're looking for a <em>Software Engineer Intern</em> to join as one of our earliest engineering hires. You'll work across the stack to build the core systems that power our AI agents – from real-time voice infrastructure to integrations with insurance platforms.</p><p>This is a high-impact role where you'll ship production code from day one, learn fast, and grow alongside the company.</p> <p><strong>What you'll get done in the first week</strong></p><ul><li><p>Ship your first PR to production (on the first day) - no months of onboarding, you're contributing from day one</p></li><li><p>Get hands-on with our voice AI stack and understand how we're automating thousands of insurance calls daily</p></li><li><p>Meet the team, shadow customer calls, and see exactly how your code impacts real users</p></li></ul><p><strong>What you'll do in your first 30 days</strong></p><ul><li><p>Own a feature end-to-end - from scoping to shipping - that directly improves how our AI agents handle customer conversations</p></li><li><p>Optimize live systems handling real insurance workflows for major carriers</p></li><li><p>Start building intuition for the insurance domain and understand why this $1T+ industry is ripe for AI</p></li></ul><p><strong>What you'll do in your first 90 days</strong></p><ul><li><p>Take ownership of a core product area and drive meaningful improvements independently</p></li><li><p>Contribute to launches that land in front of customers - not internal tools that sit on a shelf</p></li><li><p>Have a real seat at the table on product and technical decisions at a company that just went from $0 to $3M ARR in 18 months</p> </li></ul><p><strong>What You'll Need</strong></p><ul><li><p>Pursuing a degree in Computer Science, Engineering, or related field</p></li><li><p>Strong fundamentals in data structures, algorithms, and system design</p></li><li><p>Experience building software in internships, coursework, or personal projects</p></li><li><p>Comfort working across the stack – we use TypeScript, React, and Node.js</p></li><li><p>Thrive in fast-moving, high-ownership environments</p> </li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with real-time systems, WebSockets, or telephony</p></li><li><p>Familiarity with AI/LLM-based platforms or prompt engineering</p></li><li><p>Prior experience at an early-stage startup</p></li><li><p>Contributions to open source projects</p> </li></ul><p><strong>What We Offer</strong></p><ul><li><p>Competitive salary</p></li><li><p>Macbook Pro, 4K display and all the accessories</p></li><li><p>Regular team events &amp; offsites</p></li><li><p>Daily team dinners provided (Mon–Fri)</p></li><li><p>Gym membership</p></li></ul> <p><strong>**IMPORTANT NOTE: This position is on-site at our San Francisco office</strong></p>",
+    "content_hash": "f2861883e3d188b8792114175335d24e"
+  }
+}

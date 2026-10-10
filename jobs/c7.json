@@ -1,0 +1,134 @@
+{
+  "c75e1868ecc2": {
+    "id": "c75e1868ecc2",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "one-finance",
+      "name": "ONE Finance",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States (Remote)",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "oneapp",
+      "external_id": "ba18d004-3212-44e4-8a0c-bd1215bae770"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T22:24:30.924Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.579Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2027",
+    "salary": {
+      "min": 32,
+      "max": 32,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About OnePay</h3><p>OnePay is the consumer fintech trusted by millions of Americans to make money better.</p><p>Our financial system is broken. High fees, low rates, and too few ways to actually grow your money. We’re fixing it. And we’re moving fast.</p><p>We’re an all-in-one financial services platform that brings together banking, high-yield savings, credit cards, point-of-sale lending, investing, and crypto in one place. We also partner with employers, HCM providers, gig platforms, and others to deliver embedded financial services to millions of employees and frontline workers.</p><p>We’re backed by Walmart, the world’s largest retailer, and Ribbit Capital, one of fintech’s most respected investors, giving us rare scale, distribution, and the opportunity to build something truly category-defining.</p><p>But what really sets OnePay apart is how we move. Our customers don’t have time to wait… and neither do we. This place moves fast, and we’re looking for people who are:</p><ul><li><p>Ready to run</p></li><li><p>Hungry and driven by urgency</p></li><li><p>Exceptional at what they do, with low ego</p></li><li><p>Comfortable operating in motion</p></li></ul><p></p><h3>The Role</h3><ul><li><p><strong>Team Integration:</strong> As an intern, you’ll be an essential part of our engineering team, working alongside skilled professionals on cutting-edge projects. You’ll collaborate with cross-functional teams, including Platform, Product, and more, gaining exposure to the broader business.</p></li><li><p><strong>Real-World Projects:</strong> You’ll take on a variety of projects that align with your skills and interests, contributing to key engineering initiatives. By the end of the program, you’ll showcase your work through a final presentation to your team and peers.</p></li><li><p><strong>Skill Building &amp; Career Growth:</strong> Throughout the internship, you’ll attend workshops focused on technical skills, resume building, interview prep, and professional development. You’ll also have the chance to engage with company leadership during networking events.</p></li><li><p><strong>Mentorship:</strong> Receive guidance and feedback from your manager, as well as a dedicated mentor who will help you navigate your internship experience, ensuring continuous learning and growth.</p><p></p></li></ul><h3>You Bring </h3><ul><li><p><strong>Pursuing a Bachelor’s Degree:</strong> You’re a current undergraduate student expected to graduate in the Fall of 2027/Spring of 2028 majoring in Engineering or a related field.</p></li><li><p><strong>Prior Experience</strong>: You've completed at least one previous software engineering internship, or have built substantial personal or academic projects you're excited to talk through.</p></li><li><p><strong>Availability:</strong> This is a full-time, 8-week program running June 21 - August 13, 2027. You are available to work in our New York City office at least 3-4 days a week throughout.</p></li><li><p><strong>Proactive &amp; Collaborative Attitude: </strong>You have an act-like-an-owner mentality, thrive in a fast-moving environment, and enjoy working with others to achieve collective goals.</p></li><li><p><strong>Critical Thinking &amp; Problem-Solving Skills:</strong> You enjoy tackling complex challenges, analyzing problems, and developing solutions. Clear communication of ideas is one of your strengths.</p></li><li><p><strong>Organized &amp; Detail-Oriented:</strong> You’re a keen listener with strong organizational skills, capable of managing multiple tasks efficiently.</p></li><li><p><strong>Excited to Learn &amp; Grow:</strong> You are passionate about being part of a rapidly growing organization and look forward to expanding your skills in a real-world setting.</p></li></ul><p></p><h3>Tools We Use</h3><p>We use Typescript front to back, with node and NestJS frameworks for server code and React Native for our iOS, Android, and Web clients. We run on a highly distributed cloud-native stack with Kubernetes and AWS, and scale and resiliency are at the heart of everything we build. We also embrace agentic development, so engineers have their choice of a variety of models and agent harnesses, including Claude Code, Cursor, Codex, and more to fit their workflow. While you don't need experience with our exact stack, familiarity with modern software engineering practices will help you ramp up quickly.</p><p></p><h3>What We Offer</h3><ul><li><p>Early access to a high potential, high growth fintech</p></li><li><p>Beautiful Tribeca Office</p></li><li><p>Fully stocked kitchen with beverages and snacks</p></li><li><p>Weekly professional development and team social outings</p></li></ul><p></p><h3>Program &amp; Application Timeline</h3><ul><li><p>Program runs June 21 - August 13, 2027 (8 weeks, full-time, in our NYC office)</p></li><li><p>We review applications and conduct interviews on a rolling basis as they come in</p></li><li><p>No offer decisions will be made until the application window closes – all candidates are evaluated together before final decisions go out</p></li><li><p>We are targeting a finalized cohort by December 1, 2026</p></li><li><p>If there are intern spots still available, we may reopen applications in Spring 2027</p></li></ul><p></p><p><strong>Work Authorization: </strong>OnePay will not sponsor applicants who need employment sponsored visas for this position. Future sponsorship will not be considered.</p><p></p><h3>Standard Interview Process</h3><p>Our process varies by role. Most candidates go through:</p><ul><li><p>AI-assisted initial screen</p></li><li><p>Interview with Talent Partner</p></li><li><p>Technical or Hiring Manager Interview</p></li><li><p>Team Interview</p></li><li><p>Executive Interview</p></li><li><p>Offer!</p></li></ul><p></p><h3>Equal Employment Opportunity</h3><p>To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and experiences. We are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us at talent@onepay.com.</p>",
+    "content_hash": "89e3066d119d7bae9742369aef8d879a"
+  },
+  "c7e0bad791cf": {
+    "id": "c7e0bad791cf",
+    "title": "Rust Software Engineering Intern, Chip Design Tools - Summer",
+    "title_raw": "Rust Software Engineering Intern, Chip Design Tools - Summer",
+    "company": {
+      "slug": "atomic-semi",
+      "name": "Atomic Semi",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fab2",
+      "external_id": "2b0ab443-c7d8-4547-9766-111747f0b361"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-05T16:52:05.063Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.422Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 114000,
+      "max": 131000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About fab2</strong></p><p>The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.<br /><br />We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.</p> <p>fab2 was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.</p><h3></h3><p><strong>About the Team</strong></p><p>We are building the software that silicon chip designers should have had 20 years ago.</p><p></p><p>Designing a chip today means stitching together a pile of desktop software, much of it decades old. We have a lot of respect for those tools, but in many ways they are behind. They've carried the industry this far, but we see enormous room to do better. For example: real version control, real collaboration, and interfaces that give you intuition rather than requiring it. We've concluded that we must build a lot of it from scratch. Studio is a fast, browser-based, multiplayer platform for designing and assembling whole chips. Figma plus GitHub, for silicon. The primary goal is simple: a user should never have to install anything or leave our app to take a chip from idea to finished design. Schematic capture, physical layout, and simulation, all in one place, end to end.</p><p></p><p>Studio is one half of a bigger idea at Fab2: making chips should be fast. We build our own fab equipment for the same reason we build our own software, because the components for what we want don't exist yet. Studio is the design side of that, and we want to close the feedback loop between designing a chip and fabricating it, so the whole cycle gets faster instead of just one part. Your users include the chip and process engineers sitting near you, which means the feedback loop on your own work is short too.</p><p></p><p>It's a deep application, dozens of complex tools and the heft of Photoshop, but we want it to feel as intuitive and powerful as Figma. It's Rust across the stack, compiled to WebAssembly, with custom rendering with wgpu/WebGPU, one code path native and in the browser.</p><h3></h3><p></p><p><strong>About the Role</strong></p><p>Fullstack, Rust end-to-end, working on the application itself. You will own major features from design through shipping and touch the whole stack. These are some of the problems on the table right now:</p><p></p><ul><li><p>Deeply interactive, low-latency editing tools: drag a wire and watch it auto-route, place a block, measure, annotate, catch mistakes the instant they happen. Careful handling, some algorithms and computational geometry. We need to constantly fight to keep the tools simple.</p></li><li><p>A document model that can be diffed and merged like source code and at the same time real-time collaborative. This is the foundation everything else sits on.</p></li><li><p>The sync engine streaming edits between clients, so chip designers can work together without sending files back and forth. More like a game server than CRUD: eventual consistency, high bandwidth streaming, correctness. Whether the wire format decodes to owned data or stays zero-copy so it holds up when the design is very large is a decision you own.</p></li><li><p>A GPU canvas that renders millions of polygons and stays smooth: spatial indexing, culling, level of detail, all in one Rust code path for web and native.</p></li><li><p>Simulation you can feel: waveforms that stream onto the screen as the solver produces them, with an interactive tier that answers in milliseconds while heavier analysis runs behind it.</p></li></ul><p></p><p>There is also plenty nearby as the application grows: a plugin system built on sandboxed WebAssembly components, a scripting API where a script is the same first-class client as the mouse, and integrations that send finished designs to the fab.</p><p></p><p><strong>Who Does Well Here</strong></p><p>The people who have done well on this team tend to come from deep, rich applications: tools and engine programmers, people who have built game level editors, DAWs, CAD tools, rendering pipelines, or software where the hard problems live in the seams between data, rendering, and input. It is tools programming where the output of the tool is silicon.</p><p></p><p>You don't need to know anything about chip design, but you need to be willing to learn. If you've drawn a schematic, run SPICE, or built RLC circuits, you'll ramp faster and probably care more about getting it right, but we can teach, and fresh eyes are part of the point. We are building tools intuitive to new users, not just folks used to the old silicon design tools from the 90s.</p><p></p><p>We take on ambitious goals and work hard. We build complex things quickly. We care that you own every line you ship, and care about clean code. A portfolio (GitHub is fine) is required. We currently use things like: Bevy's ECS, wgpu, Axum, WebAssembly, PostgreSQL.</p><p></p><p><strong>Required Experience</strong></p><ul><li><p>Strong Rust, or serious C++/systems experience and the obvious curiosity to go deep in Rust.</p></li><li><p>Solid systems fundamentals: memory, performance, concurrency. You profile before you optimize. You've taken something slow and made it fast, and you can tell us about why it was slow.</p></li><li><p>A track record of non-trivial software you built from scratch and can walk us through end to end. The weird side project, engine, or tool you wrote because the existing one annoyed you.</p></li></ul><h3></h3><p><strong>Nice-to-have</strong></p><ul><li><p>A game, engine, or real-time background: ECS, scene graphs, spatial indexing, physics engines, frame budgets, GUI, low-latency input.</p></li><li><p>Some EE, analog <em>and</em> digital. You don't need to be a chip designer.</p></li><li><p>Time lived inside deep, serious software, and opinions about it: Blender, Ableton, KiCad, CAD tools, DAWs, game engines.</p></li><li><p>Distributed or real-time systems: write-ahead logs, event sourcing, replication, CRDTs, OT, websockets. Data pipelines.</p></li><li><p>Geometry, graph, and routing algorithms; spatial data structures; optimization.</p></li><li><p>Familiarity with schema evolution and serialization formats like Protobuf, Flatbuffers, Cap’n Proto.</p></li><li><p>Graphics and visualization: turning big, complex datasets into something legible, fast, and even beautiful on screen. Custom rendering, shaders, GPU pipelines (WebGPU, Vulkan, OpenGL).</p></li><li><p>An interest in version control, not just using Git but how it works underneath.</p></li></ul><p></p><p><strong>Working at fab2</strong><br />We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Software Interns are paid hourly, at a rate equivalent to an annualized range of $114,000–$131,000 depending on experience and education. Actual earnings vary with hours worked.</p><p><br /><strong>Internship Benefits:</strong></p><ul><li><p>Housing Stipend to help with first month expenses</p></li><li><p>Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts</p></li><li><p>Weekly Learning &amp; Development opportunities</p></li><li><p>Commuter Benefits including Parking and Late Night Uber rides from the office</p></li><li><p>Paid Time Off inclusive of Holidays and Sick Time</p></li><li><p>Visa Sponsorship</p></li><li><p>Medical, Dental, and Vision insurance</p></li><li><p>401(k) retirement plan</p></li><li><p>Life and Disability Insurance</p><p></p></li></ul><p>We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p><br /><strong>Export Control Analysis: </strong>This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.</p> <p><em>fab2, formerly known as Atomic Semi</em></p>",
+    "content_hash": "7e8adfda1a933c9d5ae91e8dd4926977"
+  },
+  "c7eb0c310a97": {
+    "id": "c7eb0c310a97",
+    "title": "Software Engineer Intern - Berlin",
+    "title_raw": "Software Engineer Intern - Berlin (2026)",
+    "company": {
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "domain": ""
+    },
+    "location": {
+      "raw": "DE-Berlin-Trion Building",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "snowflake",
+      "external_id": "41e65c6c-a01e-4f40-af14-ae75d3b95e27"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-02T11:41:43.304Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.904Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Winter 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p>Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. We are now a global, world-class organization with offices in more than a dozen countries and serving many more.</p><p>We’re looking for dedicated students who share our passion for ground-breaking technology and want to create a lasting future for you and Snowflake.</p><p></p><h3><strong>WHAT WE OFFER :</strong></h3><ul><li><p>Paid, full-time internships in the heart of the software industry</p></li><li><p>Post-internship career opportunities (full-time and/or additional internships)</p></li><li><p>Exposure to a fast-paced, yet fun, startup culture</p></li><li><p>A chance to work with world-class experts on challenging projects</p></li><li><p>Opportunity to provide meaningful contributions to a real system used by customers</p></li><li><p>High level of access to supervisors (manager and mentor), detailed direction without micromanagement, feedback throughout your internship, and a final evaluation</p></li><li><p>Stuff that matters: treated as a member of the Snowflake team, included in company meetings/activities, flexible hours, casual dress code, accommodations to work from home, swag and much more</p></li><li><p>Catered lunches, access to gaming consoles, recreational games, happy hours, company outings, and more</p></li><li><p>Embraced as a full member of the diverse Snowflake engineering team</p></li></ul><p></p><h3><strong>WHAT WE EXPECT :</strong></h3><ul><li><p>Must be actively enrolled in an accredited college/university program during the time of the internship</p></li><li><p>Required: A completed BS degree, with an MS or PhD in progress</p></li><li><p>Desired Majors: Computer Science, Computer Engineering, Electrical Engineering, Physics, Math, or related field</p></li><li><p>Required coursework: algorithms, data structures, and operating systems</p></li><li><p>Recommended coursework: Database systems, distributed systems, Geospatial/Geographic IS, cloud computing, compilers,</p></li><li><p>Bonus experience: Research or publications in databases or distributed systems, experience with geo features processing, and contributions to open source.</p></li><li><p>Experience working with big data (engineering / processing) and data migration</p></li><li><p>Duration: 4 month minimum, 6 months recommended, up to 12 months supported, start date flexible</p></li><li><p>Target start dates: February 2026 and onward</p></li><li><p>Excellent programming skills in C++ or Java</p></li><li><p>Knowledge of data structures and algorithms</p></li><li><p>Strong problem solving and ability to learn quickly in a dynamic environment</p></li><li><p>Fluent English language skills (oral and written)</p></li><li><p>Experience with working as a part of a team</p></li><li><p>Dedication and passion for technology</p></li><li><p>Systems programming skills including multi-threading, concurrency, etc.</p></li></ul><p></p><h3><strong>WHAT YOU WILL LEARN/GAIN :</strong></h3><ul><li><p>How to build enterprise grade, reliable, and trustworthy software/services</p></li><li><p>Exposure to SQL and/or other database technologies (e.g., Spark, Hadoop)</p></li><li><p>Understanding of database internals, large-scale data processing, transaction processing, distributed systems, and data warehouse design</p></li><li><p>Implementation, testing of features in query compilation, compiler design, query execution</p></li><li><p>Experience working with cloud infrastructure, AWS, Azure, and/or Google Cloud in particular</p></li><li><p>Learning about cutting edge database technology and research</p></li></ul><p></p><h3><strong>POSSIBLE TEAMS/WORK FOCUS AREA :</strong></h3><ul><li><p>Execution platform (XP), Search Optimization (SO), SQL Features (Geo, Collations)</p></li><li><p>Database engineering, service runtime, streaming (data pipelines), metadata, Streamlit and cloud engineering teams.</p></li><li><p>High performance large-scale data processing</p></li><li><p>Large-scale distributed systems</p></li><li><p>Query compilation and optimization</p></li><li><p>Software-as-a-Service platform</p></li><li><p>Software frameworks for stability and performance testing</p></li></ul><p>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p>How do you want to make your impact?</p><p>For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com</p>",
+    "content_hash": "19c2549244d1778ce9c7fd43f431c08a"
+  }
+}

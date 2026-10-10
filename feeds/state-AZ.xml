@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in AZ</title>
+  <id>https://walkpath.vercel.app/feeds/state-AZ.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-AZ.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:5f56339ab829</id>
+    <title>Electrical Engineer Intern (EE, RF, FPGA disciplines) - Phoenix Site @ Acron Aviation</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/5f56339ab829"/>
+    <updated>2026-09-14T00:51:25.791Z</updated>
+    <published>2026-09-14T00:51:25.791Z</published>
+    <author><name>Acron Aviation</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Acron Aviation is seeking motivated and innovative Electrical Engineering interns to join our engineering teams in Phoenix, Arizona.This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering…</summary>
+    <content type="text">Acron Aviation · Phoenix, AZ
+
+Acron Aviation is seeking motivated and innovative Electrical Engineering interns to join our engineering teams in Phoenix, Arizona.This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:29f1716faf58</id>
+    <title>Avionics Certification Engineering Intern - Phoenix Site @ Acron Aviation</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/29f1716faf58"/>
+    <updated>2026-09-14T00:43:00.890Z</updated>
+    <published>2026-09-14T00:43:00.890Z</published>
+    <author><name>Acron Aviation</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Acron Aviation is seeking an Avionics Certification Engineering Intern to support the development, certification, and regulatory approval of avionics systems and equipment for commercial, business, and military aircraft applications at our Phoenix, Arizona site.This full-time, onsite internship is…</summary>
+    <content type="text">Acron Aviation · Phoenix, AZ
+
+Acron Aviation is seeking an Avionics Certification Engineering Intern to support the development, certification, and regulatory approval of avionics systems and equipment for commercial, business, and military aircraft applications at our Phoenix, Arizona site.This full-time, onsite internship is…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:24e97e9bc18d</id>
+    <title>2027 Internship - Embedded Firmware Engineer @ Cirrus Logic</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/24e97e9bc18d"/>
+    <updated>2026-09-11T23:16:46.587Z</updated>
+    <published>2026-09-11T23:16:46.587Z</published>
+    <author><name>Cirrus Logic</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world&apos;s top consumer brands. Cirrus Logic is also known for its award-winning culture, which was…</summary>
+    <content type="text">Cirrus Logic · Phoenix, AZ +1 more
+
+Season: Summer 2027
+
+For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world&apos;s top consumer brands. Cirrus Logic is also known for its award-winning culture, which was…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:ecf0c544acbd</id>
+    <title>Electrical Project Engineer Intern @ Felix Construction</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/ecf0c544acbd"/>
+    <updated>2026-06-11T18:53:13.686Z</updated>
+    <published>2026-06-11T18:53:13.686Z</published>
+    <author><name>Felix Construction</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Felix Construction has been building critical water and wastewater infrastructure since 1987, proudly serving the Phoenix and Dallas markets. We’ve kept the close, family-owned feel of our early days while earning the reputation and recognition of a leading general contractor. Our projects are…</summary>
+    <content type="text">Felix Construction · Phoenix, AZ
+
+Felix Construction has been building critical water and wastewater infrastructure since 1987, proudly serving the Phoenix and Dallas markets. We’ve kept the close, family-owned feel of our early days while earning the reputation and recognition of a leading general contractor. Our projects are…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

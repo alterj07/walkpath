@@ -1,0 +1,172 @@
+{
+  "b64ce80d4991": {
+    "id": "b64ce80d4991",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "auctor",
+      "name": "Auctor",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "auctor",
+      "external_id": "9d67c881-3ca7-4616-a059-e94c03e19607"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-13T22:03:44.168Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:59.240Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 80,
+      "max": 80,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Why Auctor</strong></h3><p>Auctor is building the AI layer for professional-services and software-implementation work—the “brain” behind the best solution engineers, forward-deployed engineers, and onboarding teams. We automate the discovery, documentation, and decision-making that drives $400B+ in services every year. The category is massive and still wide-open. </p><p></p><h3><strong>The Opportunity</strong></h3><p>Join us in New York City for 10–12 weeks and help build the next generation of AI-powered workflow tools. You’ll pair with engineers on projects that ship to real customers—no toy tasks or shadow assignments.</p><p></p><h3><strong>What You’ll Build</strong></h3><ul><li><p>Contribute features to our Next.js + Python stack, from API to UI</p></li><li><p>Prototype and benchmark LLM-powered agentic workflows</p></li><li><p>Build retrieval pipelines over large, messy enterprise datasets</p></li><li><p>Write clean, well-tested code and see it hit production the same week</p></li><li><p>Demo your work directly to customers and the leadership team</p></li></ul><p></p><h3><strong>What You Bring</strong></h3><ul><li><p>Solid programming foundations (data structures, algorithms, networking basics)</p></li><li><p>Proficiency in <strong>Python</strong> and <strong>TypeScript</strong> (or a strong desire to learn)</p></li><li><p>Curiosity about LLMs, vector databases, and scalable infra</p></li><li><p>A bias for action—hack first, polish second, always deliver</p></li><li><p>Ability to work <strong>on-site in NYC</strong> at least 5 days/week (we’re in-person, fast, and collaborative)</p></li></ul>",
+    "content_hash": "298436a7d474b5425e457f5d01371169"
+  },
+  "b6a112fb6034": {
+    "id": "b6a112fb6034",
+    "title": "Corporate Security Intern - Summer 2027",
+    "title_raw": "Corporate Security Intern - Summer 2027 - Franklin, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Franklin, Tennessee - United States of America",
+      "city": "Franklin",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214220"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:58:44.510Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Franklin, TN<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Criminal Justice, Homeland Security, Emergency Management, Intelligence Studies, Political Science, Public Safety, Risk Management, or related field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Corporate Security Intern to join our team in Franklin, TN. This internship provides hands-on experience as a Risk Intelligence Analyst within Nissan's Security Operations Center. The intern will support the monitoring and assessment of immediate and long-term threats to Nissan's people, facilities, and operations across the Americas region. This role offers valuable exposure to corporate security, threat intelligence, emergency preparedness, crisis management, and business continuity activities while working alongside experienced security professionals.</p><br /><h3>A Day in the Life:</h3><ul><li>Conduct daily risk intelligence monitoring and analysis to identify potential threats impacting Nissan operations.</li><li>Research and develop intelligence reports covering emerging risks, security incidents, and regional developments.</li><li>Support the maintenance and updating of the Nissan North America Emergency Response Plan library.</li><li>Assist with the planning, coordination, and execution of emergency response and preparedness exercises.</li><li>Collaborate with corporate security and business stakeholders to support risk management and security initiatives.</li></ul><br /><h3>Who We’re Looking For:</h3><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Criminal Justice, Homeland Security, Emergency Management, Intelligence Studies, Political Science, Public Safety, Risk Management, or a related field.</li><li>Students entering their Junior or Senior year at the start of the upcoming academic term.</li><li>Strong research, analytical, and critical-thinking skills.</li><li>Excellent written communication skills with the ability to create concise intelligence reports and briefings.</li><li>Strong verbal communication and presentation skills.</li><li>Ability to manage multiple priorities in a dynamic environment.</li><li>Flexible and adaptable with the ability to respond to changing business needs and emerging situations.</li><li>Interest in corporate security, intelligence analysis, risk management, emergency response, or business continuity.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Franklin, TN.</li></ul><br /><h3>What You’ll Look Forward to at Nissan:</h3><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Franklin Tennessee United States of America",
+    "content_hash": "4ce6088e5e3c25281734e3c568a69a72"
+  },
+  "b6afa7d578c6": {
+    "id": "b6afa7d578c6",
+    "title": "Engineering Intern",
+    "title_raw": "Engineering Intern",
+    "company": {
+      "slug": "cluely",
+      "name": "Cluely",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cluely",
+      "external_id": "89809243-a79a-4a8f-a394-8e8b12743108"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-09-22T20:57:32.244Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.762Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 250,
+      "max": 250,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Cluely</strong></p><p>Cluely is building AI to give you an unfair advantage in every situation.</p><p>It acts as a desktop assistant that takes in screen, mic, and audio context to give you information and suggestions that existing model providers cannot, due to a lack of context.</p><p>We will win for two reasons:</p><p>1)  Chatbots are not the best interface for multi-modal AI</p><p>2) We can make anything viral</p><p><strong>About the Role</strong></p><p>We work six days a week in-person in San Francisco, 10-12 hours a day.</p><p>You are expected to live within a block of the office (housing provided).</p><p>Our eng team is a mix of staff-level SWEs and tuff 19 yr olds, check it out here.</p><p><strong>You might be a good fit if you are:</strong></p><ul><li><p>One of the best engineers in the world</p></li><li><p>Down to gamble your life into greatness</p></li></ul><p><strong>Compensation:</strong></p><ul><li><p>Founding engineers get anywhere from $250-350k base + 0.25-0.5% equity</p></li><li><p>We also offer free housing, free food, and free transportation.</p></li></ul>",
+    "content_hash": "a4d0be1aa237adbed049578219b7bc7c"
+  },
+  "b6c1621a341e": {
+    "id": "b6c1621a341e",
+    "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
+    "title_raw": "2027 Internship Hardware Engineer, Machine Integration & Test",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "c9c08251-6a42-4f9c-be4d-2621995cc8f9"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T13:25:41.084Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3>About the Role &amp; Team</h3><p>Getting an autonomy stack onto a 40-ton excavator is a hardware problem long before it's a software one — brackets, harnesses, enclosures, and interfaces that survive vibration, dust, and weather. As our Machine Integration intern, you'll design and build the physical interfaces between our system and the machine, plus the test stands we use to prove them out before they ever hit a jobsite.</p><p></p><h3>What You'll Do</h3><ul><li><p>Integrate sensors, compute, and wiring onto machines alongside the hardware team</p></li><li><p>Design brackets, enclosures, and interface hardware in CAD, then help fabricate and install them</p></li><li><p>Build test stands for validating subsystems on the bench instead of in the field</p></li><li><p>Run lab tests, capture data, and iterate on designs based on what breaks</p></li><li><p>Document build and install procedures so the next machine goes faster than the last</p></li><li><p>Close the loop with the field team on what's working and what isn't</p></li></ul><h3>What We're Looking For</h3><h3>Required</h3><ul><li><p>Currently pursuing a BS or MS in mechanical engineering, electrical engineering, robotics, or a related field — or bringing equivalent hands-on experience</p></li><li><p>CAD proficiency (SolidWorks, Onshape, or similar)</p></li><li><p>Genuine hands-on shop skills — you've built physical things, not just modeled them</p></li><li><p>Basic electrical competence: harnessing, connectors, multimeter, reading a schematic</p></li><li><p>Willingness to work on and around heavy equipment in PPE</p></li></ul><h3>Preferred</h3><ul><li><p>Wiring harness design or manufacturing experience</p></li><li><p>Exposure to off-highway, automotive, or industrial equipment</p></li><li><p>Machining, welding, or 3D printing experience</p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "674bf55d8f8f223c039fdaa4a292e7ff"
+  }
+}

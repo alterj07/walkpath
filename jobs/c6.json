@@ -1,0 +1,42 @@
+{
+  "c6af7a3a9706": {
+    "id": "c6af7a3a9706",
+    "title": "Corporate IT Intern",
+    "title_raw": "Corporate IT Intern",
+    "company": {
+      "slug": "a1group-a1-jobs-mk",
+      "name": "A1Group (A1 Jobs mk)",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Skopje",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "a1group/A1_Jobs_mk",
+      "external_id": "REQ-9172"
+    },
+    "apply_url": "https://a1group.wd3.myworkdayjobs.com/A1_Jobs_mk/job/Skopje/Corporate-IT-Intern_REQ-9172",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:41:24.673Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>What you do</b><br />Providing day-to-day support for end user requests related to desktop software/hardware, telecom, and video conferencing<br />Troubleshoot of equipment<br />Preparation of new user desktops and laptop devices<br />Handling maintenance of hardware and software</p><br /><br /><p><b>What you offer</b><br />Ability to identify, research, and resolve technical problems<br />Present a professional demeanor and be comfortable working with people from all levels of the organization<br />Strong problem solving and troubleshooting skills<br /> </p><br />",
+    "content_hash": "c33d85149ecff9c3935d417bca545119"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "7c35a34eff34": {
+    "id": "7c35a34eff34",
+    "title": "Computer Vision & Robotics Intern",
+    "title_raw": "Computer Vision & Robotics Intern",
+    "company": {
+      "slug": "clera",
+      "name": "Clera",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "clera",
+      "external_id": "f211c31e-d92a-468e-9da1-3f8f27f0e05b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/clera/f211c31e-d92a-468e-9da1-3f8f27f0e05b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T00:50:24.624Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.503Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "yes",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the Role</h3><p>Join an early-stage industrial automation startup's engineering team to help develop computer vision systems for factory quality inspection. The system uses first-person cameras to understand manual assembly, recognize process steps, and detect deviations, with the longer-term goal of supporting robotic automation.</p><h3>What You'll Do</h3><ul><li><p>Build and improve computer vision pipelines for detection, classification, tracking, and temporal understanding.</p></li><li><p>Test first-person perception in challenging conditions, including camera motion, occlusion, motion blur, and changing lighting.</p></li><li><p>Work with synthetic and real-world data to identify failure cases and improve model performance.</p></li><li><p>Train, evaluate, and debug vision models using PyTorch.</p></li><li><p>Explore geometric vision, calibration, localization, pose estimation, and 3D perception.</p></li><li><p>Optimize models for low-latency inference and edge deployment.</p></li><li><p>Build evaluation tools and support deployments to assess performance in real factory environments.</p></li></ul><h3>What We're Looking For</h3><ul><li><p>Currently studying computer science, robotics, electrical engineering, mechanical engineering, or a related field.</p></li><li><p>Hands-on experience in computer vision, machine learning, or robotics, and comfort working with Python.</p></li><li><p>Interest in computer vision and physical AI, with the ability to learn quickly, debug problems, build, and take ownership.</p></li><li><p>Experience with PyTorch, OpenCV, object detection, tracking, synthetic data, SLAM or VIO, 3D vision, CUDA or TensorRT, ROS2, or NVIDIA Jetson is helpful.</p></li></ul><h3>Compensation &amp; Benefits</h3><p>Visa sponsorship is available. Relocation from Germany is supported.</p><h3>Location</h3><p>On-site in San Francisco, California, United States.</p>",
+    "content_hash": "ad921b9958644f0f348410ece971b550"
+  },
+  "7c81d796b787": {
+    "id": "7c81d796b787",
+    "title": "AI Product Management Intern",
+    "title_raw": "AI Product Management Intern",
+    "company": {
+      "slug": "opusclip",
+      "name": "OpusClip",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mountain View",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "opusclip",
+      "external_id": "501d374d-7d4f-4889-bc53-0a1fd16253ea"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-11T00:25:28.862Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.878Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 25,
+      "max": 28,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>🎨 </strong><strong>OpusClip</strong><strong> is the world's No.1 AI video agent, built for authenticity on social media.</strong></p><p>We envision a world where everyone can authentically share their story through video, with no expertise needed. Within just 18 months of our launch, over 20 million creators and businesses have used OpusClip to enhance their social presence. </p><p>We have raised $50 million in total funding and are fortunate to have some of the most supportive investors, including SoftBank Vision Fund, DCM Ventures, Millennium New Horizons, Fellows Fund, AI Grant, Jason Lemkin (SaaStr), Samsung Next, GTMfund, Alumni Ventures, and many more. </p><p>Check out our latest coverage by Business Insider featuring our product and funding milestones, and our recognition as one of The Information's 50 Most Promising Startups in 2024. </p><p>Headquartered in Mountain View, we are a team of 100 passionate and experienced AI enthusiasts and video experts, driven by our core values: </p><ul><li><p>Be a Champion Team </p></li><li><p>Prioritize Ruthlessly </p></li><li><p>Ship fast, Quality Follows </p></li><li><p>Obsess over customers </p></li></ul><p>Be a part of this exciting journey with us!</p><p></p><h3>About the Role</h3><p>We’re looking for a <strong>Product Management Intern</strong> to join our team and help build AI-powered product experiences. You’ll work closely with product, engineering, design, and AI teams to understand user needs, experiment with emerging AI capabilities, and help turn insights into product improvements and new features.</p><p>This is a hands-on role for someone with prior product experience who wants to deepen their expertise in <strong>AI product development</strong> and gain meaningful ownership in a fast-moving startup environment.</p><p></p><h3>What You’ll Do</h3><ul><li><p>Conduct user research and analyze feedback and product data to identify user needs and product opportunities.</p></li><li><p>Experiment with LLMs and other AI models to understand their capabilities, limitations, and potential product applications.</p></li><li><p>Design and conduct evaluations for AI-powered features, including test cases, success criteria, and analysis of model outputs.</p></li><li><p>Translate user insights and experimental findings into product hypotheses and requirements.</p></li><li><p>Own or support features through development, launch, and iteration, working closely with engineering and design.</p></li><li><p>Track product performance and use qualitative and quantitative signals to inform improvements.</p></li></ul><p></p><h3>What We’re Looking For</h3><ul><li><p>Prior product management experience through internships, startups, side projects, or other hands-on work.</p></li><li><p>Strong interest in AI products, with hands-on experience experimenting with LLMs or generative AI tools.</p></li><li><p>Strong analytical and problem-solving skills; comfortable turning ambiguous questions into structured experiments.</p></li><li><p>Strong product sense and curiosity about users, technology, and emerging product experiences.</p></li><li><p>High ownership and bias toward action in a fast-moving environment.</p></li><li><p>Excellent communication and cross-functional collaboration skills; able to use English as a working language.</p></li></ul><p></p><h3>Bonus Points</h3><ul><li><p>Technical background in computer science, engineering, data science, or a related field.</p></li><li><p>Experience building or prototyping AI-powered products or features.</p></li><li><p>Experience with consumer, creator, or video products.</p></li></ul><p></p><h3>What You’ll Get</h3><ul><li><p><strong>Build real AI products, not intern projects.</strong> Work on product problems and features that directly impact real users.</p></li><li><p><strong>Develop hands-on AI product expertise.</strong> Learn how to evaluate emerging AI capabilities, design experiments, and turn model capabilities into compelling product experiences.</p></li><li><p><strong>Own the full product loop.</strong> Get exposure from user discovery and product thinking to execution, launch, and iteration.</p></li><li><p><strong>Learn at startup speed.</strong> Work closely with experienced product, engineering, design, and AI teams in a fast-moving environment where interns are expected to contribute ideas and make an impact.</p></li></ul><p><strong>EEO</strong></p><p>OpusClip is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristics. OpusClip considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Opus Clip is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures.</p>",
+    "content_hash": "77b094a967b3615db9142a4c75157e7b"
+  }
+}

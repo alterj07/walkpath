@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in MI</title>
+  <id>https://walkpath.vercel.app/feeds/state-MI.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-MI.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:14c7f27bd980</id>
+    <title>Sustaining Engineer Intern - Grand Rapids Site @ Acron Aviation</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/14c7f27bd980"/>
+    <updated>2026-09-15T19:38:56.416Z</updated>
+    <published>2026-09-15T19:38:56.416Z</published>
+    <author><name>Acron Aviation</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Acron Aviation is seeking a Sustaining Engineer Intern to join our Recorders Engineering Team in Grand Rapids, Michigan. In this role, you will support the ongoing lifecycle management of existing products by assisting with updates to mechanical designs, drawings, and technical documentation. You…</summary>
+    <content type="text">Acron Aviation · Grand Rapids, MI
+
+Acron Aviation is seeking a Sustaining Engineer Intern to join our Recorders Engineering Team in Grand Rapids, Michigan. In this role, you will support the ongoing lifecycle management of existing products by assisting with updates to mechanical designs, drawings, and technical documentation. You…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

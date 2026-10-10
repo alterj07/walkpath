@@ -1,0 +1,42 @@
+{
+  "623f98c7f9e0": {
+    "id": "623f98c7f9e0",
+    "title": "Sourcing Data Management Intern",
+    "title_raw": "Sourcing Data Management Intern",
+    "company": {
+      "slug": "accuray",
+      "name": "Accuray",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Madison, WI",
+      "city": "Madison",
+      "state": "WI",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "accuray/external",
+      "external_id": "3265"
+    },
+    "apply_url": "https://accuray.wd5.myworkdayjobs.com/External/job/Madison-WI/Sourcing-Data-Management-Intern_3265",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:45:12.498Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Give hope. Give health. Make your mark in the fight against cancer.</b></p><p></p><p>At Accuray, we make a direct and powerful impact on the lives of cancer patients every day — helping them live longer, better lives. But our commitment to innovation offers a truly unique opportunity: the chance to change the fight against cancer — helping to develop, introduce and support new treatment delivery systems and software that will give new hope and new health to cancer patients and cancer survivors around the world.</p><p></p><p>Accuray develops, manufactures and sells radiotherapy systems for alternative cancer treatments. Our radiation therapy for cancer makes treatment shorter, safer, personalized and more effective, ultimately enabling patients to live longer, better lives.</p><p></p><p><b>Job Description</b></p><p><b>Internship Objectives</b></p><p>The intern will develop a comprehensive part-level sourcing intelligence model that classifies every part according to sourcing flexibility and supplier dependence.</p><p><b>Primary Questions to Answer</b></p><p>For every part:</p><ul><li>Who owns the intellectual property?</li><li>Is the design proprietary to Accuray or to a supplier?</li><li>Is the part custom or commercially available?</li><li>Does specialized tooling exist?</li><li>What would be required to qualify an alternative supplier?</li><li>How much spend and risk are associated with the current source?</li><li>How critical is the part to manufacturing and service operations?</li><li>What is the estimated difficulty of switching suppliers?</li></ul><p></p><p><b>To qualify for this position, candidates must be able to furnish proof that they are authorized to work in the country they are applying on a permanent basis without sponsorship.</b></p><p></p><p><b>EEO Statement</b></p><p>At Accuray, our commitment to patient-first outcomes drives an inclusive and collaborative work environment where the best ideas rise to the top — and everyone works to push them further. We value diversity in both the professional and personal backgrounds of our employees, as this variety adds rich energy to every team, every project and every work day. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin – including individuals with disabilities and veterans.</p>",
+    "content_hash": "a0d6679d8fdd7bc7d032e25bc83b6d23"
+  }
+}

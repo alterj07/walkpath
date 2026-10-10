@@ -1,0 +1,82 @@
+{
+  "116912049a95": {
+    "id": "116912049a95",
+    "title": "Summer Internship – QA Engineer Framo Services",
+    "title_raw": "Summer Internship – QA Engineer Framo Services",
+    "company": {
+      "slug": "alfalaval-framo-jobs",
+      "name": "Alfalaval (Framo jobs)",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Florvag",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alfalaval/Framo_jobs",
+      "external_id": "JR0048633"
+    },
+    "apply_url": "https://alfalaval.wd3.myworkdayjobs.com/Framo_jobs/job/Florvag/Summer-Internship---QA-Engineer-Framo-Services_JR0048633",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:55:58.423Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Summer Intern – Quality Engineer</b></p><br /><p>Vil du lære mer om hvordan systematisk kvalitetsarbeid bidrar til gode og pålitelige leveranser? Som Summer Intern innen Quality Engineering får du praktisk erfaring med kvalitetsarbeid i et internasjonalt teknologiselskap.</p><br /><p>Du blir en del av vårt kvalitetsmiljø og får jobbe tett sammen med erfarne kolleger. Gjennom sommeren får du blant annet følge opp avvik, analysere kvalitetsdata og bidra til å forbedre våre prosesser og arbeidsmetoder. Dette gir deg en god mulighet til å bruke det du har lært i studiene, samtidig som du får innsikt i hvordan kvalitetsarbeid gjennomføres i praksis hos Framo.</p><br /><p><b>Arbeidsoppgaver</b></p><ul><li>Følge opp avvik og forbedringstiltak</li><li>Bidra i gjennomføring av årsaksanalyser</li><li>Bistå med intern kvalitetsoppfølging</li><li>Analysere trender og kvalitetsdata ved hjelp av Power BI</li><li>Delta i avviksgjennomganger sammen med ulike avdelinger</li><li>Kartlegge og oppdatere prosesser og prosedyrer i kvalitetssystemet</li></ul><br /><p><b>Framo Summer Internship</b></p><ul><li>Internshipet varer i 6–8 uker, fra midten av juni til midten av august</li><li>Du får en god introduksjon til Framo, teknologien vår og vår inkluderende kultur</li><li>Du får jobbe med reelle oppgaver sammen med erfarne kolleger innen kvalitet og andre fagområder</li><li>Du får verdifull erfaring fra et globalt selskap og mulighet til å bygge nettverk på tvers av organisasjonen</li><li>Du får innblikk i fremtidige karrieremuligheter både i Framo og i Alfa Laval-konsernet</li></ul><br /><p><b>Vi ser etter deg som</b></p><ul><li>Studerer ingeniørfag, produksjonsteknologi, kvalitetsledelse eller andre relevante tekniske fag</li><li>Har fullført minst tre år av utdanningen innen sommeren</li><li>Er interessert i kvalitetsarbeid, forbedringsprosesser og analyse</li><li>Tar initiativ og arbeider strukturert og nøyaktig</li><li>Trives med både selvstendige oppgaver og samarbeid med andre</li><li>Har interesse for digitale verktøy og gjerne kjennskap til Power BI</li><li>Kommuniserer godt på norsk og engelsk</li></ul><p></p><p>For mer informasjon om stillingen kan du kontakte Preslava Hristova-Ulveseth - Global HSEQ Manager på telefon +4790473089 eller e-post: prhr@framo.no</p><br /><p>Ønsker du en lærerik og kjekk sommer hvor du får bruke det du har lært i praksis, bidra til reelle forbedringer og bli kjent med Framo? Da håper vi å høre fra deg!</p><p></p><p>Søknadsfrist: 23. oktober 2026</p>",
+    "content_hash": "e4ca150a4867ed9007eab776abe95bcf"
+  },
+  "11a9c61bff2e": {
+    "id": "11a9c61bff2e",
+    "title": "JSP ETM (Future Opportunity) - COOP & Cyber Continuity Analysts",
+    "title_raw": "JSP ETM (Future Opportunity) - COOP & Cyber Continuity Analysts",
+    "company": {
+      "slug": "age-solutions",
+      "name": "AGE Solutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Arlington, VA",
+      "city": "Arlington",
+      "state": "VA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "agecareers",
+      "external_id": "4877955008"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/agecareers/jobs/4877955008",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-08-07T14:58:27.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:36.873Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Us</h3>\n\nAGE Solutions is a premier technology and professional services company, providing in-depth consulting, advanced technology solutions, and essential services throughout the U.S. government, defense, and intelligence sectors. Prioritizing innovation and client-focused solutions, we assist major agencies in addressing intricate issues and ensuring a more secure future.\n<p>AGE Solutions is preparing for a significant contract supporting the <strong>Joint Service Provider (JSP) Enterprise Transport Management (ETM) program</strong>. These roles cover RMF practitioners and continuity planners familiar with eMASS, AI-based monitoring, and DISA compliance.</p>\n<p><strong>Who We're Looking For</strong>:</p>\n<ul>\n<li>COOP Planners, RMF Analysts, Cyber Compliance Experts</li>\n<li>Plan and support continuity of operations and ISCP testing</li>\n<li><strong>Incumbents encouraged to apply</strong></li>\n</ul>\n<p><strong>Clearance</strong>: TS/SCI<br /><strong>Certifications</strong>: RMF/eMASS, ITIL v4, Security+<br /><strong>Experience</strong>: 8 to 15 years</p>\n<p><em>This position is part of a pipeline for a future opportunity supporting the JSP ETM program. Employment is contingent upon contract award and government customer approval. AGE Solutions is actively engaging talent ahead of award and encourages both current incumbents and new candidates to express interest. </em></p><p><strong>At AGE Solutions, we reward performance, invest in growth, and share success.</strong> Our benefits support the whole person, professionally, financially, and personally.</p>\n<ul>\n<li><strong>26 Days Paid Leave:</strong> Includes vacation, sick, personal time, and holidays. You choose how to use it.</li>\n<li><strong>Performance Bonuses:</strong> Performance bonuses are awarded based on individual contributions and company-wide results, aligning recognition with impact.</li>\n<li><strong>401(k) with Match:</strong> We match 3% of your contributions with immediate vesting.</li>\n<li><strong>Financial Protection: </strong>Company-paid life insurance up to $300K and options for additional coverage for you and your dependents.</li>\n<li><strong>Health Benefits:</strong> Multiple medical plans, dental, vision, FSA and HSA options to fit your needs.</li>\n<li><strong>Parental Leave:</strong> 15 days of fully paid leave for new parents, because family matters.</li>\n<li><strong>Military Differential Pay:</strong> We bridge the gap for employees on active duty, so they don’t take a financial hit while serving.</li>\n<li><strong>Professional Growth:</strong> Paid training and certifications, tuition reimbursement, and the tools and tech to get the job done right.</li>\n<li><strong>Shared Success:</strong> In the event of a company sale, our CEO has committed to returning 80% of net proceeds to employees. This ensures our team shares in the long term value they help create.</li>\n</ul>\n<p><strong>At AGE, you’ll do work that matters, supported by a company that delivers for its people.</strong></p>",
+    "content_hash": "4d62d30c33a8cfaf7556e3bdc1715fe6"
+  }
+}

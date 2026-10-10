@@ -1,0 +1,47 @@
+{
+  "bc80de1af842": {
+    "id": "bc80de1af842",
+    "title": "Software Engineering Internship - Spring 2027",
+    "title_raw": "Software Engineering Internship - Spring 2027",
+    "company": {
+      "slug": "vital-lyfe",
+      "name": "VITAL LYFE",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles - Greater Area",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "vital-lyfe",
+      "external_id": "c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T22:51:06.578Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.434Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 30,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Vital Lyfe</strong></p><p>Vital Lyfe is a tech company redefining water autonomy through innovation, creating a new category of personal water making technology built to scale where infrastructure can’t.</p> <p><strong>The Mission</strong><br />We're looking for a Software Engineering Intern to help build the software behind a high-demand consumer hardware product. We're spinning up manufacturing from scratch, scaling fast, and the software you work on will directly affect how we build, track, and deliver thousands of units.<br /><br />You'll work alongside senior engineers on the tools, data systems, and infrastructure that power our operations and help us scale.<br /><br /><strong>What You'll Do</strong><br />• Build and improve internal tools that give our engineering and operations teams real-time visibility into production and manufacturing workflows<br />• Write integrations and scripts that connect systems and keep data reliable across the company<br />• Design and maintain dashboards that help teams understand operational data and make better decisions<br />• Assist with backend and cloud infrastructure work as we continue scaling our services<br />• Debug issues, write tests, and ship improvements alongside senior engineers<br /><br /><strong>What We're Looking For</strong><br />• Strong programming fundamentals and comfort learning new systems quickly<br />• Experience with at least one modern programming language such as Python or TypeScript<br />• Interest in software that supports real-world products and operations<br />• Familiarity with APIs, web applications, or cloud-based systems<br />• Practical and curious, with a habit of taking ownership and following through<br />• Able to break down a problem, work through it, and know when to ask for help<br />• Excited to work in a fast-paced environment where software and hardware intersect<br /><br /><strong>Nice to Have</strong><br />• Experience supporting or contributing to live backend systems<br />• Background in building user-facing interfaces with React or a similar frontend framework<br />• Exposure to SQL, structured data formats, and dashboards or data visualization tools<br />• Familiarity with AWS or cloud infrastructure<br />• Interest in manufacturing, hardware-software integration, or IoT systems<br /><br /><strong>Why Join Vital Lyfe?</strong><br />• Work on high-impact problems with global relevance<br />• Contribute to technology addressing water security and climate resilience<br />• Tackle meaningful problems at the intersection of software, hardware, and operations<br />• See your work directly affect how we build, ship, and improve real-world products<br />• Learn quickly in a collaborative environment with broad exposure across engineering</p> <p>Location Requirement: Ability to work 100% onsite in Torrance, CA (remote or hybrid work will not be considered)</p><p></p><p>Vital Lyfe is an Equal Opportunity Employer; employment with Vital Lyfe is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>",
+    "content_hash": "42a9e6f830211c3be381042c5ac455cc"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "f3f161d0abd1": {
+    "id": "f3f161d0abd1",
+    "title": "Clinical Data Science Intern",
+    "title_raw": "Clinical Data Science Intern",
+    "company": {
+      "slug": "alcon",
+      "name": "Alcon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Fort Worth, Texas",
+      "city": "Fort Worth",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alcon/careers_alcon",
+      "external_id": "R-2026-50204"
+    },
+    "apply_url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:55:15.463Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:55:15.463Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>About Alcon:</b></p><p>Alcon helps people see brilliantly. As the global leader in eye care with a heritage spanning more than 75 years, we offer one of the broadest portfolios of products designed to enhance sight and improve people’s lives. Our Surgical and Vision Care products touch the lives of more than 260 million people in over 140 countries each year, supporting those living with conditions such as cataracts, glaucoma, retinal diseases, and refractive errors. Our more than 25,000 associates help enhance quality of life through innovative products, partnerships with eye care professionals, and programs that advance access to quality eye care. If you’d like to help change the way the world sees, this is your chance to Be Brilliant!</p><br /><p><b>Position Description:</b></p><p>Alcon is seeking a talented and motivated <b>Clinical Data Science Intern</b> to join our 2027 Summer Internship Program. The intern will contribute to a proof-of-concept project exploring the use of synthetic data generation compared with classical statistical resampling using Alcon’s historical clinical data.</p><p>Through this internship, the student will gain meaningful industry experience applying modern data-generation techniques to real-world clinical data. The intern will build technical skills in statistical programming, data augmentation, and statistical inference while evaluating how synthetic data may complement traditional analytic methods and support more robust and reproducible clinical-data insights.</p><br /><p><b>Potential Internship Project Areas:</b></p><p>Based on business needs and team alignment, the internship project may include opportunities such as:</p><ul><li>Generate synthetic patient data using techniques such as generative adversarial networks (GANs) or Bayesian networks.</li><li>Apply traditional statistical resampling approaches, including bootstrapping, to establish comparison benchmarks.</li><li>Evaluate whether analyses augmented with synthetic data can replicate key statistical findings from the original real-world clinical dataset.</li><li>Assess the fidelity, stability, reproducibility, benefits, and limitations of synthetic data compared with classical statistical resampling methods.</li><li>Develop an implementation framework and application for synthetic data generation and summarize recommendations for potential future use with clinical data.</li></ul><br /><p><b>Minimum Qualifications:</b></p><ul><li>Must be enrolled in an accredited university or college for at least one semester prior to internship or co-op, and at least one additional semester following internship or co-op.</li><li>Must be pursuing a M.S. or PhD in statistics, biostatistics, data science, or a related quantitative discipline.</li><li>Working knowledge of R or Python programming.</li><li>Academic performance: Minimum cumulative GPA 2.8/4.0.</li><li>Demonstrated leadership skills, such as involvement in extracurricular activities, academic projects, research, or related experiences.</li><li>Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. Students on an F-1 visa with CPT can be accommodated.</li><li>Ability to commit to a 10–12-week, full-time internship of 40 hours per week.</li></ul><p></p><p><b>ATTENTION: Current Alcon Employee/Contingent Worker</b></p><p></p><p>If you are currently an active employee/contingent worker at Alcon, please click the appropriate link below to apply on the Internal Career site.</p><p></p><p>Find Jobs for Employees</p><p></p><p>Find Jobs for Contingent Worker</p><p></p><p><b><i>ALCON IS AN EQUAL OPPORTUNITY EMPLOYER AND PARTICIPATES IN E-VERIFY</i></b></p><p><i>Alcon takes pride in maintaining an inclusive environment that values different perspectives and our policies are non-discriminatory in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status. Alcon is also committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please send an email to <b>alcon.recruitment@alcon.com</b> and let us know the nature of your request and your contact information.</i></p>",
+    "content_hash": "985f5c3878674bcacf7c3e6ce306905e"
+  }
+}

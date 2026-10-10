@@ -1,0 +1,132 @@
+{
+  "8705933a73d3": {
+    "id": "8705933a73d3",
+    "title": "Data Engineering Intern",
+    "title_raw": "Data Engineering Intern",
+    "company": {
+      "slug": "ibotta",
+      "name": "ibotta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid - Denver",
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ibotta",
+      "external_id": "666cac72-9e06-46ee-aea0-576f766338b2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T18:47:33.047Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.426Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 34.23,
+      "max": 34.23,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ibotta is seeking a <strong>Data Engineering Intern</strong> to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our <strong>2027 Summer Internship</strong>, you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your career. We are looking for candidates who are eager to learn, excited to work on real-world business challenges, and want to be part of a mission-driven company.</p> <p>This will be a full-time, 12 week, internship during the summer of 2027. This is a hybrid position located in Denver, Colorado and requires 3 days in-office per week. Required in-office hybrid days are Tuesday, Wednesday, and Thursday.</p> <p>Candidates must live in the United States.</p> <p><strong>What you will be doing:</strong></p><ul><li><p>Explore Next-Gen Secure Data Sharing: Learn, leverage, and gain practical experience building and supporting secure data sharing solutions across multi-cloud environments using privacy first Clean Rooms, open protocols, and cloud storage utilities.</p></li><li><p>Automate &amp; Scale Infrastructure: Build, maintain, and deploy reusable multi cloud infrastructure (Terraform) on AWS and Databricks Platform. Administer Databricks Unity Catalog to enforce unified governance, access controls, and asset discovery.</p></li><li><p>Collaborate Across Engineering: Work alongside senior platform engineers, security, and internal domain teams to integrate downstream workflows smoothly into governed escrow endpoints</p></li></ul> <p><strong>What we are looking for:</strong></p><ul><li><p>Academic Background: Rising Juniors or Seniors working towards a Bachelor’s degree with a focus in Computer Science, Software Engineering, Data Engineering, Data Analytics, or a related technical field.</p></li><li><p>Core Technical Foundations: Hands-on experience or coursework in Python, SQL, big data and or  distributed systems</p></li><li><p>Data Platform Interest: Exposure to relational databases, distributed data systems (Spark, Hadoop, Databricks), or modern cloud platforms (AWS, GCP, or Azure).</p></li><li><p>Problem-Solving Mindset: Analytical and creative problem-solving skills with a desire to build reusable, \"Build Once, Scale Many\" automation rather than one-off scripts.</p></li><li><p>Communication &amp; Curiosity: Strong verbal and written communication skills with a hunger to collaborate, learn complex distributed architectures, and take ownership of projects.</p></li><li><p>Self-Motivated: Highly organized, self-directed, and eager to tackle end-to-end technical challenges from design to execution.</p></li><li><p>Embrace and uphold Ibotta’s Core Values: <em>Integrity, Boldness, Ownership, Teamwork, Transparency &amp; A good idea can come from anywhere</em></p></li></ul> <p>About Us:</p><p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $1.8 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.</p><p></p><p>To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com</p> <p> <strong>Additional Details:</strong></p><ul><li><p>This position is located in Denver, CO and includes competitive pay and housing assistance for out of state students. <strong>Denver office perks include snacks, and occasional meals.</strong></p></li><li><p>The hourly compensation for this role is: <strong>$34.23</strong> per hour worked. This compensation range is specific to the United States labor market.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul><p>#LI-Hybrid</p><p>#BI-Hybrid</p> <p><strong>Recruiting Agency Notice</strong></p><p>Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p>",
+    "content_hash": "3f4ece8dde94a97364b42657da9e46a3"
+  },
+  "873859075945": {
+    "id": "873859075945",
+    "title": "Software Delivery Management Intern",
+    "title_raw": "Software Delivery Management Intern",
+    "company": {
+      "slug": "allied-solutions",
+      "name": "Allied Solutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Carmel, IN",
+      "city": "Carmel",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliedsolutions/Allied_External",
+      "external_id": "R-011086"
+    },
+    "apply_url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:59:51.987Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.  <br /><br />Interested applicants must be available during the 12-week program (May 17th – Aug. 6th, 2027). This is a full-time internship (40-hours per week) based at our headquarters in Carmel, IN. <br /><br />As a Software Delivery Management Intern, you will support the Software Product Management and Product Owner teams in driving the successful, on-time delivery of software products. You’ll gain hands-on exposure to Agile delivery practices, backlog management, cross-functional coordination, delivery reporting, and the use of AI-enabled tools to improve team productivity, documentation, and decision-making. This role is ideal for a student interested in product management, project/program management, technology delivery, or AI-enabled ways of working. You will receive direct mentorship from experienced Product Managers and Product Owners while helping build reporting, documentation, dashboards, and process tools that keep multiple product teams aligned, informed, and on schedule.<p></p><p><b>Job Duties and Responsibilities</b></p><ul><li><p>Partner with Software Product Managers and Product Owners to maintain and groom product backlogs, user stories, and acceptance criteria. </p></li></ul><ul><li><p>Support sprint planning, backlog refinement, and other Agile ceremonies, including capturing notes, action items, and follow-ups. </p></li></ul><ul><li><p>Track software delivery milestones, dependencies, and release schedules across multiple product teams, flagging risks to timelines. </p></li></ul><ul><li><p>Help build and maintain status reports, dashboards, and delivery metrics (e.g., velocity, cycle time, defect trends) for stakeholders and leadership. </p></li></ul><ul><li><p>Use AI-enabled tools, where appropriate, to support documentation, meeting summaries, backlog organization, research, reporting insights, and process improvement opportunities. </p></li></ul><ul><li><p>Coordinate with engineering, QA, and UX partners to help ensure alignment on priorities, scope, and delivery timelines. </p></li></ul><ul><li><p>Assist with documentation of delivery processes, playbooks, and best practices to support continuous improvement across the team. </p></li></ul><ul><li><p>Conduct research on Agile/delivery management tools, industry trends, and process improvements, and present findings to the team. </p></li></ul><p></p><p><b>Qualifications (Education, Experience, Certifications &amp; KSA)</b> </p><ul><li><p>Currently enrolled in an undergraduate program as a rising Junior or Senior, pursuing a degree in Computer Science, Information Systems, Business Administration, Project/Program Management, or related field. </p></li></ul><ul><li><p>Strong interest in software product management, Agile delivery, technology delivery, AI-enabled productivity, or project/program management. </p></li></ul><ul><li><p>Excellent organizational skills with the ability to manage multiple tasks and priorities simultaneously. </p></li></ul><ul><li><p>Strong written and verbal communication skills; comfortable collaborating with cross-functional teams. </p></li></ul><ul><li><p>Analytical and problem-solving mindset; comfortable working with data and reporting tools. </p></li></ul><ul><li><p>Proficiency with Microsoft Office (Excel, PowerPoint); familiarity with Jira, Azure DevOps, or similar Agile tools is a plus. </p></li></ul><ul><li><p>Ability to work independently as well as part of a collaborative team environment. </p></li></ul><p></p><p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.<br /><br />#LI-SJ1</p><p>#LI-Onsite</p><p></p><p>We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.<br /><br />All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p><p></p><p>To view our privacy statement click here</p><p></p><p>To view our terms and conditions click here</p>",
+    "content_hash": "59477d798643410261d9d6f78159e1d1"
+  },
+  "873d3f286bcf": {
+    "id": "873d3f286bcf",
+    "title": "Internship: Software Engineer, Test",
+    "title_raw": "Internship: Software Engineer, Test",
+    "company": {
+      "slug": "revel",
+      "name": "Revel",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "revel",
+      "external_id": "f080b27d-92c7-4e1f-a85f-b4a7c166d738"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T21:36:11.352Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.964Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Revel</strong></h3><p>At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and safely.</p> <h3><strong>The Internship</strong></h3><p>As a Software Engineering – Test Intern at Revel, you’ll help build the infrastructure that allows us to continuously test software against real and simulated hardware.</p><p>You’ll work at the intersection of software engineering, hardware, and infrastructure, helping build and maintain Hardware-in-the-Loop (HIL) test systems and the automation that powers them. You’ll write Python, work with CI/CD systems, interact with test equipment and hardware, and help make our testing faster, more reliable, and more scalable.</p><p>This is a hands-on internship for students who enjoy figuring out how systems work, automating repetitive processes, and solving problems that span software and hardware. You’ll work closely with experienced engineers and gain exposure to the infrastructure behind software used to control mission-critical hardware.</p> <h3><strong>What You'll Do</strong></h3><ul><li><p>Build and maintain Hardware-in-the-Loop (HIL) testing systems</p></li><li><p>Write Python scripts and automation to improve software testing and development workflows</p></li><li><p>Help integrate test equipment, instrumentation, and hardware into automated test environments</p></li><li><p>Contribute to continuous integration (CI) and testing infrastructure</p></li><li><p>Help diagnose and troubleshoot failures across software, hardware, and test infrastructure</p></li><li><p>Improve the reliability, speed, and scalability of automated testing</p></li><li><p>Develop tools and processes that make it easier for engineers to test software against real-world hardware</p></li><li><p>Contribute to documentation and best practices around testing and automation</p></li><li><p>Collaborate with software, embedded, and hardware engineers to improve test coverage and reliability</p></li><li><p>Learn how software, infrastructure, and physical hardware come together in a production engineering environment</p></li></ul> <h3><strong>What We're Looking For</strong></h3><ul><li><p>Currently pursuing a Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Physics, or a related technical field</p></li><li><p>Rising Junior or Senior graduating in 2027 or 2028</p></li><li><p>Experience with Python or another programming language through coursework, personal projects, research, or previous internships</p></li><li><p>Strong problem-solving and debugging skills</p></li><li><p>Interest in software testing, automation, infrastructure, or hardware-software integration</p></li><li><p>Basic understanding of software development workflows and version control</p></li><li><p>Curious about how software interacts with real hardware and physical systems</p></li><li><p>Comfortable learning new tools, technologies, and systems</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Curious, self-directed, and excited to learn from experienced engineers</p></li><li><p>Comfortable working in a fast-paced, technically challenging environment</p></li><li><p>US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement)</p></li></ul> <h3><strong>Bonus Points</strong></h3><ul><li><p>Experience with Linux or command-line tools</p></li><li><p>Familiarity with CI/CD systems or automated testing frameworks</p></li><li><p>Experience with GitHub Actions, Jenkins, GitLab CI, or similar tools</p></li><li><p>Experience with data acquisition systems, instrumentation, or test equipment</p></li><li><p>Experience with microcontrollers, embedded systems, robotics, or hardware projects</p></li><li><p>Exposure to Hardware-in-the-Loop (HIL), Software-in-the-Loop (SIL), or simulation environments</p></li><li><p>Experience with Docker, virtual machines, or server infrastructure</p></li><li><p>Familiarity with networking and debugging communication between systems</p></li><li><p>Experience with Rust, C, or C++</p></li><li><p>Interest in aerospace, automotive, robotics, autonomous systems, or industrial automation</p></li></ul> <h3><strong>Why Revel</strong></h3><ul><li><p><strong>Test software against real hardware</strong> — work on the infrastructure that connects software to the physical world</p></li><li><p><strong>Build automation that matters</strong> — create tools that engineers rely on every day</p></li><li><p><strong>Work across software and hardware</strong> — gain experience spanning applications, infrastructure, embedded systems, and physical test environments</p></li><li><p><strong>Learn from exceptional engineers</strong> — work closely with experienced software, embedded, and test engineers</p></li><li><p><strong>Solve challenging problems</strong> — debug failures that can span multiple layers of a complex system</p></li><li><p><strong>Grow quickly</strong> — work in a small, ambitious team where your contributions are visible and your learning curve is steep</p></li></ul> <h3><strong>Internship Details</strong></h3><ul><li><p><strong>Program:</strong> Summer 2027 Internship</p></li><li><p><strong>Duration:</strong> June - August 2027</p></li><li><p><strong>Type:</strong> Summer, paid internship</p></li><li><p><strong>Location:</strong> Los Angeles or San Francisco</p></li><li><p><strong>Work environment:</strong> On-site</p></li><li><p><strong>Travel:</strong> Occasional travel to customer sites may be required</p></li></ul> <p><em><strong>Join us to redefine what’s possible in software for hardware.</strong></em></p> <p><strong>ITAR Requirements</strong><br />To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "8a771aac6d749d250442b09d01eb3036"
+  }
+}

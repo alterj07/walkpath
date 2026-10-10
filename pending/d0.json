@@ -1,0 +1,137 @@
+{
+  "d029d5d26db9": {
+    "id": "d029d5d26db9",
+    "title": "Growth Manager, Student Engagement",
+    "title_raw": "Growth Manager, Student Engagement",
+    "company": {
+      "slug": "stepful",
+      "name": "Stepful",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "stepful",
+      "external_id": "ec0e3b7c-fdb1-40c0-a92b-9d87036cb28a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/stepful/ec0e3b7c-fdb1-40c0-a92b-9d87036cb28a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T19:03:41.861Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:23.727Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 60,
+      "max": 90,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Stepful</strong>:</p><p></p><p>Stepful is a workforce platform redefining how America's largest health systems build, train, and retain their talent. Since our founding in 2021, Stepful’s trained over 32,000 practice-ready healthcare workers.</p><p><br />Layering onto our successful direct-to-consumer training, Stepful partners with leading healthcare institutions to address the growing national shortage of healthcare workers. We’re improving access to quality healthcare for everyone, everywhere, and improving access to healthcare career ladders for those who need them most.</p><p><br />Our students form the talent pipelines for major employers such as NY-Presbyterian, Mt. Sinai, HCA, Providence, CVS, and Walgreens. We have partnerships with half of the top 10 health systems in the US and are in process with many more.</p><p><br />Stepful is backed by Y Combinator, Reach Capital, and AlleyCorp, with a recent $55M Series C led by Oak HC/FT. We were named the #1 EdTech company in the U.S. by TIME for 2025.</p><p></p><p><strong>Our values</strong>:</p><p></p><p>We credit much of our success to our exceptional team. We’re looking for mission-driven builders who thrive in fast-paced, ambiguous environments, and embody our four core values:</p><ul><li><p><strong>Care first</strong>: We do whatever it takes for our students to succeed.</p></li><li><p><strong>Learn quickly</strong>: We test, learn with data, and iterate.</p></li><li><p><strong>Build together</strong>: We win when we rely on each other.</p></li><li><p><strong>Own it</strong>: We show up, take initiative, and show pride.</p></li></ul><p></p><h3><strong>Backround</strong></h3><p>As Stepful has grown, student communications have expanded across multiple Product squads and Operations teams. This has enabled teams to move quickly and support students at many points in their journey, but it has also created an opportunity to bring greater consistency, visibility, and shared standards to how we communicate.</p><p>Today, student-facing messaging is shared across many teams: Growth, Student Experience, Careers, Partner Experience, and Operations. We want to establish a clearer end-to-end view of what students receive between enrollment and graduation, understand which communications are most effective, and create a sustainable operating model for how teams build and manage student outreach going forward.</p><p></p><h3>The Role</h3><p>We are looking for a contract Student Engagement Manager to help bring greater structure and consistency to Stepful’s student communications: what we send, when we send it, how it reads, and how multiple teams contribute to the experience.</p><p>This is a hands-on role. You will work directly in Customer.io to audit and improve existing campaigns and workflows, partner with Product and Operations to map the current student journey, and create clear processes and standards that teams can continue using after the engagement ends.</p><p>We are intentionally scoping this as a <strong>1099 contract role (remote - NYC) </strong>because the immediate opportunity is well defined: establish the foundation, simplify the existing communication ecosystem, and leave behind systems and standards that the broader team can maintain.</p><p></p><h3>Scope of Work</h3><p><strong>1. Map the student communications journey</strong></p><p>Timing: Weeks 1–4</p><ul><li><p>Create an end-to-end view of student communications from enrollment through graduation.</p></li><li><p>Document messages by channel, trigger, timing, and owner.</p></li><li><p>Identify areas of overlap, gaps, or opportunities to improve clarity and effectiveness.</p></li><li><p>Develop a prioritized list of communications opportunities tied to student retention, engagement, and graduation.</p></li></ul><p><strong>2. Optimize and organize Customer.io</strong></p><p>Timing: Weeks 3–8</p><ul><li><p>Audit active campaigns, segments, triggers, and templates.</p></li><li><p>Retire outdated or duplicative workflows where appropriate.</p></li><li><p>Establish clear naming, tagging, and organizational conventions.</p></li><li><p>Document active workflows and ownership so teams can navigate and maintain the platform confidently.</p></li></ul><p><strong>3. Build a multi-squad communications operating model</strong></p><p>Timing: Weeks 6–10</p><ul><li><p>Create a lightweight process for proposing, reviewing, launching, and retiring student communications.</p></li><li><p>Establish intake, QA, and review standards.</p></li><li><p>Create shared visibility into upcoming sends and potential communication conflicts.</p></li><li><p>Define practical ownership and decision-making guidelines across teams.</p></li></ul><p><strong>4. Establish communications strategy and style guidelines</strong></p><p>Timing: Weeks 8–12</p><ul><li><p>Document voice and tone principles for student communications.</p></li><li><p>Define recommended structures and standards for email and SMS.</p></li><li><p>Establish guidance for channel selection, including when to use email, SMS, or in-product messaging.</p></li><li><p>Create guidelines that Product Managers and operators can apply independently.</p></li></ul><p></p><h3><strong>Out of Scope</strong></h3><ul><li><p>Owning Stepful’s broader student engagement strategy or Product roadmap.</p></li><li><p>Acquisition and top-of-funnel marketing communications.</p></li><li><p>B2B or partner-facing communications.</p></li><li><p>People management or squad leadership.</p></li><li><p>Building new product surfaces that require engineering work.</p></li></ul><p>If the engagement identifies product or engineering opportunities, those will be documented and handed off to the appropriate squad.</p><p></p><h3><strong>What Success Looks Like</strong></h3><p>At the end of the engagement:</p><ul><li><p>Stepful has a single, up-to-date view of the student communications journey, with clear ownership across touchpoints.</p></li><li><p>Customer.io is organized, documented, and easier for teams to navigate and maintain.</p></li><li><p>Product and Operations teams have a clear process for proposing, reviewing, launching, and retiring communications.</p></li><li><p>Shared voice, structure, and channel standards are documented and reflected in student messaging.</p></li><li><p>The team has a prioritized, evidence-informed set of opportunities to improve student retention, engagement, and graduation through communications.</p></li></ul><p></p><h3><strong>Engagement Details</strong></h3><ul><li><p>Shape: Approximately 3-month contract engagement, with a midpoint check-in to assess progress and future needs.</p></li><li><p>Commitment: Approximately 20–30 hours per week.</p></li><li><p>Reports to: Director of Product.</p></li><li><p>Day-to-day partnership: Student Experience Product team.</p></li><li><p>Key collaborators: Product Managers, Operations, Design, and Data.</p></li><li><p>Potential future opportunity: Based on business needs and the outcomes of the engagement, Stepful may evaluate whether student engagement warrants a permanent owner.</p></li></ul><p></p><h3><strong>Who Fits</strong></h3><p>We are looking for a lifecycle, CRM, or student/customer engagement professional who has personally improved and organized an existing marketing automation environment.</p><p>Strong candidates will bring:</p><ul><li><p>Hands-on experience with Customer.io, Braze, Iterable, or a similar lifecycle automation platform.</p></li><li><p>Experience auditing, reorganizing, and improving existing campaigns, workflows, segments, and triggers.</p></li><li><p>Experience with lifecycle communications tied to retention, engagement, completion, or similar outcomes— especially for products with long usage periods, where retention is key.</p></li><li><p>Strong writing judgment and the ability to create voice and messaging standards that others can follow.</p></li><li><p>Comfort introducing structure and shared processes across cross-functional teams without formal authority.</p></li><li><p>The ability to operate independently, make practical decisions, and leave behind documentation and systems that others can maintain.</p></li></ul><p>Experience in education, healthcare training, subscription, community, or another business with a complex user journey is a plus.</p><p>The hourly rate range for this opportunity is <strong>$60.00/hour - $90.00/hour.</strong> Individual pay may vary from the target range and is determined by a number of factors including experience, internal pay equity and other relevant business considerations.</p><p></p><p><strong>Stepful is proud to be an equal opportunity employer</strong>. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex, marital status, ancestry, disability, genetic information, veteran status, gender identity or expression, sexual orientation, pregnancy, or other applicable legally protected characteristic.</p><p>--</p><p>In light of recent hiring scams, if you're selected to move onto the next phase of our hiring process, a member of our Talent Acquisition team will reach out to you directly from an <strong>@stepful.com</strong> email address to guide you through our interview process.</p>",
+    "content_hash": "322d7df6f210c0dfc9d162f5e15390d1"
+  },
+  "d0a2992fb355": {
+    "id": "d0a2992fb355",
+    "title": "Software Engineer - Product (New Grad)",
+    "title_raw": "Software Engineer - Product (New Grad)",
+    "company": {
+      "slug": "julius-ai",
+      "name": "Julius AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "julius",
+      "external_id": "5e0b677a-f677-44de-93c6-f7848ab5a8e6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-21T00:32:30.409Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:13.177Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 130000,
+      "max": 150000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Benefits:</strong> Health &amp; dental insurance, gym reimbursement, daily team meals, commuter benefits</p><p>We are an early stage applied AI startup building agents that automate knowledge work with code. We’re on a mission to enable one billion humans to become software creators, and we are starting with a focus on data science and analysis use cases.</p><p>Today, Julius writes and executes 1 million lines of code every 36 hours, has served over 1 million users and generated over 3 million data visualizations.</p><p>We're a small technical team with experience from Uber, Facebook and Scale AI. We're making revenue and we're backed by some of best investors like AI Grant, YCombinator, Bessemer Venture Partners and founders of Vercel, Notion, Perplexity, Palantir, Replit, Zapier, Intercom, Dropbox and researchers from OpenAI and Google DeepMind.</p><p>Building intuitive and performant user interfaces is critical to making Julius easy to use for over 1 million users. Our interface has several moving parts including tool use, multi-step reasoning, code generation, code execution, file and secrets management, and more. You will get to define and build the experiences for all of these as we scale to our future milestones.</p><p><strong>What you'll do:</strong></p><ul><li><p>Build products that bring AI capabilities to millions of people</p></li><li><p>Design and implement intuitive, responsive, and performant user interfaces</p></li><li><p>Optimize application performance and ensure cross-browser compatibility</p></li></ul><p><strong>What we're looking for:</strong></p><ul><li><p>Experience with React, Next.js, Tailwind CSS, Python</p></li><li><p>Have previous internships or relevant experience where you’ve shipped production level code</p></li><li><p>Strong understanding of frontend frontend primitives: component architecture, state management, streaming UIs, and performance profiling</p></li><li><p>Strong understanding of backend systems, in particular - relational databases, caching, background jobs, and auth.</p></li><li><p>Examples of live projects or products you've built</p></li></ul><h3><strong>About the interview</strong></h3><ul><li><p>Intro call</p></li><li><p>Short paid work trial (2-5 days). Own and ship a project in Julius</p></li></ul>",
+    "content_hash": "13acd4b51517488838ea54341672c1ce"
+  },
+  "d0b0588c332e": {
+    "id": "d0b0588c332e",
+    "title": "Specialized Assistant: Student 1:1",
+    "title_raw": "Specialized Assistant: Student 1:1",
+    "company": {
+      "slug": "lansing-school-district",
+      "name": "Lansing School District",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Lansing, MI",
+      "city": "Lansing",
+      "state": "MI",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "lansingschools",
+      "external_id": "324acbb7-fa7b-43a3-9789-97023fc6384f"
+    },
+    "apply_url": "https://jobs.lever.co/lansingschools/324acbb7-fa7b-43a3-9789-97023fc6384f/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T21:44:45.975Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:01:32.623Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 21.42,
+      "max": 25.66,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Lansing School District serves over 10,000 PreK-12 students across 25 school buildings in the increasingly diverse urban community of Lansing, MI. We are unique compared to other districts because of the wide variety of exciting and innovative educational options from which families and staff members can choose. All of Lansing School District’s team members are dedicated to our mission to provide an excellent education to all students in a safe and nurturing environment.\n \nIn pursuit of this mission, we are hiring a Specialized Assistant. This individual will help ensure the safety and success of students in the building that they are assigned to, which are often students with disabilities. Specialized Assistants build relationships with students they work with, support teachers in ensuring that students are engaged and supported during lessons, and interact with parents and families. They are a crucial component of a student's support structure at school. Often, Specialized Assistants support students with special education needs and disabilities. \nThe Lansing School District serves over 10,000 PreK-12 students across 25 school buildings in the increasingly diverse urban community of Lansing, MI. We are unique compared to other districts because of the wide variety of exciting and innovative educational options from which families and staff members can choose. All of Lansing School District’s team members are dedicated to our mission to provide an excellent education to all students in a safe and nurturing environment.\n \nIn pursuit of this mission, we are hiring a Specialized Assistant. This individual will help ensure the safety and success of students in the building that they are assigned to, which are often students with disabilities. Specialized Assistants build relationships with students they work with, support teachers in ensuring that students are engaged and supported during lessons, and interact with parents and families. They are a crucial component of a student's support structure at school. Often, Specialized Assistants support students with special education needs and disabilities. \n<h3>Minimum Qualifications - Must have one of the following:</h3>\nAssociate's Degree \n60 completed college credits \nProof of passing the ETS Paraprofessional Exam \n\n<h3>Preferred Qualifications</h3>\nPrevious experience working with students in small group and RTI settings \nUnderstanding of how to read and understand a student's IEP \nDesire to become a certified teacher long term \n\n<h3>Job Responsibilities</h3>\nDemonstrate passion for working with students, especially in one on one and small group situations, and especially students with special education needs \nEffectively prioritize tasks as assigned by teachers and school leaders \nEnsure safety of students on caseload \nLearn and grow by incorporating feedback from school leaders, colleagues, students, and professional development sessions \nBuild relationships with students and parents to ensure a safe, welcoming, and engaging learning environment \nOther duties as assigned to best support the Lansing School District mission \n\nAt the Lansing School District, we champion diversity, equity, and inclusion, providing equal opportunities to all qualified applicants regardless of race, color, religion, sex, national origin, age, disability, or sexual orientation. We foster a rich environment for professional growth and student experiences by valuing diverse perspectives. As an equal opportunity employer,<strong> we invite passionate individuals dedicated to educational excellence to apply for our positions</strong>.\n \nWe value internal mobility and list<strong> \"Strong Internal Candidate\"</strong> when considering an internal candidate before posting a job. We still encourage all candidates to apply.\n \nComplete the attached online application at your earliest convenience. If selected, we will contact you to set up an interview. While we strive to provide prompt feedback, the high volume of applicants may limit our ability to do so. All of our jobs will be posted for at least 10 days (unless otherwise noted), but we will review applications on a rolling basis.\n \nExternal candidates interested in multiple positions within the same department need <strong>only apply to one posting</strong> and can indicate other roles of interest in the final question. We will consider your application for various roles based on your qualifications.\n \nInternal candidates should apply using their SSO email address and submit separate applications for each role of interest.\nThank you for your interest in joining our mission-driven team. We look forward to meeting you!\n \nThis job description is intended to outline the general responsibilities and qualifications for the position. It is not an exhaustive list of duties, and the Lansing School District reserves the right to modify job responsibilities as needed. Due to the evolving needs of the District, <strong>additional job responsibilities may be assigned</strong> (depending on funding sources).",
+    "content_hash": "130f6e8396e7528a39538e6337528661"
+  }
+}

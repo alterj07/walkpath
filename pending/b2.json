@@ -1,0 +1,47 @@
+{
+  "b2400beea00f": {
+    "id": "b2400beea00f",
+    "title": "Payment Operations (New Grad / Early Career)",
+    "title_raw": "Payment Operations (New Grad / Early Career)",
+    "company": {
+      "slug": "column",
+      "name": "Column",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "column",
+      "external_id": "c349d594-33a2-49a2-a168-afa8d8226572"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/column/c349d594-33a2-49a2-a168-afa8d8226572/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-14T22:27:25.648Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.401Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Column</h3><p>For companies building financial technology and transforming the financial services space, the biggest bottleneck to their growth and innovation is often the underlying banks and infrastructure stack they rely on. We have spent our careers founding and scaling companies like Plaid, Square, Meta, Blend, and Affirm, and have seen this problem firsthand — builders and developers needing to partner with traditional banks, and creating API and abstraction layers over the patchwork that is the bank, its core, and many other vendors. All of this results in a complex (and often expensive) banking supply chain involving a user, fintech, BaaS middleware provider, bank, core and the Federal Reserve.</p><p><br />At Column, we set out to simplify and fix this. We are a bank and a software company built from the ground up, offering builders and developers technology-forward banking solutions that cut out the hundreds of vendors, middleware providers, and abstraction layers. This means a safer, more transparent, and less costly banking supply chain. Come build with us!</p><p></p><h3><strong>The opportunity</strong></h3><p>Payment Operations is a critical pillar of delivering a best-in-class banking experience for our customers. As a core member of this growing team, you’ll help scale Column’s payment operations function—from developing robust internal processes to providing white-glove support for payment-related customer requests. You’ll be directly responsible for investigating and resolving issues across ACH, wires, checks, international payments, Real Time Payments  “RTP”, and FedNow, while partnering with internal teams and other financial institutions to ensure timely and accurate resolution.</p><p>This is a high-impact, cross-functional role with the opportunity to influence how we build a modern operations function from the ground up. Success in this role looks like using technical prowess to  create scalable systems, continuously improving efficiency and service quality, and becoming a subject matter expert in Column’s payment rails and infrastructure.</p><p>This role reports to the Head of Solutions Engineering and is based in our Presidio office in San Francisco (3+ days/week in-person).</p><p></p><p><strong>What you’ll do</strong></p><ul><li><p>Design and implement systems to optimize, automate, and scale our  operational workload using technical skills like Retool, SQL, Python, and Javascript.</p></li><li><p>Operate and continuously improve Column’s end-to-end payment operations processes, spanning ACH, wire, RTP, FedNow, and checks.</p></li><li><p>Manage the payment operations queue—triaging, investigating, and resolving both customer and external bank inquiries.</p></li><li><p>Develop and maintain key performance metrics and dashboards to track the health and efficiency of operations.</p></li><li><p>Partner with Engineering, Business, Compliance, Risk, and Customer teams to ensure consistent, accurate, and compliant resolution of issues.</p></li><li><p>Document processes, playbooks, and internal knowledge to enable onboarding and future scale.</p></li><li><p>Contribute to ongoing risk management by identifying operational risks and suggesting process or tooling improvements.</p></li></ul><p></p><p><strong>What you’ll need to be successful</strong></p><ul><li><p>Bachelor’s degree</p></li><li><p>Lightweight technical skills (SQL, Javascript, Python) with an aptitude to learn quickly/use AI</p></li><li><p>Familiarity with NACHA operating rules, wire transfer standards, and payment processing concepts.</p></li><li><p>Strong written and verbal communication skills; able to engage confidently with both technical and non-technical stakeholders.</p></li><li><p>Highly organized and able to manage competing priorities in a fast-paced environment.</p></li><li><p>Strong customer empathy and a bias for action—you're energized by solving problems for customers and fixing broken processes.</p></li><li><p>Excited to roll up your sleeves and build from scratch, with minimal oversight.</p><p></p></li></ul><h3><strong>What you’ll get from us:</strong></h3><ul><li><p>🏥 Comprehensive health, dental, and vision plans, including options that are 100% covered by Column for you and 100% covered for your dependents!</p></li><li><p>🐣 Comprehensive family planning and fertility benefits via partnership with Carrot, including reimbursement of up to $20,000 in qualified expenses</p></li><li><p>🏡 Up to $2,000 (post-tax) monthly rent subsidy for employees living within 2 miles of Column’s office</p></li><li><p>💳 FSA and HSA account options to enable use of pre-tax money for medical and dependent care expenses</p></li><li><p>📈 401k plan, including self-directed brokerage options</p></li><li><p>🌴 Flexible time-off policy - take the time off that you want and need to relax and recharge</p></li><li><p>🧳 Sabbatical Program - Reach your 5-year anniversary to take up to 8 weeks of fully paid leave to rest, recharge, and pursue personal interest - with full salary and benefits</p></li><li><p>👶 100% paid parental leave, including 16 weeks for birth mothers, 12 weeks for primary caregivers, and 8 weeks for secondary caregivers</p></li><li><p>😇 Up to $4,500 in annual reimbursements for backup childcare</p></li><li><p>🍽️ Catered lunches and dinners for SF employees</p></li><li><p>🚆 Commuter benefits, including paid transportation to-and-from the office</p></li><li><p>🎉 Regular team building events, including annual offsite</p></li></ul><p></p><h3><strong>We look forward to hearing from you</strong></h3><p>Column is committed to working with the best and brightest people from the broadest talent pool possible. We value bringing together a team with different perspectives, educational backgrounds, and life experiences, and believe a diversity of ideas is what allows us to develop the best solutions. All qualified individuals are encouraged to apply.</p><p><br />If you need assistance or a reasonable accommodation during the application and recruiting process, please reach out to accommodations@column.com.</p><p></p><p>We participate in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program here.</p>",
+    "content_hash": "10b93e0f36313fc1f39245878ebb388e"
+  }
+}

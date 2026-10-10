@@ -1,0 +1,90 @@
+{
+  "4a337d6eb4ea": {
+    "id": "4a337d6eb4ea",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "hadrian",
+      "name": "Hadrian",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles, CA",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "hadrian-automation",
+      "external_id": "2b0423c6-947d-4226-8d23-90743bd5e63e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T21:46:58.459Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.392Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 46.15,
+      "max": 50.71,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>Hadrian - Manufacturing the Future</strong></h3><p>Hadrian is building autonomous factories to reindustrialize America. By combining AI, advanced software, robotics, and full-stack manufacturing, we help aerospace and defense companies build rockets, satellites, aircraft, ships, and other mission-critical systems up to 10x faster and at significantly lower cost.</p><p><br />Following our $1.37B Series D at a $7.87B valuation, Hadrian is rapidly expanding our manufacturing footprint, launching new capabilities across welding, casting, forging, electronics, additive manufacturing, and more, while scaling our Factory-as-a-Service platform to transform how critical products are built.</p><p><br />Backed by leading investors including JPMorgan Chase, Valor Equity Partners, Andreessen Horowitz, Founders Fund, 137 Ventures, Lux Capital, T. Rowe Price, and Morgan Stanley, we’re building the future of American manufacturing—and looking for exceptional people to help make it happen.</p><p><br />If you’re ready to take on the most challenging and rewarding work of your career while helping create American manufacturing jobs for generations to come, you’re exactly who we’re looking for.</p><p></p><p><strong>The Role:</strong></p><p>Hadrian is looking for a Software Engineer Intern to join the team building the software backbone of our autonomous factory. You'll work alongside experienced engineers on real production systems from internal tooling and data pipelines to the software that powers factory operations and customer-facing workflows. This is a hands-on role where your code will ship, and your contributions will directly impact how Hadrian scales.</p> <p><strong>What You’ll Do</strong></p><ul><li><p>Build and improve internal tools, dashboards, and automation systems that support factory operations</p></li></ul><ul><li><p>Contribute to backend services, APIs, and data pipelines used across engineering, operations, and quality teams</p></li></ul><ul><li><p>Help design and implement features that improve visibility into production workflows, capacity, and program status</p></li></ul><ul><li><p>Collaborate with cross-functional teams including operations, program management, and quality to understand requirements and deliver software solutions</p></li></ul><ul><li><p>Write clean, well-tested code and participate in code reviews</p></li></ul><ul><li><p>Surface technical risks and contribute to architectural discussions</p></li></ul> <p><strong>What We’re Looking For</strong></p><ul><li><p>Current university student pursuing a Bachelor's or Master's degree in Computer Science or a related field, with an expected graduation date between December 2027 and June 2028</p></li></ul><ul><li><p>Proficiency in one or more programming languages (Python, TypeScript, Go, or similar)</p></li></ul><ul><li><p>Familiarity with backend development, APIs, or data engineering</p></li></ul><ul><li><p>Strong problem-solving skills and ability to work through ambiguous technical challenges</p></li></ul><ul><li><p>Clear written and verbal communication</p></li></ul><ul><li><p>Strong attention to detail and follow-through</p></li></ul><ul><li><p>Excitement for manufacturing, aerospace, defense, or industrial systems</p></li></ul><ul><li><p>Comfortable working in a fast-moving, highly ambiguous environment</p></li></ul><ul><li><p>Willingness to work on-site in Los Angeles, CA</p></li><li><p>Internships are available for our Fall 2026, Spring 2027, and Summer 2027 cohorts. Indicate your preferred term(s) when applying</p></li></ul><p></p><p><strong>What Will Set You Apart</strong></p><ul><li><p>Prior internship or project experience shipping production software</p></li></ul><ul><li><p>Interest in manufacturing systems, automation, or industrial software</p></li></ul><p></p><p><strong>What you’ll Gain</strong></p><ul><li><p>Hands-on experience building software for a high-growth, mission-driven industrial company</p></li></ul><ul><li><p>Direct involvement in real production systems, not just internal tools or side projects</p></li></ul><ul><li><p>A front-row seat to how Hadrian is transforming aerospace and defense manufacturing through software, automation, and data</p></li></ul><p></p><p><strong>Compensation</strong></p><p>For this role, the target hourly range is <strong>$46.15 - $50.71</strong></p><p>This reflects the lowest to highest hourly rate we reasonably and in good faith believe we would pay for this intern position at the time of this posting. We may ultimately pay more or less than the posted range, and the range is subject to change. An intern's hourly rate within this range will be based on several factors, including, but not limited to relevant education, prior experience, skills, geographic location, and the nature of the internship assignment.</p> <p><strong>Intern Benefits</strong></p><p>Housing support may be available based on business need.</p><p></p><h3>Benefits for Full-time Employees</h3><ul><li><p>Medical, dental, vision, and life insurance plans for employees <br />401k </p></li><li><p>Relocation support may be provided for certain situations, based on business need. </p></li><li><p>Flexible vacation policy </p></li><li><p>Equity</p></li></ul> <h3>ITAR Requirements</h3><p>To conform to U.S. Government export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen or national, lawful permanent resident, protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p> <h3>Use of AI in hiring</h3><p>Hadrian uses AI-assisted tools in our recruiting and hiring processes to help our team work more efficiently. This may include tools that help organize and analyze recruiting data, as well as an AI-powered notetaker that can record and transcribe interviews and help coordinate feedback. These tools support our team and are not used to make hiring decisions. All candidate evaluations and hiring decisions are performed by humans. If an interview will be recorded, you will be notified in advance and may opt out at any time with no impact on your candidacy. Candidate data processed through these tools is subject to the same protections described in our Privacy Policy.</p> <h3>Consideration of Criminal History</h3><p>Hadrian will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of all applicable laws. We do not ask about criminal history on our application, and we do not consider criminal history before making a conditional offer of employment.</p> <h3>Hadrian Is An Equal Opportunity Employer</h3><p>Hadrian does not unlawfully discriminate on the basis of race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, marital status, mental status, physical disability or any other legally protected status. When necessary, the Company also makes reasonable accommodations for disabled candidates and employees, including for candidates or employees who are disabled by pregnancy, childbirth, or related medical conditions.</p>",
+    "content_hash": "61b9b7b74a61830acb086ad0abb97865"
+  },
+  "4ab38566c164": {
+    "id": "4ab38566c164",
+    "title": "IT Engineer Intern (Early Careers Summer 2027)",
+    "title_raw": "IT Engineer Intern (Early Careers Summer 2027)",
+    "company": {
+      "slug": "affirm",
+      "name": "Affirm",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California, United States",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "affirm",
+      "external_id": "8011375003"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T21:47:29.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:35.954Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p><p>As an intern at Affirm, you will be a contributing member of our outstanding engineering team, and as such you will work on meaningful projects and frequently ship code. Recent grads and past interns have built a real-time high-throughput data processing pipeline, developed an extensive automated testing framework, and built out our proprietary financial platform that is central to our long term company mission.<br /><br />We are excited to meet and consider strong students for our 12-16 week internships. We are a dynamic organization that is happy to tailor projects to your skills, and we will work with you throughout the interview process to determine which team will be best for you.<br /><br /><strong>What You'll Do<br /></strong>Interns are responsible for developing and shipping a project and verifying that it works in production. Because things are changing fast at Affirm, we do not specify intern projects in advance, instead you will collaborate with your mentor and manager when you start to spec a project that will best contribute to your team.</p>\n<ul>\n<li>This role will ship code and monitor the deployment of your work. Our intern projects are not isolated or intended to be thrown away: your team will depend on your contributions!</li>\n<li>We pair interns with a dedicated mentor who will be by your side to give advice and ensure the success of your project. Expect to meet with them on a regular basis and receive feedback.</li>\n<li>There are opportunities to attend events with other interns and full-time Affirmers! Past events have included virtual cooking classes, executive fireside chats, cable car trolley tours, and Giants games.</li>\n<li>Interns present their work to the entire engineering organization at the end of the internship.</li>\n</ul>\n<p><strong>What We Look For</strong></p>\n<ul>\n<li>Passion and dedication to changing consumer banking for the better</li>\n<li>Experience with Python, C/C++ or Java</li>\n<li>Frontend experience in WebApps/JavaScript/AngularJS/React</li>\n<li>Strong communication skills</li>\n<li>Experience with object oriented programming</li>\n<li>Deployment and testing frameworks</li>\n<li>API development/documentation</li>\n<li>AWS or other PaaS frameworks</li>\n</ul>\n<p><br />Compensation is a set amount for the Intern role with no range.<br />USA hourly base pay: $50.00<br />USA monthly base pay: $8,700</p>\n<p><strong>Remote-first with flexibility built in</strong><strong><br /></strong>Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.</p>\n<p><strong>Benefits designed for you</strong><strong><br /></strong>Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:</p>\n<ul>\n<li>Health coverage at no cost: We cover 100% of premiums for employees and their dependents.</li>\n<li>Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.</li>\n<li>Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.</li>\n<li>Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.</li>\n</ul>\n<p>We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.</p>\n<p>For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.</p>\n\n\n<p>By clicking \"Submit Application,\" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described.</p>",
+    "content_hash": "e38b83cf430b55cbd36b9741121a78cc"
+  }
+}

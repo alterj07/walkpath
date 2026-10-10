@@ -1,0 +1,90 @@
+{
+  "4b45200f08e1": {
+    "id": "4b45200f08e1",
+    "title": "Pricing and Cross Car Line Analytics Intern - Franklin, TN - Summer 2027",
+    "title_raw": "Pricing and Cross Car Line Analytics Intern - Franklin, TN - Summer 2027",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Franklin, Tennessee - United States of America",
+      "city": "Franklin",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214245"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Pricing-and-Cross-Car-Line-Analytics-Intern---Franklin--TN---Summer-2027_R00214245",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-08T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Franklin, TN<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Business, Marketing, Finance, Economics, Information Systems, Data Analytics, Computer Science, or related field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Pricing &amp; Cross Carline Strategy Intern to join our team in Franklin, TN. This opportunity supports two key functions within Nissan's Marketing &amp; Sales organization: the Pricing team, which implements and tracks pricing strategies to support business objectives, and the Cross Carline CMM team, which leads strategic initiatives and operational activities impacting Nissan's full vehicle portfolio. Due to the highly cross-functional nature of the role, interns will gain exposure to a variety of business functions while contributing to projects that improve efficiency, reporting, and decision-making across the organization.<b><br /></b></p><p><b>A Day in the Life:</b></p><ul><li>Support the automation and modernization of pricing and reporting processes across the Pricing and Cross Carline CMM teams.</li><li>Assist with developing tools and systems, such as reservation and scheduling platforms for pre-production vehicle fleets.</li><li>Help consolidate and improve pricing approval workflows and vehicle launch timelines.</li><li>Build and enhance reporting solutions, dashboards, and automated processes using Microsoft 365 tools.</li><li>Collaborate with stakeholders across Marketing, Sales, Product Planning, and other business functions to support strategic initiatives.</li></ul><br /><p><b>Who We’re Looking For:</b></p><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Business, Marketing, Finance, Economics, Information Systems, Data Analytics, Computer Science, or a related field.</li><li>Students entering their Junior, Senior, or Master's program at the start of the upcoming academic term.</li><li>Strong project management and organizational skills with the ability to manage multiple priorities.</li><li>Excellent written and verbal communication skills.</li><li>Self-starter who can bring fresh ideas and challenge existing processes.</li><li>Strong proficiency with Microsoft 365 tools, including Copilot, Excel, PowerPoint, SharePoint, Power Automate, Power BI, and Power Apps.</li><li>Interest in process automation, reporting, business operations, and continuous improvement.</li><li>Exposure to Snowflake, SQL, Python, or other data and analytics tools is a plus.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Franklin, TN.</li></ul><br /><p><b>What You’ll Look Forward to at Nissan</b>:</p><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Franklin Tennessee United States of America",
+    "content_hash": "0328d5da136b4b4c450c68fced7b68f2"
+  },
+  "4bcab802dd4b": {
+    "id": "4bcab802dd4b",
+    "title": "AI Research Intern",
+    "title_raw": "AI Research Intern",
+    "company": {
+      "slug": "one-finance",
+      "name": "ONE Finance",
+      "domain": ""
+    },
+    "location": {
+      "raw": "United States (Remote)",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "oneapp",
+      "external_id": "84beb108-c04b-42d3-a9ae-9a91210201b7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T22:40:23.615Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.579Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2027",
+    "salary": {
+      "min": 32,
+      "max": 32,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3>About OnePay</h3><p>OnePay is the consumer fintech trusted by millions of Americans to make money better.</p><p>Our financial system is broken. High fees, low rates, and too few ways to actually grow your money. We’re fixing it. And we’re moving fast.</p><p>We’re an all-in-one financial services platform that brings together banking, high-yield savings, credit cards, point-of-sale lending, investing, and crypto in one place. We also partner with employers, HCM providers, gig platforms, and others to deliver embedded financial services to millions of employees and frontline workers.</p><p>We’re backed by Walmart, the world’s largest retailer, and Ribbit Capital, one of fintech’s most respected investors, giving us rare scale, distribution, and the opportunity to build something truly category-defining.</p><p>But what really sets OnePay apart is how we move. Our customers don’t have time to wait… and neither do we. This place moves fast, and we’re looking for people who are:</p><ul><li><p>Ready to run</p></li><li><p>Hungry and driven by urgency</p></li><li><p>Exceptional at what they do, with low ego</p></li><li><p>Comfortable operating in motion</p></li></ul><p></p><h3>The Role</h3><p>As an AI Research Intern, your mandate is to research and prototype foundation models, both transformer-based and graph-based, applied to OnePay's customer, transaction, and merchant data. You'll work on real modeling problems and build a working prototype that demonstrates the approach. This role will impact OnePay's vision by providing a remarkable customer experience, driving positive business outcomes, and improving operational efficiency. You will work closely with the product, engineering and applied science team(s) working across all business units. This role reports to the Head of AI/ML.</p><p>This role is responsible for:</p><ul><li><p>Research, design, and train foundation models on OnePay's data, working with transformer and/or graph-based architectures.</p></li><li><p>Run experiments, evaluate results rigorously, and turn promising findings into a working prototype.</p></li><li><p>Opportunity to work in an extremely fast paced growing company</p></li><li><p>Partner with Product, Engineering and Analytics teams to ensure we are providing a remarkable customer experience.</p></li><li><p>Driving significant impact on the company’s bottom line.</p></li></ul><p></p><h3>You Bring</h3><ul><li><p><strong>Final-Year Graduate Student: </strong>You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spring 2028, majoring in Engineering or a related field.</p></li><li><p><strong>Deep Learning Fundamentals:</strong> You have a strong grasp of how neural networks work under the hood, including backpropagation, attention, embeddings, optimization, and training dynamics. You've implemented, trained, or fine-tuned models yourself through research, coursework, or personal projects, and you're comfortable working in PyTorch or an equivalent framework.</p></li><li><p><strong>Prior Experience:</strong> You've completed at least one previous internship in research, machine learning, or software engineering, or have built substantial personal or academic projects you're excited to talk through.</p></li><li><p><strong>Availability:</strong> This is a full-time, 8-week program running June 21 - August 13, 2027. You are available to work in our New York City office at least 3-4 days a week throughout.</p></li><li><p><strong>Proactive &amp; Collaborative Attitude: </strong>You have an act-like-an-owner mentality, thrive in a fast-moving environment, and enjoy working with others to achieve collective goals.</p></li><li><p><strong>Critical Thinking &amp; Problem-Solving Skills:</strong> You enjoy tackling complex challenges, analyzing problems, and developing solutions. Clear communication of ideas is one of your strengths.</p></li><li><p><strong>Organized &amp; Detail-Oriented:</strong> You’re a keen listener with strong organizational skills, capable of managing multiple tasks efficiently.</p></li><li><p><strong>Excited to Learn &amp; Grow:</strong> You are passionate about being part of a rapidly growing start-up and look forward to expanding your skills in a real-world setting.</p></li></ul><p></p><h3>Nice to Have</h3><ul><li><p>Familiarity with transformer-based foundation model architectures, including pre-training, fine-tuning, inference, and the tradeoffs between approaches.</p></li><li><p>Exposure to graph-based learning or graph foundation models, such as GNNs, message passing, or representation learning on graph-structured data.</p></li><li><p>Coursework or projects involving Large Language Models or Generative AI.</p></li><li><p>Research output in any of the above: publications, workshop papers, or open-source contributions.</p></li></ul><p></p><h3>What We Offer</h3><ul><li><p>Early access to a high potential, high growth fintech</p></li><li><p>Hands on experience building product ready to ship</p></li><li><p>Beautiful NYC SoHo Office</p></li><li><p>Professional development and team social outings</p></li></ul><p></p><h3>Program &amp; Application Timeline</h3><ul><li><p>Program runs June 21 - August 13, 2027 (8 weeks, full-time, in our NYC office)</p></li><li><p>We review applications and conduct interviews on a rolling basis as they come in</p></li><li><p>No offer decisions will be made until the application window closes – all candidates are evaluated together before final decisions go out</p></li><li><p>We are targeting a finalized cohort by December 1, 2026</p></li><li><p>If there are intern spots still available, we may reopen applications in Spring 2027</p></li></ul><p></p><p><strong>Work Authorization: </strong>OnePay will not sponsor applicants who need employment sponsored visas for this position. Future sponsorship will not be considered.</p><p></p><h3>Standard Interview Process</h3><p>Our process varies by role. Most candidates go through:</p><ul><li><p>AI-assisted initial screen</p></li><li><p>Interview with Talent Partner</p></li><li><p>Technical or Hiring Manager Interview</p></li><li><p>Team Interview</p></li><li><p>Executive Interview</p></li><li><p>Offer!</p></li></ul><p></p><h3>Equal Employment Opportunity</h3><p>To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and experiences. We are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us at talent@onepay.com.</p>",
+    "content_hash": "ef9e4eafbfbeddac88668b4866870686"
+  }
+}

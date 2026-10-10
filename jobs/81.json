@@ -1,0 +1,89 @@
+{
+  "812f27aeeef6": {
+    "id": "812f27aeeef6",
+    "title": "Data Science Intern (Winter 2027)",
+    "title_raw": "Data Science Intern (Winter 2027)",
+    "company": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "notion",
+      "external_id": "a67d6f2b-7c13-41d0-b36b-b2f662c9873e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-19T22:32:00.399Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:17.087Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Winter 2027",
+    "salary": {
+      "min": 55,
+      "max": 55,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3>Who We Are</h3><p>Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p></p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><p></p><p><strong>This internship will take place from January 25 - April 16 and you will need to be able to work out of our SF office during this time.</strong></p><p></p><h3>What You'll Achieve:</h3><ul><li><p>Conduct data analyses to gain insights about Notion and use these insights to uncover opportunities for improvements in our product and business.</p></li><li><p>Communicate these insights with actionable recommendations to cross-functional teams (insights are useful, impact is even better!).</p></li><li><p>Work with cross-functional partners across the product and business to learn about their functions and use data to advance their respective areas.</p></li><li><p>Create metrics and build dashboards to monitor the growth and health of Notion.</p></li><li><p>Communicate insights and recommendations effectively to leadership and have an impact on strategic decision-making.</p></li></ul><p></p><h3>Qualifications:</h3><ul><li><p>Pursuing a bachelor's or master's in a quantitative field such as Economics, Statistics, Applied Math, Engineering, Computer Science, or Natural Sciences. Must graduate before <strong>December 2027.</strong></p></li><li><p>This internship will take place from <strong>January 25 - April 16</strong> and you will need to be able to work out of our SF office during this time.</p></li><li><p>Previous research or internship experience.</p></li><li><p>Proficient in SQL for data extraction, transformation, and analysis.</p></li><li><p>Working towards proficiency in one or more scripting languages such as Python or R.</p></li><li><p>You find large challenges exciting and enjoy discovering problems as much as solving them.</p></li><li><p>You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment.</p></li></ul><p></p><h3>Skills You'll Need to Bring:</h3><ul><li><p><strong>Thoughtful problem-solving:</strong> For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.</p></li><li><p><strong>Put users first:</strong> You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.</p></li><li><p><strong>Not ideological about technology:</strong> To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go.</p></li><li><p><strong>Empathetic communication:</strong> You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.</p></li><li><p><strong>Team player:</strong> For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</p></li><li><p><strong>AI enthusiast:</strong> You have built or prototyped features with AI technologies (LLMs, Embeddings, ML) and are interested in learning more.</p></li></ul><p></p><h3>Nice to Haves:</h3><ul><li><p>You have previous intern experience working with product, engineering, or GTM teams.</p></li><li><p>You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.</p></li><li><p>You have interests outside of technology, such as in art, history, or social sciences.</p></li></ul><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated hourly range for this role is $55/hr for Bachelors and $59/hr for Master’s.</p><p></p><p>#LI-Onsite</p><p></p><h3>A Note on AI</h3><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><p></p><h3>Equal Opportunity &amp; Accommodations</h3><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p></p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p>",
+    "content_hash": "de2f28dd417b10d257b3a7921111e74a"
+  },
+  "819dade454de": {
+    "id": "819dade454de",
+    "title": "2027 Internship - Embedded Software Test Engineer",
+    "title_raw": "2027 Internship - Embedded Software Test Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "db51b041-8f20-48e0-af08-be71201a8175"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T23:18:26.599Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />As an intern on the embedded software test team, you will work on products that are delivered to world-class customers and ensure that they have been thoroughly tested and deliveries are rock-solid!\n \nAs an intern, you’ll collaborate with experienced engineers to solve real-world challenges, contribute to product development, and gain hands-on experience in a fast-paced, supportive environment. \n<p>We recruit interns year-round for Spring, Summer, and Fall 2027 opportunities. Each internship lasts 12–16 weeks and follows a full-time schedule.</p>\n\n<h3>Responsibilities</h3>\nCreate and execute on test plans during pre-silicon and post-silicon phases of the product \nContribute to the design, creation, and enhancement of the test framework, including developing modules to enable more effective validation techniques  \nFind issues and triage/debug them with team members in the software organization \nIdentify, report, and handle defects in a defect tracking system \nPresent results to product owners, internal customers to assist in resolving defects \nAnalyze test result data to identify patterns, extract insights, and support meaningful conclusions that improve product quality \n\n<h3>Required Skills and Qualifications</h3>\nBachelor's or Master's in Electrical Engineering, Computer Science or Computer Engineering  \nKnowledge of embedded systems and Real-Time Operating Systems (RTOS) \nKnowledge of scripting or programming languages such as (Python/shell, C, C++, etc.) \nExcellent interpersonal skills \n\n<h3>Preferred Skills and Qualifications</h3>\nUnderstanding of MCU and DSP cores/processors \nUnderstanding of software testing and test automation principles \nFamiliar with defect management practices \nFamiliar with SDLC \nFamiliar with Jira, svn/git, and Continuous Integration systems (e.g., Jenkins) \n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "bfaaae38d1efd185539f110defa3d299"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "c00806e0b195": {
+    "id": "c00806e0b195",
+    "title": "Transportation Internship (Summer 2027)",
+    "title_raw": "Transportation Internship (Summer 2027)",
+    "company": {
+      "slug": "fehr-and-peers",
+      "name": "Fehr & Peers",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Diego, California",
+      "city": "San Diego",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "fehrandpeers",
+      "external_id": "4cc2141e-d19f-4a73-8b7a-052349252ac0"
+    },
+    "apply_url": "https://jobs.lever.co/fehrandpeers/4cc2141e-d19f-4a73-8b7a-052349252ac0/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T20:38:17.758Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:27.521Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 28,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<em>If you are interested in multiple locations please only apply once, your preference will be discussed during the screening process.</em>\n\n<p>Our intern program focuses on skills development while maximizing opportunities for learning and professional experience. Internships are available for a semester, summer, or throughout the year. Hours and work schedules will be determined based on your availability and the office’s needs. Interns will be provided with continuous feedback and can collaborate with staff at all levels on projects to aid in their career development and gain insight into a career in transportation consulting. Our interns take on similar tasks and responsibilities as entry-level staff. </p>\n\n<h3>Responsibilities </h3>\nAnalyze/solve complex transportation planning or engineering problems    \nCommunicate clearly and concisely, both orally and in writing, including in a community engagement setting    \nUse software effectively and make timely and informed recommendations    \nWork on a variety of projects which may include traffic operations simulations, bicycle and pedestrian plans, freight and goods movement planning, traffic impact studies, travel demand modeling, transit planning, and regional transportation plans   \nEmbrace opportunities to learn and adopt new tools, technologies, and ways of working that enhance day-to-day work, while maintaining professional judgment, critical thinking, and accountability for results \n\n<h3>Qualifications (We encourage all applicants to apply, even if you don't meet all of the qualifications listed below) </h3>\nStrong interest or knowledge of transportation planning/engineering principles and practices    \nExcellent verbal and written communication skills, interpersonal relationship skills, and presentation skills    \nA passion for partnering with and serving the local communities    \nCompletion or current enrollment in a bachelor’s (junior or senior standing) or master’s degree program. Various degrees considered including transportation or civil engineering; transportation/urban planning; or a related field (e.g., geography, public policy, economics, sociology, statistics, anthropology, graphic design, data science, GIS)    \nProficiency in one of the following: Microsoft Excel, the Adobe Creative Suite, SketchUp, ArcGIS, statistical software (Stata, R, SPSS) traffic operations software (VISSIM, Synchro), design and drafting software (AutoCAD, MicroStation), or travel demand modeling software (TransCAD, Cube)  \nOpenness to exploring and responsibly using new and emerging technologies and tools, while maintaining critical thinking and professional judgement \n\n<strong>Sick Time: </strong>While interns are not eligible for our full benefits package, sick time is accrued at a rate of 1 hour for every 30 hours worked.\n \n<strong>EEO:</strong> Fehr &amp; Peers is an Equal Opportunity Employer committed to providing a workplace free from discrimination and harassment. We recruit, hire, develop, and promote employees based on qualifications, merit, and business needs. We do not discriminate against applicants or employees on the basis of race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, citizenship, age, disability, genetic information, veteran or military status, marital status, or any other characteristic protected by applicable federal, state, or local law.\n<p>We value the unique experiences, perspectives, and contributions of our employees and are committed to creating an environment where everyone can thrive.</p>\n\n<strong>Nondiscrimination: </strong>Fehr &amp; Peers ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964. If you need more information or special assistance for persons with disabilities or limited English proficiency, contact Human Resources.",
+    "content_hash": "85853e5fce4ee9bf8074a7e98d0d222d"
+  },
+  "c0891d6f8fa0": {
+    "id": "c0891d6f8fa0",
+    "title": "2027 Spring Private Equity Junior Analyst Co-op",
+    "title_raw": "2027 Spring Private Equity Junior Analyst Co-op",
+    "company": {
+      "slug": "heritage-holding",
+      "name": "Heritage Holding",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston, MA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heritage-holding",
+      "external_id": "814382f2-bfbe-4b5c-aa66-7bb216f84235"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heritage-holding/814382f2-bfbe-4b5c-aa66-7bb216f84235/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T21:03:17.591Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.797Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em><strong>About the Role</strong></em></p><p>Heritage Holding is looking for a Junior Analyst Co-op to work out of the firm’s Boston office. We are looking for a highly driven individual who embodies the entrepreneurial spirit, who is a quick learner, shares our passion for acquiring and running businesses, and is ready to take on a large amount of responsibility. Heritage Holding is looking for a commitment level of full-time, 5 days per week for the <strong>spring</strong> <strong>co-op cycle.</strong></p><p><em><strong>Key Responsibilities</strong></em></p><ul><li><p>Develop and manage a robust pipeline of qualified deal leads through cold calls, emails, CRM tracking, and industry research</p></li><li><p>Lead sourcing efforts by proactively reaching out to business owners and founders across target industries</p></li><li><p>Own relationships with business owners and sellers throughout the deal process</p></li><li><p>Own creation of financial models to evaluate investment opportunities</p></li><li><p>Lead preparation of internal and external investment materials, including memos and investor presentations</p></li><li><p>Coordinate and manage due diligence workflows across legal, financial, operational, and commercial areas</p></li><li><p>Support internal Heritage firmwide initiatives</p></li></ul><p><em><strong>Ideal Candidate Profile</strong></em></p><ul><li><p>Current student with a track record of academic and extracurricular success</p></li><li><p>Strong work ethic and demonstrated desire to learn</p></li><li><p>Willingness to work in a fast-paced environment</p></li><li><p>Entrepreneurial and team-oriented spirit</p></li><li><p>Excellent communication skills, both written and verbal</p></li></ul><p><strong>About Heritage Holding</strong></p><p>Heritage Holding is a Boston-based private investment firm targeting lower middle market businesses that generate between two and ten million dollars of EBITDA. Alex de Pfyffer and Ross Porter founded Heritage as a Search Fund after graduating from HBS in 2015. Heritage has since closed on a $220m first institutional fundraise in August of 2024 and completed ~36 acquisitions across 11 platform companies in B2B services, including telecom, IT and cyber security services, healthcare services, and skilled trades services.</p><p>We’re not just investors; we’re operators. Our team is composed of entrepreneurs, former CEOs, and investors who are passionate about operating small businesses.</p>",
+    "content_hash": "b903728a5bb57d0842d66b860082d271"
+  },
+  "c0b35be7614b": {
+    "id": "c0b35be7614b",
+    "title": "Sensors Team Internship (Spring or Summer 2027)",
+    "title_raw": "Sensors Team Internship (Spring or Summer 2027)",
+    "company": {
+      "slug": "apex-technology-inc",
+      "name": "Apex Technology, Inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "apex-technology-inc",
+      "external_id": "4ed1b2ad-2eed-4342-8720-d157c53d4804"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/4ed1b2ad-2eed-4342-8720-d157c53d4804/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-23T15:44:22.849Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.774Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 45,
+      "max": 45,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge.</p><p>For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payloads of our customers and are flown on launch vehicles.</p><p>Apex manufactures these satellite buses at scale using a combination of software, vertical integration, and hardware that is designed for manufacturing. Our spacecraft enable the future of society: ranging from earth observation to communications and more.</p><p>We’d love for you to join us on our mission of providing humankind access to the galaxy beyond our planet. </p><p></p><h3>About the Role</h3><p>We are seeking talented engineers to work closely with the broader engineering team for an exciting internship opportunity. This person is passionate about engineering, ready to take ownership over complex challenges, and a strong desire to learn about all things satellites.<br /><br />During the internship program at Apex, you'll gain hands-on experience and professional growth opportunities. You’ll be assigned a project to give you the opportunity to have real impact. Throughout the project you'll have a dedicated mentor to guide you, while participating in learning sessions to elevate your knowledge of aerospace. Plus, you'll connect with peers and industry professionals during our community events, making this a well-rounded experience to launch your career!<br /><br />Sensors team: Interns will contribute to the design, prototyping, build, and test of spacecraft sensor systems. This will include mechatronic system development, hands-on prototyping experience with both space hardware and ground support equipment, manufacturing and process automation, and learning how various satellite sensors function.<br /><br />Requirements:</p><ul><li><p>Graduating in the Fall of 2027 or in the Spring of 2028</p></li><li><p>Pursuing a BS or MS in Aerospace Engineering, Systems Engineering, Electrical Engineering, Mechanical Engineering, Computer Engineering, Software Engineering, Applied Physics, or a related discipline</p></li><li><p>Proficiency in the engineering design process</p></li><li><p>Familiarity with mechatronics, controllers, actuators, and/or development MCUs such as Arduino</p></li><li><p>3+ months’ experience of application of technical skills outside of the classroom: laboratory, research, personal projects, prior internship/work experience, or project teams (rocketry, FSAE, CubeSat, etc.)</p></li><li><p>Self-motivated and eager to learn in a fast-paced, collaborative engineering environment</p></li></ul><p><br />This internship will begin in March 2027 or June 2027<br /><br />Full-time interns should be available to pause or adjust academic commitments (such as taking a semester off or enrolling part-time) for the duration of the 10–12 week program</p><h3><strong>Why Join Apex?</strong></h3><p>Apex believes in creating a work environment that you look forward to embracing every day. Our employees love working at Apex, and we want you to love it too. We're a fast-growing startup that has raised more than $500M in funding, and we invest heavily in our people from day one.</p><p></p><h3><strong>What We Offer For Full-time Employees:</strong></h3><ul><li><p><strong>Shared upside:</strong> Receive equity in Apex, letting you benefit from the work you create</p></li><li><p><strong>Best-in-class healthcare:</strong> 100% company-paid medical, dental, and vision for you and your dependents, plus $100k life insurance at no cost</p></li><li><p><strong>Comprehensive PTO package</strong> to reset and recharge - starting at 15 days vacation, growing to 20+ days annually, plus 10 paid holidays</p></li><li><p><strong>Competitive 401(k) plan</strong> with generous matching - 100% match on first 3%, 50% on next 2%</p></li><li><p><strong>8 weeks paid parental leave</strong> plus childcare reimbursement up to $350/day for work-related travel</p></li><li><p><strong>Daily catered lunch and unlimited snacks</strong> to keep you fueled throughout the day</p></li><li><p><strong>Vibrant community:</strong> Monthly office socials, pickleball tournaments, run club, and gatherings for you and your family</p></li><li><p><strong>Your dream desk setup</strong> and all the tools you need to be your most productive self</p></li><li><p><strong>World-class Playa Vista office</strong> with the benefit of in-person collaboration with amazing coworkers and flexibility to integrate work and life</p></li><li><p><strong>Real impact opportunity:</strong> Work alongside experts from aerospace, new space, and other cutting-edge industries to make a lasting difference</p></li></ul><p></p><h3>Additional Information: </h3><p>Compensation ranges are set by role, level, location, and alignment with market data. A candidate's specific level and base pay are determined case by case and may vary with job-related skills, education, experience, technical capabilities, and internal equity. Beyond base salary, full-time hires are also eligible for long-term incentives in the form of stock options, along with medical, dental, and vision coverage and a 401(k) retirement plan.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR). To be eligible for this role, applicants must either (1) qualify as a U.S. Person, meaning a U.S. citizen or national, a lawful permanent resident (green card holder), a refugee admitted under 8 U.S.C. § 1157, or an individual granted asylum under 8 U.S.C. § 1158, or (2) be able to obtain the required export authorizations from the U.S. Department of State, the U.S. Department of Commerce, or another applicable U.S. government agency. You can learn more about ITAR here.</p><p></p><h3>Equal Opportunity Employer</h3><p>Apex Technology, Inc. is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p>",
+    "content_hash": "d1ce6e6ca7da033b5efd27926eefb265"
+  }
+}

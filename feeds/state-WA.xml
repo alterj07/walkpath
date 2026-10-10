@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in WA</title>
+  <id>https://walkpath.vercel.app/feeds/state-WA.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-WA.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:867b6c70f3a1</id>
+    <title>Run Perception Graduate Internship, R&amp;D - Winter 2027 @ Brooks Running</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/867b6c70f3a1"/>
+    <updated>2026-10-03T00:57:44.110Z</updated>
+    <published>2026-10-03T00:57:44.110Z</published>
+    <author><name>Brooks Running</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">Who We Are: At Brooks, we believe movement is the key to feeling more alive. That’s why we’re driven to create gear and experiences that take people to the place that makes them feel more alive — whether it’s a headspace, a feeling, or a finish line. Everyone who works at Brooks is propelled by a…</summary>
+    <content type="text">Brooks Running · Seattle, WA
+
+Season: Winter 2027
+
+Who We Are: At Brooks, we believe movement is the key to feeling more alive. That’s why we’re driven to create gear and experiences that take people to the place that makes them feel more alive — whether it’s a headspace, a feeling, or a finish line. Everyone who works at Brooks is propelled by a…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:fff59df53257</id>
+    <title>Computational Plasma Research Summer 2027 Intern @ Helion Energy</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/fff59df53257"/>
+    <updated>2026-09-30T23:08:03.380Z</updated>
+    <published>2026-09-30T23:08:03.380Z</published>
+    <author><name>Helion Energy</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">About HelionWe are a fusion power company based in Everett, WA, with the mission to build the world&apos;s first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.Since Helion&apos;s founding in 2013, we have…</summary>
+    <content type="text">Helion Energy · Everett, WA
+
+Season: Summer 2027
+
+About HelionWe are a fusion power company based in Everett, WA, with the mission to build the world&apos;s first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.Since Helion&apos;s founding in 2013, we have…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:f6782957163e</id>
+    <title>Electrical Engineering Summer 2027 Intern @ Helion Energy</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/f6782957163e"/>
+    <updated>2026-09-25T22:50:06.408Z</updated>
+    <published>2026-09-25T22:50:06.408Z</published>
+    <author><name>Helion Energy</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">About HelionWe are a fusion power company based in Everett, WA, with the mission to build the world&apos;s first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.Since Helion&apos;s founding in 2013, we have…</summary>
+    <content type="text">Helion Energy · Everett, WA
+
+Season: Summer 2027
+
+About HelionWe are a fusion power company based in Everett, WA, with the mission to build the world&apos;s first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.Since Helion&apos;s founding in 2013, we have…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:0614360077f5</id>
+    <title>Software Development Engineer (Seattle) - Internship 2027 @ Qumulo</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/0614360077f5"/>
+    <updated>2026-09-21T22:32:47.416Z</updated>
+    <published>2026-09-21T22:32:47.416Z</published>
+    <author><name>Qumulo</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Qumulo is a software-defined cloud data platform. Our core is a distributed storage operating system in C &amp; Rust, holding exabytes in the datacenter, at the edge, and natively in the cloud. Qumulo serves everything from a hospital&apos;s medical imaging archive to an animation studio&apos;s render farm in an…</summary>
+    <content type="text">Qumulo · Seattle, WA
+
+Season: Summer 2027
+
+Qumulo is a software-defined cloud data platform. Our core is a distributed storage operating system in C &amp; Rust, holding exabytes in the datacenter, at the edge, and natively in the cloud. Qumulo serves everything from a hospital&apos;s medical imaging archive to an animation studio&apos;s render farm in an…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:f4508defe352</id>
+    <title>Software Engineering Intern (Winter/Spring) @ Constellation Space</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/f4508defe352"/>
+    <updated>2026-04-24T21:19:55.457Z</updated>
+    <published>2026-04-24T21:19:55.457Z</published>
+    <author><name>Constellation Space</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">The RoleWe are looking for a Software Engineering Intern to work on the ConstellationOS platform. You will own a real project, from design to deployed code, in areas like backend services, simulation, machine learning, or developer tools. Two terms are open: a winter internship starting in November…</summary>
+    <content type="text">Constellation Space · Seattle, WA
+
+Season: Spring 2027
+
+The RoleWe are looking for a Software Engineering Intern to work on the ConstellationOS platform. You will own a real project, from design to deployed code, in areas like backend services, simulation, machine learning, or developer tools. Two terms are open: a winter internship starting in November…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,87 @@
+{
+  "6c60d11c8893": {
+    "id": "6c60d11c8893",
+    "title": "Firmware Engineering Intern",
+    "title_raw": "Firmware Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T16:24:20.021Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>At Base, we're building America's next-generation power company. Firmware is the layer where our software meets the hardware sitting on real homes, making millisecond-level decisions that keep the fleet stable, balance the grid, protect the hardware, and keep the lights on when things go wrong.</p><p>As a firmware engineering intern, you won't just observe how these systems work. You'll help build them. You'll contribute to the low-level software running on our batteries and inverters, get hands-on experience with embedded systems, and ship code that affects real members and real power flows.</p><p>This is one of the few places where the code you write moves electrons through actual hardware on the live grid. Reliability and precision aren't abstract here. They show up in whether someone's lights stay on.</p><p></p><p><strong>What You'll Do</strong></p><ul><li><p><strong>Build core firmware.</strong> Design, implement, and test firmware in C/C++ on bare-metal, RTOS, and embedded Linux systems running across our fleet.</p></li><li><p><strong>Work close to the hardware.</strong> Develop and debug device drivers, communication interfaces, and low-level system behavior. Read schematics, interpret datasheets, and learn how software interacts with real circuits, sensors, and power electronics.</p></li><li><p><strong>Contribute to fleet-critical systems.</strong> Help build the pieces that keep thousands of homes running, high-rate telemetry, automated fault detection and response, reliable communications on unreliable networks, fast commissioning, and grid-balancing control loops.</p></li><li><p><strong>Ship under real-world constraints.</strong> Write code that has to be reliable, deterministic, and safe. Timing matters. Failures have physical consequences. Simplicity is usually the right answer.</p></li><li><p><strong>Work across domains.</strong> Collaborate with hardware, power electronics, and platform software engineers to solve integration problems and deliver robust end-to-end behavior.</p></li></ul><p></p><p><strong>What You'll Bring</strong></p><ul><li><p>Solid understanding of C/C++, embedded systems concepts, and basic computer architecture.</p></li><li><p>Experience from coursework, side projects, or prior internships involving microcontrollers, RTOS, sensor integration, robotics, power electronics, or other embedded systems.</p></li><li><p>Interest in how real systems behave. Timing diagrams, interrupts, oscilloscopes, logic analyzers, and debugging actual hardware.</p></li><li><p>Clear, concise communicator who thrives in fast-paced, collaborative environments.</p></li><li><p>Builder's mindset. Curious, self-directed, and drawn to problems that actually matter.</p></li></ul><p></p><p><strong>Why Base?</strong></p><p>Interns at Base work in the same codebases as full-time engineers. No toy projects. You'll learn from a team that's built and scaled complex systems across energy, aerospace, and hardware industries. Your code will go live, run on real batteries in real homes, and shape how Base enters new markets.</p><p>This isn't a typical internship. It's a chance to help rebuild the most important system in America. <strong>Come build with us.</strong><br /><br /><strong>About the Team</strong></p><p>America's power grid is failing—electricity costs have risen even as generation gets cheaper, and blackouts are becoming more common. We're building the software that fixes it. Our team owns the entire stack: firmware that controls batteries in thousands of homes, trading algorithms that buy and sell power in real-time markets, distributed commanding systems that orchestrate a growing fleet as a single grid asset, factory software for our Austin manufacturing line, and the product experience that makes it all invisible to homeowners. If you want to write code that physically moves electrons, ships hardware, and reshapes critical infrastructure, this is the job.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "7a7a27d394fb6da11257af3b3a3835be"
+  },
+  "6c6fb4e9c878": {
+    "id": "6c6fb4e9c878",
+    "title": "Chemical Synthesis Engineer/Scientist Co-op",
+    "title_raw": "Chemical Synthesis Engineer/Scientist Co-op",
+    "company": {
+      "slug": "lydian",
+      "name": "Lydian",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "lydian",
+      "external_id": "3defcbd8-3136-4a3e-86f8-f066b70be1d5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/lydian/3defcbd8-3136-4a3e-86f8-f066b70be1d5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-17T16:12:55.698Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:14.820Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": "Spring 2026",
+    "salary": {
+      "min": 30,
+      "max": 32,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Company Overview</h3><p>Lydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel with 95% lower emissions than traditional jet fuel.</p><p>Since our founding in 2021, Lydian has achieved key milestones in record time, including the production of our first liquid fuel from our pilot system, capable of producing 10,000 gallons of fuel per year for a fraction of the capital and time of alternative approaches. We are building a motivated, diverse, and collaborative team that is passionate about addressing the growing climate crisis and is committed to excellence in their work. In particular, we look for tenacious people who are energized by solving the hardest, highest impact problems that come their way.</p><p></p><h3>Position Overview</h3><p>Lydian is looking for a 6-month Chemical Synthesis Engineer/Scientist Co-op for Spring 2026 to design, synthesize, and test novel catalyst materials for our high-temperature reactor systems, including wet-chemical synthesis of new formulations, bench-scale reactor testing under realistic operating conditions, and characterization of material performance and degradation. In this role, you will prepare and test catalyst formulations designed to operate under demanding high-temperature reactor conditions, and help carry the most promising candidates from bench-scale synthesis through to larger substrates. You will interface with engineers and scientists across various domains in order to inform your experimental design and research priorities, and your results will directly shape which materials advance toward our pilot and commercial systems.</p><p></p><p>This is an hourly position based in Boston, MA and has a minimum commitment of 6-months. The role is fully in-person and hands-on in the lab.</p><p></p><h3>Responsibilities</h3><ul><li><p>Synthesis of novel catalyst formulations to meet demanding reactor requirements (operation for 1000+ h at 1000+ °C), including preparation of supports, active phases, and precursor solutions</p></li><li><p>Reactor testing to efficiently identify the most promising formulations for further development, including loading and operating bench-scale test reactors and tracking activity, selectivity, and stability over time</p></li><li><p>Scale-up of promising formulations to coat large substrates (catalyst monoliths &gt; 5 in long), adapting bench-scale recipes to larger batch sizes and coating processes</p></li><li><p>Working effectively with partners, including automotive catalyst suppliers, to develop scalable manufacturing techniques and transfer Lydian formulations to partner processes</p></li><li><p>Using advanced characterization techniques (e.g., surface area and porosity, XRD, electron microscopy, chemisorption, thermal analysis) to develop understanding of materials and degradation mechanisms, and working with external partners who can perform some techniques under our guidance</p></li><li><p>Collaborating with the other projects to understand and incorporate requirements and cooperatively solve problems, particularly around reactor design, coatings, and system integration</p></li><li><p>Own, develop, and execute synthesis plans of candidate catalyst materials with guidance from Lydian engineers, including defining hypotheses, selecting variables, and prioritizing experiments</p></li><li><p>Perform analysis of experimental data, prepare reports, and maintain database of catalyst formulations and experimental performance so that results are traceable and can inform future development</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p>B.S. or M.S. candidate in Chemistry, Chemical Engineering, Materials Science, or related field.</p></li><li><p>Hands-on experience with chemical synthesis and general wet lab techniques (e.g., solution preparation, impregnation or precipitation methods, drying and calcination, handling of powders and solvents).</p></li><li><p>Understanding of reaction kinetics, heat transfer, and mass transport at an undergraduate level; familiarity with heterogeneous catalysis concepts is a plus.</p></li><li><p>Ability to plan, document, and execute experiments; collect and analyze data; and apply statistical analysis</p></li><li><p>Strong focus on safe lab practices with foresight to identify and mitigate potential hazards, including safe handling of chemicals, high-temperature furnaces, and compressed gases.</p></li><li><p>Curiosity, eagerness to learn, and a proactive mindset; comfortable asking questions and taking initiative in an environment where procedures are still being developed.</p></li><li><p>Strong written and verbal communication skills for sharing results with a cross-functional team.</p></li><li><p>Desire to work in a fast-paced environment and solve interesting technical problems.</p></li></ul><p></p><h3><strong>Company culture and benefits</strong></h3><ul><li><p>Paid lab/engineering-focused internship with a collaborative in-person technical team</p></li><li><p>Challenging, meaningful work that can directly impact company success</p></li><li><p>Opportunities for networking/exposure within the climate tech community</p></li><li><p>Mentorship from a great team of engineers and scientists</p></li></ul>",
+    "content_hash": "6699965f13a6d15b1f164627256ffe2f"
+  }
+}

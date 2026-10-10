@@ -1,0 +1,90 @@
+{
+  "a8782c6e608d": {
+    "id": "a8782c6e608d",
+    "title": "Engineering Internship",
+    "title_raw": "Engineering Internship",
+    "company": {
+      "slug": "arcturus",
+      "name": "Arcturus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "arcturus",
+      "external_id": "f6cc56f2-38d0-4fb5-90b9-ae3650118f35"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/arcturus/f6cc56f2-38d0-4fb5-90b9-ae3650118f35/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-05T21:25:48.199Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:58.010Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Arcturus</strong></p><p>Arcturus is creating a new wire technology stack that uses carbon nanomaterials to overcome the materials limitations of metals where performance breaks down, at real operating temperatures. Our technology is designed to significantly improve the performance of electric motors for drones and robotics, heat sinks, and ultimately the entire energy grid. At its core, Arcturus is developing a new class of carbon nanomaterial-infused metal matrix composites for high-performance conductor applications.</p><p></p><p><strong>Why you should join us</strong></p><p>This is a ground-floor opportunity to help build something that has never been done before.</p><p></p><p>You would join as an early technical co-op and work closely with Arcturus’ technical team across nanomaterials, additive manufacturing, process engineering, and testing. This is a hands-on role for someone who wants to learn quickly, contribute directly, and help build the experimental foundation for a first-of-its-kind materials platform.</p><p></p><p><strong>Purpose</strong></p><p>We are seeking a Research and Prototyping Engineer Co-op who can support the technical team across experiments, literature research, supplier research, sample preparation, fixture development, testing, and documentation.</p><p></p><p>This role is intentionally broad. You do not need to be an expert in every area, but you should be highly curious, organized, hands-on, and excited to work at the intersection of materials science, advanced manufacturing, and electrification.</p><p></p><p><strong>The role</strong></p><p><em>This role will work closely with Arcturus’ technical leads and senior engineers.</em></p><p></p><p><strong>Nanomaterials</strong></p><ul><li><p>Build and maintain a carbon nanomaterial and powder supplier database, including vendors, material specs, pricing, lead times, and sample availability</p></li><li><p>Help organize a recipe matrix for carbon nanomaterial integration, including material type, loading level, feedstock, processing route, and resulting performance</p></li><li><p>Support basic nanomaterial handling, sample preparation, documentation, and experimental tracking</p></li></ul><p></p><p><strong>Additive Manufacturing</strong></p><ul><li><p>Help build and maintain chamber BOMs, equipment lists, vendor quote trackers, and component comparison tables</p></li><li><p>Support fixture and tooling development through CAD, ideally in Onshape or a similar CAD platform</p></li><li><p>Help organize a fixture CAD library for experimental setups, sample holders, coupons, and test hardware</p></li><li><p>Support additive manufacturing experiments through preparation, documentation, build tracking, and post-build sample handling</p></li></ul><p></p><p><strong>Process Engineering</strong></p><ul><li><p>Support flash sintering fixture iterations, including CAD updates, part sourcing, assembly, testing, and documentation</p></li><li><p>Help create and improve sample preparation SOPs for polishing, sectioning, mounting, cleaning, labeling, and tracking</p></li><li><p>Support cylinder coupon workflows, including sample preparation, processing, inspection, measurement, and documentation</p></li><li><p>Help translate experimental procedures into clear, repeatable work instructions and lab notes</p></li></ul><p></p><p><strong>Testing and Characterization</strong></p><ul><li><p>Support internal materials testing, including Raman spectroscopy, electrical characterization, mechanical characterization, polishing, microscopy, and other methods as needed</p></li><li><p>Help prepare samples and data packages for external testing, vendor evaluation, partner validation, and customer-facing demonstrations</p></li><li><p>Coordinate with external vendors and labs for quotes, sample shipments, testing status, and results tracking</p></li><li><p>Maintain clear technical documentation, including lab notes, test summaries, experimental results, and lessons learned</p></li></ul><p></p><p><strong>Basic qualifications</strong></p><ul><li><p>Currently pursuing or recently completed a BS, MS, or PhD in materials science, mechanical engineering, chemical engineering, electrical engineering, physics, chemistry, manufacturing engineering, or a related technical field</p></li><li><p>Strong technical curiosity and willingness to learn across multiple disciplines</p></li><li><p>Comfortable working hands-on in a lab, shop, or experimental environment</p></li><li><p>Highly organized, detail-oriented, and reliable with documentation</p></li><li><p>Able to take direction, ask good questions, and execute quickly</p></li><li><p>Excited to work in a fast-moving startup environment where priorities can change quickly</p></li></ul><p></p><p><strong>Preferred qualifications</strong></p><ul><li><p>Experience working in a research lab, hardware startup, university lab, or advanced manufacturing environment</p></li><li><p>Experience with carbon nanomaterials, graphene, carbon nanotubes, metallurgy, additive manufacturing, powder processing, or materials characterization</p></li><li><p>Familiarity with Raman spectroscopy, microscopy, SEM/EDS, electrical testing, mechanical testing, polishing, or sample preparation</p></li><li><p>CAD experience, ideally with Onshape or similar tools</p></li><li><p>Experience with literature reviews, supplier research, technical databases, or experimental documentation</p></li></ul><p></p><p><strong>What we offer</strong></p><ul><li><p>Hands-on technical experience with first-of-its-kind materials and manufacturing challenges</p></li><li><p>The chance to work closely with senior technical leads across nanomaterials, additive manufacturing, process engineering, and testing</p></li><li><p>Real ownership over useful technical projects, databases, fixtures, experiments, and documentation</p></li><li><p>Up to a one-year co-op experience with direct exposure to early-stage deeptech startup building. If the fit is right, we'd love to bring you on to the team!<br /></p></li></ul><p>If this role excites you, even if you do not check every box, we’d love to hear from you. We’d rather work with a fast learner who cares deeply about the work than someone with years of experience but little curiosity.</p>",
+    "content_hash": "9ef4118afd32a75f37d55dcfe16b7241"
+  },
+  "a87e503f5ee5": {
+    "id": "a87e503f5ee5",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "mercor",
+      "name": "Mercor",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "mercor",
+      "external_id": "de3025e5-10ca-4d55-b688-eff0e647ac8d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T18:35:02.892Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:15.493Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 70,
+      "max": 70,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2029
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Mercor</strong></h3><p></p><p>Mercor's mission is to organize human intelligence to power the AI economy. We're a leading AI data company, building the layer between human expertise and frontier models. Millions of domain experts on the platform are paid over $4 million per day to train frontier AI models. Mercor's APEX benchmark family measures AI's real-world impact on professional work. Mercor Enterprise brings this same infrastructure to Fortune 500 companies: helping companies capture how their best people actually work, translating that expertise directly back into agents.</p> <p>Mercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society. Mercor is a profitable Series C company valued at $10 billion. We work in-person five days a week in our San Francisco, NYC, or London offices.</p><p><strong>About the Role</strong></p><p>As a Member of Technical Staff, Intern at Mercor, you’ll join a small, product-driven engineering team building the systems behind how the world’s leading AI labs source expert talent and human data. You’ll write production code from your first week and ship work that reaches customers.</p><p>You’ll start on the work your team has wanted to do but hasn’t had the hands for, and as needs come up you’ll take deep ownership of them, with a named mentor alongside you. You’ll work closely with product and design, move fast, and hold a high bar for quality, scalability and simplicity.</p><p></p><p><strong>Where You’ll Work</strong></p><p>Interns start on a rolling basis, so summer, spring and fall terms all work. About six weeks before your start we’ll match you to the team where you’ll have the most impact, across one of the engineering sub-departments: </p><ul><li><p><strong>Talent platform.</strong> The marketplace that sources, vets, matches and pays expert talent.</p></li><li><p><strong>Applied AI.</strong> Delivery systems, quality control and evals for the human data we ship to frontier labs.</p></li><li><p><strong>Agents.</strong> Internal agents that automate operational work across the company.</p></li><li><p><strong>Platform engineering.</strong> Shared infrastructure, contracts, payments and reliability.</p></li><li><p><strong>Studio.</strong> The platform for creating and analyzing datasets.</p></li></ul><p></p><p><strong>What We’re Looking For</strong></p><ul><li><p>Pursuing a degree in Computer Science or a related field, graduating 2027 to 2029</p></li><li><p>Strong programming skills in Python, Go or TypeScript</p></li><li><p>Solid grounding in data structures, algorithms and systems</p></li><li><p>Experience with APIs, SQL or NoSQL databases and cloud platforms</p></li><li><p>Curiosity about AI and an interest in startups</p></li><li><p>Excited to work in person in San Francisco</p><p></p></li></ul><p><strong>Why Mercor</strong></p><ul><li><p>Impact: your work powers how frontier AI labs train and deploy their models</p></li><li><p>Learning: early exposure to frontier AI research and engineering</p></li><li><p>Growth: a high-velocity team where interns ship to production</p><p></p></li></ul><p><strong>Compensation and Benefits</strong></p><ul><li><p>$10K housing bonus if you live within 0.5 miles of our office during your internship</p></li><li><p>$1.5K monthly stipend for meals/rideshare</p></li><li><p>Health, dental and vision insurance</p></li><li><p>401(k) eligibility</p></li></ul>",
+    "content_hash": "08843e661234ebbab001a37e2e648d5d"
+  }
+}

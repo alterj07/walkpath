@@ -1,0 +1,129 @@
+{
+  "8a217375caaf": {
+    "id": "8a217375caaf",
+    "title": "Electrical Engineer Intern (Spring-Summer 2026)",
+    "title_raw": "Electrical Engineer Intern (Spring-Summer 2026)",
+    "company": {
+      "slug": "deft-ai",
+      "name": "Deft AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "deft-ai",
+      "external_id": "0d16afe8-30a9-43df-90d5-ccba1cb97b69"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-15T23:13:08.470Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.814Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2026",
+    "salary": {
+      "min": 20,
+      "max": 55,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026
+    ],
+    "summary": null,
+    "description_html": "<p><strong>What to Expect</strong></p><p>● This position is expected to start ASAP in March 2026 and continue through the Summer term (ending approximately August 2026) if available and there is an opportunity to do so.</p><p>● Our internship program is intended for students currently enrolled in an academic program. Internships typically require a minimum commitment of 12 weeks and are expected to be full-time and on-site during the summer. During the academic semester, part-time participation may be arranged to accommodate class schedules. Recent graduates seeking employment after graduation and not returning to school should apply for full-time positions, not internships.</p><p>● During your internship at Deft Robotics, you will be working on interesting new robotic humanoid hand/end-effector designs and new architectural concepts for Deft’s next generation wheeled humanoid robot, cooperating with and reporting directly to the CEO.</p><p></p><p><strong>Benefits</strong></p><p>Medical, dental &amp; vision plans ($0 payroll deduction)</p><p>Daily meals stipend</p><p><strong>Expected Compensation</strong></p><p>● $20-$55/hr + benefits</p>",
+    "content_hash": "b9819d7b34a52bc15a4844f56fd25640"
+  },
+  "8a42bc2fb871": {
+    "id": "8a42bc2fb871",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "droyd-robotics",
+      "name": "Droyd Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "droyd",
+      "external_id": "8d46ed05-1b38-4c68-938e-f10b4c7d4694"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2024-06-06T20:33:14.190Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:08.342Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the team</h3><p>Droyd builds autonomous robotic systems that automate repetitive manual work in real environments. Our robots run under tight latency, reliability, and hardware constraints, which makes software a core part of everything we ship.</p><p>Our software team builds the systems that connect models to hardware, manage fleets, and keep robots operating in production.</p><h3>About the role</h3><p>As a Software Engineering Intern at Droyd, you’ll work across our backend and systems software stack. You’ll help build the infrastructure that powers learning, inference, control, and fleet operations for our robotic arms.</p><p>This role is based in San Francisco, CA. We’re an in-person company. We build faster that way.</p><h3>In this role, you’ll</h3><ul><li><p>Design and implement backend systems that integrate AI models with robotic hardware</p></li><li><p>Work on projects such as data pipelines, embedded and systems software, observability tooling, and fleet infrastructure</p></li><li><p>Help build and optimize low-latency streaming and video processing pipelines</p></li><li><p>Support integrations with external robotic systems, including ROS2 nodes and hardware interfaces</p></li></ul><h3>We’re looking for candidates who</h3><ul><li><p>Are current juniors or seniors (or equivalent) studying computer science, computer engineering, or a related field</p></li><li><p>Are comfortable programming in languages such as Python, C++, or Rust</p></li><li><p>Have interest or experience in systems programming, embedded software, or robotics</p></li><li><p>Are willing to balance school and work in a fast-paced environment</p></li><li><p>Take ownership, learn quickly, and can carry projects forward with guidance</p></li></ul><h3>Nice to have</h3><ul><li><p>Experience with Linux systems, networking, or process management</p></li><li><p>Exposure to hardware interfaces such as UART, I2C, CAN, or similar protocols</p></li><li><p>Familiarity with cloud platforms, CI/CD, or real-time systems</p></li></ul><h3>About Droyd</h3><p>Droyd builds autonomous robotic systems to automate manual work for enterprises. We design the hardware, write the control and software stack, and deploy robots that operate in real production environments.</p><p>If we do this right, robots stop being demos and start being tools people rely on every day.</p><p>Join us and help build systems that ship.</p>",
+    "content_hash": "bb939a24e100fafc270fc2ad9a3c0368"
+  },
+  "8acc18ec8064": {
+    "id": "8acc18ec8064",
+    "title": "Software Delivery Management Intern",
+    "title_raw": "Software Delivery Management Intern",
+    "company": {
+      "slug": "alliedsolutions",
+      "name": "Alliedsolutions",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Carmel, IN",
+      "city": "Carmel",
+      "state": "IN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliedsolutions/allied_external",
+      "external_id": "R-011086"
+    },
+    "apply_url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:59:49.854Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.  <br /><br />Interested applicants must be available during the 12-week program (May 17th – Aug. 6th, 2027). This is a full-time internship (40-hours per week) based at our headquarters in Carmel, IN. <br /><br />As a Software Delivery Management Intern, you will support the Software Product Management and Product Owner teams in driving the successful, on-time delivery of software products. You’ll gain hands-on exposure to Agile delivery practices, backlog management, cross-functional coordination, delivery reporting, and the use of AI-enabled tools to improve team productivity, documentation, and decision-making. This role is ideal for a student interested in product management, project/program management, technology delivery, or AI-enabled ways of working. You will receive direct mentorship from experienced Product Managers and Product Owners while helping build reporting, documentation, dashboards, and process tools that keep multiple product teams aligned, informed, and on schedule.<p></p><p><b>Job Duties and Responsibilities</b></p><ul><li><p>Partner with Software Product Managers and Product Owners to maintain and groom product backlogs, user stories, and acceptance criteria. </p></li></ul><ul><li><p>Support sprint planning, backlog refinement, and other Agile ceremonies, including capturing notes, action items, and follow-ups. </p></li></ul><ul><li><p>Track software delivery milestones, dependencies, and release schedules across multiple product teams, flagging risks to timelines. </p></li></ul><ul><li><p>Help build and maintain status reports, dashboards, and delivery metrics (e.g., velocity, cycle time, defect trends) for stakeholders and leadership. </p></li></ul><ul><li><p>Use AI-enabled tools, where appropriate, to support documentation, meeting summaries, backlog organization, research, reporting insights, and process improvement opportunities. </p></li></ul><ul><li><p>Coordinate with engineering, QA, and UX partners to help ensure alignment on priorities, scope, and delivery timelines. </p></li></ul><ul><li><p>Assist with documentation of delivery processes, playbooks, and best practices to support continuous improvement across the team. </p></li></ul><ul><li><p>Conduct research on Agile/delivery management tools, industry trends, and process improvements, and present findings to the team. </p></li></ul><p></p><p><b>Qualifications (Education, Experience, Certifications &amp; KSA)</b> </p><ul><li><p>Currently enrolled in an undergraduate program as a rising Junior or Senior, pursuing a degree in Computer Science, Information Systems, Business Administration, Project/Program Management, or related field. </p></li></ul><ul><li><p>Strong interest in software product management, Agile delivery, technology delivery, AI-enabled productivity, or project/program management. </p></li></ul><ul><li><p>Excellent organizational skills with the ability to manage multiple tasks and priorities simultaneously. </p></li></ul><ul><li><p>Strong written and verbal communication skills; comfortable collaborating with cross-functional teams. </p></li></ul><ul><li><p>Analytical and problem-solving mindset; comfortable working with data and reporting tools. </p></li></ul><ul><li><p>Proficiency with Microsoft Office (Excel, PowerPoint); familiarity with Jira, Azure DevOps, or similar Agile tools is a plus. </p></li></ul><ul><li><p>Ability to work independently as well as part of a collaborative team environment. </p></li></ul><p></p><p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.<br /><br />#LI-SJ1</p><p>#LI-Onsite</p><p></p><p>We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.<br /><br />All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p><p></p><p>To view our privacy statement click here</p><p></p><p>To view our terms and conditions click here</p>",
+    "content_hash": "dfd150923cd3f64a6e9be8b8017f37a6"
+  }
+}

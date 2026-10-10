@@ -1,0 +1,134 @@
+{
+  "d35e312f7f0f": {
+    "id": "d35e312f7f0f",
+    "title": "Engineering Intern — Summer 2027",
+    "title_raw": "Engineering Intern — Summer 2027",
+    "company": {
+      "slug": "flint",
+      "name": "Flint",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "flint",
+      "external_id": "39f9e665-7037-4dff-b77a-ff7039df2bfc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-26T02:56:35.425Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.960Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Flint</strong></h3><p>Flint is the first self-improving system for performance marketing. We connect to brands' ad accounts and optimize them through creating pages instantly for each ad group and running a learning loop that continually improves conversions. We just signed a Fortune 10 customer, and within 48 hours their customer acquisition cost decreased by 50%. We're backed by Accel, Sheryl Sandberg (former Meta COO)'s venture fund SBVP, and Neo.</p><h3></h3><h3>What you will do day to day</h3><ul><li><p>Own a part of the product that's live with customers and stays live after you leave.</p></li><li><p>Work anywhere in the stack, from the UI down to the infrastructure it runs on.</p></li><li><p>Use LLMs and agent workflows as everyday tools. The product is built out of them.</p></li><li><p>Ship to production in your first few weeks, then keep going.</p></li><li><p>At the end of the summer, show the whole company what you built and what it moved.</p></li></ul><h3><strong>Who you work with</strong></h3><p>You report to and sit with the engineers who own the part of the product you're working on.</p><p></p><h3><strong>Location, dates, and work authorization</strong></h3><ul><li><p>This role is onsite in our San Francisco office, five days a week, for the full 16 weeks: Monday 3 May to Friday 20 August 2027.</p></li><li><p>You must already be authorized to work in the United States for the whole term. We don't sponsor visas for internships, and the application asks you to confirm this.</p></li></ul><h3><strong>What we look for</strong></h3><ul><li><p>You're in your penultimate or final year of an undergraduate degree in Computer Science, Computer Engineering or Software Engineering.</p></li><li><p>You've built and shipped something we can look at: a repo, a product people use, or a hackathon project we can open and try. We weigh this heavily, and we don't ask for your GPA.</p></li><li><p>You're happy to pick up work anywhere in the stack.</p></li><li><p>When something breaks, you find out why before you change anything.</p></li></ul><h3><strong>What you get</strong></h3><ul><li><p>A named engineering mentor, plus a weekly one-to-one with your manager that doesn't get cancelled.</p></li><li><p>One project with your name on it and a before-and-after number to show for it.</p></li><li><p>Lunch in the office. The team is small enough that you'll know what everyone is working on.</p></li><li><p>A conversation about a full-time offer before you go back to school, not a form letter in October.</p></li></ul><h3><strong>Hiring process</strong></h3><p>About two hours in total, and we move quickly.</p><ul><li><p>30 minutes with Max Levenson, our engineering lead, about your background and what you've built.</p></li><li><p>A 60-minute technical interview.</p></li><li><p>30 minutes with Michelle Lim, our CEO and co-founder.</p></li><li><p>A decision within one week of the final conversation.</p></li></ul>",
+    "content_hash": "3a9ca092c87adcc44dcd2806962bea4f"
+  },
+  "d3808ba1079a": {
+    "id": "d3808ba1079a",
+    "title": "Nuclear Operations & Licensing Engineering Intern - Summer 2027",
+    "title_raw": "Nuclear Operations & Licensing Engineering Intern - Summer 2027",
+    "company": {
+      "slug": "antares-nuclear",
+      "name": "Antares Nuclear",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Idaho Falls",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "antares",
+      "external_id": "ec96a761-509f-44e9-90aa-e1fee5388aa1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/antares/ec96a761-509f-44e9-90aa-e1fee5388aa1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T06:20:25.916Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.687Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 34,
+      "max": 34,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Us</strong></p><p>At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in space.</p><p></p><p>The Antares team hails from SpaceX, the White House, the Pentagon, the Department of Energy, MIT, Rigetti Computing, General Atomics, Relativity Space, Ursa Major, and National Laboratories like Idaho, Oak Ridge, Los Alamos, and Savannah River. Antares has raised over $600M in venture capital from top-tier investors and has hundreds of million-dollars on contract with the military services, NASA, and the Department of Energy.</p><p></p><p><strong>About the Summer Internship Program</strong></p><p>Internships at Antares are anything but ordinary. You'll work alongside our team as we design, build, and test fission microreactors built to deliver reliable energy for critical missions on Earth, in space, and underwater.</p><p>Our interns contribute to real work from day one. Depending on your role, you may touch hardware, write and test software, support manufacturing and operations, or help build the systems that allow Antares to move quickly as we scale. You'll work alongside engineers, operators, and other experts solving challenging problems—and you'll leave your internship with hands-on experience that's difficult to find anywhere else.</p><p>We work hard, move quickly, and take pride in what we're building. If you're excited to learn by doing and want to contribute to the next generation of nuclear energy, we'd love to have you join us next summer.</p><p></p><p>We will be running two separate cohorts to accommodate students on both semester and quarter schedules:</p><p><strong>Cohort #1</strong></p><p>Monday, May 17 – Friday, August 13</p><p><strong>Cohort #2</strong></p><p>Monday, June 14 – Friday, September 10</p><p></p><p>All internship roles are based at our Torrance headquarters or Idaho Falls, ID office and require interns to work onsite five days per week. We will not be considering candidates for remote or hybrid arrangements.</p><p>Interns will receive a relocation and housing stipend as part of their offer package.</p><p></p><p><strong>About the Role</strong></p><p>As a Nuclear Operations &amp; Licensing Engineering Intern, you will help define how Antares reactor systems are operated, maintained, and deployed. You will work directly with responsible engineers (REs) to translate system designs into practical operating and maintenance requirements and use simulators and other test systems to validate and improve operator training activities.</p><p>You will also contribute to Antares’ international deployment efforts by evaluating licensing frameworks across different countries, identifying areas of alignment, and assessing approaches for demonstrating compliance across domestic and international deployments. This role provides exposure to the intersection of reactor engineering, operations, training, and nuclear licensing.</p><p></p><p><strong>Roles and Responsibilities:</strong></p><ul><li><p>Interface with responsible engineers (REs) to establish operating requirements for reactor systems</p></li><li><p>Develop and document maintenance requirements based on system designs and operating needs</p></li><li><p>Use reactor simulators and other test systems to validate training activities</p></li><li><p>Identify opportunities to improve training activities based on simulator and test system results</p></li><li><p>Evaluate international nuclear licensing frameworks relevant to reactor deployment</p></li><li><p>Identify synergies and differences between domestic and international licensing requirements</p></li><li><p>Assess approaches for demonstrating compliance across domestic and international deployments</p></li></ul><p></p><p><strong>Basic Qualifications:</strong></p><ul><li><p>Enrolled in at least a bachelor’s degree program, and going into your Junior or Senior year of studies</p></li><li><p>Must have prior internship experience, or significant (&gt;1yr) project team, laboratory, or research experience</p></li></ul><p></p><p><strong>Preferred Skills &amp; Experience:</strong></p><ul><li><p>GPA of 3.5 or above</p></li><li><p>Experience in a University club or organization, leadership role preferred</p></li><li><p>Strong interpersonal and technical communication skills (examples: leading a student project team, presenting research at conferences, etc.)</p></li><li><p>Strong analytical and problem-solving skills with attention to detail</p></li><li><p>Ability to work cross-departmentally with different groups and teams</p></li><li><p>Ability to work effectively in a dynamic environment with changing needs and requirements</p></li><li><p>Ability to work independently and in a team, take initiative, and communicate effectively</p></li></ul><p></p><p><strong>Location</strong></p><ul><li><p>We are located in Idaho Falls, ID at 545 Shoup Ave in the Rogers Building. The Rogers Building (formerly the Rogers Hotel) has its own nuclear history. In the 1940s, it became base of operations for the Atomic Energy Commission during the Manhattan Project. Today, the Idaho Falls office drives local operations and supports Idaho National Lab collaboration.</p></li></ul><p></p><p><strong>Culture</strong></p><p>At Antares, we like to specifically tie each role to our founding document’s set of values–here are the top five cultural values we think you should believe at your core to be successful:</p><ul><li><p><em>Think in Systems</em> - Energy and Defense are complex ecosystems with numerous stakeholders with competing priorities, conflicting policies, perverse incentives, and emergent and path-dependent properties. First principles thinking alone is insufficient. Think probabilistically and then take action. “If you want to be certain, then you are apt to be obsolete.” Over-optimizing the components often degrades the system</p></li><li><p><em>Obsess over the End User</em> - The customer and end user are often not the same. We will never build globally competitive commercial products if we lose sight of our end users and their entire interaction with the product life cycle</p></li><li><p><em>Be Unconstrained by Convention</em> - Our only limits are the laws of physics. Many, even experts, will say what we are working on is impossible. They said the same about SpaceX reusing rockets. Generationally impactful companies, by definition, must accomplish the seemingly impossible. If it were easy, it would have already been done. Never shy away from a solution because it has never been tried before, and never choose to do something because that's “how it's always been done”</p></li><li><p><em>Go Where the Work I</em>s - Never miss a chance to meet a customer, user, or stakeholder face to face, even if that means hopping on a plane. If you can’t make it, find a teammate who can channel your intentions and go in your place. Deep work can be done from anywhere, but we believe teams are built in person, and aim to maximize our time together</p></li><li><p><em>Operate in the Grey</em> - Embrace nuance in pursuit of truth. Question every fundamental assumption</p><p></p></li></ul><p><strong>Equal Opportunity</strong></p><p>Antares is an Equal Opportunity Employer. Employment decisions are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "1b4d6459ccace648fa5cb1644012dbb4"
+  },
+  "d381e30fcd3a": {
+    "id": "d381e30fcd3a",
+    "title": "Applied AI Intern",
+    "title_raw": "Applied AI Intern",
+    "company": {
+      "slug": "eragon",
+      "name": "Eragon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "eragon",
+      "external_id": "0b90ea4a-8684-4ae1-a7cc-c998db6e862e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-02T02:31:40.122Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.108Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 1000,
+      "max": 2000,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Job Description</strong></h3><p>We’re looking for an Applied AI Intern to help build and deploy production-grade AI systems. In this role, you’ll work closely with engineers and researchers to take models from concept to real-world applications.</p><p>You’ll gain hands-on experience working across modeling, data, and systems, contributing to projects that ship to real users.</p><h3><strong>Key Responsibilities</strong></h3><ul><li><p><strong>Model Development:</strong> Assist in fine-tuning, evaluating, and applying machine learning models to real-world problems</p></li><li><p><strong>System Implementation:</strong> Help build and integrate AI-powered features into production systems</p></li><li><p><strong>Data &amp; Pipelines:</strong> Work with datasets to support training, evaluation, and iteration</p></li><li><p><strong>Experimentation:</strong> Run experiments, analyze results, and iterate on model performance</p></li><li><p><strong>Evaluation &amp; Monitoring:</strong> Contribute to evaluation frameworks and help track system performance</p></li><li><p><strong>Cross-Functional Collaboration:</strong> Work with engineering and product teams to support feature development</p></li></ul><h3><strong>Minimum Qualifications</strong></h3><ul><li><p><strong>Education:</strong> Currently pursuing a Bachelor’s or Master’s in Computer Science, Engineering, or a related field</p></li><li><p><strong>Technical Skills:</strong> Proficiency in Python and familiarity with ML frameworks (e.g., PyTorch, TensorFlow)</p></li><li><p><strong>ML Fundamentals:</strong> Understanding of basic machine learning concepts and workflows</p></li><li><p><strong>Problem Solving:</strong> Ability to break down problems and contribute to practical solutions</p></li><li><p><strong>Curiosity &amp; Ownership:</strong> Strong desire to learn and contribute in a fast-paced environment</p></li></ul><h3><strong>Nice to Have</strong></h3><ul><li><p>Experience with ML projects, internships, or research</p></li><li><p>Familiarity with LLMs, agents, or data pipelines</p></li><li><p>Experience building projects outside of coursework</p></li><li><p>Interest in working on real-world AI applications</p></li></ul>",
+    "content_hash": "c3ac2758e30b0b934f994fdce6bec5a8"
+  }
+}

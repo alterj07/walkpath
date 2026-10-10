@@ -1,0 +1,47 @@
+{
+  "730f2f78be76": {
+    "id": "730f2f78be76",
+    "title": "Product Engineer — New Grad",
+    "title_raw": "Product Engineer — New Grad",
+    "company": {
+      "slug": "firetiger",
+      "name": "Firetiger",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "firetiger",
+      "external_id": "a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-11-04T02:54:55.574Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.787Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 120000,
+      "max": 120000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Firetiger</h3><p>Firetiger is on a mission to help our customers build 1-person, $1 billion revenue companies.</p><p>We believe that eventually, all companies will be software companies, and the vast majority of coordination will be handled by autonomous agents, not people. To get there, we are helping software companies become \"self-driving\".</p><p>Legacy software engineering operations software is built for humans to manually explore data and patch together brittle alerts. The last generation of tools like Datadog is designed to enable humans to understand how software behaves. Firetiger flips the script. We approach operations from first principles: customers define top-down what success looks like for a business and product, then deploy agents to constantly monitor to ensure those goals are met and close the loop.</p><p>We are founded by Rustam and Achille, former leaders from Cloudflare and Segment, and backed by Sequoia Capital and founders and executives at Cloudflare, Segment, Amazon, Anthropic, Cursor, and Plaid.</p><p>We are looking for a Product Engineer to build the interfaces between humans and AI agents: the workflows, visualizations, and interaction patterns that make autonomous technical operations intuitive and actionable.</p><p></p><h3>The Role</h3><p>Firetiger's agents find production problems before your customers find them and your CEO hears about them. Here's how it works:</p><ol><li><p>We ingest telemetry with high-cardinality detail and automatically model what your system is and how it works</p></li><li><p>Customers define objectives in natural language (e.g., \"customers should have OAuth configured correctly\") that stay relevant as infrastructure evolves</p></li><li><p>Agents autonomously investigate issues, determine root cause, and take action to remediate</p></li></ol><p>You'll build the product experiences that make this magic legible—turning complex autonomous investigations into something engineers actually want to use. You'll also build the agents themselves.</p><p>This is not a role where you implement specs handed down from product. You will own problems end-to-end: talking to customers, defining what to build, building it, and iterating until it's great.</p><p></p><h3>What You Will Accomplish</h3><ul><li><p><strong>Agent interfaces</strong>: Design how engineers interact with AI agents operating their software systems. What should autonomous software operations look like? How do you give humans the right level of visibility and control?</p></li><li><p><strong>The agents themselves</strong>: Build the brains that turn messy natural-language objectives into the crisp outputs our customers rely on to run their businesses. You'll work on the core intelligence, not just the UI around it.</p></li><li><p><strong>Real-time collaboration tools</strong>: Create experiences where engineers can watch agents work, redirect wayward chains-of-thought, and collaborate on complex debugging sessions.</p></li><li><p><strong>Novel data exploration</strong>: Design new UX patterns for exploring high-cardinality data that agents surface. Think beyond traditional dashboards to new ways of understanding customer-specific issues at scale.</p></li></ul><p></p><h3>Who You Are</h3><ul><li><p><strong>High Agency</strong>: You don't wait for permission. You see a problem, whether a confusing user flow or missing feature, and you fix it. You ship.</p></li><li><p><strong>Product-Minded</strong>: You care about the <em>why</em> behind what you build. You talk to customers. You have opinions about what makes developer tools great vs. frustrating.</p></li><li><p><strong>Full-Stack Capable</strong>: You're comfortable working across the stack to deliver complete features. You've built complex, data-heavy web applications and know how to make them fast.</p></li><li><p><strong>AI-Curious</strong>: You've built with LLMs, or at a minimum collaborated with agentic development tools (Claude Code, Cursor, etc) to write software. You're excited about the design challenges of human-AI collaboration.</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p><strong>Experience</strong>: You're excited about building and shipping user-facing software products. You have examples of projects you drove end-to-end that users loved.</p></li><li><p><strong>Communication</strong>: You can write a clear product spec, explain a technical tradeoff to a customer, and give direct feedback to teammates.</p></li></ul><p></p><h3>Compensation and Benefits</h3><ul><li><p>Competitive salary + meaningful early-stage equity</p></li><li><p>100% covered health/dental/vision</p></li><li><p>Unlimited PTO</p></li><li><p>Visa sponsorship available</p></li><li><p>In-person in San Francisco</p></li></ul><p></p><h3>How to Apply</h3><p>We care more about your projects than your pedigree.</p><p>In your application, please include a link to something you've built: a side project, an open-source contribution, a product feature you're proud of. Show us how you think about building software products.</p>",
+    "content_hash": "3db353cc21d65fa55ece9df45887526c"
+  }
+}

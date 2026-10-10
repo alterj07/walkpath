@@ -1,0 +1,125 @@
+{
+  "7937be71060c": {
+    "id": "7937be71060c",
+    "title": "Software Development Summer Intern",
+    "title_raw": "Software Development Summer Intern",
+    "company": {
+      "slug": "alliancebernstein",
+      "name": "AllianceBernstein",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Nashville, Tennessee",
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "abglobal/abcampuscareers",
+      "external_id": "R0019771"
+    },
+    "apply_url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-25T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:43:54.020Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p><b>Who You’ll Work With:</b></p><p>The Technology team provides computing, communications, infrastructure, services, support, and innovations that sustain high-quality research and diverse investment services for institutional investors and private clients. The team also supports AB’s employees. Technical roles in our New York City and Nashville locations have a high degree of interaction with our investment teams.</p><p>The Operations team provides vital investment-management functions through more than two dozen offices located around the world. It’s dedicated to institutional investment-management services, private client administration, fund services, brokerage operations and change agents.</p><p><b>What You’ll Do:</b></p><p>The Software Development Summer Intern within our Technology &amp; Operations business unit will be implanting functional and technical specifications provided by business analysts and development managers. Interns will learn both the functional and technical aspects of an application in addition to the languages and frameworks used for construction. You will have hands-on learning, supported by team members, project managers, and formal technology training. Our Software Developers use a wide range of programming languages, so, Interns will have the opportunity to learn and apply a broad range of technical skills throughout the summer.</p><p>Intern projects may include:</p><ul><li>Working on enhancements to our investment management systems which are used for investment decision making and execution</li><li>Working on enhancements to our sales, marketing and distribution systems</li><li>Automating operational processes to reduce risk and maximize efficiency</li></ul><p>Summer Interns contribute to and learn from AB’s innovative use of technology, deep research capabilities, global presence, and breadth of investment management expertise. The flat corporate structure allows Interns to become deeply integrated into the team and contribute meaningfully to investment decision-making early on in their careers.</p><p><b>What We’re Looking For:</b></p><ul><li>December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts</li><li>Cumulative GPA of 3.3 or better</li><li><b>Must be a U.S. Citizen or Permanent Resident</b> (must be able to work in the U.S. without visa sponsorship now or in the future)</li><li>Candidates must be available to work full-time from June through August</li><li>Selected candidates will need to successfully complete a thorough background check</li><li>It is not permissible to simultaneously take academic classes or hold other employment that will conflict with the internship schedule</li><li>Keen interest in project management, particularly with the scoping of projects, capturing and documenting requirements, and defining use cases, user interfaces, and testing scenarios</li><li>Interest in working with a variety of technologies, including sophisticated web services, Java applications and C++ servers</li><li>Strong computer programming skills</li><li>Interest in leveraging AI and emerging technologies to enhance software development, automate workflows, and solve complex business challenges</li><li>Excellent communication and presentation skills</li><li>Detail-oriented, ability to multi-task and work in a fast-paced environment</li></ul><p><b>Who We Are:</b></p><p>We are a leading global investment management firm offering high-quality research and diversified investment services to institutional clients, retail investors, and private-wealth clients in major markets around the globe. With over 4,000 employees across 57 locations operating in 26 countries and jurisdictions, our ambition is simple: to be the most trusted investment firm in the world. We realize that it's our people who give us a competitive advantage and drive success in the market, and our goal is to create an inclusive culture that rewards hard work.</p><p>Our culture of intellectual curiosity and collaboration creates an environment where you can thrive and do your best work. Whether you're producing thought-provoking research, identifying compelling investment opportunities, infusing new technologies into our business, or providing thoughtful advice to our clients, we are fully invested in you. If you're ready to challenge your limits and empower your career, join us!</p><p><b>How We Invest in You:</b></p><p>AB’s purpose is to pursue insight that unlocks opportunity.  It is why we exist and what we work at every day.  Our shared values define how we work.  They’re a foundation of our culture, which empowers all of us to be our complete selves – and contribute to our distinctive talents.  We invest in one another, strive for distinctive knowledge, speak with courage and conviction, and act with integrity – Always! </p><p>We recognize the value of investing in one another, fostering growth and advancement while meeting evolving individual needs. That’s why we’ve crafted a comprehensive internship program that includes, but is not limited to, the below opportunities:</p><ul><li>Firmwide Onboarding </li></ul><ul><li>Introduction to Asset Management and Capital Markets </li></ul><ul><li>Mentoring Program </li></ul><ul><li>Career Planning </li></ul><ul><li>Training and Development Opportunities  </li></ul><p></p>Nashville, Tennessee",
+    "content_hash": "e827d97fd28a51c90e9ecdc275f1a53a"
+  },
+  "79553cb5d435": {
+    "id": "79553cb5d435",
+    "title": "Forward Deployed Engineer (FDE) - Intern",
+    "title_raw": "Forward Deployed Engineer (FDE) - Intern - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "ffd6af1a-cebb-41f5-ac1d-e695adfd067c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-15T23:48:14.247Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Our Forward Deployed Engineers are at the heart of building AI that transforms how essential service businesses operate. This role combines cutting-edge AI development with real-world impact, creating systems that handle complex business operations autonomously.</p><p></p><p>We need to hire multiple FDEs to join our team for a 12-week internship that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better. </p> <p><strong>What You’ll Do:</strong></p><ul><li><p><strong>Architect agents:</strong> Build and ship multi-modal AI agents that drive business impact for essential service companies.</p></li><li><p><strong>Co‑build with customers:</strong> Work directly with enterprise stakeholders to map workflows and deploy our product to unlock immediate revenue lift.</p></li><li><p><strong>Own end‑to‑end lifecycle:</strong> Manage everything from design, to implementation, to rollout, including deployment, measuring success, and iterating with customers.</p></li><li><p><strong>Ensure scalability:</strong> Build reliable systems that support thousands of concurrent interactions with strong performance.</p></li><li><p><strong>Run rapid experiments:</strong> Evaluate cutting‑edge text/voice models, fine‑tune, live A/B test, and iterate within tight feedback loops.</p></li><li><p><strong>Elevate the platform:</strong> Surface patterns and opportunities across customers to inform product and engineering roadmaps.</p></li></ul> <p><strong>What You’ll Bring:</strong></p><ul><li><p><strong>Production systems:</strong> Experience building and maintaining production systems using Python (asyncio, FastAPI) and TypeScript (Node, React).</p></li><li><p><strong>AI systems:</strong> Hands-on experience with LLM, TTS and speech APIs, fine-tuning models, vector databases, RAG, and evaluation frameworks.</p></li><li><p><strong>Performance focus:</strong> Ability to meet SLAs, resolve issues, and optimize systems for speed and reliability at scale.</p></li><li><p><strong>Scale mindset:</strong> Experience building production monitoring and debugging systems across cloud infrastructure and databases.</p></li><li><p><strong>Customer obsession:</strong> Comfortable engaging directly with customers to troubleshoot issues, understand edge cases, and deliver fast solutions.</p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "33a103b08848992913d25abc7c929302"
+  },
+  "795cea9ee6eb": {
+    "id": "795cea9ee6eb",
+    "title": "ServiceNow Engineering Co-op",
+    "title_raw": "ServiceNow Engineering Co-op",
+    "company": {
+      "slug": "rapdev",
+      "name": "RapDev",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "rapdev",
+      "external_id": "b022388e-79d0-43b8-b524-64aaed9ff4dc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T17:17:54.485Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.300Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About RapDev:</strong></p><p>RapDev builds the operational backbone for autonomous IT. More than 1,000 enterprises run ServiceNow and Datadog better because of us — trusted data, connected workflows, and AI that resolves incidents instead of just reporting them. <br /><br />On the ServiceNow side of our business, we specialize in modern ITOM, ITAM, AI, SPM, and DevOps implementations designed to help organizations engineer their ServiceNow into a powerful AI-driven platform. And on the Datadog side of our business, our experienced team of SREs and DevOps engineers drive better observability, availability, and deployment velocity for organizations looking to drive measurable business impact through their Datadog environment.</p><p><strong>ServiceNow Engineering Co-op</strong></p><p><strong>About the Role</strong></p><p>Want to break into enterprise software before you even graduate? RapDev is looking for current Computer Science (or related) students who want real hands-on experience with ServiceNow — one of the fastest-growing platforms in enterprise tech. This is a full-time internship where you'll learn directly from experienced developers and architects while working on actual customer projects, immersed in the team day in and day out.</p><p>No prior ServiceNow experience needed. We'll teach you the platform from the ground up — you just need to bring curiosity, solid programming fundamentals, and a willingness to learn.</p><p><strong>What You'll Do</strong></p><ul><li><p>Go through RapDev's ServiceNow training program and work toward certifications</p></li><li><p>Sharpen your JavaScript skills in a real enterprise setting</p></li><li><p>Sit in on customer meetings and sprint demos to see how projects actually run</p></li><li><p>Get mentorship while configuring and customizing ServiceNow applications</p></li><li><p>Write and test scripts (business rules, client scripts, UI policies, etc.)</p></li><li><p>Help troubleshoot configuration issues alongside the team</p></li><li><p>Join our internal SCRUM calls and share your ideas</p></li><li><p>Keep a running log of what you're learning and where you're getting stuck (this helps us help you)</p></li></ul><p><strong>What We're Looking For</strong></p><ul><li><p>Currently pursuing a Bachelor's in Computer Science or a related field</p></li><li><p>Available to work full-time (this internship works well for a co-op term, or a gap semester</p></li><li><p>Comfortable with programming fundamentals, especially JavaScript</p></li><li><p>Genuinely curious about new tech and enjoys solving problems</p></li><li><p>Communicates well and works well with others</p></li><li><p>Able to work onsite and be part of the team in person</p></li><li><p>Interested in sticking around and growing in the ServiceNow world long-term</p></li></ul><p><strong>Nice-to-Haves (not required, just a bonus)</strong></p><ul><li><p>Any exposure to ServiceNow or other enterprise platforms</p></li><li><p>Experience with REST APIs or scripting outside of class projects</p></li><li><p>Familiarity with Agile/SCRUM</p></li></ul><p><strong>What You'll Walk Away With</strong></p><ul><li><p>Real, resume-worthy experience on a major enterprise platform</p></li><li><p>Direct mentorship from senior engineers and architects</p></li><li><p>A clear path toward a full-time ServiceNow Engineer role after graduation</p></li><li><p>The chance to contribute to real projects early — not just fetch coffee</p></li></ul><p>RapDev is an Equal Opportunity Employer. We are committed to providing equal employment opportunities to all applicants and employees without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic.</p>",
+    "content_hash": "4af16c74e176e45f4d03c72e79b9c96b"
+  }
+}

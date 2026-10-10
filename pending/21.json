@@ -1,0 +1,89 @@
+{
+  "2142953922fb": {
+    "id": "2142953922fb",
+    "title": "Research Fellowship - Mechanistic Interpretability",
+    "title_raw": "Research Fellowship - Mechanistic Interpretability",
+    "company": {
+      "slug": "vmax-ai-corp",
+      "name": "Vmax AI Corp",
+      "domain": ""
+    },
+    "location": {
+      "raw": "SF",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "vmax",
+      "external_id": "7344d5fd-6fa3-4bce-b7bd-e73aa4dd568b"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/vmax/7344d5fd-6fa3-4bce-b7bd-e73aa4dd568b/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-20T16:25:29.353Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.506Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About </strong><em><strong>Vmax</strong></em></h3><p><em>Vmax</em> is an applied research lab developing AI capable of open-ended learning. We are building systems to exceed humans in all capacities by optimizing beyond the local maxima of learning from human expertise.</p><h3>About the role</h3><p>LLMs are fantastically powerful and there is a rapidly growing corpus of work devoted to understanding their internal representations and computations. We use the tools of mechanistic interpretability to enhance reinforcement learning by generating intrinsic rewards as a supplement or alternative to downstream human-generated verifiers. </p><p>This 3 to 6 month fellowship is for PhD students or equivalent early-career researchers who want to work at the intersection of mechanistic interpretability and reinforcement learning. You will own a focused research project, work closely with Vmax technical staff, and contribute to research publications.</p><h3>Responsibilities</h3><ul><li><p>Develop mechanistic interpretability methods for understanding internal representations, features, circuits, and computations in language models and agents.</p></li><li><p>Investigate how model internals can be used to generate intrinsic rewards, auxiliary objectives, diagnostics, or training signals for reinforcement learning.</p></li><li><p>Design and run experiments that test whether interpretability-derived signals improve learning, exploration, generalization, robustness, or sample efficiency.</p></li><li><p>Compare internally derived rewards against baselines such as human-generated verifiers, reward models, task-level outcome rewards, and standard intrinsic motivation methods.</p></li><li><p>Use techniques such as probing, activation analysis, sparse autoencoders, causal interventions, feature attribution, or representation analysis to study model behavior.</p></li><li><p>Analyze failure modes, including reward hacking, spurious features, non-causal correlations, objective misspecification, and overfitting to narrow evaluation distributions.</p></li><li><p>Build research code, evaluation harnesses, and experimental infrastructure that make results reproducible and useful to the broader team.</p></li><li><p>Communicate research progress clearly through written updates, internal presentations, and final project outputs.</p></li></ul><h3>Role Requirements</h3><ul><li><p>Currently enrolled in a PhD program in machine learning, computer science, artificial intelligence, computational neuroscience, mathematics, or a related technical field. Exceptional candidates with equivalent research experience may also be considered.</p></li><li><p>Track record of research excellence or strong research promise, demonstrated through publications, preprints, open-source work, technical projects, competitions, or publicly available artifacts.</p></li><li><p>Working understanding of reinforcement learning.</p></li><li><p>Familiarity with mechanistic interpretability, representation analysis, or empirical methods for understanding neural networks.</p></li><li><p>Strong programming ability in Python and experience with at least one major ML framework such as PyTorch or JAX.</p></li><li><p>Clear written and verbal communication of technical ideas.</p></li></ul><h3>Nice to have</h3><ul><li><p>Experience with LLM post-training methods </p></li><li><p>Familiarity with intrinsic motivation, unsupervised RL, auxiliary objectives, representation learning for RL, or curiosity-driven learning.</p></li><li><p>Experience with scalable ML experimentation, distributed training, experiment tracking, or reproducible research infrastructure.</p></li><li><p>Interest in turning mechanistic understanding into practical training methods, rather than only analyzing models after training.</p></li></ul><h3><strong>Role specific location policy</strong></h3><ul><li><p>This role is based in our San Francisco office; for exceptional candidates we are willing to consider a hybrid arrangement</p></li></ul>",
+    "content_hash": "dc1d6ba7a2e5205eea0da0382c2af35c"
+  },
+  "217fa0644954": {
+    "id": "217fa0644954",
+    "title": "Forward Deployed Agent Engineer, Early Career",
+    "title_raw": "Forward Deployed Agent Engineer, Early Career",
+    "company": {
+      "slug": "cogent-security",
+      "name": "Cogent Security",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cogent-security",
+      "external_id": "0ee6520e-8da8-4498-9580-57e9ff255d21"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cogent-security/0ee6520e-8da8-4498-9580-57e9ff255d21/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T19:33:59.453Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:06.161Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 100000,
+      "max": 160000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026
+    ],
+    "summary": null,
+    "description_html": "<h3>About Cogent Security</h3><p>Cogent is an Applied AI Lab building the next generation of AI agents for cybersecurity. AI has fundamentally changed how attacks happen, allowing malicious actors to operate at unprecedented speed and scale. Our AI Taskforce assesses petabytes of enterprise data to remediate these issues before critical breaches occur.</p><p>To stay at the cutting edge, we blend frontier research with real-world execution. Alongside our core product work, Cogent Research serves as our applied AI lab - providing the research needed to make agentic security workflows a reality.</p><p>Since coming out of stealth, Cogent has experienced rapid growth. We partner with Fortune 500 companies to secure some of the most complex production environments in the world.</p><p>We're backed by Greylock and our team includes people from:</p><ul><li><p>Top universities like Stanford, Berkeley, Penn, Duke, Carnegie Mellon, and Waterloo</p></li><li><p>High-growth companies like Scale AI, Databricks, Stripe, Tesla, and Coinbase</p></li><li><p>Cybersecurity leaders from Wiz, Abnormal AI, and Zscaler</p></li><li><p>Research labs like DeepMind and SAIL</p></li></ul><p></p><h3>About the Role</h3><p>We're hiring a Forward Deployed Agent Engineer, New Grad to deploy AI agents in complex customer environments and drive measurable security outcomes. This is a highly cross-functional, forward-deployed role - you'll work directly with customers to understand their needs, adapt our platform to their environment, and continuously iterate on solutions that scale to millions of real-world events.</p><p>You'll have real ownership from day one. You'll own projects end-to-end: from initial implementation and data onboarding, to deploying in production, to integrating feedback into our core agent platform. Your work will directly shape how our agents detect threats, triage incidents, and automate security workflows for enterprise organizations.</p><p>This role is built for engineers who thrive in high-impact environments, want to see the tangible results of their work in the field, and are ready to operate with autonomy from the start.</p><p></p><h3>What You'll Do</h3><ul><li><p><strong>Design &amp; Deploy AI Agents</strong> - build security-focused AI agents that reason over large datasets, interact with security systems, and handle complex real-world workflows</p></li><li><p><strong>Own Implementations End-to-End</strong> - lead technical delivery for customers, from data ingestion and transformation pipelines to configuration, workflow design, and feature extension</p></li><li><p><strong>Integrate the Latest Models at Scale</strong> - experiment with, evaluate, and ship text, voice, and multi-modal models into production environments</p></li><li><p><strong>Adapt to Diverse Environments</strong> - work directly with customer security teams to integrate our agents with their tools, processes, and data sources</p></li><li><p><strong>Drive Platform Evolution</strong> - identify cross-customer trends and translate field insights into platform improvements and new capabilities</p></li><li><p><strong>Solve Complex Technical Problems</strong> - debug deep in the stack, investigate edge cases, and ensure our agents meet enterprise-grade reliability and performance standards</p></li></ul><p></p><h3>What We're Looking For</h3><ul><li><p>Graduating December 2026 or Spring 2027 with a degree in Computer Science, Software Engineering, Mathematics, Physics, or a related field</p></li><li><p>Proficiency in one or more programming languages (Python, Go, TypeScript, Java, or similar)</p></li><li><p>Strong software fundamentals - you've built and shipped real projects (coursework, internships, or personal) and can debug what breaks, with or without AI tooling</p></li><li><p>Strong communication skills, with the ability to translate between technical and non-technical contexts</p></li><li><p>Thrive in ambiguity, take ownership end-to-end, and prioritize customer outcomes over output</p></li></ul><p></p><h3>Bonus Points</h3><ul><li><p>Internship or project experience in customer-facing, forward-deployed, or consulting engineering roles</p></li><li><p>Exposure to early-stage startups where scope was ambiguous and you operated across functions</p></li><li><p>Familiarity with multi-modal AI models, enterprise SaaS, security operations, or large-scale data pipelines</p></li></ul><p></p><h3>For California Based Applicants</h3><p>The standard base salary range for this position is $100,000 - $160,000 annually. Compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.<br /></p><p>We are committed to building an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.</p>",
+    "content_hash": "87a57d4e68ff0c8827ee29ac033108a1"
+  }
+}

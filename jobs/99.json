@@ -1,0 +1,84 @@
+{
+  "99048d742940": {
+    "id": "99048d742940",
+    "title": "2027 Internship Hardware Engineer",
+    "title_raw": "2027 Internship Hardware Engineer",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "949feb1b-c60f-43c5-94de-7dd9cd70ba4a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T22:49:39.846Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3>About the Role &amp; Team</h3><p>Bedrock is bringing autonomy to the construction industry! We're a group of veterans from the autonomous vehicle industry who are passionate about bringing the benefits of automation to areas in the construction industry currently underserved by the market. We're growing our sizable fleet of retrofitted autonomous construction machines and we're looking for a motivated hardware engineering intern to support system testing and integration. You will work alongside senior engineers who design these systems, and you will help deliver robust and capable autonomous HW systems to the field.</p><p></p><h3>What You'll Do</h3><ul><li><p>Support the design, characterization, integration, and validation of Bedrock autonomy hardware and related systems, under the guidance of senior engineers.</p></li><li><p>Assist with component evaluations for our autonomous HW platforms</p></li><li><p>Write sensor data analysis and test automation scripts (Python and/or C++/C/Rust)</p></li><li><p>Run tests, collect data, and document results clearly for the engineering team</p></li></ul><p></p><h3>What We're Looking For</h3><h3>Required</h3><ul><li><p>Currently pursuing a Bachelor's degree in Electrical Engineering, Mechatronics, or a related field</p></li><li><p>Solid foundational knowledge in HW engineering subjects such as mechanical, electrical, and embedded SW</p></li><li><p>Coursework or project experience with some or all of the following:</p><ul><li><p>  Embedded compute platforms, including single-board computers or edge compute modules</p></li><li><p>  Common autonomous sensing technologies such as lidar, camera, radar, GNSS, or IMUs</p></li><li><p>  Packaging and integration of HW systems, including basic mechanical or thermal considerations</p></li><li><p>  Basic signaling and communication protocols such as CAN, UART, SPI, or Ethernet</p></li></ul></li><li><p>Proficiency in one or more of Python, C/C++, or Rust, with the ability to write scripts for tests, data collection, or analysis</p></li><li><p>Strong fundamentals in circuits, signals, and basic mechanical design</p></li><li><p>Comfortable working in a lab environment with tools such as a multimeter, oscilloscope, function generator, soldering iron, or hammer when necessary :)</p></li></ul><p></p><h3>Preferred</h3><ul><li><p>Prior co-op terms, personal projects, or club experience (e.g. UW Robotics, Formula Electric, WATonomous) in hardware or embedded systems</p></li><li><p>Expertise with camera, lidar, radar, IMU, or GNSS</p></li><li><p>Embedded compute platforms, in particular the Nvidia Jetson lineup</p></li><li><p>Communication protocols (CAN, UART, SPI, RS232/422/485, Ethernet, etc.)</p></li><li><p>Curiosity about autonomy and prior work in this area</p></li><li><p>Basic PCB design or schematic capture tools (KiCad, Eagle, Altium, Cadence, etc.)</p></li><li><p>Experience with version control (git) and collaborative engineering workflows</p></li><li><p>Familiarity with construction, off-road, or heavy equipment</p></li><li><p>A portfolio of personal or academic hardware projects (robotics, embedded systems, etc.)</p></li></ul><p></p><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "de47ce24a9c1d150c66e91f09d12ebb1"
+  },
+  "99818f1d4c42": {
+    "id": "99818f1d4c42",
+    "title": "Intern - Electrical Engineer",
+    "title_raw": "Intern - Electrical Engineer",
+    "company": {
+      "slug": "human-computer-lab",
+      "name": "Human Computer Lab",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Toronto"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "human-computer-lab",
+      "external_id": "004ff3a2-7e38-4959-8bd7-48489cbc78f4"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-04-27T15:56:52.064Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.244Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Human Computer Lab is a research lab building character robots that feel alive and responsive. Our first robot, LeLamp, explores a new category of consumer robotics where everyday objects become interactive and help us reshape our attachment to technology.</p><p></p><p>Our goal is to push the frontier of human-robot interaction by making technology more legible, emotionally intuitive, and human-centered. We are building the foundation for a new generation of robots designed for everyday environments.</p><p></p><p><strong>What to expect</strong></p><p>We're looking for a hands-on electrical engineering intern who wants to help design the hardware that makes LeLamp tick. You'll work on the electronics at the core of the robot's expressiveness (power, sensing, actuation, and computation), contributing to designs from schematic to physical board. This role requires regular bench work, including soldering, board rework, signal probing, and direct hardware debugging. You'll work closely with the CEO and founding team to design, validate, and iterate on the PCBAs that make up LeLamp's electrical architecture and support integration as the full system comes together.</p><p></p><p><strong>In this role, you will:</strong></p><ul><li><p>Contribute to PCBA design and validation for robot subsystems including power distribution, motor control, sensing, and compute integration.</p></li><li><p>Help develop early electrical concepts and assist with trade studies to support architecture decisions.</p></li><li><p>Support schematics and layout work through fabrication and bring-up, iterating quickly based on test results.</p></li><li><p>Debug hardware issues systematically and close the loop with clear documentation.</p></li><li><p>Review schematics, layouts, and BOMs alongside teammates.</p></li><li><p>Support system integration and cross-boundary debugging between hardware and firmware.</p></li><li><p>Perform hands-on bench work including soldering small components, rework, probing, and board bring-up.</p></li><li><p>Help shape the platform's electrical architecture as it evolves.</p></li></ul><p></p><p><strong>You may be a good fit if you:</strong></p><ul><li><p>Are pursuing a degree in Electrical Engineering and have hands-on project or coursework experience (personal projects, club teams, prior internships, or research all count).</p></li><li><p>Are fluent in Altium or similar tools across schematics and layout.</p></li><li><p>Document clearly and drive issues to resolution.</p></li><li><p>Are comfortable at the bench with soldering, rework, probing, and prototype iteration.</p></li><li><p>Have experience involving power electronics, motor control, sensing systems, or embedded robotics hardware.</p></li><li><p>Have experience programming microcontrollers, DSPs, or FPGAs.</p></li><li><p>Are comfortable working in environments where architecture is still evolving and your input shapes direction.</p><p></p></li></ul><p><strong>You will be a strong fit, if you:</strong></p><ul><li><p>Have strong EE fundamentals and curiosity about analog issues inside digital systems, ESD / signals connected to the outside world, voltage mismatch issues, and component behavior details.</p></li><li><p>Love being at the bench as much as at the computer, and hardware is not abstract to you.</p></li><li><p>Move quickly through iteration cycles and don't wait for perfect information to make progress.</p></li><li><p>Take ownership over your work end to end, from first schematic to working hardware in the robot.</p></li><li><p>Work well in small, collaborative teams where electrical and mechanical are in constant conversation.</p></li><li><p>Care about what the electronics enable: expressiveness, responsiveness, and the feeling that the robot is alive.</p></li></ul><p><br />The early team becomes the DNA of the company. We set ourselves and others to a high standard, and we respond with kindness when things get hard but keep everyone accountable. This requires us to be curious, creative, and diverse in our thinking and approach. <br /><br />We’re proud to be an equal opportunity employer and consider all qualified applicants regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Even if you don’t meet every single requirement, we encourage you to apply. Studies show that women and underrepresented groups often hold back unless they meet 100% of the criteria - we don’t want that to be the reason we miss out on great talent.</p>",
+    "content_hash": "a3b0b4cb45ae8bc007c8eb746e4fd404"
+  }
+}

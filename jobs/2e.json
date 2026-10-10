@@ -1,0 +1,87 @@
+{
+  "2e1d444f02b1": {
+    "id": "2e1d444f02b1",
+    "title": "Internship Teleoperation & Data Labeling",
+    "title_raw": "Internship Teleoperation & Data Labeling",
+    "company": {
+      "slug": "sereact",
+      "name": "Sereact",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Stuttgart Schockenriedstr. 17",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "sereact",
+      "external_id": "6cdac4ee-0bbb-44f5-a846-c0dbe1ce345a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/sereact/6cdac4ee-0bbb-44f5-a846-c0dbe1ce345a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-20T12:37:57.735Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.222Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Internship – Teleoperation &amp; Data Labeling (m/f/d)</strong></h3><p></p><h3>Who We Are</h3><p>We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.<br /></p><h3>Overview</h3><p>We are looking for a tech-savvy <strong>intern</strong> with a passion for robotics, machine learning, or computer vision who wants hands-on experience in teleoperation and operating state-of-the-art robots. This role is perfect for someone eager to learn, contribute, and gain practical exposure to advanced AI-driven robotic systems.</p><p></p><h3>Your Responsibilities</h3><ul><li><p><strong>Robot Teleoperation:</strong> Collect high-quality data by controlling robots through a VR headset.</p></li><li><p><strong>Data Labeling:</strong> Label visual data (images, point clouds) with speed and precision.</p></li><li><p>Use terminal basics to <strong>run existing tooling</strong> (bash + Python scripts) for data collection, uploads, and checks</p></li><li><p>Do <strong>simple debugging</strong>: reproduce issues, collect logs, and write clear problem reports (steps, expected vs actual, timestamps, logs/screenshots)</p></li><li><p><strong>Collaboration:</strong> Work with a fast-paced, innovative tech team.</p></li><li><p><strong>Travel</strong> to different sites within the EU may be required</p><p></p></li></ul><h3>Your Qualifications</h3><ul><li><p>Currently enrolled in or recently completed a Bachelor’s or Master’s program in Robotics, Engineering, Computer Science, or a related field.</p></li><li><p>Strong attention to detail.</p></li><li><p>Basic understanding of datasets and structured data workflows.</p></li><li><p>Comfortable wearing a VR headset for extended periods (note: our VR headsets cannot accommodate eyeglasses; alternative corrective options required).</p></li><li><p>Terminal basics (macOS/Linux): navigate directories, run commands, set env vars, read outputs</p></li><li><p>Comfortable working in a fast-paced environment.</p></li><li><p>Can run and modify existing Python scripts; comfortable executing bash/Python commands</p></li><li><p>Willingness to travel</p></li><li><p>Driving license valid in the EU is helpful (company car / rental), if available</p></li></ul><p><br /><strong>Location:</strong> </p><ul><li><p>Stuttgart-Vaihingen, Germany with occasional travel within the EU</p></li></ul><p><br /><strong>Duration:</strong> Minimum 3 months, full-time (40 h/week)</p><p></p><h3><strong>Our interview plan:</strong></h3><ul><li><p>Application</p></li><li><p>Take‑home assignment: You’ll complete a short, role‑relevant task with clear instructions and a deadline.</p></li><li><p>Cultural fit interview (40 min): A conversation about how you work, what motivates you, and what you’re looking for. Expect CV highlights, your “why,” and time for your questions.</p></li><li><p>On‑site assessment day: Meet the team at our office and collaborate on a real challenge similar to the work you’d do here. You’ll get a clear feel for the environment, ways of working, and the role.<br /></p></li></ul><h3>What We Offer</h3><ul><li><p>Real-world experience with cutting-edge robotic systems.</p></li><li><p>Fitness membership with Wellpass.</p></li><li><p>Regular team events and a supportive team culture.</p></li><li><p>An opportunity to develop hands-on skills in a high-growth robotics company.</p></li></ul><p></p><p><strong>Note to applicants:</strong> We are currently experiencing a high volume of interest in this role. Due to this, our review process is taking a bit longer than usual. We appreciate your patience.</p>",
+    "content_hash": "6bad1d2d9b8a7272177de3919d1cd8e0"
+  },
+  "2e94927f09cb": {
+    "id": "2e94927f09cb",
+    "title": "Business Intelligence Intern",
+    "title_raw": "Business Intelligence Intern",
+    "company": {
+      "slug": "ibotta",
+      "name": "ibotta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hybrid - Denver",
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "hybrid",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ibotta",
+      "external_id": "3a27a6fc-5d2c-4b88-8b19-8f9f7094f899"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T16:05:47.958Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.426Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 27.31,
+      "max": 27.31,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ibotta is seeking an <strong>Business Intelligence Intern</strong> to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our <strong>2027 Summer Internship</strong>, you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your career. We are looking for candidates who are eager to learn, excited to work on real-world business challenges, and want to be part of a </p><p>mission-driven company. </p> <p>This will be a full-time, 12 week, internship during the summer of 2027. This is a hybrid position located in Denver, Colorado and requires 3 days in-office per week. Required in-office hybrid days are Tuesday, Wednesday, and Thursday. Candidates must live in the United States.</p> <p><strong>What you will be doing:</strong> </p><ul><li><p>Conduct exploratory data analysis and generate ad hoc reports to answer business questions or support ongoing projects.</p></li><li><p>Support the creation, migration, and improvement of business intelligence dashboards using tools like Looker and Databricks. </p></li><li><p>Help gather requirements, build visualizations, and test new or updated dashboards for accuracy and usability.</p></li><li><p>Embrace and uphold Ibotta’s Core Values: <em>Integrity, Boldness, Ownership, Teamwork, Transparency &amp; A good idea can come from anywhere</em></p></li></ul> <p><strong>What we are looking for:</strong>  </p><ul><li><p>Juniors working towards a bachelor’s degree with a focus in computer science, information systems, business analytics, statistics, or a related field</p></li><li><p>Proven ability to think creatively and implement ideas from start to finish</p></li><li><p>Good written and verbal communication skills</p></li><li><p>Hunger to learn and collaborate with your teammates</p></li><li><p>Basic SQL or Python for querying and manipulating data.</p></li><li><p>Comfortable working in a team environment, asking questions, and documenting findings or issues clearly.</p></li><li><p>Ability to work with data, spot inconsistencies, and ensure accuracy in reporting and analysis.</p></li><li><p><strong>Bonus:</strong> Exposure to business intelligence platforms (such as Looker, Tableau, or Power BI) </p></li></ul> <p><strong>About Us:</strong></p><p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $1.8 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.</p> <p>To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com</p> <p> <strong>Additional Details:</strong></p><ul><li><p>This position is located in Denver, CO and includes competitive pay and housing assistance for eligible students. <strong>Denver office perks include paid parking, snacks, and occasional meals.</strong></p></li><li><p>The hourly compensation for this role is: <strong>$27.31</strong> per hour worked. This compensation range is specific to the United States labor market.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul> <p><strong>Recruiting Agency Notice</strong></p><p>Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p> <p>#LI-Hybrid</p><p>#BI-Hybrid</p>",
+    "content_hash": "18c12b1c1fa8a40a38257e671b75ed5f"
+  }
+}

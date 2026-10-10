@@ -1,0 +1,129 @@
+{
+  "211636b44b44": {
+    "id": "211636b44b44",
+    "title": "Intern - Controls Engineer",
+    "title_raw": "Intern - Controls Engineer",
+    "company": {
+      "slug": "human-computer-lab",
+      "name": "Human Computer Lab",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Toronto"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "human-computer-lab",
+      "external_id": "3ceb956a-f231-4238-bb2e-365515b930a7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-05T18:52:40.131Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.244Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Human Computer Lab is a research lab building character robots that feel alive and responsive. Our first robot, LeLamp, explores a new category of consumer robotics where everyday objects become interactive and help us reshape our attachment to technology.</p><p></p><p>Our goal is to push the frontier of human-robot interaction by making technology more legible, emotionally intuitive, and human-centered. We are building the foundation for a new generation of robots designed for everyday environments.</p><p><strong>What to expect</strong></p><p>We’re looking for a controls/mechatronics engineer who wants to own the systems that make LeLamp move, respond, and feel alive. You’ll work at the intersection of hardware and software, designing and tuning control systems, integrating actuators and sensors, and debugging real hardware at the bench to translate intent into expressive motion. This is a high-ownership role working closely with the CEO and founding team across the full mechatronic stack, from low-level motor control and sensor fusion through to the higher-level behaviors that make the robot feel responsive and intentional in the real world.</p><p><strong>In this role, you will:</strong></p><ul><li><p>Design and tune control systems for actuated subsystems including motion control, feedback, and dynamic response.</p></li><li><p>Integrate actuators, sensors, encoders, and embedded electronics into reliable mechatronic assemblies.</p></li><li><p>Develop control algorithms in C++ and/or Python from simulation through deployment on hardware.</p></li><li><p>Build and maintain URDF models and simulation environments aligned with the physical platform.</p></li><li><p>Diagnose real-world control issues such as instability, backlash, latency, drift, and sensor noise.</p></li><li><p>Collaborate with animators, mechanical and electrical engineers on actuator selection, structure, sensing strategy and motion fine-tuning</p></li><li><p>Develop motion primitives and expressive behaviors that shape how the robot moves.</p></li><li><p>Maintain documentation of control architecture and tuning decisions as the system evolves.</p></li></ul> <p><strong>You may be a good fit if you:</strong></p><ul><li><p>Are persuing a Bachelors/Masters in Electrical Engineering, Mechatronics Engineering, Software Engineering.</p></li><li><p>Have hands-on experience tuning control systems on real robotic hardware.</p></li><li><p>Are fluent in C++ and/or Python for robotics or embedded control work.</p></li><li><p>Have experience with ROS or ROS2 and real-time robotics software stacks.</p></li><li><p>Are comfortable working with CAD tools such as SolidWorks or Onshape.</p></li><li><p>Have experience with actuators, motor drivers, encoders, and IMUs across the full signal chain.</p></li><li><p>Are strong at hardware debugging using tools like oscilloscopes and signal tracing.</p></li><li><p>Have experience building URDF models and working with simulators such as Gazebo, MuJoCo, or Isaac Sim.</p></li><li><p>Are comfortable working in environments where system architecture is still evolving.</p></li><li><p>Have experience with impedance control, torque control, or whole-body control on physical robots</p></li><li><p>Have experience with sensor fusion, state estimation, or Kalman filtering on hardware systems</p></li><li><p>Have embedded programming experience on microcontrollers or DSPs in a controls context</p></li><li><p>Have experience shaping expressive or character-driven robot motion</p></li></ul> <p><strong>You will be a strong fit, if you:</strong></p><ul><li><p>Are drawn to the physical reality of robotics. You want to see the system move, not just pass a simulation.</p></li><li><p>Move quickly through iteration cycles and don't wait for perfect conditions to make progress.</p></li><li><p>Take ownership over the feel of the robot's motion, not just its correctness.</p></li><li><p>Work well in small, collaborative teams where controls, mechanical, and electrical are in constant conversation.</p></li><li><p>Care about the person on the other end, and understand that how the robot moves is a big part of how it feels to live with.</p></li></ul><p><br />The early team becomes the DNA of the company. We set ourselves and others to a high standard, and we respond with kindness when things get hard but keep everyone accountable. This requires us to be curious, creative, and diverse in our thinking and approach. <br /><br />We’re proud to be an equal opportunity employer and consider all qualified applicants regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Even if you don’t meet every single requirement, we encourage you to apply. Studies show that women and underrepresented groups often hold back unless they meet 100% of the criteria - we don’t want that to be the reason we miss out on great talent.</p>",
+    "content_hash": "e104d45e31de648656d6b5965c2defc8"
+  },
+  "21a7ecfc3d2a": {
+    "id": "21a7ecfc3d2a",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "clay",
+      "name": "Clay",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "claylabs",
+      "external_id": "5b7eced2-36bd-4265-a2a8-da0f786e47aa"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T15:48:09.752Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:05.325Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Clay</strong></h3><p>AI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential.</p><p>Clay predicts the next best action for your business and then helps you take it. We started by aggregating the best data for B2B companies. Then, we built the infrastructure to run any personalized campaign on top of it, including emails, ads, landing pages, and workflows that make reps more productive. Now, we're building agents that can help grow your company for you. We're already helping thousands of customers — including Anthropic, OpenAI, Google, and Visa — go to market with unique data, signals, and AI research.</p><p>In 2026, we raised a $115M Series D at $7.1B Valuation led by Wellington — and are on track to cross $200M in revenue this quarter. We also launched a $1M Scholarship fund for GTME Education.</p><p>Some things to know about us:</p><ul><li><p>Our community includes 17,000+ customers, 200+ integration partners, 125+ agencies, 50+ Clay clubs, and 30k members on Slack.</p></li><li><p>Our culture<em> </em>is unique inside <em>and </em>outside of work. Our team members are also DJs, activists, writers, clowns, marathoners, skydivers, psychedelic therapists, social workers, and more.</p></li><li><p>All employees can work with world-class coaches who specialize in creativity, management, and more.</p></li><li><p>Our operating principles — including negative maintenance and non-attached action — guide our work. Read more about them here.</p></li><li><p>Read about us in the NYT, Forbes, First Round Review, and more.</p><p></p></li></ul><p>Hear from our employees directly on our Glassdoor page!</p><h3><strong>Qualifications</strong></h3><ul><li><p>You're currently pursuing a degree in Computer Science or a related field</p></li><li><p>You have some hands-on experience building software — through 2 previous internships, coursework, personal projects, or hackathons.</p></li><li><p>AI enthusiast: You have built or prototyped features with AI technologies (LLMs, embeddings, ML) and are interested in learning more at an AI forward company!</p></li><li><p>Thoughtful problem-solving: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.</p></li><li><p>You love to collaborate with others to ship high quality, thoughtful features. You're curious about talking to customers, thinking through different approaches, and working with teammates to find the right solution.</p></li><li><p>Diversity of perspectives and interests. We hope to build a team that is curious, and open-minded.</p></li><li><p>You're familiar with some of our tech stack, or excited to learn quickly. Our current tech stack is: </p><ul><li><p>React, Typescript, Python, Node.js</p></li><li><p>AWS services: Aurora (Postgres), Elasticache (Redis), Elastic Container Registry (ECR), ECS (Fargate), Lambda, OpenSearch</p></li><li><p>IaC: Terraform</p></li><li><p>Deployment tools: CircleCI, Netlify, Playwright</p></li><li><p>Observability tools: Cloudwatch, Datadog, Mezmo</p></li></ul></li></ul>",
+    "content_hash": "8f9a5363e604a158fca7986836e032f2"
+  },
+  "21b17b8f046c": {
+    "id": "21b17b8f046c",
+    "title": "Game Design Intern",
+    "title_raw": "Game Design Intern",
+    "company": {
+      "slug": "tapblaze",
+      "name": "TapBlaze",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles Office",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tapblaze",
+      "external_id": "0e2eb53a-52b2-4d19-bc2f-b35413aeaa2d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tapblaze/0e2eb53a-52b2-4d19-bc2f-b35413aeaa2d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-30T03:14:00.266Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.418Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 20,
+      "max": 20,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Eligibility</h3><ul><li><p>Currently enrolled undergraduate (junior or senior), graduate student or recent graduate (up to 6 months).</p></li><li><p>Available 40 hours per week in-office in Los Angeles.</p></li><li><p>12 week duration</p></li><li><p>Paid internship: $20/hr to $25/hr</p></li></ul><p>We're looking for a passionate Game Design Intern to join our team for a 12-week paid internship. You'll work hands-on with our design team on two live titles, Good Pizza, Great Pizza and Good Coffee, Great Coffee contributing directly to the game designs, mechanics, and balance that shape the player experience. You'll be doing real design work, pitching ideas, and seeing your contributions make it into games played by millions. At the end of the 12 weeks, top-performing interns will be considered for a full-time Junior Game Designer role.</p><p></p><h3>About TapBlaze</h3><p>Our mission is to create memorable entertainment experiences for players around the world. Our vision is to become one of the world's leading entertainment companies. As a self-funded, independent studio, we only answer to our players - not investors, not publishers. <strong>Good Pizza, Great Pizza</strong> has been downloaded more than 300 million times, and we did it with a small, focused team.</p><p>Our core values drive everything we do:</p><ul><li><p><strong>We are ambitious.</strong> We aim to build games that are remembered for decades.</p></li><li><p><strong>We are disciplined.</strong> We make deliberate, well-reasoned decisions.</p></li><li><p><strong>We are ownership-minded.</strong> If it's your area, you own it, the wins and the problems.</p></li><li><p><strong>We are results oriented.</strong> We measure success by what ships and what players experience.</p></li><li><p><strong>We are extra-ordinary.</strong> We hold ourselves to a higher standard than the industry expects of a studio our size.</p></li></ul><p>We are seeking individuals that share these values and are looking to level up themselves, the games they work on, and the company they work for. </p><p></p><h3>What You'll Do</h3><ul><li><p>Prototype and pitch an original idea for a new feature, event, or content update.</p></li><li><p>Collaborate with the design team to develop and iterate on a game mechanic, system, and/or content for <em>Good Pizza, Great Pizza</em> and <em>Good Coffee, Great Coffee.</em></p></li><li><p>Design, document, and balance in-game systems including recipes, progression, customer behaviors, and economy tuning.</p></li><li><p>Create and maintain clear, detailed design documentation (feature specs, balance spreadsheets, flowcharts).</p></li><li><p>Playtest builds and provide structured, actionable feedback on gameplay feel and balance.</p></li><li><p>Analyze player data and feedback to identify balance issues and opportunities for improvement.</p></li><li><p>Participate in design reviews, brainstorms, and team critiques.</p><p></p></li></ul><h3>What We're Looking For</h3><ul><li><p>A genuine love of games and a curiosity about what makes them work. You think about <em>why</em> a mechanic is fun, not just <em>that</em> it's fun.</p></li><li><p>Foundational understanding of game design principles: feedback loops, pacing, progression, player motivation, and economy design.</p></li><li><p>Strong analytical skills, comfort with spreadsheets, numbers, and tuning variables to find the right balance.</p></li><li><p>Clear written and verbal communication; ability to explain and defend design decisions.</p></li><li><p>A collaborative mindset and openness to feedback</p></li><li><p>Self-motivated with the ability to manage time and prioritize across multiple tasks.</p></li><li><p>Great attention to details - you read the full job description.</p><p></p></li></ul><h3>Bonus Points</h3><ul><li><p>Experience with game design tools (Unity, game engines, Claude, prototyping tools, or scripting).</p></li><li><p>A portfolio, passion project, or game jam entry that showcases your design thinking.</p></li><li><p>Familiarity with mobile/casual game design and free-to-play economies.</p></li><li><p>Experience with or knowledge of cozy, simulation, restaurant, or management game genres.</p></li><li><p>Background in data analysis or player behavior research.</p><p></p></li></ul><h3>What You'll Gain</h3><ul><li><p>Hands-on experience designing for live games with real player bases.</p></li><li><p>Mentorship</p></li><li><p>A deep understanding of mobile game design, balancing, and live operations.</p></li><li><p>A clear pathway to a full-time Associate Game Designer position based on performance.</p></li><li><p>A portfolio-worthy body of work from your contributions.</p><p></p></li></ul><h3>Physical Requirements</h3><ul><li><p>Los Angeles, CA: Reliably commute or planning to relocate before starting work;</p></li><li><p>Prolonged period of time sitting at a desk and computer.</p></li></ul><h3></h3><h3>Commitment to Diversity</h3><p>As an equal opportunity employer committed to meeting the needs of a multigenerational and multicultural workforce TAPBLAZE recognizes that a diverse staff, reflective of our community, is an integral and welcome part of a successful and ethical business. We hire local talent at all levels regardless of race, color, religion, age, national origin, gender, gender identity, sexual orientation, or disability, and actively foster inclusion in all forms both within our company and across interactions with vendors and partners.</p><p></p><p><strong>If this position caught your eye, send us your resume!</strong> For best consideration, include a cover letter in your application explaining why you would be a great fit.</p><p></p><p>Should you have any questions or encounter any fraudulent requests/emails/websites, please immediately contact careers@tapblaze.com. Our job applicant privacy policies are available here: California Privacy Notice</p>",
+    "content_hash": "eb77903427a4542cacca7a70c2cf2183"
+  }
+}

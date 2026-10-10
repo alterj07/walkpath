@@ -1,0 +1,132 @@
+{
+  "ba11c4d198ad": {
+    "id": "ba11c4d198ad",
+    "title": "2027 Internship Sensor Hardware Test Engineer",
+    "title_raw": "2027 Internship Sensor Hardware Test Engineer",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "1f413f83-b897-4938-a19e-ab91bd326c51"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:06:43.543Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>As a Sensor Hardware Test intern, you'll work alongside our test engineering team to characterize and validate the sensors - cameras, lidar, and supporting hardware - that power Bedrock's autonomous excavators. You'll help build test fixtures, run structured lab test campaigns, and turn raw sensor data into clear conclusions that guide how we select and integrate hardware. You'll also get out to our field site to see how bench results hold up on a live construction machine. You’ll own a hands-on project involving sensor hardware testing end-to-end, and your results will directly shape what hardware ends up on the next generation of machines.</p><p></p><h3>What You'll Do</h3><ul><li><p>Build and iterate on test fixtures and benchtop setups - mechanical mounts, wiring harnesses, DAQ integration - used to characterize camera, lidar, and other sensor hardware</p></li><li><p>Run structured sensor test campaigns in the lab, following defined test procedures and capturing repeatable, well-documented data</p></li><li><p>Help safely deploy test setups and instrumentation out at our field site, and support live field test campaigns on active construction equipment</p></li><li><p>Develop tools to automate data collection, process raw sensor logs, and summarize results against pass/fail criteria</p></li><li><p>Help scope and select test equipment (light meters, targets, DAQ hardware, valves and actuators for environmental or fluid test rigs) for new test setups</p></li><li><p>Support electrical and mechanical debugging of test hardware, including wiring, sensor interfacing, and basic CAD work for fixture design</p></li><li><p>Document test methods, results, and findings, and present conclusions to the test engineering team to inform sensor selection and system design decisions</p></li></ul><p></p><h3>What We're Looking For</h3><h3>Required</h3><ul><li><p>Currently pursuing a Bachelor's degree in Electrical Engineering, Mechanical Engineering, Physics, Optics, Mechatronics, or a related field</p></li><li><p>Hands-on experience building or testing hardware through coursework, personal projects, or a prior internship</p></li><li><p>Working proficiency in Python for data processing, scripting, or automation</p></li><li><p>Comfortable with basic lab equipment and electrical debugging (multimeters, oscilloscopes, DAQ systems)</p></li><li><p>Comfortable working outdoors and around active construction equipment, and willing to spend time on-site at our field test location for deployment and field testing</p></li><li><p>Strong written and verbal communication skills, with the ability to document technical work clearly for a team</p></li></ul><p></p><h3>Preferred</h3><ul><li><p>Exposure to cameras, lidar, radar, or other sensing hardware through coursework, internship experience, or personal projects</p></li><li><p>Experience with CAD tools for mechanical fixture design</p></li><li><p>Familiarity with Git and working within a shared codebase</p></li><li><p>Prior coursework, internship, or project experience in robotics, autonomous systems, or controls</p></li></ul><p></p><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "d667285344654e399ec82d816a5d83a7"
+  },
+  "ba26c4399517": {
+    "id": "ba26c4399517",
+    "title": "Marketing AI Intern",
+    "title_raw": "Marketing AI Intern",
+    "company": {
+      "slug": "g2",
+      "name": "G2",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote (US)",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "g2",
+      "external_id": "0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/g2/0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-22T15:18:26.923Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.577Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 24,
+      "max": 24,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About G2 - The Company</strong><br /></p><p>G2 is the world's largest and most trusted software marketplace. When you join G2, you’re joining the industry’s leading team that helps businesses reach their peak potential by powering decisions and strategies with trusted insights from real software users.</p><p></p><p>Now, we have joined forces with Capterra, SoftwareAdvice, and GetApp to create the largest source of online data and software insights to fuel intelligent buying in the age of AI. With 200M+ combined annual visitors and 6M verified reviews, we are now the centralized place to enable software buyers to make better and faster decisions with confidence.</p><p></p><p>And we are just getting started! We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.</p><p></p><p>Does that sound exciting to you? Come join us as we try to reach our next PEAK!</p><p></p><p><strong>About G2 - Our People</strong></p><p></p><p>At G2, everything we are and what we do is grounded in our  PEAK values— (<em>P</em>erformance + <em>E</em>ntrepreneurship + <em>A</em>uthenticity + <em>K</em>indness. Working at G2 means you are part of a value-driven, growing global community that climbs PEAKs together. We cheer for each other’s successes, learn from our mistakes, and support and lean on one another during challenging times. With ambition and entrepreneurial spirit we push each other to take on challenging work, which will help us all to grow and learn.</p><p></p><p>You will be part of a global, diverse team of smart, dedicated, and kind individuals - each with unique talents, aspirations, and life experiences. At the heart of our community and culture are our people-led ERGs, which celebrate and highlight the diverse identities of our global team. As an organization, we are intentional about our DEI and philanthropic work (like our G2 Gives program) because it encourages us all to be better people.</p><p></p><h3><strong>About The Role</strong></h3><p><strong>Summary of Responsibilities:</strong></p><p>G2 Marketing is running an org-wide initiative to build AI fluency across every function — from brand and creative to demand gen, content, product marketing, ops, social, SEO, and project management. We've built the framework: a 5-stage adoption model, a validated self-assessment tool, a live results dashboard, and stage-by-stage deep-dives showing teams exactly how to move from individual AI skills to full-scale, cross-team adoption. Now we need someone to help teams actually climb that ladder.</p><p>This intern will work directly with marketing leadership to turn the adoption roadmap into measurable progress — helping teams move from experimenting individually with AI to embedding it in daily workflows, and eventually contributing to tools that work across functions. This is a hands-on role, with close support from Marketing leadership. We're looking for someone who's energized rather than unsettled by open-ended problems, who can observe a vague signal (\"this team seems stuck\") and turn it into a concrete hypothesis and test. Strong candidates will show curiosity and initiative, and evidence of having dug into a problem with genuine interest rather than just executing a process</p><p></p><p><strong>Detailed Responsibilities:</strong></p><p><strong>Roadmap Execution &amp; Deep-Dives</strong></p><ul><li><p>Recommend and draft Stage 1 deep-dives for remaining marketing functions, following the established starter/advanced prompt-pair and before/after time-savings format, with review and sign off from marketing leadership</p></li><li><p>Validate use cases with team leads and get sign-off on deep-dive content</p></li></ul><p><strong>Stage Progression (Stage 1 → 2)</strong></p><ul><li><p>Apply the roadmap's diagnostic \"you're here when\" signals and unlock conditions to identify what's blocking teams from reaching Stage 2, bringing findings to marketing leadership for prioritization</p></li><li><p>Work with team leads to support embedding AI workflows into standard practice, not just one-off experimentation</p></li><li><p>Track progress through self-assessment score movement and draftcase studies as proof points for leadership review</p></li></ul><p><strong>Cross-Team Enablement (Stage 2 → 3)</strong></p><ul><li><p>Support leadership in identifying the team(s) with the highest readiness to advance to stage 3 by analyzing assessment data and surfacing readiness signals</p></li><li><p>Contribute to scoping and help execute a cross-team tool or shared workflow with an adjacent function, under the direction of marketing leadership</p></li><li><p>Document lessons learned into a repeatable playbook for future teams</p></li></ul><p><strong>Assessment &amp; Measurement</strong></p><ul><li><p>Support ongoing maintenance of the self-assessment tool and results dashboard</p></li><li><p>Help design objective test questions to complement self-reported scores and counteract known self-assessment inflation</p></li></ul><p><strong>Training Support</strong></p><ul><li><p>Contribute to building out session materials for the 12-session AI fluency curriculum</p></li><li><p>Help coordinate rollout logistics and gather feedback for iteration</p></li></ul><p></p><p><strong>Qualifications:</strong></p><p><strong>Required</strong></p><ul><li><p>Strong written and verbal communication skills</p></li><li><p>Demonstrated interest in AI tools and workflows — coursework, personal projects, or hands-on use count</p></li><li><p>Organized, self-directed, and comfortable working across multiple workstreams and keeping projects on track with guidance from a manager</p></li><li><p>Analytical mindset — comfortable interpreting assessment data and summarizing insights and recommendations for leadership</p></li><li><p>Currently pursuing a degree in marketing, business, communications, or a related field</p></li><li><p>Working AI fluency already in hand — regular, hands-on use of tools like ChatGPT, Claude, or similar across different tasks, not just casual or occasional use</p></li><li><p>Working familiarity with the AI tools landscape — able to speak to the differences between general-purpose assistants, specialized tools, and emerging agentic workflows</p></li><li><p>Eagerness to learn how AI tools apply differently across marketing functions like SEO, creative, and marketing ops, and ability to think concretely about workflow applications</p></li></ul><p><strong>Preferred</strong></p><ul><li><p>Experience with Google Sheets/Apps Script, Chart.js, or basic data dashboards</p></li><li><p>Familiarity with marketing functions (content, demand gen, social, SEO, etc.) and how AI applies differently across them</p></li><li><p>Prior internship or project experience involving training, enablement, or cross-functional projects</p></li><li><p>Comfort with ambiguity — this role involves building playbooks as much as following them</p></li></ul><p></p><p><strong>Our Commitment to Inclusivity and Diversity</strong></p><p></p><p>At G2, we are committed to creating an inclusive and diverse environment where people of every background can thrive and feel welcome. We consider applicants without regard to race, color, creed, religion, national origin, genetic information, gender identity or expression, sexual orientation, pregnancy, age, or marital, veteran, or physical or mental disability status. Learn more about our commitments here. </p><p></p><p>--</p><p><br />For job applicants in California, the United Kingdom, and the European Union, please review this applicant privacy notice before applying to this job.</p><p></p><p><strong>How We Use AI Technology in Our Hiring Process</strong><br />G2 incorporates AI-powered technology to enhance our candidate evaluation process. These tools may assist with initial application screening, skills assessment analysis, and identifying candidates whose qualifications align with specific role requirements. While AI technology supports our recruitment workflow, all final hiring decisions remain under human oversight and judgment.<br /></p><p><strong>Your Choice Matters:</strong> If you would prefer that your application be reviewed without AI assistance, you can opt out by entering your email address in the email entry field at the bottom of the Automated Processing Legal Notice. Choosing to opt out will not disadvantage your application in any way—we will ensure your materials receive a thorough manual review by our hiring team.<br />For additional details about how we handle your information throughout the application process, please review G2's Applicant Privacy Notice.</p>",
+    "content_hash": "aa9e1982754a91b4ecf23d2e8c60b325"
+  },
+  "ba5e1cd416dd": {
+    "id": "ba5e1cd416dd",
+    "title": "Technical Product Management Intern (Los Altos)",
+    "title_raw": "Technical Product Management Intern (Los Altos)",
+    "company": {
+      "slug": "cheiron",
+      "name": "Cheiron",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Altos",
+      "city": "Los Altos",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cheiron",
+      "external_id": "e193c411-f175-480e-a341-72e7131e009a"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cheiron/e193c411-f175-480e-a341-72e7131e009a/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T23:30:04.130Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:04.759Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": {
+      "min": 35,
+      "max": 55,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Los Altos, CA · Product · Internship · Semester/quarter or summer · Fully in-person</strong></p> <h3><strong>Company Overview</strong></h3><p>In July 2026, Cheiron announced an <strong>$8 million seed round led by Menlo Ventures</strong>, bringing total funding to <strong>$13 million</strong> to date, with the backing and strategic support of industry veterans including Moderna co-founder and MIT Institute Professor Robert Langer, former Pfizer Chief Medical Officer Freda Lewis-Hall, Chai Discovery co-founder and CEO Josh Meier, former Starbucks CEO Laxman Narasimhan, and former Apple AI chief John Giannandrea.</p> <p>Cheiron is building the first AI-native operating system designed to represent an entire drug program as a single connected system. The company's platform helps biopharma teams represent, reason over, and stress-test the full state of a drug development program, including the claims, evidence, assumptions, risks, decisions, and commitments that determine whether a therapy advances. In less than six months since launch, Cheiron has been adopted by tens of thousands of biopharma professionals and deployed by major drug developers, and is already used by 7 of Korea's top 10 biopharma companies.</p> <p>Cheiron is expanding into pharmaceutical CMC (Chemistry, Manufacturing, and Controls) teams. CMC governs how a drug is made, tested, and kept consistent across its entire commercial life. The work involves hundreds of regulatory commitments, post-approval changes, and cross-market submissions. Today it runs on documents, spreadsheets, and institutional memory. Cheiron augments manual workflows with a CMC regulatory-specific intelligence and reasoning layer.</p> <p>Founded in 2024 by Stanford-trained AI researchers. The team includes leaders with combined decades of experience across pharma and biotech. Headquartered in <strong>Los Altos, California</strong>. We are building and deploying the product now with rapid expansion into global markets.</p>   <h3><strong>About the Role</strong></h3><p>We are looking for a <strong>Technical Product Management Intern</strong> to turn product concepts into engineering-ready specs, working across product, life sciences, and engineering.</p> <p>Concepts arrive with the “what” and “why” framed. You own the “how, specifically”: how each component fits the existing architecture, what to extend, what to leave alone, and what the build looks like on paper before a line of code is written.</p> <p>CMC (Chemistry, Manufacturing, and Controls) is a specialized domain with its own regulatory frameworks and workflows (e.g. post-approval changes). You do not need to know it coming in. You will have a life sciences team alongside you who own the domain vocabulary and regulatory rules, and you will learn it by working closely with them.</p>   <h3><strong>What You’ll Do</strong></h3><ul><li><p>Break product briefs into components, define relationships and boundaries with the product team and domain experts, and scope what goes into the build.</p></li><li><p>Write numbered feature stories with acceptance criteria, edge cases, and state transitions that an engineer can pick up cold.</p></li><li><p>Review data models and API contracts against the existing schema; identify what to extend, what to refactor, and what to leave alone.</p></li><li><p>Define what “correct” looks like for AI-driven features: document extraction, regulatory classification, compliance state derivation.</p></li><li><p>Run specs through review with engineering and the life sciences team before handoff; resolve ambiguity during build rather than letting it travel.</p></li><li><p>Work directly with founders, engineers, and domain experts, demonstrate progress frequently, and make pragmatic scope decisions.</p></li></ul>   <h3><strong>What We’re Looking For</strong></h3><ul><li><p>A strong technical foundation: you can read a codebase, reason about system architecture, and ground a spec in what already exists. CS, engineering, or a related technical degree.</p></li><li><p>Experience producing structured technical documents that someone else could build from: design docs, specs, architecture proposals, research papers, or detailed project writeups.</p></li><li><p>Clear personal ownership of the work: you can explain what you defined, the decisions you made about scope and tradeoffs, and what you would improve.</p></li><li><p>Fluency with AI tools like Claude Code, Cursor, or equivalent. You use them as a natural part of how you work.</p></li><li><p>Initiative, sound judgment, and comfort working through ambiguous problems in a fast-moving environment.</p></li><li><p>Experience with healthcare, life sciences, regulated industries, or AI-native products is a plus but not required.</p></li></ul>   <h3><strong>Compensation</strong></h3><p><strong>$35–$55 per hour.</strong> Exact compensation within the range depends on demonstrated expertise, relevant experience, and the time the student can commit.</p>   <h3><strong>Location &amp; Commitment</strong></h3><p>This internship is based in our <strong>Los Altos, CA office</strong> and requires fully in-person work. Semester or quarter interns must be available for at least 20 hours per week; co-op and summer interns should be available full time.</p> <p>Relocation support may be available on a case-by-case basis. We consider candidates with different immigration and work-authorization circumstances where lawful employment is possible.</p>   <h3><strong>Interview Process</strong></h3><ul><li><p>45-minute technical screen focused on how you break down problems, structure requirements, and reason about architecture and tradeoffs.</p></li><li><p>One-day onsite in Los Altos with a hands-on case interview: decompose a brief, scope a build, and write a spec under realistic constraints.</p></li></ul>   <h3><em>Equal Opportunity &amp; Accommodation</em></h3><p><em>Cheiron is an equal-opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected by law.</em><strong>Los Altos, CA · Product · Internship · Semester/quarter or summer · Fully in-person</strong></p>",
+    "content_hash": "5887a15d1121f81f7c0a73bb909f3722"
+  }
+}

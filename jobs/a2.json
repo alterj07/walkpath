@@ -1,0 +1,136 @@
+{
+  "a21621653787": {
+    "id": "a21621653787",
+    "title": "Software Engineer (FDE / Platform) - Intern",
+    "title_raw": "Software Engineer (FDE / Platform) - Intern",
+    "company": {
+      "slug": "charta-health",
+      "name": "Charta Health",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "New York City"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "chartahealth",
+      "external_id": "0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-27T15:48:02.670Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:04.550Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Charta Health</strong></h3> <p>In an industry where the focus should rightly be on delivering quality care to patients, healthcare providers remain burdened by the complexities of non-clinical operations. Charta is changing that.</p> <p>We're building the operating system for modern healthcare organizations. Our AI platform streamlines critical workflows across revenue cycle, clinical operations, and administrative functions, helping providers and payers operate more efficiently and deliver better patient care. Backed by Bain Capital Ventures, Charta is on a mission to make every healthcare dollar accountable and every chart accurate, reimagining healthcare infrastructure from the ground up.</p><h3><strong>About the Opportunity</strong></h3> <p>As a Software Engineering Intern, you will contribute to production systems that power AI-driven workflows for healthcare providers. This role blends core software engineering with forward deployed problem-solving, giving you exposure to both building scalable internal platforms and developing practical, customer-facing solutions. You will work directly with healthcare providers to understand their unique challenges and translate them into practical, data-driven solutions using AI and machine learning. This role requires a blend of technical expertise, problem-solving skills, and a strong customer-centric mindset. You will thrive in a dynamic environment, rapidly deploying and iterating on solutions to deliver immediate value.</p> <p>What you'll do:</p> <ul><li><p>Collaborate closely with healthcare clients to understand their workflows and identify opportunities to leverage AI and machine learning</p></li><li><p>Customize and deploy Charta Health's AI-driven platforms to address specific client needs</p></li><li><p>Rapidly prototype and iterate on solutions, adapting to client feedback and evolving requirements</p></li><li><p>Break down complex projects into actionable steps and deliver results in ambiguous environments</p></li><li><p>Explore and integrate a wide range of AI/ML technologies, adapting to the diverse needs of our clients</p></li><li><p>Provide technical expertise and support to clients, ensuring successful deployment and adoption of our solutions</p></li><li><p>Work closely with our internal engineering team to provide feedback and contribute to product development</p></li><li><p>Design, build, and improve core platform systems that power analyses, data pipelines, and AI workflows across all customers</p></li><li><p>Contribute to scalable infrastructure and tooling that make deployments faster, more reliable, and easier to maintain</p></li><li><p>Help define internal engineering standards, abstractions, and reusable components that turn one-off solutions into durable product capabilities</p></li><li><p>Stay up-to-date with the latest advancements in AI/ML and apply them alongside strong software engineering practices</p></li></ul> <p>You'd be a great fit, if you have:</p> <ul><li><p>Proficiency and practical coding skills (Python and TypeScript), with a focus on delivering tangible results.</p></li><li><p>Solid understanding of common algorithms and data structures (e.g., arrays, linked lists, trees, hash tables) and practical ability to select and implement them appropriately.</p></li><li><p>Experience systematically isolating and diagnosing issues within code, leveraging debugging tools, log analysis, and stack traces effectively</p></li><li><p>Ability to efficiently navigate unfamiliar codebases, understand architectural patterns, and contribute quickly to existing projects.</p></li><li><p>Practical knowledge of writing and running unit and integration tests to verify code correctness.</p></li><li><p>Adaptability and the ability to quickly learn and master new technologies and concepts.</p></li><li><p>A priority on delivering business value over solving purely theoretical challenges.</p></li><li><p>A desire to explore a wide range of technologies and problems, rather than specializing in one area.</p></li><li><p>The ability to thrive in ambiguous environments and rapidly produce results.</p></li><li><p>The ability to excel at breaking down complex projects into actionable steps.</p></li><li><p>Resilience and resourcefulness, allowing you to overcome obstacles and find creative solutions.</p></li><li><p>Ambition and a desire for a high-growth opportunity.</p></li><li><p>Strong emotional intelligence, excellent communication, and interpersonal skills.</p></li><li><p>Excitement about working with external customers and building strong relationships.</p></li><li><p>A genuine interest in the medical field and a passion for improving healthcare.</p></li><li><p>Completed at least your 2nd year of a Computer Science, Engineering, or related technical degree</p></li></ul> <p>Nice-to-have:</p> <ul><li><p>Experience in a startup environment</p></li><li><p>Experience and/or demonstrated interest in healthcare</p></li><li><p>Experience with Large Language Models (LLMs) and prompt engineering.</p></li><li><p>Experience with neural networks and machine learning</p></li><li><p>Degree in Computer Science / Engineering or related field</p></li></ul> <p>What we offer:</p> <ul><li><p>Competitive salary</p></li><li><p>Team dinners and snacks in the office to keep you at your best</p></li><li><p>Growth opportunities in a fast-paced, innovative tech startup</p></li><li><p>Ongoing professional development and access to cutting-edge AI and healthcare tools</p></li><li><p>Lively, in-person work culture at our SF Headquarters or NYC office</p></li><li><p>$40–$60/hour based on experience</p></li></ul><h3><strong>Our Commitment to Diversity</strong></h3> <p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>",
+    "content_hash": "c6f3db9d3478ba770535bd88f5290398"
+  },
+  "a27b22b3a849": {
+    "id": "a27b22b3a849",
+    "title": "Electrical Engineering Internship (Winter Spring 2027)",
+    "title_raw": "Electrical Engineering Internship (Winter Spring 2027)",
+    "company": {
+      "slug": "amca",
+      "name": "AMCA",
+      "domain": ""
+    },
+    "location": {
+      "raw": "El Segundo, CA",
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "amca",
+      "external_id": "4429132009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4429132009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T21:12:42.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:59.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "<p>There was a time when all of America believed that the future of the physical world could be radically different. The engineers of the mid-1900s put a man on the moon in eight years, designed and built planes and submarines from scratch in under three, and conceived of building things we wouldn’t even be able to dream up today.</p>\n<p>Today, the last of the engineers who imagined and built these systems are retiring. As they go, we lose not only the engineering knowledge gained from their decades of imagination and trial-and-error, but also the spirit that made that imagination possible.</p>\n<p>Amca is working day-in and day-out to restore America’s ability to engineer anything that our critical systems depend on, and reinvigorate the cycle of creation that allows imagination to shape physical reality. We rapidly develop and manufacture new critical components and subsystems required to build and sustain the planes, military vehicles, and core infrastructure America needs. By restoring the capability of our antiquated supply chains, we increase the country’s capacity to imagine and realize new systems, and make a physical world that looks very different from today.</p><h3><strong>Overview</strong></h3>\n<p>The Electrical Design Engineering Intern works alongside our electrical team to take aerospace hardware from concept toward flight qualification. You will own a scoped electrical design project for Winter / Spring 2027, with a dedicated mentor and direct access to the build and test engineers who will bring your work to life.</p>\n<p>This is not a shadowing program. Interns at Amca design, build, and debug real hardware. You should expect your schematics and boards to be reviewed with the same rigor as a full-time engineer's, and to have something on the bench before you leave.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Design electronics from concept to functional prototype, including hardware selection, PCB design, and system-level integration</li>\n<li>Contribute to the design and prototyping of new electrical hardware</li>\n<ul>\n<li>Support electrical design for flight hardware, including schematic capture, electrical analysis, component selection, and PCBA layout</li>\n<li>Build up early hardware, then iterate quickly based on results</li>\n<li>Run bench testing and basic functional and development tests on the hardware you build</li>\n<li>Debug failures down to root cause and carry the fix back into the design</li>\n</ul>\n<li>Troubleshoot issues that span the system, using lab equipment such as oscilloscopes and digital multimeters</li>\n<li>Select components with attention to de-rating, tolerance, and availability, and defend those choices in design review</li>\n<li>Work closely with other electrical, mechanical, software,, and test engineers to deliver fully functional products</li>\n<li>Work with test engineering to help define and execute functional and environmental and EMI test plans</li>\n<li>Incorporate manufacturability and testability feedback from build engineers into your systems</li>\n<li>Help evaluate existing Amca designs for opportunities to improve reliability and reduce cost</li>\n<li>Work in a fast-paced environment supporting new developments, active deployments, and customer-operated hardware</li>\n<li>Concurrently manage involvement in multiple projects at various stages</li>\n<li>Present your project and results to the engineering team at the end of the internship</li>\n</ul>\n<h3><strong>Basic Qualifications</strong></h3>\n<ul>\n<li>Currently enrolled in a Bachelor's, Master's, or PhD program in electrical engineering, computer engineering, engineering physics, or a related field</li>\n<li>Returning to school in Fall 2027, or graduating in Spring 2027 and interested in a full-time role. Must be returning to school at the end of the internship to continue academic studies for at least one quarter or semester</li>\n<li><strong>Ability to commit to a full-time, in-person 10-week internship in one of our offices in Winter Spring 2027, starting in January. </strong></li>\n<li>Completed coursework in circuits, electronics, or signals, and a working understanding of first principles across power, filtering, and logic</li>\n<li>Hands-on electrical design experience through coursework, a student project team, personal projects, or a prior internship</li>\n<li>Familiarity with test equipment such as oscilloscopes, multimeters, logic analyzers, debuggers, and current probes, and test automation</li>\n</ul>\n<h3><strong>Preferred Skills and Experience</strong></h3>\n<ul>\n<li>Experience with Altium Designer or equivalent electronic design automation tools</li>\n<li>Experience with circuit simulation, component selection, and de-rating</li>\n<li>Experience on a student project team building electronics for physical hardware, such as rocketry, Formula SAE, CubeSat, or robotics</li>\n<li>Familiarity with DO-160, MIL-STD-810 or other qualification and certification frameworks</li>\n<li>Exceptionally curious and a fast learner, able to contribute across diverse part categories and manufacturing processes</li>\n<li>Demonstrated ability to use engineering first principles to challenge and simplify requirements</li>\n<li>Hands-on and practical, comfortable building, testing, and troubleshooting in real-world environments</li>\n<li>Thrives with ownership and takes initiative without waiting to be directed</li>\n</ul>\n<h3><strong>Additional Requirements</strong></h3>\n<ul>\n<li>This internship is on-site in El Segundo, California.</li>\n<li>Occasional travel to vendors or other Amca sites may be required</li>\n</ul>Hourly Pay Range$30—$50 USD<p><em>This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a US person as: any individual who is granted U.S. citizenship; or. any individual who is granted U.S. permanent residence (\"Green Card\" holder); or. any individual who is granted status as a \"protected person\" under 8 U.S.C 1324b(a)(3).</em></p>\n<p><em>The Advanced Manufacturing Company of America prohibits discrimination or harassment based on the following categories: race, color, religion, religious creed (including religious dress and grooming practices), national origin, ancestry, citizenship, physical or mental disability, medical condition (including cancer and genetic characteristics), genetic information, marital status, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender, gender identity, gender expression, age (40 years and over), sexual orientation, veteran and/or military status, protected medical leaves (requesting or approved for leave under the Family and Medical Leave Act or the California Family Rights Act), domestic violence victim status, political affiliation, and any other status protected by state or federal law.</em></p>",
+    "content_hash": "c286c4d803bf90297bbcb524b777b31b"
+  },
+  "a2e57eda24db": {
+    "id": "a2e57eda24db",
+    "title": "2027 Internship Behavior ML Engineer, Learned Manipulation Policies",
+    "title_raw": "2027 Internship Behavior ML Engineer, Learned Manipulation Policies",
+    "company": {
+      "slug": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "bedrock-robotics",
+      "external_id": "96a6423e-7439-4cb4-9109-117b14e47f7c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-02T16:34:38.747Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.599Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Join the team bringing advanced autonomy to the built world</h3><p>At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.<br /><br />We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.<br /><br />This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.</p><p></p><h3><strong>About the Role &amp; Team</strong></h3><p>Teaching a 40-ton excavator to move like an expert operator is a very different problem from teaching a car to stay in its lane. The motions are multimodal, there are many good ways to swing, dig, and dump and the consequences of getting them wrong are measured in cubic yards and bent steel. Bedrock's Behavior ML team builds the learned policies that decide what our machines actually do, and diffusion policies are a central bet: models that can represent the full distribution of expert behavior instead of averaging it into mush. As our Behavior ML intern, you'll help train those policies and build the evaluation that tells us whether they're genuinely better working alongside two hosts who sit on both the training and evaluation sides of the problem.</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Train and iterate on diffusion flow matching, and related behavior policies using real fleet demonstration data and simulated rollouts</p></li><li><p>Run architecture, conditioning, and hyperparameter explorations, and turn the results into clear findings the team can build on</p></li><li><p>Build and improve evaluation pipelines that score behavior models on task success, smoothness, safety margins, and operator-likeness</p></li><li><p>Investigate failure modes - distribution shift, mode collapse, out-of-distribution scenes and propose fixes</p></li><li><p>Work with the simulation and eval teams to make sure offline metrics actually predict on-machine performance</p></li><li><p>Contribute to the shared training codebase with clean, reviewed, reproducible work</p></li><li><p>Share results regularly with the behavior, controls, and autonomy teams</p></li></ul><h3><strong>What We're Looking For</strong></h3><h3><strong>Required</strong></h3><ul><li><p>Currently pursuing a BS, MS, or PhD in computer science, robotics, machine learning, or a related field or bringing equivalent research or industry experience</p></li><li><p>Strong Python and hands-on experience training models in PyTorch (or equivalent)</p></li><li><p>Working understanding of generative modeling diffusion models, flow matching, VAEs, or similar and of imitation learning or behavior cloning</p></li><li><p>Experience running and interpreting real training experiments: you know how to tell a real improvement from noise</p></li><li><p>Clear communication, you can explain what you tried, what happened, and what you'd do next</p></li></ul><h3><strong>Preferred</strong></h3><ul><li><p>Published work or substantial project experience in diffusion, flow matching, robot learning, or imitation learning</p></li><li><p>Experience training and building Vision Language Action (VLA) models</p></li><li><p>Experience training Reinforcement Learning (RL) policies for robot manipulation</p></li><li><p>Experience evaluating policies in simulation and reasoning about the sim-to-real gap</p></li><li><p>Familiarity with large-scale training infrastructure and experiment tracking tooling</p></li><li><p>Exposure to robotics, autonomous vehicles, or other physical-world control problems</p></li><li><p>Interest in construction, earthwork, or heavy equipment - no prior experience required</p></li></ul><p><strong>Bedrock Robotics is an Equal Opportunity Employer</strong></p><p>We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.</p><p><strong>Reasonable Accommodations</strong></p><p>We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.</p>",
+    "content_hash": "41a5f772aacdd4fe60ad8d29bca66278"
+  }
+}

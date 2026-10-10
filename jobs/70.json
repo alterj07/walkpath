@@ -1,0 +1,91 @@
+{
+  "7035e7e1f006": {
+    "id": "7035e7e1f006",
+    "title": "Intern - Product Management",
+    "title_raw": "Intern - Product Management",
+    "company": {
+      "slug": "acxiom",
+      "name": "Acxiom",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote/Homebased",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "remote",
+      "others": [
+        "Homebased - Conway"
+      ]
+    },
+    "source": {
+      "ats": "workday",
+      "board": "acxiomllc/acxiomusa",
+      "external_id": "JR014473-1"
+    },
+    "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:46:52.683Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027
+    ],
+    "summary": null,
+    "description_html": "Acxiom is looking for an Intern - Product Manager to join our Real Identity™ Product Team. You will work with a high energy group to help advise a comprehensive product strategy from product conception and definition through end of life. <br /><br />This role will function as a central resource with design, development, quality, test, marketing, and distribution of Acxiom’s Real Identity product suite. Activities will include hands-on engagement with engineering teams to develop new capabilities, delivery teams to support client engagements and data &amp; identity product teams to maintain joint standards. In addition, this individual will monitor ongoing product capability and formulate and implement long-term plans for cost/profit control and promote use of new technologies and industry-leading trends.<p></p><p><b>Internship details:</b></p><ul><li>Start date is January 11th, 2027.</li><li>Anticipated graduation date is May 2027 or December 2027.</li><li>20-25/week during the semester</li><li>Applicants for this internship position with Acxiom in the U.S. must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Acxiom (i.e., H-1B visa, F-1 visa [CPT/OPT], TN visa, or any other non-immigrant status).</li></ul><p></p><p><b>​What you will do:</b></p><ul><li>Learn about all Real Identity™ product capabilities at Acxiom by acting as the Product level first line of response to internal stakeholders.</li><li>Contribute to building product business plans to drive revenue and rationalize investment</li><li> Contribute to creating product road maps and write user stories and requirements</li><li>Implement product development plan as a hands-on partner with engineering</li><li>Work closely with delivery to ensure product operations and delivery capabilities are addressed</li><li>Crafts recommendations on ongoing product fitness based on financial and client satisfaction metrics</li></ul><p></p><p><b>What you will need:</b></p><ul><li>Pursuing a degree in Data Analytics, Computer Science, Marketing, Technical Business or equivalent</li><li>Strong verbal, written, and presentation abilities</li><li>Strong problem-solving skills</li><li>Interest in or experience with AI Concepts (Examples: MCP servers, APIs, Agent prompt crafting)</li><li>Interest in Martech or Adtech</li></ul><p></p><p><b>Who are we seeking?</b></p><ul><li>Top Talent &amp; High Performers: We hire the brightest in the industry!</li><li>Innovative Collaborators: We drive operational improvements to promote efficiency and improve performance.</li><li>Future Leaders: We develop our people and promote from within.</li><li>Game Changers: We empower people to challenge the status quo and explore new possibilities.</li><li>Emotional Intelligence: We cultivate greatness both within ourselves and with others.</li><li>Hardworking Employees: We look for initiative to conquer complex challenges.</li></ul><p></p><p>We believe in building an exciting workplace where associates feel highly motivated and want to engage every single day. It’s important to Acxiom that we invest in our culture and promote a healthy work-life balance. Acxiom has a fast paced, high-performance culture where we empower our people to do innovative, ground breaking work. You will always be guided to do what is right.</p><p></p><p>Acxiom is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status.</p><p></p><p><b>Primary Location City/State:</b></p>Homebased - Conway, Arkansas<p></p><p><b>Additional Locations (if applicable):</b></p><p></p><p>Acxiom is an equal opportunity employer, including disability and protected veteran status (EOE/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, military status, physical or mental disability, sexual orientation, gender identity or expression, genetics or other protected status.</p><p></p><p>Attention California Applicants:  Please see our CCPA/CPRA Privacy Act notice here.</p><p></p><p>Attention Colorado, California, Connecticut, Maryland, Nevada, New Jersey, New York City, Ohio, Rhode Island, and Washington Applicants: This position is not located in the aforementioned locations but applications for remote work may be considered. For information about this role under state or local equal pay or pay transparency laws, please contact recruit@acxiom.com.</p>",
+    "content_hash": "f02a8085f7bd3d591fcab5c9a1763521"
+  },
+  "708038ebf9f9": {
+    "id": "708038ebf9f9",
+    "title": "Engineering Intern (Fall '26 & Spring/Summer '27)",
+    "title_raw": "Engineering Intern  (Fall '26 & Spring/Summer '27)",
+    "company": {
+      "slug": "forus",
+      "name": "Forus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York office",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "forus",
+      "external_id": "82e10191-232e-4e8d-9c5e-cb82940cdfc7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-30T18:48:19.829Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.187Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 2500,
+      "max": 3500,
+      "currency": "USD",
+      "period": "week"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About us</strong></h3><p><strong>Forus is building an AI-powered network that connects doctors, pharmacies, payers, and biopharma to accelerate new science to patients.</strong><br /><br />Our platform automates the complexity between a doctor prescribing a medicine and a patient starting treatment, including insurance coverage, financial assistance, and supply chain navigation. We provide this support free to doctors and patients, helping them get life-changing medicine faster, cheaper, and easier. The resulting network enables biopharma companies to design better research, launch new drugs more effectively, and invest in harder-to-treat conditions.<br /><br /><strong>Forus has exceptional product-market fit and is growing rapidly through organic adoption:</strong></p><ul><li><p><strong>Accelerating scale:</strong> We already support patients across more than 85% of ZIP codes and partner with 9 of top 15 largest biopharma companies in the world.</p></li><li><p><strong>AI-native, durable model:</strong> Our business becomes stronger as AI improves, as every new doctor, patient, and partner makes the network more valuable.</p></li><li><p><strong>Backing to build for the long term:</strong> We raised $300M+ from leading investors to build an exceptional team and unlock the full scale of the opportunity.</p></li></ul><p><strong>Our number one priority is scaling to market demand.</strong> We are looking for individuals who are high horsepower, high throughput, and hyper resourceful to help us increase capacity and grow. We move fast and need to move faster.<br /><br /><strong>If we succeed, science will be the only limit to medicine.</strong></p><p><em>All full-time roles are in person in New York.</em></p><p></p><h3><strong>About the role</strong></h3><p>As a Software Engineering Intern at Forus, you will join our engineering team as an engineer, not as an observer. From your first weeks, you’ll ship production code, own meaningful technical problems, and build software that helps providers, patients, and life sciences organizations bring innovative therapies to more patients.<br /><br />Unlike a traditional internship, you’ll work on the same systems as our full-time engineers and contribute to the same codebase, engineering reviews, and technical discussions. You’ll work directly with experienced engineers, the head of engineering, and the CEO on some of the company’s highest-priority technical challenges, whether that’s provider-facing products, AI systems, life sciences platforms, growth acceleration, or infrastructure. This isn’t an internship spent building internal demos or isolated side projects. You will help build the platform that sits between scientific innovation and patient treatment, working on the products and AI systems that providers and biopharma depend on every day.<br /><br />We invest in exceptional interns differently than most companies. Many stay with us across multiple semesters, take on increasing ownership as they grow, and some receive return offers and start vesting equity before they graduate. We think the best engineers should start building their careers early, and we’re looking for people we hope will help define Forus for years to come.<br /><br />This is a demanding role, with a high level of autonomy and responsibility. You will be expected to “act like an owner” and commit yourself to Forus’ success. If you are low-ego, hungry to learn, and excited about intense, impactful work that drives both company growth and accelerated career progression, we want to hear from you.</p><p>Please note that we hire Interns year-round.</p><p></p><h3>If you join, you will</h3><ul><li><p>Own meaningful technical problems from an ambiguous idea through design, implementation, and production</p></li><li><p>Ship production code that directly impacts providers, patients, and life sciences partners.</p></li><li><p>Help decide what to build, not just how to build it, by working closely with users and developing your own product intuition</p></li><li><p>Build product features, AI-powered systems, life sciences products, internal tools, or engineering infrastructure, depending on where you can have the greatest impact</p></li><li><p>Work directly with engineering, product, design, operations, and company leadership while learning how a world-class engineering organization operates and scales</p></li><li><p>Be treated and measured like a full engineer, with the ownership, code review, and quality bar to match</p><p></p></li></ul><h3>We’ll be most excited if you have</h3><ul><li><p>Strong computer science fundamentals and programming ability, currently pursuing a degree in Computer Science or a related technical field</p></li><li><p>A track record of building things outside the classroom, whether through internships, research, startups, hackathons, open-source contributions, or side projects</p></li><li><p>Strong product instincts. You form opinions about what is worth building and can distinguish what is valuable from what is merely possible</p></li><li><p>The ability and willingness to work wherever the problem is, whether frontend, backend, infrastructure, AI, or something entirely new</p></li><li><p>A track record of moving quickly, finding shortcuts, and going to unreasonable lengths to deliver on goals</p></li><li><p>High NPS with your former teammates and classmates</p></li></ul><p></p><p>This is a list of ideal qualifications for this position. If you don't meet every single one of them, you should still consider applying! We’re excited to work with people from underrepresented backgrounds, and we encourage people from all backgrounds to apply.</p><p></p><h3><strong>Working with us</strong></h3><p>Forus is based in New York, with our full team working out of a beautiful and spacious office in SoHo. <br /><br />We run as a high-trust environment with high autonomy, which requires that everyone is fully competent and operates in line with our principles:</p><ul><li><p><strong>Do the math.  </strong>Be rigorous, assume nothing. Break problems down and reason from the ground up. Stay open to changing your mind.</p></li><li><p><strong>Resourceful optimism.  </strong>Assume problems are solvable. Be audacious. Resist false constraints and push beyond the obvious before deciding.</p></li><li><p><strong>Spit it out.  </strong>Speak directly, invite critique, avoid equivocation. We want right answers, not comfortable ones. All killer, no filler.</p></li><li><p><strong>Raise the bar. </strong> Hold a high standard for your pace and execution, and elevate the performance of the team around you. Mamba mentality.</p></li><li><p><strong>Fight for users.  </strong>Start with users’ realities, not ours. Resist optimizing for internal convenience over user outcomes.<br /></p></li></ul><p><strong>We provide competitive compensation with meaningful equity</strong> (for full-time employees)<strong>. </strong>Everyone who joins will be a major contributor to our success, and we reflect this through ownership and pay.<br /><br /><strong>We also provide rich benefits to ensure you can focus on creating impact</strong> (for full-time employees)<strong>:</strong></p><ul><li><p>Fully covered medical, vision, and dental insurance.</p></li><li><p>Memberships for One Medical, Talkspace, Teladoc, and Kindbody.</p></li><li><p>Unlimited paid time off (PTO) and 16 weeks of parental leave.</p></li><li><p>401K plan setup, FSA option, commuter benefits, and DashPass.</p></li><li><p>Lunch at the office every day and Dinner at the office after 6:30 pm.</p></li></ul><p><br /><em>Our salary ranges are based on paying competitively for our company’s size and industry, and are one part of the total compensation package that also includes equity, benefits, and other opportunities at Forus (for full-time employees). Individual pay decisions are ultimately based on a number of factors, including qualifications for the role, experience level, skillset, geography, and balancing internal equity. </em></p><p><em>Forus is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p>",
+    "content_hash": "4bd25b2dc69eb13a61cbfdde4d96afd4"
+  }
+}

@@ -1,0 +1,504 @@
+[
+  {
+    "slug": "software-engineering",
+    "title": "Software Engineering internships",
+    "kind": "family",
+    "filter": {
+      "family": "software_engineering"
+    }
+  },
+  {
+    "slug": "software-engineering-summer-2027",
+    "title": "Software Engineering internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "software_engineering",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "software-engineering-remote",
+    "title": "Remote Software Engineering internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "software_engineering",
+      "remote": true
+    }
+  },
+  {
+    "slug": "data-ml-ai",
+    "title": "Data / ML / AI internships",
+    "kind": "family",
+    "filter": {
+      "family": "data_ml_ai"
+    }
+  },
+  {
+    "slug": "data-ml-ai-summer-2027",
+    "title": "Data / ML / AI internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "data_ml_ai",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "data-ml-ai-remote",
+    "title": "Remote Data / ML / AI internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "data_ml_ai",
+      "remote": true
+    }
+  },
+  {
+    "slug": "it-cloud-security",
+    "title": "IT / Cloud / Security internships",
+    "kind": "family",
+    "filter": {
+      "family": "it_cloud_security"
+    }
+  },
+  {
+    "slug": "it-cloud-security-summer-2027",
+    "title": "IT / Cloud / Security internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "it_cloud_security",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "it-cloud-security-remote",
+    "title": "Remote IT / Cloud / Security internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "it_cloud_security",
+      "remote": true
+    }
+  },
+  {
+    "slug": "product",
+    "title": "Product internships",
+    "kind": "family",
+    "filter": {
+      "family": "product"
+    }
+  },
+  {
+    "slug": "product-summer-2027",
+    "title": "Product internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "product",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "product-remote",
+    "title": "Remote Product internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "product",
+      "remote": true
+    }
+  },
+  {
+    "slug": "ux-design",
+    "title": "UX / Design internships",
+    "kind": "family",
+    "filter": {
+      "family": "ux_design"
+    }
+  },
+  {
+    "slug": "ux-design-summer-2027",
+    "title": "UX / Design internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "ux_design",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "ux-design-remote",
+    "title": "Remote UX / Design internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "ux_design",
+      "remote": true
+    }
+  },
+  {
+    "slug": "hardware-embedded",
+    "title": "Hardware / Embedded / EE internships",
+    "kind": "family",
+    "filter": {
+      "family": "hardware_embedded"
+    }
+  },
+  {
+    "slug": "hardware-embedded-summer-2027",
+    "title": "Hardware / Embedded / EE internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "hardware_embedded",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "hardware-embedded-remote",
+    "title": "Remote Hardware / Embedded / EE internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "hardware_embedded",
+      "remote": true
+    }
+  },
+  {
+    "slug": "quant-research",
+    "title": "Quant / Research internships",
+    "kind": "family",
+    "filter": {
+      "family": "quant_research"
+    }
+  },
+  {
+    "slug": "quant-research-summer-2027",
+    "title": "Quant / Research internships for Summer 2027",
+    "kind": "family_season",
+    "filter": {
+      "family": "quant_research",
+      "season": "Summer 2027"
+    }
+  },
+  {
+    "slug": "quant-research-remote",
+    "title": "Remote Quant / Research internships",
+    "kind": "family_remote",
+    "filter": {
+      "family": "quant_research",
+      "remote": true
+    }
+  },
+  {
+    "slug": "state-ca",
+    "title": "Tech internships in California",
+    "kind": "state",
+    "filter": {
+      "state": "CA"
+    }
+  },
+  {
+    "slug": "state-tx",
+    "title": "Tech internships in Texas",
+    "kind": "state",
+    "filter": {
+      "state": "TX"
+    }
+  },
+  {
+    "slug": "state-ny",
+    "title": "Tech internships in New York",
+    "kind": "state",
+    "filter": {
+      "state": "NY"
+    }
+  },
+  {
+    "slug": "state-co",
+    "title": "Tech internships in Colorado",
+    "kind": "state",
+    "filter": {
+      "state": "CO"
+    }
+  },
+  {
+    "slug": "state-il",
+    "title": "Tech internships in Illinois",
+    "kind": "state",
+    "filter": {
+      "state": "IL"
+    }
+  },
+  {
+    "slug": "state-ma",
+    "title": "Tech internships in Massachusetts",
+    "kind": "state",
+    "filter": {
+      "state": "MA"
+    }
+  },
+  {
+    "slug": "state-ga",
+    "title": "Tech internships in Georgia",
+    "kind": "state",
+    "filter": {
+      "state": "GA"
+    }
+  },
+  {
+    "slug": "state-in",
+    "title": "Tech internships in Indiana",
+    "kind": "state",
+    "filter": {
+      "state": "IN"
+    }
+  },
+  {
+    "slug": "state-nv",
+    "title": "Tech internships in Nevada",
+    "kind": "state",
+    "filter": {
+      "state": "NV"
+    }
+  },
+  {
+    "slug": "state-tn",
+    "title": "Tech internships in Tennessee",
+    "kind": "state",
+    "filter": {
+      "state": "TN"
+    }
+  },
+  {
+    "slug": "state-fl",
+    "title": "Tech internships in Florida",
+    "kind": "state",
+    "filter": {
+      "state": "FL"
+    }
+  },
+  {
+    "slug": "state-mo",
+    "title": "Tech internships in Missouri",
+    "kind": "state",
+    "filter": {
+      "state": "MO"
+    }
+  },
+  {
+    "slug": "state-pa",
+    "title": "Tech internships in Pennsylvania",
+    "kind": "state",
+    "filter": {
+      "state": "PA"
+    }
+  },
+  {
+    "slug": "state-va",
+    "title": "Tech internships in Virginia",
+    "kind": "state",
+    "filter": {
+      "state": "VA"
+    }
+  },
+  {
+    "slug": "state-wa",
+    "title": "Tech internships in Washington",
+    "kind": "state",
+    "filter": {
+      "state": "WA"
+    }
+  },
+  {
+    "slug": "state-az",
+    "title": "Tech internships in Arizona",
+    "kind": "state",
+    "filter": {
+      "state": "AZ"
+    }
+  },
+  {
+    "slug": "state-oh",
+    "title": "Tech internships in Ohio",
+    "kind": "state",
+    "filter": {
+      "state": "OH"
+    }
+  },
+  {
+    "slug": "state-wi",
+    "title": "Tech internships in Wisconsin",
+    "kind": "state",
+    "filter": {
+      "state": "WI"
+    }
+  },
+  {
+    "slug": "state-ky",
+    "title": "Tech internships in Kentucky",
+    "kind": "state",
+    "filter": {
+      "state": "KY"
+    }
+  },
+  {
+    "slug": "state-la",
+    "title": "Tech internships in Louisiana",
+    "kind": "state",
+    "filter": {
+      "state": "LA"
+    }
+  },
+  {
+    "slug": "state-de",
+    "title": "Tech internships in Delaware",
+    "kind": "state",
+    "filter": {
+      "state": "DE"
+    }
+  },
+  {
+    "slug": "state-ks",
+    "title": "Tech internships in Kansas",
+    "kind": "state",
+    "filter": {
+      "state": "KS"
+    }
+  },
+  {
+    "slug": "state-md",
+    "title": "Tech internships in Maryland",
+    "kind": "state",
+    "filter": {
+      "state": "MD"
+    }
+  },
+  {
+    "slug": "state-nj",
+    "title": "Tech internships in New Jersey",
+    "kind": "state",
+    "filter": {
+      "state": "NJ"
+    }
+  },
+  {
+    "slug": "state-ct",
+    "title": "Tech internships in Connecticut",
+    "kind": "state",
+    "filter": {
+      "state": "CT"
+    }
+  },
+  {
+    "slug": "company-atomic-semi",
+    "title": "Atomic Semi internships",
+    "kind": "company",
+    "filter": {
+      "slug": "atomic-semi"
+    }
+  },
+  {
+    "slug": "company-hermeus",
+    "title": "Hermeus internships",
+    "kind": "company",
+    "filter": {
+      "slug": "hermeus"
+    }
+  },
+  {
+    "slug": "company-base-power",
+    "title": "Base Power internships",
+    "kind": "company",
+    "filter": {
+      "slug": "base-power"
+    }
+  },
+  {
+    "slug": "company-bedrock-robotics",
+    "title": "Bedrock Robotics internships",
+    "kind": "company",
+    "filter": {
+      "slug": "bedrock-robotics"
+    }
+  },
+  {
+    "slug": "company-cirrus-logic",
+    "title": "Cirrus Logic internships",
+    "kind": "company",
+    "filter": {
+      "slug": "cirrus-logic"
+    }
+  },
+  {
+    "slug": "company-antares-nuclear",
+    "title": "Antares Nuclear internships",
+    "kind": "company",
+    "filter": {
+      "slug": "antares-nuclear"
+    }
+  },
+  {
+    "slug": "company-akuna-capital",
+    "title": "Akuna Capital internships",
+    "kind": "company",
+    "filter": {
+      "slug": "akuna-capital"
+    }
+  },
+  {
+    "slug": "company-heron-power",
+    "title": "Heron Power internships",
+    "kind": "company",
+    "filter": {
+      "slug": "heron-power"
+    }
+  },
+  {
+    "slug": "company-nissan",
+    "title": "Nissan internships",
+    "kind": "company",
+    "filter": {
+      "slug": "nissan"
+    }
+  },
+  {
+    "slug": "company-rivian-and-volkswagen-group-technologies",
+    "title": "Rivian and Volkswagen Group Technologies internships",
+    "kind": "company",
+    "filter": {
+      "slug": "rivian-and-volkswagen-group-technologies"
+    }
+  },
+  {
+    "slug": "company-tensorwave",
+    "title": "TensorWave internships",
+    "kind": "company",
+    "filter": {
+      "slug": "tensorwave"
+    }
+  },
+  {
+    "slug": "company-acron-aviation",
+    "title": "Acron Aviation internships",
+    "kind": "company",
+    "filter": {
+      "slug": "acron-aviation"
+    }
+  },
+  {
+    "slug": "company-etched",
+    "title": "Etched internships",
+    "kind": "company",
+    "filter": {
+      "slug": "etched"
+    }
+  },
+  {
+    "slug": "company-quantinuum",
+    "title": "Quantinuum internships",
+    "kind": "company",
+    "filter": {
+      "slug": "quantinuum"
+    }
+  },
+  {
+    "slug": "company-allen-control-systems",
+    "title": "Allen Control Systems internships",
+    "kind": "company",
+    "filter": {
+      "slug": "allen-control-systems"
+    }
+  }
+]

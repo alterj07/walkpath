@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in MO</title>
+  <id>https://walkpath.vercel.app/feeds/state-MO.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-MO.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:eb8439dba619</id>
+    <title>Network Intern @ Aeci</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/eb8439dba619"/>
+    <updated>2026-09-29T00:00:00.000Z</updated>
+    <published>2026-09-29T00:00:00.000Z</published>
+    <author><name>Aeci</name></author>
+    <category term="it_cloud_security" label="IT / Cloud / Security"/>
+    <summary type="text">At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…</summary>
+    <content type="text">Aeci · Springfield, MO
+
+At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:e7af8622c36d</id>
+    <title>Software Engineer Intern @ Exegy</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/e7af8622c36d"/>
+    <updated>2026-09-10T19:26:28.064Z</updated>
+    <published>2026-09-10T19:26:28.064Z</published>
+    <author><name>Exegy</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">About ExegyExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St.…</summary>
+    <content type="text">Exegy · St. Louis, MO
+
+About ExegyExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St.…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:0965c6011e8d</id>
+    <title>Engineering Intern @ Aeci</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/0965c6011e8d"/>
+    <updated>2026-09-10T00:00:00.000Z</updated>
+    <published>2026-09-10T00:00:00.000Z</published>
+    <author><name>Aeci</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…</summary>
+    <content type="text">Aeci · Springfield, MO
+
+At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:1ec8abc20e02</id>
+    <title>RCM Engineering Intern @ Aeci</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/1ec8abc20e02"/>
+    <updated>2026-09-10T00:00:00.000Z</updated>
+    <published>2026-09-10T00:00:00.000Z</published>
+    <author><name>Aeci</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…</summary>
+    <content type="text">Aeci · Clifton Hill, MO
+
+Season: Summer 2027
+
+At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:457e2a87abc1</id>
+    <title>Electrical Engineering Intern @ Aeci</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/457e2a87abc1"/>
+    <updated>2026-09-10T00:00:00.000Z</updated>
+    <published>2026-09-10T00:00:00.000Z</published>
+    <author><name>Aeci</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…</summary>
+    <content type="text">Aeci · Clifton Hill, MO +1 more
+
+Season: Summer 2027
+
+At Associated Electric Cooperative, we&apos;re committed to providing reliable energy to the communities we serve with passion and precision. We&apos;re a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!From technical to operational to…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

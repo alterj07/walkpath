@@ -1,0 +1,271 @@
+{
+  "a737f9d02c9f": {
+    "id": "a737f9d02c9f",
+    "title": "Avionics Test Engineering Internship (Spring 2027)",
+    "title_raw": "Avionics Test Engineering Internship (Spring 2027)",
+    "company": {
+      "slug": "apex-technology-inc",
+      "name": "Apex Technology, Inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "apex-technology-inc",
+      "external_id": "aea24b77-7673-4478-83af-4f16f5337673"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T23:47:11.657Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.774Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Spring 2027",
+    "salary": {
+      "min": 45,
+      "max": 45,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<p>Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge.</p><p>For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payloads of our customers and are flown on launch vehicles.</p><p>Apex manufactures these satellite buses at scale using a combination of software, vertical integration, and hardware that is designed for manufacturing. Our spacecraft enable the future of society: ranging from earth observation to communications and more.</p><p>We’d love for you to join us on our mission of providing humankind access to the galaxy beyond our planet. </p><p></p><h3>About the Role</h3><p>We are seeking talented engineers to work closely with the broader engineering team for an exciting internship opportunity. This person is passionate about engineering, ready to take ownership over complex challenges, and a strong desire to learn about all things satellites.</p><p>During the 12-week internship program at Apex, you'll gain hands-on experience and professional growth opportunities. You’ll be assigned a project to give you the opportunity to have real impact. Throughout the project you'll have a dedicated mentor to guide you, while participating in learning sessions to elevate your knowledge of aerospace. Plus, you'll connect with peers and industry professionals during our community events, making this a well-rounded experience to launch your career!<br /><br /><strong>Avionics Test:</strong> Interns will assist in the development of new ATE Rack systems, improving our hardware test stands and the development of processes and tooling that allow for manufacturing spacecraft at scale. <br /><br /><strong>Requirements:</strong></p><ul><li><p>Graduating between Spring 2027 and Spring 2028</p></li><li><p>BS or MS in Electrical Engineering, Aerospace Engineering, or Computer Engineering</p></li><li><p>Experience in Altium and programming languages such as Python for scripting</p></li><li><p>Proficiency in PCB development, buildup and testing </p></li><li><p>Familiarity with avionics hardware and embedded communication protocols: UART, SPI, CAN, I2C<br /></p></li></ul><p><em>Note: Spring interns should be available to pause or adjust academic commitments (such as taking a semester off or enrolling part-time) for the duration of the program</em></p><h3><strong>Why Join Apex?</strong></h3><p>Apex believes in creating a work environment that you look forward to embracing every day. Our employees love working at Apex, and we want you to love it too. We're a fast-growing startup that has raised more than $500M in funding, and we invest heavily in our people from day one.</p><p></p><h3><strong>What We Offer For Full-time Employees:</strong></h3><ul><li><p><strong>Shared upside:</strong> Receive equity in Apex, letting you benefit from the work you create</p></li><li><p><strong>Best-in-class healthcare:</strong> 100% company-paid medical, dental, and vision for you and your dependents, plus $100k life insurance at no cost</p></li><li><p><strong>Comprehensive PTO package</strong> to reset and recharge - starting at 15 days vacation, growing to 20+ days annually, plus 10 paid holidays</p></li><li><p><strong>Competitive 401(k) plan</strong> with generous matching - 100% match on first 3%, 50% on next 2%</p></li><li><p><strong>8 weeks paid parental leave</strong> plus childcare reimbursement up to $350/day for work-related travel</p></li><li><p><strong>Daily catered lunch and unlimited snacks</strong> to keep you fueled throughout the day</p></li><li><p><strong>Vibrant community:</strong> Monthly office socials, pickleball tournaments, run club, and gatherings for you and your family</p></li><li><p><strong>Your dream desk setup</strong> and all the tools you need to be your most productive self</p></li><li><p><strong>World-class Playa Vista office</strong> with the benefit of in-person collaboration with amazing coworkers and flexibility to integrate work and life</p></li><li><p><strong>Real impact opportunity:</strong> Work alongside experts from aerospace, new space, and other cutting-edge industries to make a lasting difference</p></li></ul><p></p><h3>Additional Information: </h3><p>Compensation ranges are set by role, level, location, and alignment with market data. A candidate's specific level and base pay are determined case by case and may vary with job-related skills, education, experience, technical capabilities, and internal equity. Beyond base salary, full-time hires are also eligible for long-term incentives in the form of stock options, along with medical, dental, and vision coverage and a 401(k) retirement plan.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR). To be eligible for this role, applicants must either (1) qualify as a U.S. Person, meaning a U.S. citizen or national, a lawful permanent resident (green card holder), a refugee admitted under 8 U.S.C. § 1157, or an individual granted asylum under 8 U.S.C. § 1158, or (2) be able to obtain the required export authorizations from the U.S. Department of State, the U.S. Department of Commerce, or another applicable U.S. government agency. You can learn more about ITAR here.</p><p></p><h3>Equal Opportunity Employer</h3><p>Apex Technology, Inc. is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p>",
+    "content_hash": "21ea3c421ce3e217cd02f0a92a29ebda"
+  },
+  "a7402d815f8c": {
+    "id": "a7402d815f8c",
+    "title": "Intern, AI Agent Evaluations",
+    "title_raw": "Intern, AI Agent Evaluations",
+    "company": {
+      "slug": "g2",
+      "name": "G2",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "g2",
+      "external_id": "64dcc04a-a0e7-493b-b899-dd4c56e561fd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T22:14:43.071Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.577Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 24,
+      "max": 24,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About G2 - The Company</strong><br /></p><p>G2 is the world's largest and most trusted software marketplace. When you join G2, you’re joining the industry’s leading team that helps businesses reach their peak potential by powering decisions and strategies with trusted insights from real software users.</p><p></p><p>Now, we have joined forces with Capterra, SoftwareAdvice, and GetApp to create the largest source of online data and software insights to fuel intelligent buying in the age of AI. With 200M+ combined annual visitors and 6M verified reviews, we are now the centralized place to enable software buyers to make better and faster decisions with confidence.</p><p></p><p>And we are just getting started! We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.</p><p></p><p>Does that sound exciting to you? Come join us as we try to reach our next PEAK!</p><p></p><p><strong>About G2 - Our People</strong></p><p></p><p>At G2, everything we are and what we do is grounded in our  PEAK values— (<em>P</em>erformance + <em>E</em>ntrepreneurship + <em>A</em>uthenticity + <em>K</em>indness. Working at G2 means you are part of a value-driven, growing global community that climbs PEAKs together. We cheer for each other’s successes, learn from our mistakes, and support and lean on one another during challenging times. With ambition and entrepreneurial spirit we push each other to take on challenging work, which will help us all to grow and learn.</p><p></p><p>You will be part of a global, diverse team of smart, dedicated, and kind individuals - each with unique talents, aspirations, and life experiences. At the heart of our community and culture are our people-led ERGs, which celebrate and highlight the diverse identities of our global team. As an organization, we are intentional about our DEI and philanthropic work (like our G2 Gives program) because it encourages us all to be better people.</p><p></p><h3><strong>About The Role</strong></h3><p><strong>Summary of Responsibilities:</strong><br /><br />G2 evaluates AI agents on real tasks and publishes the results as leaderboards on g2.ai. This intern role helps the Agentic Marketplace team grow that program: supporting the evaluation method, working with AI agent vendors, tracking other evaluators, and monitoring market trends. Reports to the Head of Product, Agentic Marketplace. Works with product, data science, and engineering.<br /><br /><strong>Detailed Responsibilities:</strong><br /><br /><em><strong>Responsibility Area: Evaluation method (about 50% of time)</strong></em></p><ul><li><p>Break an AI agent's job (for example, outbound sales) into steps that can be tested. Write the tasks, test data, and scoring rules for those steps.</p></li><li><p>Review the scores our AI judge and human reviewers give.</p></li></ul><p><em><strong>Responsibility Area: Vendor relationships (about 25% of time)</strong></em></p><ul><li><p>Support scaling system to engage with hundreds of vendors.</p></li><li><p>Prepare the results packet we share with each vendor before we publish, and keep the vendor pipeline current every week.</p></li></ul><p><em><strong>Responsibility Area: Market landscape (about 25% of time)</strong></em></p><ul><li><p>Track who else evaluates AI agents (AI labs, benchmark groups, evaluation startups, analyst firms) and what they publish.</p></li></ul><p><br /><strong>Qualifications:</strong></p><ul><li><p>Currently enrolled in a MBA.</p></li><li><p>Have built with or used AI tools such as LLM APIs, chat assistants, or agents, and can explain how they work and where they fail.</p></li><li><p>Write clearly and briefly.</p></li><li><p>Comfortable talking with startup founders and product leaders. Able to hold your view when someone pushes back, and to change it when the facts say so.</p></li><li><p>Able to make progress on problems that have no set process yet.</p></li><li><p>Based in the San Francisco Bay Area.</p></li><li><p>Available 10 to 20 hours a week during the school year.</p></li><li><p>The internship starts October or November 2026.</p></li></ul><p><br /><strong>What Can Help Your Application Stand Out:</strong></p><ul><li><p>You have built an AI agent, an evaluation, or a benchmark, even as a class or side project.</p></li><li><p>You have worked at or with a B2B software company in any role: startup, venture, sales, or product.</p></li><li><p>You have worked in customer support, sales, or marketing (the jobs the agents we evaluate are built to do).</p></li><li><p>You have written about AI or software for a public audience (blog, newsletter, research).</p></li><li><p>You already know the AI startup scene in San Francisco.</p></li></ul><p></p><p><strong>Our Commitment to Inclusivity and Diversity</strong></p><p></p><p>At G2, we are committed to creating an inclusive and diverse environment where people of every background can thrive and feel welcome. We consider applicants without regard to race, color, creed, religion, national origin, genetic information, gender identity or expression, sexual orientation, pregnancy, age, or marital, veteran, or physical or mental disability status. Learn more about our commitments here. </p><p></p><p>--</p><p><br />For job applicants in California, the United Kingdom, and the European Union, please review this applicant privacy notice before applying to this job.</p><p></p><p><strong>How We Use AI Technology in Our Hiring Process</strong><br />G2 incorporates AI-powered technology to enhance our candidate evaluation process. These tools may assist with initial application screening, skills assessment analysis, and identifying candidates whose qualifications align with specific role requirements. While AI technology supports our recruitment workflow, all final hiring decisions remain under human oversight and judgment.<br /></p><p><strong>Your Choice Matters:</strong> If you would prefer that your application be reviewed without AI assistance, you can opt out by entering your email address in the email entry field at the bottom of the Automated Processing Legal Notice. Choosing to opt out will not disadvantage your application in any way—we will ensure your materials receive a thorough manual review by our hiring team.<br />For additional details about how we handle your information throughout the application process, please review G2's Applicant Privacy Notice.</p>",
+    "content_hash": "b6855c9014e4c6365155bbec2dee1f3e"
+  },
+  "a7a68ab9c5b7": {
+    "id": "a7a68ab9c5b7",
+    "title": "Security & IT Intern",
+    "title_raw": "Security & IT Intern",
+    "company": {
+      "slug": "eight-sleep",
+      "name": "Eight Sleep",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Remote - US",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": [
+        "San Francisco",
+        "New York City"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "eightsleep",
+      "external_id": "0ae8cdbe-8100-4f59-b702-16d836ab5550"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-09T17:05:52.446Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:08.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>Join the Sleep Fitness Movement</strong></h3><p>At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotional performance by transforming every night of sleep into a personalized, data-driven recovery experience. We are trusted by high performers, professional athletes, and health-conscious consumers in over 30 countries worldwide. Recognized as one of Fast Company's Most Innovative Companies in 2019, 2022, and 2023, and twice named to TIME's “Best Inventions of the Year.” We operate like a high-performance team: fast, focused, and motivated by impact. We don’t just ship; we iterate, refine, and obsess over the details that help our members sleep better and wake up stronger.</p> <p>Every role at Eight Sleep is a chance to create cutting-edge technology, collaborate with world-class talent, and help shape a future where sleep isn’t passive - it’s a powerful tool for living better. If you’re tired of the ordinary and driven to build at the edge of what’s possible, this is your moment. Join us and lead the movement that’s transforming how the world sleeps and what we’re all capable of when we wake up.</p> <h3><strong>High Standards. No Apologies.</strong></h3><p>We operate with intensity because our mission demands it. At Eight Sleep, we bring the same mindset as the world’s top performers: focused, relentless, and always pushing to be in the top 1% of our craft. Think Kobe Bryant’s mamba mentality, applied to bold ideas, next-gen tech, and flawless execution. This isn’t a 9-to-5. Our team is deeply committed, often putting in 60+ hours a week –not because we’re told to, but because we’re invested. We’re here to build fast, push limits, and deliver without compromise. If you thrive under pressure and want to do the most meaningful work of your career, you’ll feel right at home. If you’re looking for something easier –this isn’t it.</p> <h3><strong>The Role</strong></h3><p>This is a hands-on corporate security and IT internship working with the Security team that also manages security, compliance and IT for the company. You will work directly with the Head of Security and the Security Engineer. It is part time, 20 hours a week around your class schedule, and you will own bounded projects end to end, ship them, and demo them to the engineering org.</p> <h3><strong>How you’ll contribute</strong></h3><ul><li><p>Google Workspace administration, device management, and the SaaS access lifecycle — onboarding, offboarding, and access reviews that hold up in an audit.</p></li><li><p>Run the access-review and device-compliance checks, then automate the parts you find yourself repeating.</p></li><li><p>Keep compliance green with code: help remediate failing Vanta tests and automate evidence collection.</p></li><li><p>Triage inbound security and IT requests from employees for one shift a week, with a mentor reviewing every response.</p></li><li><p>Write runbooks and triage notes that an engineer, or an AI agent, can leverage.</p></li><li><p>Use AI tools (Claude Code and similar) as a first resort to scale your own work, and push those workflows toward fully automated production jobs.</p></li></ul><p></p><h3><strong>What you need to succeed</strong></h3><ul><li><p>AI-first mindset. We empower the team with the best tools available to scale beyond themselves.</p></li><li><p>Junior or Senior at a US college or university, in computer science or a related program.</p></li><li><p>Scripting ability in Python or similar. You have written something that calls an API and does a job for you.</p></li><li><p>Working knowledge of how identity works in a company: SSO, MFA, directory groups, least privilege.</p></li><li><p>One concrete thing you have administered or secured: a club's Google Workspace, a home lab, a campus help desk, a CTF team's infrastructure, a part-time IT job.</p></li><li><p>Clear security writing: send us something you wrote (a lab writeup, a README, a blog post, a how-to).</p></li><li><p>Available 20 hours a week during the school year, with at least 4 hours of overlap with US business hours on 3 or more days. Authorized to work in the US; this role is not eligible for visa sponsorship.</p></li></ul><p></p><h3><strong>Bonus points for</strong></h3><ul><li><p>CTF participation, bug bounty writeups, or a GitHub with real projects.</p></li><li><p>Help desk, campus IT, or MSP experience.</p></li><li><p>Exposure to any compliance framework (SOC 2, HIPAA, ISO 27001) through coursework or a job.</p></li></ul> <h3><strong>Why join Eight Sleep?</strong></h3><p><strong>Innovation in a culture of excellence</strong></p><p>Join us in a workplace where innovation isn’t just encouraged - it’s a standard. Our flagship product, the Pod, is a testament to our culture of excellence, beloved by hundreds of thousands of customers worldwide. At Eight Sleep, you will be part of a team that continuously pushes the boundaries of technology in sleep fitness.</p> <p><strong>Immediate responsibility and accelerated career growth</strong></p><p>From your first day, you’ll take on substantial responsibilities that have a direct impact on our core business and product success. We are a small team that empowers you to own your projects and see the tangible effects of your efforts, enhancing both your professional growth and our company’s trajectory. Your path will be challenging but rewarding, perfect for those who thrive in fast-paced environments aiming for high standards.</p> <p><strong>Collaboration with exceptional talent</strong></p><p>Work alongside other bright minds like you: at Eight Sleep exceptional intelligence and a passion for breakthroughs are the norms. Our team members are not only experts in their fields but also avid innovators who thrive in our dynamic, fast-paced environment.</p> <p><strong>Equitable compensation and continuous equity investment</strong></p><p>We extend equity participation to every full-time team member, recognizing and rewarding your direct contributions to our success. This includes periodic equity refreshments based on performance, ensuring that as Eight Sleep grows and succeeds, so do you – perfectly aligning your achievements with the broader triumphs of the company.</p> <p><strong>Your own Pod - and other great benefits</strong></p><ul><li><p>Every Eight Sleep employee receives the very product that defines our mission: a Pod of their own. If you join us you’ll get your own Pod, along with*:</p></li><li><p>Full access to health, vision, and dental insurance for you and your dependents</p></li><li><p>Supplemental life insurance</p></li><li><p>Flexible PTO</p></li><li><p>Commuter benefits to ease your daily commute</p></li><li><p>Paid parental leave</p></li></ul><p>*List of benefits may vary depending on your location</p> <p>At Eight Sleep we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our values by ensuring everyone feels they can flourish and grow. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</p>",
+    "content_hash": "691e9b9a3d03b25e305ebaebefef5f04"
+  },
+  "a7d1c341c0c7": {
+    "id": "a7d1c341c0c7",
+    "title": "Fall Data Intern",
+    "title_raw": "Fall Data Intern",
+    "company": {
+      "slug": "vendelux",
+      "name": "Vendelux",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York, NY",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "vendelux",
+      "external_id": "ec44a794-9622-444e-a789-491fa12726dd"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-14T15:58:41.950Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.212Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 18,
+      "max": 20,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Vendelux is building the category-defining platform for event marketing intelligence.</p><p>Events are one of the largest and most impactful marketing channels, yet historically one of the least measurable. Vendelux brings transparency and performance to this space — helping companies discover, evaluate, and optimize their event strategy with data.</p><p>Our platform powers thousands of event decisions by delivering proprietary, AI-driven insights across hundreds of thousands of events globally. At the core of our platform is a robust ecosystem of event organizer partnerships — where organizers share first-party data, enabling richer insights for customers while receiving benchmarking and audience intelligence in return. From identifying the highest ROI conferences to enabling targeted meeting programs, Vendelux helps companies turn events into a predictable and scalable growth engine.</p><p>In addition, Vendelux Meetings extends our platform by turning insights into pipeline — using AI to identify high-value attendees and proactively book 1:1 meetings between our customers and their ideal prospects at events. This enables go-to-market teams to drive measurable ROI and maximize every event interaction.</p><p>Founded in 2021, Vendelux is a Series B SaaS company backed by top-tier investors including FirstMark. We partner with many of the fastest-growing companies in the world, and our team includes leaders from Bain, ZoomInfo, Shutterstock, FanDuel, Compass, Airbnb, Forter and beyond.</p><p>________________</p><p>We're looking for a technically-minded person eager to work on real data problems at a fast-growing startup. This is a paid, onsite role for a local college or MBA student who can commit ~20+ hours/week. You'll work directly on the data team — writing SQL, building pipelines, and using AI tools to power the insights our platform depends on. For the right person, this could develop into a full-time role.</p><h3>What You'll Do</h3><ul><li><p>Write SQL queries to analyze events, attendees, and organizations; surface insights that directly inform product and business decisions</p></li><li><p>Build and maintain dashboards to monitor data quality and pipeline health</p></li><li><p>Identify and resolve data errors in our database; investigate patterns and potential root causes</p></li><li><p>Use and evaluate AI/LLM-enabled tools to generate, validate, and manage large datasets</p></li><li><p>Conduct structured research to identify and validate key data inputs for machine learning models</p></li><li><p>Collaborate with the data and engineering teams on data infrastructure and tooling improvements</p></li></ul><h3>What We're Looking For</h3><ul><li><p>Based in New York City and able to work from our Midtown office</p></li><li><p>Available ~20+ hours per week</p></li><li><p>Proficiency in SQL — you're comfortable writing non-trivial queries against real datasets</p></li><li><p>Familiarity with Python is a strong plus</p></li><li><p>Experience with dashboarding tools (Looker, Metabase, Tableau, or similar) is a plus</p></li><li><p>Detail-oriented with high ownership over your work</p></li><li><p>Genuinely curious about data, AI, and how systems are built</p></li></ul><h3>Why Join Us</h3><ul><li><p><strong>Real technical impact:</strong> The data you clean, model, and ship directly powers what customers see and trust</p></li><li><p><strong>Cutting-edge problems:</strong> Work on applied ML, LLM pipelines, recommendation systems, and large-scale data quality challenges</p></li><li><p><strong>Ownership:</strong> You'll operate with genuine autonomy and set your own bar</p></li><li><p><strong>Growth:</strong> Learn how a high-quality data team operates at a Series B company scaling fast</p></li><li><p><strong>Team:</strong> A collaborative, ambitious group with backgrounds at top tech companies and consulting firms</p></li></ul><p>Not all candidates will check all of the requirements listed above and that’s ok! We are open to great people from non-traditional backgrounds.</p><p></p><p>Vendelux is proud to be an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.</p>",
+    "content_hash": "3696c35172f6df337cfe6eedcef567c5"
+  },
+  "a7ded9020b87": {
+    "id": "a7ded9020b87",
+    "title": "Quantitative Trading Intern - Summer 2027",
+    "title_raw": "Quantitative Trading Intern - Summer 2027",
+    "company": {
+      "slug": "belvedere-trading",
+      "name": "Belvedere Trading",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Chicago, Illinois",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "belvederetrading",
+      "external_id": "cbde47db-c60b-4339-a8f4-a8e4f30505ab"
+    },
+    "apply_url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-04T17:27:58.389Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:46:12.493Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 140000,
+      "max": 140000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry.\nBelvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry.<br />At Belvedere Trading, Quantitative Trading Interns are some of the industry’s highly motivated most quantitative problem solvers. They have a love for financial markets and enjoy working in teams to learn about various trading concepts. Our Quantitative Trading Interns participate in a hands-on rotation between Belvedere’s trading desks and collaborate with Developers and Strategists in research to improve our trading systems. Our Interns are at the forefront of technology immersion as they learn best practices in software development and focus on projects related to trading logic development, electronic trading strategies, and quantitative research. If you love technology and financial markets, then this position might be for you. <br /> <br />Don’t know a lot about trading? No sweat. Learn as much as you can in the meantime (check out our FAQ page for some resources to get you started) but know our Belvedere Trading University (BTU) program will teach you everything you need to know once you join the team.\n<h3>What our Quantitative Trading Interns do </h3>\n\n<ul>\n<li>\n<p>Daily trading activities – Assist with analyzing daily trades and recapping significant trends </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Rotations – Rotate between product groups to gain a broad understanding and knowledge of the market and Belvedere’s trading strategies </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Desk strategy – Engage in daily collaborative strategy adjustments with your team to adapt to market dynamics </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Research – Participate in quantitative research and the application of quantitative strategies while learning concepts behind our core market making operations </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Data Analysis – Analyze extensive datasets to extract insights that bolster our trading strategies </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Training – Benefit from our industry-leading BTU program, complemented by ongoing practical training within our trading operations, covering a spectrum from foundational knowledge to advanced proprietary concepts. </p>\n</li>\n\n</ul>\n\n<h3>Key qualities in great candidates </h3>\n\n\n<ul>\n<li>\n<p>Curious – We'll teach you everything you need to know, but we love working with people who ask questions and are eager to get involved </p>\n</li>\n\n</ul>\n\n\n\n<ul>\n<li>\n<p>Communication – We need people who can speak confidently and concisely especially when the stakes are high </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Analytical – We’re looking for quantitative thinkers and master problem-solvers with strong data analysis skills </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Team Player – Trading and development are not isolated activities at Belvedere, so great candidates will have demonstrated success in working in team-based environments </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>AI Fluency – Effectively use AI tools to improve efficiency and effectiveness while maintaining independent judgement and critical thinking   </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Core development skills – You will need some training or a demonstrated ability to learn programming languages such as C++, C#, and Python </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Knowledge of the financial markets and trading industry isn’t required, but it is a plus!  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Regular attendance is an essential function of this position </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Ability to live in Chicago and attend the internship fully in person during the summer of 2027  </p>\n</li>\n\n</ul>\n\n<ul>\n<li>\n<p>Graduation date of December 2027/Spring 2028 </p>\n</li>\n\n</ul>\n\n\n<strong>Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.</strong>\n<strong>We encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. </strong>\n<strong>We welcome your application.</strong>\n \n<strong>Core Values </strong>\nThe secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day.\n \n<strong>Compliance</strong>\nFor our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications.\n \n<strong>Our Stance </strong>\nBelvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. \n \nPlease note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. \n \n<strong>Work Schedule: </strong>Regular and reliable attendance during business hours with the ability to be on-site prior to the start of business on occasion \n<strong>Physical: </strong>Ability to remain at a desk and concentrate for long periods of time\n<strong>Amount of Travel Required: </strong>None \n<strong>Sponsorship: </strong>Yes",
+    "content_hash": "694e1a3b56eb15741326dc8b20dbb641"
+  },
+  "a7f8d54e2d70": {
+    "id": "a7f8d54e2d70",
+    "title": "Software Engineer (Internship, Summer 2027)",
+    "title_raw": "Software Engineer (Internship, Summer 2027)",
+    "company": {
+      "slug": "heliux",
+      "name": "Heliux",
+      "domain": ""
+    },
+    "location": {
+      "raw": "HQ (San Francisco, CA)",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "heliux",
+      "external_id": "ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-31T01:21:06.637Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.730Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Why Heliux:</strong></p><p>Heliux is building the AI-native operating system for the manufacturing enterprise. We’re fundamentally reshaping how engineering and manufacturing companies run by eliminating cross-functional fragmentation and enabling agentic execution on a single, shared operational reality. Companies developing and scaling production of next-generation defense systems, nuclear reactors, robotics, and more all trust Heliux to drive their operations.</p><p>We’re on a mission to deliver unprecedented operating performance for manufacturers. Our team is built on a foundation of grit combined with deep commitment to our customers and the mission. If you want to do important work for critical industries on an ambitious, high-energy team, we’d love for you to join us.</p> <p><strong>About the Role:</strong></p><p>Engineers at Heliux are directly responsible for end-to-end design, development, and delivery of our core software platform. <strong>As an intern, the expectation is that you will operate at the same capacity as a full-time engineer.</strong></p> <p>· Acquire expertise in hardware engineering and manufacturing through immersive, hands-on problem-solving with our customers.</p><p>· Rapidly design, build, test, deliver, and maintain complex software systems that are performant, reliable, and scalable.</p><p>· Contribute to the high-level technical direction of both the organization and the platform to ensure we are always accelerating the velocity of our work.</p><p>· Relentlessly solve any and all technical problems that stand in the way of company objectives—and therefore, our success.</p> <p><strong>About You:</strong></p><ul><li><p>Proven experience building complex, scalable software systems from zero-to-one—i.e., problem identification to production-grade solution.</p></li><li><p>Demonstrated proficiency in programming languages such as Rust, Python, Java, TypeScript, or similar.</p></li><li><p>Inherent desire to operate with extreme levels of urgency across all aspects of life and work.</p></li></ul> <p><strong>What We Offer:</strong></p><ul><li><p>Competitive compensation package.</p></li><li><p>Healthcare coverage across medical, dental, and vision.</p></li><li><p>Unlimited PTO.</p></li><li><p>Monthly company-sponsored lunches and/or outings.</p></li></ul> <p>All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, physical and mental disability, health status, marital and family status, sexual orientation, gender identity and expression, military and veteran status, and any other characteristic protected by applicable law.</p> <p><strong>ITAR Requirements</strong></p><p>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "1a1c9e41276b62b799b03272e41e7cf8"
+  }
+}

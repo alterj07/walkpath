@@ -1,0 +1,134 @@
+{
+  "25029a8f1f8e": {
+    "id": "25029a8f1f8e",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "valon",
+      "name": "Valon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "valon",
+      "external_id": "b5a62c0c-823c-42dd-8cb5-e4b1455bcc64"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-01T21:01:57.937Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.066Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 60,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About the Company</strong></h3><p>Valon is building the AI-native operating system for regulated finance, starting with mortgage servicing.<br /><br />We're a Series C company backed by a16z, transforming industries that others have written off as too complex to innovate.<br /><br />Rather than build on top of broken legacy systems, we took a different approach: we built and operate our own mortgage servicing business managing $110+ billion in loans. This wasn't the end goal, it was how we deeply understood the complexity needed to build software that actually works in regulated industries.<br /><br />The results speak for themselves. We've transformed mortgage servicing from a 0% margin business into 60%+ margins while dramatically improving customer experience. Major enterprise contracts are now deploying across the industry.<br /><br />ValonOS is our unified platform that makes every process structured and programmable and it is perfectly positioned for the AI era. When everything flows through one system with rich data, AI agents don't just automate tasks, they continuously improve entire operations. Mortgage servicing is just the beginning of our vision to transform regulated industries and beyond.</p><p></p><h3><strong>Engineering at Valon</strong></h3><p>Our engineering team is here to power the software ecosystem to disrupt one of the most outdated and regulated spaces in the financial sector - the mortgage industry. We’ve built out the foundation of a modern mortgage servicing platform that can accurately handle billions of dollars at scale, but we’re just getting started. At Valon, we want you to do the best work of your life. You'll be surrounded by a tight-knit community of exceptional people from places like Stripe, Jane Street, Meta, and Google who care deeply about their work and each other. Our problem space is complex, but you’ll get a lot of autonomy so that you can learn quickly, execute effectively, and deliver the highest level of business impact. Our tech stack is built on Python, React, Docker, Kubernetes, and Google Cloud Platform.</p><p></p><p>Our office locations are based in New York City and in San Francisco. </p><p></p><h3><strong>Responsibilities</strong></h3><ul><li><p>Responsible for learning new concepts and technologies quickly and apply them to challenging problems.</p></li><li><p>Designing and building robust and extensible infrastructure to handle evolving and complex federal, state, and agency regulations.</p></li><li><p>Dive deep to understand the inner workings of a highly complex industry.</p></li><li><p>Work with Product and Design to define the best experience for our customers.</p></li></ul><p></p><h3><strong>Ideal Background</strong></h3><ul><li><p>Currently in pursuit of a Bachelor's degree in Computer Science or related field.</p></li><li><p>Exceptional programming and design skills.</p></li><li><p>Ability to build quality software applications at scale, including ability to work cross-functionally to balance product and technical requirements, building scalable systems from scratch with a fast turnaround.</p></li><li><p>Communicate effectively in a collaborative, complex, and highly technical team environment.</p></li><li><p>Experience with one of the following: web application development, mobile application development, building large-scale distributed systems, or infrastructure management.</p></li><li><p>Deep curiosity and willingness to ask a lot of questions in order to learn quickly.</p></li><li><p>Must have legal authority to work in the U.S. EEOE.</p></li></ul><p></p><h3><strong>Compensation</strong></h3><p><strong>Salary Expectations:</strong> The compensation for our interns is $60/hour USD + stipend.</p><p></p><p><em>Throughout the interview process, please remember that emails will only be from </em><em>valon.com</em><em> email addresses. We will never ask for any personally identifiable information during the interview process itself. Please reach out to talent@valon.com if you have any requests to verify the authenticity of an outreach.</em></p><p></p><p><em>Valon is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.</em></p>",
+    "content_hash": "480af2db5b0ee30e5b17014796127384"
+  },
+  "256b4581e94a": {
+    "id": "256b4581e94a",
+    "title": "Avionics Internship (Spring or Summer 2027)",
+    "title_raw": "Avionics Internship (Spring or Summer 2027)",
+    "company": {
+      "slug": "apex-technology-inc",
+      "name": "Apex Technology, Inc.",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "apex-technology-inc",
+      "external_id": "115c16ac-bc17-49f5-ad00-f5a7e6dea07f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-02T17:00:42.323Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:40:57.774Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 45,
+      "max": 45,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge.</p><p>For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payloads of our customers and are flown on launch vehicles.</p><p>Apex manufactures these satellite buses at scale using a combination of software, vertical integration, and hardware that is designed for manufacturing. Our spacecraft enable the future of society: ranging from earth observation to communications and more.</p><p>We’d love for you to join us on our mission of providing humankind access to the galaxy beyond our planet. </p><p></p><h3>About the Role</h3><p>We are seeking talented engineers to work closely with the broader engineering team for an exciting internship opportunity. This person is passionate about engineering, ready to take ownership over complex challenges, and a strong desire to learn about all things satellites.</p><p>During the 12-week internship program at Apex, you'll gain hands-on experience and professional growth opportunities. You’ll be assigned a project to give you the opportunity to have real impact. Throughout the project you'll have a dedicated mentor to guide you, while participating in learning sessions to elevate your knowledge of aerospace. Plus, you'll connect with peers and industry professionals during our community events, making this a well-rounded experience to launch your career!</p><p><strong>Avionics Team</strong>: Interns will contribute to spacecraft avionics and testing, from design through test and validation. This includes designing and simulating circuits, laying out PCBs and bringing boards up for one our spacecrafts (Leo Aries, Geo Aries ,Nova and Comet), learning about radiation environments and spacecraft subsystems. <br /><br /><strong>Requirements:</strong></p><ul><li><p>Graduating in the Fall of 2027 or in the Spring of 2028 </p></li></ul><ul><li><p>Currently pursuing a BS or MS in Electrical Engineering, Computer Engineering or Physics</p></li></ul><ul><li><p>Proficiency in tools for PCB design, circuit design and simulation</p></li></ul><ul><li><p>3+ months’ experience of application of technical skills outside of the classroom: laboratory, research, personal projects or prior internship/work experience or project teams (rocketry, FSAE, CubeSat, etc.)</p></li></ul><ul><li><p>Ability to work well in an integrated collaborative team environment</p></li></ul><ul><li><p>Ability to work effectively in a dynamic professional setting.</p></li></ul><ul><li><p>GPA of 3.0 or above preferred<br /><br /><br /><em>Note: Spring interns should be available to pause or adjust academic commitments (such as taking a semester off or enrolling part-time) for the duration of the program</em></p></li></ul><h3><strong>Why Join Apex?</strong></h3><p>Apex believes in creating a work environment that you look forward to embracing every day. Our employees love working at Apex, and we want you to love it too. We're a fast-growing startup that has raised more than $500M in funding, and we invest heavily in our people from day one.</p><p></p><h3><strong>What We Offer For Full-time Employees:</strong></h3><ul><li><p><strong>Shared upside:</strong> Receive equity in Apex, letting you benefit from the work you create</p></li><li><p><strong>Best-in-class healthcare:</strong> 100% company-paid medical, dental, and vision for you and your dependents, plus $100k life insurance at no cost</p></li><li><p><strong>Comprehensive PTO package</strong> to reset and recharge - starting at 15 days vacation, growing to 20+ days annually, plus 10 paid holidays</p></li><li><p><strong>Competitive 401(k) plan</strong> with generous matching - 100% match on first 3%, 50% on next 2%</p></li><li><p><strong>8 weeks paid parental leave</strong> plus childcare reimbursement up to $350/day for work-related travel</p></li><li><p><strong>Daily catered lunch and unlimited snacks</strong> to keep you fueled throughout the day</p></li><li><p><strong>Vibrant community:</strong> Monthly office socials, pickleball tournaments, run club, and gatherings for you and your family</p></li><li><p><strong>Your dream desk setup</strong> and all the tools you need to be your most productive self</p></li><li><p><strong>World-class Playa Vista office</strong> with the benefit of in-person collaboration with amazing coworkers and flexibility to integrate work and life</p></li><li><p><strong>Real impact opportunity:</strong> Work alongside experts from aerospace, new space, and other cutting-edge industries to make a lasting difference</p></li></ul><p></p><h3>Additional Information: </h3><p>Compensation ranges are set by role, level, location, and alignment with market data. A candidate's specific level and base pay are determined case by case and may vary with job-related skills, education, experience, technical capabilities, and internal equity. Beyond base salary, full-time hires are also eligible for long-term incentives in the form of stock options, along with medical, dental, and vision coverage and a 401(k) retirement plan.</p><p></p><h3><strong>ITAR Requirements</strong></h3><p>Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR). To be eligible for this role, applicants must either (1) qualify as a U.S. Person, meaning a U.S. citizen or national, a lawful permanent resident (green card holder), a refugee admitted under 8 U.S.C. § 1157, or an individual granted asylum under 8 U.S.C. § 1158, or (2) be able to obtain the required export authorizations from the U.S. Department of State, the U.S. Department of Commerce, or another applicable U.S. government agency. You can learn more about ITAR here.</p><p></p><h3>Equal Opportunity Employer</h3><p>Apex Technology, Inc. is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p>",
+    "content_hash": "d3739d39d0b3e6c239f0b44dc92969e7"
+  },
+  "259d406d93bc": {
+    "id": "259d406d93bc",
+    "title": "Frontend Intern",
+    "title_raw": "Frontend Intern",
+    "company": {
+      "slug": "musixmatch-s-p-a",
+      "name": "Musixmatch S.p.a",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Bologna",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "musixmatch",
+      "external_id": "0f23c905-8595-4a2e-b33a-d79723b4b753"
+    },
+    "apply_url": "https://jobs.lever.co/musixmatch/0f23c905-8595-4a2e-b33a-d79723b4b753/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T14:54:39.634Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:05:45.028Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<b>ABOUT MUSIXMATCH:</b><br />Musixmatch is the leading music metadata company, featuring the world’s largest lyrics catalog and a community of over 80M contributors. Musixmatch is the trusted global  partner of companies like Spotify, Apple, Amazon Music, Meta, Google, MTV, Shazam, Vevo, Tidal, Snapchat and has a partnership with more than 100,000 music publishers including Sony/ Music Publishing, Universal Music Publishing, Warner/Chappell, Kobalt, BMG Rights, and the Harry Fox Agency.<br />We are a bunch of creatives who care about our work and what we do.  We believe that participation and collaboration are key to getting things done well.  We are looking for tech-savvy people who are eager to learn in a fast-paced environment, who have an international outlook on life, and who love taking on new challenges.\n<b>ABOUT MUSIXMATCH:</b><br />Musixmatch is the leading music metadata company, featuring the world’s largest lyrics catalog and a community of over 80M contributors. Musixmatch is the trusted global  partner of companies like Spotify, Apple, Amazon Music, Meta, Google, MTV, Shazam, Vevo, Tidal, Snapchat and has a partnership with more than 100,000 music publishers including Sony/ Music Publishing, Universal Music Publishing, Warner/Chappell, Kobalt, BMG Rights, and the Harry Fox Agency.<br />We are a bunch of creatives who care about our work and what we do.  We believe that participation and collaboration are key to getting things done well.  We are looking for tech-savvy people who are eager to learn in a fast-paced environment, who have an international outlook on life, and who love taking on new challenges.<br /><strong>Position:<br /></strong><br />We are looking for a Frontend Intern to join our AI team. This role is ideal for someone who wants hands-on experience building modern, responsive web and mobile applications using full-stack development accelerated by AI-assisted tooling. You'll rapidly prototype, design, and deploy production-ready frontend and native mobile interfaces, while also developing foundational backend skills by working directly with APIs, cloud services, and real production systems, bridging the gap between visual development and backend infrastructure.<br />This is an extracurricular internship (tirocinio extracurriculare) lasting 6 months, with a monthly reimbursement of €800.<br /><br /><strong>Responsibilities:<br /></strong><br />Design and build responsive web interfaces and native mobile applications using modern full-stack approaches accelerated by AI<br />Build reusable component libraries and iterate on the design system across web and mobile<br />Develop interactive dashboards with real-time data visualization<br />Integrate frontend and mobile apps with REST APIs and third-party services, with hands-on exposure to building and maintaining those APIs using Python and FastAPI<br />Customize components using custom CSS, JavaScript, and platform-specific configurations when needed<br />Work with PostgreSQL and Redis for data storage, caching, and session management as needed<br />Leverage AI coding assistants (GitHub Copilot, Claude Code) to accelerate development, generate responsive layouts, and build component logic<br />Collaborate with designers, backend teams, and domain experts to translate designs into functional applications<br />Conduct user testing across devices, iterate based on feedback, and document workflows<br /><br /><strong>Requirements:<br /></strong><br />Basic understanding of web development concepts and APIs<br />Familiarity with AI-assisted coding tools (e.g. GitHub Copilot, Claude Code)<br />Some knowledge of or genuine interest in Machine Learning approaches and techniques<br />Basic knowledge of Python and databases (SQL or NoSQL) is a plus<br />Ability to maintain clear and up-to-date technical documentation<br />Familiarity with Git and collaborative development workflows<br />Problem-solving mindset and willingness to learn<br />Ability to work in English\n<b>DISCLAIMER:</b><br />**Due to the significant amount of applications we receive, unfortunately, it is not possible to answer every applicant, thus if you have not received a response from us, please be patient. We assure you that we will contact you should you be selected to move forward in the recruitment process. We would therefore like to thank all applicants for their interest and time.**",
+    "content_hash": "c2156420a87a0194f8f76c8b1b638f59"
+  }
+}

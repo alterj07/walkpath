@@ -1,0 +1,169 @@
+{
+  "5f12e022f0e7": {
+    "id": "5f12e022f0e7",
+    "title": "Electrical Engineering Intern",
+    "title_raw": "Electrical Engineering Intern",
+    "company": {
+      "slug": "agilent-technologies",
+      "name": "Agilent Technologies",
+      "domain": ""
+    },
+    "location": {
+      "raw": "US-DE-Wilmington",
+      "city": "Wilmington",
+      "state": "DE",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "agilent/Agilent_Student_Careers",
+      "external_id": "4038526"
+    },
+    "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-12T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:51:03.691Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": {
+      "min": 22,
+      "max": 24,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><b>Job Description</b></h3><p>The successful candidate will be a member of a highly skilled, Electrical and Software Engineering team working on Agilent's industry leading Gas Chromatograph Mass Spectrometer (GC/MS) instrument.</p><p></p><p>The team's activities focus on improving existing processes and products, on developing manufacturing processes to introduce new products to market quickly, and on improving overall product quality.</p><p></p><p>The internship will contribute in the following areas:</p><ul><li><p>Product Quality Processes</p></li><li><p>Troubleshooting and Repair</p></li></ul><p></p><p><b>Please note: This role is onsite at Agilent in Wilmington, Delaware.</b><br /> </p><p>This is a <b>full-time, 6-month internship position</b>. Candidates must be available to commit to the full six-month duration.</p><h3></h3><h3><b>Qualifications</b></h3><ul><li><p>Be currently enrolled in an electrical, or electrical or electronics engineering program at an accredited University. Computer engineering and/or software engineering a plus.</p></li><li><p>Be available to work <b>40 hours a week</b>.</p></li></ul><p></p><p> <b>The ideal candidate will also display the following skills: </b></p><ul><li><p>Teamwork skills and ability to collaborate.</p></li><li><p>Excellent written and oral communication skills.</p></li><li><p>High initiative and self-motivation.</p></li><li><p>Electrical schematics, components, and PCA fundamentals.</p></li><li><p>Good computer skills, including Excel, programming, design, and technical searches.</p></li><li><p>Desire for a hands-on working environment.</p></li></ul><p></p><p>The intern pay rate for this position is $22.00 - $24.00/hour plus eligibility for paid holidays. Our pay ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. During the hiring process, a recruiter can share more about the specific pay range <br />for a preferred location.</p><p></p><p><b>Additional Details</b></p><p></p>This job has a full time weekly schedule.  Applications for this job will be accepted until at least September 18, 2026 or until the job is no longer posted.<p></p>Agilent Technologies, Inc. is an Equal Employment Opportunity and merit-based employer that values individuals of all backgrounds at all levels. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to sex, pregnancy, race, religion or religious creed, color, gender, gender identity, gender expression, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status, registered domestic partner status, age, sexual orientation, military or veteran status, protected veteran status, or any other basis protected by federal, state, local law, ordinance, or regulation and will not be discriminated against on these bases. Agilent Technologies, Inc., is committed to creating and maintaining an inclusive in the workplace where everyone is welcome, and strives to support candidates with disabilities. If you have a disability and need assistance with any part of the application or interview process or have questions about workplace accessibility, please email job_posting@agilent.com or contact +1-262-754-5030. For more information about equal employment opportunity protections, please visit www.agilent.com/en/accessibility.<p></p><h3><b>Travel Required: </b></h3>No<p></p><h3><b>Shift: </b></h3>Day<p></p><h3><b>Duration: </b></h3>3-6 Months<p></p><h3><b>Job Function: </b></h3>General",
+    "content_hash": "423ecbca880f0d830f57da3dbe37f2bf"
+  },
+  "5f56339ab829": {
+    "id": "5f56339ab829",
+    "title": "Electrical Engineer Intern (EE, RF, FPGA disciplines) - Phoenix Site",
+    "title_raw": "Electrical Engineer Intern (EE, RF, FPGA disciplines) - Phoenix Site",
+    "company": {
+      "slug": "acron-aviation",
+      "name": "Acron Aviation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Phoenix, AZ",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "acronaviation",
+      "external_id": "69dcdf12-38f2-41ab-81fb-9af7903e7329"
+    },
+    "apply_url": "https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T00:51:25.791Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:42:35.608Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Acron Aviation is seeking motivated and innovative Electrical Engineering interns to join our engineering teams in <b>Phoenix, Arizona.</b><br />This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.<br />Depending on the assigned location, team, and product line, interns may gain experience across electrical engineering disciplines such as analog, digital, power, radio frequency, high-speed circuitry, embedded systems, firmware, programmable logic, circuit card assemblies, and supporting cables or interfaces.<br />You will work alongside experienced engineers and collaborate with cross-functional teams while developing your technical, analytical, and professional skills.\nAcron Aviation is seeking motivated and innovative Electrical Engineering interns to join our engineering teams in <b>Phoenix, Arizona.</b><br />This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.<br />Depending on the assigned location, team, and product line, interns may gain experience across electrical engineering disciplines such as analog, digital, power, radio frequency, high-speed circuitry, embedded systems, firmware, programmable logic, circuit card assemblies, and supporting cables or interfaces.<br />You will work alongside experienced engineers and collaborate with cross-functional teams while developing your technical, analytical, and professional skills.\n<h3>What you will do</h3>Work under the guidance of experienced electrical, hardware, firmware, and RF engineers. Support the development, analysis, and review of electrical and electronic designs for aerospace and avionics applications. Assist with circuit card design activities, including requirements development, schematic capture, simulation, design review, and hardware integration. Support analog, digital, power, RF, microwave, and multifunction circuit designs based on project needs. Contribute to programmable logic and FPGA development activities, which may include firmware requirements, RTL coding using VHDL or Verilog, simulation, synthesis, timing analysis, and implementation. Assist with the development of simulation testbenches, verification procedures, board-level test procedures, and test scripts. Execute engineering tests using laboratory equipment such as oscilloscopes, logic analyzers, spectrum analyzers, vector network analyzers, signal generators, power meters, and power supplies. Collect, analyze, and summarize measurement data, test results, anomalies, and supporting technical evidence. Support hardware and FPGA bring-up, integration, troubleshooting, debugging, regression testing, and failure-reproduction activities. Participate in hardware, firmware, and software integration testing under engineering guidance. Support testing and analysis of RF performance characteristics that may include gain, noise figure, sensitivity, impedance matching, VSWR, spurious emissions, and harmonic emissions. Participate in design reviews, code reviews, peer reviews, technical discussions, defect investigations, and project status updates. Develop, modify, and maintain engineering documentation, including requirements, specifications, procedures, test results, and design records. Identify opportunities to improve simulation, verification, test efficiency, repeatability, automation, and documentation quality. Apply sound engineering judgment, attention to detail, and disciplined configuration control while working in a regulated aerospace environment.  \n<h3>Required Qualifications</h3>Currently pursuing a bachelor’s degree in Electrical Engineering, Computer Engineering, Aerospace Engineering, or a related engineering discipline. Foundational knowledge in one or more of the following areas: Analog or digital circuit design Electronic hardware development Digital logic or programmable logic RF, microwave, electromagnetics, or communication systems Embedded systems or computer architecture Basic understanding of the engineering development lifecycle, including requirements, design, implementation, integration, testing, verification, and documentation. Ability to follow detailed technical procedures and work safely with laboratory equipment. Strong analytical, troubleshooting, and problem-solving skills. Ability to document technical work and test results accurately. Effective written and verbal communication skills. Ability to work collaboratively in a team environment while completing assigned work with appropriate independence. Strong organizational skills, attention to detail, and willingness to ask questions and seek guidance when needed.  This position may require access to information, technology, software, or hardware that is subject to U.S. export control laws and regulations. To comply with these requirements, applicants must qualify as a U.S. Person \n<h3>Preferred Qualifications</h3>Student entering junior or senior year, graduate student, or recent graduate preparing for an entry-level electrical engineering role. Coursework, academic projects, student organization experience, prior internship experience, or personal projects involving electrical hardware, firmware, FPGA, or RF engineering. Experience developing or reviewing electrical schematics and working with circuit cards or electronic assemblies. Coursework or project experience using VHDL or Verilog, including state machines, synchronous design, and timing fundamentals. Exposure to FPGA development tools such as Xilinx Vivado or ISE, Intel Quartus, or similar tools. Experience with simulation tools such as ModelSim, QuestaSim, ADS, AWR, HFSS, or equivalent engineering applications. Familiarity with scripting languages such as Python or Tcl for test, build, or engineering automation. Familiarity with common digital interfaces and protocols such as SPI, I2C, UART, AXI, Ethernet, or DDR. Exposure to embedded processors, microcontrollers, or system-on-chip FPGA technologies. Experience using electronic or RF laboratory test equipment. Familiarity with RF concepts such as transmission lines, S-parameters, impedance matching, gain, noise figure, modulation, RF link budgets, or spectrum requirements. Familiarity with avionics products or technologies such as TCAS, transponders, TAWS, ADS-B Out, or ADS-B In. Demonstrated initiative, intellectual curiosity, and eagerness to learn in a collaborative engineering environment.  \n<b>Equal Opportunity Statement</b>Acron Aviation is proud to be an Affirmative Action and Equal Opportunity Employer. We are committed to treating all employees and applicants with respect and dignity and to maintaining a workplace free from unlawful discrimination. All applicants will be considered for employment regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or any other legally protected characteristic. <b>Additional Information:</b>Acron Aviation maintains a drug-free workplace and conducts pre-employment substance abuse testing and background checks, where allowed by law. Acron Aviation is an E-Verify employer",
+    "content_hash": "4615859c2fd03ff1947c83fb3721bc6e"
+  },
+  "5f5df84d6bf7": {
+    "id": "5f5df84d6bf7",
+    "title": "IT Service Desk Intern",
+    "title_raw": "IT Service Desk Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "b98359ff-2f74-4e48-a57a-81bb5f5ef7f5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T16:37:49.992Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>We’re looking for a <strong>IT Service Desk Intern</strong> to join our team during an exciting phase of growth. In this role, you’ll be responsible for <strong>supporting TensorWave’s Corporate IT team by providing Tier 1 technical support to employees and assisting with day-to-day service desk operations.</strong></p><p>This is a customer-facing role, and the most important qualification is strong customer service and interpersonal skills. The ideal candidate should be approachable, patient, empathetic, and comfortable working with employees who may have different levels of technical knowledge.</p><p><strong>What You’ll Do</strong></p><ul><li><p>Triage incoming support requests, resolve common technical issues, document solutions, and escalate more complex issues to the appropriate team member.</p></li><li><p>Monitoring and triaging service desk tickets, troubleshooting common hardware, software, account, access, and connectivity issues</p></li><li><p>Assisting with employee onboarding and offboarding activities</p></li><li><p>Supporting endpoint and asset management tasks</p></li><li><p>Maintaining IT documentation and knowledge base articles</p></li><li><p>Helping address the existing backlog of support tickets and operational projects.</p></li><li><p>Assist with inventory management, device preparation and deployment, account administration, software installation, access reviews, documentation cleanup, and other Corporate IT initiatives appropriate for an entry-level technical role</p></li></ul><p></p><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><ul><li><p>Strong customer service skills, empathy, patience, and professionalism</p></li><li><p>Clear written and verbal communication, attention to detail, and a willingness to learn</p></li><li><p>Able to listen carefully, understand the employee’s issue, communicate in a way that is easy to understand, and maintain a positive experience even when troubleshooting difficult or frustrating problems</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Prior IT experience is helpful but is not the primary requirement for this role.</p></li><li><p>Basic familiarity with computer hardware, operating systems, networking, Microsoft 365, Google Workspace, or ticketing systems is preferred, but technical skills can be developed through training and hands-on experience.</p></li></ul><p><strong>Internship Information</strong></p><ul><li><p>Paid Internship</p></li><li><p>May - August (12 weeks)</p></li><li><p>Tuesday - Friday, 8 hours</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "c223614871723afb86e591bbffa2db04"
+  },
+  "5fd2a3369b77": {
+    "id": "5fd2a3369b77",
+    "title": "Core Engineering Intern",
+    "title_raw": "Core Engineering Intern",
+    "company": {
+      "slug": "etched",
+      "name": "Etched",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "etched",
+      "external_id": "494546ec-de37-46a2-b450-692c23b7b0c8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T06:17:09.309Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.146Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2026
+    ],
+    "summary": null,
+    "description_html": "<p><strong>About Etched</strong><br />Etched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across prefill and decode. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, we're redefining the infrastructure layer for the fastest growing industry in history.</p><p><strong>Job Summary</strong><br />Core Engineering is our special projects team. This team identifies critical gaps across Etched and builds solutions 0 to 1, often in days, with immediate feedback loops. You might build internal tools to unblock a hardware team, prototype systems for manufacturing execution, or design, evaluate, and deploy agentic systems for our most challenging R&amp;D problems.</p><p>This role is for engineers who thrive on ambiguity, move fast without sacrificing quality, and get energy from solving whatever problem matters most right now. It is a whiteboard for future founders – if you're interested in shipping 0-1 production-level code every week, this role is for you.</p><p>This role requires exceptional full-stack engineering capabilities, deep product sense, personal accountability, and a knack for building from the ground up. At Etched, we're developing our processes for scale, and we're looking for engineers to deploy to our toughest challenges. The problems we solve are time-sensitive and business-critical. This role will not be a 9-5, and the ideal candidate is excited about that. This is not a shadowing program. You will own a real project, scoped to land in production and shape how Etched executes.</p><p><strong>You may be a good fit if you:</strong></p><ul><li><p>Have a track record of solving hard problems across stacks and domains — you enjoy being dropped into unfamiliar territory and figuring it out</p></li><li><p>Have something you built that you can walk us through in depth. Depth in one thing beats a list of ten</p></li><li><p>Are comfortable with Python and TypeScript: you can read it, modify it, debug it, and direct AI to write it well. We don't care whether you write code from scratch, but we do care whether you ship things that work</p></li><li><p>Have product sense and its necessary prerequisites, from AI tooling proficiency to design taste</p></li><li><p>Bias towards action and comfort with incomplete information</p></li></ul><p><strong>Strong candidates may also have:</strong></p><ul><li><p>Data engineering, infrastructure or DevOps experience, and deploying operational systems in enterprise environments</p></li><li><p>Experience wielding frontier models on frontier problems: an eval-driven mindset — you measure whether AI systems work, identify where they fall short, and know how to hillclimb</p></li><li><p>High agency and comfort with ambiguity — you find the real problem to solve</p></li><li><p>Prior startup experience, especially during hyper growth</p></li></ul><p>We encourage you to apply even if you do not believe you meet every qualification</p><p><strong>Program details</strong></p><ul><li><p>12-week paid internship (June - August 2026)</p></li><li><p>Generous housing support for those relocating</p></li><li><p>Daily lunch and dinner in our office</p></li><li><p>Based at our office in San Jose, CA</p></li><li><p>Direct mentorship from industry leaders and world-class engineers</p></li><li><p>Opportunity to work on one of the most important problems of our time</p></li></ul><p>For any questions, contact internships@etched.com</p><p><strong>How we're different</strong><br />Etched believes in the Bitter Lesson. We are the first inference-focused frontier AI system, betting early on transformer and transformer-like architectures and on increasing model sizes. Our addressable market is the entirety of inference.</p><p>We are a fully in-person team in San Jose and Taipei, and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.</p>",
+    "content_hash": "cef07e4ff0f911ff069efe8c92bfae77"
+  }
+}

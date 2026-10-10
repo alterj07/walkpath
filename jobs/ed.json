@@ -1,0 +1,82 @@
+{
+  "edd718bbccda": {
+    "id": "edd718bbccda",
+    "title": "Internship - Search Backend Infra Engineer",
+    "title_raw": "Internship - Search Backend Infra Engineer",
+    "company": {
+      "slug": "perplexity-ai",
+      "name": "Perplexity AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Belgrade",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "perplexity",
+      "external_id": "be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-01T12:19:30.009Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.771Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Perplexity is looking for a Backend/Infrastructure Engineer Intern to support our small, high-impact team building the systems that power our search experience. You will work closely with experienced engineers to help design, build, and operate robust infrastructure and backend services that keep Perplexity fast, reliable, and scalable.</p><p></p><p><em>Internship program: 12 - 24 weeks, full-time, part-time, in-person in the Belgrade office.</em></p><p></p><p><strong>Responsibilities:</strong></p><ul><li><p>Build and maintain infrastructure that supports high-performance search systems, with mentorship from senior engineers.</p></li></ul><ul><li><p>Design internal tools and automation to improve developer workflows and operational efficiency.</p></li></ul><ul><li><p>Support the design, deployment, and monitoring of cloud-native systems on AWS.</p></li></ul><ul><li><p>Contribute to improving CI/CD pipelines, testing infrastructure, and release processes.</p></li></ul><ul><li><p>Debug and optimize Linux-based services, containers, and backend systems.</p></li></ul><ul><li><p>Contribute to product codebases, primarily using Rust, Go or C++.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>Working towards a degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p></li></ul><ul><li><p>Familiarity with at least one programming language such as Go, Rust, or C/C++, through coursework or projects.</p></li></ul><ul><li><p>Basic understanding or exposure to cloud infrastructure (e.g. AWS) and Linux systems is a plus, not a requirement.</p></li></ul><ul><li><p>Interest in infrastructure, distributed systems, or backend engineering, with willingness to learn about CI/CD, monitoring, and performance.</p></li></ul><ul><li><p>A proactive and curious learner who enjoys collaborating in a fast-paced, innovative environment</p></li></ul><p><strong>What we're looking for: </strong></p><ul><li><p><strong>You’ve built something you’re proud of: </strong>Not just a class assignment - we want to see a project you genuinely cared about and took the initiative to build and finish.</p></li><li><p><strong>You’re currently enrolled at a Serbian university: </strong>Bachelor’s, Master’s, or PhD program or you’re self-taught with a strong passion for software engineering and technology.</p></li><li><p><strong>You’re curious, persistent, and self-driven: </strong>you take ownership, work through challenges, and follow through on what you start.</p></li><li><p><strong>You’re eager to learn and improve:</strong> you’re willing to put in the work, develop your skills, and get better every week.</p></li><li><p><strong>You’re comfortable working in English:</strong> in a collaborative, professional environment.</p></li><li><p><strong>You thrive in a high-performance environment: </strong>you’re comfortable with high standards, direct feedback, and a fast pace.</p></li><li><p><strong>You’re willing to challenge and be challenged: </strong>You’re comfortable asking questions, sharing your perspective, and pushing back constructively when it matters.</p></li></ul>",
+    "content_hash": "f42a24dbb33da044a14fdb9a450a6c0b"
+  },
+  "edf94ab06261": {
+    "id": "edf94ab06261",
+    "title": "Network Engineering Intern",
+    "title_raw": "Network Engineering Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "27d0af24-e945-4abe-ac7c-56db3c0e636d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/27d0af24-e945-4abe-ac7c-56db3c0e636d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T18:27:14.637Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>At TensorWave the cluster is the network: thousands of GPUs only train as one machine if the fabric between them is built and validated correctly.</p><p>We’re looking for a <strong>Network Engineering Intern </strong>to join our team during an exciting phase of growth. In this role, you will work with the engineers who bring those fabrics up, verifying cabling and links during real cluster deployments and writing the Python tooling that makes the next deployment faster and less error-prone. You will leave with code merged into the team’s repository and used on a live cluster.</p><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><p>This internship is open to three kinds of candidates. We evaluate all three against the same bar and none is a second-tier track.</p><ol><li><p><strong>Current students</strong></p><ul><li><p>Computer science, computer engineering, electrical engineering, IT, or network engineering programs. Homelabs, CTF teams, and open-source contributions count.</p></li></ul></li><li><p><strong>Transitioning service members and veterans</strong></p><ul><li><p>Communications, network, and cyber specialties map directly. Examples: Army 25-series signal; Navy IT; Air Force 1D7 cyber defense operations; USMC 06-series communications. Hands-on experience standing up and troubleshooting networks under pressure is exactly what we need.</p></li></ul></li><li><p><strong>Professionals returning after a career break</strong></p><ul><li><p>Network engineers, systems administrators, and IT operations professionals returning after a break. If your last role predates modern automation, that is what the internship is for.</p></li></ul></li></ol><ul><li><p>One of: current enrollment in a relevant program; military experience in communications, network, or cyber; or 2+ years of prior work as a network or systems engineer or administrator.</p></li><li><p>Solid networking fundamentals: TCP/IP, subnetting, Layer 2 versus Layer 3, and how routing works.</p></li><li><p>Some programming or scripting experience, Python preferred; comfort on the Linux command line.</p></li><li><p>Methodical troubleshooting: you isolate, test one variable, and write down what you found.</p></li><li><p>Able to travel to Data Center sites 1-2 times.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>CCNA, JNCIA, Network+, or equivalent.</p></li><li><p>BGP or EVPN lab experience; exposure to Arista EOS, SONiC, or other data center NOS.</p></li><li><p>Git, Ansible, or NetBox experience.</p></li><li><p>HPC or GPU cluster exposure; familiarity with RDMA or RoCE concepts.</p></li></ul><p><strong>Internship Information</strong></p><ul><li><p>Paid Internship</p></li><li><p>May - August (12 weeks)</p></li><li><p>Tuesday - Friday, 8 hours</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "73e92201d9c1c773e67d418388ffcbd2"
+  }
+}

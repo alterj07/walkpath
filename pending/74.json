@@ -1,0 +1,42 @@
+{
+  "74bd98c022cc": {
+    "id": "74bd98c022cc",
+    "title": "Trainee SAP Beratung und Entwicklung (m/w/d)",
+    "title_raw": "Trainee SAP Beratung und Entwicklung (m/w/d)",
+    "company": {
+      "slug": "aareon",
+      "name": "Aareon",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mainz",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aareon/Aareon",
+      "external_id": "JR101811"
+    },
+    "apply_url": "https://aareon.wd103.myworkdayjobs.com/Aareon/job/Mainz/Trainee-SAP-Beratung-und-Entwicklung--m-w-d-_JR101811",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:42:03.103Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Aareon is Europe’s established provider of SaaS solutions for the real estate industry and a pioneer of the sector’s digital future.<br />With its software solutions, Aareon connects people, processes, and properties—bringing the industry closer together. With the Aareon Property Management System, based on intelligent software solutions, the company enables the efficient management and maintenance of residential and commercial properties and creates digital experiences for all stakeholders.<br />As a reliable and innovative partner, Aareon is committed to progress, positive change, and sustainable living and working spaces for everyone.</p><p></p><p>We value a working environment in which diversity and flexibility are appreciated, cooperation in partnership and mutual support in the team are a matter of course and learning is perceived as an opportunity.</p><p></p><p>Become part of our international team! Become part of #OneAareon! We are looking forward to meeting YOU!</p><p></p><p>Starte mit uns in deine Zukunft in der SAP-Welt! </p><p></p><p>Du möchtest das ERP-System der Zukunft in internationaler Umgebung entwickeln und administrieren? Moderne SAP-Technologien findest du spannend und möchtest bei der Integration in eine Multicloud Umgebung teilhaben?  Dann ist unser <b>6-monatiges Traineeprogramm</b> genau der richtige Einstieg für dich. In einem strukturierten On-the-Job-Training lernst du die SAP-Welt von Grund auf kennen und entwickelst dich Schritt für Schritt zu einem festen Bestandteil unseres internen Beratungs- und Entwicklungsteams.</p><p></p><p><b>Deine Aufgaben </b></p><ul><li>Einarbeitung in die Entwicklung, Consulting und Administration moderner SAP-Technologien wie SAP S/4HANA und SAP BTP</li><li>Mitarbeit an der Planung und Entwicklung unserer internen SAP-Lösungen, speziell in den Modulen SAP-FI/CO, SAP-SD und SAP-PS</li><li>Planung und Umsetzung von Integrationen zwischen SAP und anderen Business-Applikationen (On-Premise und in der Cloud)</li><li>AI basierte Prozessoptimierungen zur Optimierung unserer Geschäftsprozesse</li><li>Analyse fachlicher Anforderungen, Erstellung und Umsetzung technischer Konzepte</li><li>Unterstützung bei Fehleranalysen, Tests und Qualitätssicherungsmaßnahmen </li><li>Zusammenarbeit mit internationalen Kollegen/Kolleginnen, Product Ownern und erfahrenen Entwicklern/Entwicklerinnen und Beratern/Beraterinnen in Europa und darüber hinaus</li></ul><p></p><p><b>Das bringst du mit </b></p><ul><li>Abgeschlossenes Studium der (Wirtschafts-)Informatik, Softwareentwicklung oder vergleichbare Qualifikation </li><li>Erste Programmiererfahrung, z. B. durch Studium, Praktika, Werkstudententätigkeiten oder private Projekte, idealerweise mit Programmiersprachen wie ABAP, Java oder Python</li><li>Interesse an SAP-Technologien und Geschäftsprozessen</li><li>Interesse an AI, AI-based Development und AI-based Software Development Lifecyle (AI-SDLC)</li><li>Erste Erfahrung in Projektmanagement und Organisation</li><li>Analytische Denkweise und Freude am Lösen technischer Herausforderungen </li><li>Sehr gute Deutsch- und Englischkenntnisse</li></ul><p></p><p><b>Das erwartet dich </b></p><ul><li>6-monatiges Traineeprogramm mit individuellem Entwicklungsplan </li><li>Praxisnahe Einarbeitung durch erfahrene Teammitglieder </li><li>Buddy- und Mentorenprogramm </li><li>Offene Unternehmenskultur mit Du-Kultur und flachen Hierarchien </li><li>Spannende Projekte mit frühzeitiger Übernahme eigener Aufgaben </li><li>30 Tage Urlaub und freie Tage am 24. und 31. Dezember</li><li>Work-Life-Balance durch flexibles und mobiles Arbeiten</li><li>Zukunftsorientierter Arbeitsplatz im Wachstumssegment der IT-Lösungen auf stabilem Fundament</li><li>Raum für persönliche Entwicklung durch individuelle Weiterbildung</li><li>JobRad für Arbeit und Freizeit</li><li>EGYM WellPass für deine Gesundheit und Fitness</li></ul><p></p><p><b>Bei uns zählt deine Persönlichkeit – unabhängig von Geschlecht, Nationalität, ethnischer Herkunft, Religion, sexueller Orientierung oder Behinderung. </b></p><p><b>Werde Teil von #OneAareon – wir freuen uns auf deine Bewerbung! </b></p><p></p><p>Note for commercial recruitment agencies: Aareon does not accept unsolicited applications or placement offers from recruitment agencies, headhunters, or consulting agencies. Unsolicited are all placement offers that have not been agreed in advance by a placement contract. This also applies to the transmission of anonymized profiles. Aareon accepts no liability for unsolicited profiles and is not obliged to take any action, respond, reply, or pay any fees. Thank you for your understanding.</p>",
+    "content_hash": "6ef5b8f14565b8f3b9a616f7fe2acfed"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "bfc5853337fd": {
+    "id": "bfc5853337fd",
+    "title": "Working Student - IT Support (all genders)",
+    "title_raw": "Working Student - IT Support (all genders)",
+    "company": {
+      "slug": "hrs",
+      "name": "HRS",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Cologne Office",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "hrs",
+      "external_id": "1f60b27a-567e-47e1-a670-900088697d5e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/hrs/1f60b27a-567e-47e1-a670-900088697d5e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T07:09:34.529Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.165Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": {
+      "min": 14.36,
+      "max": 14.36,
+      "currency": "EUR",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>ABOUT HRS</strong></p><p>HRS, the pioneer in business travel, aims to elevate every stay through innovative technology. With over 50 years of experience we reinvent how companies and travelers Stay, Work, and Pay.</p><p>The lodging and meeting management market is sizable and growing rapidly - yet it's still underserved by technology players. That's where HRS comes in. We challenge legacy structures and cut through complexity.</p><p>Our Platform applications seamlessly plug into any of our customer's tech stacks. They are powered by our AI-enabled platform, which turns fragmented data from the entire ecosystem into enriched level 3 data. Built on proprietary language models, our technology delivers real-time actionable insights and automation that works. The result: A competitive edge customers won't want to miss – cost savings, higher traveller satisfaction and increase in compliance.</p><p>Our business model is equally compelling. Strong customer lock-in and a SaaS model with recurring revenues and high margins drive a long-term growth pathway and high profitability. At HRS, we make business life better by reinventing how companies work and stay. That's why HRS's exponential growth since 1972 serves over 35% of the global Fortune 500 and leading hotel chains.</p> <p><strong>BUSINESS UNIT</strong></p><p>Join our Corporate IT team, the technology backbone of HRS, enabling our people and business to work securely, efficiently, and at scale. We provide and continuously evolve the digital workplace, IT services, identity and access, collaboration platforms, endpoint management, and cloud technologies that power HRS across locations. Working closely with business teams and technology partners, we turn business needs into reliable, scalable, and user-focused technology solutions.</p> <p>We go beyond traditional IT support by combining service management, workplace technology, Microsoft 365, cloud, identity, security, and technology operations into an integrated IT ecosystem. Through automation, standardization, self-service, and continuous improvement, we simplify the employee experience, strengthen operational resilience, and create a scalable technology foundation that supports HRS's ongoing transformation and growth.</p><p></p><h3><strong>POSITION</strong></h3> <p>We are looking for a motivated Working Student IT Support to join our Corporate IT team in Cologne. In this role, you will support daily IT operations and help deliver an excellent technology experience to our employees. You will gain hands-on experience across end-user support, workplace technology, mobile device management, access management, and office IT infrastructure.<br />This position is ideal for students pursuing a degree in Information Technology, Computer Science, Business Informatics, or a related field who are eager to develop practical experience in an international corporate IT environment.</p>  <h3><strong>CHALLENGE</strong></h3> <ul><li><p>Provide first-level IT support for employees and assist with hardware, software, and Microsoft 365 related issues.</p></li><li><p>Support employee onboarding and off-boarding, including device preparation, asset tracking, and workplace setup.</p></li><li><p>Manage and maintain user hardware, including laptops, monitors, accessories, and mobile devices.</p></li><li><p>Support Mobile Device Management (MDM) activities, device enrolment, compliance, and basic Intune administration.</p></li><li><p>Prepare and support meeting rooms, conference technology, and larger company meetings or events.</p></li><li><p>Assist with door access management, ID cards, permissions administration, and general IT operational tasks</p></li></ul> <h3><strong>FOR THIS EXCITING MISSION YOU ARE EQUIPPED WITH...</strong></h3> <ul><li><p>Currently enrolled in an undergraduate or graduate degree programme in IT, Computer Science, Information Systems, Business Informatics, or a comparable discipline</p></li><li><p>Strong interest in enterprise IT support and workplace technologies</p></li><li><p>Basic understanding of Windows devices and Microsoft 365</p></li><li><p>Strong communication skills and customer-oriented mindset</p></li><li><p>Fluency in English; German is an advantage</p></li><li><p>Ability to work independently and manage multiple tasks</p></li><li><p>Familiarity with Microsoft Intune and Entra ID</p></li><li><p>Experience with Microsoft Teams and Teams Rooms</p></li><li><p>Previous experience in IT support, service desk, or technical troubleshooting</p></li></ul> <p><strong>Join the team!</strong></p>",
+    "content_hash": "ce070fac63b9cda57ffeedbaf2635828"
+  }
+}

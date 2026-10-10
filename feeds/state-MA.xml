@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WalkPath: tech internships in MA</title>
+  <id>https://walkpath.vercel.app/feeds/state-MA.xml</id>
+  <link rel="self" type="application/atom+xml" href="https://walkpath.vercel.app/feeds/state-MA.xml"/>
+  <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/"/>
+  <updated>2026-10-10T03:22:07.910Z</updated>
+  <generator>WalkPath</generator>
+  <entry>
+    <id>urn:walkpath:job:cf07b293984d</id>
+    <title>Intern - NRad &amp; Nuclear/Systems Engineer - Summer 2027 @ Commonwealth Fusion Systems</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/cf07b293984d"/>
+    <updated>2026-10-09T18:33:20.890Z</updated>
+    <published>2026-10-09T18:33:20.890Z</published>
+    <author><name>Commonwealth Fusion Systems</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">About Commonwealth Fusion Systems: Commonwealth Fusion Systems is on a mission to deliver the urgent transition to fusion energy. Combining decades of research, top talent, and new technologies, we’re designing and building commercially viable fusion power plants. And we&apos;re working with…</summary>
+    <content type="text">Commonwealth Fusion Systems · Devens, MA
+
+Season: Summer 2027
+
+About Commonwealth Fusion Systems: Commonwealth Fusion Systems is on a mission to deliver the urgent transition to fusion energy. Combining decades of research, top talent, and new technologies, we’re designing and building commercially viable fusion power plants. And we&apos;re working with…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:ab77c6663049</id>
+    <title>Mechanical Engineer Internship, Robotics Hardware @ Field AI</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/ab77c6663049"/>
+    <updated>2026-10-06T00:33:04.676Z</updated>
+    <published>2026-10-06T00:33:04.676Z</published>
+    <author><name>Field AI</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Field AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure…</summary>
+    <content type="text">Field AI · Boston, MA
+
+Field AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:795cea9ee6eb</id>
+    <title>ServiceNow Engineering Co-op @ RapDev</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/795cea9ee6eb"/>
+    <updated>2026-09-29T17:17:54.485Z</updated>
+    <published>2026-09-29T17:17:54.485Z</published>
+    <author><name>RapDev</name></author>
+    <category term="it_cloud_security" label="IT / Cloud / Security"/>
+    <summary type="text">About RapDev:RapDev builds the operational backbone for autonomous IT. More than 1,000 enterprises run ServiceNow and Datadog better because of us — trusted data, connected workflows, and AI that resolves incidents instead of just reporting them. On the ServiceNow side of our business, we…</summary>
+    <content type="text">RapDev · Boston, MA
+
+About RapDev:RapDev builds the operational backbone for autonomous IT. More than 1,000 enterprises run ServiceNow and Datadog better because of us — trusted data, connected workflows, and AI that resolves incidents instead of just reporting them. On the ServiceNow side of our business, we…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:15d4bf07f2b8</id>
+    <title>Robotics Research Internship, Humanoid Manipulation (Summer 2027) | PhD Internship @ Field AI</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/15d4bf07f2b8"/>
+    <updated>2026-09-27T14:50:32.343Z</updated>
+    <published>2026-09-27T14:50:32.343Z</published>
+    <author><name>Field AI</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">FieldAI is transforming how robots interact with the real world. Our growing R&amp;D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that…</summary>
+    <content type="text">Field AI · Boston, MA
+
+Season: Summer 2027
+
+FieldAI is transforming how robots interact with the real world. Our growing R&amp;D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:cb37cb0d8db3</id>
+    <title>Robotics Research Internship, Humanoid Manipulation (Spring 2027) | PhD Internship @ Field AI</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/cb37cb0d8db3"/>
+    <updated>2026-09-27T14:49:13.382Z</updated>
+    <published>2026-09-27T14:49:13.382Z</published>
+    <author><name>Field AI</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">FieldAI is transforming how robots interact with the real world. Our growing R&amp;D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that…</summary>
+    <content type="text">Field AI · Boston, MA
+
+Season: Spring 2027
+
+FieldAI is transforming how robots interact with the real world. Our growing R&amp;D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:6c6fb4e9c878</id>
+    <title>Chemical Synthesis Engineer/Scientist Co-op @ Lydian</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/6c6fb4e9c878"/>
+    <updated>2026-09-17T16:12:55.698Z</updated>
+    <published>2026-09-17T16:12:55.698Z</published>
+    <author><name>Lydian</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Company OverviewLydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel…</summary>
+    <content type="text">Lydian · Boston, MA
+
+Season: Spring 2026
+
+Company OverviewLydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:b436935e8173</id>
+    <title>Coatings Engineer/Scientist Co-op @ Lydian</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/b436935e8173"/>
+    <updated>2026-09-17T16:12:42.549Z</updated>
+    <published>2026-09-17T16:12:42.549Z</published>
+    <author><name>Lydian</name></author>
+    <category term="software_engineering" label="Software Engineering"/>
+    <summary type="text">Company OverviewLydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel…</summary>
+    <content type="text">Lydian · Boston, MA
+
+Season: Spring 2026
+
+Company OverviewLydian is developing the lowest cost sustainable fuels from waste CO2, water, and renewable electricity to decarbonize the aviation industry. Our breakthrough technology replaces oil and gas refining with fully electrified, modular, and flexible reactor systems that produce fuel…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:3b8d101d5e64</id>
+    <title>Data Operations Intern (Summer 2027) @ Cyvl</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/3b8d101d5e64"/>
+    <updated>2026-09-16T21:48:22.961Z</updated>
+    <published>2026-09-16T21:48:22.961Z</published>
+    <author><name>Cyvl</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…</summary>
+    <content type="text">Cyvl · Boston, MA +1 more
+
+Season: Summer 2027
+
+ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:ec5bfd245595</id>
+    <title>Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027) @ Cyvl</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/ec5bfd245595"/>
+    <updated>2026-09-14T16:35:32.164Z</updated>
+    <published>2026-09-14T16:35:32.164Z</published>
+    <author><name>Cyvl</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…</summary>
+    <content type="text">Cyvl · Boston, MA +1 more
+
+Season: Summer 2027
+
+ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:7af12645ebd6</id>
+    <title>Software Engineering Intern - SWE/ML (Summer 2027) @ Cyvl</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/7af12645ebd6"/>
+    <updated>2026-09-14T16:14:44.979Z</updated>
+    <published>2026-09-14T16:14:44.979Z</published>
+    <author><name>Cyvl</name></author>
+    <category term="data_ml_ai" label="Data / ML / AI"/>
+    <summary type="text">ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…</summary>
+    <content type="text">Cyvl · Boston, MA +1 more
+
+Season: Summer 2027
+
+ABOUT CYVLThe best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can&apos;t see it.Cyvl is the Physical AI company changing that. We build purpose-built…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:df160784d380</id>
+    <title>Co-Op, Thermal Test Engineer, Fall 2026 (July-December) @ Alloy Enterprises</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/df160784d380"/>
+    <updated>2026-03-25T21:04:53.149Z</updated>
+    <published>2026-03-25T21:04:53.149Z</published>
+    <author><name>Alloy Enterprises</name></author>
+    <category term="hardware_embedded" label="Hardware / Embedded / EE"/>
+    <summary type="text">Cooling performance limits high-power computing, semi-conductor fab, cell networks, photonics, power electronics, and most of our digital world. Alloy Enterprises enables customers to break through these constraints with novel complex metal components that dramatically improve heat dissipation in…</summary>
+    <content type="text">Alloy Enterprises · Burlington, MA
+
+Season: Fall 2026
+
+Cooling performance limits high-power computing, semi-conductor fab, cell networks, photonics, power electronics, and most of our digital world. Alloy Enterprises enables customers to break through these constraints with novel complex metal components that dramatically improve heat dissipation in…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+  <entry>
+    <id>urn:walkpath:job:f8cef0395f9a</id>
+    <title>Research Engineer Intern @ Hiverge</title>
+    <link rel="alternate" type="text/html" href="https://walkpath.vercel.app/job/f8cef0395f9a"/>
+    <updated>2025-12-03T10:59:18.894Z</updated>
+    <published>2025-12-03T10:59:18.894Z</published>
+    <author><name>Hiverge</name></author>
+    <category term="quant_research" label="Quant / Research"/>
+    <summary type="text">Who we areAt Hiverge, our mission is to build algorithmic superintelligence: an AI discovery engine that automatically writes algorithms for the most critical optimisation problems.Our founding team is composed of world-class researchers from Google DeepMind and University of Cambridge, having…</summary>
+    <content type="text">Hiverge · Cambridge, MA
+
+Who we areAt Hiverge, our mission is to build algorithmic superintelligence: an AI discovery engine that automatically writes algorithms for the most critical optimisation problems.Our founding team is composed of world-class researchers from Google DeepMind and University of Cambridge, having…
+
+Legitimate employers never ask for payment, bank details, or your SSN before an offer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,127 @@
+{
+  "5e205fbdd9a0": {
+    "id": "5e205fbdd9a0",
+    "title": "2027 Internship - Product Test Engineer",
+    "title_raw": "2027 Internship - Product Test Engineer",
+    "company": {
+      "slug": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "eu:cirrus",
+      "external_id": "46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e"
+    },
+    "apply_url": "https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T23:05:06.928Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:03.934Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "no",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! \nFor over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career! <br />We are looking for a highly motivated intern to join our Product Test Engineering team, where you’ll play a key role in developing production test solutions for the high-volume manufacture of complex mixed-signal semiconductors used in cutting-edge consumer audio devices.\n \nThis internship offers a unique opportunity to work at the intersection of design, validation, and manufacturing, helping to ensure our products meet the highest standards of performance, reliability, and scalability. You’ll be part of a multi-functional team focused on developing innovative test methodologies and driving improvements in device testability and production efficiency. \n<p>We recruit interns year-round for Spring, Summer, and Fall 2027 opportunities. Each internship lasts 12–16 weeks and follows a full-time schedule.<br /><br /><em>This role does not offer visa sponsorship.</em></p>\n\n<h3>Responsibilities</h3>\nAssist engineers in the development and production of mixed-signal and analog ICs. \nPerform electrical bench testing and automated test equipment (ATE) analysis. \nDesign and build test hardware for validation and characterization. \nCollect, analyze, and summarize performance and yield data. \nSupport yield enhancement and cost reduction initiatives for ramping products. \nContribute to New Product Introduction (NPI) efforts including matrix lot reviews, GRR, CPK analysis, and production hardware buy-off. \nCollaborate with cross-functional teams to manage production ramp deliverables and timelines. \n\n<h3>Required Skills and Qualifications</h3>\nPursuing a BS in Electrical Engineering or a related field. \nExperience with mixed-signal product engineering and IC testing. \nProficiency with lab equipment (oscilloscopes, multimeters, waveform generators, power supplies). \nStrong verbal and written communication skills. \nDemonstrated problem-solving mindset and persistence in tackling complex challenges. \nKnowledge of yield analysis and statistical techniques (e.g., ANOVA, Regression, GRR). \nFamiliarity with data analysis tools such as Spotfire, JMP, Excel, and PDF. \nUnderstanding of high-volume production ramps and test hardware debugging. \n\n<h3>Preferred Skills and Qualifications</h3>\nExperience with Teradyne UFlex, Excerra, or Catalyst test systems. \nKnowledge of Linux/Unix shell scripting. \nFamiliarity with IC or board-level test and failure analysis methodologies. \n\nCirrus Logic follows a 2+ day in-office work schedule but interns should expect to be in the office more often, up to 5 days per week, based on business needs and team preference. Interns must be based within commutable distance of the work location listed on the job posting, or willing to relocate prior to beginning their internship with Cirrus Logic.\n \nExport control restrictions based upon applicable laws and regulations would prohibit candidates who are nationals of certain embargoed countries from working in this position without Cirrus Logic first obtaining an export license.  Candidates for this role must be able to access technical data without a requirement for an export license. We are unable to sponsor or obtain export licenses for this role.\n \nCirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.",
+    "content_hash": "b9373b4b96b01946f7afc16d90ea94b7"
+  },
+  "5e5d6c4d3d25": {
+    "id": "5e5d6c4d3d25",
+    "title": "Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d)",
+    "title_raw": "Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d)",
+    "company": {
+      "slug": "phlair",
+      "name": "Phlair",
+      "domain": ""
+    },
+    "location": {
+      "raw": "München",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "phlair",
+      "external_id": "8021960b-1e19-406b-99c2-bac26fbe2c86"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T06:51:38.613Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.842Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Shape the Future of Climate Tech with Phlair!</strong></p><p><strong>Fossil fuels have powered our economy for decades—at the cost of pollution and a changing climate. At Phlair, we’re reversing that equation. With our cost-efficient, scalable electrochemical Direct Air Capture (DAC) technology, we pull CO₂ from the air to either store it permanently or repurpose it into CO₂-negative chemicals. Join us in enabling a carbon-negative future.</strong></p><p></p><h3><strong>Why We’re Different?</strong></h3><p>We’ve developed a <strong>breakthrough hydrolizer</strong> for acid/base regeneration, enabling scalable CO₂ capture. With partners like <strong>Frontier Climate</strong>, <strong>Stripe</strong>, and <strong>Shopify</strong>, we’re on track to make a global impact.</p><p>Our <strong>Project Dawn</strong> is our flagship initiative, setting the foundation to scale our technology and remove millions of tons of CO₂ from the atmosphere. We're one of the only seven DAC companies with a proven offtake agreement. Phlair is poised to become a technology leader, leveraging <strong>renewable energy</strong> and <strong>low-cost DAC</strong> to provide clean energy solutions that go beyond carbon removal.</p><p></p><h3><strong>Your Mission at Phlair</strong></h3><ul><li><p><strong>IoT &amp; Data Infrastructure:</strong> Build and manage the pipeline capturing data from our Beckhoff PLCs via OPC-UA and other fieldbus technologies.</p></li><li><p><strong>Database Mastery:</strong> Structure and maintain the databases (e.g., InfluxDB, PostgreSQL) that store our experimental data, ensuring it is clean and scalable.</p></li><li><p><strong>Visualization &amp; \"Deep Insight\" Tools:</strong> Own our Grafana stack. Create intuitive dashboards that allow our scientists to compare different experiments in a highly visual and seamless fashion.</p></li><li><p><strong>Full-Stack Automation:</strong> Develop internal tools and AI-enabled workflows (using Python or Claude Code) to automate the transition from raw experiment to reported insight.</p></li></ul><p><strong>System Reliability:</strong> Take responsibility for the health of our data flow from the sensor level to the cloud—no data gaps, no downtime.</p><p></p><h3><strong>What You Bring to the Team</strong></h3><ul><li><p><strong>Education:</strong> Currently enrolled or completed studies in <strong>Computer Science, Mechatronics, Electrical Engineering,</strong> or a related technical field.</p></li><li><p><strong>The \"Control\" Toolkit:</strong> </p><ul><li><p>Proven experience with Databases and Grafana.</p></li><li><p>Understanding of IoT architectures and industrial protocols (OPC-UA / Beckhoff PLC experience is a massive plus).</p></li><li><p>Proficient in Python for data processing and automation.</p></li></ul></li><li><p><strong>High Ownership:</strong> You thrive in unstructured environments. You don't wait for a manual; you write it.</p></li><li><p><strong>Attention to Detail:</strong> You understand that in hardware-software integration, the smallest configuration error can invalidate weeks of testing.</p></li><li><p><strong>Commitment:</strong> Available on-site for at least <strong>6 months</strong>.</p></li><li><p><strong>Adaptability:</strong> You will get pulled in to side quests often when hands are needed, especially in mechanical build out</p></li></ul><ul><li><p><strong>Bridge the Gap:</strong> You possess the ability to translate complex scientific requirements into robust technical specifications. You listen to the needs of the lab and deliver solutions that solve their specific pain points.</p></li></ul><p></p><h3><strong>How we work at Phlair</strong></h3><ul><li><p><strong>Onsite &amp; Collaborative</strong>: Our offices in Ismaning, Germany, house our pilot plant, where we work physically on our product every day. The team collaborates closely in the office, five days a week.</p></li></ul><p></p><h3><strong>What We Offer?</strong></h3><ul><li><p><strong>Competitive salary and stock options</strong> to share in the company’s success</p></li><li><p><strong>30 vacation days</strong>, including 2 days of recreational leave</p></li><li><p><strong>Public transport</strong> pass for all of Germany</p></li><li><p><strong>Relocation</strong> support to help you settle into Munich</p></li><li><p><strong>Fitness and wellness</strong> benefits to keep you at your best</p></li><li><p><strong>Fresh team lunches</strong>, prepared by our amazing chef, Amelie</p></li><li><p><strong>Direct leadership access</strong> to our CEO, CTO, and CSO</p></li></ul><p></p><h3><strong>🔗 Learn more about Phlair</strong></h3><ul><li><p>Our Mission, Vision and Team</p></li><li><p>Phlair Secures Frontier’s First Electrochemical DAC Deal</p></li><li><p>Technology Behind Phlair</p></li><li><p>The Future of DAC</p></li></ul><p>------</p><p><strong>Not ticking every box? No problem.</strong> We value potential and are open to considering a combination of education and experience instead of strictly following the listed requirements. If you believe you're a good fit for the role, even if your background differs slightly, please feel free to explain and highlight your key spikes in your career in your application.</p><p><em>We are committed to build a high-performing team where people feel a strong sense of care, can be their selves, and are able to reach their full potential. If there’s anything we can do to make our hiring process more accessible or to better support you, please let us know, we’re happy to accommodate.</em></p>",
+    "content_hash": "f8a8b2f14aad5967eefbb8a5322faec6"
+  },
+  "5ee9d0a3667c": {
+    "id": "5ee9d0a3667c",
+    "title": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
+    "title_raw": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
+    "company": {
+      "slug": "hermeus",
+      "name": "Hermeus",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "hermeus",
+      "external_id": "b7babdb5-64ee-49ad-a193-918d6a31c462"
+    },
+    "apply_url": "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T14:07:12.921Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:57:54.060Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.\nHermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.<br /><h3>About The Role: </h3>\nAs an Avionics Electrical Engineering Intern you will help shape the future of commercial supersonic and hypersonic flight. Our team is responsible for the design, testing, and integration of GNC systems, electrical hardware, control software, power distribution, and RF communications.\n \n\nSpring: Around 16 weeks (January - April)\nSummer: Around 12 weeks (May - August)\n\n<h3>Responsibilities:</h3>\nConduct physical testing of subsystems and validate performance against requirements \nDevelop and maintain detailed wire diagrams for subsystem integration \nSet up and configure hardware in lab environments for testing and validation \nPerform end-to-end subsystem testing, ensuring full integration of electrical, hardware, and software components \nCollaborate with cross-functional teams (software, electrical, and mechanical engineering) to troubleshoot and resolve integration issues \nDocument test results, integration procedures, and system configurations \nYou'll take charge of designing and testing custom electrical systems for both ground test and flight applications. \nYou will ensure the seamless integration and compatibility of your designs at the sub-system and integrated system level. \n\n<h3>Requirements:</h3>\nPursuing a degree in Computer Engineering, Electrical Engineering, or a related technical field. \nEntry level experience of C++, C, or other embedded programming languages.  \nExperience with working with hardware integrations and embedded computers (Raspberry PIs, arduinos, STM32s).  \nStrong understanding of engineering first principles \nDemonstrated ability to work within cross-functional teams \nEnthusiasm for aviation and Hermeus' mission \nExcellent written and verbal communication skills \nGPA of 3.0 or above \n\n\n\n<p>The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.</p>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n<li><strong>Time Off:</strong> Interns are eligible for 5 days of sick leave and unpaid time off.</li>\n<li><strong>Office Perks:</strong> Weekly paid office lunches and fully stocked breakrooms.</li>\n</ul>\n\n \n<strong>U.S. EXPORT CONTROL COMPLIANCE STATUS</strong> \nThe person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. \n \n<strong>EQUAL OPPORTUNITY</strong>\nHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.\n<br />#LI-JC3",
+    "content_hash": "055cc14de375fae9ebbfbca47c3f5ebc"
+  }
+}

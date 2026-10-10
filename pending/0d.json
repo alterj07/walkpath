@@ -1,0 +1,42 @@
+{
+  "0dfa572a8a2b": {
+    "id": "0dfa572a8a2b",
+    "title": "Deployments Operations Intern",
+    "title_raw": "Deployments Operations Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "7be0dc29-e42c-4a1f-8512-fd94c13aabf2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-15T14:21:41.748Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>The Deployments Operations team is responsible for the logistics and coordination that make Base installs happen on time and on schedule—managing scheduling, crew coordination, inventory flow, and communication across field, warehouse, and customer touchpoints. We solve the difficult, high-impact problems that determine whether crews show up to job sites ready to work. Joining this team means owning processes that directly impact Base's ability to scale and deliver on its mission.</p><p></p><h3>What You'll Do</h3><ul><li><p>Support scheduling and coordination of installation appointments across field crews and customers.</p></li><li><p>Help track inventory and equipment logistics to ensure crews have what they need, when they need it.</p></li><li><p>Assist in identifying bottlenecks in the deployment pipeline and proposing process improvements.</p></li><li><p>Support communication and coordination between field teams, warehouse staff, and customers.</p></li><li><p>Help define and monitor KPIs related to deployment efficiency and on-time performance.</p></li><li><p>Contribute to documentation and standard operating procedures as the team scales into new markets.</p></li><li><p>Support ad hoc projects aimed at improving the speed and reliability of the deployment process.</p></li></ul><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "e10a18b043aaa1c740b261f449692c32"
+  }
+}

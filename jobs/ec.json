@@ -1,0 +1,259 @@
+{
+  "ec3820635ead": {
+    "id": "ec3820635ead",
+    "title": "AI Research Intern: Foundation Models - IMMEDIATE START",
+    "title_raw": "AI Research Intern: Foundation Models - IMMEDIATE START",
+    "company": {
+      "slug": "graymatter-robotics",
+      "name": "GrayMatter Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles - HQ",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "graymatter-robotics",
+      "external_id": "dea0f08d-ebf5-4e55-b9cb-e6302014f429"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-26T00:39:41.564Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.223Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Immediate",
+    "salary": {
+      "min": 40,
+      "max": 50,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Summary</strong></p><p>GrayMatter Robotics is a well-capitalized Physical AI company headquartered in Los Angeles, building Factory SuperIntelligence (FSI) through systems that learn, adapt, and develop genuine process intelligence across every part they touch. Our robots take on the tedious, hazardous, and ergonomically demanding work that has kept manufacturing dependent on a shrinking skilled workforce, delivering superhuman performance. Robotics has a demo problem. GMR doesn't. Our systems are in active production today, adapting autonomously to real geometries, real materials, and real process variation without reprogramming. We deliver our system through a Robots-as-a-Service (RaaS) model that converts capital expenditure into an operating subscription, making Physical AI accessible to the manufacturers who need it most. We hire people who want to solve hard physical problems at an industrial scale.</p><p></p><p>As the <strong>AI Research Intern: Foundation Models</strong>, you will join the Special Projects: AI team, a cross-functional group responsible for designing, building, and operationalizing AI capabilities across GMR’s products and customer deployments. The team operates end-to-end from problem formulation and data strategy to model development, simulation, deployment, and long-term performance monitoring collaborating closely with robotics software, solutions engineering, applications, process engineering, hardware, and deployment teams. The team’s mandate is to ensure that AI systems scale across processes, customers, and sites, and perform reliably on real robots in real factories, today, not just in controlled demonstrations.</p><p></p><p><em><strong>PLEASE NOTE: This is an immediate start of a full-time, onsite internship position.</strong></em></p><p></p><p><strong>What to Expect</strong></p><ul><li><p>Work with the Special Projects AI team to work on next generation of foundation models that power GrayMatter Robotics Solutions (FSI)</p></li><li><p>Take on real, complex, ambiguous problems and work through them on accelerated timelines, largely independently</p></li><li><p>Develop foundation models for high precision manufacturing applications with multi-modal data beyond Vision or Force alone</p></li><li><p>Validate models through rigorous testing on real world industrial robots and actual production parts</p></li><li><p>Own the entire project lifecycle: data curation, simulation, model training, evaluation and robot deployment</p></li><li><p>Write maintainable, production quality code for internal R&amp;D</p></li></ul><p></p><p><strong>Export Control Requirements</strong></p><p>In order to comply with the export regulations of the United States Government, it is required that the applicant must fall under one of the following categories: (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (i.e. current green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158.</p><p></p><p><strong>What You’ll Bring</strong></p><ul><li><p>Currently remotely pursuing a PhD in Robotics, AI, Computer Science, Mechanical Engineering, Electrical Engineering or related fields</p></li><li><p>Research experience in Foundation Models for robot manipulation applications</p></li><li><p>Proficiency in Python and at least one deep learning framework: PyTorch is preferred</p></li><li><p>Strong working knowledge and deep understanding of current World Models and Foundation Model Research</p></li><li><p>Demonstrated experience working with simulation environments and/or physics-based modeling for robotics (e.g. Isaac Lab or MuJoCo)</p></li><li><p>Experience with reinforcement learning, imitation learning, or policy optimization for robotic manipulation or process control</p></li><li><p>Experience with robotics middleware and tooling (e.g., ROS/ROS2) and deployment on real robotic hardware</p></li><li><p>A publication track record in venues such as ICRA, CoRL, RSS, IROS, RA-L, or T-RO, balanced with a strong bias toward real-world production impact</p></li></ul><p></p><p><strong>Nice to Have’s</strong></p><ul><li><p>Experience with VLA/VLM training</p></li><li><p>Experience with industrial manipulators and demonstration of research deployed in industrial environments</p></li></ul><p></p><p><em>GrayMatter Robotics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. We celebrate diversity and are committed to creating an inclusive environment for all employees. We encourage and embrace applicants of all backgrounds to apply!</em></p><p></p><p><em>GrayMatter Robotics is committed to providing reasonable accommodations for candidates with disabilities. If you believe you require accommodations during the recruiting process, please contact accommodations@graymatter-robotics.com to submit your request.</em></p><p></p><p><em>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</em></p><p></p><p><em>Depending on the position and if listed, compensation may include the base salary range, bonus or commission, and equity. We also provide comprehensive benefits and perks which include but are not limited to medical, dental, vision, unlimited PTO, 401(k) plan + employer match, regular offsite events, a discretionary fund for enhancing productivity and so much more! The range listed on job postings reflect the minimum and maximum new hire salary across levels in Los Angeles, CA.</em></p>",
+    "content_hash": "f30d51c480734359bf192e1116ba7fcf"
+  },
+  "ec400b4afef5": {
+    "id": "ec400b4afef5",
+    "title": "Civil/Site Engineering Internship - Summer 2027",
+    "title_raw": "Civil/Site Engineering Internship - Summer 2027",
+    "company": {
+      "slug": "benesch",
+      "name": "Benesch",
+      "domain": "benesch.com"
+    },
+    "location": {
+      "raw": "Glastonbury, CT",
+      "city": "Glastonbury",
+      "state": "CT",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "alfredbeneschco",
+      "external_id": "5226253007"
+    },
+    "apply_url": "https://www.benesch.com/job-openings/5226253007?gh_jid=5226253007",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-29T13:56:23.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:47.484Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Simply Put, A Great Place to Work</h3>\n<p>Benesch is a growing, multi-disciplined planning, engineering, and professional services firm. We enhance infrastructure and communities across the country – creating spaces and providing connections in ways that make a difference.</p>\n<p>We pride ourselves on being nimble enough to remain responsive to client needs yet large enough to offer exceptional bench strength. As a member of our team, you’ll have an opportunity to draw from those resources when you need them and, likewise, contribute your expertise when you have something to share.</p>\n<p>At Benesch, we are looking for candidates with varied backgrounds and worldviews. We are committed to offering an inclusive work environment where everyone feels valued and respected. Statistics show that women and underrepresented groups are less likely to apply for a position if they don’t meet 100% of the qualifications. If this statement resonates with you, don’t be so hard on yourself—apply for the job!</p>\n<h3>Civil/Site Engineering Internship - Summer 2027</h3>\n<p>As a Civil/Site Engineering Intern, you will gain hands-on experience supporting the planning, design, and development of civil engineering projects. Working alongside experienced engineers and project managers, you will contribute to site investigations, technical drafting, data analysis, project design, and construction support.</p>\n<p>This internship provides exposure to real-world projects that help shape communities while offering valuable insight into civil engineering design, project development, regulatory requirements, and construction practices. You may participate in site visits to assess existing conditions and verify that construction aligns with engineering plans, while also assisting with feasibility studies, site assessments, permitting research, and project documentation. In the office, you will support engineers with site layouts, grading and drainage plans, stormwater management systems, utility design, and other civil infrastructure improvements. You may also assist with preparing and updating technical drawings using AutoCAD and Civil 3D, compiling and analyzing project data, maintaining project documentation, and contributing to technical reports and project deliverables.</p>\n<h4>Location</h4>\n<p>This internship will be based in our Glastonbury, CT office with opportunities for field visits, mentorship, and collaboration with multidisciplinary teams.</p>\n<h4>What We Are Looking For</h4>\n<ul>\n<li>Pursuing a bachelor’s degree in Civil Engineering or a related field</li>\n<li>Familiarity with AutoCAD and Civil 3D is preferred but not required</li>\n<li>Strong communication, organizational, and problem-solving skills</li>\n<li>Previous internship, co-op, or field experience is a plus, but not required</li>\n<li>Ability to work both independently and collaboratively within a team environment</li>\n<li>Interest in civil/site engineering, land development, infrastructure, and the built environment</li>\n</ul>\n<p>At Benesch, our commitment to innovation and collaboration extends beyond our projects. We believe in nurturing talent from the ground up, making it a core part of our values. Whether you’re seeking your first internship or ready for the next step in your budding career, Benesch is hiring individuals to join our dynamic teams across the country!</p>\n<h3>Why Benesch</h3>\n<p>It’s simple. We invest in our people, not just our projects.</p>\n<ul>\n<li>Career growth that’s real with leadership development, training, and clear paths forward</li>\n<li>Strong financial future with up to <strong>9% retirement contribution</strong> for benefit-eligible employees</li>\n<li>Flexibility that works with schedules that support your life</li>\n<li>Time to recharge with generous paid time off and parental leave for benefit-eligible employees</li>\n<li>Support beyond work through mentorship, hands-on experience, and opportunities to make an impact from day one</li>\n</ul>\n<p>Whether you’re starting your career or bringing years of experience, you’ll have the support and exposure to grow here.</p>\n<p><strong>Explore our full benefits here:</strong> Click here </p>\n<p></p>\n<h4>Equal Opportunity &amp; Accessibility</h4>\n<p>At Benesch, we believe great work starts with great people and that means creating a workplace where everyone has the opportunity to succeed.</p>\n<p>Benesch is firmly committed to Equal Employment Opportunity (EEO) and prohibits employment discrimination for employees and applicants in all protected groups, including veterans and individuals with disabilities, or other status protected by federal, state, and local laws.</p>\n<p>Benesch is committed to working with and providing reasonable accommodation to applicants with a physical disability or other impairment.</p>\n<p>If you are limited in your ability or are unable to access Benesch's Careers website due to a physical disability or other impairment, you may request a reasonable accommodation by emailing TalentAcquisition@benesch.com. This option is only available to those in need of an accommodation due to a disability or other impairment. Please do not use this as an alternative method for general inquiries or status on applications, as you will not receive a response. Reasonable requests will be responded to as soon as possible on a case-by-case basis.</p>\n<p>If you are based in California, we encourage you to read this important information for California residents linked here.</p>\n<p><strong>Know your Rights: Workplace Discrimination is Illegal </strong></p>\n<p><em>We will be accepting applications on an ongoing basis until a candidate is found.</em></p>\n<h4>External Recruiters and Staffing Agencies</h4>\n<p>Benesch shall have no obligation to compensate any external recruiter or search firm for candidate submissions made without a valid, current, and fully executed agreement. Submission of candidate information does not establish entitlement to a fee.</p>\n<p>All recruiting activity must be coordinated and authorized through the Benesch Talent Acquisition team. Please direct all communications to TalentAcquisition@Benesch.com</p>",
+    "content_hash": "b3565f4aa6c555fc6f63eae12b350d21"
+  },
+  "ec42ae91e62d": {
+    "id": "ec42ae91e62d",
+    "title": "Manufacturing Controls Engineering Intern",
+    "title_raw": "Manufacturing Controls Engineering Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "6c56e236-888e-423d-9f68-764bd9a4742d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-18T21:31:14.996Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>Base is looking for an intern to join our Manufacturing Controls Engineering team as we build new manufacturing lines to produce battery backup systems. As an intern, you’ll get hands-on exposure to designing, testing, and troubleshooting the systems that power our manufacturing operations. You’ll work closely with engineers across multiple teams, learning how large-scale production systems are developed and launched for the first time.</p><p></p><p>This internship is designed to give you real-world experience with manufacturing controls and automation while contributing directly to Base’s mission of delivering reliable, affordable energy.</p><p></p><p><strong>What You’ll Do</strong></p><ul><li><p>Support the design, build, and launch of manufacturing lines for new energy storage products.</p></li><li><p>Learn how to develop and test controls systems that combine PLC logic with modern software.</p></li><li><p>Gain hands-on experience working with full-scale production equipment during commissioning and ramp-up.</p></li><li><p>Assist with troubleshooting and maintaining electro-mechanical equipment on the production floor.</p></li><li><p>Participate in supplier design reviews, testing activities, and cross-functional team meetings.</p></li><li><p>Contribute to the development of hardware and software standards for future equipment.</p></li></ul><p></p><p><strong>What You’ll Bring</strong></p><ul><li><p>Working toward a Bachelor’s degree in Electrical, Mechanical, Mechatronics, or Computer Engineering (or a related field).</p></li><li><p>Coursework or projects involving PLCs, industrial automation, or robotics.</p></li><li><p>Interest in programming (e.g., Allen-Bradley, Siemens, Python, or similar).</p></li><li><p>Familiarity with tools such as AutoCAD, SolidWorks, or schematic design software is a plus.</p></li><li><p>Hands-on skills with common hand tools, diagnostic equipment (e.g., multimeters), or lab projects.</p></li><li><p>Curiosity, problem-solving skills, and excitement to learn in a fast-paced manufacturing environment.</p></li></ul><p></p><p><strong>About this Team</strong></p><p>Makers of the machines that power tomorrow. The Manufacturing Engineering team owns the interface between a proof of concept and a scalable, profitable product. Our team focuses on how a product can be built, defining the process technology and equipment solutions along the way. We are the feedback loop with the product design team to ensure designs are manufacturable both at cost and scale. The Manufacturing Engineering team owns every aspect of bringing the physical mechanisms of manufacturing a product into the factory.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "6f05e665c43a6414b162fb019d0f8515"
+  },
+  "ec5bfd245595": {
+    "id": "ec5bfd245595",
+    "title": "Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027)",
+    "title_raw": "Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027)",
+    "company": {
+      "slug": "cyvl",
+      "name": "Cyvl",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Boston, Massachusetts",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "Somerville, Massachusetts"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "cyvl",
+      "external_id": "3590960d-4d02-48bb-a335-cb82e121a01e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T16:35:32.164Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.532Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "hardware_embedded",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 20,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>ABOUT CYVL</h3><p>The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked to manage the physical world with tools that can't see it.</p><p>Cyvl is the Physical AI company changing that. We build purpose-built sensors, computer vision and AI that turn every drive into current data: what exists, where it is and what condition it's in. 500+ cities and towns use our Infrastructure Intelligence Platform to direct the work and fix problems before they fail. 1 in 30 Americans drive on roads managed with Cyvl data.</p><p>The proof isn't a dashboard. It's a smoother commute, a safer walk to school and public dollars going where they matter most. We're a fast-moving team in Boston building hardware, software and AI for the real world. If you believe technology's highest calling is public good, come build with us.</p><h3><br />THE ROLE</h3><p>As a Hardware Engineering Intern at Cyvl, you won't be stuck on side projects. You'll work directly on the sensor stack that rides on the vehicles mapping roads for cities across the country. You'll collaborate with our engineering and product teams and learn how hardware actually gets designed, tested, and built in a fast-moving startup. This role is open as a Spring 2027 co-op or a Summer 2027 internship.</p><p></p><h3>WHAT YOU'LL DO</h3><ul><li><p>Design and iterate sensor mounts and enclosures in CAD, from first sketch to printed and machined parts you can hold.</p></li><li><p>Develop and run tests: design fixtures, write concise test plans and reports, and write simple scripts (Python, bash) to automate testing.</p></li><li><p>Work closely with engineers who invest in your growth through regular pairing and direct feedback on your work.</p></li></ul><p></p><h3>WHAT YOU BRING</h3><ul><li><p>Currently pursuing a degree in Robotics, Mechanical Engineering, Electrical Engineering, or a related field</p></li><li><p>3D CAD fluency (SolidWorks preferred; Onshape and others welcome)</p></li><li><p>Experience building and running tests, including simple scripts to automate them</p></li><li><p>Excitement to learn new technologies and apply them quickly</p></li><li><p>Strong communication skills and the ability to work in a collaborative environment</p></li><li><p>Able to work in person at our Somerville, MA office</p></li></ul><p></p><h3>NICE TO HAVE</h3><ul><li><p>A portfolio; it doesn't have to be perfect, we just want to see that you've built things</p></li><li><p>Designing for outdoor, automotive, or industrial applications (weatherproofing, shock, and vibration)</p></li><li><p>An understanding of DFX methods (manufacturability, usability, repairability, etc.)</p></li></ul><p></p><h3>WHY CYVL</h3><p><strong>Hard tech. Real streets. Your name on it.</strong></p><ul><li><p><strong>Hard problems in the real world.</strong> You build end-to-end: our own hardware, software and AI, with work that shows up on the street in the real world.</p></li><li><p><strong>Ownership that compounds.</strong> You own outcomes, not tasks. You work directly with customers and across our team, and you'll own more, sooner, than almost anywhere else.</p></li><li><p><strong>Intense, with heart.</strong> We're building a category, so it's not a place to coast. We also take care of each other, have genuine fun together, and believe in what we are doing.</p></li></ul><p></p><h3>WHAT WE ASK</h3><ul><li><p><strong>Cross lanes.</strong> \"Not my job\" doesn't exist here.</p></li><li><p><strong>Own without a playbook.</strong> The plan is still being written, often by you.</p></li><li><p><strong>Try, miss, try again.</strong> We make big bets. Some won't land, and we learn fast.</p></li><li><p><strong>Be in the room.</strong> We're on-site in Somerville about 90% of the time.</p></li></ul><p>We're a startup building a category. If that sounds like the draw, not the risk, we'd love to talk.</p><p></p><h3>OUR VALUES</h3><ul><li><p><strong>Real:</strong> Authentic and transparent. Focused on solving real problems with simple, effective solutions.</p></li><li><p><strong>All Out:</strong> Bold, driven, and committed to delivering results that matter.</p></li><li><p><strong>Accelerating:</strong> Always learning, growing, and moving with intention.</p></li><li><p><strong>Reliable:</strong> We follow through and deliver at a consistently high bar.</p></li><li><p><strong>Empowering:</strong> We lift each other up and help governments build infrastructure they can be proud of.</p></li></ul><p></p><h3>SEE OUR WORK</h3><ul><li><p>How Atlanta cut downtown potholes by 60%</p></li><li><p>How Buffalo turned a campaign promise into a paving plan</p></li><li><p>How to rebuild US infrastructure smarter</p></li></ul><p></p><p><strong>We build for every community, so we hire from all of them.</strong> The best people for this work come from different backgrounds, paths, and places, and many of them don't check every box. If this role excites you, apply anyway. If you need an adjustment to our interview process, tell us and we'll make it work.</p>",
+    "content_hash": "b9d858e1ad252da57b63a24427233df3"
+  },
+  "ecefee13e637": {
+    "id": "ecefee13e637",
+    "title": "Internship: Forward Deployed Engineer, Test",
+    "title_raw": "Internship: Forward Deployed Engineer, Test",
+    "company": {
+      "slug": "revel",
+      "name": "Revel",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Los Angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": [
+        "San Francisco"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "revel",
+      "external_id": "6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-06T21:35:39.910Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:20.964Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>About Revel</strong></h3><p>At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and safely.</p> <h3><strong>The Internship</strong></h3><p>As a Forward Deployed Test Engineering Intern at Revel, you’ll work at the intersection of software, hardware, and testing to help our customers build and operate better test systems.</p><p>You’ll work alongside our Forward Deployed Engineering and Software teams to integrate Revel with customer test stands, build test infrastructure, troubleshoot hardware and software issues, develop dashboards and workflows, and help engineering teams get more out of their test operations.</p><p>You’ll get hands-on exposure to the systems behind aerospace, defense, automotive, energy, and advanced manufacturing. You’ll learn how software, hardware, sensors, data acquisition systems, and test infrastructure come together in real-world environments—and how to diagnose problems when things don't work as expected.</p><p>This is a highly technical, hands-on internship. You’ll work closely with experienced engineers, take ownership of meaningful projects, and have the opportunity to see your work used with real hardware.</p> <h3><strong>What You'll Do</strong></h3><ul><li><p>Help deploy and integrate Revel with customer test stands, sensors, actuators, and existing infrastructure</p></li><li><p>Work alongside customer engineering teams to understand their test processes and identify opportunities to improve them</p></li><li><p>Build and maintain test infrastructure, dashboards, and software workflows</p></li><li><p>Write RevelCode and other software to automate and streamline testing</p></li><li><p>Support data acquisition, telemetry, and hardware validation efforts</p></li><li><p>Troubleshoot issues across software, networking, firmware, hardware, and physical test systems</p></li><li><p>Help run and support test campaigns in real-world hardware environments</p></li><li><p>Deliver training and documentation to help new users get up and running with Revel</p></li><li><p>Collaborate with internal software and product teams to turn field learnings into product improvements</p></li><li><p>Occasionally travel to customer sites with the team</p></li></ul> <h3><strong>What We're Looking For</strong></h3><ul><li><p>Currently pursuing a Bachelor's degree in Mechanical Engineering, Electrical Engineering, Computer Engineering, Physics, Computer Science, or a related technical field</p></li><li><p>Rising Junior or Senior graduating in 2027 or 2028</p></li><li><p>Hands-on experience with engineering projects involving hardware, software, testing, or instrumentation</p></li><li><p>Strong problem-solving and debugging skills</p></li><li><p>Basic programming experience in Python, C, C++, or another programming language</p></li><li><p>Basic understanding of how software, hardware, sensors, and networks interact</p></li><li><p>Interest in test engineering, embedded systems, robotics, aerospace, automotive, or other hardware-focused environments</p></li><li><p>Comfortable getting hands-on with physical hardware and troubleshooting problems in real-world environments</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Curious, self-directed, and excited to learn from experienced engineers</p></li><li><p>Comfortable working in a fast-paced, ambiguous environment</p></li><li><p>US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement)</p></li></ul> <h3><strong>Bonus Points</strong></h3><ul><li><p>Experience with data acquisition systems, test stands, instrumentation, or test automation</p></li><li><p>Experience with sensors, actuators, oscilloscopes, multimeters, or other test equipment</p></li><li><p>Experience with PLCs, control systems, NI software suite, TwinCAT, or CodeSys</p></li><li><p>Experience building or maintaining test infrastructure through academic, personal, or previous internship projects</p></li><li><p>Experience with embedded systems, robotics, aerospace, automotive, or other hardware-focused projects</p></li><li><p>Proficiency in C, C++, Python, Rust, or other systems programming languages</p></li><li><p>Familiarity with networking and debugging communication between hardware and software</p></li><li><p>Startup experience and passion for aerospace, defense, advanced manufacturing, or robotics</p></li></ul> <h3><strong>Why Revel</strong></h3><ul><li><p><strong>Work on hardware that matters</strong> — our customers are building aerospace systems, advanced manufacturing lines, and critical infrastructure</p></li><li><p><strong>Build and test real things</strong> — work directly with the hardware and systems used in real-world engineering environments</p></li><li><p><strong>Learn from exceptional engineers</strong> — work closely with experienced Forward Deployed, Test, and Software Engineers</p></li><li><p><strong>Get customer exposure</strong> — see firsthand how engineering teams design, test, and operate complex hardware</p></li><li><p><strong>Own meaningful projects</strong> — take responsibility for projects that directly impact our customers and product</p></li><li><p><strong>Grow quickly</strong> — work in a small, ambitious team where your contributions are visible</p></li></ul> <h3><strong>Internship Details</strong></h3><ul><li><p><strong>Program:</strong> Summer 2027 Internship</p></li><li><p><strong>Duration:</strong> June - August 2027</p></li><li><p><strong>Type:</strong> Summer, paid internship</p></li><li><p><strong>Location:</strong> Los Angeles or San Francisco</p></li><li><p><strong>Work environment:</strong> On-site</p></li><li><p><strong>Travel:</strong> Occasional travel to customer sites may be required</p></li></ul> <p><em><strong>Join us to redefine what’s possible in software for hardware.</strong></em></p> <p><strong>ITAR Requirements</strong><br />To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p>",
+    "content_hash": "0529c3d876010cf732d12280b282c53e"
+  },
+  "ecf0c544acbd": {
+    "id": "ecf0c544acbd",
+    "title": "Electrical Project Engineer Intern",
+    "title_raw": "Electrical Project Engineer Intern",
+    "company": {
+      "slug": "felix-construction",
+      "name": "Felix Construction",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Phoenix, AZ",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "felix-construction",
+      "external_id": "aa3d2bce-ee64-4a0d-beef-714a3e3a3921"
+    },
+    "apply_url": "https://jobs.lever.co/felix-construction/aa3d2bce-ee64-4a0d-beef-714a3e3a3921/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-11T18:53:13.686Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:54:28.640Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "Felix Construction has been building critical water and wastewater infrastructure since 1987, proudly serving the Phoenix and Dallas markets. We’ve kept the close, family-owned feel of our early days while earning the reputation and recognition of a leading general contractor.\n \nOur projects are local, so you don’t live out of a suitcase — you live your life. This commitment to our team and values has earned us recognition as the #1 Top Workplace in Arizona and the #2 Top Workplace in the USA for midsize business in construction from USA Today/AZcentral.com.\n \nAnd here’s what truly sets us apart: Felix is the only General Contractor in Arizona with in-house General Contracting, Electrical, and Industrial Controls UL508A-certified panel shop—all under one roof. We’ve grown into a $200M company with 400+ employee-owners by keeping it simple: work hard, work safe, and do it right.\n \n<strong>We Build What Matters.</strong>\nFelix Construction has been building critical water and wastewater infrastructure since 1987, proudly serving the Phoenix and Dallas markets. We’ve kept the close, family-owned feel of our early days while earning the reputation and recognition of a leading general contractor.\n \nOur projects are local, so you don’t live out of a suitcase — you live your life. This commitment to our team and values has earned us recognition as the #1 Top Workplace in Arizona and the #2 Top Workplace in the USA for midsize business in construction from USA Today/AZcentral.com.\n \nAnd here’s what truly sets us apart: Felix is the only General Contractor in Arizona with in-house General Contracting, Electrical, and Industrial Controls UL508A-certified panel shop—all under one roof. We’ve grown into a $200M company with 400+ employee-owners by keeping it simple: work hard, work safe, and do it right.\n \n<strong>We Build What Matters.</strong><br />\n<p>As an Electrical Project Engineering Intern, you'll work directly with an Electrical Project Manager and gain hands-on experience supporting active industrial electrical construction projects. Throughout the summer, you'll be assigned an electrical work package and learn how a project moves from planning and procurement through execution and closeout.</p>\n<p>This internship provides real-world exposure to project management, procurement, scheduling, budgeting, quality control, and construction coordination while working alongside experienced industry professionals.</p>\n\n<h3>What You'll Do</h3>\n\nWork directly with an Electrical Project Manager to support the planning, coordination, and execution of electrical construction projects. \nAssist with developing and managing electrical work packages from planning through project closeout. \nReview project drawings, specifications, contracts, and scopes of work to gain an understanding of project requirements. \nPerform material takeoffs and assist with procurement, vendor coordination, and material tracking. \nSupport the preparation and tracking of submittals, Requests for Information (RFIs), purchase orders, and project documentation. \nAssist with tracking project budgets, labor hours, production quantities, schedules, and change orders. \nParticipate in project meetings and collaborate with project managers, superintendents, foremen, suppliers, and clients. \nSupport quality control, testing, commissioning, and project closeout activities, including as-built and turnover documentation. \nVisit active project sites periodically to observe construction progress and connect project planning activities to project execution. \nDevelop a foundational understanding of industrial electrical construction, project management, and leadership within the construction industry. \n\n\n<h3>Who You Are</h3>\n\nCurrently pursuing a Bachelor's degree in Construction Management, Construction Engineering, Engineering Technology, or a related field. \nRising sophomore, junior, senior, or graduate student. \nStrong interest in construction project management and industrial electrical construction. \nStrong organizational, communication, and problem-solving skills. \nProficiency with Microsoft Office applications. \nAbility to work independently and collaboratively within a team environment. \nValid driver's license with an acceptable driving record. \n\n\n<strong>Why Join Felix Construction</strong>\nFelix Construction is more than a company—we are an employer and contractor of choice with the leadership and infrastructure to sustainably execute on our growth and deliver on our brand promise. We provide the tools, support, and environment where talented individuals grow while delivering projects communities depend on. Don’t just find a job—build a future with Felix Construction. We offer:\n \n<strong>Become an Owner, Not Just an Employee:</strong>\nAs a 100% employee-owned company, our success is your success. Our ESOP program is the foundation of our culture, fostering a unique environment of shared accountability, commitment, and reward.\nDiscretionary annual bonus program\n401k with 6% employer match\nRich benefits package with substantial employer contribution\nGenerous Time Off Policy (PTO)\n8 paid company holidays\nProfessional development programs, team activities, and organized volunteer initiatives\n \n\n<p><strong><em>NOTICE TO EXTERNAL SEARCH FIRMS</em></strong><em> Felix Construction's Talent Acquisition team is the only authorized department to engage with and execute agreements on behalf of the company with external search firms, staffing agencies, and other third-party recruiting partners. Felix Construction does not accept unsolicited candidate submissions. We will only consider candidates submitted by agencies that have a fully executed agreement with Felix Construction on file prior to the candidate's submission.<br /><br />Any candidate submitted without an active, fully executed agreement will not be considered a qualified referral, and Felix Construction assumes no obligation to pay any placement or recruiting fees. Additionally, any unsolicited resumes submitted to any Felix Construction employee—including hiring managers or other personnel—will be deemed the property of Felix Construction without any obligation to the submitting agency.</em></p>",
+    "content_hash": "97d313c341276296941d094048ac734d"
+  }
+}

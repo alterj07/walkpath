@@ -1,0 +1,82 @@
+{
+  "b963857c0b78": {
+    "id": "b963857c0b78",
+    "title": "Security Engineer Intern",
+    "title_raw": "Security Engineer Intern",
+    "company": {
+      "slug": "tensorwave",
+      "name": "TensorWave",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tensorwave",
+      "external_id": "8ec8b715-f9ad-48a7-869e-ed9d455119a5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T16:36:49.524Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.731Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About TensorWave</strong></p><p>Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.</p><p><strong>About the Role</strong></p><p>We are looking for a motivated Security Engineer Intern to join our team. You won’t just be watching—you’ll be building. You will work with our teams to protect our systems and help launch a brand-new Threat Modeling Program from scratch.</p><p><strong>What You’ll Do</strong></p><ul><li><p>Threat Modeling: Help us build a \"blueprinting\" program where we look at a system, figure out how a hacker might break in, and fix it before they ever try.</p></li><li><p>GRC Assistance: Learn how the \"business\" side of security works. This includes Risk Management (deciding which problems are the scariest), Audit (proving we are actually following security rules), and Governance (writing the \"laws\" of the company).</p></li><li><p>Hybrid Defense: Learn to secure \"the Cloud\" (internet-based systems) and \"On-Premise\" (the physical servers and hardware inside our Las Vegas data centers).</p></li><li><p>Solve Puzzles: Use Critical Thinking to find the root cause of network issues or security holes.</p></li><li><p>Automation: Write simple code (Bash, Python, PowerShell, etc.) to do your chores for you so you can focus on bigger problems.</p></li><li><p>Lab Testing: Use \"hacker tools\" in a safe lab environment to find vulnerabilities (weak spots) and suggest ways to patch them.</p></li></ul><p><strong>Who You Are</strong></p><p><strong>Required Qualifications</strong></p><ul><li><p>Education &amp; Experience: You must meet one of the following Nevada-based criteria:</p><ul><li><p>2 years of hands-on experience in networking, security, or computer science AND currently enrolled in a Nevada higher education institution or trade school/certification program.</p></li><li><p>OR at least 2 years of college or trade school in Nevada, completed toward a degree/certificate in Computer Science, Networking, Programming, Cyber, or a similar field.</p></li></ul></li><li><p>Self-Starter Attitude: You don't wait to be told what to do; you are motivated to learn new things and have a history of hitting goals you set for yourself.</p></li><li><p>Tech Basics: You know how computers talk to each other (Networking) and can write a basic script or program.</p></li><li><p>Hands-on Experience: You’ve spent time in \"Labs\"—whether that's network simulators, coding sites, or cybersecurity \"capture the flag\" platforms.</p></li><li><p>Teamwork: You know how to work with others, whether that was in sports, a college club, or a leadership role.</p></li></ul><p><strong>What We Offer</strong></p><ul><li><p>Paid internship experience</p></li><li><p>Founder and leadership speaker sessions</p></li><li><p>Dedicated mentorship and cross-functional networking</p></li><li><p>Industry and market education sessions</p></li><li><p>Career development workshops (resume review, mock interviews, interview prep)</p></li><li><p>Team-building events and intern socials</p></li><li><p>Lunch &amp; Learns with company leaders</p></li><li><p>In-office perks including snacks and beverages</p></li></ul><p><strong>Equal Employment Opportunity</strong></p><p>TensorWave is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of any protected status under applicable law.</p><p><strong>Reasonable Accommodations</strong></p><p>TensorWave provides reasonable accommodations in accordance with applicable laws. If you require accommodation during the hiring process, please contact accomodations@tensorwave.com.</p><p><strong>Employment Eligibility</strong></p><p>All offers of employment are contingent upon verification of identity and authorization to work in the United States, as required by law.</p><p><strong>Background Checks</strong></p><p>Where permitted by law, employment may be contingent upon the successful completion of a job-related background check.</p><p><strong>Data Privacy Notice</strong></p><p>By submitting an application, you acknowledge that TensorWave may collect, use, and retain your personal information for recruiting and employment-related purposes in accordance with applicable data privacy laws.</p>",
+    "content_hash": "f22a02e97ef6c8065c18c4bafeb3e8eb"
+  },
+  "b9fb856eb4f0": {
+    "id": "b9fb856eb4f0",
+    "title": "Software Engineering Intern",
+    "title_raw": "Software Engineering Intern",
+    "company": {
+      "slug": "terranova",
+      "name": "Terranova",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Berkeley",
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "terranova",
+      "external_id": "a8e5a8d2-4af3-4736-b66e-e0804447f7a0"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-26T02:53:16.063Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.783Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Spring 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Company Description</strong></p><p>Backed by leading climate and American dynamism investors, Terranova builds intelligent robotic systems to terraform the Earth itself - lifting land, restoring wetlands, and protecting critical infrastructure from floods and sea-level rise.</p><p>Our mission is to preserve the built environment, create new habitats, and usher in an era of abundance. Our work supports climate resilience, disaster recovery, and defense across the United States and beyond.</p><p>We’re assembling a world-class team that wants to work on something real, physical, and civilization-scale. If you want your work to reshape the world (literally), this is the place to do it.</p><p></p><p><strong>What to to Expect</strong></p><p>We are seeking a software engineering intern for <strong>Spring 2027 </strong>who can design and maintain modern, scalable applications while owning our cloud and infrastructure layer. You’ll build responsive user interfaces, develop backend APIs, and architect deployments that can scale globally. You’ll thrive if you’ve worked on platform or infra teams (Cloudflare, Vercel, AWS) or as a product engineer at performance-oriented orgs (Stripe, Notion, etc.). Check out plan.terranova.inc for an idea of some of the web dev stuff you'll need to develop. </p><p></p><p><strong>What You’ll Do</strong></p><ul><li><p>Design and implement performant, maintainable web apps powered by Vue / Nuxt / TypeScript, and backends written in NestJS, Rust, or Go.</p></li><li><p>Build and operate distributed backends with Postgres, TimescaleDB, and a desire to work with serverless constraints.</p></li><li><p>Implement CI/CD, automated testing, observability, and incident-response workflows, a'la Sentry or DataDog.</p></li><li><p>Collaborate with product and robotics teams to integrate data, telemetry, and control interfaces.</p></li><li><p>Build customer facing and internal tools</p></li><li><p>Full stack application development</p></li><li><p>Comfortable with the pace and intensity of early-stage startup life</p></li><li><p>Working towards a bachelor’s degree or higher in Computer Science or related field</p></li><li><p>U.S. permanent residency required</p></li><li><p>Ability to be on-site part-time required </p></li></ul><p></p><p><strong>Preferred Skills and Experience</strong></p><ul><li><p>History of making stuff - hobby projects, industry experience</p></li><li><p>TypeScript</p></li><li><p>Vue/Nuxt.js</p></li><li><p>NestJS/Rust/Go</p></li><li><p>Postgres/TimescaleDB/queues</p></li><li><p>GitHub Actions/Argo</p></li><li><p>OpenTelemetry/DataDog/Sentry</p></li><li><p>iOS and Android app development, with a focus on cross-platform programming</p><p></p></li></ul><p><strong>Compensation and Timeline</strong></p><ul><li><p>$25-35/hr + relocation + company perks</p></li><li><p>Spring Internship from January-May depending on your school schedule </p></li></ul>",
+    "content_hash": "e1aba25f820ec778fcbc8f3bf7a4ac04"
+  }
+}

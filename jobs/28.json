@@ -1,0 +1,84 @@
+{
+  "2885e104b0af": {
+    "id": "2885e104b0af",
+    "title": "Electrical Engineer Intern",
+    "title_raw": "Electrical Engineer Intern",
+    "company": {
+      "slug": "windborne-systems",
+      "name": "WindBorne Systems",
+      "domain": ""
+    },
+    "location": {
+      "raw": "RWC HQ",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "windborne-systems",
+      "external_id": "a0adb58d-37e7-4e37-abf5-c77d63d4dd8f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-12T19:56:52.809Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:26.904Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>WindBorne Systems is supercharging weather models with a unique proprietary data source: a global constellation of next-generation smart weather balloons targeting the most critical atmospheric data. We design, manufacture, and operate our own balloons, using the data they collect to generate otherwise unattainable weather intelligence.</p><p>Our mission is to eliminate weather uncertainty, and in the process help humanity adapt to climate change, be that predicting hurricanes or speeding the adoption of renewables. We are building a future in which the planet is instrumented by thousands of our microballoons, eliminating gaps in our understanding of the planet and giving people and businesses the information they need to make critical decisions. The founding team of Stanford engineers was named Forbes 2019 30 under 30 and is backed by top investors including Khosla Ventures.</p><p>WindBorne is looking for an <strong>Embedded Electrical Engineer</strong> to run hardware design, initial bringup, hardware debug, and manufacturing support of a number of key elements of our flight hardware and ground support systems. We're seeking someone who can jump between PCB design in the morning, debugging firmware in the afternoon, and searching DigiKey at night; someone who finds satisfaction in making things work in theory, in practice, and at scale, and in running through those stages as quickly as PCBA turnaround times permit.</p><p>This role is for someone who would be unfulfilled designing predictable power supplies or standard microcontroller boards. Instead, you’ll be creating systems that can reliably operate from -70°C to +40°C using components that are entirely unrated for such a task, while counting every gram and milliwatt.</p><p>We aren't looking for someone who wants to spend weeks designing the theoretically perfect circuit. Rather, we need someone who can quickly ship a design that doesn’t appear to be broken, and who genuinely enjoys spending a day at the bench playing electrical whac-a-mole when something inevitably is. The ideal candidate will understand and contribute to the big picture to ensure effort is directed only where it is most useful, while spending most of the day on the messy details of building the world’s largest balloon constellation.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li><p>Design, prototype, and test PCBs for critical new flight and ground systems</p></li><li><p>Develop firmware for initial bringup of new boards and custom testing of existing boards</p></li><li><p>Troubleshoot and resolve (only the most pressing) issues on existing hardware</p></li><li><p>Conduct comprehensive bench and environmental testing to validate electrical systems under extreme conditions</p></li><li><p>Work closely with mechanical engineers to ensure proper integration on a vehicle with about as many structural PCBs as custom 3D parts</p></li><li><p>Support flight operations with troubleshooting of deployed hardware via realtime telemetry</p></li><li><p>Coordinate PCBA manufacturing for both R&amp;D and production</p></li></ul><p></p><h3><strong>Skills and Qualifications</strong></h3><p><em><strong>Required</strong></em></p><ul><li><p>Strong fundamentals in embedded circuit and system design</p></li><li><p>Hands-on experience troubleshooting circuit boards and electronic assemblies</p></li><li><p>Proficiency with reading schematics and datasheets</p></li><li><p>Familiarity with embedded firmware development (C/C++)</p></li><li><p>Familiarity with common communication protocols (SPI, I2C, UART)</p></li><li><p>Experience with PCB layout and design tools (we use Altium)</p></li><li><p>Comfort with lab equipment including oscilloscopes, multimeters, and logic analyzers</p></li><li><p>Interest in the underlying physics</p></li><li><p>Being the type of person who enjoys applying increasingly cursed out of the box solutions in order to reduce part count and complexity</p><p></p></li></ul><p><em><strong>Nice to have</strong></em></p><ul><li><p>Bachelor's degree or higher in Electrical Engineering or related field</p></li><li><p>Interest in RF system development and antenna design</p></li><li><p>Deep knowledge of power management circuit design</p></li><li><p>Ability to solder 0402 components by hand without wanting to cry</p></li></ul><p></p><p><strong>Salary</strong></p><ul><li><p>$33/hr</p></li></ul><h3></h3><h3><strong>Location</strong></h3><p>1600 Bridge Pwky, Redwood City, CA. In person required.</p>",
+    "content_hash": "a60d2373e3dbb68aeb30730efa0e9947"
+  },
+  "28a77926b774": {
+    "id": "28a77926b774",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "taktile",
+      "name": "Taktile",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Iasi Office",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": [
+        "Berlin Office"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "taktile",
+      "external_id": "bce11078-1da2-4826-a70e-7eccfd702dd1"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-07T09:12:55.275Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.330Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About the role</strong></h3><p>Taktile empowers financial institutions to transform into truly AI-native organizations. We’re growing rapidly with enterprise customers across banks and insurance companies, and we’re looking for students with a passion for distributed systems who want to turbocharge their career. If you’re ambitious, have strong engineering fundamentals, and want to grow as a software engineer, then this role is for you!</p><p></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Depending on your final team, either work on backend components written in Python / FastAPI, hosted on an AWS serverless architecture, or work on React/Typescript front-end components, or a combination of both!</p></li><li><p>Engage actively in team rituals such as daily syncs, planning sessions, demos, and technical deep-dive discussions.</p></li><li><p>Grow as an individual and accelerate your career by learning from our experienced team, contributing to a foundational layer of the product, and joining cross-team learning groups.</p></li></ul><p></p><h3><strong>Requirements:</strong></h3><ul><li><p>Taktile is a hybrid company that requires working 3 days/week from our Berlin HQ in Germany or our Engineering Hub in Iasi, Romania.</p></li><li><p>Fluency in English, both written and spoken, is essential as we operate in a remote environment requiring clear and effective communication.</p></li><li><p>Strong engineering fundamentals with a passion for simplicity and precision</p></li></ul><p></p><h3><strong>Required Experience</strong></h3><ul><li><p>Fantastic Computer Science fundamentals. Data structures, algorithms, networking, distributed systems, databases, and everything in between!</p></li></ul><p></p><h3><strong>Ideal, But Not Required</strong></h3><ul><li><p>Exposure to AWS, especially Lambda.</p></li><li><p>Experience with frontend development - React or similar frameworks.</p><p></p></li></ul><h3><strong>Our Offer</strong></h3><ul><li><p>Work with colleagues who lift you up, challenge you, celebrate you, and help you grow. We come from many different backgrounds, but what we have in common is the desire to operate at the very top of our fields. If you are similarly capable, caring, and driven, you'll find yourself at home here.</p></li><li><p>Experience a truly flat hierarchy and communicate directly with founding team members. Having an opinion and voicing your ideas is not only welcome but encouraged, especially when they challenge the status quo.</p></li><li><p>Learn from experienced mentors and achieve tremendous personal and professional growth. Get to know and leverage our network of leading tech investors and advisors around the globe.</p></li><li><p>Receive a new Apple MacBook Pro as well as cutting-edge hardware.</p></li></ul><p></p><h3><strong>Our Stance</strong></h3><ul><li><p>We're eager to meet talented and driven candidates regardless of whether they tick all the boxes. We're looking for someone who will add to our culture, not just fit within it. We strongly encourage individuals from groups traditionally underestimated and underrepresented in tech to apply.</p></li><li><p>We seek to actively recognize and combat racism, sexism, ableism and ageism. We embrace and support all gender identities and expressions, and celebrate love in its many forms. We won't inquire about how you identify or if you've experienced discrimination, but if you want to tell your story, we are all ears.</p></li></ul><p></p><h3><strong>About Taktile</strong></h3><p>Taktile enables financial institutions to transform into AI-native organizations that are increasingly powered by autonomous agents. </p><p>With our modular Agentic Decision Platform, customers combine AI agents, rules, relevant context, and human oversight to safely automate and optimize their decisions—approving more customers, reimbursing claims instantly, stopping fraud before it spreads, and financing every business worth funding. </p><p>Founded in 2020, Taktile powers millions of decisions daily for institutions including Mercury, Monzo, Faire, and Pleo. With offices in New York, Berlin, London, São Paulo, and Iași, the company has raised $184M from Growth Equity at Goldman Sachs Alternatives, Index Ventures, Tiger Global, Balderton Capital, and Y Combinator. Learn more at taktile.com.</p><p></p><h3><em><strong>About Your Employment. </strong></em></h3><p><em>Taktile operates through regional entities worldwide. Depending on the location of this role, your employment or engagement will be with Taktile LLC (US), Taktile GmbH (Germany), Taktile Ltd (UK), or Taktile SRL (Romania). The applicable entity will be confirmed during the offer process.</em></p><p></p><h3><em><strong>Your Privacy </strong></em></h3><p><em>Taktile (“we” or “us”) is the controller of the personal data you provide during this application process. We collect and process your name, contact details, resume/CV, work history, education, and any other information you submit or that we obtain from publicly available sources or references.</em></p><p></p><h3><em><strong>How we use your data</strong></em></h3><p><em>We process your personal data to evaluate your candidacy, communicate with you about the recruitment process, comply with legal obligations (such as right-to-work verification), and, with your consent, to consider you for future opportunities.</em></p><p></p><h3><em><strong>Legal basis (EU/UK applicants)</strong></em></h3><p><em>We rely on (i) pre-contractual steps at your request (GDPR/UK GDPR Art. 6(1)(b)), (ii) legal obligations (Art. 6(1)(c)), and (iii) our legitimate interest in evaluating candidates (Art. 6(1)(f)).</em></p><p></p><h3><em><strong>Retention</strong></em></h3><p><em>If your application is unsuccessful, we retain your data for 12 months after the recruitment process concludes, unless you consent to longer retention. Successful candidates’ data becomes part of their employment records.</em></p><p></p><h3><em><strong>Your rights</strong></em></h3><p><em>Depending on your location, you may have the right to access, correct, delete, or restrict the processing of your personal data, to data portability, and to withdraw consent.</em></p><p></p><h3><em><strong>Automated decision-making</strong></em></h3><p><em>We use automated tools to assist in screening applications. No hiring decision is made solely by automated means without human review.</em></p><p></p><h3><em><strong>International transfers</strong></em></h3><p><em>Your data may be transferred to and processed in the United States, Germany, the United Kingdom, or Romania. Where required, transfers are protected by Standard Contractual Clauses or other approved mechanisms.</em></p><p></p><p>By submitting your application, you acknowledge that you have read and understood Taktile’s Applicant Privacy Policy. To exercise your rights or ask questions, contact privacy@taktile.com</p>",
+    "content_hash": "48ef44f589de019e131dc28ba18897a5"
+  }
+}

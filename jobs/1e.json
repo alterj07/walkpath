@@ -1,0 +1,42 @@
+{
+  "1ec8abc20e02": {
+    "id": "1ec8abc20e02",
+    "title": "RCM Engineering Intern",
+    "title_raw": "RCM Engineering Intern",
+    "company": {
+      "slug": "aeci",
+      "name": "Aeci",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Clifton Hill, Missouri",
+      "city": "Clifton Hill",
+      "state": "MO",
+      "country": "US",
+      "arrangement": "unknown",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "aeci/aeci",
+      "external_id": "REQ-1677"
+    },
+    "apply_url": "https://aeci.wd1.myworkdayjobs.com/AECI/job/Clifton-Hill-Missouri/RCM-Engineering-Intern_REQ-1677",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-10T00:00:00.000Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:48:41.933Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>At Associated Electric Cooperative, we're committed to providing reliable energy to the communities we serve with passion and precision. We're a tight-knit team dedicated to keeping the lights on and the energy flowing smoothly across our expansive network!</b></p><p></p><p><b>From technical to operational to professional disciplines, our team brings a wide variety of skills, talents, and expertise to the table. We believe in both dedicating ourselves to excellence and investing in your growth.</b></p><p></p><p>Are you a smart, driven student ready to tackle the fascinating challenges of the power industry? AECI’s Thomas Hill Power Plant is seeking an exceptional candidate for a Reliability-Centered Maintenance (RCM) Engineering internship for the summer of 2027.</p><p><b>What You'll Do:</b></p><ul><li>Assist Reliability and Predictive Maintenance Engineers in various engineering tasks focused on increasing the reliability of our coal and gas plant fleet.</li><li>Participate in projects that may require overnight or extended stays at our plant sites in MO, OK, AR</li><li>Support the design and implementation of reliability improvement initiatives across multiple sites.</li><li>Collaborate with multidisciplinary teams to troubleshoot and solve complex engineering challenges.</li><li>Gather and analyze data to improve operational efficiency and reduce downtime.</li></ul><p><b>Who We're Looking For:</b></p><ul><li>Current students enrolled in Mechanical or Electrical Engineering (Mechanical preferred) with at least two years completed toward a Bachelor of Science degree.</li><li>Strong verbal and written communication skills, organizational skills, and a commitment to punctuality and attendance.</li><li>Experience with engineering software tools (e.g., AutoCAD, MATLAB) is a plus.</li><li>A proactive attitude with a strong interest in the power production industry.</li></ul><p><b>Why choose AECI?</b></p><ul><li>Growth opportunities: Mentorship, training, and real-world experience.</li><li>Culture: Inclusive, innovative, and dynamic work environment.</li><li>Networking: Connect with industry leaders and peers.</li></ul><p><b>Ready to Apply?</b> Visit AECI Careers to create your profile, upload your resume, cover letter, and most recent transcript (unofficial copies are fine), and then submit your application.</p><p>AECI is fully committed to the concept and practice of equal opportunity and affirmative action in all aspects of employment.  Please contact us if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment.</p><p></p><p><b>At Associated Electric Cooperative, all of our 700+ employees across MO/AR/OK territory play a crucial role in powering our mission! Whether you're an experienced professional or just starting your career, you'll find endless opportunities for career development here. Join us in an environment where your contribution is valued, and your career can thrive as we work together to keep the lights on!</b></p><p></p><p><b>Ready to Energize your career? Visit our website at </b><b>www.aeci.org/careers</b><b> to learn more about Associated and apply for a position.  </b></p><p></p><p>Equal Opportunity Statement:</p><p></p><p>AECI is fully committed to the concept and practice of equal opportunity in all aspects of employment. Please reference the contact information below if you require assistance in filling out an application. Individuals with disabilities should request reasonable accommodations in accordance with the Americans with Disabilities Act prior to an appointment. </p><p></p><p>An equal opportunity employer and provider/disability/veteran.</p>",
+    "content_hash": "1137e5458115aeb0737021b0fcba8137"
+  }
+}

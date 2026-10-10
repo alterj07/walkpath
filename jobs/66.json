@@ -1,0 +1,42 @@
+{
+  "667194495ff5": {
+    "id": "667194495ff5",
+    "title": "Intern Engineering & Operations",
+    "title_raw": "Intern Engineering & Operations",
+    "company": {
+      "slug": "the-kingfish-company",
+      "name": "The Kingfish Company",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Kats",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "lever",
+      "board": "kingfish-company",
+      "external_id": "3446c712-558c-4f7a-a33f-bd17befcfacc"
+    },
+    "apply_url": "https://jobs.lever.co/kingfish-company/3446c712-558c-4f7a-a33f-bd17befcfacc/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-05T07:44:14.108Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T03:00:50.858Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Role Purpose</strong></p>\n\n<p>The intern will support the engineering and operations teams by assisting with technical documentation, equipment tagging and process mapping across the farm. The role offers hands-on exposure to how the business operates day to day, working alongside Technical Managers, Engineers, Technicians and the CMMS team. The intern will also be encouraged to review current systems with a fresh perspective and put forward ideas for improvement.</p>\n\n<p><strong>Key Responsibilities</strong></p>\n\n<ul>\n<li><strong>Control Narratives:</strong> Assist in writing and developing the current control narratives.</li>\n<li><strong>Functional Description Specifications:</strong> Assist in updating the current Functional Description Specifications (FDS) on the farm.</li>\n<li><strong>Equipment Tagging &amp; Labelling:</strong> Learn the site equipment and assist with tagging and labelling using the existing Tag lists.</li>\n<li><strong>Systems Review:</strong> Review current systems and processes and suggest possible improvements.</li>\n<li><strong>Business Understanding:</strong> Work with Technical Managers to understand and learn how the business functions.</li>\n<li><strong>Maintenance Process Documentation:</strong> Work with the CMMS team to understand and document the process for how a broken piece of equipment is exchanged or repaired.</li>\n<li><strong>Team Engagement:</strong> Engage with the entire team, from Engineers to Technicians, to build working relationships and gain a broad understanding of site operations.</li>\n</ul>\n<p><strong>Additional Duties</strong></p>\n<p>The responsibilities above are not exhaustive. The intern may be asked to provide additional assistance on projects as required, in line with their skills, experience and the needs of the business.</p>\n\n<p><strong>What the Intern Will Gain</strong></p>\n\n<ul>\n<li>Practical experience in technical documentation, including control narratives and FDS documents.</li>\n<li>Familiarity with site equipment, tagging standards and maintenance processes.</li>\n<li>Insight into how a CMMS supports maintenance and asset management.</li>\n<li>Exposure to cross-functional teamwork across engineering and operations.</li>\n</ul>\n<p><strong>Desired Skills &amp; Attributes</strong></p>\n<ul>\n<li>Currently studying, or recently completed studies, in engineering or a related technical field.</li>\n<li>Good written communication skills and attention to detail.</li>\n<li>Willingness to learn, ask questions and get involved on site.</li>\n<li>Able to work both independently and as part of a team.</li>\n<li>Basic proficiency with Microsoft Office (Word, Excel).</li>\n</ul>\n<p><strong>Health &amp; Safety</strong></p>\n<p>The intern is expected to follow all site health and safety procedures, complete any required inductions, and wear appropriate PPE at all times when on site.</p>\n\n\n<strong>he Kingfish Company</strong> \nThe Kingfish Company is a pioneer and leader in sustainable land-based aquaculture. We produce the yellowtail kingfish (also known as Ricciola/Hiramasa/Greater Amberjack) which is a highly versatile premium fish species, well known in the Italian and Asian fusion cuisines.  \nOur operation is based on three core principles: sustainability, respect for our fish, and the environment. These key principles are at the heart of our design, activity, and technology decisions. Production of our fish is based on advanced recirculating aquaculture systems (RAS), which create the ideal growth environment for kingfish, offer optimal biosecurity, and limit the environmental impact. Animal welfare is paramount and our fish are grown without the use of antibiotics and vaccines. Operations run on 100% renewable energy, sourced from wind, solar, and biogas and the company’s facilities operate on seawater to avoid wasting precious fresh water. \n \nWe are a fast-growing company and we are looking forward to welcoming new people into our team and exciting future.",
+    "content_hash": "f653df94d79831883f5bf3bc28a55c8a"
+  }
+}

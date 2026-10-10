@@ -1,0 +1,47 @@
+{
+  "97b5084c259c": {
+    "id": "97b5084c259c",
+    "title": "Fall 2026 / Winter 2027 R&D Engineering Intern – Hydrogen Systems",
+    "title_raw": "Fall 2026 / Winter 2027 R&D Engineering Intern – Hydrogen Systems",
+    "company": {
+      "slug": "fourier",
+      "name": "Fourier",
+      "domain": ""
+    },
+    "location": {
+      "raw": "HQ",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "fourier",
+      "external_id": "5b8d0c16-3b74-40ff-b5e6-9fdde6db0e86"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/fourier/5b8d0c16-3b74-40ff-b5e6-9fdde6db0e86/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-06T13:31:14.439Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.237Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 5000,
+      "max": 5000,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About the role</strong></p><p>This internship will involve supporting the design and validation of our commercial</p><p>product. The intern will contribute to the design of a regenerative drying and purification</p><p>system to enable efficient and continuous production of high-purity hydrogen. Working</p><p>closely with an R&amp;amp;D engineer, the intern will characterize thermal/separation processes,</p><p>develop control systems, and optimize operating parameters to satisfy key reliability and</p><p>cost constraints. As the directly responsible individual overseeing an experimental test</p><p>station, the intern will develop a data analysis framework to provide key insights into</p><p>long-term physicochemical phenomena. The role may involve working with vendors to</p><p>design and develop custom components.</p><p>Requirements</p><p> Currently pursuing or recently completed a B.S. or M.S. in Chemical / Materials /</p><p>Mechanical / Environmental Engineering, Chemistry, Physics or similar</p><p> Comfortable rolling up their sleeves to work with basic mechanical/electrical</p><p>components, troubleshoot independently, and motivated to take ownership</p><p>(agency) of hands-on lab work</p><p> Strong fundamentals and problem-solving intuition in one or more of the following</p><p>areas: thermodynamics, fluid mechanics, heat and mass transfer, reaction</p><p>kinetics, phase equilibria</p><p> Thrives in a fast-moving environment and can learn, iterate, and execute with</p><p>velocity</p><p> Must be available to start between October 2026 and January 2027 for work</p><p>on-site in Mountain View, CA</p><p> Highly organized with strong attention to detail and a commitment to following</p><p>through (accountability)</p><p> Clear, thoughtful communicator who works well on small, collaborative teams</p>",
+    "content_hash": "79da193d4a5b44f304bdeee71f9f65f9"
+  }
+}

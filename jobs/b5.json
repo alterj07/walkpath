@@ -1,0 +1,87 @@
+{
+  "b5244bb53091": {
+    "id": "b5244bb53091",
+    "title": "Design Engineer Intern",
+    "title_raw": "Design Engineer Intern",
+    "company": {
+      "slug": "dedalus-labs",
+      "name": "Dedalus Labs",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "dedalus-labs",
+      "external_id": "bcd6db2e-400b-4ffa-aef3-0948a7b558c2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-15T01:36:45.329Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.729Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 7800,
+      "max": 8667,
+      "currency": "USD",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About the role</h3><p>Dedalus Labs builds persistent computers for AI agents. Our flagship product, Dedalus Machines, gives agents an isolated environment where they can run software, keep files and state, and work over time.</p><p>We're looking for a design engineer intern who can turn an idea into an interface people can use. You notice the awkward spacing, the confusing state change, and the extra step a user keeps getting stuck on. You want to understand the problem, implement the details, and see whether your changes help.</p><h3>About the internship</h3><p>We accept applications throughout the year and typically run four internship seasons annually. Each paid internship lasts approximately three months and is full-time for the duration. Start dates are coordinated with the candidate and team.</p><p>You'll work across interaction design, visual design, and frontend engineering on a meaningful project with direct feedback from Dedalus engineers. We want a builder who has already finished a working interface and can explain the decisions and implementation. Prior production experience is welcome but not required.</p><h3>What you might own</h3><ul><li><p>A complete product flow, from a rough sketch to React and TypeScript components connected to real data.</p></li><li><p>Clear loading, progress, error, and recovery states for an asynchronous operation.</p></li><li><p>An investigation into slow rendering or data fetching, with a measured fix.</p></li><li><p>An interaction refinement informed by watching someone use the product, including keyboard, small-screen, and accessibility checks.</p></li></ul><p>You'll agree on a useful scope, implement it, test it, and refine it from feedback. Completion includes the inconvenient states discovered after the first demo.</p><h3>What we look for</h3><p>You can build with React and TypeScript and make deliberate choices about layout, state, components, and CSS. You can show a working interface or a walkthrough of private work and explain what you personally designed and implemented.</p><p>You care about responsive design, accessibility, perceived performance, and motion that helps someone understand a transition. Next.js, Vite, Remix, Tailwind CSS, or similar tools are relevant. Canvas, WebGL, shaders, and advanced animation can be useful additional depth when the work calls for them.</p><p>You can explain a design you revised after feedback, a technical problem you investigated, and a detail you chose to leave out to finish a better overall result. Work from coursework, employment, research, open source, or independent projects is welcome. Use the GitHub and portfolio fields to point us to your strongest work, including a walkthrough when the implementation is private.</p><p>When you get stuck, you narrow the problem, read the relevant source or documentation, and try an experiment that can teach you something. You ask for help with the evidence you've collected and explain what you need to understand next. You act on feedback and keep ownership of the result.</p><p>You use AI coding tools where they help. You must be able to explain the resulting code, test its behavior, and correct it when it is wrong. We care about your judgment and understanding throughout the work.</p><h3>This internship may be a poor fit if</h3><ul><li><p>You want to hand off mockups without building the interface.</p></li><li><p>You judge the result only from a screenshot and lose interest in real data, keyboard use, slow networks, or failed requests.</p></li><li><p>You cannot explain the implementation or how you evaluated whether it served the user's task.</p></li></ul><h3>Logistics</h3><ul><li><p>Full-time for approximately three months.</p></li><li><p>In person, five days per week, in San Francisco. This is not a remote internship.</p></li><li><p>Relocation support may be available.</p></li><li><p>Visa support may be available based on individual eligibility and timing.</p></li><li><p>Exceptional performance may lead to consideration for a full-time position. Conversion is not guaranteed.</p></li></ul><h3>Show us your work</h3><p>Use your application to show us one thing you built and one difficult problem you investigated. They can come from the same project. Choose work you already have. We are not asking you to build a new project for this application.</p><ul><li><p><strong>Work:</strong> Show the code, demo, design, or result. Explain what you personally owned, what you reused, and one decision that made the result better or simpler.</p></li><li><p><strong>Investigation:</strong> Describe the symptom, your first explanation, the evidence that changed your thinking, and how you established the result. Include the workload or users involved and any important limitations.</p></li><li><p><strong>Writing:</strong> Share one piece of your best writing as a separate, required sample. Simple and succinct is welcome. Choose work that shows your thinking and your voice in a professional or similarly thoughtful context: a strong README, design note, blog post, postmortem, proposal, or essay. A serious, self-contained Reddit post is fine. Tweets, Twitter/X threads, and short social posts do not count. Link it or paste a redacted excerpt. Tell us the intended audience, what you wrote, why you chose it, and any coauthors or AI assistance.</p></li></ul><p>Work from employment, open source, research, coursework, or independent projects is welcome. Public source code is optional. A redacted excerpt or a concrete account of private work is fine. Keep confidential information out of your application.</p><p>Tell us which problem in this role you want to own and why. If your strongest evidence is easy to miss on a resume, point us to it. An existing demo or short screen recording is welcome, and video is optional.</p><p>A portfolio case study can provide the work, analysis, and writing together. Include an interface we can inspect, what you changed after feedback, and what you would like to accomplish during a three-month season at Dedalus.</p><h3>Compensation</h3><p>Internship pay is $45-$50 per hour. The monthly range shown above is an approximate equivalent of $7,800-$8,667 at 40 hours per week, averaged over 52 weeks per year. Actual pay is based on hours worked.</p>",
+    "content_hash": "6df5ddadc502cf58e9b7aac02410290f"
+  },
+  "b5a3a5a0b9fb": {
+    "id": "b5a3a5a0b9fb",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer (Intern)",
+    "company": {
+      "slug": "sequence-holdings",
+      "name": "Sequence Holdings",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "seqholdings",
+      "external_id": "9dc9a7f3-198a-43c0-be75-a3aba228bf2c"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-09T14:16:06.066Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:22.200Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Sequence</h3><p>We are in the midst of the intelligence revolution. </p><p>In some industries, a startup will emerge from this period as a leader. In others, the incumbent will be vastly advantaged. We believe the opportunity is exponential when existing competitive attributes are paired with the power of AI.</p><p>Sequence acquires ambitious, established enterprises in the service economy and refounds them as market leaders. We bring capital, engineering and operational expertise to each business we partner with.</p><p>Our engineers work shoulder to shoulder with management teams to reimagine their business around what is now possible with AI. We rebuild operations, workflows, products and services from the ground up.</p><p>At the center is Atlas, our proprietary technology platform, which is deployed across every Sequence company. What we build and learn from one business strengthens Atlas for the next, creating a compounding advantage that accelerates every new refounding.</p><p>We elevate, not replace, human talent and judgment. We build and expand businesses to define what's possible for their industries.</p><p>Sequence is based in New York City and backed by 8VC, Conviction, Lux Capital and other strategic partners.</p><p></p><h3><strong>The Role</strong></h3><p>Engineering interns at Sequence work on the same problems as the full-time team — there are no intern projects here. You'll deploy into our operating companies to rebuild real workflows with AI, and build the platform infrastructure that makes every future transformation faster. You'll ship production systems that real operators depend on daily, and contribute to Atlas — the agent infrastructure, data systems, and developer tools that make the refounding motion repeatable across the portfolio.</p><h3><strong>Requirements</strong></h3><ul><li><p>Exceptional builder. Can turn ambitious ideas into simple, reliable products.</p></li><li><p>Demonstrated track record of impressive academic, professional, or entrepreneurial accomplishments.</p></li><li><p>Raw horsepower and tenacity. Will run through walls to deliver results.</p></li><li><p>Proven ability to build from zero to one.</p></li><li><p>Strong communicator. Can explain technical concepts to a non-technical audience and translate operator frustrations into system designs.</p></li><li><p>Comfortable with ambiguity. Can figure out what to build first when nothing is well-defined.</p></li><li><p>Genuine interest in how real businesses operate — not just the technology, but the people and the problems worth solving.</p></li></ul><p></p><h3>Our Values</h3><ul><li><p><strong>Earned Luck: </strong>We do not control markets, competition, timing, or chance. We control whether we are ready when they turn our way. Effort and preparation are the only variables entirely up to us, and we leave nothing on the table. Do the work before it is needed, at the highest standard. We are a small team going after massive opportunities: outwork everyone.</p></li><li><p><strong>Ownership: </strong>You are an owner of Sequence. Act like it. Treat our spaces and our money as your own; they are. Take pride in the work you ship. No task is beneath you, no detail too small. The small things compound.</p></li><li><p><strong>Long-Term Thinking: </strong>We are a permanent holding company: no fund clock, no exit to manage toward. That structure only works if we think the same way. Hold direction through good cycles and bad. Pay the short-term tax on the investments that compound. Always ask: what puts us on the steepest slope three years from now?</p></li><li><p><strong>Intellectual Honesty: </strong>The best idea wins, regardless of who says it. Debate openly; push back regardless of hierarchy. Share credit generously; take responsibility collectively. When we are wrong, we say so immediately, extract the lesson, and move on. Concealing mistakes is unacceptable.</p></li><li><p><strong>Customer-Centric: </strong>We have two customers: our portfolio companies, and the customers they serve. We succeed only when our customer’s customer does. Our job is to make our operating companies better at serving theirs.</p></li><li><p><strong>Stewardship: </strong>We inherit decades of someone else's work and trust. Respect it, understand it, then build on it. The goal is to make it the best it has ever been.</p></li><li><p><strong>Integrity: </strong>Our currency is trust. Everything we want comes through reputation: the next deal, the next hire, the next capital partner. Do the right thing, especially when no one is watching; reputation compounds faster than revenue and cannot be rebought.</p></li></ul>",
+    "content_hash": "c5ee37b1a800c20e285fb2f57bbe59d6"
+  }
+}

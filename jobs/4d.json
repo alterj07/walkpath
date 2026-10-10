@@ -1,0 +1,95 @@
+{
+  "4d68af0f88a2": {
+    "id": "4d68af0f88a2",
+    "title": "AI/Machine Learning Engineering Intern",
+    "title_raw": "AI/Machine Learning Engineering Intern",
+    "company": {
+      "slug": "gecko-robotics",
+      "name": "Gecko Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "New York City",
+      "city": "New York City",
+      "state": "NY",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "gecko-robotics",
+      "external_id": "c097505b-0a28-4a33-a917-268f463641e8"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T13:16:29.476Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:10.675Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 50,
+      "max": 90,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [
+      2027,
+      2028
+    ],
+    "summary": null,
+    "description_html": "<h3><strong>What We Do </strong></h3><p>Gecko Robotics is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.</p><p><strong>Role at a Glance</strong></p><p>Gecko Robotics is seeking an <strong>AI/ML Engineering Intern</strong> to join our Engineering team in New York for <strong>Summer 2027</strong>. This is a full-time, onsite internship, Monday through Friday.</p><p>Gecko collects some of the richest inspection data in the world: ultrasonic and other non-destructive testing (NDT) measurements from wall-climbing robots, paired with the documents, drawings, and operational records that describe the assets they inspect. You will work on a defined project that turns that data into decisions, building models and the systems around them that run reliably on real customer data. This is an engineering internship, not an analytics one. We build the systems that analyze the data, not just the analysis.</p><p>Due to government program requirements, candidates must be authorized to work in the United States.</p><p><strong>What you will do</strong></p><ul><li><p>Own a scoped machine learning project from problem framing through evaluation and integration, under the guidance of experienced engineers.</p></li><li><p>Build data pipelines in Python that clean, label, and structure NDT sensor data, documents, or operational records for model training and inference.</p></li><li><p>Train, evaluate, and iterate on models, and design evaluations that reflect how the output will be used in the field.</p></li><li><p>Integrate a model or LLM-based workflow into a service or tool that other engineers and Forward Deployment Engineers can use.</p></li><li><p>Investigate failure modes on messy, real-world data, document what you find, and recommend what to fix next.</p></li><li><p>Use version control, code review, testing, and experiment tracking to produce work others can reproduce and build on.</p></li><li><p>Present your project, results, and recommended next steps at the end of the internship.</p></li></ul><p></p><p><strong>Technologies We Use</strong></p><p>Python, PyTorch or similar ML frameworks, NumPy and pandas, SQL, LLM APIs and agent frameworks, Git, Linux, and cloud infrastructure (GCP). Depending on the project, you may also work with signal-processing tools for ultrasonic data, document-processing and information-extraction pipelines, or orchestration tools such as Airflow. The specific tools will depend on the assigned project.</p><p></p><p><strong>About You</strong></p><p>You are an engineer who happens to work in machine learning. You care whether a model works on real data, not just on a benchmark, and you are comfortable owning the code around the model: the pipeline, the evaluation, and the integration. You approach new problems methodically, communicate clearly about results and uncertainty, and are excited to be the first person to look at a problem.</p><p></p><p><strong>Required Skills</strong></p><ul><li><p>Currently pursuing a bachelor’s, master’s, or doctoral degree in computer science, electrical engineering, applied mathematics, physics, or a related technical discipline, with an expected graduation date between December 2027 and May 2028.</p></li><li><p>Ability to work onsite in New York, Monday through Friday, for the full Summer 2027 internship.</p></li><li><p>Strong programming experience in Python, including writing well-structured, tested code beyond notebooks.</p></li><li><p>Coursework or project experience in machine learning, including training and evaluating models on real datasets.</p></li><li><p>Working understanding of linear algebra, probability, and statistics.</p></li><li><p>Working familiarity with Git or similar version control systems.</p></li><li><p>Strong written and verbal communication skills, including the ability to explain results, quantify uncertainty, and collaborate on ambiguous problems.</p></li><li><p>Ability to independently close knowledge gaps, stay organized, and learn from feedback.</p></li></ul><p></p><p><strong>Preferred Skills</strong></p><ul><li><p>Graduate-level coursework or research in machine learning, signal processing, or computer vision.</p></li><li><p>Experience taking a model beyond a notebook: building a pipeline, an API, or a tool around it.</p></li><li><p>Experience with LLM APIs, retrieval, information extraction, or document understanding.</p></li><li><p>Experience with time-series or sensor data, especially ultrasonic, acoustic, or other physical measurements.</p></li><li><p>Exposure to cloud infrastructure, preferably GCP, and to containers such as Docker.</p></li><li><p>Interest in industrial, defense, or infrastructure applications where reliability matters.</p></li></ul><h3><strong>Who We Are</strong></h3><p>At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral parental leave, full medical, dental, and vision insurance, mental health, ongoing professional development, family planning assistance, and flexible paid time off. </p><p>Gecko values collaboration, innovation, and partnership, and we believe we do our best work when we're together in person. We’re an office-first culture but understand that sometimes you may need to work from home. Many people are in the office five days a week, others need a bit more flexibility. Ultimately, we care about the outcomes we achieve - and creating a culture of autonomy and trust that enables that impact.</p><p>Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer.  We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today’s infrastructure and give form to tomorrow’s. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal, state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we’d love to hear from you.</p>",
+    "content_hash": "7507b17d6e1bc497eb58942a3c722934"
+  },
+  "4de1ed06d973": {
+    "id": "4de1ed06d973",
+    "title": "Antenna Engineering Intern (Fall 2026)",
+    "title_raw": "Antenna Engineering Intern (Fall 2026)",
+    "company": {
+      "slug": "tacit",
+      "name": "Tacit",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "tacit",
+      "external_id": "9d8cf04c-4033-40ff-9af4-91dd8e4f02c6"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-26T12:20:58.440Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.261Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Fall 2026",
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Tacit</strong></p><p>We are an early-stage, deep tech startup based in San Francisco, developing innovative hardware that rethinks human-computer interaction. We are backed by General Catalyst, Khosla Ventures, and Greylock Partners, with a founding team from Stanford, BrainGate, Oculus, and Tesla. While we can’t reveal too much just yet, our team is tackling cutting-edge engineering challenges to bring revolutionary products to life.</p><h3><strong>About the role</strong></h3><p>We are seeking a highly motivated PhD student for an internship position to help develop and test our wireless sensing hardware. The successful candidate will work closely with our team of engineers and researchers to design, simulate, analyze, tape out, integrate, and validate advanced antenna systems. This role offers hands-on experience across full product lifecycle, with a focus on design optimization and performance reliability. This internship offers a chance to work on hard problems of great impact and a unique opportunity for direct involvement in 0-to-1 product development within a dynamic and collaborative startup environment.</p><h3><br /><strong>What you'll do</strong></h3><ul><li><p>Design and evaluation of antennas for a given wireless channel link budget starting from first-principles, while considering pros/cons of different solutions and trade-off between KPIs</p></li><li><p>Perform computational electromagnetic simulations and develop new simulation models using full-wave EM software tools</p></li><li><p>Analyze and interpret simulation results, providing insights and recommendations for design improvements and performance optimization </p></li><li><p>Build mock ups for proof-of-concept prototypes and test vehicles, build test fixtures and platforms, and create solutions to automate the antenna system development process, and data analysis of testing workflows </p></li><li><p>Assist in PCB layout design process, and DFM reviews -considering mass production readiness- with vendors and external manufacturing partners</p></li><li><p>Integrate antennas into complete device form factor by collaborating with cross-functional teams</p></li><li><p>Carry out antenna characterization and ensure that the antennas integrated in our products meet their specifications in free space and on-body from prototype to mass production </p></li><li><p>Assist in sensor calibration to reduce device-to-device variability and maintain reliable performance in different operating conditions and practical user-study cases across user populations </p></li><li><p>Optimize hardware system for low-noise/low-interference, high-resolution signal detection and processing, and ensure compliance with regulatory requirements and power budget </p></li><li><p>Document designs, experiments, and studies; and clearly report findings and recommendations to the wider team</p></li></ul><h3><strong>Requirements</strong></h3><ul><li><p>Currently enrolled in PhD program in Electrical Engineering, Physics, or a related field with a focus on antennas and/or computational electromagnetics. </p></li><li><p>Strong theoretical and practical understanding of antenna theory and electromagnetic wave propagation, as well as basic microwave engineering concepts (e.g. transmission lines, impedance matching, baluns, S-parameters, linear systems, filter design, etc.) • Proficiency in computational electromagnetic simulation tools (e.g., CST, XFDTD). </p></li><li><p>Experience in PCB schematic and layout tools (e.g. Altium Designer, Cadence) </p></li><li><p>Hands-on experience in microwave measurement equipment (vector network analyzers, spectrum analyzers, signal generators, etc.) </p></li><li><p>Hands-on experience designing, prototyping and building functional antenna systems </p></li><li><p>High work ethic, enthusiasm, flexibility, and resourcefulness </p></li><li><p>Excellent problem-solving skills, and ability to work independently and take initiative </p></li><li><p>Strong communication and documentation skills, and ability to work well in a team and across disciplines</p></li></ul><h3><strong>Strong candidates may have</strong></h3><ul><li><p>Experience in on-body or implantable wireless devices, sensing, imaging applications </p></li><li><p>Experience in any of: UWB, directional miniaturized antennas, multiband antennas, flexible electronics, e-textiles, ultra-low power wireless systems, integrated sensing and comms </p></li><li><p>Experience in design optimization and inverse design techniques for electromagnetics structures • Experience in de-sense, coexistence, EMC/EMI and OTA performance </p></li><li><p>Familiarity with AI/ML techniques for signal processing or time-series data (e.g., preprocessing, feature extraction, or integration with deep learning models) </p></li><li><p>Experience with Python or MATLAB for scripting, data processing and test automation </p></li><li><p>Desire for accountability and ownership —able to manage time effectively, drive tasks independently, and escalate and communicate issues and needs clearly </p></li><li><p>Publications or conference presentations in relevant areas</p></li></ul><h3><strong>Compensation Range</strong></h3><p>$40 - $60/hour</p>",
+    "content_hash": "293e081dee1584f018997190d5389983"
+  }
+}

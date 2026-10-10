@@ -1,0 +1,82 @@
+{
+  "3e9d9dfb8e06": {
+    "id": "3e9d9dfb8e06",
+    "title": "Mechatronics Engineering Intern",
+    "title_raw": "Mechatronics Engineering Intern",
+    "company": {
+      "slug": "harmattan-ai",
+      "name": "Harmattan AI",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Orly",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "harmattan-ai",
+      "external_id": "b9393dc2-3ddb-4459-b93b-bd0bfa732455"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/harmattan-ai/b9393dc2-3ddb-4459-b93b-bd0bfa732455/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T07:04:54.701Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:11.477Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>À propos</strong></h3><p>Harmattan AI est un acteur de nouvelle génération dans le secteur de la défense, spécialisé dans la conception de systèmes autonomes et évolutifs. En combinant ingénierie avancée, robotique et intelligence artificielle, nous développons des capacités opérationnelles pensées pour le terrain.</p><p>Notre croissance rapide reflète une ambition claire : équiper les forces armées avec des systèmes à la hauteur des enjeux actuels. Nous recherchons des profils prêts à s’engager dans un environnement technique exigeant, avec un fort sens de la mission et de l’impact.</p> <h3><strong>Rôle</strong></h3><p>Au sein de l'équipe Automatisation et Industrialisation, vous travaillez en binôme direct avec l'ingénieur automatisme sur la conception de solutions robotiques et de systèmes mécatroniques (actionneurs, vérins, capteurs, intégration électromécanique).</p><p>Le poste couvre l'ensemble de la chaîne : conception mécanique, intégration, et mise en mouvement par le développement de programmes machine.</p> <h3><strong>Responsabilités</strong></h3><p><strong>Conception mécanique &amp; mécatronique</strong></p><ul><li><p>Concevoir et modéliser des sous-systèmes mécaniques et mécatroniques (CAO)</p></li><li><p>Dimensionner et sélectionner les composants électromécaniques et pneumatiques (actionneurs, vérins, transmissions, capteurs)</p></li><li><p>Réaliser les mises en plan et suivre la réalisation des prototypes</p></li></ul><p><strong>Programmation &amp; automatisation</strong></p><ul><li><p>Développer des scripts de contrôle et d'automatisation (Python, URScript)</p></li><li><p>Participer à la programmation de microcontrôleurs, d'automates et/ou d’ordinateurs industriels (Raspberry Pi, PLC, IPC, appareils “edge-computing”)</p></li><li><p>Contribuer aux outils de test et d'acquisition de données</p></li></ul><p><strong>Tests, validation &amp; conception itérative</strong></p><ul><li><p>Concevoir et exécuter des protocoles de test sur prototypes</p></li><li><p>Analyser les résultats et itérer sur la conception</p></li><li><p>Contribuer au débogage des systèmes électromécaniques</p></li></ul><p><strong>Documentation &amp; méthodes</strong></p><ul><li><p>Rédiger la documentation technique (spécifications, nomenclatures, procédures)</p></li><li><p>Contribuer à la structuration des standards de conception</p></li><li><p>Mettre en place un système de suivi de projets d’automatisation</p></li></ul><p><strong>Collaboration transverse</strong></p><ul><li><p>Travailler en binôme avec l'ingénieur automatisation sur les projets robotiques</p></li><li><p>Interagir avec les équipes internes (R&amp;D, supply chain, IT) pour les besoins des projets</p></li><li><p>Interagir avec les fournisseurs pour la sélection de composants</p></li></ul> <h3><strong>Prérequis</strong></h3><p><strong>Background académique</strong></p><ul><li><p>Étudiant(e) en dernière année d'école d'ingénieur (Bac+5) ou équivalent, spécialisation mécatronique, robotique ou génie mécanique</p></li><li><p><strong>Stage de fin d'études d'une durée de 6 mois</strong></p></li></ul><p><strong>Compétences techniques</strong></p><ul><li><p>Solide maîtrise de la conception mécanique (CAO : SolidWorks, ou équivalent)</p></li><li><p>Bonnes bases en mécatronique (qualification et intégration capteurs/actionneurs, pneumatique, électromécanique)</p></li><li><p>Réelle appétence pour la programmation (Python, C/C++, programmation PLC) : vous n'avez pas peur d'écrire du code pour faire vivre vos conceptions</p></li></ul><p><strong>Compétences transverses</strong></p><ul><li><p><strong>Force de proposition:</strong> capacité à faire avancer des sujets techniques de bout en bout, en proposant des solutions concrètes.</p></li><li><p><strong>Curiosité:</strong> l’inconnu est pour vous une opportunité d’en apprendre davantage.</p></li><li><p><strong>Communication et influence:</strong> bonnes compétences en communication écrite et orale, permettant d'interagir avec des interlocuteurs variés dans un milieu international.<br />Une maîtrise de l’anglais technique est exigée.</p></li><li><p><strong>Engagement</strong> envers la mission et les ambitieux plans de croissance d'Harmattan AI.</p></li></ul> <p>Nous avons hâte de savoir comment vous pouvez contribuer à façonner l'avenir des systèmes de défense autonomes chez Harmattan AI.</p>",
+    "content_hash": "e3e3df79be0ac3eea4d1e058435c1bda"
+  },
+  "3ebbf19acf34": {
+    "id": "3ebbf19acf34",
+    "title": "Quantitative Developer Intern",
+    "title_raw": "Quantitative Developer Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "b6b2332e-1226-4575-b2c9-9e5258f2540e"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-14T17:28:27.165Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "quant_research",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>We’re looking for a highly motivated, intellectually curious, mission-driven software engineer to join our Markets team. As an intern, you’ll work on high-impact problems critical to Base’s success and deliver solutions alongside full-time team members.</p><p></p><h3><strong>What You'll Do</strong></h3><p>Algorithms &amp; Optimization: </p><p>At Base, we operate distributed energy resources that trade in real-time electricity and ancillary service markets. You’ll help design and implement sequential decision algorithms that determine when and how to trade. Responsibilities will include:</p><ul><li><p>Designing algorithms for trading a fleet of energy storage resources in ERCOT.</p></li><li><p>Validating physics- and economics-based models in a simulation environment.</p></li><li><p>Implementing and deploying new algorithms to our production trading stack.</p></li></ul><p></p><p>Risk &amp; Trading: </p><p>Base also enters into financial contracts to hedge against volatility in electricity markets. You’ll help identify, evaluate, and automate new hedging strategies. Responsibilities will include:</p><ul><li><p>Quantifying long-term financial risk under different operating strategies.</p></li><li><p>Identifying and assessing new products and contract structures.</p></li><li><p>Developing software to automate valuation and execution of trades.</p></li></ul><p></p><h3><strong>What You'll Bring</strong></h3><ul><li><p>First-principles thinker with a strong problem-solving mindset.</p></li><li><p>Expertise in optimization techniques and sequential decision-making algorithms.</p></li><li><p>Proficiency in statistics, machine learning, and data-driven decision-making.</p></li><li><p>Strong software engineering skills, including test-driven development and CI/CD workflows.</p></li><li><p>Proficiency in Python and SQL; ability to write clean, maintainable, and scalable code.</p></li></ul><p></p><h3><strong>Preferred Skills</strong></h3><ul><li><p>Knowledge of energy markets, energy systems, or wholesale power trading.</p></li><li><p>Experience in commodities, equities, or derivatives trading.</p></li></ul><p></p><h3><strong>About the Team</strong></h3><p>The Markets team at Base is tasked with ensuring the grid-support performance and profitability of Base’s distributed battery fleet. This encompasses device communications with balancing authorities, telemetry analysis, algorithms for fleet aggregation and economic dispatch, through to financial portfolio management in wholesale energy markets. Our team is made up of physicists, economists, computer scientists, and engineers; the best candidates will bring the day-over-day intensity of an operator with the foresight to drive the long term development of simpler, more performant automated control. Success looks like building the airplane as it falls out of the sky.</p><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "836135fe0f1af0af323d6ec0718cd588"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "c53583ed5985": {
+    "id": "c53583ed5985",
+    "title": "Intern/Associate Engineer - All Roles",
+    "title_raw": "Intern/Associate Engineer - All Roles",
+    "company": {
+      "slug": "starpath-robotics",
+      "name": "Starpath Robotics",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Hawthorne, CA",
+      "city": "Hawthorne",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "starpath.space",
+      "external_id": "a67d20c0-c331-4874-9588-ae5762a6a078"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/starpath.space/a67d20c0-c331-4874-9588-ae5762a6a078/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-25T22:32:00.605Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:23.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 70000,
+      "max": 90000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>Intern &amp; Associate Engineers</strong></p><p><strong>Position Details:</strong></p><ul><li><p>Location: Los Angeles (Hawthorne), CA</p></li><li><p>Employment Type: Internship</p></li><li><p>Department: Engineering</p></li><li><p>Travel: Occasional</p></li><li><p>Application Type: Rolling / Ongoing</p></li></ul><p></p><p><strong>The Mission</strong><br />Starpath develops and manufactures the technologies that will enable humans to live on the Moon and Mars. Today, we are building robotic systems that locally produce the essential commodities a lunar civilization will require at extreme scale: water, power, and oxygen. Our ultimate goal is to build and operate a self-sustaining city on Mars.</p><p></p><p><strong>Intern &amp; Associate Engineers</strong><br />We hire early-career engineers on a rolling basis throughout the year — both <strong>Interns</strong> (currently enrolled students) and <strong>Associates</strong> (recent graduates or Master's students). Applications are reviewed continuously; strong candidates are moved to screens as opportunities open across our teams. Whether you're joining us for a summer, a semester, or the start of your career, you'll work on real hardware alongside senior engineers, with real ownership from day one.</p><p>We hire across all of Starpath's programs — space solar, lunar surface infrastructure, and manufacturing operations — and across mechanical, chemistry, materials, electrical, software, manufacturing, and test disciplines. When you apply, tell us which program and discipline best match your background and interests.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li><p>Own a scoped project as a contributing member of a discipline team — design, analysis, test, manufacturing, or process development</p></li><li><p>Ramp on Starpath's engineering process, tools, and technical stack under the mentorship of senior engineers</p></li><li><p>Contribute to design reviews, test campaigns, and manufacturing improvements</p></li><li><p>Present your work internally and, for interns, at the end of your internship</p></li><li><p>Take on progressively harder problems as you build depth</p></li><li><p>Ask hard questions and push back when something doesn't make sense</p></li></ul><p></p><p><strong>Required Qualifications:</strong></p><ul><li><p><strong>For Interns</strong>: Currently enrolled in a Bachelor's or Master's program in engineering, chemistry, materials science, physics, computer science, or a related discipline. Must be a rising junior or senior at the time of the internship and returning to school at the end of the internship to continue academic studies for at least one quarter/semester</p></li><li><p><strong>For Associates</strong>: Bachelor's or Master's degree in engineering, chemistry, materials science, physics, computer science, or a related discipline; 0-2 years of full-time experience (internships and academic research applicable)</p></li><li><p>Collegiate project team or laboratory experience (e.g., Formula SAE, Baja SAE, Aero Design, Rocketry / IREC / Spaceport America Cup, Solar Car, Robotics (FRC/VEX), CubeSat/small satellite teams, or comparable)</p></li><li><p>CAD skills (any platform) and ability to make high quality engineering drawings, or equivalent discipline-specific hands-on tool proficiency</p></li><li><p>Demonstrated hands-on fabrication, laboratory, or build skills</p></li><li><p>High competence with, and fluid use of, engineering first principles in your discipline</p></li><li><p>U.S. Person status is required, as this position needs to access export-controlled data</p></li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><ul><li><p>Prior internship experience and/or leadership on a collegiate project team or research laboratory</p></li><li><p>Depth in a specific discipline through research, senior projects, or industry work</p></li><li><p>Experience with industry-standard tools in your discipline (e.g., NX/Teamcenter, SolidWorks, or Onshape for mechanical; FEA/CFD for analysis; wet chemistry and characterization for materials; embedded C for controls software)</p></li><li><p>Ability to integrate across disciplines — mechanical, electrical, software, or chemistry</p></li><li><p>Experience with machining, sheet metal, 3D printing, laser cutting, PCB assembly, or comparable fabrication skills</p></li><li><p>Coursework or research in areas relevant to space, chemistry, materials, robotics, or manufacturing</p></li></ul><p><strong>EAR Requirements:</strong></p><ul><li><p>To conform to U.S. Government export regulations, you must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State.</p></li></ul><p><strong>Equal Opportunity:</strong></p><ul><li><p>Starpath is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p></li></ul><p><strong>Benefits:</strong></p><p>At Starpath Robotics, base pay is just one part of your total rewards package. We also offer:</p><ul><li><p>Generous benefits including health, dental, vision, and retirement plans.</p></li><li><p>Paid time off, holidays, and flexible policies to support balance.</p></li><li><p>Professional growth opportunities through training and development.</p></li><li><p>The chance to own high-impact work that directly shapes the future of robotics &amp; space!</p></li><li><p>A collaborative, mission-driven culture where craftsmanship and innovation are celebrated.</p></li></ul>",
+    "content_hash": "eb205220ecfb05a97a4e4541f1ee2dec"
+  },
+  "c59cb19973da": {
+    "id": "c59cb19973da",
+    "title": "Operations Data & Automation Apprentice",
+    "title_raw": "Operations Data & Automation Apprentice",
+    "company": {
+      "slug": "back-market",
+      "name": "Back Market",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Bordeaux",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "backmarket",
+      "external_id": "8feb95fc-6c41-4b1b-adc1-4d090da2809d"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/backmarket/8feb95fc-6c41-4b1b-adc1-4d090da2809d/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-16T13:19:29.085Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.182Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": {
+      "min": 1250,
+      "max": 1450,
+      "currency": "EUR",
+      "period": "month"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Hi, we’re Back Market.</h3><p>We’re here to help <strong>make tech reliable, affordable, and better than new</strong>. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.</p><p>Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back Market, our positive impact on the planet grows. From our Customer Care representatives to our software engineer, every individual at Back Market cuts the planet — and consumers — a break. <strong>Our mission is simple: to do more with what we already have.</strong></p><p>Are you ready to join us?</p><p></p><p>Back Market is the leading global marketplace dedicated to refurbished tech. We give electronic devices a second life by connecting customers with professional refurbishers, making more sustainable technology accessible to everyone.</p><p>Trade-in enables customers to sell their used devices, including smartphones, tablets, gaming consoles and more to professional refurbishers through Back Market. It is an important part of our circularity strategy: it helps customers recover value from their devices while giving Sellers access to the supply they need to grow their refurbished business.</p><p>Trade-in is currently operated across several markets, including 4 EU countries, the UK and the US, with further country and category expansion planned. Operations cover many different operational areas including logistics, fraud, CRM, customer care, payments, catalog and more.</p><p></p> <p>Trade-in Operations is a transversal scope covering the entire Trade-in journey, including payments, customer care, CRM, catalog, pricing, seller operations, logistics, fraud &amp; more.</p><p>Our mission is to make sure that customers and sellers experience a smooth, reliable and efficient Trade-in service. This means understanding how the service works end to end, getting hands-on with operational issues, managing incidents, finding solutions and continuously improving the way we work.</p><p>You will work close to the day-to-day operations, executing processes and understanding where problems really occur. The objective is then to use data, automation, AI and process improvement to make these operations simpler, faster and more scalable.</p><p></p><h3><strong>YOUR MISSION (IF YOU ACCEPT IT):</strong> 🥇</h3><p></p><p><strong>1. Ensure smooth operations from day one</strong></p><p>You will take ownership of operational processes and checks, making sure that important tasks are completed accurately and on time. This may include:</p><ul><li><p>Maintaining the Trade-in Catalog and product matching</p></li><li><p>Monitoring pricing and identifying inconsistencies</p></li><li><p>Supporting Seller limit adjustments and Seller reactivation processes</p></li><li><p>Updating customer and agent-facing content</p></li><li><p>Supporting transactional CRM communications</p></li><li><p>Monitoring fraud-related processes</p></li><li><p>Investigating operational issues and coordinating incident resolution</p></li></ul><p>These activities are essential to understanding the service and building the expertise needed to improve it.</p><p></p><p><strong>2. Improve operations and create measurable impact</strong></p><p>You will identify opportunities to improve, simplify and automate processes:</p><ul><li><p>Analyse data to identify recurring issues and root causes</p></li><li><p>Build or improve reports, dashboards, alerts and monitoring</p></li><li><p>Simplify manual workflows and reduce unnecessary steps</p></li><li><p>Prototype automation using available tools, AI and workflow platforms</p></li><li><p>Improve incident detection and reduce resolution time</p></li><li><p>Track the impact of your improvements on incident rates, manual effort, customer satisfaction and seller experiences</p></li><li><p>Document processes and create reliable playbooks for the teams</p></li><li><p>Contribute to the evaluation and improvement of our AI chatbot for customer support</p></li></ul><p>The goal is to turn recurring operational work into measurable improvements, not simply to execute tasks more efficiently.</p><p></p><p><strong>3. Enable Trade-in to scale</strong></p><p>Trade-in plans to open additional countries and categories while continuing to improve its performance. We cannot rely on increasing operational resources in proportion to the business.</p><p>You will help prepare the service for this growth by:</p><ul><li><p>Standardising processes and making them easier to replicate</p></li><li><p>Designing scalable workflows and controls</p></li><li><p>Automating repetitive checks and actions</p></li><li><p>Making operational knowledge easier to share across markets</p></li><li><p>Helping ensure that new launches do not create an equivalent increase in manual work</p></li></ul><p>Success in this role means helping Trade-in handle more volume, countries and categories with fewer incidents, faster resolution times, better customer and seller experiences, and less manual effort.</p><p></p><h3><strong>YOU ARE IN THE RIGHT PLACE IF:</strong> ⭐</h3><ul><li><p>You are hands-on, curious and solutions-oriented</p></li><li><p>You enjoy investigating problems and finding ways to make things work better</p></li><li><p>You are comfortable starting with operational execution to understand how things work and using it as a foundation for improvement</p></li><li><p>You are comfortable with spreadsheets and data extraction (SQL) and analysis</p></li><li><p>You are curious about processes, automation, AI and tools such as Braze (CRM), Intercom (Customer Care), Zapier and Workato (automation), Tableau and Omni (data visualization)</p></li><li><p>You communicate clearly in English, both in writing and verbally</p></li><li><p>You want to see the concrete impact of your work on a real, 360 business scope</p><p></p></li></ul><h3><strong>ABOUT THE APPRENTICESHIP ℹ️</strong></h3><ul><li><p>Starting date: January 2027</p></li><li><p>Duration: Ideally for 12 months (24months to be discussed).</p></li><li><p>Location: Bordeaux, France</p></li><li><p>Contract: You must already be enrolled in a work-study program in a French school (contrat d'alternance / d'apprentissage)</p></li></ul><p></p><h3><strong>RECRUITMENT PROCESS:</strong> 📅</h3><ul><li><p>Skills and cultural fit interview with the Hiring Manager</p></li><li><p>Video-call interview with the Talent Acquisition Specialist</p></li><li><p>Live business case interview with a team member</p></li></ul><p></p><h3><strong>WHY SHOULD YOU JOIN US ? ✌🏼</strong></h3><p>At Back Market, we’re committed to hiring and supporting diverse teams of people from all backgrounds, experiences, and perspectives — it’s one of the reasons we’re such a high-scoring certified B Corp company (93.2).</p><p>No matter your role and seniority level, you’ll enjoy impact-driven work with hands-on career development in an innovative, driven, and fast-paced environment — with benefits to match, like:</p><p>- A mission driven work environment where your day to day makes an impact on the planet. Seriously.</p><p>- Hybrid work environment, with 2 remote days a week and 1 remote work week per quarter, plus 3 flex days.</p><p>- Employee Resource Groups, including mentorship programs, comprehensive accessibility policies, and cultural competency training.</p><p>At Back Market, we strive to create a workplace that embodies the world we’re trying to change. We’ve embedded our diversity, equity, and inclusion principles into our DNA — from dedicated staff to employee resource groups to our company values.</p><p>We know that the perfect background for a role doesn’t mean the perfect fit — we encourage you to apply for a role even if you think you may not have all the qualifications.</p><p>If reasonable accommodations are needed for the interview process, please do not hesitate to discuss this with the Talent Acquisition Team.</p>",
+    "content_hash": "54750e99d95167af5990850e99a4e0d6"
+  },
+  "c5c32e2f450c": {
+    "id": "c5c32e2f450c",
+    "title": "2027 DevOps Summer Internship",
+    "title_raw": "2027 DevOps Summer Internship",
+    "company": {
+      "slug": "advanced-space",
+      "name": "Advanced Space",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Westminster, CO",
+      "city": "Westminster",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "greenhouse",
+      "board": "advancedspace",
+      "external_id": "4333179009"
+    },
+    "apply_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-24T20:17:46.000Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:34.737Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 26,
+      "max": 35,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Advanced Space | 2027 Summer Internship | Onsite </p>\n<p><strong>We’re going to the Moon. Think you’ve got what it takes? </strong></p>\n<p></p>\n<p><strong>About the Role</strong> </p>\n<p>At Advanced Space, we're enabling humanity's return to the Moon and building the technologies that will take us to Mars and beyond. We're looking for a <strong>2027 DevOps Summer Intern</strong> to join our DevOps team and gain hands-on experience supporting the cloud infrastructure, development tools, and automation processes that enable mission-focused software development.</p>\n<p>As a DevOps Intern, you'll work alongside experienced technical staff who will provide mentorship and guidance throughout your internship. You'll contribute to projects that support cloud operations, automation, system reliability, and secure software development practices while learning how modern DevOps workflows support real aerospace missions.</p>\n<p>This internship is ideal for students interested in cloud computing, infrastructure, automation, cybersecurity, and software development operations. You'll have the opportunity to apply your technical skills while gaining experience with industry-standard tools and technologies used to support engineering teams.</p>\n<p></p>\n<p><strong>About Advanced Space</strong> </p>\n<p>Advanced Space exists to enable the sustainable exploration, development, and settlement of space through innovative software, mission services, and technology solutions. As the owner and operator of NASA's CAPSTONE™ mission and the Prime Contractor for AFRL's Oracle mission, we're helping shape the future of cislunar exploration while supporting commercial, civil, and national security customers. </p>\n<p>Our team combines deep technical expertise with an entrepreneurial mindset. We move quickly, collaborate across disciplines, and empower every engineer to make meaningful contributions. If you're passionate about solving challenging problems and seeing your work fly in space, you'll fit right in. </p>\n<p></p>\n<p><strong>What You'll Actually Do</strong> </p>\n<p><strong>Support DevOps and cloud infrastructure initiatives.</strong></p>\n<p>Work alongside technical staff on summer projects focused on improving development workflows, infrastructure reliability, and engineering productivity.</p>\n<p><strong>Gain hands-on experience with modern DevOps tools.</strong></p>\n<p>Support projects involving:</p>\n<ul>\n<li>DevOps support across engineering teams and the company</li>\n<li>Automation and scripting using tools such as Terraform and CloudFormation</li>\n<li>Management and administration of platforms including GitLab, Artifactory, and SonarQube</li>\n<li>AWS environment maintenance and patching activities</li>\n<li>Cloud infrastructure and operational improvements</li>\n</ul>\n<p><strong>Learn cloud and automation practices.</strong></p>\n<p>Gain exposure to technologies such as:</p>\n<ul>\n<li>AWS services including EC2, S3, Lambda, IAM, and Bedrock</li>\n<li>Infrastructure as Code (IaC)</li>\n<li>Containerized workflows and orchestration technologies such as Kubernetes</li>\n<li>CI/CD pipelines and secure development practices</li>\n</ul>\n<p><strong>Share your work and findings.</strong></p>\n<p>Present project results through technical reports, presentations, and discussions with members of the DevOps team.</p>\n<p></p>\n<p><strong>Who Thrives Here</strong> </p>\n<ul>\n<li>You are currently pursuing a degree in <strong>Computer Science, Software Engineering, Information Systems, Cybersecurity, Computer Engineering, or another related technical discipline</strong>.</li>\n<li>You have a foundational understanding of <strong>computer programming, operating systems, and software development practices</strong>.</li>\n<li>You have an interest in <strong>cloud computing, infrastructure, automation, cybersecurity, and DevOps</strong>.</li>\n<li>You have experience with or exposure to <strong>Git and version control systems</strong>.</li>\n<li>You have familiarity with <strong>Linux/Unix command-line environments and basic system navigation</strong>.</li>\n<li>You enjoy solving complex technical problems and exploring new approaches to improving engineering workflows.</li>\n<li>You are curious, collaborative, and excited to learn from experienced technical staff.</li>\n</ul>\n<p></p>\n<p><strong>Bonus Points if You Have Experience With</strong></p>\n<ul>\n<li>AWS or other cloud platforms</li>\n<li>Infrastructure as Code tools such as <strong>Terraform or CloudFormation</strong></li>\n<li>Python, Bash, PowerShell, or other scripting languages</li>\n<li>GitLab, Artifactory, SonarQube, or similar development platforms</li>\n<li>CI/CD pipelines</li>\n<li>Docker or Kubernetes</li>\n<li>Cloud security or cybersecurity concepts</li>\n<li>Linux system administration</li>\n<li>Networking fundamentals</li>\n<li>Automation or personal software/infrastructure projects</li>\n</ul>\n<p></p>\n<p><strong>Success is Measured By</strong> </p>\n<ul>\n<li>Successfully contributing to meaningful DevOps, cloud infrastructure, and automation projects.</li>\n<li>Applying technical knowledge to improve real-world engineering workflows and infrastructure.</li>\n<li>Developing technical skills through mentorship and hands-on experience.</li>\n<li>Communicating technical findings clearly through presentations and documentation.</li>\n<li>Building a stronger foundation for a future career in DevOps, cloud engineering, infrastructure, or software development.</li>\n</ul>\n<p></p>\n<p><strong>Why Join Advanced Space</strong> </p>\n<ul>\n<li>Gain hands-on experience supporting real missions to the Moon and beyond.</li>\n<li>Work alongside engineers solving some of the most challenging problems in space exploration.</li>\n<li>Apply classroom knowledge to real aerospace projects.</li>\n<li>Receive mentorship and guidance from experienced technical staff.</li>\n<li>Be part of a team that's passionate about delivering innovation to orbit—and beyond.</li>\n</ul>\n<p></p>\n<p><strong>Compensation &amp; Benefits</strong> </p>\n<ul>\n<li>Competitive internship compensation: <strong>$26–$35/hour</strong></li>\n<li>Housing stipend</li>\n<li>Mentorship and guidance from technical staff</li>\n<li>Opportunities to contribute to research projects directly tied to active space missions</li>\n<li>Collaborative work environment at our Westminster, Colorado headquarters</li>\n</ul>\n<p></p>\n<p><strong>Eligibility Requirements</strong></p>\n<ul>\n<li>Applicants must be a U.S. person (U.S. citizen, permanent resident/green card holder, or protected individual).</li>\n<li>Must be able to work in-person at our Westminster, CO office.</li>\n<li>Applications will be evaluated and interviewed on a rolling basis. Final deadline: <strong>Monday, November 2, 2026 at 11:59 pm MT.</strong></li>\n</ul>\n<p></p>\n<p><strong>Advanced Space is an Equal Opportunity Employer.</strong> We celebrate diversity and are committed to creating an inclusive workplace for all employees. Employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. </p>",
+    "content_hash": "824247f996d43cda75f1ff6106dbefc0"
+  }
+}

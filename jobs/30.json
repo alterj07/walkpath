@@ -1,0 +1,131 @@
+{
+  "3010d04fef03": {
+    "id": "3010d04fef03",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "creatify-lab",
+      "name": "Creatify Lab",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Mountain View",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "creatify",
+      "external_id": "75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-03-18T06:33:23.897Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:07.294Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Immediate",
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": false,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><strong>About Creatify</strong></p><p>Creatify is building the world’s first end-to-end AI advertising agent—a platform that automates the entire video ad lifecycle, from scripting and avatar-led generation to testing, optimization, and publishing across Meta, TikTok, YouTube, and more.</p><p>We’ve surpassed 3 million users across 18,000+ teams. Leading brands—including Applovin, Alibaba, HubSpot, Binance, NewsBreak, and Zumper—use Creatify to produce personalized, high-performing video ads in minutes.</p><p>We have raised $24M in funding from leading Silicon Valley firms including WndrCo, Kindred Ventures, Millennium New Horizons, NFDG, Comcast Ventures, Creator Ventures, Leadout Capital, Hat Trick Capital, and many more. Check out our latest coverage by Fast Company, TechCrunch, Bloomberg TV, and our recognition as one of IVP Enterprise AI 55 in 2024. </p><p>Based in Mountain View, we are a team of passionate AI researchers, engineers, and advertising veterans. Join us in reinventing the advertising industry with AI.</p><p></p><h3>About this role</h3><p>Creatify is seeking a <strong>full-time Software Engineering Intern (Full-Stack)</strong> to support our engineering team in building and improving our AI-powered video advertising platform.</p><p>The intern will work closely with engineers, product managers, and designers to contribute to real product features across both frontend and backend systems.</p><p>This role is intended to provide hands-on learning experience in a fast-paced startup environment while contributing to production-level code and systems.</p><ul><li><p><strong>Start Date: </strong>prefer to start as soon as possible, this is not a cohort based role.</p></li><li><p><strong>Work Authorization: </strong>Candidates must be authorized to work in the U.S. We welcome applicants eligible under CPT or OPT.</p></li></ul><p></p><h3>Responsibilities</h3><p>You will be responsible for creating responsive web designs, coding frontends and backends, and collaborating with PMs and designers to deliver features. </p><p></p><h3>Qualifications</h3><ul><li><p>Proficiency in React, Python, and frameworks like Django or Flask.</p></li><li><p>Familiarity with Docker, SQL, and cloud services like AWS, GCP, or Azure.</p></li><li><p>Previous experience in video, ads, AI is a significant plus.</p></li><li><p>Fast-paced work style. We operate at a high speed, and so should you.</p></li><li><p>Excellent communication, teamwork skills, and problem-solving ability.</p></li><li><p>A genuinely nice person.</p></li></ul><p>We are an equal opportunity employer and highly value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>",
+    "content_hash": "16b6eae1b504a427326b83a7c7381d01"
+  },
+  "307914dc2fdb": {
+    "id": "307914dc2fdb",
+    "title": "Computer Science Internship Summer 2027",
+    "title_raw": "Computer Science Internship Summer 2027",
+    "company": {
+      "slug": "anavation",
+      "name": "AnaVation",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Antonio, TX",
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "remote",
+      "others": [
+        "Chantilly, VA"
+      ]
+    },
+    "source": {
+      "ats": "lever",
+      "board": "anavationllc",
+      "external_id": "a5c70b6a-2d16-4774-9043-677456614b1b"
+    },
+    "apply_url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-08T20:19:47.516Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:43:56.079Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": true,
+    "sponsorship": "no",
+    "grad_years": [
+      2028
+    ],
+    "summary": null,
+    "description_html": "AnaVation is currently looking for hard working, bright, and energetic undergraduate students to join our 2027 Summer Internship Program. We have opportunities to support software design, coding, debugging, cyber security and data science focuses. \n \n<strong>Overview of Internship Program:</strong> \nThe summer program offers a ten-week paid internship with AnaVation.  This will be a remote internship but the team will be local to San Antonio, TX so in person collaboration will be possible.  The internship program is a combination of mentoring, learning activities, and project work designed to give broad exposure to the inner workings of a government contracting small business and professional information technology development and support. The nature of the assignments will vary, allowing opportunity to exercise customization and creativity, while providing a practical and challenging business experience. \n \nLunch &amp; Learn series with company management and technical leaders \nProfessional/Career development workshops and activities \n \n<h3>Responsibilities include but not limited to: </h3>\nCyber Security techniques for offensive and defensive missions  \nCreating custom software applications; including, idea, development, and testing  \nDeveloping technology demonstrations leveraging commercial cloud infrastructures (Amazon Web Services (AWS), Microsoft Azure, etc.)  \nAssessment of new application ideas  \nResearch competitor offerings.  \nDevelop applications (coding, programming) as team and demonstrating a prototype at the end of the internship to company leadership.  \n\n<h3>Qualifications: </h3>\nMust be a US citizen with ability to obtain a US Government security clearance. We will offer the opportunity to sponsor successful candidates for a Security Clearance  \nComputer Science Major with targeted graduation date of May 2028.  \nApplicants should have excellent analytical and math skills, with the ability to work in teams.   \nMinimum 3.0 grade point average  \nComputer literacy; proficient in the Microsoft Office Suite  \nDemonstrated work ethic, goal-oriented, and history of academic success.  \nExcellent written and verbal communication skills, critical thinker, leader, team player, and self-managed learner  \n\n<h3>Preferred Qualifications: </h3>\nExperience with a group programing project.  \nExperience with Agile Processes especially Scrum  \nProficient in Java and Python  \nExperience with Front End and/or Back End development.  \nExperience with NodeJS  \nExperience with GIT  \nExperience with Cloud Systems (AWS, Azure, Google Cloud)  \nDeveloping software projects as a hobby.",
+    "content_hash": "b4bcf1951e51fc2e3a966d2ecb5377b1"
+  },
+  "30ae39df5ba4": {
+    "id": "30ae39df5ba4",
+    "title": "Software Engineer (Agent Platform) - Intern",
+    "title_raw": "Software Engineer (Agent Platform) - Intern - 2026-2027",
+    "company": {
+      "slug": "netic",
+      "name": "Netic",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "netic",
+      "external_id": "b0ea7aab-8eea-4d31-96f9-278364180ae7"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-07-16T02:49:06.481Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:16.601Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2026",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Netic is the AI revenue engine for essential services who are the backbone of the American economy.  <strong>With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.</strong> There are now companies operating entirely AI-first on Netic.</p><p></p><p>You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.</p><p></p><p>Netic's Software Engineers working on the Agent Platform team build the features that let our AI agents build, test, and improve themselves. This isn't a role writing one-off prompts. You'll work on the orchestration layer, execution harnesses, and the \"Agent Manager\" system that allows agents to author, evaluate, and optimize other agents autonomously. This is one of the hardest and most leveraged problems in applied AI today, and you'll have a dedicated mentor guiding you end-to-end.</p> <p>We need to hire multiple engineers for 12-week internships on our Agent Platform team that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better.</p> <p><strong>What You'll Do:</strong></p><ul><li><p><strong>Build the orchestration layer:</strong> Design and ship the systems that route, sequence, and supervise multi-agent workflows across customer environments in real time.</p></li><li><p><strong>Extend agent harnesses:</strong> Build the tooling, sandboxes, and eval loops agents use to test and validate their own outputs before changes reach production.</p></li><li><p><strong>Work on Agent Manager:</strong> Contribute to the internal system where agents propose, test, and roll out improvements to other agents. This including guardrails, rollback paths, and human-in-the-loop checkpoints.</p></li><li><p><strong>Ship agentic products:</strong> Design, code, and ship full-stack features for Netic's agent platform, from data models to APIs to front-end tooling.</p></li><li><p><strong>Co-create with customers:</strong> Work with real customer workflows to surface where automated agent-improvement can and can't be trusted, and turn those edge cases into platform safeguards.</p></li></ul> <p><strong>What You'll Learn / Bring:</strong></p><ul><li><p><strong>Systems fundamentals:</strong> Comfort with Python (asyncio, FastAPI) and TypeScript (Node, React); CS fundamentals in distributed systems.</p></li><li><p><strong>Agent tooling exposure:</strong> Coursework, internship, or personal-project experience with LLM APIs, eval frameworks, RAG, or agent frameworks (LangChain, MCP, or similar) — production experience not required, curiosity is.</p></li><li><p><strong>Orchestration mindset:</strong> Interest in how multi-step, multi-agent systems coordinate state, tool calls, and failure recovery — you don't need to have built this before, but you should be excited to.</p></li><li><p><strong>Founder-level ownership:</strong> Track record of shipping full projects (school, internship, or personal) end-to-end, not just isolated assignments.</p></li><li><p><strong>Comfortable with ambiguity:</strong> You'll be working on bleeding edge areas within agentic AI, but that means you'll be tackling problems that don't have established best practices yet. There isn't much of a playbook for agents building agents. You should be excited to help define them and write it.</p></li></ul><p></p><p>What brings us together is our commitment to:</p><ul><li><p>Live to build</p></li><li><p>Run through walls and win</p></li><li><p>Obsess over customers in each line of code</p></li><li><p>Lose sleep over the \"almost perfect\"</p></li><li><p>Show internal locus of control</p></li><li><p>Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship</p></li></ul><p></p><p><em>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. </em></p>",
+    "content_hash": "7c3200577b3df00ed8eb44c0ad4fce91"
+  }
+}

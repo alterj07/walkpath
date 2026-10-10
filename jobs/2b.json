@@ -1,0 +1,84 @@
+{
+  "2b6c0544cab5": {
+    "id": "2b6c0544cab5",
+    "title": "Product Manager Internship",
+    "title_raw": "Product Manager Internship",
+    "company": {
+      "slug": "sweatpals",
+      "name": "Sweatpals",
+      "domain": ""
+    },
+    "location": {
+      "raw": "USA",
+      "city": null,
+      "state": null,
+      "country": "US",
+      "arrangement": "remote",
+      "others": [
+        "Remote"
+      ]
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "sweatpals",
+      "external_id": "be2f5fa7-2542-40e6-873f-778322bb0522"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-06-09T18:43:52.836Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:24.121Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "product",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Sweatpals</strong></h3><p>Sweatpals is the community-first fitness platform turning workouts into social experiences. Backed by a16z speedrun, Patron, Kevin Hart, Pear VC, and founders of Instacart and Dreamworks Animations, we connect hundreds of thousands of \"pals,\" hosts, and gyms through events, memberships, and social features. We're still scrappy at heart, but scaling fast.</p><p>We believe working out should be joyful, social, and inclusive, not just a solo grind. From run clubs and beach pilates to pickleball leagues and cold plunge socials, Sweatpals turns everyday workouts into meaningful social experiences.</p><p>Sweatpals also gives local leaders the tools to grow their fitness communities from side hustles to full-time, even million-dollar businesses. Hosts use our platform to run their business, from ticketing and memberships to marketing tools.</p><p>We're an AI-forward company. If you're excited about building real products for real communities at the intersection of technology and human connection, you'll fit right in.</p><p></p><h3><strong>The Role</strong></h3><p>We're bringing on a PM intern to support the Host Squad product team during a high-velocity summer. The Host Squad owns the core product experience for fitness and wellness professionals — the community hosts, gym and studio owners, and instructors and who run their business on Sweatpals. Think ticketing, memberships, scheduling, co-hosting, campaigns, and the analytics that help hosts grow.</p><p>This is a hands-on PM role — not a research or ops role. You'll work directly with a Senior Product Manager and own specific deliverables end-to-end, collaborating daily with Engineering, Design, and QA across areas like core flow quality, backlog prioritization, and product strategy.</p><p></p><h3><strong>Responsibilities</strong></h3><h3>1. Core Product Ownership</h3><p>Get deep into the most critical parts of our host product — the flows and features that drive revenue, retention, and day-to-day operations for fitness professionals. You'll identify what could be better, what's broken, then own driving improvements from idea to shipped.</p><ul><li><p>Dig into high-impact areas including experience/appointment creation, ticket transfers, co-hosting, and beyond</p></li><li><p>Identify gaps, edge cases, and failure states with a structured, user-centered lens</p></li><li><p>Propose and prioritize improvements, then partner with engineering and design to execute them</p></li><li><p>Where scope allows, own new feature work end-to-end — from problem definition and spec to launch</p></li></ul><h3>2. Product Strategy &amp; Analytics Projects</h3><p>Take ownership of discrete research and strategy work streams:</p><ul><li><p>Define and drive analytics for recently launched features — identify what to measure, work with engineering to ensure tracking is in place, and synthesize early signal into actionable takeaways</p></li><li><p>Own a competitive analysis workstream for growth-adjacent features (referrals, PLG, network effects) and synthesize findings into clear product recommendations</p></li><li><p>Data analysis and synthesis to support roadmap decisions</p></li><li><p>Where relevant, contribute to 0-to-1 discovery work for upcoming features — user research synthesis, problem framing, or lightweight spec writing</p></li></ul><h3>3. Backlog Triage &amp; Prioritization Support</h3><p>Help bring order to a complex backlog:</p><ul><li><p>Develop and apply a bug priority rubric for revenue-generating and operations-critical workflows</p></li><li><p>Maintain backlog health: consolidate duplicates, triage stale items, and ensure active issues have the right context, owners, and priorities</p></li><li><p>Support roadmap sequencing discussions by helping surface tradeoffs, dependencies, and effort/impact signals</p></li></ul><h3><strong>What We're Looking For</strong></h3><ul><li><p>Currently enrolled in an MBA, master's, or other graduate program — or a strong undergraduate candidate with relevant experience</p></li><li><p>Prior experience in product management, engineering, or a fast-moving startup role is highly preferred</p></li><li><p>Strong product instincts: you think about users, flows, and edge cases naturally</p></li><li><p>Data fluency — comfortable reading analytics dashboards, writing basic SQL, or at minimum knowing the right questions to ask and how to get answers</p></li><li><p>Exceptional written communication: your specs, tickets, and async updates are clear and concise without over-explaining</p></li><li><p>Comfort operating with ambiguity — we'll give you context and direction, but you'll need to drive your workstreams independently</p></li><li><p>High ownership mindset: you follow through, flag blockers early, and treat your deliverables as if they ship to production</p></li><li><p>Bonus: experience with B2B SaaS, marketplace, or fitness/wellness verticals</p></li><li><p>Bonus: familiarity with Linear, Notion, Amplitude, or similar product tooling</p></li></ul><h3><strong>Why Join</strong></h3><ul><li><p><strong>Real ownership</strong>: You'll own workstreams end-to-end and see your output directly shape what the team ships — not get handed busy work</p></li><li><p><strong>Proximity to the product</strong>: You'll work directly with a Senior PM, embed with the engineering and design team, and be in the room (or Slack thread) where product decisions get made</p></li><li><p><strong>AI-native environment</strong>: AI isn't a side project here — it's core to how we build. You'll use AI tools daily to move faster, and you'll have a front-row seat (and a voice) in how AI features get conceived and prioritized on a live marketplace</p></li><li><p><strong>Path to full-time</strong>: Strong performers are considered for full-time roles at the end of the summer</p></li><li><p><strong>Fast-moving and high-signal</strong>: Short feedback loops, real stakes, and a team that values your perspective. The pace is real but so is the growth</p></li></ul><h3>Our Values</h3><ul><li><p><strong>Celebrate Diversity of Thought:</strong> We embrace different backgrounds, opinions, and ways of thinking. We don't just welcome disagreement, we believe it makes the product better.</p></li><li><p><strong>Be a Leader:</strong> We take initiative, speak up, and drive things forward, no matter your title. Leadership is a mindset, not a level.</p></li><li><p><strong>Roll Up Our Sleeves:</strong> We do what it takes. No job is too small when we're building something big.</p></li><li><p><strong>Embrace Adventure:</strong> We stay curious, push boundaries, and see challenges as opportunities. Startups are a rollercoaster and we're here for the ride.</p></li><li><p><strong>Make Excellence the Baseline:</strong> We hold a high bar for quality and follow through. Doing great work is the starting point, not the finish line.</p></li></ul><p>We're still early, which means your work will shape our path and our impact on communities and businesses everywhere. If you're excited by challenge, autonomy, and building something that matters, you'll feel at home here.</p>",
+    "content_hash": "ec898d4f68f3b478cbc304dda171a80c"
+  },
+  "2bd8364c40aa": {
+    "id": "2bd8364c40aa",
+    "title": "Supplier Management Engineering (SME) Intern - Summer 2027",
+    "title_raw": "Supplier Management Engineering (SME) Intern - Summer 2027 - Smyrna, TN",
+    "company": {
+      "slug": "nissan",
+      "name": "Nissan",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Smyrna, Tennessee - United States of America",
+      "city": "Smyrna",
+      "state": "TN",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "workday",
+      "board": "alliance/nissanjobs",
+      "external_id": "R00214288"
+    },
+    "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supplier-Management-Engineering--SME--Intern---Summer-2027---Smyrna--TN_R00214288",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-10T02:58:44.510Z",
+    "posted_at_source": "WORKDAY_TEXT",
+    "first_seen_at": "2026-10-10T02:58:44.510Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><b>Location(s):</b> Smyrna, TN<br /><b>Job Schedule:</b> Full-time, 12-week program<br /><b>Degree Level:</b> Junior or Senior<br /><b>Preferred Degree:</b> Mechanical Engineering, Industrial Engineering, Manufacturing Engineering, Quality Engineering, Electrical Engineering, or related engineering field<br /><b>Sponsorship:</b> Not Available</p><br /><p>Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation</p><br /><p>We are currently looking for a Supplier Management Engineering (SME) Intern to join our team in Smyrna, TN. Supplier Management Engineering serves as the connection between Nissan and its supplier partners, helping ensure the quality, performance, and readiness of components used in current and future vehicle programs. This internship provides an opportunity to work alongside experienced engineers on projects that directly support vehicle quality, manufacturing operations, and new model launches through problem-solving, data analysis, manufacturing process evaluation, and supplier collaboration. Interns will gain valuable hands-on experience and exposure to the teamwork required to bring vehicles from development to production.</p><br /><h3>A Day in the Life:</h3><ul><li>Analyze quality and manufacturing data to identify trends, investigate issues, and recommend improvements.</li><li>Evaluate manufacturing processes and error-proofing methods to identify opportunities for quality and efficiency enhancements.</li><li>Support engineering studies involving product design, dimensional variation, and tolerance analysis to resolve technical concerns.</li><li>Help develop, improve, and validate inspection methods, measurement fixtures, and quality control processes.</li><li>Create tools, dashboards, training materials, and other solutions that improve team performance and decision-making.</li></ul><br /><h3>Who We’re Looking For:</h3><p><b>Required:</b></p><ul><li>Must be currently enrolled in an undergraduate or graduate degree program in Mechanical Engineering, Industrial Engineering, Manufacturing Engineering, Quality Engineering, Electrical Engineering, or a related engineering field.</li><li>Students entering their Junior, Senior, or Master's program at the start of the upcoming academic term.</li><li>Strong problem-solving and analytical thinking skills with the ability to investigate issues and develop practical solutions.</li><li>Strong verbal and written communication skills with the ability to collaborate effectively across teams and build relationships with stakeholders.</li><li>Technical curiosity and a willingness to learn new processes, technologies, manufacturing methods, and engineering concepts.</li><li>Proficiency in Microsoft Excel and other analytical tools used to organize, evaluate, and present information.</li><li>Basic understanding of engineering principles, manufacturing processes, quality systems, or product development gained through coursework, projects, or prior experience.</li><li>GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)</li><li>Ability to perform work onsite at Smyrna, TN.</li></ul><br /><h3>What You’ll Look Forward to at Nissan:</h3><p>Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from similar and diverse backgrounds to foster a culture of belonging.</p><br /><p>Professional Training and Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms and leadership trainings.</p><br /><p><i>Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.</i></p><br /><p><i>It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.</i></p><br /><p><b>NISSAN FOR EVERYONE</b></p><br /><p>People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team.  When everyone belongs, the power of NISSAN is undeniable.  Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.</p><br /><p>Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard.  We have Business Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.</p><br /><p>Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our customers competitively designed, market-driven products.</p><br /><p>Join us as we carry our commitment to our employees and customers into the future.</p><br /><p></p>Smyrna Tennessee United States of America",
+    "content_hash": "2d083f94139c5ee26125be1c5925dfe4"
+  }
+}

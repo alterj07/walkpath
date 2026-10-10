@@ -1,0 +1,127 @@
+{
+  "b30843dc171d": {
+    "id": "b30843dc171d",
+    "title": "Product Engineer — Intern/Co-op",
+    "title_raw": "Product Engineer — Intern/Co-op",
+    "company": {
+      "slug": "firetiger",
+      "name": "Firetiger",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "firetiger",
+      "external_id": "7acf0768-f10d-4650-bcfc-12ed6e5d7cfc"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2025-11-04T02:56:08.840Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:09.787Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "co_op",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": {
+      "min": 120000,
+      "max": 120000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>About Firetiger</h3><p>Firetiger is on a mission to help our customers build 1-person, $1 billion revenue companies.</p><p>We believe that eventually, all companies will be software companies, and the vast majority of coordination will be handled by autonomous agents, not people. To get there, we are helping software companies become \"self-driving\".</p><p>Legacy software engineering operations software is built for humans to manually explore data and patch together brittle alerts. The last generation of tools like Datadog is designed to enable humans to understand how software behaves. Firetiger flips the script. We approach operations from first principles: customers define top-down what success looks like for a business and product, then deploy agents to constantly monitor to ensure those goals are met and close the loop.</p><p>We are founded by Rustam and Achille, former leaders from Cloudflare and Segment, and backed by Sequoia Capital and founders and executives at Cloudflare, Segment, Amazon, Anthropic, Cursor, and Plaid.</p><p>We are looking for a Product Engineer to build the interfaces between humans and AI agents: the workflows, visualizations, and interaction patterns that make autonomous technical operations intuitive and actionable.</p><p></p><h3>The Role</h3><p>Firetiger's agents find production problems before your customers find them and your CEO hears about them. Here's how it works:</p><ol><li><p>We ingest telemetry with high-cardinality detail and automatically model what your system is and how it works</p></li><li><p>Customers define objectives in natural language (e.g., \"customers should have OAuth configured correctly\") that stay relevant as infrastructure evolves</p></li><li><p>Agents autonomously investigate issues, determine root cause, and take action to remediate</p></li></ol><p>You'll build the product experiences that make this magic legible—turning complex autonomous investigations into something engineers actually want to use. You'll also build the agents themselves.</p><p>This is not a role where you implement specs handed down from product. You will own problems end-to-end: talking to customers, defining what to build, building it, and iterating until it's great.</p><p></p><h3>What You Will Accomplish</h3><ul><li><p><strong>Agent interfaces</strong>: Design how engineers interact with AI agents operating their software systems. What should autonomous software operations look like? How do you give humans the right level of visibility and control?</p></li><li><p><strong>The agents themselves</strong>: Build the brains that turn messy natural-language objectives into the crisp outputs our customers rely on to run their businesses. You'll work on the core intelligence, not just the UI around it.</p></li><li><p><strong>Real-time collaboration tools</strong>: Create experiences where engineers can watch agents work, redirect wayward chains-of-thought, and collaborate on complex debugging sessions.</p></li><li><p><strong>Novel data exploration</strong>: Design new UX patterns for exploring high-cardinality data that agents surface. Think beyond traditional dashboards to new ways of understanding customer-specific issues at scale.</p></li></ul><p></p><h3>Who You Are</h3><ul><li><p><strong>High Agency</strong>: You don't wait for permission. You see a problem, whether a confusing user flow or missing feature, and you fix it. You ship.</p></li><li><p><strong>Product-Minded</strong>: You care about the <em>why</em> behind what you build. You talk to customers. You have opinions about what makes developer tools great vs. frustrating.</p></li><li><p><strong>Full-Stack Capable</strong>: You're comfortable working across the stack to deliver complete features. You've built complex, data-heavy web applications and know how to make them fast.</p></li><li><p><strong>AI-Curious</strong>: You've built with LLMs, or at a minimum collaborated with agentic development tools (Claude Code, Cursor, etc) to write software. You're excited about the design challenges of human-AI collaboration.</p></li></ul><p></p><h3>Qualifications</h3><ul><li><p><strong>Experience</strong>: You're excited about building and shipping user-facing software products. You have examples of projects you drove end-to-end that users loved.</p></li><li><p><strong>Communication</strong>: You can write a clear product spec, explain a technical tradeoff to a customer, and give direct feedback to teammates.</p></li></ul><p></p><h3>Compensation and Benefits</h3><ul><li><p>$120k salary prorated for internship term</p></li><li><p>In-person in San Francisco</p></li></ul><p></p><h3>How to Apply</h3><p>We care more about your projects than your pedigree.</p><p>In your application, please include a link to something you've built: a side project, an open-source contribution, a product feature you're proud of. Show us how you think about building software products.</p>",
+    "content_hash": "a3a30397be86196d5c3c06f019426c7f"
+  },
+  "b30bc7ee10b0": {
+    "id": "b30bc7ee10b0",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "phonely",
+      "name": "Phonely",
+      "domain": ""
+    },
+    "location": {
+      "raw": "San Francisco, California",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "phonely",
+      "external_id": "c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-05-08T17:29:07.968Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.862Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Software Engineer Internship<br />This is a high-impact internship where you’ll write real code, ship features, and see your work in production.<br /><strong>Note:</strong> This is an in-office role, 5 days a week in San Francisco.<br />What You’ll Do</p><ul><li><p>Investigate and troubleshoot real customer issues across frontend and backend systems</p></li><li><p>Work closely with customers and internal teams to diagnose bugs, performance bottlenecks, and reliability problems</p></li><li><p>Build internal tooling and dashboards to improve debugging, monitoring, and operational workflows</p></li><li><p>Help monitor production systems and support incident response efforts</p></li><li><p>Assist engineers in identifying root causes and shipping fixes quickly</p></li><li><p>Build and maintain components for high-performance web applications using React and Next.js</p></li><li><p>Collaborate with engineers to integrate APIs, real-time systems, and observability tooling</p></li><li><p>Improve UI/UX by building responsive and user-friendly interfaces</p></li><li><p>Support performance optimization efforts across rendering, caching, and latency</p></li><li><p>Write clean, maintainable, and well-documented code</p></li><li><p>Participate in code reviews, team discussions, and product development</p></li></ul><p>Qualifications</p><ul><li><p>Currently pursuing or recently completed a degree in Computer Science or related field</p></li><li><p>Experience with JavaScript/TypeScript and modern frontend frameworks (React preferred)</p></li><li><p>Familiarity with Next.js or willingness to learn quickly</p></li><li><p>Strong problem-solving and debugging skills</p></li><li><p>Comfortable investigating technical issues and working through ambiguous problems</p></li><li><p>Basic understanding of APIs, async programming, and web fundamentals</p></li><li><p>Exposure to full-stack development through projects, coursework, or internships</p></li><li><p>Strong communication skills and ability to work directly with customers and teammates</p></li><li><p>Eagerness to learn quickly in a fast-paced environment</p></li></ul><p>Nice to Have</p><ul><li><p>Experience with backend development (Python or Node.js)</p></li><li><p>Familiarity with cloud platforms (AWS, GCP)</p></li><li><p>Experience with observability or monitoring tools</p></li><li><p>Familiarity with databases (Firebase, Supabase, or similar)</p></li><li><p>Interest in AI, real-time systems, infrastructure, or voice technologies</p></li></ul><p>What You’ll Gain</p><ul><li><p>Real-world experience debugging and operating production systems</p></li><li><p>Hands-on exposure to customer-facing engineering and issue investigation</p></li><li><p>Mentorship from experienced engineers</p></li><li><p>Experience working with modern infrastructure, observability, and AI systems</p></li><li><p>Opportunity to make meaningful contributions to a fast-growing company</p></li></ul><p><strong>Our Tech Stack</strong></p><ul><li><p><strong>Frontend:</strong> React, Next.js, TypeScript</p></li><li><p><strong>Backend:</strong> Python, microservices, async systems</p></li><li><p><strong>Cloud &amp; Infra:</strong> AWS, GCP, Kubernetes, Redis</p></li><li><p><strong>Databases:</strong> Firebase, Supabase</p></li><li><p><strong>Observability:</strong> Datadog, logging, metrics, tracing</p></li></ul>",
+    "content_hash": "b0be40c6eebe70679cdfbe4b9cec7bf2"
+  },
+  "b3fddcabfb76": {
+    "id": "b3fddcabfb76",
+    "title": "Customer Journey & App Analytics Apprentice",
+    "title_raw": "Customer Journey & App Analytics Apprentice",
+    "company": {
+      "slug": "back-market",
+      "name": "Back Market",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Bordeaux",
+      "city": null,
+      "state": null,
+      "country": null,
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "backmarket",
+      "external_id": "bdd15e60-60f0-4282-bf87-f789ae7501ad"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/backmarket/bdd15e60-60f0-4282-bf87-f789ae7501ad/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-21T09:39:50.796Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.182Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "data_ml_ai",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3>Hi, we’re Back Market.</h3><p>We’re here to help <strong>make tech reliable, affordable, and better than new</strong>. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.</p><p>Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back Market, our positive impact on the planet grows. From our Customer Care representatives to our software engineer, every individual at Back Market cuts the planet — and consumers — a break. <strong>Our mission is simple: to do more with what we already have.</strong></p><p>Are you ready to join us?</p><h3><strong>JOB DESCRIPTION:</strong></h3><p>Back Market is on a mission to make refurbished tech the new norm. To achieve this, we use data to better understand our customers, improve their experience, and make smarter product and business decisions.</p><p>Within the Data Division, the Customer Experience Analytics team supports teams working across the customer journey, CRM, and Services. We help the business understand customer behaviors, identify opportunities to improve the experience, and measure the impact of new initiatives.</p><p></p><p>As a <strong>Customer Journey &amp; App Analytics Apprentice</strong>, you will primarily support the Customer Journey and App Analytics scope. You will work closely with Product, Tech, UX, and Business teams to analyze customer behavior, support experimentation, and turn data into actionable insights.</p><p>This apprenticeship is a great opportunity for a curious, structured, and business-oriented student who wants to develop strong skills in product analytics, experimentation, customer journey analysis, and mobile app analytics.</p><p></p><h3><strong>YOUR MISSION (IF YOU ACCEPT IT): 🥇</strong></h3><ul><li><p>Support the analysis of customer journeys across Back Market’s website and mobile applications, from discovery and purchase to delivery, return, and after-sales service</p></li><li><p>Contribute to the preparation, analysis, and monitoring of Customer Journey experiments, including A/B tests and other experimentation initiatives</p></li><li><p>Help formulate analytical hypotheses, define success metrics, analyze experiment results, and identify actionable recommendations</p></li><li><p>Investigate customer behavior across different touchpoints, segments, markets, and devices</p></li><li><p>Build and maintain recurring dashboards, reports, and analyses for key stakeholders</p></li><li><p>Contribute to the improvement of event tracking plans and analytics documentation</p></li><li><p>Present findings and recommendations in a clear and accessible way to both technical and non-technical stakeholders</p></li></ul><p></p><h3><strong>YOU ARE IN THE RIGHT PLACE IF: ⭐</strong></h3><ul><li><p>You are pursuing a Master’s degree, or equivalent, in data analytics, data science, business analytics, economics, engineering, marketing analytics, or another quantitative field</p></li><li><p>You have a strong interest in customer behavior, product analytics, experimentation, and digital products</p></li><li><p>You have solid SQL skills and are comfortable writing, reviewing, and improving analytical queries</p></li><li><p>You have an analytical mindset and enjoy investigating the reasons behind changes in customer behavior or business performance</p></li><li><p>You communicate clearly in written and spoken English</p></li><li><p>You are curious, rigorous, organized, and willing to ask questions</p></li><li><p>You enjoy working in a fast-paced, international, and collaborative environment</p></li></ul><p></p><p>Bonus point if :</p><ul><li><p>You have experience with analytics tools such as Amplitude, GA4, Mixpanel, or similar platforms</p></li></ul><ul><li><p>You have already worked on A/B testing, experimentation, or product performance analysis</p></li><li><p>You are familiar with mobile app analytics, event taxonomies, or tracking plans</p></li></ul><p></p><h3><strong>ABOUT THE APPRENTICESHIPℹ️</strong></h3><ul><li><p>Starting date: January 2027</p></li><li><p>Duration: Ideally for 12 months (24 months to be discussed).</p></li><li><p>Location: Bordeaux, France</p></li><li><p>Contract: You must already be enrolled in a work-study program in a French school (contrat d'alternance / d'apprentissage)</p></li></ul><p></p><h3><strong>RECRUITMENT PROCESS: 📅</strong></h3><ul><li><p>Skills fit/Tech interview with the direct manager</p></li><li><p>Cultural fit interview with another person in the team</p></li><li><p>Video-call Interview with the Campus Talent Acquisition Specialist</p></li></ul><p></p><h3><strong>WHY SHOULD YOU JOIN US ? ✌🏼</strong></h3><p>At Back Market, we’re committed to hiring and supporting diverse teams of people from all backgrounds, experiences, and perspectives — it’s one of the reasons we’re such a high-scoring certified B Corp company (93.2).</p><p>No matter your role and seniority level, you’ll enjoy impact-driven work with hands-on career development in an innovative, driven, and fast-paced environment — with benefits to match, like:</p><p>- A mission driven work environment where your day to day makes an impact on the planet. Seriously.</p><p>- Hybrid work environment, with 2 remote days a week and 1 remote work week per quarter, plus 3 flex days.</p><p>- Employee Resource Groups, including mentorship programs, comprehensive accessibility policies, and cultural competency training.</p><p>At Back Market, we strive to create a workplace that embodies the world we’re trying to change. We’ve embedded our diversity, equity, and inclusion principles into our DNA — from dedicated staff to employee resource groups to our company values.</p><p>We know that the perfect background for a role doesn’t mean the perfect fit — we encourage you to apply for a role even if you think you may not have all the qualifications.</p><p>If reasonable accommodations are needed for the interview process, please do not hesitate to discuss this with the Talent Acquisition Team.</p>",
+    "content_hash": "45b078459296e6c2076889fc3f06ef6f"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "fe4084e1aa3f": {
+    "id": "fe4084e1aa3f",
+    "title": "Solutions Engineer Intern, US",
+    "title_raw": "Solutions Engineer Intern, US",
+    "company": {
+      "slug": "partly",
+      "name": "Partly",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, Texas",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "partly.com",
+      "external_id": "842283ee-99bd-4dc0-bc9e-9a9567487217"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/partly.com/842283ee-99bd-4dc0-bc9e-9a9567487217/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-10-01T02:43:37.714Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:18.411Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "it_cloud_security",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p><em><strong>Note:</strong> Partly is headquartered in Austin, TX with offices in London, UK, Christchurch, NZ and Auckland, NZ. Wherever you're based, we'll connect you with your nearest office for onboarding, and fly you to join the full team for our quarterly \"Season Openers\" (we cover travel and accommodation). If you're relocating to join us, we can also assist with relocation costs.</em></p><h3><br />🚀 Our Story</h3><p>Partly is building the infrastructure for anyone to repair anything. We believe everything built should be repairable, and we're building frontier AI to put repair knowledge to work, starting with the $2tn automotive market.</p><p>Our model, Interpreter, is the first AI purpose-built to understand repair. Trained on 1M+ car models and 1B+ parts, it reads a repair job the way an estimator does, resolves damage into the exact purchasable part, and shows its reasoning with a confidence score. On real production jobs, an estimator working with Interpreter reaches 98.8% parts-list accuracy, against 92.1% with today's tools. It powers PartlyRepair, used by collision shops, workshops and suppliers to take the admin off the job; PartlyLabs, the agentic infrastructure enterprises use to deploy Interpreter across their own workflows; and a developer API.</p><p>Founded by ex-Rocket Lab engineers, we've raised a $50m Series B led by DST Global (Anthropic, Airbnb, Meta, TikTok, Spotify), with Blackbird Ventures, WNDR, Activant Capital, Icehouse Ventures, Square Peg, Airtree and Ecliptic Venture Capital. Hear it from the team: Why Partly exists and AI at Partly.</p><h3>🖍️ This role</h3><p>In the Solutions Engineer role, you will excel at cultivating robust connections between our team and our clients, adeptly aligning industry demands with customer expectations and technical capabilities. Your knowledge of working with large data sets, and ability to pick up technical concepts, combined with your passion for the automotive industry, will be crucial in driving momentum in the business.</p><p>Reporting to the <em>Dismantler Commerce team</em>, your project scope will be wide and varied, providing you with exceptional learning opportunities that can be applied practically to your chosen career path. You will gain hands-on experience and lead research and development into the optimal experience for one of our key customer segments.</p> <p><em>Want to learn more about the problems we're solving and the culture we're building at Partly? Hear directly from our team here: </em><em>https://shorturl.at/iAFUX</em><br /></p><h3>💻 What will you do</h3><ul><li><p><strong>Be the customer</strong>. Become a super-user of Partly’s inventory management system - The Partly PIM - and other apps in the Partly ecosystem; understanding exactly how buyers rely on us to find the parts that fit their vehicle.</p></li><li><p><strong>Scope, develop, and implement</strong> user-centric solutions that harness the power of the Partly Platform; delivering outstanding results in a way that maximises the success of the customer throughout a smooth onboarding journey.</p></li><li><p>Build integrations</p></li><li><p><strong>Work closely with the Engineering team,</strong> providing well-defined requirements and guidelines to develop industry leading products. Engage with the customer in rigorous testing phases to iterate; ensuring that solutions align with the established criteria and providing constructive feedback for continuous improvement.<br /></p></li></ul><h3>🥷 Your skills</h3><ul><li><p>A <strong>STEM</strong> degree.</p></li><li><p><strong>Strong verbal and written communication</strong> abilities, including the capacity to convey ideas clearly and persuasively to customers and colleagues.</p></li><li><p><strong>Proficiency in analysing data</strong> with Python, Pandas and SQL</p></li><li><p><strong>A logical and structured approach to problem solving</strong>; ****you often spend time outside of uni thinking about complex problems and opportunities for innovation.</p></li><li><p><strong>Flexibility and adaptability</strong> in a dynamic work environment, staying up-to-date with industry trends and best practices.</p></li></ul> <p><em>Please note: if you don't have all the skills or experience listed above but believe you could be outstanding in this role, please still consider applying. Many people count themselves out. We'd love the chance to learn more about you and why you're exceptional.</em></p>  <h3>🎁 Benefits</h3><ul><li><p><strong>Healthy, Catered Lunches</strong> - Enjoy fresh, healthy lunches every workday in our Auckland, Christchurch, London, and Austin offices. With no meal prep needed, you can eat, connect, and refuel with your team. (And yes, snacks and drinks are always on hand.)</p></li><li><p><strong>Health Insurance</strong> - Partly covers your health insurance through a group plan with Blue Cross Blue Shield of Texas, plus dental and vision cover. We pay 100% of your premium and 50% for any dependents you add, including a spouse or domestic partner, with the option to upgrade to a richer plan at your own cost if you'd like.</p></li><li><p><strong>Workspaces That Inspire</strong> - Our brand-new, architecturally designed offices are built for collaboration and creativity, with great coffee, social spaces, and some of the best cafes just a few steps away.</p></li><li><p><strong>Getting Here Is On Us</strong> - If you commute to a Partly office or coworking space (atleast 4 days a week), choose from a paid 24/7 parking spot or a commuting allowance. One less thing to think about!</p></li><li><p><strong>Office-First with Flexibility</strong> - In cities where we have an office (Christchurch, Auckland, London, and Austin), we default to working from the office every day. This lets us move faster, make better decisions, and build strong relationships. We also operate with a high-trust environment, so you can manage your time around your life and flex your schedule to do your best work.</p></li><li><p><strong>We Celebrate Together</strong> - From weekly happy hours and monthly lunches to quarterly season openers and an annual global offsite, we make time to connect, celebrate, and have fun as one team.</p> </li></ul>",
+    "content_hash": "d50edc2866144d8eab5b29d44c09e3e8"
+  },
+  "fe47fd46cd37": {
+    "id": "fe47fd46cd37",
+    "title": "Software Engineer Intern",
+    "title_raw": "Software Engineer Intern",
+    "company": {
+      "slug": "ibotta",
+      "name": "ibotta",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Denver, CO",
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "ibotta",
+      "external_id": "3130669e-16aa-4f63-834d-b83571c8d269"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-09-11T21:07:58.418Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:12.426Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "software_engineering",
+    "season": "Summer 2027",
+    "salary": {
+      "min": 33.85,
+      "max": 33.85,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<p>Ibotta is seeking a <strong>Software Engineering Intern</strong> to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our <strong>2026 Summer Internship</strong>, you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your career. We are looking for candidates who are eager to learn, excited to work on real-world business challenges, and want to be part of a mission-driven company.</p><p></p><p>This will be a full-time, 12 week, internship during the summer of 2027. This is a hybrid position located in Denver, Colorado and requires 3 days in-office per week. Required in-office hybrid days are Tuesday, Wednesday, and Thursday. Candidates must live in the United States.</p><p></p><p><strong>What you will be doing:</strong></p><ul><li><p>Learn about Ibotta’s very successful software development process</p></li><li><p>Be part of a cross-functional team to design, develop and release new features that will be used by millions of users</p></li><li><p>Create and help review well-tested software</p></li><li><p>Use Amazon’s AWS infrastructure and advanced services daily</p></li><li><p>Participate in system designs and code reviews</p></li><li><p>Know how to judiciously leverage AI to assist with software development and understand when to choose AI as a partner for building products, and operating them in production</p></li><li><p>Embrace and uphold Ibotta’s Core Values:<em> Integrity, Boldness, Ownership, Teamwork, Transparency &amp; A good idea can come from anywhere</em></p></li></ul><p></p><p><strong>What we are looking for:</strong></p><ul><li><p>Juniors working towards a bachelor’s degree with a focus in Computer Science, Software Engineering, Computer Engineering, Computer Information Science or related field</p></li><li><p>Proven ability to think creatively and implement ideas from start to finish</p></li><li><p>Good written and verbal communication skills</p></li><li><p>Hunger to learn and collaborate with your teammates</p></li><li><p>Exposure to multiple languages and frameworks (Python, Java, Ruby, Javascript, Typescript)</p></li><li><p>Understand software testing and CI/CD concepts</p></li><li><p>Familiarity with REST APIs, microservices, and distributed architectures</p></li><li><p>Foundational knowledge of database design and query concepts</p></li><li><p>Exposure using AI tools for prototyping, writing, testing, debugging, and comprehending code</p></li></ul><p></p><p><strong>About Us:</strong></p><p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.</p><p></p><p>To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com</p><p></p><p><strong>Additional Details:</strong></p><p></p><ul><li><p>This position is located in Denver, CO and includes competitive pay and housing assistance for out of state students.<strong> Denver office perks include paid parking, snacks, and occasional meals.</strong></p></li><li><p>The hourly compensation for this role is: $33.85 per hour worked. This compensation range is specific to the United States labor market.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul><p></p><p><strong>Recruiting Agency Notice</strong></p><p>Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p><p></p><p>#LI-Hybrid</p><p>#BI-Hybrid</p>",
+    "content_hash": "87285dff484cc9c43c46c73948468f17"
+  },
+  "feb85a40d72d": {
+    "id": "feb85a40d72d",
+    "title": "Hardware Technical Program Management Intern",
+    "title_raw": "Hardware Technical Program Management Intern",
+    "company": {
+      "slug": "base-power",
+      "name": "Base Power",
+      "domain": ""
+    },
+    "location": {
+      "raw": "Austin, TX",
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "arrangement": "in_person",
+      "others": []
+    },
+    "source": {
+      "ats": "ashby",
+      "board": "base-power",
+      "external_id": "c6228333-5f84-4363-9a3a-fd1dfb8ad1a2"
+    },
+    "apply_url": "https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2/application",
+    "apply_url_downgraded": false,
+    "posted_at": "2026-08-25T21:41:54.472Z",
+    "posted_at_source": "ATS_FIELD",
+    "first_seen_at": "2026-10-10T02:41:00.398Z",
+    "last_seen_at": "2026-10-10T03:22:07.910Z",
+    "closed_at": null,
+    "employment_type": "internship",
+    "role_family": "hardware_embedded",
+    "season": null,
+    "salary": null,
+    "citizenship_required": null,
+    "sponsorship": "unknown",
+    "grad_years": [],
+    "summary": null,
+    "description_html": "<h3><strong>About Base</strong></h3><p>Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.</p><p></p><h3><strong>About the Role</strong></h3><p>We are seeking a highly motivated and organized Hardware Technical Program Management (TPM) Intern to join our Hardware team. This role is critical in supporting our engineering builds by ensuring the timely and accurate management and tracking of hardware parts and materials, as well as helping to keep the build process running smoothly. As an intern, you will contribute directly to the efficiency and success of our hardware development cycles, working closely with engineers and cross-functional teams.</p><p></p><p><strong>What You’ll Do</strong></p><ul><li><p>Manage and track the inventory of hardware parts and materials required for various engineering builds.</p></li><li><p>Track build issues and help unblock problems, acting as a critical liaison between engineering and external teams.</p></li><li><p>Coordinate with the Hardware Engineering and Procurement teams to ensure parts are ordered and delivered on schedule to meet build timelines.</p></li><li><p>Implement and maintain a systematic tracking process for all components, from initial order through to deployment in the build.</p></li><li><p>Identify and flag potential material shortages or delays, proactively communicating risks to the engineering team.</p></li><li><p>Support continuous improvement efforts for the parts management and inventory control processes to increase efficiency.</p></li></ul><p></p><p><strong>What You'll Bring</strong></p><ul><li><p>Hands-on experience bringing next-gen battery into production.</p></li></ul><ul><li><p>Strong organizational and interpersonal skills to coordinate across multiple teams and stakeholders.</p></li></ul><p></p><p><em>Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.</em></p><p></p><h3><strong>Our Values</strong></h3><ul><li><p><strong>First Principles Thinking:</strong> Question assumptions. Principles &gt; rules.</p></li><li><p><strong>Operate at Base Pace:</strong> Focus on what matters, act quickly, and learn by doing.</p></li><li><p><strong>Give &amp; Get Feedback:</strong> Be direct, be humble, and maintain a growth mindset.</p></li><li><p><strong>Everyone’s an Owner:</strong> Follow through on commitments and own results.</p></li><li><p><strong>Strong Opinions, Loosely Held:</strong> Drive clarity and make calls with imperfect information.</p></li><li><p><strong>Committed to the Mission:</strong> Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.</p></li><li><p><strong>Fun &amp; Optimism Coexist with Grit:</strong> Collaboration and celebration coincide with the intensity of building real things.</p><p></p></li></ul><h3><strong>Do the best work of your life at Base.</strong></h3>",
+    "content_hash": "b13acdb55902fd71eb8dd55adb007501"
+  }
+}
