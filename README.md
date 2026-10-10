@@ -18,7 +18,8 @@ static site. No accounts, no payments, no resume upload, no server of our own.
 | `packages/site` | Astro static site with one React island for the explore table |
 | `registry/` | `boards.csv` (which companies and boards we poll), `sources.json` (kill switches) |
 | `.github/workflows` | `ci.yml` (checks), `crawl.yml` (hourly crawl + publish + deploy), `preview.yml` (staging build on push), security and ops workflows |
-| `docs/` | Architecture, security, operations |
+| `docs/` | `architecture`, `security`, `operations`, `publish`, `registry`, `workday`, `deploy`, `github-settings`, `launch-checklist`, `setup`, `opt-out` |
+| `scripts/` | `setup-wizard.sh`, the interactive operator setup |
 
 ## Develop
 
@@ -34,9 +35,9 @@ Requires Node 24 (native TypeScript execution and `node:sqlite`).
 The hourly workflow runs as soon as the repository is public; with no secrets it crawls, writes
 the `data` branch and builds the site. To put the site online and turn on summaries and alerts:
 
-1. Create the `data` branch and the Cloudflare Pages project, then add the secrets and variables:
-   `docs/deploy.md` (step by step) and `docs/github-settings.md` (where every value comes from and
-   the repository settings the plan requires).
+1. Run `scripts/setup-wizard.sh`: it creates the `data` branch, walks through the Cloudflare Pages
+   project, the repository settings, and every secret and variable, verifying each key as you go.
+   The same steps are written out in `docs/deploy.md` and `docs/github-settings.md`.
 2. Run the `crawl` workflow once by hand and check `/status`.
 3. Work through `docs/launch-checklist.md` before announcing it.
 
