@@ -13,7 +13,7 @@ import type { Family, IndexRow } from './data.ts';
 import { DEFAULT_FILTERS, SEASON_RE, filtersToSearch } from './url-state.ts';
 import type { ExploreFilters } from './url-state.ts';
 
-export const PAGE_KINDS = ['family', 'family_season', 'family_remote', 'state', 'company'] as const;
+export const PAGE_KINDS = ['family', 'family_season', 'family_remote', 'state', 'company', 'newgrad_family'] as const;
 export type PageKind = (typeof PAGE_KINDS)[number];
 
 export interface PageFilter {
@@ -22,6 +22,8 @@ export interface PageFilter {
   remote?: boolean;
   state?: string;
   slug?: string;
+  /** Restrict to a role kind; absent means internships and co-ops. */
+  kind?: 'internship' | 'new_grad';
 }
 
 export interface PagesEntry {
@@ -43,6 +45,7 @@ export const KIND_LABELS: Record<PageKind, string> = {
   family_remote: 'Remote, by role family',
   state: 'By state',
   company: 'By company',
+  newgrad_family: 'New grad, by role family',
 };
 
 /** Pages with fewer open internships than this are rendered with noindex. */
@@ -70,6 +73,7 @@ export function isPagesEntry(v: unknown): v is PagesEntry {
   if (r.remote !== undefined && typeof r.remote !== 'boolean') return false;
   if (r.state !== undefined && !(typeof r.state === 'string' && r.state in US_STATES)) return false;
   if (r.slug !== undefined && !(typeof r.slug === 'string' && SLUG_RE.test(r.slug))) return false;
+  if (r.kind !== undefined && r.kind !== 'internship' && r.kind !== 'new_grad') return false;
   return true;
 }
 
@@ -88,6 +92,7 @@ export function parsePages(v: unknown): PagesEntry[] {
     if (f.remote !== undefined) filter.remote = f.remote;
     if (f.state !== undefined) filter.state = f.state;
     if (f.slug !== undefined) filter.slug = f.slug;
+    if (f.kind !== undefined) filter.kind = f.kind;
     out.push({ slug: e.slug, title: e.title, kind: e.kind, filter });
   }
   return out;
@@ -119,6 +124,8 @@ export function rowsForPage(rows: readonly IndexRow[], entry: PagesEntry): Index
     if (f.remote && r.arrangement !== 'remote') return false;
     if (f.state !== undefined && r.state !== f.state) return false;
     if (f.slug !== undefined && r.slug !== f.slug) return false;
+    // Pages are internship pages unless they ask for new-grad roles.
+    if (f.kind === 'new_grad' ? r.kind !== 'new_grad' : r.kind === 'new_grad') return false;
     return true;
   });
   out.sort((a, b) => b.posted_at.localeCompare(a.posted_at) || b.first_seen_at.localeCompare(a.first_seen_at));
@@ -162,7 +169,7 @@ export function itemListJsonLd(entry: PagesEntry, rows: readonly IndexRow[], sit
   const doc = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: `${entry.title} internships`,
+    name: entry.filter.kind === 'new_grad' ? entry.title : `${entry.title} internships`,
     url: `${base}/internships/${entry.slug}`,
     numberOfItems: rows.length,
     itemListElement: rows.slice(0, PAGE_ROW_LIMIT).map((r, i) => ({
@@ -195,6 +202,7 @@ export function exploreHref(entry: PagesEntry): string {
   const filters: ExploreFilters = {
     ...DEFAULT_FILTERS,
     window: '30d',
+    kind: f.kind === 'new_grad' ? 'newgrad' : 'intern',
     family: f.family !== undefined ? [f.family] : [],
     state: f.state !== undefined ? [f.state] : [],
     arr: f.remote ? ['remote'] : [],
@@ -206,9 +214,11 @@ export function exploreHref(entry: PagesEntry): string {
 
 /** Human description used in the meta description and the stats strip. */
 export function describePage(entry: PagesEntry, stats: PageStats): string {
-  const parts = [`${stats.open} open ${stats.open === 1 ? 'internship' : 'internships'}`];
+  const noun = entry.filter.kind === 'new_grad' ? (stats.open === 1 ? 'new-grad role' : 'new-grad roles') : stats.open === 1 ? 'internship' : 'internships';
+  const parts = [`${stats.open} open ${noun}`];
   if (stats.companies > 0) parts.push(`${stats.companies} ${stats.companies === 1 ? 'company' : 'companies'}`);
   if (stats.medianHoursSincePosted !== null) parts.push(`median ${stats.medianHoursSincePosted} h since posting`);
   const what = entry.filter.family !== undefined ? FAMILY_LABELS[entry.filter.family] : entry.title;
-  return `${what} internships in the US: ${parts.join(', ')}. Polled hourly from employers' own job boards.`;
+  const kindWord = entry.filter.kind === 'new_grad' ? 'new-grad jobs' : 'internships';
+  return `${what} ${kindWord} in the US: ${parts.join(', ')}. Polled hourly from employers' own job boards.`;
 }

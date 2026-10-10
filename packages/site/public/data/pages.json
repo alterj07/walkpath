@@ -92,6 +92,15 @@
   }
  },
  {
+  "slug": "new-grad-software-engineering",
+  "title": "New grad Software Engineering",
+  "kind": "newgrad_family",
+  "filter": {
+   "family": "software_engineering",
+   "kind": "new_grad"
+  }
+ },
+ {
   "slug": "state-ca",
   "title": "California",
   "kind": "state",

@@ -20,6 +20,7 @@ const feed = (path: string) => `${base}${path}`;
     <p>Paste any of these into a feed reader. Each entry links to the job page on this site.</p>
     <ul>
       <li><code>{feed('/feeds/all.xml')}</code> — every new internship</li>
+      <li><code>{feed('/feeds/new-grad.xml')}</code> — every new new-grad role (per family: <code>{feed('/feeds/new-grad-software_engineering.xml')}</code> and so on)</li>
       <li><code>{feed('/feeds/remote.xml')}</code> — remote roles only</li>
       <li><code>{feed('/feeds/state-XX.xml')}</code> — one per state, for example <code>{feed('/feeds/state-CA.xml')}</code> or <code>{feed('/feeds/state-NY.xml')}</code></li>
       {FAMILIES.map((f) => (

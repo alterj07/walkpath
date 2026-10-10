@@ -18,6 +18,8 @@ export const IndexRowSchema = z.object({
   state: z.string().nullable(),
   arrangement: ArrangementSchema,
   family: RoleFamilySchema,
+  /** Internship, co-op or new-grad role (projected from employment_type). */
+  kind: z.enum(['internship', 'co_op', 'new_grad']),
   season: z.string().nullable(),
   posted_at: IsoDateTimeSchema,
   first_seen_at: IsoDateTimeSchema,
@@ -73,13 +75,15 @@ export type BucketFile = z.infer<typeof BucketFileSchema>;
 export const PagesEntrySchema = z.object({
   slug: z.string().regex(/^[a-z0-9-]+$/),
   title: z.string(),
-  kind: z.enum(['family', 'family_season', 'family_remote', 'state', 'company']),
+  kind: z.enum(['family', 'family_season', 'family_remote', 'state', 'company', 'newgrad_family']),
   filter: z.object({
     family: RoleFamilySchema.optional(),
     season: z.string().optional(),
     remote: z.boolean().optional(),
     state: z.string().length(2).optional(),
     slug: z.string().optional(),
+    /** Restrict to a kind of role; absent means internships and co-ops. */
+    kind: z.enum(['internship', 'new_grad']).optional(),
   }),
 });
 export type PagesEntry = z.infer<typeof PagesEntrySchema>;
@@ -102,6 +106,7 @@ export function toIndexRow(record: JobRecord): IndexRow {
     state: record.location.state,
     arrangement: record.location.arrangement,
     family: record.role_family,
+    kind: record.employment_type,
     season: record.season,
     posted_at: record.posted_at,
     first_seen_at: record.first_seen_at,

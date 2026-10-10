@@ -70,7 +70,7 @@ export const JobRecordSchema = z.object({
   first_seen_at: IsoDateTimeSchema,
   last_seen_at: IsoDateTimeSchema,
   closed_at: IsoDateTimeSchema.nullable(),
-  employment_type: z.enum(['internship', 'co_op']),
+  employment_type: z.enum(['internship', 'co_op', 'new_grad']),
   role_family: RoleFamilySchema,
   season: SeasonSchema.nullable(),
   salary: SalarySchema.nullable(),

@@ -24,6 +24,7 @@ describe('formats', () => {
       state: 'TX',
       arrangement: 'hybrid',
       family: 'hardware_embedded',
+      kind: 'internship',
       season: 'Summer 2027',
       posted_at: '2026-10-09T14:14:00.000Z',
       first_seen_at: '2026-10-09T14:31:07.000Z',
@@ -35,7 +36,7 @@ describe('formats', () => {
     expect(IndexRowSchema.parse(row)).toEqual(row);
     expect(toIndexRow(makeRecord({ salary: null })).has_salary).toBe(false);
     // Plan 5.1 budgets ~300 bytes per row; this record is a long-title worst case.
-    expect(JSON.stringify(row).length).toBeLessThan(420);
+    expect(JSON.stringify(row).length).toBeLessThan(440);
   });
 
   it('round-trips the index, bucket, companies and pages files', () => {

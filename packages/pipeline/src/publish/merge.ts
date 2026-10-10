@@ -1,5 +1,6 @@
 import type { JobEvent } from '../crawl/diff.ts';
 import { internshipGate } from '../gates/internship.ts';
+import { newGradGate } from '../gates/newgrad.ts';
 import { techGate } from '../gates/tech.ts';
 import { jobIdFromKey } from '../ids.ts';
 import { parseArrangement, parseGradYears, parseSalary, parseSeason, parseWorkAuth } from '../normalize/fields.ts';
@@ -93,26 +94,53 @@ export interface MergeResult {
   unparsedLocations: string[];
 }
 
+export type EmploymentType = 'internship' | 'co_op' | 'new_grad';
+
 interface GateOutcome {
+  /** `tech_intern` means "passes": a tech internship, co-op or new-grad role (see employment_type). */
   gate: Gate;
-  employment_type: 'internship' | 'co_op';
+  employment_type: EmploymentType;
   family: RoleFamily | null;
 }
 
-/** Combine the two rule gates (plan 4.5): a hard negative on either side wins; else both must be positive. */
-export function combinedGate(title: string, employmentType: string | null | undefined, department: string | null | undefined): GateOutcome {
+/**
+ * Combine the rule gates (plan 4.5): a job passes when it is an internship OR a new-grad role, AND
+ * tech. A hard negative on the tech side wins; a hard negative on both role gates is `not_intern`
+ * (the counter name predates new-grad support); otherwise the LLM gate decides.
+ */
+export function combinedGate(
+  title: string,
+  employmentType: string | null | undefined,
+  department: string | null | undefined,
+  description?: string | null,
+): GateOutcome {
   const intern = internshipGate({ title, employmentType });
+  const grad = newGradGate({ title, employmentType, description: description ?? null });
   const tech = techGate(title, department);
-  if (intern.verdict === 'not_intern') return { gate: 'not_intern', employment_type: intern.employment_type, family: tech.family };
-  if (tech.verdict === 'not_tech') return { gate: 'not_tech', employment_type: intern.employment_type, family: null };
-  if (intern.verdict === 'intern' && tech.verdict === 'tech' && tech.family) {
-    return { gate: 'tech_intern', employment_type: intern.employment_type, family: tech.family };
+  const roleVerdict: 'yes' | 'no' | 'ambiguous' =
+    intern.verdict === 'intern' || grad.verdict === 'new_grad'
+      ? 'yes'
+      : intern.verdict === 'not_intern' && grad.verdict === 'not_new_grad'
+        ? 'no'
+        : 'ambiguous';
+  const employment_type: EmploymentType =
+    intern.verdict === 'intern'
+      ? intern.employment_type
+      : grad.verdict === 'new_grad'
+        ? 'new_grad'
+        : intern.verdict === 'ambiguous'
+          ? intern.employment_type
+          : 'new_grad';
+  if (roleVerdict === 'no') return { gate: 'not_intern', employment_type, family: tech.family };
+  if (tech.verdict === 'not_tech') return { gate: 'not_tech', employment_type, family: null };
+  if (roleVerdict === 'yes' && tech.verdict === 'tech' && tech.family) {
+    return { gate: 'tech_intern', employment_type, family: tech.family };
   }
-  return { gate: 'ambiguous', employment_type: intern.employment_type, family: tech.family };
+  return { gate: 'ambiguous', employment_type, family: tech.family };
 }
 
 /** Build the published record for an event (plan 6.3). `family` must be known. */
-export function buildRecord(event: JobEvent, board: Board, family: RoleFamily, employmentType: 'internship' | 'co_op', now: Date): {
+export function buildRecord(event: JobEvent, board: Board, family: RoleFamily, employmentType: EmploymentType, now: Date): {
   record: JobRecord;
   country: 'US' | 'other' | null;
   locationMatched: boolean;
@@ -218,7 +246,7 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
       result.counts.skipped_llm_negative += 1;
       continue;
     }
-    const outcome = combinedGate(event.input.title, event.input.employmentType, event.input.department);
+    const outcome = combinedGate(event.input.title, event.input.employmentType, event.input.department, event.input.descriptionHtml);
     gateRows.push({ event, gate: outcome.gate });
     if (outcome.gate === 'not_intern') {
       result.counts.not_intern += 1;
@@ -435,6 +463,8 @@ async function dropEverywhere(id: string, opts: MergeOptions): Promise<void> {
 
 export interface LlmGateInput {
   is_internship: boolean;
+  /** Set by the LLM schema once it carries new-grad classification; absent means "not a new-grad role". */
+  is_new_grad?: boolean | undefined;
   role_family: RoleFamily | 'not_tech';
   confidence: number;
 }
@@ -448,6 +478,6 @@ export const LLM_GATE_MIN_CONFIDENCE = 0.7;
  */
 export function llmGateVerdict(output: LlmGateInput): 'publish' | 'drop' | 'wait' {
   if (output.confidence < LLM_GATE_MIN_CONFIDENCE) return 'wait';
-  if (output.is_internship && output.role_family !== 'not_tech') return 'publish';
+  if ((output.is_internship || output.is_new_grad === true) && output.role_family !== 'not_tech') return 'publish';
   return 'drop';
 }

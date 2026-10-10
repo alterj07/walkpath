@@ -33,6 +33,7 @@ import { adapterFor, type AnyAdapter } from '../src/adapters/index.ts';
 import { closeStale, pruneClosed } from '../src/crawl/diff.ts';
 import { crawlBoards, newRunId, writeDiffArtifact, type SourceToggles } from '../src/crawl/run.ts';
 import { internshipGate } from '../src/gates/internship.ts';
+import { newGradGate } from '../src/gates/newgrad.ts';
 import { HttpClient } from '../src/http/client.ts';
 import { loadBoards, loadSourcesConfig } from '../src/registry/boards.ts';
 import { AtsSchema, type Ats } from '../src/schema/common.ts';
@@ -179,9 +180,11 @@ async function main(argv: readonly string[]): Promise<number> {
       log: log.line,
       shouldStop: () => deadline.reached(),
       signal: hardStop.signal,
-      // Only postings that can be internships ride in the artifact (plan 4.5 runs the rule gate
+      // Only postings that can be internships or new-grad roles ride in the artifact (plan 4.5 runs the rule gate
       // first anyway); everything is still tracked in the state DB for diffing and closures.
-      eventFilter: (e) => internshipGate({ title: e.input.title, employmentType: e.input.employmentType ?? null }).verdict !== 'not_intern',
+      eventFilter: (e) =>
+        internshipGate({ title: e.input.title, employmentType: e.input.employmentType ?? null }).verdict !== 'not_intern' ||
+        newGradGate({ title: e.input.title, employmentType: e.input.employmentType ?? null, description: e.input.descriptionHtml }).verdict !== 'not_new_grad',
       ...(detailCap > 0 ? { detailCap } : {}),
       ...(mode === 'backfill' ? { forceRefresh: true, detailCap: Number.MAX_SAFE_INTEGER } : {}),
     });

@@ -30,6 +30,7 @@ function row(over: Partial<IndexRow> & { id: string }): IndexRow {
     state: 'TX',
     arrangement: 'in_person',
     family: 'software_engineering',
+    kind: 'internship',
     season: 'Summer 2027',
     posted_at: new Date(Date.parse(GEN) - 2 * H).toISOString(),
     first_seen_at: new Date(Date.parse(GEN) - 1.5 * H).toISOString(),

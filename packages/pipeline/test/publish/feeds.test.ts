@@ -95,7 +95,10 @@ describe('feedTargets', () => {
     expect(files).toContain('feeds/state-CO.xml');
     expect(files).not.toContain('feeds/state-TX.xml'); // only closed job there
     expect(files).toContain('feeds/remote.xml');
-    expect(files).toHaveLength(1 + 7 + 1 + 1);
+    expect(files).toContain('feeds/new-grad.xml');
+    expect(files).toContain('feeds/new-grad-software_engineering.xml');
+    // all + new-grad + 7 families + 7 new-grad families + 1 state + remote
+    expect(files).toHaveLength(1 + 1 + 7 + 7 + 1 + 1);
     const remote = targets.find((t) => t.file === 'feeds/remote.xml')!;
     expect(records.filter(remote.matches).map((r) => r.id)).toEqual(['cccccccccccc']);
     const co = targets.find((t) => t.file === 'feeds/state-CO.xml')!;

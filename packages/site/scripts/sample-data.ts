@@ -77,6 +77,7 @@ for (let i = 0; i < 44; i += 1) {
     state: loc[1],
     arrangement,
     family,
+    kind: i % 11 === 10 ? 'new_grad' : /co-op/i.test(title) ? 'co_op' : 'internship',
     season: seasons[i % seasons.length],
     posted_at: new Date(posted).toISOString(),
     first_seen_at: new Date(firstSeen).toISOString(),
@@ -137,7 +138,7 @@ rows.slice(0, 8).forEach((r, i) => {
     first_seen_at: r.first_seen_at,
     last_seen_at: new Date(SAMPLE_DATE).toISOString(),
     closed_at: i === 7 ? new Date(SAMPLE_DATE - 3_600_000).toISOString() : null,
-    employment_type: /co-op/i.test(r.title) ? 'co_op' : 'internship',
+    employment_type: r.kind,
     role_family: r.family,
     season: r.season,
     salary: r.has_salary ? { min: 42, max: 55, currency: 'USD', period: 'hour' } : null,
@@ -211,6 +212,7 @@ for (const family of ['software_engineering', 'data_ml_ai']) {
     filter: { family, remote: true },
   });
 }
+pages.push({ slug: 'new-grad-software-engineering', title: 'New grad Software Engineering', kind: 'newgrad_family', filter: { family: 'software_engineering', kind: 'new_grad' } });
 for (const [state, name] of [['CA', 'California'], ['TX', 'Texas'], ['NY', 'New York']] as const) {
   pages.push({ slug: `state-${state.toLowerCase()}`, title: name, kind: 'state', filter: { state } });
 }

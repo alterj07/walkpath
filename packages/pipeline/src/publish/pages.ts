@@ -41,6 +41,7 @@ export function buildPagesList(records: readonly JobRecord[], featuredSeason = P
       filter: { family, season: featuredSeason },
     });
     pages.push({ slug: `${slug}-remote`, title: `Remote ${label} internships`, kind: 'family_remote', filter: { family, remote: true } });
+    pages.push({ slug: `new-grad-${slug}`, title: `New grad ${label} jobs`, kind: 'newgrad_family', filter: { family, kind: 'new_grad' } });
   }
 
   const byState = new Map<string, number>();

@@ -123,14 +123,21 @@ export interface FeedTarget {
 
 /** The feeds the publish job writes: all, one per role family, one per state with open jobs, remote. */
 export function feedTargets(records: readonly JobRecord[]): FeedTarget[] {
+  const isIntern = (r: JobRecord) => r.employment_type !== 'new_grad';
   const targets: FeedTarget[] = [
-    { file: 'feeds/all.xml', title: 'WalkPath: all new US tech internships', matches: () => true },
+    { file: 'feeds/all.xml', title: 'WalkPath: all new US tech internships', matches: isIntern },
+    { file: 'feeds/new-grad.xml', title: 'WalkPath: all new US tech new-grad roles', matches: (r) => r.employment_type === 'new_grad' },
   ];
   for (const family of Object.keys(FAMILY_LABELS) as RoleFamily[]) {
     targets.push({
       file: `feeds/${family}.xml`,
       title: `WalkPath: ${FAMILY_LABELS[family]} internships`,
-      matches: (r) => r.role_family === family,
+      matches: (r) => isIntern(r) && r.role_family === family,
+    });
+    targets.push({
+      file: `feeds/new-grad-${family}.xml`,
+      title: `WalkPath: ${FAMILY_LABELS[family]} new-grad roles`,
+      matches: (r) => r.employment_type === 'new_grad' && r.role_family === family,
     });
   }
   const states = new Set<string>();

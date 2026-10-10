@@ -1,6 +1,6 @@
 # WalkPath
 
-A free, open-source board of US tech internships. WalkPath polls the public JSON endpoints of the
+A free, open-source board of US tech internships, co-ops and new-grad roles. WalkPath polls the public JSON endpoints of the
 major applicant-tracking systems (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Workday)
 once an hour from a GitHub Actions workflow, stamps every posting with the employer's publish time
 and our first-seen time, summarizes new postings with a free-tier LLM, and publishes everything as a

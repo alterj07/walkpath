@@ -24,6 +24,10 @@ export type TimeWindow = (typeof WINDOWS)[number];
 
 export type IndexFileName = 'latest' | '7d' | 'all';
 
+export const ROLE_KINDS = ['internship', 'co_op', 'new_grad'] as const;
+export type RoleKind = (typeof ROLE_KINDS)[number];
+export const ROLE_KIND_LABELS: Record<RoleKind, string> = { internship: 'Internship', co_op: 'Co-op', new_grad: 'New grad' };
+
 export interface IndexRow {
   id: string;
   title: string;
@@ -34,6 +38,8 @@ export interface IndexRow {
   state: string | null;
   arrangement: Arrangement;
   family: Family;
+  /** Internship, co-op or new-grad role. */
+  kind: RoleKind;
   season: string | null;
   posted_at: string;
   first_seen_at: string;
@@ -126,7 +132,7 @@ export function isIndexRow(v: unknown): v is IndexRow {
     isStr(r.title) && r.title.length > 0 &&
     isStr(r.company) && isStr(r.slug, 120) && isStr(r.domain, 253) &&
     isStrOrNull(r.city) && isStrOrNull(r.state) &&
-    isOneOf(ARRANGEMENTS, r.arrangement) && isOneOf(FAMILIES, r.family) &&
+    isOneOf(ARRANGEMENTS, r.arrangement) && isOneOf(FAMILIES, r.family) && isOneOf(ROLE_KINDS, r.kind) &&
     isStrOrNull(r.season) && isIso(r.posted_at) && isIso(r.first_seen_at) &&
     isStr(r.ats, 40) && typeof r.has_salary === 'boolean' &&
     (r.citizenship_required === null || typeof r.citizenship_required === 'boolean') &&
@@ -142,7 +148,7 @@ export function parseIndexFile(v: unknown): IndexFile {
   // Copy only the known fields so nothing unexpected rides along.
   const clean = rows.map((r) => ({
     id: r.id, title: r.title, company: r.company, slug: r.slug, domain: r.domain,
-    city: r.city, state: r.state, arrangement: r.arrangement, family: r.family,
+    city: r.city, state: r.state, arrangement: r.arrangement, family: r.family, kind: r.kind,
     season: r.season, posted_at: r.posted_at, first_seen_at: r.first_seen_at, ats: r.ats,
     has_salary: r.has_salary, citizenship_required: r.citizenship_required, others: r.others,
   }));

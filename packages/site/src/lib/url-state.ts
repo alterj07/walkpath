@@ -6,8 +6,14 @@
 import { ARRANGEMENTS, FAMILIES, US_STATES, WINDOWS } from './data.ts';
 import type { Arrangement, Family, TimeWindow } from './data.ts';
 
+/** Which kinds of role to show: internships and co-ops (default), new-grad roles, or all. */
+export const KIND_FILTERS = ['intern', 'newgrad', 'all'] as const;
+export type KindFilter = (typeof KIND_FILTERS)[number];
+export const KIND_FILTER_LABELS: Record<KindFilter, string> = { intern: 'Internships', newgrad: 'New grad', all: 'All' };
+
 export interface ExploreFilters {
   window: TimeWindow;
+  kind: KindFilter;
   family: Family[];
   state: string[];
   arr: Arrangement[];
@@ -20,6 +26,7 @@ export interface ExploreFilters {
 
 export const DEFAULT_FILTERS: ExploreFilters = {
   window: '24h',
+  kind: 'intern',
   family: [],
   state: [],
   arr: [],
@@ -53,9 +60,11 @@ function text(params: URLSearchParams, key: string): string {
 
 export function parseFilters(params: URLSearchParams): ExploreFilters {
   const window = params.get('window');
+  const kind = params.get('kind');
   const page = Number.parseInt(params.get('page') ?? '1', 10);
   return {
     window: (WINDOWS as readonly string[]).includes(window ?? '') ? (window as TimeWindow) : DEFAULT_FILTERS.window,
+    kind: (KIND_FILTERS as readonly string[]).includes(kind ?? '') ? (kind as KindFilter) : DEFAULT_FILTERS.kind,
     family: csv(params, 'family').filter((f): f is Family => (FAMILIES as readonly string[]).includes(f)),
     state: csv(params, 'state').map((s) => s.toUpperCase()).filter((s) => s in US_STATES),
     arr: csv(params, 'arr').filter((a): a is Arrangement => (ARRANGEMENTS as readonly string[]).includes(a)),
@@ -71,6 +80,7 @@ export function parseFilters(params: URLSearchParams): ExploreFilters {
 export function serializeFilters(f: ExploreFilters): URLSearchParams {
   const p = new URLSearchParams();
   if (f.window !== DEFAULT_FILTERS.window) p.set('window', f.window);
+  if (f.kind !== DEFAULT_FILTERS.kind) p.set('kind', f.kind);
   if (f.family.length) p.set('family', f.family.join(','));
   if (f.state.length) p.set('state', f.state.join(','));
   if (f.arr.length) p.set('arr', f.arr.join(','));

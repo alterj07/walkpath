@@ -4,11 +4,14 @@ import { dirname, join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { internshipGate } from '../../src/gates/internship.ts';
 import { techGate } from '../../src/gates/tech.ts';
+import { newGradGate } from '../../src/gates/newgrad.ts';
 
 interface Labelled {
   title: string;
   employment_type?: string;
   is_internship: boolean;
+  /** Present only on titles labelled for the new-grad gate. */
+  is_new_grad?: boolean;
   /** A role family, 'not_tech', or null when the title alone cannot be labelled (unscored for tech). */
   family: string | null;
   source: string;
@@ -104,5 +107,42 @@ describe('gate evaluation on labelled titles', () => {
     expect(recall).toBeGreaterThanOrEqual(0.85);
     // Family boundaries (embedded software vs hardware, data infra vs software) are fuzzy by nature.
     expect(familyAgree / tp).toBeGreaterThanOrEqual(0.8);
+  });
+});
+
+describe('new-grad gate evaluation on labelled titles', () => {
+  const labelled = rows.filter((r): r is Labelled & { is_new_grad: boolean } => typeof r.is_new_grad === 'boolean');
+
+  it('has at least 150 new-grad positives and 60 negatives', () => {
+    expect(labelled.filter((r) => r.is_new_grad).length).toBeGreaterThanOrEqual(150);
+    expect(labelled.filter((r) => !r.is_new_grad).length).toBeGreaterThanOrEqual(60);
+  });
+
+  it('new-grad gate: precision >= 90% and recall >= 80% (ambiguous counts as a miss)', () => {
+    let tp = 0;
+    let fp = 0;
+    let fn = 0;
+    let ambiguous = 0;
+    const misses: string[] = [];
+    for (const r of labelled) {
+      const v = newGradGate({ title: r.title }).verdict;
+      if (v === 'new_grad') {
+        if (r.is_new_grad) tp += 1;
+        else {
+          fp += 1;
+          misses.push(`FP ${r.title}`);
+        }
+      } else if (r.is_new_grad) {
+        if (v === 'ambiguous') ambiguous += 1;
+        fn += 1;
+        misses.push(`FN(${v}) ${r.title}`);
+      }
+    }
+    const precision = tp / (tp + fp);
+    const recall = tp / (tp + fn);
+    console.log(`new-grad gate: tp=${tp} fp=${fp} fn=${fn} ambiguous=${ambiguous} precision=${pct(tp, tp + fp)} recall=${pct(tp, tp + fn)}`);
+    console.log('new-grad misses (first 20):\n' + misses.slice(0, 20).join('\n'));
+    expect(precision).toBeGreaterThanOrEqual(0.9);
+    expect(recall).toBeGreaterThanOrEqual(0.8);
   });
 });

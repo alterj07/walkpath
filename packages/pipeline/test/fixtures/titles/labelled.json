@@ -3994,5 +3994,1692 @@
     "is_internship": false,
     "family": "not_tech",
     "source": "hand"
+  },
+  {
+    "title": "Software Engineer New Grad - Front-End",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Systems Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Business Intelligence Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "FPGA/Digital Design Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "IT Engineering New Grad - Software, Platform, & Network",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data Scientist/Engineer New Grad - Analytic Capabilities",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Software Engineer - Intel Sector",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Data Analyst / Business Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Electrical Technician",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Graduate Analyst - Trading Analytics 2027",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Machine Learning Engineer New Grad - E-Commerce Search",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer Junior - REST API Development - Officer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data and AI Engineering New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data Engineer 1 - Enterprise Technology Services",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Enterprise Technology Services",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer \u2013 New grad / early career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior C# Software Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Software Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Engineer 1 / 2 - Embedded Development Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineer - Web",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Hardware Engineer 1 Graduate",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Analytics Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Graduate Software Engineer - Multiple Teams",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Quantitative Trader \u2013 Graduate Program - August Start",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Forward Deployed Agent Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineer - Engineering Development Program",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software/Developer Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "New College Grad - Memory Design Engineer - Hbm",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Developer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Hardware Design Validation Engineer New Grad - Memory Subsystem",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Java Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Early Career Associate Data Scientist",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Data Scientist",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Failure Analysis Engineer New Grad - Yield Enhancement",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Hardware In the Loop Software Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Software Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Developer - Entry Level",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Software - Application Software",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "ASIC Design Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Developer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Forward Deployed Software Engineer New Grad - UK Government",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Ads Infrastructure",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer - Early Career - Immediate Start",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "FPGA Electrical Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Summer 2027",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level .Net Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Scientist New Grad - Circuits",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "iOS Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer - Entry Level",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Application Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Graduate Software Engineer - Global CRM",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Computer Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "New Graduate Engineer - Software",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Product Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Hardware Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Operations Research Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer New Grad - Starlink",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "System Hardware Design Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Machine Learning Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Quantitative Trader New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Safety Software Engineer 1&C HMI Systems",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data Scientist New Grad - Insurance Consulting",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineer - Full-Stack - Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Software",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Scientist New Grad - AI for Infrastructure",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Development Engineer - Rotational Program",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer New Grad - Summer 2027",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Embedded Aviation",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Development Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Production Programmer \u2013 Entry Level SQL Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "AI Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Software Engineer 1 - Firmware",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Multiple Teams",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineering",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - AI Infra Compute",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Test Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Business Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Component Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Defense",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Programmer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Frontend - Upfunnel",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Full-Stack Software Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Accelerated Computing Solutions Analyst \u2013 Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Graduate Software Engineer - Supply Chain + Operations",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Early Career Electrical Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Full Stack Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer Early Career - Multiple Teams",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Hardware Engineering Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "RFIC Design Engineer 1 - RFIC Design Team",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Scientist New Grad - Conversational AI",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Technology Graduate Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Digital Media Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Systems Software Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineering New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data Scientist New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Data Scientist New Grad - Computer Scientist - Decision Systems",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Data Engineer - DEA",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Radiation Effects Associate Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Data Engineer - Multiple Teams",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Software - Starship",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Development Engineer - Emerging Professionals",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Quantitative Researcher - Full-Time Campus Hire",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Backend Software Engineer New Grad - Feed Safety",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Early Career Flight Software Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "AI Engineer 1 - Enterprise Technology Services",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Embedded Systems",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Data Science - Marketing Science",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "C++ Software Developer New Grad - Rotational Program",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Low Power ASIC Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "AI Infrastructure & HBM Architecture Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Applied AI New Grad - Non Silicon",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level C++ Software Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer Rotational Program - Early Career",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Creative Technologist - Early Career Consult Program",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 New Grad - Elixir",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Engineer 1 - SD",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Software Engineer Entry Level",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Programmer Analyst",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "R&D Software Engineer Recent Graduate",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Engineering Leadership Program Engineer - Class of 2027",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineer - Clinical Software Products",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - IT",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Engineer - Embedded Software / Systems",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Developer New Grad - Engagement Optimization",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Development Engineer 1 - Mobile",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electrical Design Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Firmware Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Java",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Firmware Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Accelerated Development Program New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Research Scientist New Grad - Multi-modal Agentic Databases",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Electrical & Firmware Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Forward Deployed Engineer New Grad - 2027",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer 1 - Logistics Engineering",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "FPGA/ASIC Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Engineer 1 - Hydro Lab",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Entry Level Semiconductor Test Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "DFT Engineer \u2013 New College Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Graduate Software Engineer Programme",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Machine Learning Engineer New Grad - Data Search - Visual Search",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - Ads Signal & Measurement",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Generative AI Application Developer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Associate Software Engineer - Cyber",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Engineering Graduate Programme",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Electronics Engineer - Graduate Programme",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Embedded Security Software Engineer 1",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Systems Design Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "System Design Engineer \u2013 New College Grad 2026",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "hardware_embedded",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Software Engineer New Grad - 2027 Graduate",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "software_engineering",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Quantitative Strategy Developer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "quant_research",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Junior Data Engineer",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Applied Algorithms Engineer New Grad",
+    "is_internship": false,
+    "is_new_grad": true,
+    "family": "data_ml_ai",
+    "source": "simplifyjobs-newgrad"
+  },
+  {
+    "title": "Principal Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Software Engineer III",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Software Development Engineer 2",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Data Scientist II",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Machine Learning Engineer, 5+ years",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Director of Engineering",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "VP of Engineering",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Mid-level Frontend Developer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Experienced iOS Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Solutions Architect",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Distinguished Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Technical Lead, Payments",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Site Reliability Engineer III",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Product Manager",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Security Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Hardware Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Data Science Intern, Summer 2027",
+    "is_internship": true,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Machine Learning Co-op",
+    "is_internship": true,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "University Recruiter",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Campus Recruiting Coordinator",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Early Career Program Manager",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Graduate Program Coordinator",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Marketing Associate",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Sales Development Representative",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Recruiter",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "HR Generalist",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior New Product Introduction Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Staff Associate Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Junior Account Manager",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Associate Software Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Software Engineer, 4-6 years experience",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Embedded Software Engineer II",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Quantitative Researcher, Senior",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Engineering Intern - Entry Level",
+    "is_internship": true,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Research Scientist",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Program Manager II",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Cloud Engineer, Level 3",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Network Engineer 2",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "DevOps Engineer (Senior)",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Full Stack Developer, 3 years",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Head of Data",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Chief Technology Officer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Fellow, Applied Science",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Intermediate Software Developer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Director, Product",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Manager, Software Engineering",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Staff Data Scientist",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Sr. Hardware Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Principal Machine Learning Scientist",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Associate, Quantitative Strategies",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Firmware Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Staff Security Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Software Engineer IV",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Data Engineer III",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Lead Backend Developer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Principal Product Designer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Engineering Director, Platform",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Quantitative Developer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Experienced Machine Learning Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Software Engineer, 7+ years",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Cloud Architect",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Manager, Data Science",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Embedded Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Staff Site Reliability Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Senior Systems Engineer",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Mobile Engineer II",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "iOS Engineer, Senior",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Head of Machine Learning",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
+  },
+  {
+    "title": "Technical Program Manager II",
+    "is_internship": false,
+    "is_new_grad": false,
+    "family": null,
+    "source": "hand-newgrad"
   }
 ]

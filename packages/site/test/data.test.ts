@@ -24,6 +24,7 @@ const row = {
   state: 'CO',
   arrangement: 'in_person',
   family: 'hardware_embedded',
+  kind: 'internship',
   season: 'Summer 2027',
   posted_at: '2026-10-09T14:14:00Z',
   first_seen_at: '2026-10-09T14:31:07Z',

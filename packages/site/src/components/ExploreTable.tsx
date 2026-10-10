@@ -26,8 +26,8 @@ import {
   windowStartMs,
 } from '../lib/data.ts';
 import type { Arrangement, Family, IndexFileName, IndexRow, TimeWindow } from '../lib/data.ts';
-import { DEFAULT_FILTERS, filtersToSearch, parseFilters } from '../lib/url-state.ts';
-import type { ExploreFilters } from '../lib/url-state.ts';
+import { DEFAULT_FILTERS, KIND_FILTERS, KIND_FILTER_LABELS, filtersToSearch, parseFilters } from '../lib/url-state.ts';
+import type { ExploreFilters, KindFilter } from '../lib/url-state.ts';
 import { getLastVisit, getTracker, removeEntry, setStage, touchLastVisit } from '../lib/tracker.ts';
 import type { Tracker } from '../lib/tracker.ts';
 
@@ -242,6 +242,8 @@ export default function ExploreTable() {
     const company = filters.company.toLowerCase();
     const out = rows.filter((r) => {
       if (Date.parse(r.posted_at) < start) return false;
+      if (filters.kind === 'intern' && r.kind === 'new_grad') return false;
+      if (filters.kind === 'newgrad' && r.kind !== 'new_grad') return false;
       if (filters.family.length && !filters.family.includes(r.family)) return false;
       if (filters.state.length && (!r.state || !filters.state.includes(r.state))) return false;
       if (filters.arr.length && !filters.arr.includes(r.arrangement)) return false;
@@ -267,7 +269,7 @@ export default function ExploreTable() {
   const columns = useMemo(
     () => [
       col.accessor('title', {
-        header: 'Internship',
+        header: 'Role',
         cell: (info) => {
           const r = info.row.original;
           const isNew = lastVisit !== null && Date.parse(r.first_seen_at) > lastVisit;
@@ -279,6 +281,8 @@ export default function ExploreTable() {
                   {isNew && <span className="dot" title="New since your last visit" />}
                   {r.title}
                 </a>
+                {filters.kind !== 'intern' && r.kind === 'new_grad' ? <span className="badge">New grad</span> : null}
+                {filters.kind !== 'intern' && r.kind === 'co_op' ? <span className="badge">Co-op</span> : null}
                 <div className="muted small">
                   {r.company}
                   {r.season ? ` · ${r.season}` : ''}
@@ -355,6 +359,14 @@ export default function ExploreTable() {
     <NowContext.Provider value={now}>
     <section className="explore">
       <div className="toolbar">
+        <Chips<KindFilter>
+          name="Kind of role"
+          options={KIND_FILTERS}
+          value={[filters.kind]}
+          labels={KIND_FILTER_LABELS}
+          single
+          onChange={(v) => update({ kind: v[0] ?? 'intern' })}
+        />
         <Chips<TimeWindow>
           name="Posted within"
           options={WINDOWS}
