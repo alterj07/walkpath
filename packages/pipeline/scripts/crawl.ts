@@ -5,7 +5,7 @@
  *     --ats greenhouse,lever,ashby,workable,smartrecruiters \
  *     --boards registry/boards.csv --sources registry/sources.json \
  *     --state state/state-api.sqlite --out out/diff-api.json \
- *     [--concurrency 40] [--limit N] [--mode normal|backfill] [--deadline-min 25] [--detail-cap 200]
+ *     [--concurrency 40] [--limit N] [--mode normal|backfill] [--deadline-min 25] [--grace-min 3] [--detail-cap 200]
  *     [--shard k/n]
  *
  * `--detail-cap` is the per-board cap on detail fetches per run (Greenhouse, SmartRecruiters,
@@ -72,6 +72,9 @@ async function main(argv: readonly string[]): Promise<number> {
   const limit = intFlag(args, 'limit', 0, 0);
   const mode: Mode = enumFlag(args, 'mode', MODES, 'normal');
   const deadlineMin = intFlag(args, 'deadline-min', 0, 0);
+  // Soft deadline (no new boards) at --deadline-min; hard stop (abort in-flight requests,
+  // write the artifact, exit 0) --grace-min later. Without a deadline there is no hard stop.
+  const graceMin = intFlag(args, 'grace-min', 3, 0);
   const detailCap = intFlag(args, 'detail-cap', 0, 0);
   const shard = parseShard(stringFlag(args, 'shard', '0/1'));
   const deadline: Deadline = deadlineMin > 0 ? deadlineAfter(deadlineMin) : NO_DEADLINE;
@@ -89,6 +92,7 @@ async function main(argv: readonly string[]): Promise<number> {
     out: outPath,
     concurrency,
     deadline_min: deadlineMin,
+    grace_min: deadlineMin > 0 ? graceMin : 'none',
     detail_cap: detailCap || 'default',
     shard: `${shard.index}/${shard.count}`,
   });
@@ -151,8 +155,18 @@ async function main(argv: readonly string[]): Promise<number> {
   process.once('SIGTERM', onSignal);
   process.once('SIGINT', onSignal);
 
+  const hardStop = new AbortController();
+  const hardStopTimer =
+    deadlineMin > 0
+      ? setTimeout(() => {
+          log.warn('hard deadline reached, aborting in-flight requests', { grace_min: graceMin });
+          hardStop.abort();
+        }, (deadlineMin + graceMin) * 60_000)
+      : null;
+  if (hardStopTimer) hardStopTimer.unref();
+
   try {
-    const http = new HttpClient({});
+    const http = new HttpClient({ signal: hardStop.signal });
     const report = await crawlBoards({
       boards,
       adapters,
@@ -164,6 +178,7 @@ async function main(argv: readonly string[]): Promise<number> {
       runId,
       log: log.line,
       shouldStop: () => deadline.reached(),
+      signal: hardStop.signal,
       // Only postings that can be internships ride in the artifact (plan 4.5 runs the rule gate
       // first anyway); everything is still tracked in the state DB for diffing and closures.
       eventFilter: (e) => internshipGate({ title: e.input.title, employmentType: e.input.employmentType ?? null }).verdict !== 'not_intern',
@@ -194,6 +209,7 @@ async function main(argv: readonly string[]): Promise<number> {
       }
     }
     const circuitOpenFailures = report.failures.filter((f) => f.code === 'circuit_open').length;
+    const abortedBoards = report.failures.filter((f) => f.code === 'aborted').length;
 
     for (const [ats, p] of Object.entries(report.per_ats)) {
       log.info('ats summary', {
@@ -218,6 +234,8 @@ async function main(argv: readonly string[]): Promise<number> {
       failed: report.boards.failed,
       partial: report.boards.partial,
       skipped_deadline: report.boards.skipped_deadline,
+      aborted: abortedBoards,
+      hard_stop: hardStop.signal.aborted,
       events: report.events.length,
       stale_closed: stale.length,
       pruned,
@@ -234,6 +252,7 @@ async function main(argv: readonly string[]): Promise<number> {
     }
     return 0;
   } finally {
+    if (hardStopTimer) clearTimeout(hardStopTimer);
     process.off('SIGTERM', onSignal);
     process.off('SIGINT', onSignal);
     closeDb();

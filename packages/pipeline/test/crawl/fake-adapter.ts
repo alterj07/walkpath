@@ -25,6 +25,11 @@ export interface FakeBoardScript {
   detailFail?: boolean;
   /** Ids whose toInput throws (simulates a payload the adapter cannot map). */
   badIds?: string[];
+  /**
+   * listJobs performs a real HttpClient request first (so the run's abort signal reaches it);
+   * with a fetch that never resolves this hangs until the client aborts.
+   */
+  viaHttp?: string;
 }
 
 export const board = (overrides: Partial<Board> = {}): Board => ({
@@ -81,11 +86,14 @@ export function fakeAdapter(scripts: Record<string, FakeBoardScript>, withDetail
   const adapter: SourceAdapter<FakeRaw> = {
     source: 'greenhouse',
     policy: { minDelayMs: 0, maxConcurrencyPerHost: 4, allowedHosts: ['boards.greenhouse.io'] },
-    async listJobs(b) {
+    async listJobs(b, http) {
       calls.list += 1;
       const script = scripts[b.board_key];
       if (script === undefined) throw new HttpError('http_status', 'boards-api.greenhouse.io', 404);
       if (script.fail) throw script.fail;
+      if (script.viaHttp) {
+        await http.request({ url: script.viaHttp, allowedHosts: ['boards-api.greenhouse.io'], limits: { minDelayMs: 0, maxConcurrency: 4 } });
+      }
       // Light list: strip descriptions when behaving like a detail adapter.
       return withDetail ? script.jobs.map(({ description: _d, ...rest }) => rest) : script.jobs;
     },

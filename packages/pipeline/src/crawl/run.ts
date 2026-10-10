@@ -43,6 +43,12 @@ export interface CrawlOptions {
    * shrinks diff-*.json, which otherwise carries every posting on every board on a first run.
    */
   eventFilter?: (event: JobEvent) => boolean;
+  /**
+   * Hard stop. When it fires, in-flight requests fail with 'aborted'; those boards count as
+   * `skipped_deadline` (never as failures, never closures) and are polled first next run.
+   * The HttpClient passed in must carry the same signal for the abort to reach the sockets.
+   */
+  signal?: AbortSignal;
 }
 
 const BoardCountsSchema = z.object({
@@ -140,6 +146,26 @@ export function selectBoards(
   return { selected, skipped };
 }
 
+/** A board the hard deadline cut off before its first request: nothing polled, nothing written. */
+function abortedDiff(board: Board, db: StateDb): BoardDiff {
+  const id = boardIdOf(board);
+  const prior = db.getBoardState(id);
+  return {
+    board_id: id,
+    ats: board.ats,
+    ok: false,
+    partial: false,
+    error: 'aborted',
+    consecutive_failures: prior?.consecutive_failures ?? 0,
+    counts: { listed: 0, new: 0, changed: 0, unchanged: 0, missing: 0, closed: 0, reopened: 0, reposts: 0, detail_fetched: 0, detail_deferred: 0 },
+    new: [],
+    changed: [],
+    reposts: [],
+    closed: [],
+    reopened: [],
+  };
+}
+
 /** Runs `fn` over `items` with at most `limit` in flight; stops taking items once `shouldStop()` is true. */
 async function mapWithConcurrency<T, R>(
   items: readonly T[],
@@ -178,7 +204,9 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
   opts.db.logRun({ run_id: runId, started_at: startedAt.toISOString(), finished_at: null, kind, stats_json: null });
   log(`run ${runId}: ${selected.length} boards selected, ${skipped.length} skipped`);
 
-  const { results: diffs, unreached } = await mapWithConcurrency(selected, opts.concurrency ?? 20, async ({ board, adapter }): Promise<BoardDiff> => {
+  const concurrency = opts.concurrency ?? 20;
+  const runOne = async ({ board, adapter }: SelectedBoard): Promise<BoardDiff> => {
+    if (opts.signal?.aborted) return abortedDiff(board, opts.db);
     const args = {
       board,
       adapter,
@@ -212,7 +240,26 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
         reopened: [],
       };
     }
-  }, opts.shouldStop);
+  };
+
+  // One worker pool per source so 40 global workers cannot all queue on one API host while
+  // the other sources starve (plan 4.4 budgets are per host). A source whose boards live on
+  // their own hosts (Workday) keeps the full worker count.
+  const bySource = new Map<string, SelectedBoard[]>();
+  for (const sb of selected) {
+    const list = bySource.get(sb.adapter.source) ?? [];
+    list.push(sb);
+    bySource.set(sb.adapter.source, list);
+  }
+  const pools = await Promise.all(
+    [...bySource.values()].map((items) => {
+      const policy = items[0]?.adapter.policy;
+      const perSource = policy?.hostsPerBoard ? concurrency : Math.min(concurrency, Math.max(1, (policy?.maxConcurrencyPerHost ?? 1) * 2));
+      return mapWithConcurrency(items, perSource, runOne, opts.shouldStop);
+    }),
+  );
+  const diffs = pools.flatMap((p) => p.results);
+  const unreached = pools.flatMap((p) => p.unreached);
 
   const perAts: Record<string, PerAts> = {};
   const bucket = (ats: Ats): PerAts => (perAts[ats] ??= emptyPerAts());
@@ -248,6 +295,15 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
   for (const d of diffs) {
     const p = bucket(d.ats);
     p.polled += 1;
+    if (!d.ok && d.error === 'aborted') {
+      // Cut off by the hard deadline: not polled, not failed, polled first next run.
+      p.polled -= 1;
+      p.skipped_deadline += 1;
+      report.boards.polled -= 1;
+      report.boards.skipped_deadline += 1;
+      report.failures.push({ board_id: d.board_id, code: 'aborted' });
+      continue;
+    }
     if (!d.ok) {
       p.failed += 1;
       report.boards.failed += 1;

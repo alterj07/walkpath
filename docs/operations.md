@@ -208,3 +208,55 @@ concurrent requests, and the run kept sending for 27 minutes. Two things changed
 
 A host that stays blocked across runs is the signal to lower that adapter's policy further or to
 contact the vendor; the crawler never retries harder, rotates addresses or changes its User-Agent.
+
+
+## Deadlines, hard stop and artifacts (why an hour can never produce nothing)
+
+Each crawl job has two clocks. At `--deadline-min` it stops starting boards (the ones not
+reached are counted as `skipped_deadline` and, because the board order rotates by hour, are
+polled first next run). At `--deadline-min + --grace-min` (grace defaults to 3 minutes) it aborts
+every request still in flight: those boards are also counted as `skipped_deadline`, never as
+failures, their `consecutive_failures` and `last_polled_at` are untouched, and no job is closed
+on their account. The artifact is then written and the job exits 0, so the `Upload diff
+artifact` step (`if: always()`) always has something to upload. The job `timeout-minutes` is a
+backstop several minutes above the hard stop.
+
+| Job | Sources | Soft deadline | Hard stop | Job timeout |
+| --- | --- | --- | --- | --- |
+| `crawl-api` | Greenhouse (4 concurrent, 250 ms), Ashby, Workable, SmartRecruiters | 38 min | 41 min | 50 min |
+| `crawl-lever` | Lever, half the boards each hour (`--shard hour%2/2`), 1 request/s | 43 min | 46 min | 55 min |
+| `crawl-workday` | Workday, 1 request per tenant every 2 s, `--detail-cap 40` | 38 min | 41 min | 50 min |
+| `publish` | needs all three; runs when at least one succeeded | 12 min for summaries | | 30 min |
+
+Inside a job each source gets its own worker pool: a source on one shared API host runs at most
+`2 × maxConcurrencyPerHost` boards at a time (Greenhouse 8, Ashby 20, Workable 10,
+SmartRecruiters 16), so the global worker count can never pile up behind one host's rate limit
+while the others sit idle. Workday (one host per tenant) keeps the full `--concurrency`.
+
+The crawl summary line reports `aborted` (boards cut off by the hard stop) and `hard_stop`
+(whether it fired at all); a healthy hour shows `hard_stop=false`.
+
+## Schedule drift and the backup trigger
+
+GitHub runs `schedule` triggers from a shared queue: a run can start minutes late, and at busy
+times some firings are dropped entirely (the first day saw one run in four hours). The workflow
+therefore has two cron lines, `17 * * * *` and `47 * * * *`. `concurrency: crawl` with
+`cancel-in-progress: false` serialises them, and publish is idempotent, so in a normal hour the
+second trigger waits for the first to finish and then finds nothing new (a few minutes of runner
+time). In practice this yields about one effective run per hour.
+
+If drift ever matters more than that, the free fix is an external pinger: a Cloudflare Worker
+with a cron trigger (5 per account on the free plan) that calls
+`POST /repos/alterj07/walkpath/actions/workflows/crawl.yml/dispatches` with a fine-grained
+personal access token scoped to this repository with `actions: write`. The token lives in the
+Worker's secret store, not in this repository. It is deliberately not implemented here.
+
+## Summaries with no provider key
+
+The publish job has `models: read`, and `GITHUB_MODELS_TOKEN` falls back to the job's own
+`GITHUB_TOKEN`, so the GitHub Models provider (`openai/gpt-4o-mini`) works with zero setup.
+Its free tier is small (about 150 requests per day on the low tier), enough to keep the queue
+moving but not to clear a backlog; the queue drains oldest-first across runs. Add
+`MISTRAL_API_KEY` (Experiment plan, 1 billion tokens per month) when you want every new
+posting summarized within the hour; the provider order stays Mistral, Gemini, Workers AI,
+Groq, GitHub Models.

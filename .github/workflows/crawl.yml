@@ -10,7 +10,11 @@ name: crawl
 
 on:
   schedule:
+    # Two triggers per hour: GitHub delays and sometimes drops scheduled runs (plan 7.3, 12.1).
+    # `concurrency: crawl` serialises them and publish is idempotent, so a second trigger in a
+    # normal hour only waits and then finds nothing new.
     - cron: '17 * * * *' # off-the-hour minute is less contended (plan 4.4)
+    - cron: '47 * * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -69,9 +73,12 @@ jobs:
           --state state/state-api.sqlite
           --out out/diff-api.json
           --concurrency 40
-          --deadline-min 40
+          --deadline-min 38
+          --grace-min 3
       - name: Upload diff artifact
-        if: ${{ env.CRAWL_MODE != 'regate' }}
+        # always(): a hard-stopped crawl still writes its artifact; nothing to upload only means
+        # the crawl itself failed before writing (publish then skips this source for the hour).
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: diff-api
@@ -119,10 +126,11 @@ jobs:
           --state state/state-lever.sqlite
           --out out/diff-lever.json
           --concurrency 4
-          --deadline-min 45
+          --deadline-min 43
+          --grace-min 3
           --shard "$((10#$(date -u +%H) % 2))/2"
       - name: Upload diff artifact
-        if: ${{ env.CRAWL_MODE != 'regate' }}
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: diff-lever
@@ -137,10 +145,11 @@ jobs:
           key: state-lever-${{ github.run_id }}
 
   crawl-workday:
-    # Off until the Workday adapter lands and the week-1 tolerance test passes (plan 12.3 #2).
-    if: ${{ vars.WORKDAY_ENABLED == 'true' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
+    # On by default; set the repository variable WORKDAY_ENABLED=false to pause it (plan 12.3 #2:
+    # the first live crawl of 240 tenants at 2 s spacing drew no 403s).
+    if: ${{ vars.WORKDAY_ENABLED != 'false' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 50
     env:
       CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
     steps:
@@ -169,9 +178,10 @@ jobs:
           --out out/diff-workday.json
           --concurrency 20
           --detail-cap 40
-          --deadline-min 30
+          --deadline-min 38
+          --grace-min 3
       - name: Upload diff artifact
-        if: ${{ env.CRAWL_MODE != 'regate' }}
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: diff-workday
@@ -186,14 +196,17 @@ jobs:
           key: state-workday-${{ github.run_id }}
 
   publish:
-    # Runs after the API crawl even when the Workday job is skipped or failed (its artifact is
-    # optional); never runs when the API crawl failed, so a broken hour can never close jobs.
+    # Runs when at least one crawl job succeeded; a missing or failed source's artifact is simply
+    # absent and the orchestrator skips it (its closures are withheld), so a broken source can
+    # never close jobs. `models: read` lets the built-in GITHUB_TOKEN call GitHub Models for
+    # summaries when no provider key is configured.
     needs: [crawl-api, crawl-lever, crawl-workday]
-    if: ${{ always() && needs.crawl-api.result == 'success' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
+    if: ${{ always() && (needs.crawl-api.result == 'success' || needs.crawl-lever.result == 'success' || needs.crawl-workday.result == 'success') && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
       contents: write
+      models: read
     env:
       CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
       SITE_URL: ${{ vars.SITE_URL || 'https://walkpath.pages.dev' }}
@@ -225,6 +238,7 @@ jobs:
         run: mkdir -p data
       - name: Download the API diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
+        continue-on-error: true
         uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
         with:
           name: diff-api
@@ -257,7 +271,9 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_AI_TOKEN: ${{ secrets.CLOUDFLARE_AI_TOKEN }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_MODELS_TOKEN }}
+          # Falls back to the job token: GitHub Models accepts GITHUB_TOKEN from Actions with
+          # `models: read` (openai/gpt-4o-mini, roughly 150 requests/day on the low tier).
+          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_MODELS_TOKEN || github.token }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -13,6 +13,12 @@ export interface AdapterPolicy {
    * apply URL may legitimately point at. Exact names or `*.wildcard`.
    */
   allowedHosts: readonly string[];
+  /**
+   * True when every board lives on its own host (Workday: one tenant per hostname), so the
+   * per-host limiter never serialises boards of this source and the crawl may keep its full
+   * worker count on it. Default false: one shared API host, workers capped at 2× the host limit.
+   */
+  hostsPerBoard?: boolean;
 }
 
 /**

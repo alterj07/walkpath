@@ -37,6 +37,7 @@ export const WORKDAY_POLICY: AdapterPolicy = {
   minDelayMs: 2_000,
   maxConcurrencyPerHost: 1,
   allowedHosts: ['*.myworkdayjobs.com', '*.myworkdaysite.com'],
+  hostsPerBoard: true,
 };
 
 const DAY_MS = 86_400_000;

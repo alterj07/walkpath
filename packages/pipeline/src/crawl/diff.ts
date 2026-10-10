@@ -199,6 +199,22 @@ export async function diffBoard(opts: DiffBoardOptions): Promise<BoardDiff> {
   };
 
   const fail = (code: string): BoardDiff => {
+    if (code === 'aborted') {
+      // The run's hard deadline cut this board off mid-request: not a board failure, nothing
+      // learned, nothing written (last_polled_at and consecutive_failures stay as they were).
+      diff.ok = false;
+      diff.partial = false;
+      diff.error = 'aborted';
+      diff.consecutive_failures = state.consecutive_failures;
+      diff.new = [];
+      diff.changed = [];
+      diff.reposts = [];
+      diff.closed = [];
+      diff.reopened = [];
+      diff.counts = emptyCounts();
+      log(`board ${id}: aborted (deadline)`);
+      return diff;
+    }
     const failures = state.consecutive_failures + 1;
     diff.ok = false;
     diff.partial = false;

@@ -1,4 +1,4 @@
-import { HostLimiter, type HostLimits } from './limiter.ts';
+import { HostLimiter, LimiterAbortError, type HostLimits } from './limiter.ts';
 import { isPathAllowed, parseRobots, type RobotsRules } from './robots.ts';
 import { hostMatches } from '../links.ts';
 
@@ -35,6 +35,11 @@ export interface HttpClientOptions {
   maxBodyBytes?: number;
   /** Client-wide default; set false in tests that do not want a robots.txt round trip. */
   respectRobots?: boolean;
+  /**
+   * Hard stop for every request this client makes (the crawl's grace deadline). Once it fires,
+   * waiting and in-flight requests fail with HttpError('aborted') and nothing new is sent.
+   */
+  signal?: AbortSignal;
 }
 
 export interface HttpRequest {
@@ -55,6 +60,8 @@ export interface HttpRequest {
    * as a crawler. Every other adapter leaves this unset.
    */
   respectRobots?: boolean;
+  /** Per-request hard stop; combined with the client-wide signal. */
+  signal?: AbortSignal;
 }
 
 /** Per-host breaker state, for the crawl summary log (hosts and counts only). */
@@ -77,6 +84,7 @@ export interface HttpResponse {
 }
 
 export type HttpErrorCode =
+  | 'aborted'
   | 'host_not_allowed'
   | 'robots_disallowed'
   | 'redirect_not_allowed'
@@ -198,6 +206,7 @@ export class HttpClient {
   private readonly timeoutMs: number;
   private readonly maxBodyBytes: number;
   private readonly respectRobots: boolean;
+  private readonly signal: AbortSignal | undefined;
   private readonly limiter: HostLimiter;
   private readonly robotsCache = new Map<string, { rules: RobotsRules; fetchedAt: number }>();
   private readonly robotsPending = new Map<string, Promise<RobotsRules>>();
@@ -212,6 +221,7 @@ export class HttpClient {
     this.timeoutMs = opts.timeoutMs ?? DEFAULT_TIMEOUT_MS;
     this.maxBodyBytes = opts.maxBodyBytes ?? MAX_BODY_BYTES;
     this.respectRobots = opts.respectRobots ?? true;
+    this.signal = opts.signal;
     this.limiter = new HostLimiter(this.now, this.sleep);
   }
 
@@ -265,13 +275,21 @@ export class HttpClient {
     }
   }
 
+  /** The client-wide and per-request stop signals, combined (undefined when neither is set). */
+  private stopSignal(req: HttpRequest): AbortSignal | undefined {
+    if (this.signal && req.signal) return AbortSignal.any([this.signal, req.signal]);
+    return this.signal ?? req.signal;
+  }
+
   async request(req: HttpRequest): Promise<HttpResponse> {
     const host = hostOf(req.url);
     if (!hostMatches(host, req.allowedHosts)) throw new HttpError('host_not_allowed', host);
+    const stop = this.stopSignal(req);
     let url = req.url;
     for (let hop = 0; hop <= MAX_REDIRECTS; hop += 1) {
+      if (stop?.aborted) throw new HttpError('aborted', hostOf(url));
       this.assertCircuitClosed(hostOf(url));
-      const result = await this.requestWithRetry(url, req);
+      const result = await this.requestWithRetry(url, req, stop);
       if (result.kind === 'redirect') {
         url = result.url;
         continue;
@@ -284,12 +302,13 @@ export class HttpClient {
   private async requestWithRetry(
     url: string,
     req: HttpRequest,
+    stop: AbortSignal | undefined,
   ): Promise<{ kind: 'redirect'; url: string } | { kind: 'done'; response: HttpResponse }> {
     const host = hostOf(url);
     const wantRobots = req.respectRobots ?? this.respectRobots;
     const limits = wantRobots ? await this.limitsAfterRobots(url, req) : req.limits;
     try {
-      const out = await this.attempts(url, req, host, limits);
+      const out = await this.attempts(url, req, host, limits, stop);
       this.noteSuccess(host);
       return out;
     } catch (err) {
@@ -303,16 +322,20 @@ export class HttpClient {
     req: HttpRequest,
     host: string,
     limits: HostLimits,
+    stop: AbortSignal | undefined,
   ): Promise<{ kind: 'redirect'; url: string } | { kind: 'done'; response: HttpResponse }> {
     let lastStatus: number | null = null;
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
+      if (stop?.aborted) throw new HttpError('aborted', host);
       // The circuit can open while we were waiting for a slot (a sibling request got blocked).
       this.assertCircuitClosed(host);
-      const release = await this.limiter.acquire(host, limits);
+      const release = await this.acquireSlot(host, limits, stop);
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), this.timeoutMs);
+      const onStop = (): void => controller.abort();
+      stop?.addEventListener('abort', onStop, { once: true });
       try {
-        const res = await this.fetchOnce(url, req, controller.signal);
+        const res = await this.fetchOnce(url, req, controller.signal, stop);
         const retryable = res.status === 429 || res.status >= 500;
         if (retryable) {
           lastStatus = res.status;
@@ -329,17 +352,29 @@ export class HttpClient {
         }
         return await this.consume(res, url, req, controller.signal);
       } catch (err) {
+        if (stop?.aborted) throw new HttpError('aborted', host);
         if (err instanceof HttpError && err.code === 'timeout' && attempt < MAX_ATTEMPTS) {
           this.backoff(host, attempt, null);
           continue;
         }
         throw err;
       } finally {
+        stop?.removeEventListener('abort', onStop);
         clearTimeout(timer);
         release();
       }
     }
     throw new HttpError('retry_exhausted', host, lastStatus);
+  }
+
+  /** limiter.acquire with the limiter's abort mapped to HttpError('aborted'). */
+  private async acquireSlot(host: string, limits: HostLimits, stop: AbortSignal | undefined): Promise<() => void> {
+    try {
+      return await this.limiter.acquire(host, limits, stop);
+    } catch (err) {
+      if (err instanceof LimiterAbortError) throw new HttpError('aborted', host);
+      throw err;
+    }
   }
 
   /** Turn a non-retryable response into a redirect instruction or a finished HttpResponse. */
@@ -400,7 +435,7 @@ export class HttpClient {
     this.limiter.block(host, Math.min(delay, MAX_BACKOFF_MS));
   }
 
-  private async fetchOnce(url: string, req: HttpRequest, signal: AbortSignal): Promise<Response> {
+  private async fetchOnce(url: string, req: HttpRequest, signal: AbortSignal, stop?: AbortSignal): Promise<Response> {
     const host = hostOf(url);
     const headers: Record<string, string> = { 'user-agent': this.userAgent, ...(req.headers ?? {}) };
     if (req.etag) headers['if-none-match'] = req.etag;
@@ -408,8 +443,13 @@ export class HttpClient {
     const init: RequestInit = { method: req.method ?? 'GET', headers, redirect: 'manual', signal };
     if (req.body !== undefined) init.body = req.body;
     try {
-      return await this.fetchImpl(url, init);
+      // Race the signal too: a fetch implementation that ignores `signal` (or a stalled DNS/TLS
+      // handshake) must still release the slot the moment the timeout or hard stop fires.
+      const aborted = abortedPromise(signal);
+      aborted.catch(() => {});
+      return await Promise.race([this.fetchImpl(url, init), aborted]);
     } catch (err) {
+      if (stop?.aborted) throw new HttpError('aborted', host);
       if (signal.aborted || isAbort(err)) throw new HttpError('timeout', host);
       throw new HttpError('network', host, null, `network (${host}): ${err instanceof Error ? err.name : 'error'}`);
     }
@@ -447,7 +487,7 @@ export class HttpClient {
    */
   private async fetchRobots(origin: string, host: string, req: HttpRequest): Promise<RobotsRules> {
     let rules: RobotsRules = { allow: [], disallow: [], crawlDelayMs: null };
-    const release = await this.limiter.acquire(host, req.limits);
+    const release = await this.acquireSlot(host, req.limits, undefined);
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), this.timeoutMs);
     try {

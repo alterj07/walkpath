@@ -114,3 +114,14 @@ mean no alerts. Logs print counts, ids and codes only.
 
 0 when the run completed (even with exhausted providers or missing artifacts); 1 when the registry,
 the state file or the store could not be read or written.
+
+
+## GitHub Models with the job token
+
+In the hourly workflow the publish job declares `permissions: models: read` and passes
+`GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_MODELS_TOKEN || github.token }}`. GitHub documents
+that the Actions `GITHUB_TOKEN` can call `https://models.github.ai/inference/chat/completions`
+when the workflow has that permission, so summaries run without any secret. Rate limits for
+the built-in token are the same as for a personal token on the free tier (low-tier models such
+as `openai/gpt-4o-mini`: roughly 15 requests per minute and 150 per day). The provider chain
+order is unchanged; a configured Mistral or Gemini key is tried first.
