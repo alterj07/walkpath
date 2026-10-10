@@ -18,8 +18,12 @@ import { canonicalKey } from '../ids.ts';
 export const GREENHOUSE_API_HOST = 'boards-api.greenhouse.io';
 
 export const GREENHOUSE_POLICY: AdapterPolicy = {
-  minDelayMs: 0,
-  maxConcurrencyPerHost: 20,
+  // Measured 2026-10-10: at 20 concurrent requests with no delay, boards-api.greenhouse.io
+  // blocked the crawler (403 on every list and detail call) about 70 s and ~330 boards in.
+  // ~4 requests/s keeps us well under that; the host circuit breaker in HttpClient stops
+  // the run for this host if it ever blocks again (plan 10.3).
+  minDelayMs: 250,
+  maxConcurrencyPerHost: 4,
   // Apply URLs legitimately live on these hosts; the diff engine also allows the company domain.
   allowedHosts: [
     'boards-api.greenhouse.io',

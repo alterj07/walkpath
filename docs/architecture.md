@@ -8,9 +8,10 @@ of ours to keep up.
 
 | Job | What it does |
 | --- | --- |
-| `crawl-api` | Restores `state-api.sqlite` from the Actions cache; polls every Greenhouse, Lever, Ashby, Workable, SmartRecruiters board with a per-host token bucket; diffs against `jobs_seen`; uploads `diff-api.json` as an artifact; saves the cache. |
+| `crawl-api` | Restores `state-api.sqlite` from the Actions cache; polls every Greenhouse (4 concurrent, 250 ms apart), Ashby, Workable and SmartRecruiters board with a per-host token bucket and a per-host circuit breaker that stops sending to a host after repeated 403s; diffs against `jobs_seen`; uploads `diff-api.json` as an artifact; saves the cache. |
+| `crawl-lever` | Lever alone: api.lever.co allows one request per second, so each board is polled every other hour (`--shard`). |
 | `crawl-workday` | Same for Workday tenants: 1 concurrent request per tenant, at least 2 s between pages. |
-| `publish` | Merges both diffs into the data branch checkout, runs the internship and tech gates, dedup and closures, LLM summaries through the provider chain, writes JSON shards, indexes, feeds and `meta.json`, builds the Astro site, deploys with wrangler, posts Discord and Telegram digests, commits the data branch. |
+| `publish` | Merges the diffs into the data branch checkout, runs the internship and tech gates, dedup and closures, LLM summaries through the provider chain, writes JSON shards, indexes, feeds and `meta.json`, builds the Astro site, deploys with wrangler, posts Discord and Telegram digests, commits the data branch. |
 
 Concurrency group `crawl` with `cancel-in-progress: false`, so a late run never overlaps the next.
 `workflow_dispatch` supports `mode=normal|backfill|regate`.

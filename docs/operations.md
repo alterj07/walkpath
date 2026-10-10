@@ -9,9 +9,10 @@ next one starts; it never overlaps.
 
 | Job | What it does | Budget |
 | --- | --- | --- |
-| `crawl-api` | Restores `state/state-api.sqlite` from the Actions cache, polls every active Greenhouse, Lever, Ashby, Workable and SmartRecruiters board, diffs, uploads `out/diff-api.json` as the `diff-api` artifact, saves the cache. | 25 min crawl deadline, 40 min job timeout |
+| `crawl-api` | Restores `state/state-api.sqlite` from the Actions cache, polls every active Greenhouse, Ashby, Workable and SmartRecruiters board (interleaved across sources, start offset rotating by the hour so boards missed by a deadline go first next hour), diffs, uploads `out/diff-api.json` as the `diff-api` artifact, saves the cache. | 40 min crawl deadline, 50 min job timeout |
+| `crawl-lever` | Lever alone, with `state/state-lever.sqlite` and the `diff-lever` artifact. `api.lever.co` is a single host whose robots.txt sets `Crawl-delay: 1`, so the client sends at most one request per second there and ~2,200 boards plus paging need about two hours. The job therefore runs `--shard $((hour % 2))/2`: every board is polled every other hour (boards outside the shard are not polled, never closed). | 45 min crawl deadline, 55 min job timeout |
 | `crawl-workday` | Same for Workday tenants with its own state file and the `diff-workday` artifact. Off until the repository variable `WORKDAY_ENABLED` is `true`. Runs with `--detail-cap 40`: 4,072 tenants × ~5 list pages × 2 s at 20 parallel tenants is about 34 minutes before any detail requests, so the first run backfills over several hours and each later run only fetches new postings (see `docs/workday.md`). | 30 min deadline, 45 min timeout |
-| `publish` | `needs` both crawl jobs (runs when `crawl-api` succeeded, even if Workday was skipped), checks out the `data` branch, downloads the artifacts, restores `state/state-publish.sqlite`, runs `scripts/publish.ts` (gates, summaries, shards, feeds, `meta.json`, alerts), commits the data branch, stages the data into the site, builds it, deploys to Cloudflare Pages when the token is set, and pings the heartbeat. See `docs/deploy.md`. | 12 min summary deadline, 30 min job timeout |
+| `publish` | `needs` the three crawl jobs (runs when `crawl-api` succeeded, even if Lever or Workday failed or was skipped), checks out the `data` branch, downloads the artifacts, restores `state/state-publish.sqlite`, runs `scripts/publish.ts` (gates, summaries, shards, feeds, `meta.json`, alerts), commits the data branch, stages the data into the site, builds it, deploys to Cloudflare Pages when the token is set, and pings the heartbeat. See `docs/deploy.md`. | 12 min summary deadline, 30 min job timeout |
 
 Top-level `permissions` are `contents: read`; only the publish job gets `contents: write` (for the
 `data` branch commit).
@@ -118,7 +119,7 @@ and ids only. `docs/github-settings.md` says where each value comes from.
 
 ## State snapshots and recovery
 
-The Actions cache is the only home of the three state files (`state-api`, `state-workday`,
+The Actions cache is the only home of the four state files (`state-api`, `state-lever`, `state-workday`,
 `state-publish`), and GitHub evicts cache entries unused for 7 days or under pressure. Losing a
 state file is not fatal, but a crawl that starts from an empty `jobs_seen` treats every open job
 as new and would re-alert everything (plan 12.1).
@@ -127,7 +128,7 @@ as new and would re-alert everything (plan 12.1).
 concurrency group, so it never reads a file mid-write. It restores the newest cache entry of each
 prefix, runs `PRAGMA integrity_check`, gzips the file and uploads it to a rolling prerelease
 tagged `state-snapshot` through the runner's GitHub CLI (no third-party action). The release holds
-one rolling asset per file (`state-api.sqlite.gz`, `state-workday.sqlite.gz`,
+one rolling asset per file (`state-api.sqlite.gz`, `state-lever.sqlite.gz`, `state-workday.sqlite.gz`,
 `state-publish.sqlite.gz`, always the latest) plus dated copies (`state-api-YYYYMMDD.sqlite.gz`)
 kept for 35 days. Sizes, never contents, are printed in the log.
 
@@ -190,3 +191,20 @@ git switch main
 Run logs are public. The scripts log through `src/cli/log.ts`, whose redaction guard prints ids,
 counts and codes and replaces anything long, prose-like or containing a URL with `[redacted]`.
 Adapters never put payload text into error messages.
+
+## Host blocks and the circuit breaker
+
+The first full crawl (2026-10-10) showed what a block looks like: `boards-api.greenhouse.io`
+answered 403 to every list and detail request about 70 seconds in, after ~330 boards at 20
+concurrent requests, and the run kept sending for 27 minutes. Two things changed:
+
+- The Greenhouse adapter now sends at most 4 concurrent requests with 250 ms between them.
+- `HttpClient` has a per-host circuit breaker (plan 10.3): a 403 or an exhausted retry budget
+  cools the host down for 2 minutes, then 10, then 30; after three consecutive blocks the circuit
+  opens for the rest of the run and every further request to that host fails locally with
+  `circuit_open` without being sent. A successful response resets the count. The crawl summary
+  logs one `host circuit open` line per host (host and counts only), and `/status` counts the
+  boards that failed with `circuit_open` like any other failed fetch: no closures.
+
+A host that stays blocked across runs is the signal to lower that adapter's policy further or to
+contact the vendor; the crawler never retries harder, rotates addresses or changes its User-Agent.

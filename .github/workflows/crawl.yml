@@ -1,9 +1,11 @@
-# Hourly crawl (plan sections 4.4 and 8.1). Two crawl jobs poll the registry in parallel,
-# diff against a SQLite state file kept in the Actions cache, and upload a diff artifact.
+# Hourly crawl (plan sections 4.4 and 8.1). Three crawl jobs poll the registry in parallel
+# (API sources, Lever on its own because api.lever.co allows one request per second, Workday),
+# each diffing against its own SQLite state file kept in the Actions cache and uploading a
+# diff artifact.
 #
-# The publish job needs both crawl jobs, downloads the `diff-api` and `diff-workday`
-# artifacts, gates and summarizes, commits the data branch, builds the site and deploys
-# it. It is the only job with `contents: write`.
+# The publish job needs the crawl jobs, downloads the `diff-api`, `diff-lever` and
+# `diff-workday` artifacts, gates and summarizes, commits the data branch, builds the site
+# and deploys it. It is the only job with `contents: write`.
 name: crawl
 
 on:
@@ -17,9 +19,9 @@ on:
         default: normal
         options: [normal, backfill, regate]
       ats:
-        description: 'Comma-separated API sources to poll'
+        description: 'Comma-separated API sources to poll in the crawl-api job'
         type: string
-        default: greenhouse,lever,ashby,workable,smartrecruiters
+        default: greenhouse,ashby,workable,smartrecruiters
 
 permissions:
   contents: read
@@ -36,10 +38,10 @@ jobs:
     # Scheduled runs only ever execute from main; dispatches are allowed from any branch for testing.
     if: ${{ github.event_name != 'schedule' || github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 50
     env:
       CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
-      CRAWL_ATS: ${{ github.event_name == 'workflow_dispatch' && inputs.ats || 'greenhouse,lever,ashby,workable,smartrecruiters' }}
+      CRAWL_ATS: ${{ github.event_name == 'workflow_dispatch' && inputs.ats || 'greenhouse,ashby,workable,smartrecruiters' }}
     steps:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
       - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
@@ -67,7 +69,7 @@ jobs:
           --state state/state-api.sqlite
           --out out/diff-api.json
           --concurrency 40
-          --deadline-min 25
+          --deadline-min 40
       - name: Upload diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
@@ -82,6 +84,57 @@ jobs:
         with:
           path: state/state-api.sqlite
           key: state-api-${{ github.run_id }}
+
+  crawl-lever:
+    # Lever on its own: api.lever.co is one host with Crawl-delay 1 (one request per second),
+    # so ~2,200 boards plus paging need two hours. Each board is polled every other hour via
+    # --shard (UTC hour parity); boards outside the shard are simply not polled, never closed.
+    if: ${{ github.event_name != 'schedule' || github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    env:
+      CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Restore crawl state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-lever.sqlite
+          key: state-lever-${{ github.run_id }}
+          restore-keys: |
+            state-lever-
+      - name: Crawl Lever boards (this hour's shard)
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        run: >
+          node packages/pipeline/scripts/crawl.ts
+          --ats lever
+          --mode "${CRAWL_MODE}"
+          --boards registry/boards.csv
+          --sources registry/sources.json
+          --state state/state-lever.sqlite
+          --out out/diff-lever.json
+          --concurrency 4
+          --deadline-min 45
+          --shard "$((10#$(date -u +%H) % 2))/2"
+      - name: Upload diff artifact
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: diff-lever
+          path: out/diff-lever.json
+          retention-days: 1
+          if-no-files-found: error
+      - name: Save crawl state
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-lever.sqlite
+          key: state-lever-${{ github.run_id }}
 
   crawl-workday:
     # Off until the Workday adapter lands and the week-1 tolerance test passes (plan 12.3 #2).
@@ -135,7 +188,7 @@ jobs:
   publish:
     # Runs after the API crawl even when the Workday job is skipped or failed (its artifact is
     # optional); never runs when the API crawl failed, so a broken hour can never close jobs.
-    needs: [crawl-api, crawl-workday]
+    needs: [crawl-api, crawl-lever, crawl-workday]
     if: ${{ always() && needs.crawl-api.result == 'success' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -176,6 +229,13 @@ jobs:
         with:
           name: diff-api
           path: out/diff-api
+      - name: Download the Lever diff artifact
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        continue-on-error: true
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          name: diff-lever
+          path: out/diff-lever
       - name: Download the Workday diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
         continue-on-error: true
@@ -207,7 +267,7 @@ jobs:
         run: >
           node packages/pipeline/scripts/publish.ts
           --data data
-          --artifacts out/diff-api/diff-api.json,out/diff-workday/diff-workday.json
+          --artifacts out/diff-api/diff-api.json,out/diff-lever/diff-lever.json,out/diff-workday/diff-workday.json
           --boards registry/boards.csv
           --sources registry/sources.json
           --state state/state-publish.sqlite

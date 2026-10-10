@@ -61,7 +61,8 @@ const DETAIL = (key: string, id: number) =>
 describe('greenhouse adapter: policy and keys', () => {
   it('declares the Greenhouse hosts and concurrency from the plan', () => {
     expect(greenhouseAdapter.source).toBe('greenhouse');
-    expect(GREENHOUSE_POLICY.maxConcurrencyPerHost).toBe(20);
+    expect(GREENHOUSE_POLICY.maxConcurrencyPerHost).toBe(4);
+    expect(GREENHOUSE_POLICY.minDelayMs).toBe(250);
     expect(GREENHOUSE_POLICY.allowedHosts).toContain('boards-api.greenhouse.io');
     expect(GREENHOUSE_POLICY.allowedHosts).toContain('job-boards.greenhouse.io');
   });

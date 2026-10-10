@@ -11,6 +11,15 @@ export const MAX_REDIRECTS = 3;
 export const MAX_ATTEMPTS = 4;
 /** Longest backoff we will wait inside a run; a larger Retry-After skips the board for this run. */
 export const MAX_BACKOFF_MS = 60_000;
+/**
+ * Host circuit breaker (plan 10.3: "back off a host after any 429/403/5xx", "a block is a signal
+ * to stop"). A 403 or an exhausted retry budget counts as one block: the host is cooled down on an
+ * escalating schedule, and after BREAKER_TRIP_AFTER consecutive blocks the circuit opens for the
+ * rest of the run, so nothing more is sent to a host that is refusing us. Measured 2026-10-10:
+ * boards-api.greenhouse.io answered 403 to ~11,900 requests after blocking us 70 s into a crawl.
+ */
+export const BREAKER_COOLDOWNS_MS = [2 * 60_000, 10 * 60_000, 30 * 60_000] as const;
+export const BREAKER_TRIP_AFTER = 3;
 const ROBOTS_TTL_MS = 24 * 60 * 60 * 1000;
 const ROBOTS_MAX_BYTES = 512 * 1024;
 
@@ -48,6 +57,15 @@ export interface HttpRequest {
   respectRobots?: boolean;
 }
 
+/** Per-host breaker state, for the crawl summary log (hosts and counts only). */
+export interface HostHealth {
+  blocked_until: number;
+  consecutive_blocks: number;
+  circuit_open: boolean;
+  /** Requests refused locally while the circuit was open. */
+  rejected: number;
+}
+
 export interface HttpResponse {
   status: number;
   /** True on 304; `body` is then empty. */
@@ -70,7 +88,9 @@ export type HttpErrorCode =
   | 'http_status'
   /** 403: the host refused us (bot management or policy). Not retried; /status reports it as a block. */
   | 'forbidden'
-  | 'retry_exhausted';
+  | 'retry_exhausted'
+  /** The host blocked us repeatedly this run; the request was never sent (see BREAKER_TRIP_AFTER). */
+  | 'circuit_open';
 
 export class HttpError extends Error {
   readonly code: HttpErrorCode;
@@ -181,6 +201,7 @@ export class HttpClient {
   private readonly limiter: HostLimiter;
   private readonly robotsCache = new Map<string, { rules: RobotsRules; fetchedAt: number }>();
   private readonly robotsPending = new Map<string, Promise<RobotsRules>>();
+  private readonly health = new Map<string, HostHealth>();
 
   constructor(opts: HttpClientOptions = {}) {
     this.fetchImpl = opts.fetch ?? ((input, init) => fetch(input, init));
@@ -206,11 +227,50 @@ export class HttpClient {
     }
   }
 
+  /** Breaker state per host seen this run. */
+  hostHealth(): Record<string, HostHealth> {
+    return Object.fromEntries([...this.health].map(([h, v]) => [h, { ...v }]));
+  }
+
+  private healthOf(host: string): HostHealth {
+    let h = this.health.get(host);
+    if (!h) {
+      h = { blocked_until: 0, consecutive_blocks: 0, circuit_open: false, rejected: 0 };
+      this.health.set(host, h);
+    }
+    return h;
+  }
+
+  /** A 403 or an exhausted retry budget: cool the host down, trip the circuit after repeats. */
+  private noteBlock(host: string): void {
+    const h = this.healthOf(host);
+    h.consecutive_blocks += 1;
+    const cooldown = BREAKER_COOLDOWNS_MS[Math.min(h.consecutive_blocks, BREAKER_COOLDOWNS_MS.length) - 1]!;
+    this.limiter.block(host, cooldown);
+    h.blocked_until = this.now() + cooldown;
+    if (h.consecutive_blocks >= BREAKER_TRIP_AFTER) h.circuit_open = true;
+  }
+
+  private noteSuccess(host: string): void {
+    const h = this.healthOf(host);
+    h.consecutive_blocks = 0;
+    h.blocked_until = 0;
+  }
+
+  private assertCircuitClosed(host: string): void {
+    const h = this.health.get(host);
+    if (h?.circuit_open) {
+      h.rejected += 1;
+      throw new HttpError('circuit_open', host, 403);
+    }
+  }
+
   async request(req: HttpRequest): Promise<HttpResponse> {
     const host = hostOf(req.url);
     if (!hostMatches(host, req.allowedHosts)) throw new HttpError('host_not_allowed', host);
     let url = req.url;
     for (let hop = 0; hop <= MAX_REDIRECTS; hop += 1) {
+      this.assertCircuitClosed(hostOf(url));
       const result = await this.requestWithRetry(url, req);
       if (result.kind === 'redirect') {
         url = result.url;
@@ -228,8 +288,26 @@ export class HttpClient {
     const host = hostOf(url);
     const wantRobots = req.respectRobots ?? this.respectRobots;
     const limits = wantRobots ? await this.limitsAfterRobots(url, req) : req.limits;
+    try {
+      const out = await this.attempts(url, req, host, limits);
+      this.noteSuccess(host);
+      return out;
+    } catch (err) {
+      if (err instanceof HttpError && (err.code === 'forbidden' || err.code === 'retry_exhausted')) this.noteBlock(host);
+      throw err;
+    }
+  }
+
+  private async attempts(
+    url: string,
+    req: HttpRequest,
+    host: string,
+    limits: HostLimits,
+  ): Promise<{ kind: 'redirect'; url: string } | { kind: 'done'; response: HttpResponse }> {
     let lastStatus: number | null = null;
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
+      // The circuit can open while we were waiting for a slot (a sibling request got blocked).
+      this.assertCircuitClosed(host);
       const release = await this.limiter.acquire(host, limits);
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), this.timeoutMs);

@@ -11,7 +11,7 @@ on:
         description: 'Which state file to restore'
         type: choice
         default: all
-        options: [api, workday, publish, all]
+        options: [api, lever, workday, publish, all]
 
 permissions:
   contents: read # reading release assets of a public repo needs no more
@@ -35,7 +35,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p state
-          for which in api workday publish; do
+          for which in api lever workday publish; do
             if [ "$WHICH" != "all" ] && [ "$WHICH" != "$which" ]; then continue; fi
             if gh release download "$RELEASE_TAG" --pattern "state-${which}.sqlite.gz" --dir state --clobber; then
               gunzip -f "state/state-${which}.sqlite.gz"
@@ -56,6 +56,12 @@ jobs:
         with:
           path: state/state-api.sqlite
           key: state-api-restore-${{ github.run_id }}
+      - name: Save lever state to the cache
+        if: ${{ (inputs.which == 'lever' || inputs.which == 'all') && hashFiles('state/state-lever.sqlite') != '' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-lever.sqlite
+          key: state-lever-restore-${{ github.run_id }}
       - name: Save workday state to the cache
         if: ${{ (inputs.which == 'workday' || inputs.which == 'all') && hashFiles('state/state-workday.sqlite') != '' }}
         uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3

@@ -6,9 +6,15 @@
  *     --boards registry/boards.csv --sources registry/sources.json \
  *     --state state/state-api.sqlite --out out/diff-api.json \
  *     [--concurrency 40] [--limit N] [--mode normal|backfill] [--deadline-min 25] [--detail-cap 200]
+ *     [--shard k/n]
  *
  * `--detail-cap` is the per-board cap on detail fetches per run (Greenhouse, SmartRecruiters,
  * Workday); the Workday job uses a small value because every detail costs a 2 s-spaced request.
+ * `--shard k/n` keeps only the boards whose stable hash lands in bucket k (see src/cli/shard.ts);
+ * the Lever job runs `--shard $((hour % 2))/2` because api.lever.co allows one request per second.
+ *
+ * Boards are interleaved round-robin across sources and the start offset rotates by the hour,
+ * so a deadline hit spreads evenly and boards left unreached are polled first next hour.
  *
  * Polls every active board of the requested sources, diffs against the SQLite state file,
  * runs the 45-day stale closure and 90-day prune, and writes the diff artifact the publish
@@ -16,9 +22,11 @@
  * the registry is invalid, the state file cannot be opened, or nothing could be polled.
  * Logs print counts, ids and codes only; never titles, URLs, bodies or headers.
  */
-import { mkdir } from 'node:fs/promises';
+import { mkdir, stat } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { ArgError, enumFlag, intFlag, listFlag, parseArgs, stringFlag } from '../src/cli/args.ts';
+import { inShard, parseShard } from '../src/cli/shard.ts';
+import { interleaveBySource, rotateByHour } from '../src/cli/order.ts';
 import { createLogger } from '../src/cli/log.ts';
 import { NO_DEADLINE, deadlineAfter, formatDuration, type Deadline } from '../src/cli/timing.ts';
 import { adapterFor, type AnyAdapter } from '../src/adapters/index.ts';
@@ -42,6 +50,7 @@ function selectSources(rows: readonly Board[], ats: ReadonlySet<Ats>): Board[] {
   return rows.filter((row) => ats.has(row.ats));
 }
 
+
 function parseAtsList(values: readonly string[]): Set<Ats> {
   const out = new Set<Ats>();
   for (const v of values) {
@@ -64,6 +73,7 @@ async function main(argv: readonly string[]): Promise<number> {
   const mode: Mode = enumFlag(args, 'mode', MODES, 'normal');
   const deadlineMin = intFlag(args, 'deadline-min', 0, 0);
   const detailCap = intFlag(args, 'detail-cap', 0, 0);
+  const shard = parseShard(stringFlag(args, 'shard', '0/1'));
   const deadline: Deadline = deadlineMin > 0 ? deadlineAfter(deadlineMin) : NO_DEADLINE;
   const kind = [...atsList].includes('workday') && atsList.size === 1 ? 'crawl-workday' : 'crawl-api';
   const startedAt = new Date();
@@ -80,6 +90,7 @@ async function main(argv: readonly string[]): Promise<number> {
     concurrency,
     deadline_min: deadlineMin,
     detail_cap: detailCap || 'default',
+    shard: `${shard.index}/${shard.count}`,
   });
 
   // Registry: an invalid file is fatal (exit 1).
@@ -92,8 +103,9 @@ async function main(argv: readonly string[]): Promise<number> {
     log.error('registry invalid', { code: err instanceof Error ? err.constructor.name : 'error' });
     return 1;
   }
-  const allBoards = selectSources(rows, atsList);
-  const boards = limit > 0 ? allBoards.slice(0, limit) : allBoards;
+  const inScope = selectSources(rows, atsList).filter((b) => inShard(b.ats, b.board_key, shard));
+  const ordered = rotateByHour(interleaveBySource(inScope), startedAt.getTime());
+  const boards = limit > 0 ? ordered.slice(0, limit) : ordered;
 
   const adapters: Partial<Record<Ats, AnyAdapter>> = {};
   for (const ats of atsList) {
@@ -167,6 +179,21 @@ async function main(argv: readonly string[]): Promise<number> {
 
     await mkdir(dirname(outPath), { recursive: true });
     await writeDiffArtifact(report, outPath);
+    const artifactBytes = (await stat(outPath)).size;
+
+    // Hosts that blocked us this run (plan 10.3): one line per host, host and counts only.
+    let circuitOpen = 0;
+    for (const [host, h] of Object.entries(http.hostHealth())) {
+      if (h.circuit_open) {
+        circuitOpen += 1;
+        log.warn('host circuit open: stopped sending to a host that blocked us', {
+          host,
+          consecutive_blocks: h.consecutive_blocks,
+          rejected: h.rejected,
+        });
+      }
+    }
+    const circuitOpenFailures = report.failures.filter((f) => f.code === 'circuit_open').length;
 
     for (const [ats, p] of Object.entries(report.per_ats)) {
       log.info('ats summary', {
@@ -195,6 +222,9 @@ async function main(argv: readonly string[]): Promise<number> {
       stale_closed: stale.length,
       pruned,
       needs_refingerprint: report.needs_refingerprint.length,
+      hosts_circuit_open: circuitOpen,
+      failures_circuit_open: circuitOpenFailures,
+      artifact_bytes: artifactBytes,
       elapsed: formatDuration(Date.now() - startedAt.getTime()),
       out: outPath,
     });
