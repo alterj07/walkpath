@@ -37,6 +37,12 @@ export interface CrawlOptions {
    * reached are counted in `boards.skipped_deadline` and polled next run. Never a failure.
    */
   shouldStop?: () => boolean;
+  /**
+   * Keeps only the events worth carrying in the artifact (e.g. titles that pass the internship
+   * rule gate). Every job is still tracked in jobs_seen for diffing and closures; the filter only
+   * shrinks diff-*.json, which otherwise carries every posting on every board on a first run.
+   */
+  eventFilter?: (event: JobEvent) => boolean;
 }
 
 const BoardCountsSchema = z.object({
@@ -55,6 +61,8 @@ const JobCountsSchema = z.object({
   closed: z.number().int(),
   reopened: z.number().int(),
   reposts: z.number().int(),
+  /** Events dropped from the artifact by `eventFilter` (still tracked in jobs_seen). */
+  filtered: z.number().int().optional(),
 });
 
 export const JobEventSchema = z.object({
@@ -102,7 +110,7 @@ const emptyPerAts = (): PerAts => ({
   partial: 0,
   skipped: 0,
   skipped_deadline: 0,
-  jobs: { new: 0, changed: 0, closed: 0, reopened: 0, reposts: 0 },
+  jobs: { new: 0, changed: 0, closed: 0, reopened: 0, reposts: 0, filtered: 0 },
 });
 
 export function newRunId(kind: string, startedAt: Date): string {
@@ -235,6 +243,8 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
   };
 
   const events: JobEvent[] = [];
+
+  let filtered = 0;
   for (const d of diffs) {
     const p = bucket(d.ats);
     p.polled += 1;
@@ -256,7 +266,10 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
     p.jobs.closed += d.closed.length;
     p.jobs.reopened += d.reopened.length;
     p.jobs.reposts += d.reposts.length;
-    events.push(...d.new, ...d.changed, ...d.reposts);
+    for (const e of [...d.new, ...d.changed, ...d.reposts]) {
+      if (!opts.eventFilter || opts.eventFilter(e)) events.push(e);
+      else filtered += 1;
+    }
     report.closed_keys.push(...d.closed);
     report.reopened_keys.push(...d.reopened);
   }
@@ -266,6 +279,7 @@ export async function crawlBoards(opts: CrawlOptions): Promise<CrawlReport> {
     closed: report.closed_keys.length,
     reopened: report.reopened_keys.length,
     reposts: events.filter((e) => e.kind === 'repost').length,
+    filtered,
   };
   report.events = events;
 

@@ -24,6 +24,7 @@ import { NO_DEADLINE, deadlineAfter, formatDuration, type Deadline } from '../sr
 import { adapterFor, type AnyAdapter } from '../src/adapters/index.ts';
 import { closeStale, pruneClosed } from '../src/crawl/diff.ts';
 import { crawlBoards, newRunId, writeDiffArtifact, type SourceToggles } from '../src/crawl/run.ts';
+import { internshipGate } from '../src/gates/internship.ts';
 import { HttpClient } from '../src/http/client.ts';
 import { loadBoards, loadSourcesConfig } from '../src/registry/boards.ts';
 import { AtsSchema, type Ats } from '../src/schema/common.ts';
@@ -151,6 +152,9 @@ async function main(argv: readonly string[]): Promise<number> {
       runId,
       log: log.line,
       shouldStop: () => deadline.reached(),
+      // Only postings that can be internships ride in the artifact (plan 4.5 runs the rule gate
+      // first anyway); everything is still tracked in the state DB for diffing and closures.
+      eventFilter: (e) => internshipGate({ title: e.input.title, employmentType: e.input.employmentType ?? null }).verdict !== 'not_intern',
       ...(detailCap > 0 ? { detailCap } : {}),
       ...(mode === 'backfill' ? { forceRefresh: true, detailCap: Number.MAX_SAFE_INTEGER } : {}),
     });

@@ -49,10 +49,10 @@ describe('crawlBoards', () => {
       partial: 0,
       skipped: 1,
       skipped_deadline: 0,
-      jobs: { new: 2, changed: 0, closed: 0, reopened: 0, reposts: 0 },
+      jobs: { new: 2, changed: 0, closed: 0, reopened: 0, reposts: 0, filtered: 0 },
     });
     expect(report.per_ats['lever']?.skipped).toBe(1);
-    expect(report.jobs).toEqual({ new: 2, changed: 0, closed: 0, reopened: 0, reposts: 0 });
+    expect(report.jobs).toEqual({ new: 2, changed: 0, closed: 0, reopened: 0, reposts: 0, filtered: 0 });
     expect(report.events.map((e) => e.canonical_key)).toEqual(['greenhouse:acme:1', 'greenhouse:acme:2']);
     expect(report.failures).toEqual([{ board_id: 'greenhouse:globex', code: 'retry_exhausted' }]);
     expect(report.needs_refingerprint).toEqual([]);
@@ -154,5 +154,25 @@ describe('crawlBoards', () => {
     expect(selected.map((s) => s.board.ats)).toEqual(['greenhouse']);
     expect(selected[0]?.adapter.source).toBe('greenhouse');
     expect(skipped.map((b) => b.ats)).toEqual(['workday']);
+  });
+});
+
+describe('crawlBoards eventFilter', () => {
+  it('drops filtered events from the artifact while still counting them', async () => {
+    const { adapter } = fakeAdapter({
+      acme: { jobs: [{ ...job('1'), title: 'Software Engineer Intern' }, { ...job('2'), title: 'Senior Engineer' }] },
+    });
+    const db = openState(':memory:');
+    const report = await crawlBoards({
+      boards: [board({ board_key: 'acme' })],
+      adapters: { greenhouse: adapter },
+      http: makeHttp(),
+      db,
+      eventFilter: (e) => /intern/i.test(e.input.title),
+    });
+    expect(report.events.map((e) => e.input.title)).toEqual(['Software Engineer Intern']);
+    expect(report.jobs.filtered).toBe(1);
+    expect(report.jobs.new).toBe(1);
+    db.close();
   });
 });
