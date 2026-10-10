@@ -32,6 +32,9 @@ export const JobPostingInputSchema = z.object({
   salary: SalarySchema.nullish(),
   department: z.string().trim().nullish(),
   applicationDeadline: IsoDateTimeSchema.nullish(),
+  /** List-style sources (SimplifyJobs) name the employer per row; the publish step prefers these over the board's company. */
+  companyName: z.string().trim().min(1).max(120).optional(),
+  companyUrl: z.string().trim().min(1).max(500).optional(),
 });
 export type JobPostingInput = z.infer<typeof JobPostingInputSchema>;
 

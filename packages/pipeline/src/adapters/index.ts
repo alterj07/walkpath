@@ -6,6 +6,7 @@ import { ashbyAdapter } from './ashby.ts';
 import { workableAdapter } from './workable.ts';
 import { smartrecruitersAdapter } from './smartrecruiters.ts';
 import { workdayAdapter } from './workday.ts';
+import { simplifyAdapter } from './simplify.ts';
 
 /**
  * Any adapter, erased over its raw job type (method bivariance makes this assignment sound
@@ -22,6 +23,7 @@ export const API_ADAPTERS: Partial<Record<Ats, AnyAdapter>> = {
   workable: workableAdapter,
   smartrecruiters: smartrecruitersAdapter,
   workday: workdayAdapter,
+  simplify: simplifyAdapter,
 };
 
 export function adapterFor(ats: Ats): AnyAdapter | undefined {
@@ -31,4 +33,4 @@ export function adapterFor(ats: Ats): AnyAdapter | undefined {
 export type { AdapterPolicy, SourceAdapter } from './types.ts';
 export { limitsOf } from './types.ts';
 export { parseOrThrow } from './parse.ts';
-export { greenhouseAdapter, leverAdapter, ashbyAdapter, workableAdapter, smartrecruitersAdapter, workdayAdapter };
+export { greenhouseAdapter, leverAdapter, ashbyAdapter, workableAdapter, smartrecruitersAdapter, workdayAdapter, simplifyAdapter };

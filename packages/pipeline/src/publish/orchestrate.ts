@@ -12,7 +12,7 @@ import { openState, type StateDb } from '../state/db.ts';
 import { discordPayloads, postDiscord, postTelegram, telegramMessages, type AlertFetch } from './alerts.ts';
 import { buildFeed, feedTargets } from './feeds.ts';
 import { MetaSchema, toIndexRow, type CompaniesFile, type IndexFile, type Meta } from './formats.ts';
-import { applyEvents, buildGroupIndex, combinedGate, llmGateVerdict, type GroupedEntry, type HeldEntry, type MergeResult } from './merge.ts';
+import { applyEvents, buildGroupIndex, buildUrlIndex, combinedGate, llmGateVerdict, type GroupedEntry, type HeldEntry, type MergeResult } from './merge.ts';
 import { buildPagesList } from './pages.ts';
 import { openStore, type Store } from './store.ts';
 
@@ -286,7 +286,7 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
       schedule: { started_at: nowIso, lateness_min: null },
     };
     const llmGate = { published: 0, dropped: 0, waiting: 0 };
-    const emptyMerge = { events: 0, not_intern: 0, not_tech: 0, non_us: 0, held: 0, unknown_board: 0, grouped: 0, skipped_llm_negative: 0 };
+    const emptyMerge = { events: 0, not_intern: 0, not_tech: 0, non_us: 0, held: 0, unknown_board: 0, grouped: 0, skipped_llm_negative: 0, deduped_listing: 0 };
     if (sources.publish?.enabled === false) {
       log('publish: disabled by registry/sources.json; nothing written');
       return {
@@ -329,6 +329,7 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
     const grouped = await readJson(join(opts.dataDir, 'grouped.json'), GroupedFileSchema, {} as Record<string, GroupedEntry>, log);
     const locations = await readJson(join(opts.dataDir, 'review', 'locations.json'), LocationsFileSchema, [] as string[], log);
     const groups = await buildGroupIndex(store);
+    const urls = await buildUrlIndex(store);
     const ctx: Context = { opts, now, log, db, store, pending, held, grouped, files, llmGate, publishedByLlm: [] };
 
     db.logRun({ run_id: runId, started_at: nowIso, finished_at: null, kind: opts.mode === 'regate' ? 'publish-regate' : 'publish', stats_json: null });
@@ -351,6 +352,7 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
         held,
         grouped,
         groups,
+        urls,
         log,
       });
       for (const k of Object.keys(emptyMerge) as Array<keyof typeof emptyMerge>) mergeTotals[k] += merged.counts[k];

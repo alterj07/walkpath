@@ -11,6 +11,7 @@ export { ashbyAdapter } from './adapters/ashby.ts';
 export { workableAdapter } from './adapters/workable.ts';
 export { smartrecruitersAdapter, createSmartRecruitersAdapter } from './adapters/smartrecruiters.ts';
 export { workdayAdapter, createWorkdayAdapter, WORKDAY_POLICY } from './adapters/workday.ts';
+export { simplifyAdapter, SIMPLIFY_POLICY } from './adapters/simplify.ts';
 export {
   HttpClient,
   HttpError,
