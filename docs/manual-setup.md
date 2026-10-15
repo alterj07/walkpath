@@ -48,14 +48,22 @@ last hour.
 
 ---
 
-## 2. Add one LLM key (the biggest quality step)
+## 2. Summaries and education extraction (optional key, faster results)
 
 **Why it matters.** Two features depend on a model reading each posting: the plain-language summary,
 and the education extraction that your eligibility filter runs on. Right now 728 postings are queued
-with no summary, which means the "for you" page cannot tell that a job wants a 2027 graduate. The
-built-in GitHub token works without any setup but allows only about 150 postings a day, which will
-never catch up. Mistral's free tier allows a billion tokens a month, which clears the whole backlog
-in one run.
+with no summary, which means the "for you" page cannot tell that a job wants a 2027 graduate.
+
+You have three ways to cover this, and **one of them needs nothing from you at all**:
+
+- **Nothing to do:** a second workflow runs a small open model (Qwen 2.5 3B) on GitHub's own runners
+  every two hours, measured here at 31 seconds per posting, roughly 1,400 postings per run across
+  four parallel runners. This alone clears the backlog in a day and keeps up afterwards. It is on by
+  default.
+- **Built-in token:** the hourly run also tries GitHub Models with the token Actions already
+  provides, about 150 postings a day. No setup.
+- **Fastest, and worth the five minutes:** a Mistral key clears thousands per run and is tried
+  first when present.
 
 **What to do.** Go to https://console.mistral.ai, create an account (free "Experiment" plan, no
 card, phone verification), create an API key, then in GitHub go to Settings → Secrets and variables
@@ -65,8 +73,8 @@ card, phone verification), create an API key, then in GitHub go to Settings → 
 read back by anyone including you, are never handed to pull requests from forks, and are masked if a
 log tries to print them. The repository shows its code and its workflow files, never its secrets.
 
-**How to check.** After the next hourly run, `/status` shows a non-zero number next to the provider
-and "pending summaries" starts falling. Job pages begin showing a summary and an "Eligibility" panel.
+**How to check.** `/status` shows a non-zero number next to whichever provider ran, and "pending
+summaries" falls over the next few hours. Job pages begin showing a summary and an "Eligibility" panel.
 
 ---
 
@@ -150,7 +158,8 @@ Each of these is genuinely optional and costs nothing.
 | Visitor counts | Cloudflare dashboard → Web Analytics → add `walkpath.vercel.app` → variable `PUBLIC_CF_ANALYTICS_TOKEN` | Cookie-free, but you may not care |
 | Alerts | A Discord channel webhook as secret `DISCORD_WEBHOOK_URL`; a BotFather bot as `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` | The RSS feeds already work with no setup |
 | Dead-run alarm | A free Better Stack heartbeat, 90-minute grace, as secret `BETTERSTACK_HEARTBEAT_URL` | `/status` already shows a stale-run warning |
-| More free summary capacity | `GEMINI_API_KEY` from Google AI Studio, `GROQ_API_KEY` from Groq | Only useful as a backup to Mistral |
+| More free summary capacity | `GEMINI_API_KEY` from Google AI Studio, `GROQ_API_KEY` from Groq | Only useful as a backup; the local model already covers the volume |
+| Turn the local model off | Variable `LOCAL_LLM_ENABLED` = `false` | Only if you dislike the extra Actions usage |
 
 There is also `scripts/setup-wizard.sh`, which walks these steps interactively and verifies each key
 as you paste it. Run it with `bash scripts/setup-wizard.sh`. It cannot be run for you because every
