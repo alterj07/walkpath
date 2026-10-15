@@ -87,10 +87,16 @@ once step 1 is merged.
 | Source | Boards | What it adds |
 | --- | --- | --- |
 | Greenhouse, Ashby, Lever, Workable | 15,697 | Startups and mid-size tech, the bulk of the board |
-| Workday | 4,072 | Large employers (Nissan, Boeing, Cisco, NVIDIA and similar) |
-| SimplifyJobs curated lists | 2 feeds | 4,688 active internships and 3,130 new-grad roles, the same lists the comparison sites draw on |
+| Workday | 4,242 | Large employers (Nissan, Boeing, Cisco, NVIDIA and similar) |
+| Oracle Cloud HCM | 1,305 | More large employers; 949 distinct career sites, all validated live |
 | SmartRecruiters | 2,832 | Large employers; needs the free key below |
-| Oracle, iCIMS | see step 7 | More large employers, pending the work noted there |
+| iCIMS | 296 | Defence, finance and industrial employers |
+| SimplifyJobs curated lists | 2 feeds | 7,818 listings in two requests (4,797 internships, 3,021 new-grad), the same lists the comparison sites draw on |
+
+That is 24,374 boards in the registry, up from the 22,601 the first version had, and the curated
+lists on their own already exceed the 5,236 roles EarlyCareerRadar shows. Duplicates between a
+curated listing and the employer's own board are detected by apply-URL and dropped in favour of the
+employer's copy, so the count stays honest.
 
 **What to do.** Two repository variables, set under Settings → Secrets and variables → Actions →
 Variables tab (variables, not secrets, since neither is sensitive):
@@ -172,8 +178,9 @@ step needs your browser login.
 - **Seven Dependabot pull requests are open**, including major version bumps (Astro 7, TypeScript 7,
   ESLint 10). Majors can break the build, so review them yourself. The two action bumps (checkout,
   setup-node) are safe to merge.
-- **Oracle and iCIMS adapters**: these two cover a large share of big-employer listings that
-  EarlyCareerRadar carries. See the end of this file for their current state.
+- **A full iCIMS seed**: 296 of the 327 portals visible in the curated lists are in the registry.
+  Running `node packages/pipeline/scripts/seed-icims.ts` without a cap would add the rest; it takes
+  a couple of hours of polite requests, which is why it was capped.
 - **Rippling, Eightfold and BambooHR adapters** were deferred; together they are roughly 250 boards,
   the smallest remaining gain.
 - **Custom domain**: the only thing in this project that costs money, about ten dollars a year. The
