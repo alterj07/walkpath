@@ -1,3 +1,4 @@
+import { EMPTY_EDUCATION } from '../../src/schema/common.ts';
 import { mkdir, mkdtemp, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -133,6 +134,8 @@ function fakeSummarizer(decide: (title: string) => Partial<SummaryOutput> | 'exh
         citizenship_required: null,
         sponsorship: 'unknown',
         confidence: 0.9,
+        is_new_grad: false,
+        education: EMPTY_EDUCATION,
         ...d,
       };
       return { ok: true, output, provider: 'fake', model: 'fake-1' };

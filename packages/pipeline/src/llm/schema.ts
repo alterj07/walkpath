@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { RoleFamilySchema, SeasonSchema } from '../schema/common.ts';
+import { EMPTY_EDUCATION, EducationSchema, RoleFamilySchema, SeasonSchema } from '../schema/common.ts';
 
 /**
  * The structured output we ask the summarizer for (plan section 4.8).
@@ -23,11 +23,15 @@ export const SummaryOutputSchema = z.object({
   nice_to_have_skills: z.array(text(SKILL_MAX_CHARS)).max(15),
   role_family: z.union([RoleFamilySchema, z.literal('not_tech')]),
   is_internship: z.boolean(),
+  /** True for entry-level / new-grad full-time roles (0-2 years); false for interns and experienced roles. */
+  is_new_grad: z.boolean().default(false),
   season: SeasonSchema.nullable(),
   grad_years: z.array(z.number().int().min(2024).max(2032)).max(6),
   citizenship_required: z.boolean().nullable(),
   sponsorship: z.enum(['yes', 'no', 'unknown']),
   confidence: z.number().min(0).max(1),
+  /** Education requirements read from both required and preferred qualifications. */
+  education: EducationSchema.default(EMPTY_EDUCATION),
 });
 export type SummaryOutput = z.infer<typeof SummaryOutputSchema>;
 
@@ -74,7 +78,7 @@ export function rejectUnsafeStrings(output: SummaryOutput): { ok: true } | { ok:
   collectStrings(output, '', strings);
   for (const [path, s] of strings) {
     // Enum-constrained fields cannot carry injected text.
-    if (path === 'role_family' || path === 'season' || path === 'sponsorship') continue;
+    if (path === 'role_family' || path === 'season' || path === 'sponsorship' || path.startsWith('education.degree_levels')) continue;
     const reason = unsafeStringReason(s);
     if (reason) return { ok: false, reason: `${path}: ${reason}` };
   }

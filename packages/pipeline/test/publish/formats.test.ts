@@ -4,6 +4,7 @@ import {
   CompaniesFileSchema,
   IndexFileSchema,
   IndexRowSchema,
+  lowestDegree,
   MetaSchema,
   PagesFileSchema,
   bucketOf,
@@ -31,11 +32,16 @@ describe('formats', () => {
       has_salary: true,
       citizenship_required: true,
       others: 2,
+      grad_min: null,
+      grad_max: null,
+      degree: null,
+      enrolled: null,
     });
     expect(IndexRowSchema.parse(row)).toEqual(row);
     expect(toIndexRow(makeRecord({ salary: null })).has_salary).toBe(false);
     // Plan 5.1 budgets ~300 bytes per row; this record is a long-title worst case.
-    expect(JSON.stringify(row).length).toBeLessThan(420);
+    // The four education projections (grad window, degree, enrollment) add ~50 bytes per row.
+    expect(JSON.stringify(row).length).toBeLessThan(480);
   });
 
   it('round-trips the index, bucket, companies and pages files', () => {
@@ -73,5 +79,30 @@ describe('formats', () => {
 
   it('buckets by the first two hex characters', () => {
     expect(bucketOf('a9f3c2e17b04')).toBe('a9');
+  });
+});
+
+describe('education projection', () => {
+  it('projects the grad window, lowest degree and enrollment onto the index row', () => {
+    const row = toIndexRow(
+      makeRecord({
+        education: {
+          degree_levels: ['masters', 'bachelors'],
+          majors: ['Computer Science'],
+          grad_year_min: 2027,
+          grad_year_max: 2028,
+          gpa_min: 3,
+          enrollment_required: true,
+          years_experience_max: null,
+        },
+      }),
+    );
+    expect(row.grad_min).toBe(2027);
+    expect(row.grad_max).toBe(2028);
+    expect(row.degree).toBe('bachelors');
+    expect(row.enrolled).toBe(true);
+    expect(lowestDegree(['phd', 'any'])).toBe('any');
+    expect(lowestDegree([])).toBeNull();
+    expect(lowestDegree(['phd'])).toBe('phd');
   });
 });

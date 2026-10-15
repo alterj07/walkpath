@@ -92,6 +92,28 @@ latency, so `/status` reflects postings discovered within a week of publication;
 is logged); `llm` is today's usage per provider;
 `schedule.lateness_min` is minutes past the `:17` cron target for scheduled runs, null otherwise.
 
+## Education requirements and matching
+
+The summarizer reads both the required (minimum) and the preferred qualifications and returns an
+`education` object: accepted degree levels, named majors, an inclusive graduation-year window
+(`grad_year_min`/`grad_year_max`), a minimum GPA, whether current enrollment is required, and the
+upper bound of any experience range (`years_experience_max`); plus `is_new_grad` for entry-level
+full-time roles. Every field is null or empty when the posting does not state it; the prompt
+forbids guessing and the validator rejects any string carrying links, emails, phones or HTML.
+
+`enrichFromSummary` stores the object on the record (`education`), fills `grad_years` from the
+window, and `toIndexRow` projects four fields onto every index row (`grad_min`, `grad_max`,
+`degree` = the least demanding accepted level, `enrolled`) so the explore table and the
+"For you" page can hide ineligible postings without loading buckets.
+
+`src/publish/match.ts` is the deterministic matcher: a posting is ineligible for a profile when its
+graduation window excludes the profile's year, it requires a higher degree level, it requires
+citizenship and the profile is not a citizen, it does not sponsor and the profile needs
+sponsorship, or it requires enrollment and the profile is not enrolled. Unknown on either side
+never disqualifies. Eligible postings are scored 0–100: must-have skill overlap 60, nice-to-have
+15, role family 15, location/remote 10. The site carries a byte-for-byte copy in
+`packages/site/src/lib/match.ts`; see `docs/matching.md`.
+
 ## Environment variables
 
 | Variable | Used for |

@@ -216,3 +216,26 @@ table.jobs tr:hover td { background: var(--bg-2); }
 .siblings h2, .directory h2 { font-size: 1.05rem; margin: 18px 0 6px; }
 .siblings ul, .directory ul { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0; padding: 0; list-style: none; }
 .directory li { padding: 2px 0; }
+
+/* Profile, For you and eligibility (matching feature) */
+.eligibility { margin: 18px 0; }
+.eligibility h2 { font-size: 1.05rem; margin: 0 0 8px; }
+.callout-ok { border-left: 3px solid var(--ok); background: var(--ok-soft); }
+.callout-warn { border-left: 3px solid var(--danger); background: var(--danger-soft); }
+.callout ul { margin: 4px 0 0; padding-left: 20px; }
+.req-list { display: grid; grid-template-columns: 1fr; gap: 6px 16px; margin: 10px 0; padding: 0; }
+.req-list div { display: grid; grid-template-columns: 170px 1fr; gap: 8px; }
+.req-list dt { color: var(--fg-2); }
+.req-list dd { margin: 0; }
+.profile-form fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; margin: 14px 0; }
+.profile-form legend { font-weight: 600; padding: 0 6px; }
+.profile-form label { display: block; margin: 8px 0; }
+.profile-form label.inline { display: flex; align-items: center; gap: 8px; }
+.profile-form select, .profile-form input[type="text"], .profile-form textarea { display: block; width: 100%; max-width: 480px; margin-top: 4px; padding: 6px 8px; font: inherit; color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; }
+.dropzone { margin: 8px 0; padding: 14px; border: 1px dashed var(--line); border-radius: 8px; }
+.fy-list { list-style: none; margin: 12px 0; padding: 0; display: grid; gap: 10px; }
+.fy-row { padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; }
+.fy-main { display: flex; gap: 12px; align-items: flex-start; }
+.fy-dim { opacity: 0.6; }
+.fy-reasons { margin: 6px 0 0; padding-left: 18px; color: var(--fg-2); }
+@media (min-width: 720px) { .req-list { grid-template-columns: 1fr 1fr; } }

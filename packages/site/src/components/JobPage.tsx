@@ -27,6 +27,7 @@ import {
 import { getTracker, setStage, removeEntry, type Stage } from '../lib/tracker.ts';
 import { Avatar } from './Avatar.tsx';
 import { Description } from './Description.tsx';
+import { Eligibility } from './Eligibility.tsx';
 
 export const SAFETY_LINE = 'Legitimate employers never ask for payment, bank details, or your SSN before an offer.';
 
@@ -219,6 +220,8 @@ export function JobPage() {
           </button>
         </div>
       </header>
+
+      <Eligibility job={job} />
 
       <section className="summary" aria-labelledby="summary-h">
         <h2 id="summary-h">Smart summary</h2>
