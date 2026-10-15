@@ -185,7 +185,7 @@ finish() {
 # STAGES: one stage() per step the human takes.
 # ──────────────────────────────────────────────────────────────────────────
 
-TOTAL_STAGES=13
+TOTAL_STAGES=15
 REPO="alterj07/walkpath"
 REPO_URL="https://github.com/$REPO"
 ENV_FILE="${ENV_FILE:-.env}"   # holds ONLY non-secret values (SITE_URL etc.); gitignored
@@ -359,7 +359,8 @@ step "Ruleset 'main': Enforcement Active; target branch 'main'."
 step "Tick: Restrict deletions; Block force pushes; Require a pull request before merging"
 step "      (1 approval, dismiss stale approvals, require review from Code Owners);"
 step "      Require status checks to pass (add the three checks once they exist)."
-step "Bypass list: empty. Create."
+step "Bypass list: add YOURSELF (Repository admin). You are the only code owner, so"
+step "      without this GitHub will not let you approve your own pull request."
 pause "Press Enter when the main ruleset is saved."
 open_url "$REPO_URL/settings/rules/new?target=branch"
 step "Ruleset 'data': Enforcement Active; target branch 'data'."
@@ -416,8 +417,8 @@ stage "GitHub: repository variables"
 say "Why: non-secret settings the workflows read with vars.*: the site URL, the Workday"
 say "gate, alert suppression, the logo client id and the Pages project name."
 if ! _gh_ready; then open_url "$VARS_URL"; note "Add each variable on this page as the wizard prompts for it."; fi
-var_stage SITE_URL "Site URL (https://<project>.pages.dev or your domain, no trailing slash)" "https://${CLOUDFLARE_PAGES_PROJECT:-walkpath}.pages.dev"
-var_stage WORKDAY_ENABLED "Enable the Workday crawl job? Keep 'false' until the week-1 tolerance test passes" "false"
+var_stage SITE_URL "Site URL (no trailing slash)" "https://walkpath.vercel.app"
+var_stage WORKDAY_ENABLED "Workday crawl job (now on by default; tested live at 2 s per tenant)" "true"
 note "SUPPRESS_ALERTS: leave UNSET. Set it to 'true' for one hour only after a state restore (docs/operations.md)."
 say "PUBLIC_BRANDFETCH_CLIENT_ID (optional): company logos. Free at Brandfetch → Developers → Logo Link."
 if confirm "Set up Brandfetch logos now?"; then
@@ -485,6 +486,38 @@ step "Developer plan → create a Node.js project 'walkpath-pipeline' → Settin
 secret_stage SENTRY_DSN "Paste the Sentry DSN" '^https://[0-9a-f]+@[A-Za-z0-9.-]+/[0-9]+$'
 
 # ── 12 ─────────────────────────────────────────────────────────────────────
+stage "Vercel: keep the site updating after each crawl"
+say "Why: Vercel rebuilds when main changes, but the hourly run writes job data to the"
+say "separate data branch, which does not trigger a rebuild. The hook closes that gap."
+open_url "https://vercel.com/dashboard"
+step "Project walkpath → Settings → Git → Deploy Hooks → create one for branch 'main'."
+step "Also set SITE_URL in Settings → Environment Variables to https://walkpath.vercel.app."
+secret_stage VERCEL_DEPLOY_HOOK_URL "Paste the deploy hook URL" '^https://api\.vercel\.com/v[0-9]+/integrations/deploy/'
+
+# ── 13 ─────────────────────────────────────────────────────────────────────
+stage "Firebase: optional accounts so saved jobs sync between devices"
+say "Why: saved jobs, applied stages, notes and the resume profile live in one browser"
+say "until someone signs in. The site works fully without this; the menu just hides."
+say "Full walkthrough with the security rules: docs/accounts.md"
+open_url "https://console.firebase.google.com"
+step "Create a project (free Spark plan, no card)."
+step "Authentication → Sign-in method → enable Google, and Email/Password with 'Email link' on."
+step "Authentication → Settings → Authorized domains → add walkpath.vercel.app."
+step "Firestore Database → create (production mode) → Rules → paste"
+step "      packages/site/firebase/firestore.rules → Publish."
+step "Project settings → Your apps → Add web app → copy the four values below."
+step "These four are PUBLIC by design: they name the project, the rules do the protecting."
+if confirm "Set the four Firebase values now?"; then
+  var_stage PUBLIC_FIREBASE_API_KEY "Paste apiKey" ""
+  var_stage PUBLIC_FIREBASE_AUTH_DOMAIN "Paste authDomain" ""
+  var_stage PUBLIC_FIREBASE_PROJECT_ID "Paste projectId" ""
+  var_stage PUBLIC_FIREBASE_APP_ID "Paste appId" ""
+  note "Set the same four as Environment Variables in Vercel, then redeploy."
+else
+  SKIPPED+=("Firebase accounts: the four PUBLIC_FIREBASE_* variables (docs/accounts.md)")
+fi
+
+# ── 14 ─────────────────────────────────────────────────────────────────────
 stage "First run"
 say "Trigger the hourly workflow by hand, then watch the data branch and the deployment."
 if _gh_ready && confirm "Dispatch the crawl workflow now with gh?"; then
@@ -502,7 +535,7 @@ step "The run log prints only counts and ids (never bodies or headers)."
 step "Then go back to stage 5 and add the three required status checks to the main ruleset."
 pause "Press Enter when the first run has been checked."
 
-# ── 13 ─────────────────────────────────────────────────────────────────────
+# ── 15 ─────────────────────────────────────────────────────────────────────
 stage "Week-1 experiments (plan 12.3)"
 say "Each takes at most half a day; results go into docs/launch-checklist.md."
 step "1 Volume census: let the hourly runs go 48 h, then read /status and meta.json for new jobs/day."

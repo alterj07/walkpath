@@ -173,7 +173,7 @@ Each of these is genuinely optional and costs nothing.
 
 You said the earlier directions were vague and did not match the current code. They were: the wizard
 was written when the plan targeted Cloudflare Pages, and you deployed on Vercel instead. Here is
-what each of its fourteen stages really does and whether it still applies to you. Run it with
+what each of its fifteen stages really does and whether it still applies to you. Run it with
 `bash scripts/setup-wizard.sh`; it is safe to re-run and skips what it detects as done.
 
 | Stage | What it does | Still applies? |
@@ -189,11 +189,15 @@ what each of its fourteen stages really does and whether it still applies to you
 | 9. LLM provider secrets | Mistral, Gemini, Groq, GitHub Models, each verified against the provider | Optional now. See step 2 above |
 | 10. SmartRecruiters key and alert channels | The free developer key, plus Discord and Telegram | The SmartRecruiters key is worth it (2,832 boards); alerts are optional |
 | 11. Heartbeat and error reporting | Better Stack heartbeat, Sentry | Optional |
-| 12. First run | Triggers the hourly workflow and tells you what to check | Yes, after step 1 |
-| 13. Week-one experiments | Prints the commands behind the measurements in the plan | Informational |
+| 12. Vercel deploy hook | Captures the hook URL so each crawl refreshes the site | Yes |
+| 13. Firebase accounts | Walks the project, providers, authorized domain and rules, then takes the four public values | Yes, if you want accounts |
+| 14. First run | Triggers the hourly workflow and tells you what to check | Yes, after step 1 |
+| 15. Week-one experiments | Prints the commands behind the measurements in the plan | Informational |
 
-Two things the wizard does **not** cover, because they came later: the Vercel deploy hook (step 4
-above) and Firebase for accounts (step 5 above).
+I corrected four instructions in the wizard that no longer matched the code: the branch ruleset now
+tells you to put yourself on the bypass list (otherwise you cannot approve your own pull request),
+the site URL defaults to your Vercel address instead of a Cloudflare one, Workday now defaults to on
+because it has been tested live, and the Vercel and Firebase stages are new.
 
 
 ---
