@@ -167,9 +167,34 @@ Each of these is genuinely optional and costs nothing.
 | More free summary capacity | `GEMINI_API_KEY` from Google AI Studio, `GROQ_API_KEY` from Groq | Only useful as a backup; the local model already covers the volume |
 | Turn the local model off | Variable `LOCAL_LLM_ENABLED` = `false` | Only if you dislike the extra Actions usage |
 
-There is also `scripts/setup-wizard.sh`, which walks these steps interactively and verifies each key
-as you paste it. Run it with `bash scripts/setup-wizard.sh`. It cannot be run for you because every
-step needs your browser login.
+---
+
+## 6a. What `scripts/setup-wizard.sh` actually does, stage by stage
+
+You said the earlier directions were vague and did not match the current code. They were: the wizard
+was written when the plan targeted Cloudflare Pages, and you deployed on Vercel instead. Here is
+what each of its fourteen stages really does and whether it still applies to you. Run it with
+`bash scripts/setup-wizard.sh`; it is safe to re-run and skips what it detects as done.
+
+| Stage | What it does | Still applies? |
+| --- | --- | --- |
+| 1. Preflight | Checks for git, curl, node; offers to install the GitHub CLI so later stages can set secrets for you instead of opening a browser tab | Yes, and installing `gh` makes everything after it much faster |
+| 2. Create the `data` branch | Creates an empty orphan branch where the hourly run writes job data | **Already done.** It will detect this and skip |
+| 3. Actions permissions | Opens the settings page to restrict which actions may run and make the default token read-only | Yes |
+| 4. Code security | Secret scanning, push protection, Dependabot alerts, private vulnerability reporting | Yes |
+| 5. Branch rulesets | Sets up the protection on `main` and `data` | **Already done**, and it is what blocks step 1 above. Use the bypass list |
+| 6. Cloudflare account and Pages project | Creates a Cloudflare Pages project | **Skip.** You are on Vercel. Press Enter past it |
+| 7. Cloudflare tokens | A Pages deploy token and a Workers AI token | **Skip the Pages token.** The Workers AI token is only a backup summary provider you no longer need, since the local model covers it |
+| 8. Repository variables | `SITE_URL`, `WORKDAY_ENABLED`, and the optional public ones | Yes. Set `SITE_URL` to your Vercel address |
+| 9. LLM provider secrets | Mistral, Gemini, Groq, GitHub Models, each verified against the provider | Optional now. See step 2 above |
+| 10. SmartRecruiters key and alert channels | The free developer key, plus Discord and Telegram | The SmartRecruiters key is worth it (2,832 boards); alerts are optional |
+| 11. Heartbeat and error reporting | Better Stack heartbeat, Sentry | Optional |
+| 12. First run | Triggers the hourly workflow and tells you what to check | Yes, after step 1 |
+| 13. Week-one experiments | Prints the commands behind the measurements in the plan | Informational |
+
+Two things the wizard does **not** cover, because they came later: the Vercel deploy hook (step 4
+above) and Firebase for accounts (step 5 above).
+
 
 ---
 

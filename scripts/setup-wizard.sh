@@ -369,7 +369,9 @@ step "Do NOT tick 'Block force pushes' on data, or the monthly squash fails. Cre
 pause "Press Enter when the data ruleset is saved."
 
 # ── 6 ──────────────────────────────────────────────────────────────────────
-stage "Cloudflare: account, Pages project and account id"
+stage "Cloudflare Pages (SKIP if you deploy on Vercel)"
+  say "This project is deployed on Vercel (walkpath.vercel.app), so the Cloudflare Pages steps"
+  say "below do not apply. Press Enter to skip. See docs/manual-setup.md sections 4 and 6a."
 say "Why: the site is deployed every hour by wrangler to Cloudflare Pages (Direct Upload,"
 say "no card, unlimited bandwidth, no CI-build cap)."
 open_url "https://dash.cloudflare.com/sign-up"
@@ -398,7 +400,7 @@ step "Copy the Account ID shown in the right-hand sidebar of Workers & Pages."
 secret_stage CLOUDFLARE_ACCOUNT_ID "Paste the Cloudflare account id" '^[0-9a-f]{32}$'
 
 # ── 7 ──────────────────────────────────────────────────────────────────────
-stage "Cloudflare: deploy token (Pages: Edit) and Workers AI token"
+stage "Cloudflare tokens (SKIP the Pages token on Vercel)"
 say "Why: the publish job needs a token that can deploy to this one Pages project and"
 say "nothing else; the summarizer fallback needs a separate read-only Workers AI token."
 open_url "https://dash.cloudflare.com/profile/api-tokens"
