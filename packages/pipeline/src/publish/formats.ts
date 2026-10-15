@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { ArrangementSchema, AtsSchema, IsoDateTimeSchema, JobIdSchema, RoleFamilySchema } from '../schema/common.ts';
+import { ArrangementSchema, AtsSchema, DEGREE_LEVELS, IsoDateTimeSchema, JobIdSchema, RoleFamilySchema } from '../schema/common.ts';
 import { JobRecordSchema, type JobRecord } from '../schema/job.ts';
 
 /**
@@ -28,6 +28,12 @@ export const IndexRowSchema = z.object({
   citizenship_required: z.boolean().nullable(),
   /** Number of extra locations beyond the primary one. */
   others: z.number().int().nonnegative(),
+  /** Education projections so the explore table can hide ineligible rows without loading buckets. */
+  grad_min: z.number().int().nullable().default(null),
+  grad_max: z.number().int().nullable().default(null),
+  /** Lowest degree level the posting accepts ('any' when it accepts any), null when unstated. */
+  degree: z.string().nullable().default(null),
+  enrolled: z.boolean().nullable().default(null),
 });
 export type IndexRow = z.infer<typeof IndexRowSchema>;
 
@@ -113,6 +119,26 @@ export function toIndexRow(record: JobRecord): IndexRow {
     ats: record.source.ats,
     has_salary: record.salary !== null,
     citizenship_required: record.citizenship_required,
+    grad_min: record.education?.grad_year_min ?? null,
+    grad_max: record.education?.grad_year_max ?? null,
+    degree: lowestDegree(record.education?.degree_levels ?? []),
+    enrolled: record.education?.enrollment_required ?? null,
     others: record.location.others.length,
   };
+}
+
+/** The least demanding degree level in a posting's accepted list; 'any' wins; null when empty. */
+export function lowestDegree(levels: readonly string[]): string | null {
+  if (levels.length === 0) return null;
+  if (levels.includes('any')) return 'any';
+  let best: string | null = null;
+  let bestRank = Number.POSITIVE_INFINITY;
+  for (const l of levels) {
+    const rank = (DEGREE_LEVELS as readonly string[]).indexOf(l);
+    if (rank >= 0 && rank < bestRank) {
+      bestRank = rank;
+      best = l;
+    }
+  }
+  return best;
 }

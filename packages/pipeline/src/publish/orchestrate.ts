@@ -161,10 +161,18 @@ export function cronLatenessMin(startedAtIso: string, eventName: string | undefi
 
 /** Apply LLM-derived fields that the rule parsers could not determine. */
 export function enrichFromSummary(record: JobRecord, output: SummaryOutput): JobRecord {
+  const edu = output.education;
+  const window: number[] = [];
+  if (edu.grad_year_min !== null && edu.grad_year_max !== null && edu.grad_year_max >= edu.grad_year_min) {
+    for (let y = edu.grad_year_min; y <= edu.grad_year_max && window.length < 8; y++) window.push(y);
+  } else if (edu.grad_year_min !== null) window.push(edu.grad_year_min);
+  else if (edu.grad_year_max !== null) window.push(edu.grad_year_max);
+  const gradYears = window.length > 0 ? window : record.grad_years.length > 0 ? record.grad_years : output.grad_years;
   return {
     ...record,
+    education: edu,
     season: record.season ?? output.season,
-    grad_years: record.grad_years.length > 0 ? record.grad_years : output.grad_years,
+    grad_years: gradYears,
     citizenship_required: record.citizenship_required ?? output.citizenship_required,
     sponsorship: record.sponsorship === 'unknown' ? output.sponsorship : record.sponsorship,
   };

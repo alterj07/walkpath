@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { ProfilePage } from '../components/ProfilePage.tsx';
+---
+
+<Base title="Your profile" description="Graduation year, degree, skills and preferences used to match internships, stored only in this browser." noindex current="profile">
+  <div class="hero">
+    <h1>Your profile</h1>
+    <p>Fill it from your resume or by hand. Everything is parsed and stored in this browser; nothing is uploaded. It powers the <a href="/for-you">For you</a> page and the eligibility panel on every job.</p>
+  </div>
+  <ProfilePage client:load />
+</Base>

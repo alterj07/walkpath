@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { ForYouPage } from '../components/ForYouPage.tsx';
+---
+
+<Base title="For you" description="Open internships and new-grad roles ranked against your profile, with ineligible postings hidden." noindex current="foryou">
+  <div class="hero">
+    <h1>For you</h1>
+    <p>Ranked by a deterministic score from your skills, role families and location. Postings whose graduation window, degree level or work-authorization rules exclude you are hidden until you ask to see them.</p>
+  </div>
+  <ForYouPage client:load />
+</Base>

@@ -236,6 +236,7 @@ export function buildRecord(event: JobEvent, board: Board, family: RoleFamily, e
     citizenship_required: auth.citizenship_required,
     sponsorship: auth.sponsorship,
     grad_years: parseGradYears(descriptionText),
+    education: null,
     summary: null,
     description_html: descriptionHtml,
     content_hash: event.content_hash,
@@ -352,8 +353,8 @@ export async function applyEvents(opts: MergeOptions): Promise<MergeResult> {
         location: { ...built.record.location, others: unionOthers(existing.location.others, built.record.location.others) },
         role_family: outcome.gate === 'tech_intern' ? family : existing.role_family,
         // Fields the rules could not determine keep the values the LLM summary filled in earlier.
-        season: built.record.season ?? existing.season,
         grad_years: built.record.grad_years.length > 0 ? built.record.grad_years : existing.grad_years,
+        education: existing.education ?? null,
         citizenship_required: built.record.citizenship_required ?? existing.citizenship_required,
         sponsorship: built.record.sponsorship === 'unknown' ? existing.sponsorship : built.record.sponsorship,
       };

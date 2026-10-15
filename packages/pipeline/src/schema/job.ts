@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import {
+  EducationSchema,
   ArrangementSchema,
   AtsSchema,
   IsoDateTimeSchema,
@@ -80,6 +81,8 @@ export const JobRecordSchema = z.object({
   citizenship_required: z.boolean().nullable(),
   sponsorship: z.enum(['yes', 'no', 'unknown']),
   grad_years: z.array(z.number().int()),
+  /** Education and experience requirements (LLM-extracted); null until summarized. */
+  education: EducationSchema.nullable().default(null),
   summary: JobSummarySchema.nullable(),
   /** Sanitized at publish time; capped at 20 KB. */
   description_html: z.string(),

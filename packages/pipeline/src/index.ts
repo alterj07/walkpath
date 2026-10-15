@@ -63,3 +63,4 @@ export * from './publish/store.ts';
 export * from './publish/merge.ts';
 export * from './publish/pages.ts';
 export * from './publish/orchestrate.ts';
+export * from './publish/match.ts';

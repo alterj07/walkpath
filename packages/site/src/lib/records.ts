@@ -35,6 +35,20 @@ export interface JobSummary {
   generated_at: string;
 }
 
+export const DEGREE_LEVELS = ['high_school', 'associate', 'bachelors', 'masters', 'phd', 'any'] as const;
+export type DegreeLevel = (typeof DEGREE_LEVELS)[number];
+
+/** Education and experience requirements extracted by the summarizer; null until summarized. */
+export interface Education {
+  degree_levels: DegreeLevel[];
+  majors: string[];
+  grad_year_min: number | null;
+  grad_year_max: number | null;
+  gpa_min: number | null;
+  enrollment_required: boolean | null;
+  years_experience_max: number | null;
+}
+
 export interface JobRecord {
   id: string;
   title: string;
@@ -63,9 +77,37 @@ export interface JobRecord {
   citizenship_required: boolean | null;
   sponsorship: (typeof SPONSORSHIP)[number];
   grad_years: number[];
+  education: Education | null;
   summary: JobSummary | null;
   description_html: string;
   content_hash: string;
+}
+
+function isIntOrNull(v: unknown, min: number, max: number): v is number | null {
+  return v === null || (typeof v === 'number' && Number.isInteger(v) && v >= min && v <= max);
+}
+
+/** Returns the education object, null when absent/null, undefined when malformed. */
+export function parseEducation(v: unknown): Education | null | undefined {
+  if (v === null || v === undefined) return null;
+  const e = obj(v);
+  if (!e) return undefined;
+  if (!Array.isArray(e.degree_levels) || e.degree_levels.length > 6 || !e.degree_levels.every((d) => isOneOf(DEGREE_LEVELS, d))) return undefined;
+  const majors = strList(e.majors, 10, 40);
+  if (!majors) return undefined;
+  if (!isIntOrNull(e.grad_year_min, 2000, 2100) || !isIntOrNull(e.grad_year_max, 2000, 2100)) return undefined;
+  if (!(e.gpa_min === null || (typeof e.gpa_min === 'number' && e.gpa_min >= 0 && e.gpa_min <= 4))) return undefined;
+  if (!(e.enrollment_required === null || typeof e.enrollment_required === 'boolean')) return undefined;
+  if (!isIntOrNull(e.years_experience_max, 0, 30)) return undefined;
+  return {
+    degree_levels: e.degree_levels as DegreeLevel[],
+    majors,
+    grad_year_min: e.grad_year_min,
+    grad_year_max: e.grad_year_max,
+    gpa_min: e.gpa_min,
+    enrollment_required: e.enrollment_required,
+    years_experience_max: e.years_experience_max,
+  };
 }
 
 export interface CompanyEntry {
@@ -180,6 +222,8 @@ export function parseJobRecord(v: unknown): JobRecord | null {
   if (!Array.isArray(r.grad_years) || r.grad_years.length > 10 || !r.grad_years.every((y) => Number.isInteger(y) && y >= 2000 && y <= 2100)) return null;
   const summary = parseSummary(r.summary);
   if (summary === undefined) return null;
+  const education = parseEducation(r.education);
+  if (education === undefined) return null;
   if (!isStr(r.description_html, DESCRIPTION_MAX) || !isStr(r.content_hash, 64)) return null;
 
   return {
@@ -210,6 +254,7 @@ export function parseJobRecord(v: unknown): JobRecord | null {
     citizenship_required: r.citizenship_required,
     sponsorship: r.sponsorship,
     grad_years: r.grad_years as number[],
+    education,
     summary,
     description_html: r.description_html,
     content_hash: r.content_hash,

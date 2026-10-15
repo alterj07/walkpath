@@ -47,6 +47,11 @@ export interface IndexRow {
   has_salary: boolean;
   citizenship_required: boolean | null;
   others: number;
+  /** Education projections (null when the posting does not state them or is not yet summarized). */
+  grad_min: number | null;
+  grad_max: number | null;
+  degree: string | null;
+  enrolled: boolean | null;
 }
 
 export interface IndexFile {
@@ -137,8 +142,15 @@ export function isIndexRow(v: unknown): v is IndexRow {
     isStrOrNull(r.season) && isIso(r.posted_at) && isIso(r.first_seen_at) &&
     isStr(r.ats, 40) && typeof r.has_salary === 'boolean' &&
     (r.citizenship_required === null || typeof r.citizenship_required === 'boolean') &&
-    typeof r.others === 'number' && Number.isInteger(r.others) && r.others >= 0
+    typeof r.others === 'number' && Number.isInteger(r.others) && r.others >= 0 &&
+    isYearOrNull(r.grad_min) && isYearOrNull(r.grad_max) &&
+    (r.degree === null || r.degree === undefined || (isStr(r.degree, 20))) &&
+    (r.enrolled === null || r.enrolled === undefined || typeof r.enrolled === 'boolean')
   );
+}
+
+function isYearOrNull(v: unknown): boolean {
+  return v === null || v === undefined || (typeof v === 'number' && Number.isInteger(v) && v >= 2000 && v <= 2100);
 }
 
 /** Parses an index file payload, keeping only rows that pass the guard. */
@@ -152,6 +164,7 @@ export function parseIndexFile(v: unknown): IndexFile {
     city: r.city, state: r.state, arrangement: r.arrangement, family: r.family, kind: r.kind,
     season: r.season, posted_at: r.posted_at, first_seen_at: r.first_seen_at, ats: r.ats,
     has_salary: r.has_salary, citizenship_required: r.citizenship_required, others: r.others,
+    grad_min: r.grad_min ?? null, grad_max: r.grad_max ?? null, degree: r.degree ?? null, enrolled: r.enrolled ?? null,
   }));
   return { generated_at: isIso(o.generated_at) ? o.generated_at : '', rows: clean };
 }

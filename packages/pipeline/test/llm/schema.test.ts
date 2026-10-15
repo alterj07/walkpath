@@ -76,3 +76,49 @@ describe('unsafeStringReason', () => {
     }
   });
 });
+
+describe('education and new-grad fields', () => {
+  it('defaults education to empty and is_new_grad to false when the model omits them', () => {
+    const r = validateSummaryOutput(GOOD_OUTPUT);
+    expect(r.ok).toBe(true);
+    if (r.ok) {
+      expect(r.value.is_new_grad).toBe(false);
+      expect(r.value.education).toEqual({
+        degree_levels: [],
+        majors: [],
+        grad_year_min: null,
+        grad_year_max: null,
+        gpa_min: null,
+        enrollment_required: null,
+        years_experience_max: null,
+      });
+    }
+  });
+
+  it('accepts a full education object', () => {
+    const r = validateSummaryOutput({
+      ...GOOD_OUTPUT,
+      is_new_grad: true,
+      education: {
+        degree_levels: ['bachelors', 'masters'],
+        majors: ['Computer Science', 'Computer Engineering'],
+        grad_year_min: 2026,
+        grad_year_max: 2027,
+        gpa_min: 3.0,
+        enrollment_required: true,
+        years_experience_max: 2,
+      },
+    });
+    expect(r.ok).toBe(true);
+    if (r.ok) expect(r.value.education.majors).toHaveLength(2);
+  });
+
+  it('rejects bad degree levels, out-of-range years and unsafe majors', () => {
+    expect(validateSummaryOutput({ ...GOOD_OUTPUT, education: { degree_levels: ['doctorate'], majors: [], grad_year_min: null, grad_year_max: null, gpa_min: null, enrollment_required: null, years_experience_max: null } }).ok).toBe(false);
+    expect(validateSummaryOutput({ ...GOOD_OUTPUT, education: { degree_levels: [], majors: [], grad_year_min: 1999, grad_year_max: null, gpa_min: null, enrollment_required: null, years_experience_max: null } }).ok).toBe(false);
+    expect(validateSummaryOutput({ ...GOOD_OUTPUT, education: { degree_levels: [], majors: [], grad_year_min: null, grad_year_max: null, gpa_min: 4.5, enrollment_required: null, years_experience_max: null } }).ok).toBe(false);
+    const unsafe = validateSummaryOutput({ ...GOOD_OUTPUT, education: { degree_levels: [], majors: ['see www.evil.com/apply'], grad_year_min: null, grad_year_max: null, gpa_min: null, enrollment_required: null, years_experience_max: null } });
+    expect(unsafe.ok).toBe(false);
+    if (!unsafe.ok) expect(unsafe.reason).toContain('education.majors');
+  });
+});

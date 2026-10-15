@@ -10,6 +10,7 @@ import { parseShard } from '../../src/cli/shard.ts';
 import type { LlmFetch } from '../../src/llm/provider.ts';
 import type { Summarizer } from '../../src/llm/chain.ts';
 import type { SummaryOutput } from '../../src/llm/schema.ts';
+import { EMPTY_EDUCATION } from '../../src/schema/common.ts';
 import { makeRecord } from '../publish/record-fixture.ts';
 
 const output: SummaryOutput = {
@@ -20,6 +21,8 @@ const output: SummaryOutput = {
   nice_to_have_skills: ['LLVM'],
   role_family: 'software_engineering',
   is_internship: true,
+  is_new_grad: false,
+  education: EMPTY_EDUCATION,
   season: 'Summer 2027',
   grad_years: [2027],
   citizenship_required: null,

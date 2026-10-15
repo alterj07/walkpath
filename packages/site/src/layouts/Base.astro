@@ -7,7 +7,7 @@
  * - description: meta description
  * - noindex: adds <meta name="robots" content="noindex"> (job pages)
  * - canonical: absolute URL for <link rel="canonical"> (category pages)
- * - current: which nav item is active ('explore' | 'saved' | 'alerts' | 'status' | 'about')
+ * - current: which nav item is active ('explore' | 'foryou' | 'saved' | 'alerts' | 'status' | 'about' | 'profile')
  *
  * No inline scripts or styles: the Content Security Policy in public/_headers
  * allows only same-origin files. CSS comes from src/styles/global.css and the
@@ -22,7 +22,7 @@ interface Props {
   description?: string;
   noindex?: boolean;
   canonical?: string;
-  current?: 'explore' | 'saved' | 'alerts' | 'status' | 'about';
+  current?: 'explore' | 'foryou' | 'saved' | 'alerts' | 'status' | 'about' | 'profile';
 }
 
 // Cloudflare Web Analytics (cookie-less). The beacon is an external script allowed by the CSP and is
@@ -41,10 +41,12 @@ const {
 const REPO = 'https://github.com/alterj07/walkpath';
 const nav: Array<{ key: NonNullable<Props['current']>; href: string; label: string }> = [
   { key: 'explore', href: '/', label: 'Explore' },
+  { key: 'foryou', href: '/for-you', label: 'For you' },
   { key: 'saved', href: '/saved', label: 'Saved' },
   { key: 'alerts', href: '/alerts', label: 'Alerts' },
   { key: 'status', href: '/status', label: 'Status' },
   { key: 'about', href: '/about', label: 'About' },
+  { key: 'profile', href: '/profile', label: 'Profile' },
 ];
 ---
 

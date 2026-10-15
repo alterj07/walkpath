@@ -72,3 +72,34 @@ export const SalarySchema = z.object({
   period: z.enum(['hour', 'day', 'week', 'month', 'year']).nullable(),
 });
 export type Salary = z.infer<typeof SalarySchema>;
+
+/** Degree levels a posting can ask for, lowest to highest; 'any' means the posting accepts any level. */
+export const DEGREE_LEVELS = ['high_school', 'associate', 'bachelors', 'masters', 'phd'] as const;
+export const DegreeLevelSchema = z.enum(['high_school', 'associate', 'bachelors', 'masters', 'phd', 'any']);
+export type DegreeLevel = z.infer<typeof DegreeLevelSchema>;
+
+/**
+ * Education and experience requirements extracted from a posting's required and
+ * preferred qualifications (plan 4.8 extended). Every field is null or empty when
+ * the posting does not state it; nothing here is guessed.
+ */
+export const EducationSchema = z.object({
+  degree_levels: z.array(DegreeLevelSchema).max(6),
+  majors: z.array(z.string().trim().min(1).max(40)).max(10),
+  grad_year_min: z.number().int().min(2020).max(2035).nullable(),
+  grad_year_max: z.number().int().min(2020).max(2035).nullable(),
+  gpa_min: z.number().min(0).max(4).nullable(),
+  enrollment_required: z.boolean().nullable(),
+  years_experience_max: z.number().int().min(0).max(30).nullable(),
+});
+export type Education = z.infer<typeof EducationSchema>;
+
+export const EMPTY_EDUCATION: Education = {
+  degree_levels: [],
+  majors: [],
+  grad_year_min: null,
+  grad_year_max: null,
+  gpa_min: null,
+  enrollment_required: null,
+  years_experience_max: null,
+};

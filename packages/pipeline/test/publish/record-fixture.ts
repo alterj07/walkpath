@@ -23,6 +23,7 @@ export function makeRecord(overrides: Partial<JobRecord> = {}): JobRecord {
     citizenship_required: true,
     sponsorship: 'no',
     grad_years: [2027, 2028],
+    education: null,
     summary: {
       text: 'Build flight software in C++ & Rust. Work with the avionics team.',
       responsibilities: ['Write flight code'],
