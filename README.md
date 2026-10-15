@@ -35,6 +35,7 @@ Requires Node 24 (native TypeScript execution and `node:sqlite`).
 The hourly workflow runs as soon as the repository is public; with no secrets it crawls, writes
 the `data` branch and builds the site. To put the site online and turn on summaries and alerts:
 
+0. Read `docs/manual-setup.md`: every step that needs a human, ordered by how much it adds.
 1. Run `scripts/setup-wizard.sh`: it creates the `data` branch, walks through the Cloudflare Pages
    project, the repository settings, and every secret and variable, verifying each key as you go.
    The same steps are written out in `docs/deploy.md` and `docs/github-settings.md`.
