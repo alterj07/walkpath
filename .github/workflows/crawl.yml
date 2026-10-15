@@ -144,6 +144,57 @@ jobs:
           path: state/state-lever.sqlite
           key: state-lever-${{ github.run_id }}
 
+  crawl-extra:
+    # Oracle HCM, iCIMS and the SimplifyJobs lists. Oracle and iCIMS are one host per employer
+    # with a 1-2 s gap each, so they parallelise widely but must not share a deadline with the
+    # big single-host sources. Simplify is two requests for ~7,800 curated listings.
+    if: ${{ github.event_name != 'schedule' || github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      CRAWL_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'normal' }}
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Restore crawl state
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-extra.sqlite
+          key: state-extra-${{ github.run_id }}
+          restore-keys: |
+            state-extra-
+      - name: Crawl Oracle, iCIMS and the curated lists
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        run: >
+          node packages/pipeline/scripts/crawl.ts
+          --ats oracle,icims,simplify
+          --mode "${CRAWL_MODE}"
+          --boards registry/boards.csv
+          --sources registry/sources.json
+          --state state/state-extra.sqlite
+          --out out/diff-extra.json
+          --concurrency 24
+          --deadline-min 38
+          --grace-min 3
+      - name: Upload diff artifact
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: diff-extra
+          path: out/diff-extra.json
+          retention-days: 1
+          if-no-files-found: error
+      - name: Save crawl state
+        if: ${{ always() && env.CRAWL_MODE != 'regate' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: state/state-extra.sqlite
+          key: state-extra-${{ github.run_id }}
+
   crawl-workday:
     # On by default; set the repository variable WORKDAY_ENABLED=false to pause it (plan 12.3 #2:
     # the first live crawl of 240 tenants at 2 s spacing drew no 403s).
@@ -200,8 +251,8 @@ jobs:
     # absent and the orchestrator skips it (its closures are withheld), so a broken source can
     # never close jobs. `models: read` lets the built-in GITHUB_TOKEN call GitHub Models for
     # summaries when no provider key is configured.
-    needs: [crawl-api, crawl-lever, crawl-workday]
-    if: ${{ always() && (needs.crawl-api.result == 'success' || needs.crawl-lever.result == 'success' || needs.crawl-workday.result == 'success') && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
+    needs: [crawl-api, crawl-lever, crawl-extra, crawl-workday]
+    if: ${{ always() && (needs.crawl-api.result == 'success' || needs.crawl-lever.result == 'success' || needs.crawl-workday.result == 'success' || needs.crawl-extra.result == 'success') && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
@@ -250,6 +301,13 @@ jobs:
         with:
           name: diff-lever
           path: out/diff-lever
+      - name: Download the Oracle, iCIMS and lists diff artifact
+        if: ${{ env.CRAWL_MODE != 'regate' }}
+        continue-on-error: true
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          name: diff-extra
+          path: out/diff-extra
       - name: Download the Workday diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
         continue-on-error: true
@@ -283,7 +341,7 @@ jobs:
         run: >
           node packages/pipeline/scripts/publish.ts
           --data data
-          --artifacts out/diff-api/diff-api.json,out/diff-lever/diff-lever.json,out/diff-workday/diff-workday.json
+          --artifacts out/diff-api/diff-api.json,out/diff-lever/diff-lever.json,out/diff-extra/diff-extra.json,out/diff-workday/diff-workday.json
           --boards registry/boards.csv
           --sources registry/sources.json
           --state state/state-publish.sqlite
