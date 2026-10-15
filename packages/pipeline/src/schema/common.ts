@@ -19,6 +19,7 @@ export const AtsSchema = z.enum([
   'bamboohr',
   'jazzhr',
   'jsonld',
+  'icims',
 ]);
 export type Ats = z.infer<typeof AtsSchema>;
 

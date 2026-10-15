@@ -21,6 +21,7 @@ export type FingerprintAts =
   | 'personio'
   | 'bamboohr'
   | 'jazzhr'
+  | 'icims'
   | 'deferred';
 
 export interface Fingerprint {
@@ -35,7 +36,6 @@ export interface Fingerprint {
 }
 
 const DEFERRED_VENDORS: Array<[RegExp, string]> = [
-  [/(^|\.)icims\.com$/i, 'icims'],
   [/(^|\.)taleo\.net$/i, 'taleo'],
   [/^jobs\.jobvite\.com$/i, 'jobvite'],
   [/(^|\.)successfactors\.(com|eu)$/i, 'successfactors'],
@@ -168,14 +168,13 @@ function hostFingerprint(u: URL): Fingerprint | null {
   if (bamboo && (first === 'careers' || first === 'jobs')) return { ats: 'bamboohr', boardKey: bamboo };
   const jazz = sub(/^([a-z0-9-]+)\.applytojob\.com$/);
   if (jazz) return { ats: 'jazzhr', boardKey: jazz };
+  // iCIMS portals: https://{label}.icims.com/jobs/... (label = careers-gdms, university-uber, ...).
+  const icims = sub(/^([a-z0-9][a-z0-9-]{0,62})\.icims\.com$/);
+  if (icims && !['www', 'cdn01', 'cdn02', 'media', 'images'].includes(icims)) return { ats: 'icims', boardKey: icims };
 
   // Vendors we recognise but do not poll in the MVP.
   for (const [re, vendor] of DEFERRED_VENDORS) {
     if (re.test(host)) {
-      if (vendor === 'icims') {
-        const m = /^careers-([a-z0-9-]+)\.icims\.com$/.exec(host);
-        return { ats: 'deferred', boardKey: m?.[1] ?? host, meta: { vendor } };
-      }
       if (vendor === 'jobvite' && first === 'careers' && segs[1]) {
         return { ats: 'deferred', boardKey: segs[1], meta: { vendor } };
       }
@@ -300,6 +299,8 @@ export function boardUrl(fp: Fingerprint): string | null {
       return `https://${key}.bamboohr.com/careers`;
     case 'jazzhr':
       return `https://${key}.applytojob.com`;
+    case 'icims':
+      return `https://${key}.icims.com/jobs/search?ss=1`;
     case 'deferred':
       return null;
   }
