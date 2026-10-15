@@ -7,8 +7,25 @@
  * per-host limiter so the scripts can run before the adapters exist.
  */
 
-export type ProbeAts = 'greenhouse' | 'lever' | 'ashby' | 'workable' | 'smartrecruiters' | 'workday' | 'oracle';
-export const PROBE_ATS: readonly ProbeAts[] = ['greenhouse', 'lever', 'ashby', 'workable', 'smartrecruiters', 'workday', 'oracle'];
+export type ProbeAts =
+  | 'greenhouse'
+  | 'lever'
+  | 'ashby'
+  | 'workable'
+  | 'smartrecruiters'
+  | 'workday'
+  | 'oracle'
+  | 'icims';
+export const PROBE_ATS: readonly ProbeAts[] = [
+  'greenhouse',
+  'lever',
+  'ashby',
+  'workable',
+  'smartrecruiters',
+  'workday',
+  'oracle',
+  'icims',
+];
 
 export const PROBE_USER_AGENT = 'WalkPathBot/1.0 (+https://github.com/alterj07/walkpath)';
 const PEEK_BYTES = 64 * 1024;
@@ -62,6 +79,9 @@ export function probeRequest(target: ProbeTarget): ProbeRequest {
       return { url: `https://apply.workable.com/api/v1/widget/accounts/${key}?details=false`, init: { headers } };
     case 'smartrecruiters':
       return { url: `https://api.smartrecruiters.com/v1/companies/${key}/postings?limit=1`, init: { headers } };
+    case 'icims':
+      // HTML, not JSON: the mobile search page lists jobs without session state (see src/adapters/icims.ts).
+      return { url: `https://${key}.icims.com/jobs/search?pr=0&mobile=true&needsRedirect=false`, init: { headers: { ...headers, accept: 'text/html' } } };
     case 'workday': {
       const [tenant, site] = target.boardKey.split('/');
       if (!tenant || !site) throw new Error(`workday board key must be tenant/site, got "${target.boardKey}"`);
@@ -98,6 +118,7 @@ const MARKERS: Record<ProbeAts, RegExp> = {
   smartrecruiters: /"content"\s*:|"totalFound"\s*:/,
   workday: /"jobPostings"\s*:|"total"\s*:/,
   oracle: /"requisitionList"\s*:|"TotalJobsCount"\s*:/,
+  icims: /iCIMS_JobCardItem|iCIMS_JobListingRow/,
 };
 
 const ATS_HOSTS = /(greenhouse\.io|lever\.co|ashbyhq\.com|workable\.com|smartrecruiters\.com|myworkdayjobs\.com|oraclecloud\.com)$/i;
@@ -108,6 +129,11 @@ export const HOSTNAME = /^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}
 export function classifyProbe(target: ProbeTarget, status: number, prefix: string): ProbeResult {
   const trimmed = prefix.trimStart();
   if (status === 200) {
+    if (target.ats === 'icims') {
+      if (MARKERS.icims.test(trimmed)) return { verdict: 'active', status, note: 'ok' };
+      if (/iCIMS_JobsTable|No Results Found|iCIMS_MainWrapper/.test(trimmed)) return { verdict: 'drop', status, note: 'no jobs listed' };
+      return { verdict: 'needs_refingerprint', status, note: 'html without a job list' };
+    }
     const json = trimmed.startsWith('{') || trimmed.startsWith('[');
     if (json && MARKERS[target.ats].test(trimmed)) {
       const result: ProbeResult = { verdict: 'active', status, note: 'ok' };

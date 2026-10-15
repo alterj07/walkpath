@@ -74,11 +74,9 @@ describe('fingerprintUrl', () => {
   });
 
   it('flags deferred vendors with the vendor name', () => {
-    expect(fingerprintUrl('https://careers-gdms.icims.com/jobs/1/job')).toEqual({
-      ats: 'deferred',
-      boardKey: 'gdms',
-      meta: { vendor: 'icims' },
-    });
+    expect(fingerprintUrl('https://careers-gdms.icims.com/jobs/1/job')).toEqual({ ats: 'icims', boardKey: 'careers-gdms' });
+    expect(fingerprintUrl('https://university-uber.icims.com/jobs/search?ss=1')).toEqual({ ats: 'icims', boardKey: 'university-uber' });
+    expect(fingerprintUrl('https://cdn02.icims.com/a/images.icims.com/x.js')).toBeNull();
     expect(fingerprintUrl('https://acme.taleo.net/careersection/2/jobdetail.ftl')).toMatchObject({ ats: 'deferred', meta: { vendor: 'taleo' } });
     expect(fingerprintUrl('https://jobs.jobvite.com/careers/acme/job/abc')).toEqual({ ats: 'deferred', boardKey: 'acme', meta: { vendor: 'jobvite' } });
     expect(fingerprintUrl('https://jobs.acme.com/search/?q=intern')).toMatchObject({ ats: 'deferred', meta: { vendor: 'successfactors' } });
@@ -153,7 +151,7 @@ describe('boardUrl', () => {
       'https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite',
     );
     expect(boardUrl({ ats: 'greenhouse', boardKey: null })).toBeNull();
-    expect(boardUrl({ ats: 'deferred', boardKey: 'x', meta: { vendor: 'icims' } })).toBeNull();
+    expect(boardUrl({ ats: 'icims', boardKey: 'careers-x' })).toBe('https://careers-x.icims.com/jobs/search?ss=1');
   });
 });
 

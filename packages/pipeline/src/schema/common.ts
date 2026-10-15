@@ -20,6 +20,7 @@ export const AtsSchema = z.enum([
   'jazzhr',
   'jsonld',
   'oracle',
+  'icims',
   /** SimplifyJobs community lists (docs/sources.md); not an ATS, but polled like one. */
   'simplify',
 ]);
