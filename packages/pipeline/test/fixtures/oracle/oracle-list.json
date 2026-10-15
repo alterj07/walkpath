@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "TotalJobsCount": 2336,
+      "requisitionList": [
+        {
+          "Id": "347172",
+          "Title": "Senior Core Infrastructure Engineer",
+          "PostedDate": "2026-10-10",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Seattle, WA, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "",
+          "WorkplaceTypeCode": null,
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "Software Engineer - Oracle Cloud Infrastructure (OCI) Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc. As a member of the software engineerin",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Santa Clara, CA, United States",
+              "CountryCode": "US"
+            }
+          ]
+        },
+        {
+          "Id": "343656",
+          "Title": "Supply Chain Operations– Principal Supply Demand Planner",
+          "PostedDate": "2026-10-10",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Santa Clara, CA, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "",
+          "WorkplaceTypeCode": null,
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "Oracle is seeking a Principal-level Supply/Demand Planner to drive end-to-end planning for assigned products, partnering with Sourcing, Demand Management, Finance, and suppliers to build resilient sup",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Seattle, WA, United States",
+              "CountryCode": "US"
+            },
+            {
+              "Name": "United States",
+              "CountryCode": "US"
+            }
+          ]
+        },
+        {
+          "Id": "344037",
+          "Title": "Principal Core Infrastructure Engineer",
+          "PostedDate": "2026-10-10",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Nashville, TN, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "",
+          "WorkplaceTypeCode": null,
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "As an Infrastructure Engineer you will engage directly with customers ranging from emerging AI startups to Fortune 500 enterprises to design and implement next generation accelerated computing and AI ",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "United States",
+              "CountryCode": "US"
+            }
+          ]
+        },
+        {
+          "Id": "347173",
+          "Title": "Recruiter 4-HR",
+          "PostedDate": "2026-10-10",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Tampa, FL, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "",
+          "WorkplaceTypeCode": null,
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "Partners with management in the identification, recruitment, and qualification of Oracle's top talent on a national basis. Develops and implements recruitment/resourcing programs.\n\nAs an Oracle recrui",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "United States",
+              "CountryCode": "US"
+            }
+          ]
+        },
+        {
+          "Id": "337584",
+          "Title": "Cloud Solution Architect and Cloud Adoption Champion",
+          "PostedDate": "2026-10-09",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Reston, VA, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "",
+          "WorkplaceTypeCode": null,
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "Oracle Government, Defense, and Intelligence invites you to join us as a Cloud Solution Architect and Cloud Adoption Champion—partnering directly with a leading federal agency to lead and accelerate c",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Washington, DC, United States",
+              "CountryCode": "US"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

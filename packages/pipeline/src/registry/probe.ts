@@ -7,8 +7,8 @@
  * per-host limiter so the scripts can run before the adapters exist.
  */
 
-export type ProbeAts = 'greenhouse' | 'lever' | 'ashby' | 'workable' | 'smartrecruiters' | 'workday';
-export const PROBE_ATS: readonly ProbeAts[] = ['greenhouse', 'lever', 'ashby', 'workable', 'smartrecruiters', 'workday'];
+export type ProbeAts = 'greenhouse' | 'lever' | 'ashby' | 'workable' | 'smartrecruiters' | 'workday' | 'oracle';
+export const PROBE_ATS: readonly ProbeAts[] = ['greenhouse', 'lever', 'ashby', 'workable', 'smartrecruiters', 'workday', 'oracle'];
 
 export const PROBE_USER_AGENT = 'WalkPathBot/1.0 (+https://github.com/alterj07/walkpath)';
 const PEEK_BYTES = 64 * 1024;
@@ -75,6 +75,18 @@ export function probeRequest(target: ProbeTarget): ProbeRequest {
         },
       };
     }
+    case 'oracle': {
+      // Board key is `host/siteNumber`; one light list request (limit=1) proves the site exists.
+      const [host, site] = target.boardKey.split('/');
+      if (!host || !site || !/\.oraclecloud\.com$/i.test(host)) {
+        throw new Error(`oracle board key must be host/siteNumber on oraclecloud.com, got "${target.boardKey}"`);
+      }
+      const finder = `findReqs;siteNumber=${encodeURIComponent(site)},limit=1,offset=0,sortBy=POSTING_DATES_DESC`;
+      return {
+        url: `https://${host.toLowerCase()}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=${finder}`,
+        init: { headers },
+      };
+    }
   }
 }
 
@@ -85,9 +97,10 @@ const MARKERS: Record<ProbeAts, RegExp> = {
   workable: /"name"\s*:|"jobs"\s*:/,
   smartrecruiters: /"content"\s*:|"totalFound"\s*:/,
   workday: /"jobPostings"\s*:|"total"\s*:/,
+  oracle: /"requisitionList"\s*:|"TotalJobsCount"\s*:/,
 };
 
-const ATS_HOSTS = /(greenhouse\.io|lever\.co|ashbyhq\.com|workable\.com|smartrecruiters\.com|myworkdayjobs\.com)$/i;
+const ATS_HOSTS = /(greenhouse\.io|lever\.co|ashbyhq\.com|workable\.com|smartrecruiters\.com|myworkdayjobs\.com|oraclecloud\.com)$/i;
 /** Bare hostname: labels of letters, digits and hyphens, a dotted TLD, nothing else. */
 export const HOSTNAME = /^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}$/;
 
@@ -305,6 +318,7 @@ export function probeHost(target: ProbeTarget): string {
 /** Default probe policy: API hosts get the plan's per-ATS concurrency, Workday tenants 1 request every 2 s. */
 export function defaultProbePolicy(host: string): HostPolicy {
   if (host.endsWith('.myworkdayjobs.com')) return { maxConcurrency: 1, minGapMs: 2000 };
+  if (host.endsWith('.oraclecloud.com')) return { maxConcurrency: 1, minGapMs: 1000 };
   if (host.endsWith('greenhouse.io')) return { maxConcurrency: 20, minGapMs: 0 };
   if (host.endsWith('lever.co')) return { maxConcurrency: 10, minGapMs: 100 };
   if (host.endsWith('ashbyhq.com')) return { maxConcurrency: 10, minGapMs: 0 };

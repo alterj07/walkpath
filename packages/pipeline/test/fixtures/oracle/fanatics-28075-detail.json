@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "Id": "28075",
+      "Title": "Senior Staff/ Principal DevOps Engineer",
+      "ExternalDescriptionStr": "<p>Fanatics Collectibles is seeking a Senior Staff / Principal Infrastructure Engineer to provide technical leadership and own the infrastructure strategy supporting the Topps China WeChat e-commerce platform.</p>\n<p>This is a senior individual-contributor role with significant autonomy, influence and business-critical responsibility. You will act as the principal technical authority for China-based infrastructure, defining its architecture, operational standards and long-term roadmap.</p>\n<p>Due to data-residency and access requirements under China's Personal Information Protection Law (PIPL), certain systems and user data must remain within China and cannot be directly accessed by our US-based engineering teams. You will provide the essential in-country technical presence required to operate these environments securely and compliantly.</p>\n<p>You will oversee infrastructure operated by key technology partners—including XCXD, supporting the WeChat Mini-Program, and Baozun, supporting order management and fulfilment—while ensuring that all systems meet Fanatics' expectations for scalability, reliability, security and performance.</p>\n<p>This is not a traditional operational DevOps role. You will set technical direction, challenge architecture decisions, govern vendor delivery and establish a resilient infrastructure model capable of supporting the continued growth of Fanatics Collectibles in China.</p>\n<p><strong>Key Responsibilities</strong></p>\n<p><strong>China Infrastructu",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "ExternalPostedStartDate": "2026-09-23T08:07:34+00:00",
+      "ExternalPostedEndDate": null,
+      "PrimaryLocation": "Shanghai, China",
+      "WorkplaceType": "On-site",
+      "ContractType": "Regular",
+      "WorkerType": null,
+      "JobType": null,
+      "StudyLevel": null,
+      "secondaryLocations": []
+    }
+  ]
+}

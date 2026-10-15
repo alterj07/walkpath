@@ -21,6 +21,7 @@ export type FingerprintAts =
   | 'personio'
   | 'bamboohr'
   | 'jazzhr'
+  | 'oracle'
   | 'deferred';
 
 export interface Fingerprint {
@@ -39,7 +40,6 @@ const DEFERRED_VENDORS: Array<[RegExp, string]> = [
   [/(^|\.)taleo\.net$/i, 'taleo'],
   [/^jobs\.jobvite\.com$/i, 'jobvite'],
   [/(^|\.)successfactors\.(com|eu)$/i, 'successfactors'],
-  [/(^|\.)oraclecloud\.com$/i, 'oracle'],
   [/^ats\.rippling\.com$/i, 'rippling'],
   [/(^|\.)eightfold\.ai$/i, 'eightfold'],
   [/(^|\.)phenom(people)?\.com$/i, 'phenom'],
@@ -168,6 +168,22 @@ function hostFingerprint(u: URL): Fingerprint | null {
   if (bamboo && (first === 'careers' || first === 'jobs')) return { ats: 'bamboohr', boardKey: bamboo };
   const jazz = sub(/^([a-z0-9-]+)\.applytojob\.com$/);
   if (jazz) return { ats: 'jazzhr', boardKey: jazz };
+
+  // Oracle Cloud HCM: {host}.oraclecloud.com/hcmUI/CandidateExperience/{locale}/sites/{site}[/job/{id}]
+  // Board key is `host/site` (the REST endpoints need both). A host without a site segment is
+  // recognised but has no key to poll.
+  if (/(^|\.)oraclecloud\.com$/i.test(host)) {
+    const idx = segs.findIndex((s) => s.toLowerCase() === 'sites');
+    const site = idx >= 0 ? segs[idx + 1] : undefined;
+    if (site && /^[A-Za-z0-9_-]+$/.test(site) && lower(segs[0] ?? '') === 'hcmui') {
+      const meta: Record<string, string> = { host, site };
+      const jobIdx = segs.findIndex((s) => s.toLowerCase() === 'job');
+      const jobId = jobIdx >= 0 ? segs[jobIdx + 1] : undefined;
+      if (jobId && /^\d+$/.test(jobId)) meta['jobId'] = jobId;
+      return { ats: 'oracle', boardKey: `${host}/${site}`, meta };
+    }
+    return { ats: 'oracle', boardKey: null, meta: { host } };
+  }
 
   // Vendors we recognise but do not poll in the MVP.
   for (const [re, vendor] of DEFERRED_VENDORS) {
@@ -300,6 +316,11 @@ export function boardUrl(fp: Fingerprint): string | null {
       return `https://${key}.bamboohr.com/careers`;
     case 'jazzhr':
       return `https://${key}.applytojob.com`;
+    case 'oracle': {
+      const [host, site] = key.split('/');
+      if (!host || !site) return null;
+      return `https://${host}/hcmUI/CandidateExperience/en/sites/${site}`;
+    }
     case 'deferred':
       return null;
   }
