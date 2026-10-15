@@ -207,3 +207,16 @@ describe('PoliteLimiter', () => {
     expect((starts[2] as number) - (starts[1] as number)).toBeGreaterThanOrEqual(25);
   });
 });
+
+
+describe('oracle probe', () => {
+  it('builds a limit=1 list request and classifies the markers', () => {
+    const target = { ats: 'oracle' as const, boardKey: 'eeho.fa.us2.oraclecloud.com/CX_45001' };
+    expect(probeRequest(target).url).toBe(
+      'https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=CX_45001,limit=1,offset=0,sortBy=POSTING_DATES_DESC',
+    );
+    expect(classifyProbe(target, 200, '{"items":[{"TotalJobsCount":12,"requisitionList":[]}]}').verdict).toBe('active');
+    expect(classifyProbe(target, 404, 'Not Found').verdict).toBe('drop');
+    expect(() => probeRequest({ ats: 'oracle', boardKey: 'evil.example.com/CX_1' })).toThrow(/oraclecloud\.com/);
+  });
+});

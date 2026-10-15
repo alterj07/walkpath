@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "TotalJobsCount": 15,
+      "requisitionList": [
+        {
+          "Id": "28075",
+          "Title": "Senior Staff/ Principal DevOps Engineer",
+          "PostedDate": "2026-09-23",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Shanghai, China",
+          "PrimaryLocationCountry": "CN",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "28054",
+          "Title": "Logistics Associate, Greater China",
+          "PostedDate": "2026-08-06",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Shanghai, China",
+          "PrimaryLocationCountry": "CN",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "28057",
+          "Title": "Art Director - Topps Trading Cards, China",
+          "PostedDate": "2026-08-06",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Shanghai, China",
+          "PrimaryLocationCountry": "CN",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Hong Kong",
+              "CountryCode": "HK"
+            }
+          ]
+        },
+        {
+          "Id": "28058",
+          "Title": "Associate Product Manager - Topps Trading Cards, China",
+          "PostedDate": "2026-08-06",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Shanghai, China",
+          "PrimaryLocationCountry": "CN",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "28059",
+          "Title": "Graphic Designer II - Topps Trading Card, China",
+          "PostedDate": "2026-08-06",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Shanghai, China",
+          "PrimaryLocationCountry": "CN",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        }
+      ]
+    }
+  ]
+}

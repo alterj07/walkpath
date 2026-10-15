@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "TotalJobsCount": 459,
+      "requisitionList": [
+        {
+          "Id": "26012881",
+          "Title": "Ejecutivo de Ventas y Prospección",
+          "PostedDate": "2026-10-10",
+          "PostingEndDate": null,
+          "PrimaryLocation": "CDMX, Mexico",
+          "PrimaryLocationCountry": "MX",
+          "WorkplaceType": "On-site",
+          "WorkplaceTypeCode": "ORA_ON_SITE",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "26008146",
+          "Title": "Manager-Risk Management",
+          "PostedDate": "2026-10-09",
+          "PostingEndDate": null,
+          "PrimaryLocation": "New York, NY, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "Hybrid",
+          "WorkplaceTypeCode": "ORA_HYBRID",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "26009713",
+          "Title": "Apprentice - Enterprise Technology Services",
+          "PostedDate": "2026-10-09",
+          "PostingEndDate": null,
+          "PrimaryLocation": "Bengaluru, KA, India",
+          "PrimaryLocationCountry": "IN",
+          "WorkplaceType": "Hybrid",
+          "WorkplaceTypeCode": "ORA_HYBRID",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Gurugram, HR, India",
+              "CountryCode": "IN"
+            },
+            {
+              "Name": "Chennai, TN, India",
+              "CountryCode": "IN"
+            }
+          ]
+        },
+        {
+          "Id": "26009972",
+          "Title": "Senior Manager - Personalization Strategy & Standards",
+          "PostedDate": "2026-10-09",
+          "PostingEndDate": null,
+          "PrimaryLocation": "New York, NY, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "Hybrid",
+          "WorkplaceTypeCode": "ORA_HYBRID",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": []
+        },
+        {
+          "Id": "26011295",
+          "Title": "Senior Manager-Digital Product Management",
+          "PostedDate": "2026-10-09",
+          "PostingEndDate": null,
+          "PrimaryLocation": "New York, NY, United States",
+          "PrimaryLocationCountry": "US",
+          "WorkplaceType": "Hybrid",
+          "WorkplaceTypeCode": "ORA_HYBRID",
+          "JobFamily": null,
+          "JobFunction": null,
+          "WorkerType": null,
+          "ContractType": null,
+          "JobType": null,
+          "StudyLevel": null,
+          "ShortDescriptionStr": "",
+          "ExternalQualificationsStr": null,
+          "ExternalResponsibilitiesStr": null,
+          "secondaryLocations": [
+            {
+              "Name": "Palo Alto, CA, United States",
+              "CountryCode": "US"
+            },
+            {
+              "Name": "Phoenix, AZ, United States",
+              "CountryCode": "US"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

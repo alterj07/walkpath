@@ -82,7 +82,7 @@ describe('fingerprintUrl', () => {
     expect(fingerprintUrl('https://acme.taleo.net/careersection/2/jobdetail.ftl')).toMatchObject({ ats: 'deferred', meta: { vendor: 'taleo' } });
     expect(fingerprintUrl('https://jobs.jobvite.com/careers/acme/job/abc')).toEqual({ ats: 'deferred', boardKey: 'acme', meta: { vendor: 'jobvite' } });
     expect(fingerprintUrl('https://jobs.acme.com/search/?q=intern')).toMatchObject({ ats: 'deferred', meta: { vendor: 'successfactors' } });
-    expect(fingerprintUrl('https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX')).toMatchObject({ meta: { vendor: 'oracle' } });
+    // Oracle Cloud HCM is a polled source now, not a deferred vendor; see the 'oracle cloud hcm' suite.
   });
 
   it('recognises an embedded Greenhouse job without a token as unresolved', () => {
@@ -154,5 +154,31 @@ describe('boardUrl', () => {
     );
     expect(boardUrl({ ats: 'greenhouse', boardKey: null })).toBeNull();
     expect(boardUrl({ ats: 'deferred', boardKey: 'x', meta: { vendor: 'icims' } })).toBeNull();
+  });
+});
+
+
+describe('oracle cloud hcm', () => {
+  it('fingerprints career-site and job urls to host/site', () => {
+    expect(fingerprintUrl('https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326677')).toEqual({
+      ats: 'oracle',
+      boardKey: 'eeho.fa.us2.oraclecloud.com/CX_45001',
+      meta: { host: 'eeho.fa.us2.oraclecloud.com', site: 'CX_45001', jobId: '326677' },
+    });
+    expect(fingerprintUrl('https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es-ES/sites/CX_1')).toEqual({
+      ats: 'oracle',
+      boardKey: 'fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/CX_1',
+      meta: { host: 'fa-exki-saasfaprod1.fa.ocs.oraclecloud.com', site: 'CX_1' },
+    });
+    expect(fingerprintUrl('https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/requisitions')?.boardKey).toBe(
+      'ibqbjb.fa.ocs.oraclecloud.com/Honeywell',
+    );
+    expect(fingerprintUrl('https://eeho.fa.us2.oraclecloud.com/')).toEqual({ ats: 'oracle', boardKey: null, meta: { host: 'eeho.fa.us2.oraclecloud.com' } });
+  });
+
+  it('boardUrl rebuilds the public career site', () => {
+    expect(boardUrl({ ats: 'oracle', boardKey: 'eeho.fa.us2.oraclecloud.com/CX_45001' })).toBe(
+      'https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001',
+    );
   });
 });
