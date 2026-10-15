@@ -1,0 +1,184 @@
+name: summarize
+
+# Drains the summary backlog with a small open model on GitHub-hosted runners (plan 4.8 "local
+# fallback"): no API key, no quota. Every 2 hours, offset from the crawl, a plan job counts the
+# records without a summary on the data branch and fans out up to 4 runners, each with its own
+# llama.cpp server. Each runner commits its summaries/<id>.json files to the data branch; the next
+# hourly publish folds them into the shards. Bounded on purpose: at most 4 × 55 min every 2 hours,
+# and only when there is a backlog. Disable with the repository variable LOCAL_LLM_ENABLED=false.
+
+on:
+  schedule:
+    - cron: '35 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      max_shards:
+        description: Upper bound on parallel runners (1-4)
+        default: '4'
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: summarize
+  cancel-in-progress: false
+
+env:
+  # Pinned llama.cpp release (ubuntu x64, CPU). Verify a new tag's archive sha256 before bumping.
+  LLAMA_TAG: b11541
+  LLAMA_SHA256: 36ca310be4405acb7ba59b32dbdce32bb9cd7b1ef95358997b7eaed2c6f0188b
+  # Qwen2.5-3B-Instruct, Q4_K_M quantization (Apache-2.0), ~2.0 GB. The sha256 is the file's
+  # content hash published by Hugging Face (x-linked-etag) and verified after download.
+  MODEL_REPO: Qwen/Qwen2.5-3B-Instruct-GGUF
+  MODEL_FILE: qwen2.5-3b-instruct-q4_k_m.gguf
+  MODEL_SHA256: 626b4a6678b86442240e33df819e00132d3ba7dddfe1cdc4fbb18e0a9615c62d
+
+jobs:
+  plan:
+    if: ${{ vars.LOCAL_LLM_ENABLED != 'false' && (github.event_name != 'schedule' || github.ref == 'refs/heads/main') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      shards: ${{ steps.count.outputs.shards }}
+      pending: ${{ steps.count.outputs.pending }}
+    steps:
+      - name: Check for the data branch
+        id: data-branch
+        run: |
+          if git ls-remote --exit-code --heads "https://github.com/${GITHUB_REPOSITORY}.git" data >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::no data branch yet; nothing to summarize"
+          fi
+      - name: Check out the data branch
+        if: ${{ steps.data-branch.outputs.exists == 'true' }}
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          ref: data
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Count records without a summary
+        id: count
+        env:
+          MAX_SHARDS: ${{ github.event.inputs.max_shards || '4' }}
+        run: |
+          if [ "${{ steps.data-branch.outputs.exists }}" != "true" ]; then
+            echo "shards=0" >> "$GITHUB_OUTPUT"; echo "pending=0" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          pending=$(node -e '
+            const fs = require("node:fs");
+            let n = 0;
+            for (const sub of ["jobs", "pending"]) {
+              if (!fs.existsSync(sub)) continue;
+              for (const f of fs.readdirSync(sub)) {
+                if (!/^[0-9a-f]{2}\.json$/.test(f)) continue;
+                for (const r of Object.values(JSON.parse(fs.readFileSync(`${sub}/${f}`, "utf8")))) {
+                  if (r && r.summary === null && r.closed_at === null) n++;
+                }
+              }
+            }
+            const done = fs.existsSync("summaries") ? fs.readdirSync("summaries").length : 0;
+            console.log(Math.max(0, n - done));
+          ')
+          max=$(( MAX_SHARDS < 1 ? 1 : (MAX_SHARDS > 4 ? 4 : MAX_SHARDS) ))
+          # One runner per ~400 pending summaries, up to the cap; zero when nothing is pending.
+          shards=$(( (pending + 399) / 400 ))
+          [ "$shards" -gt "$max" ] && shards=$max
+          echo "pending=$pending" >> "$GITHUB_OUTPUT"
+          echo "shards=$shards" >> "$GITHUB_OUTPUT"
+          echo "pending=$pending shards=$shards"
+
+  summarize:
+    needs: plan
+    if: ${{ needs.plan.outputs.shards != '0' && needs.plan.outputs.shards != '' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.shards == '1' && '[0]' || needs.plan.outputs.shards == '2' && '[0,1]' || needs.plan.outputs.shards == '3' && '[0,1,2]' || '[0,1,2,3]') }}
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Check out the data branch
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          ref: data
+          path: data
+          fetch-depth: 1
+      - name: Restore llama.cpp and the model from the cache
+        id: cache
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: |
+            llm/llama.tar.gz
+            llm/model.gguf
+          key: llm-${{ env.LLAMA_TAG }}-${{ env.MODEL_SHA256 }}
+      - name: Download llama.cpp and the model
+        if: ${{ steps.cache.outputs.cache-hit != 'true' }}
+        run: |
+          mkdir -p llm
+          curl -fsSL --retry 3 -o llm/llama.tar.gz \
+            "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_TAG}/llama-${LLAMA_TAG}-bin-ubuntu-x64.tar.gz"
+          curl -fsSL --retry 3 -o llm/model.gguf \
+            "https://huggingface.co/${MODEL_REPO}/resolve/main/${MODEL_FILE}"
+      - name: Verify checksums
+        run: |
+          echo "${LLAMA_SHA256}  llm/llama.tar.gz" | sha256sum -c -
+          echo "${MODEL_SHA256}  llm/model.gguf" | sha256sum -c -
+      - name: Save llama.cpp and the model to the cache
+        if: ${{ steps.cache.outputs.cache-hit != 'true' }}
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: |
+            llm/llama.tar.gz
+            llm/model.gguf
+          key: llm-${{ env.LLAMA_TAG }}-${{ env.MODEL_SHA256 }}
+      - name: Start llama-server
+        run: |
+          mkdir -p llm/bin && tar -xzf llm/llama.tar.gz -C llm/bin
+          bin="$(find llm/bin -name llama-server -type f | head -1)"
+          test -x "$bin"
+          nohup "$bin" -m llm/model.gguf -c 4096 -t 4 --port 8080 --host 127.0.0.1 --jinja \
+            --no-webui > llm/server.log 2>&1 &
+          for i in $(seq 1 90); do
+            if curl -fsS http://127.0.0.1:8080/health >/dev/null 2>&1; then echo "server up after ${i}x2s"; exit 0; fi
+            sleep 2
+          done
+          echo "::error::llama-server did not become healthy"; tail -20 llm/server.log; exit 1
+      - name: Summarize this shard
+        run: >
+          node packages/pipeline/scripts/summarize-local.ts
+          --data data --out data
+          --shard ${{ matrix.shard }}/${{ needs.plan.outputs.shards }}
+          --deadline-min 45 --max 400
+      - name: Commit the summaries to the data branch
+        run: |
+          cd data
+          git add -A summaries
+          if ! git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+               commit -q -m "chore(data): local summaries shard ${{ matrix.shard }} run ${{ github.run_id }}"; then
+            echo "nothing to commit"; exit 0
+          fi
+          # Files are unique per job id, so a rebase onto a sibling shard's commit never conflicts.
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase -q origin data && git push -q origin HEAD:data; then
+              echo "pushed on attempt $attempt"; exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "::error::could not push the summaries after 5 attempts"; exit 1
+      - name: Server log tail (counts only)
+        if: ${{ always() }}
+        run: grep -cE "prompt eval|eval time" llm/server.log || true

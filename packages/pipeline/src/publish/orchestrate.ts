@@ -15,6 +15,7 @@ import { MetaSchema, toIndexRow, type CompaniesFile, type IndexFile, type Meta }
 import { applyEvents, buildGroupIndex, buildUrlIndex, combinedGate, llmGateVerdict, type GroupedEntry, type HeldEntry, type MergeResult } from './merge.ts';
 import { buildPagesList } from './pages.ts';
 import { openStore, type Store } from './store.ts';
+import { applySummaryFiles, type ApplySummaryFilesResult } from './summary-files.ts';
 
 /**
  * The publish job (plan 4.4, 8.1): merge the crawl artifacts into the data-branch store,
@@ -88,6 +89,8 @@ export interface PublishResult {
   artifacts_read: number;
   /** Artifacts present but failing the crawl report schema; skipped, their closures withheld. */
   artifacts_invalid: number;
+  /** Summaries folded in from `summaries/*.json` (written by the local-model runner). */
+  summaries_from_files: ApplySummaryFilesResult;
   /** Latency samples dropped because they exceeded LATENCY_MAX_MIN (first-crawl backfill). */
   latency_excluded: number;
   merge: MergeResult['counts'] & { published: number; updated: number; closed: number; reopened: number; ambiguous: number };
@@ -181,6 +184,44 @@ interface Context {
   publishedByLlm: JobRecord[];
 }
 
+/**
+ * The one place a summary enters the stores: enrichment for published records, the LLM gate for
+ * pending (ambiguous) ones. Shared by the in-process provider chain and the summary files that
+ * the local-model runner commits to the data branch.
+ */
+function makeSaveSummary(ctx: Context): (jobId: string, summary: JobSummary, output: SummaryOutput) => Promise<void> {
+  const { db, store, pending } = ctx;
+  return async (jobId, summary, output) => {
+    const inStore = await store.get(jobId);
+    if (inStore) {
+      await store.put(enrichFromSummary({ ...inStore, summary }, output));
+      return;
+    }
+    const waiting = await pending.get(jobId);
+    if (!waiting) return;
+    const verdict = llmGateVerdict(output);
+    const key = db.getJobById(jobId)?.canonical_key;
+    if (verdict === 'wait') {
+      await pending.put({ ...waiting, summary });
+      ctx.llmGate.waiting += 1;
+      if (key) db.setGate(key, 'pending', 'llm');
+      return;
+    }
+    await pending.delete(jobId);
+    // The verdict is recorded per canonical key so the same content is never re-summarized.
+    if (key) db.setGate(key, verdict === 'drop' ? 'not_tech' : 'tech_intern', 'llm');
+    if (verdict === 'drop') {
+      ctx.llmGate.dropped += 1;
+      return;
+    }
+    const family = output.role_family === 'not_tech' ? waiting.role_family : output.role_family;
+    const record = enrichFromSummary({ ...waiting, summary, role_family: family, closed_at: null }, output);
+    await store.put(record);
+    ctx.llmGate.published += 1;
+    ctx.publishedByLlm.push(record);
+  };
+}
+
 async function runSummaries(ctx: Context, summarizer: Summarizer): Promise<DrainResult> {
   const { db, store, pending } = ctx;
   return drainSummaryQueue({
@@ -196,35 +237,7 @@ async function runSummaries(ctx: Context, summarizer: Summarizer): Promise<Drain
       const location = [record.location.city, record.location.state].filter(Boolean).join(', ') || record.location.raw;
       return { job_id: jobId, title: record.title_raw, company: record.company.name, location, descriptionHtml: record.description_html };
     },
-    saveSummary: async (jobId, summary: JobSummary, output) => {
-      const inStore = await store.get(jobId);
-      if (inStore) {
-        await store.put(enrichFromSummary({ ...inStore, summary }, output));
-        return;
-      }
-      const waiting = await pending.get(jobId);
-      if (!waiting) return;
-      const verdict = llmGateVerdict(output);
-      const key = db.getJobById(jobId)?.canonical_key;
-      if (verdict === 'wait') {
-        await pending.put({ ...waiting, summary });
-        ctx.llmGate.waiting += 1;
-        if (key) db.setGate(key, 'pending', 'llm');
-        return;
-      }
-      await pending.delete(jobId);
-      // The verdict is recorded per canonical key so the same content is never re-summarized.
-      if (key) db.setGate(key, verdict === 'drop' ? 'not_tech' : 'tech_intern', 'llm');
-      if (verdict === 'drop') {
-        ctx.llmGate.dropped += 1;
-        return;
-      }
-      const family = output.role_family === 'not_tech' ? waiting.role_family : output.role_family;
-      const record = enrichFromSummary({ ...waiting, summary, role_family: family, closed_at: null }, output);
-      await store.put(record);
-      ctx.llmGate.published += 1;
-      ctx.publishedByLlm.push(record);
-    },
+    saveSummary: makeSaveSummary(ctx),
   });
 }
 
@@ -294,6 +307,7 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
         run_id: runId,
         artifacts_read: 0,
         artifacts_invalid: 0,
+        summaries_from_files: { files: 0, applied: 0, invalid: 0, hash_mismatch: 0, missing: 0 },
         latency_excluded: 0,
         merge: { ...emptyMerge, published: 0, updated: 0, closed: 0, reopened: 0, ambiguous: 0 },
         llm: null,
@@ -369,6 +383,23 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
     // 2. Regate (dispatch mode) re-runs the rules over everything stored; no LLM.
     let regated: PublishResult['regated'] = null;
     if (opts.mode === 'regate') regated = await regate(ctx);
+
+    // 2b. Summaries produced elsewhere (the local-model runner commits `summaries/<id>.json` to the
+    // data branch): fold them in through the same save path, then remove the files. Idempotent.
+    const save = makeSaveSummary(ctx);
+    const summariesFromFiles = await applySummaryFiles({
+      dataDir: opts.dataDir,
+      store,
+      pending,
+      apply: async (jobId, summary, output) => {
+        await save(jobId, summary, output);
+        db.removeSummary(jobId);
+      },
+      log,
+    });
+    const publishedFromFiles = ctx.publishedByLlm.splice(0);
+    newThisRun.push(...publishedFromFiles);
+    alertable.push(...publishedFromFiles);
 
     // 3. Summaries through the provider chain; ambiguous records get their LLM gate here.
     let llm: DrainResult | null = null;
@@ -502,6 +533,7 @@ export async function publish(opts: PublishOptions): Promise<PublishResult> {
       run_id: runId,
       artifacts_read: reports.length,
       artifacts_invalid: artifactsInvalid,
+      summaries_from_files: summariesFromFiles,
       latency_excluded: latencyExcluded,
       merge: mergeTotals,
       llm,
