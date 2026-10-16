@@ -72,7 +72,7 @@ jobs:
           --deadline-min 40
       - name: Upload diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: diff-api
           path: out/diff-api.json
@@ -123,7 +123,7 @@ jobs:
           --shard "$((10#$(date -u +%H) % 2))/2"
       - name: Upload diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: diff-lever
           path: out/diff-lever.json
@@ -172,7 +172,7 @@ jobs:
           --deadline-min 30
       - name: Upload diff artifact
         if: ${{ env.CRAWL_MODE != 'regate' }}
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: diff-workday
           path: out/diff-workday.json
@@ -282,7 +282,7 @@ jobs:
           key: state-publish-${{ github.run_id }}
       - name: Upload meta.json (cron-drift study, plan 12.3 #6)
         if: ${{ always() }}
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: meta
           path: data/meta.json
