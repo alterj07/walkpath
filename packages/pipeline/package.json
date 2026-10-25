@@ -9,7 +9,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "sanitize-html": "2.18.0",
+    "sanitize-html": "2.18.1",
     "zod": "4.6.5"
   },
   "devDependencies": {
